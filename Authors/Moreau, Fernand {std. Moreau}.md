@@ -6,7 +6,7 @@ tl2_surname: Moreau
 tl2_forenames: Fernand
 tl2_name_abbrev: Moreau
 tl2_dates: 1886-1980
-tl2_page_id: 33355663
+tl2_bhl_page_id: 33355663
 author_lsid: 23618-1
 wikidata_id: Q21392512
 ipni_surname: Moreau
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33355663) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23618-1), [Wikidata](https://www.wikidata.org/wiki/Q21392512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23618-1) LSID 23618-1, [Wikidata](https://www.wikidata.org/wiki/Q21392512) QID Q21392512
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

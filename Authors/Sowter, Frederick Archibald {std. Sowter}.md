@@ -6,7 +6,7 @@ tl2_surname: Sowter
 tl2_forenames: Frederick Archibald
 tl2_name_abbrev: Sowter
 tl2_dates: 1899-1972
-tl2_page_id: 33333903
+tl2_bhl_page_id: 33333903
 author_lsid: 9936-1
 wikidata_id: Q21341677
 ipni_surname: Sowter
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33333903) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9936-1), [Wikidata](https://www.wikidata.org/wiki/Q21341677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9936-1) LSID 9936-1, [Wikidata](https://www.wikidata.org/wiki/Q21341677) QID Q21341677
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

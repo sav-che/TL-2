@@ -6,7 +6,7 @@ tl2_surname: Went
 tl2_forenames: Friedrich August Ferdinand Christian
 tl2_name_abbrev: Went
 tl2_dates: 1863-1935
-tl2_page_id: 33066525
+tl2_bhl_page_id: 33066525
 author_lsid: 11554-1
 wikidata_id: Q1465275
 ipni_surname: Went
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33066525) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11554-1), [Wikidata](https://www.wikidata.org/wiki/Q1465275). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11554-1) LSID 11554-1, [Wikidata](https://www.wikidata.org/wiki/Q1465275) QID Q1465275
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Russegger
 tl2_forenames: Joseph von
 tl2_name_abbrev: Russegger
 tl2_dates: 1802-1863
-tl2_page_id: 33190472
+tl2_bhl_page_id: 33190472
 author_lsid: 8751-1
 wikidata_id: Q668522
 ipni_surname: Russegger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33190472) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8751-1), [Wikidata](https://www.wikidata.org/wiki/Q668522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8751-1) LSID 8751-1, [Wikidata](https://www.wikidata.org/wiki/Q668522) QID Q668522
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

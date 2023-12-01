@@ -6,7 +6,7 @@ tl2_surname: Durand-Duquesney
 tl2_forenames: Jean Victor
 tl2_name_abbrev: Dur.-Duq.
 tl2_dates: 1785-1862
-tl2_page_id: 33260176
+tl2_bhl_page_id: 33260176
 author_lsid: 2401-1
 wikidata_id: Q21393613
 ipni_surname: Durand-Duquesney
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33260176) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2401-1), [Wikidata](https://www.wikidata.org/wiki/Q21393613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2401-1) LSID 2401-1, [Wikidata](https://www.wikidata.org/wiki/Q21393613) QID Q21393613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

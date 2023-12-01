@@ -6,7 +6,7 @@ tl2_surname: Masson
 tl2_forenames: Francis
 tl2_name_abbrev: Masson
 tl2_dates: 1741-1805
-tl2_page_id: 33355448
+tl2_bhl_page_id: 33355448
 author_lsid: 6205-1
 wikidata_id: Q926159
 ipni_surname: Masson
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:34:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33355448) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6205-1), [Wikidata](https://www.wikidata.org/wiki/Q926159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6205-1) LSID 6205-1, [Wikidata](https://www.wikidata.org/wiki/Q926159) QID Q926159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dallière
 tl2_forenames: Alexis
 tl2_name_abbrev: Dallière
 tl2_dates: 1823-1901
-tl2_page_id: 33259077
+tl2_bhl_page_id: 33259077
 author_lsid: 13932-1
 wikidata_id: Q16528524
 ipni_surname: Dallière
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259077) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/13932-1), [Wikidata](https://www.wikidata.org/wiki/Q16528524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13932-1) LSID 13932-1, [Wikidata](https://www.wikidata.org/wiki/Q16528524) QID Q16528524
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

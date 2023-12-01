@@ -6,7 +6,7 @@ tl2_surname: Pena
 tl2_forenames: Pierre
 tl2_name_abbrev: Pena
 tl2_dates: fl. 1520-1600
-tl2_page_id: 33189620
+tl2_bhl_page_id: 33189620
 author_lsid: 7480-1
 wikidata_id: Q647384
 ipni_surname: Pena
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7480-1), [Wikidata](https://www.wikidata.org/wiki/Q647384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7480-1) LSID 7480-1, [Wikidata](https://www.wikidata.org/wiki/Q647384) QID Q647384
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: P'ei Chien
 tl2_forenames: Pei Chien
 tl2_name_abbrev: P'ei
 tl2_dates: 1903-x
-tl2_page_id: 33189616
+tl2_bhl_page_id: 33189616
 author_lsid: 36951-1
 wikidata_id: Q21522764
 ipni_surname: Pei
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33189616) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/36951-1), [Wikidata](https://www.wikidata.org/wiki/Q21522764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/36951-1) LSID 36951-1, [Wikidata](https://www.wikidata.org/wiki/Q21522764) QID Q21522764
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

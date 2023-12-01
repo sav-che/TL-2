@@ -6,7 +6,7 @@ tl2_surname: Oakes
 tl2_forenames: William
 tl2_name_abbrev: Oakes
 tl2_dates: 1799-1848
-tl2_page_id: 33355886
+tl2_bhl_page_id: 33355886
 author_lsid: 24233-1
 wikidata_id: Q3568858
 ipni_surname: Oakes
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:34:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24233-1), [Wikidata](https://www.wikidata.org/wiki/Q3568858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24233-1) LSID 24233-1, [Wikidata](https://www.wikidata.org/wiki/Q3568858) QID Q3568858
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

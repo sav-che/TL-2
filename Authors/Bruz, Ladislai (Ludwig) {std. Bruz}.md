@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0167
 tl2_volume: suppl3
 tl2_page_printed: 168
 tl2_surname: Bruz
-tl2_forenames: Ladislai [Ludwig]
+tl2_forenames: Ladislai (Ludwig)
 tl2_name_abbrev: Bruz
 tl2_dates: fl. 1775
-tl2_page_id: 33266475
+tl2_bhl_page_id: 33266475
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33266475) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

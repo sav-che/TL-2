@@ -6,7 +6,7 @@ tl2_surname: Beauvisage
 tl2_forenames: Georges Eugène Charles
 tl2_name_abbrev: Beauvis.
 tl2_dates: 1852-1925
-tl2_page_id: 33265205
+tl2_bhl_page_id: 33265205
 author_lsid: 591-1
 wikidata_id: Q3102691
 ipni_surname: Beauvisage
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265205) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/591-1), [Wikidata](https://www.wikidata.org/wiki/Q3102691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/591-1) LSID 591-1, [Wikidata](https://www.wikidata.org/wiki/Q3102691) QID Q3102691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

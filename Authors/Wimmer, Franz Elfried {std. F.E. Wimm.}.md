@@ -6,7 +6,7 @@ tl2_surname: Wimmer
 tl2_forenames: Franz Elfried
 tl2_name_abbrev: F.E. Wimm.
 tl2_dates: 1881-1961
-tl2_page_id: 33066698
+tl2_bhl_page_id: 33066698
 author_lsid: 11752-1
 wikidata_id: Q90276
 ipni_surname: Wimmer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33066698) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11752-1), [Wikidata](https://www.wikidata.org/wiki/Q90276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11752-1) LSID 11752-1, [Wikidata](https://www.wikidata.org/wiki/Q90276) QID Q90276
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

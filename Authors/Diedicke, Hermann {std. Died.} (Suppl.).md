@@ -6,7 +6,7 @@ tl2_surname: Diedicke
 tl2_forenames: Hermann
 tl2_name_abbrev: Died.
 tl2_dates: 1865-1940
-tl2_page_id: 33259341
+tl2_bhl_page_id: 33259341
 author_lsid: 18028-1
 wikidata_id: Q21392335
 ipni_surname: Diedicke
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33259341) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18028-1), [Wikidata](https://www.wikidata.org/wiki/Q21392335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18028-1) LSID 18028-1, [Wikidata](https://www.wikidata.org/wiki/Q21392335) QID Q21392335
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Diedicke, Hermann {std. Died.}|first entry]] for this author
 

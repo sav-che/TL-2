@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl6_0410
 tl2_volume: suppl6
 tl2_page_printed: 409
 tl2_surname: Errera
-tl2_forenames: Léo[-Abram]
+tl2_forenames: Léo(-Abram)
 tl2_name_abbrev: Errera
 tl2_dates: 1858-1905
-tl2_page_id: 33260397
+tl2_bhl_page_id: 33260397
 author_lsid: 13063-1
 wikidata_id: Q1879380
 ipni_surname: Errera
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33260397) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/13063-1), [Wikidata](https://www.wikidata.org/wiki/Q1879380). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13063-1) LSID 13063-1, [Wikidata](https://www.wikidata.org/wiki/Q1879380) QID Q1879380
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Errera, Leo (-Abram) {std. Errera}|first entry]] for this author
 

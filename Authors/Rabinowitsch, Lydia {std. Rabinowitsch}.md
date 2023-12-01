@@ -6,7 +6,7 @@ tl2_surname: Rabinowitsch
 tl2_forenames: Lydia
 tl2_name_abbrev: Rabinowitsch
 tl2_dates: 1871-1935
-tl2_page_id: 33189944
+tl2_bhl_page_id: 33189944
 author_lsid: 8069-1
 wikidata_id: Q111057
 ipni_surname: Rabinowitsch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8069-1), [Wikidata](https://www.wikidata.org/wiki/Q111057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8069-1) LSID 8069-1, [Wikidata](https://www.wikidata.org/wiki/Q111057) QID Q111057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

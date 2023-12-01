@@ -6,7 +6,7 @@ tl2_surname: Jahandiez
 tl2_forenames: Émile
 tl2_name_abbrev: Jahand.
 tl2_dates: 1876-1938
-tl2_page_id: 33068659
+tl2_bhl_page_id: 33068659
 author_lsid: 4398-1
 wikidata_id: Q2754091
 ipni_surname: Jahandiez
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:29:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33068659) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4398-1), [Wikidata](https://www.wikidata.org/wiki/Q2754091). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4398-1) LSID 4398-1, [Wikidata](https://www.wikidata.org/wiki/Q2754091) QID Q2754091
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

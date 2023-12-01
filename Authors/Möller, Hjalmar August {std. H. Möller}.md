@@ -6,7 +6,7 @@ tl2_surname: Möller
 tl2_forenames: Hjalmar August
 tl2_name_abbrev: H. Möller
 tl2_dates: 1866-1941
-tl2_page_id: 33355621
+tl2_bhl_page_id: 33355621
 author_lsid: 6547-1
 wikidata_id: Q6001018
 ipni_surname: Möller
@@ -25,7 +25,8 @@ ipni_record_modified: 2007-07-16 11:09:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33355621) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6547-1), [Wikidata](https://www.wikidata.org/wiki/Q6001018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6547-1) LSID 6547-1, [Wikidata](https://www.wikidata.org/wiki/Q6001018) QID Q6001018
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

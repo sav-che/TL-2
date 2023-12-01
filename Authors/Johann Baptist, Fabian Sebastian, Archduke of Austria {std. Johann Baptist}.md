@@ -6,7 +6,7 @@ tl2_surname: Johann Baptist
 tl2_forenames: Fabian Sebastian, Archduke of Austria
 tl2_name_abbrev: Johann Baptist
 tl2_dates: 1782-1859
-tl2_page_id: 33068688
+tl2_bhl_page_id: 33068688
 author_lsid: 4500-1
 wikidata_id: Q21517043
 ipni_surname: Johann Baptist
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33068688) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4500-1), [Wikidata](https://www.wikidata.org/wiki/Q21517043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4500-1) LSID 4500-1, [Wikidata](https://www.wikidata.org/wiki/Q21517043) QID Q21517043
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

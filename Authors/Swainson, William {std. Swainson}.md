@@ -6,7 +6,7 @@ tl2_surname: Swainson
 tl2_forenames: William
 tl2_name_abbrev: Swainson
 tl2_dates: 1789-1855
-tl2_page_id: 33212153
+tl2_bhl_page_id: 33212153
 author_lsid: 10330-1
 wikidata_id: Q444164
 ipni_surname: Swainson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33212153) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10330-1), [Wikidata](https://www.wikidata.org/wiki/Q444164). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10330-1) LSID 10330-1, [Wikidata](https://www.wikidata.org/wiki/Q444164) QID Q444164
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

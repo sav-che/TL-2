@@ -6,7 +6,7 @@ tl2_surname: Mangin
 tl2_forenames: Arthur
 tl2_name_abbrev: A. Mangin
 tl2_dates: 1824-1887
-tl2_page_id: 33355362
+tl2_bhl_page_id: 33355362
 author_lsid: 6064-1
 wikidata_id: Q20081059
 ipni_surname: Mangin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6064-1), [Wikidata](https://www.wikidata.org/wiki/Q20081059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6064-1) LSID 6064-1, [Wikidata](https://www.wikidata.org/wiki/Q20081059) QID Q20081059
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

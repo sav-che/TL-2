@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0833
 tl2_volume: vol4
 tl2_page_printed: 824
 tl2_surname: Rock
-tl2_forenames: Joseph Francis Charles [until 1933 Joseph Franz Karl]
+tl2_forenames: Joseph Francis Charles (until 1933 Joseph Franz Karl)
 tl2_name_abbrev: Rock
 tl2_dates: 1884-1962
-tl2_page_id: 33190295
+tl2_bhl_page_id: 33190295
 author_lsid: 8474-1
 wikidata_id: Q78631
 ipni_surname: Rock
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:25:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33190295) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8474-1), [Wikidata](https://www.wikidata.org/wiki/Q78631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8474-1) LSID 8474-1, [Wikidata](https://www.wikidata.org/wiki/Q78631) QID Q78631
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

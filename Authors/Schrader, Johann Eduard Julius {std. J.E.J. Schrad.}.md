@@ -6,7 +6,7 @@ tl2_surname: Schrader
 tl2_forenames: Johann Eduard Julius
 tl2_name_abbrev: J.E.J. Schrad.
 tl2_dates: 1809-1898
-tl2_page_id: 33333460
+tl2_bhl_page_id: 33333460
 author_lsid: 9249-1
 wikidata_id: Q21608403
 ipni_surname: Schrader
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9249-1), [Wikidata](https://www.wikidata.org/wiki/Q21608403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9249-1) LSID 9249-1, [Wikidata](https://www.wikidata.org/wiki/Q21608403) QID Q21608403
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

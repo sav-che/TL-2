@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0443
 tl2_volume: vol3
 tl2_page_printed: 386
-tl2_surname: Mayebara [Maehara]
+tl2_surname: Mayebara (Maehara)
 tl2_forenames: Kanjiro
 tl2_name_abbrev: Mayebara
 tl2_dates: fl. 1931-1955
-tl2_page_id: 33355473
+tl2_bhl_page_id: 33355473
 author_lsid: 23098-1
 wikidata_id: Q21520167
 ipni_surname: Mayebara
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33355473) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23098-1), [Wikidata](https://www.wikidata.org/wiki/Q21520167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23098-1) LSID 23098-1, [Wikidata](https://www.wikidata.org/wiki/Q21520167) QID Q21520167
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lucae
 tl2_forenames: August Friedrich Theodor
 tl2_name_abbrev: Lucae
 tl2_dates: 1800-1848
-tl2_page_id: 33355266
+tl2_bhl_page_id: 33355266
 author_lsid: 5792-1
 wikidata_id: Q21519556
 ipni_surname: Lucae
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5792-1), [Wikidata](https://www.wikidata.org/wiki/Q21519556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5792-1) LSID 5792-1, [Wikidata](https://www.wikidata.org/wiki/Q21519556) QID Q21519556
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

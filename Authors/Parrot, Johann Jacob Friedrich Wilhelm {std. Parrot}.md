@@ -6,7 +6,7 @@ tl2_surname: Parrot
 tl2_forenames: Johann Jacob Friedrich Wilhelm
 tl2_name_abbrev: Parrot
 tl2_dates: 1792-1841
-tl2_page_id: 33189549
+tl2_bhl_page_id: 33189549
 author_lsid: 7368-1
 wikidata_id: Q707716
 ipni_surname: Parrot
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33189549) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7368-1), [Wikidata](https://www.wikidata.org/wiki/Q707716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7368-1) LSID 7368-1, [Wikidata](https://www.wikidata.org/wiki/Q707716) QID Q707716
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lasch
 tl2_forenames: Wilhelm Gottfried
 tl2_name_abbrev: Lasch
 tl2_dates: 1787-1863
-tl2_page_id: 33069003
+tl2_bhl_page_id: 33069003
 author_lsid: 22078-1
 wikidata_id: Q4255445
 ipni_surname: Lasch
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:44:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33069003) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22078-1), [Wikidata](https://www.wikidata.org/wiki/Q4255445). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22078-1) LSID 22078-1, [Wikidata](https://www.wikidata.org/wiki/Q4255445) QID Q4255445
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

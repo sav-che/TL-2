@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0948
 tl2_volume: vol2
 tl2_page_printed: 805
 tl2_surname: Ledebour
-tl2_forenames: Carl [Karl] Friedrich von
+tl2_forenames: Carl (Karl) Friedrich von
 tl2_name_abbrev: Ledeb.
 tl2_dates: 1785-1851
-tl2_page_id: 33069047
+tl2_bhl_page_id: 33069047
 author_lsid: 5393-1
 wikidata_id: Q64544
 ipni_surname: Ledebour
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33069047) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5393-1), [Wikidata](https://www.wikidata.org/wiki/Q64544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5393-1) LSID 5393-1, [Wikidata](https://www.wikidata.org/wiki/Q64544) QID Q64544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

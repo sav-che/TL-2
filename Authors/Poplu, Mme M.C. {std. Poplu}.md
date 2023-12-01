@@ -6,7 +6,7 @@ tl2_surname: Poplu
 tl2_forenames: Mme M.C.
 tl2_name_abbrev: Poplu
 tl2_dates: fl. 1873
-tl2_page_id: 33189809
+tl2_bhl_page_id: 33189809
 author_lsid: 7845-1
 wikidata_id: Q36633773
 ipni_surname: Poplu
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7845-1), [Wikidata](https://www.wikidata.org/wiki/Q36633773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7845-1) LSID 7845-1, [Wikidata](https://www.wikidata.org/wiki/Q36633773) QID Q36633773
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

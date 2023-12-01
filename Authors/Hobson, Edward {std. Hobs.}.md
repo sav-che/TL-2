@@ -6,7 +6,7 @@ tl2_surname: Hobson
 tl2_forenames: Edward
 tl2_name_abbrev: Hobs.
 tl2_dates: 1782-1830
-tl2_page_id: 33068461
+tl2_bhl_page_id: 33068461
 author_lsid: 34851-1
 wikidata_id: Q5343470
 ipni_surname: Hobson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/34851-1), [Wikidata](https://www.wikidata.org/wiki/Q5343470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34851-1) LSID 34851-1, [Wikidata](https://www.wikidata.org/wiki/Q5343470) QID Q5343470
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

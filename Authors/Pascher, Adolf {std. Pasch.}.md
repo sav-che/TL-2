@@ -6,7 +6,7 @@ tl2_surname: Pascher
 tl2_forenames: Adolf
 tl2_name_abbrev: Pasch.
 tl2_dates: 1881-1945
-tl2_page_id: 33189555
+tl2_bhl_page_id: 33189555
 author_lsid: 24578-1
 wikidata_id: Q931532
 ipni_surname: Pascher
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:47:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24578-1), [Wikidata](https://www.wikidata.org/wiki/Q931532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24578-1) LSID 24578-1, [Wikidata](https://www.wikidata.org/wiki/Q931532) QID Q931532
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pfeffer
 tl2_forenames: Wilhelm Friedrich Philipp
 tl2_name_abbrev: Pfeff.
 tl2_dates: 1845-1920
-tl2_page_id: 33189689
+tl2_bhl_page_id: 33189689
 author_lsid: 24799-1
 wikidata_id: Q62767
 ipni_surname: Pfeffer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33189689) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24799-1), [Wikidata](https://www.wikidata.org/wiki/Q62767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24799-1) LSID 24799-1, [Wikidata](https://www.wikidata.org/wiki/Q62767) QID Q62767
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

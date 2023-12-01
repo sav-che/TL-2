@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0516
 tl2_volume: vol2
 tl2_page_printed: 452
 tl2_surname: Johow
-tl2_forenames: Friedrich [Federico] Richard Adalbert
+tl2_forenames: Friedrich (Federico) Richard Adalbert
 tl2_name_abbrev: Johow
 tl2_dates: 1859-1933
-tl2_page_id: 33068694
+tl2_bhl_page_id: 33068694
 author_lsid: 12583-1
 wikidata_id: Q4354679
 ipni_surname: Johow
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:54:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33068694) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12583-1), [Wikidata](https://www.wikidata.org/wiki/Q4354679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12583-1) LSID 12583-1, [Wikidata](https://www.wikidata.org/wiki/Q4354679) QID Q4354679
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

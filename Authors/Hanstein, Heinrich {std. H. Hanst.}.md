@@ -6,7 +6,7 @@ tl2_surname: Hanstein
 tl2_forenames: Heinrich
 tl2_name_abbrev: H. Hanst.
 tl2_dates: 1825-1871
-tl2_page_id: 33068290
+tl2_bhl_page_id: 33068290
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33068290) of TL-2 Vol. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

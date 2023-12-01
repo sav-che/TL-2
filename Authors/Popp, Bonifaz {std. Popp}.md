@@ -6,7 +6,7 @@ tl2_surname: Popp
 tl2_forenames: Bonifaz
 tl2_name_abbrev: Popp
 tl2_dates: x-1892
-tl2_page_id: 33189810
+tl2_bhl_page_id: 33189810
 author_lsid: 7853-1
 wikidata_id: Q21523111
 ipni_surname: Popp
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7853-1), [Wikidata](https://www.wikidata.org/wiki/Q21523111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7853-1) LSID 7853-1, [Wikidata](https://www.wikidata.org/wiki/Q21523111) QID Q21523111
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

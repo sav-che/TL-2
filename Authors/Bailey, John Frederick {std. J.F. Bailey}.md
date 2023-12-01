@@ -6,7 +6,7 @@ tl2_surname: Bailey
 tl2_forenames: John Frederick
 tl2_name_abbrev: J.F. Bailey
 tl2_dates: 1866-1938
-tl2_page_id: 33264992
+tl2_bhl_page_id: 33264992
 author_lsid: 13245-1
 wikidata_id: Q17064297
 ipni_surname: Bailey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/13245-1), [Wikidata](https://www.wikidata.org/wiki/Q17064297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13245-1) LSID 13245-1, [Wikidata](https://www.wikidata.org/wiki/Q17064297) QID Q17064297
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

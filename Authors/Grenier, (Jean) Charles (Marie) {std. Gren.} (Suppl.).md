@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0262
 tl2_volume: suppl8
 tl2_page_printed: 371
 tl2_surname: Grenier
-tl2_forenames: [Jean] Charles [Marie]
+tl2_forenames: (Jean) Charles (Marie)
 tl2_name_abbrev: Gren.
 tl2_dates: 1808-1875
-tl2_page_id: 33258849
+tl2_bhl_page_id: 33258849
 author_lsid: 3375-1
 wikidata_id: Q2422955
 ipni_surname: Grenier
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33258849) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3375-1), [Wikidata](https://www.wikidata.org/wiki/Q2422955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3375-1) LSID 3375-1, [Wikidata](https://www.wikidata.org/wiki/Q2422955) QID Q2422955
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Grenier, Jean Charles Marie {std. Gren.}|first entry]] for this author
 

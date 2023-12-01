@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0033
 tl2_volume: suppl8
 tl2_page_printed: 59
 tl2_surname: Fritsch
-tl2_forenames: Karl [Carl] Wilhelm Georg (Freiherr) von
+tl2_forenames: Karl (Carl) Wilhelm Georg (Freiherr) von
 tl2_name_abbrev: K.W.G. Fritsch
 tl2_dates: 1838-1906
-tl2_page_id: 33258499
+tl2_bhl_page_id: 33258499
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33258499) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

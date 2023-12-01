@@ -6,7 +6,7 @@ tl2_surname: Ker
 tl2_forenames: John Bellenden
 tl2_name_abbrev: Ker-Gawl.
 tl2_dates: 1764-1842
-tl2_page_id: 33068764
+tl2_bhl_page_id: 33068764
 author_lsid: 12602-1
 wikidata_id: Q1699308
 ipni_surname: Ker Gawler
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12602-1), [Wikidata](https://www.wikidata.org/wiki/Q1699308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12602-1) LSID 12602-1, [Wikidata](https://www.wikidata.org/wiki/Q1699308) QID Q1699308
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

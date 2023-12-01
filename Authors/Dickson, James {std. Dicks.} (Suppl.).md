@@ -6,7 +6,7 @@ tl2_surname: Dickson
 tl2_forenames: James
 tl2_name_abbrev: Dicks.
 tl2_dates: 1738-1822
-tl2_page_id: 33259335
+tl2_bhl_page_id: 33259335
 author_lsid: 18022-1
 wikidata_id: Q521759
 ipni_surname: Dickson
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259335) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18022-1), [Wikidata](https://www.wikidata.org/wiki/Q521759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18022-1) LSID 18022-1, [Wikidata](https://www.wikidata.org/wiki/Q521759) QID Q521759
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dickson, James {std. Dicks.}|first entry]] for this author
 

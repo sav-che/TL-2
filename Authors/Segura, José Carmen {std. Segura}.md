@@ -6,7 +6,7 @@ tl2_surname: Segura
 tl2_forenames: José Carmen
 tl2_name_abbrev: Segura
 tl2_dates: 1846-1906
-tl2_page_id: 33333627
+tl2_bhl_page_id: 33333627
 author_lsid: 9427-1
 wikidata_id: Q21608619
 ipni_surname: Segura
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33333627) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9427-1), [Wikidata](https://www.wikidata.org/wiki/Q21608619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9427-1) LSID 9427-1, [Wikidata](https://www.wikidata.org/wiki/Q21608619) QID Q21608619
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

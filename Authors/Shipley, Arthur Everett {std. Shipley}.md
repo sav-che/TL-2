@@ -6,7 +6,7 @@ tl2_surname: Shipley
 tl2_forenames: Arthur Everett
 tl2_name_abbrev: Shipley
 tl2_dates: 1861-1927
-tl2_page_id: 33333704
+tl2_bhl_page_id: 33333704
 author_lsid: 35151-1
 wikidata_id: Q2343873
 ipni_surname: Shipley
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/35151-1), [Wikidata](https://www.wikidata.org/wiki/Q2343873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35151-1) LSID 35151-1, [Wikidata](https://www.wikidata.org/wiki/Q2343873) QID Q2343873
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dolliner
 tl2_forenames: Georg
 tl2_name_abbrev: Dolliner
 tl2_dates: 1794-1872
-tl2_page_id: 33260020
+tl2_bhl_page_id: 33260020
 author_lsid: 2259-1
 wikidata_id: Q12793122
 ipni_surname: Dolliner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33260020) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2259-1), [Wikidata](https://www.wikidata.org/wiki/Q12793122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2259-1) LSID 2259-1, [Wikidata](https://www.wikidata.org/wiki/Q12793122) QID Q12793122
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

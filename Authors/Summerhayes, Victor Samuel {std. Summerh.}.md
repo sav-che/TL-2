@@ -6,7 +6,7 @@ tl2_surname: Summerhayes
 tl2_forenames: Victor Samuel
 tl2_name_abbrev: Summerh.
 tl2_dates: 1897-1974
-tl2_page_id: 33212134
+tl2_bhl_page_id: 33212134
 author_lsid: 10292-1
 wikidata_id: Q1771270
 ipni_surname: Summerhayes
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33212134) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10292-1), [Wikidata](https://www.wikidata.org/wiki/Q1771270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10292-1) LSID 10292-1, [Wikidata](https://www.wikidata.org/wiki/Q1771270) QID Q1771270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

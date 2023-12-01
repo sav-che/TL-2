@@ -6,7 +6,7 @@ tl2_surname: Murr
 tl2_forenames: Josef
 tl2_name_abbrev: Murr
 tl2_dates: 1864-1932
-tl2_page_id: 33355753
+tl2_bhl_page_id: 33355753
 author_lsid: 6802-1
 wikidata_id: Q5936543
 ipni_surname: Murr
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33355753) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6802-1), [Wikidata](https://www.wikidata.org/wiki/Q5936543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6802-1) LSID 6802-1, [Wikidata](https://www.wikidata.org/wiki/Q5936543) QID Q5936543
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

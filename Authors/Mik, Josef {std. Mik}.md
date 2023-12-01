@@ -6,7 +6,7 @@ tl2_surname: Mik
 tl2_forenames: Josef
 tl2_name_abbrev: Mik
 tl2_dates: 1839-1900
-tl2_page_id: 33355568
+tl2_bhl_page_id: 33355568
 author_lsid: 6458-1
 wikidata_id: Q4292943
 ipni_surname: Mik
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33355568) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6458-1), [Wikidata](https://www.wikidata.org/wiki/Q4292943). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6458-1) LSID 6458-1, [Wikidata](https://www.wikidata.org/wiki/Q4292943) QID Q4292943
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

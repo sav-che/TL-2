@@ -6,7 +6,7 @@ tl2_surname: Planer
 tl2_forenames: Johann Jacob
 tl2_name_abbrev: Planer
 tl2_dates: 1743-1789
-tl2_page_id: 33189760
+tl2_bhl_page_id: 33189760
 author_lsid: 7742-1
 wikidata_id: Q16389859
 ipni_surname: Planer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7742-1), [Wikidata](https://www.wikidata.org/wiki/Q16389859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7742-1) LSID 7742-1, [Wikidata](https://www.wikidata.org/wiki/Q16389859) QID Q16389859
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

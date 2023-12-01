@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0333
 tl2_volume: suppl1
 tl2_page_printed: 301
 tl2_surname: Balicka-Iwanowska
-tl2_forenames: Gabrielle [Gabryela]
+tl2_forenames: Gabrielle (Gabryela)
 tl2_name_abbrev: Balicka-Iwanowska
 tl2_dates: 1869-?
-tl2_page_id: 33265028
+tl2_bhl_page_id: 33265028
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265028) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

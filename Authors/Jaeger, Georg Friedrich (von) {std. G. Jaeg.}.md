@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0453
 tl2_volume: vol2
 tl2_page_printed: 415
 tl2_surname: Jaeger
-tl2_forenames: Georg Friedrich [von]
+tl2_forenames: Georg Friedrich (von)
 tl2_name_abbrev: G. Jaeg.
 tl2_dates: 1822-1844
-tl2_page_id: 33068657
+tl2_bhl_page_id: 33068657
 author_lsid: 4393-1
 wikidata_id: Q1504377
 ipni_surname: Jaeger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33068657) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4393-1), [Wikidata](https://www.wikidata.org/wiki/Q1504377). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4393-1) LSID 4393-1, [Wikidata](https://www.wikidata.org/wiki/Q1504377) QID Q1504377
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

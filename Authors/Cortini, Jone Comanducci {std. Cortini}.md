@@ -6,7 +6,7 @@ tl2_surname: Cortini
 tl2_forenames: Jone Comanducci
 tl2_name_abbrev: Cortini
 tl2_dates: fl. 1921
-tl2_page_id: 33266063
+tl2_bhl_page_id: 33266063
 author_lsid: 17448-1
 wikidata_id: Q36588288
 ipni_surname: Cortini
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33266063) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17448-1), [Wikidata](https://www.wikidata.org/wiki/Q36588288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17448-1) LSID 17448-1, [Wikidata](https://www.wikidata.org/wiki/Q36588288) QID Q36588288
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

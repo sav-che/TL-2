@@ -6,7 +6,7 @@ tl2_surname: Lindau
 tl2_forenames: Gustav
 tl2_name_abbrev: Lindau
 tl2_dates: 1866-1923
-tl2_page_id: 33355072
+tl2_bhl_page_id: 33355072
 author_lsid: 22365-1
 wikidata_id: Q66039
 ipni_surname: Lindau
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33355072) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22365-1), [Wikidata](https://www.wikidata.org/wiki/Q66039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22365-1) LSID 22365-1, [Wikidata](https://www.wikidata.org/wiki/Q66039) QID Q66039
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

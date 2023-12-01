@@ -6,7 +6,7 @@ tl2_surname: Trotter
 tl2_forenames: Alessandro
 tl2_name_abbrev: Trott.
 tl2_dates: 1874-1967
-tl2_page_id: 33212549
+tl2_bhl_page_id: 33212549
 author_lsid: 10849-1
 wikidata_id: Q2613097
 ipni_surname: Trotter
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33212549) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10849-1), [Wikidata](https://www.wikidata.org/wiki/Q2613097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10849-1) LSID 10849-1, [Wikidata](https://www.wikidata.org/wiki/Q2613097) QID Q2613097
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

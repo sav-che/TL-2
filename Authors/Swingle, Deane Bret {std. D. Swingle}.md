@@ -6,7 +6,7 @@ tl2_surname: Swingle
 tl2_forenames: Deane Bret
 tl2_name_abbrev: D. Swingle
 tl2_dates: 1879-1944
-tl2_page_id: 33212168
+tl2_bhl_page_id: 33212168
 author_lsid: 27414-1
 wikidata_id: Q21610115
 ipni_surname: Swingle
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33212168) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27414-1), [Wikidata](https://www.wikidata.org/wiki/Q21610115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27414-1) LSID 27414-1, [Wikidata](https://www.wikidata.org/wiki/Q21610115) QID Q21610115
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

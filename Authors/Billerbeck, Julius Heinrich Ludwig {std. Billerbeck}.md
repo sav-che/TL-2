@@ -6,7 +6,7 @@ tl2_surname: Billerbeck
 tl2_forenames: Julius Heinrich Ludwig
 tl2_name_abbrev: Billerbeck
 tl2_dates: 1772-1838 or later
-tl2_page_id: 33265362
+tl2_bhl_page_id: 33265362
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265362) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dorf
 tl2_forenames: Erling
 tl2_name_abbrev: Dorf
 tl2_dates: 1905-x
-tl2_page_id: 33260047
+tl2_bhl_page_id: 33260047
 author_lsid: 33995-1
 wikidata_id: Q5389800
 ipni_surname: Dorf
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33260047) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/33995-1), [Wikidata](https://www.wikidata.org/wiki/Q5389800). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33995-1) LSID 33995-1, [Wikidata](https://www.wikidata.org/wiki/Q5389800) QID Q5389800
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

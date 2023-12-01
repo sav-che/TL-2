@@ -6,7 +6,7 @@ tl2_surname: Dittrich
 tl2_forenames: Georg Gustav
 tl2_name_abbrev: G.G. Dittrich
 tl2_dates: 1875-?
-tl2_page_id: 33259404
+tl2_bhl_page_id: 33259404
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33259404) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

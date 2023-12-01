@@ -6,7 +6,7 @@ tl2_surname: Dearness
 tl2_forenames: John
 tl2_name_abbrev: Dearn.
 tl2_dates: 1852-1954
-tl2_page_id: 33259169
+tl2_bhl_page_id: 33259169
 author_lsid: 17867-1
 wikidata_id: Q4159012
 ipni_surname: Dearness
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259169) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17867-1), [Wikidata](https://www.wikidata.org/wiki/Q4159012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17867-1) LSID 17867-1, [Wikidata](https://www.wikidata.org/wiki/Q4159012) QID Q4159012
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dearness, John {std. Dearn.}|first entry]] for this author
 

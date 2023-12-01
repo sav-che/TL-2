@@ -6,7 +6,7 @@ tl2_surname: Lindenberg
 tl2_forenames: Johann Bernhard Wilhelm
 tl2_name_abbrev: Lindenb.
 tl2_dates: 1781-1851
-tl2_page_id: 33355095
+tl2_bhl_page_id: 33355095
 author_lsid: 22374-1
 wikidata_id: Q96169
 ipni_surname: Lindenberg
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22374-1), [Wikidata](https://www.wikidata.org/wiki/Q96169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22374-1) LSID 22374-1, [Wikidata](https://www.wikidata.org/wiki/Q96169) QID Q96169
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

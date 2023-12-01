@@ -6,7 +6,7 @@ tl2_surname: Cookson
 tl2_forenames: Isabel Clifton
 tl2_name_abbrev: Cookson
 tl2_dates: 1893-1973
-tl2_page_id: 33266008
+tl2_bhl_page_id: 33266008
 author_lsid: 13274-1
 wikidata_id: Q6077587
 ipni_surname: Cookson
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:49:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13274-1), [Wikidata](https://www.wikidata.org/wiki/Q6077587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13274-1) LSID 13274-1, [Wikidata](https://www.wikidata.org/wiki/Q6077587) QID Q6077587
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

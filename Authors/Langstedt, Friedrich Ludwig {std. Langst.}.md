@@ -6,7 +6,7 @@ tl2_surname: Langstedt
 tl2_forenames: Friedrich Ludwig
 tl2_name_abbrev: Langst.
 tl2_dates: 1750-1804
-tl2_page_id: 33068995
+tl2_bhl_page_id: 33068995
 author_lsid: 5272-1
 wikidata_id: Q3087749
 ipni_surname: Langstedt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33068995) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5272-1), [Wikidata](https://www.wikidata.org/wiki/Q3087749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5272-1) LSID 5272-1, [Wikidata](https://www.wikidata.org/wiki/Q3087749) QID Q3087749
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

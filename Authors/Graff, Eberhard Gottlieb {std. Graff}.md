@@ -6,7 +6,7 @@ tl2_surname: Graff
 tl2_forenames: Eberhard Gottlieb
 tl2_name_abbrev: Graff
 tl2_dates: 1780-1841
-tl2_page_id: 33121109
+tl2_bhl_page_id: 33121109
 author_lsid: 3315-1
 wikidata_id: Q88718
 ipni_surname: Graff
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33121109) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3315-1), [Wikidata](https://www.wikidata.org/wiki/Q88718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3315-1) LSID 3315-1, [Wikidata](https://www.wikidata.org/wiki/Q88718) QID Q88718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

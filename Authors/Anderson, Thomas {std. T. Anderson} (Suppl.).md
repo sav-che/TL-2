@@ -6,7 +6,7 @@ tl2_surname: Anderson
 tl2_forenames: Thomas
 tl2_name_abbrev: Th. Anderson
 tl2_dates: 1832-1870
-tl2_page_id: 33264837
+tl2_bhl_page_id: 33264837
 author_lsid: 199-1
 wikidata_id: Q371504
 ipni_surname: Anderson
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/199-1), [Wikidata](https://www.wikidata.org/wiki/Q371504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/199-1) LSID 199-1, [Wikidata](https://www.wikidata.org/wiki/Q371504) QID Q371504
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Anderson, Thomas {std. T. Anderson}|first entry]] for this author
 

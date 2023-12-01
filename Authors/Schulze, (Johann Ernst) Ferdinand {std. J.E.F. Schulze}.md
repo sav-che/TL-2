@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0374
 tl2_volume: vol5
 tl2_page_printed: 393
 tl2_surname: Schulze
-tl2_forenames: [Johann Ernst] Ferdinand
+tl2_forenames: (Johann Ernst) Ferdinand
 tl2_name_abbrev: J.E.F. Schulze
 tl2_dates: fl. 1788
-tl2_page_id: 33333532
+tl2_bhl_page_id: 33333532
 author_lsid: 12851-1
 wikidata_id: Q47125893
 ipni_surname: Schulze
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33333532) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12851-1), [Wikidata](https://www.wikidata.org/wiki/Q47125893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12851-1) LSID 12851-1, [Wikidata](https://www.wikidata.org/wiki/Q47125893) QID Q47125893
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

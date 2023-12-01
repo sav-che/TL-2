@@ -6,7 +6,7 @@ tl2_surname: Walpert
 tl2_forenames: H.
 tl2_name_abbrev: Walpert
 tl2_dates: fl. 1852-1855
-tl2_page_id: 33066388
+tl2_bhl_page_id: 33066388
 author_lsid: 11356-1
 wikidata_id: Q36580166
 ipni_surname: Walpert
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33066388) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11356-1), [Wikidata](https://www.wikidata.org/wiki/Q36580166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11356-1) LSID 11356-1, [Wikidata](https://www.wikidata.org/wiki/Q36580166) QID Q36580166
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

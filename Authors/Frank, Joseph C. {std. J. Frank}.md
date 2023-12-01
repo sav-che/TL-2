@@ -6,7 +6,7 @@ tl2_surname: Frank
 tl2_forenames: Joseph C.
 tl2_name_abbrev: J.Frank
 tl2_dates: 1782-1835
-tl2_page_id: 33121002
+tl2_bhl_page_id: 33121002
 author_lsid: 2876-1
 wikidata_id: Q21513475
 ipni_surname: Frank
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33121002) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2876-1), [Wikidata](https://www.wikidata.org/wiki/Q21513475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2876-1) LSID 2876-1, [Wikidata](https://www.wikidata.org/wiki/Q21513475) QID Q21513475
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

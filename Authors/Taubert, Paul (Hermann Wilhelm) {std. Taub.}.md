@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0213
 tl2_volume: vol6
 tl2_page_printed: 179
 tl2_surname: Taubert
-tl2_forenames: Paul [Hermann Wilhelm]
+tl2_forenames: Paul (Hermann Wilhelm)
 tl2_name_abbrev: Taub.
 tl2_dates: 1862-1897
-tl2_page_id: 33212221
+tl2_bhl_page_id: 33212221
 author_lsid: 10451-1
 wikidata_id: Q4452735
 ipni_surname: Taubert
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:45:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33212221) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10451-1), [Wikidata](https://www.wikidata.org/wiki/Q4452735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10451-1) LSID 10451-1, [Wikidata](https://www.wikidata.org/wiki/Q4452735) QID Q4452735
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Torén
 tl2_forenames: Olof
 tl2_name_abbrev: Torén
 tl2_dates: 1718-1753
-tl2_page_id: 33212436
+tl2_bhl_page_id: 33212436
 author_lsid: 10742-1
 wikidata_id: Q1493160
 ipni_surname: Torén
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33212436) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10742-1), [Wikidata](https://www.wikidata.org/wiki/Q1493160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10742-1) LSID 10742-1, [Wikidata](https://www.wikidata.org/wiki/Q1493160) QID Q1493160
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Braun-Blanquet
 tl2_forenames: Josias (early Josias Braun)
 tl2_name_abbrev: Braun-Blanq.
 tl2_dates: 1884-1980
-tl2_page_id: 33266343
+tl2_bhl_page_id: 33266343
 author_lsid: 1090-1
 wikidata_id: Q124075
 ipni_surname: Braun-Blanquet
@@ -25,7 +25,8 @@ ipni_record_modified: 2008-07-31 09:24:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33266343) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1090-1), [Wikidata](https://www.wikidata.org/wiki/Q124075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1090-1) LSID 1090-1, [Wikidata](https://www.wikidata.org/wiki/Q124075) QID Q124075
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Braun-Blanquet, Josias {std. Braun-Blanq.}|first entry]] for this author
 

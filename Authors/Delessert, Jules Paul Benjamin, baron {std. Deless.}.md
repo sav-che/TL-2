@@ -6,7 +6,7 @@ tl2_surname: Delessert
 tl2_forenames: Jules Paul Benjamin, baron
 tl2_name_abbrev: Deless.
 tl2_dates: 1773-1847
-tl2_page_id: 33120745
+tl2_bhl_page_id: 33120745
 author_lsid: 2099-1
 wikidata_id: Q1385980
 ipni_surname: Delessert
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33120745) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2099-1), [Wikidata](https://www.wikidata.org/wiki/Q1385980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2099-1) LSID 2099-1, [Wikidata](https://www.wikidata.org/wiki/Q1385980) QID Q1385980
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

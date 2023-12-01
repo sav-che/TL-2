@@ -6,7 +6,7 @@ tl2_surname: Geilinger
 tl2_forenames: Gottlieb
 tl2_name_abbrev: Geil.
 tl2_dates: 1881-1955
-tl2_page_id: 33258646
+tl2_bhl_page_id: 33258646
 author_lsid: 3068-1
 wikidata_id: Q21513850
 ipni_surname: Geilinger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33258646) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3068-1), [Wikidata](https://www.wikidata.org/wiki/Q21513850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3068-1) LSID 3068-1, [Wikidata](https://www.wikidata.org/wiki/Q21513850) QID Q21513850
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

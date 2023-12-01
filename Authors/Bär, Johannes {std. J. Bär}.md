@@ -6,27 +6,30 @@ tl2_surname: Bär
 tl2_forenames: Johannes
 tl2_name_abbrev: J. Bär
 tl2_dates: 1877-?
-tl2_page_id: 33264975
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33264975
+author_lsid: 34350-1
+wikidata_id: Q21505632
+ipni_surname: Bär
+ipni_forenames: Johannes
+ipni_standard_form: Bär
+ipni_dates: 1877-1957
+ipni_taxon_scope:
+- Botany
+- Pteridophytes
+ipni_geo_scope:
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2011-04-18 08:51:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33264975) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34350-1) LSID 34350-1, [Wikidata](https://www.wikidata.org/wiki/Q21505632) QID Q21505632
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Bär, Johannes (1877-?), Swiss (Thurgau) botanist, studied at the University of Zürich, Dr. phil. ib. 1914, student of the flora of the Val Onsernone (Locarno, Tessin), some time curator at the herbarium of the Botanical Museum of the University of Zürich (Z). 
-**Abbreviated name**: *J. Bär*
+**Abbreviated name**: *J. Bär* \[standard form in IPNI: *Bär*\]
 
 #### Herbarium and types
 

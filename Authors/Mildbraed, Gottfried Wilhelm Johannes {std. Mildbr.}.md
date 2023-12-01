@@ -6,7 +6,7 @@ tl2_surname: Mildbraed
 tl2_forenames: Gottfried Wilhelm Johannes
 tl2_name_abbrev: Mildbr.
 tl2_dates: 1879-1954
-tl2_page_id: 33355571
+tl2_bhl_page_id: 33355571
 author_lsid: 6468-1
 wikidata_id: Q470035
 ipni_surname: Mildbraed
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33355571) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6468-1), [Wikidata](https://www.wikidata.org/wiki/Q470035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6468-1) LSID 6468-1, [Wikidata](https://www.wikidata.org/wiki/Q470035) QID Q470035
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

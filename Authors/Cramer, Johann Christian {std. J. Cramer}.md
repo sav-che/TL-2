@@ -6,7 +6,7 @@ tl2_surname: Cramer
 tl2_forenames: Johann Christian
 tl2_name_abbrev: J. Cramer
 tl2_dates: fl. 1803
-tl2_page_id: 33120694
+tl2_bhl_page_id: 33120694
 author_lsid: 1861-1
 wikidata_id: Q5932913
 ipni_surname: Cramer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33120694) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1861-1), [Wikidata](https://www.wikidata.org/wiki/Q5932913). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1861-1) LSID 1861-1, [Wikidata](https://www.wikidata.org/wiki/Q5932913) QID Q5932913
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

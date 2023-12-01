@@ -6,7 +6,7 @@ tl2_surname: Chatin
 tl2_forenames: Gaspard Adolphe
 tl2_name_abbrev: Chatin
 tl2_dates: 1813-1901
-tl2_page_id: 33120618
+tl2_bhl_page_id: 33120618
 author_lsid: 1549-1
 wikidata_id: Q365693
 ipni_surname: Chatin
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33120618) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1549-1), [Wikidata](https://www.wikidata.org/wiki/Q365693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1549-1) LSID 1549-1, [Wikidata](https://www.wikidata.org/wiki/Q365693) QID Q365693
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Chatin, (Gaspard) Adolphe {std. Chatin} (Suppl.)|second entry]] for this author
 

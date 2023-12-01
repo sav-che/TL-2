@@ -6,7 +6,7 @@ tl2_surname: Jungk
 tl2_forenames: Christian Ludwig
 tl2_name_abbrev: Jungk
 tl2_dates: fl. 1807
-tl2_page_id: 33068715
+tl2_bhl_page_id: 33068715
 author_lsid: 4587-1
 wikidata_id: Q36525772
 ipni_surname: Jungk
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33068715) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4587-1), [Wikidata](https://www.wikidata.org/wiki/Q36525772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4587-1) LSID 4587-1, [Wikidata](https://www.wikidata.org/wiki/Q36525772) QID Q36525772
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

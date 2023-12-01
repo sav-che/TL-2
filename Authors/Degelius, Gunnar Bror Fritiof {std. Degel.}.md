@@ -6,7 +6,7 @@ tl2_surname: Degelius
 tl2_forenames: Gunnar Bror Fritiof
 tl2_name_abbrev: Degel.
 tl2_dates: 1903-x
-tl2_page_id: 33120741
+tl2_bhl_page_id: 33120741
 author_lsid: 2078-1
 wikidata_id: Q21339039
 ipni_surname: Degelius
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2078-1), [Wikidata](https://www.wikidata.org/wiki/Q21339039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2078-1) LSID 2078-1, [Wikidata](https://www.wikidata.org/wiki/Q21339039) QID Q21339039
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Degelius, Gunnar Bror Fritiof {std. Degel.} (Suppl.)|second entry]] for this author
 

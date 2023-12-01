@@ -6,7 +6,7 @@ tl2_surname: Herold
 tl2_forenames: Johann Moritz David
 tl2_name_abbrev: Herold
 tl2_dates: 1790-1862
-tl2_page_id: 33068415
+tl2_bhl_page_id: 33068415
 author_lsid: 3881-1
 wikidata_id: Q1695613
 ipni_surname: Herold
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33068415) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3881-1), [Wikidata](https://www.wikidata.org/wiki/Q1695613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3881-1) LSID 3881-1, [Wikidata](https://www.wikidata.org/wiki/Q1695613) QID Q1695613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

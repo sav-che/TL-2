@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0214
 tl2_volume: vol4
 tl2_page_printed: 194
 tl2_surname: Peters
-tl2_forenames: Karl [Carl]
+tl2_forenames: Karl (Carl)
 tl2_name_abbrev: K. Peters
 tl2_dates: 1865-1925
-tl2_page_id: 33189665
+tl2_bhl_page_id: 33189665
 author_lsid: 7566-1
 wikidata_id: Q21522880
 ipni_surname: Peters
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33189665) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7566-1), [Wikidata](https://www.wikidata.org/wiki/Q21522880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7566-1) LSID 7566-1, [Wikidata](https://www.wikidata.org/wiki/Q21522880) QID Q21522880
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

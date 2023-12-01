@@ -6,7 +6,7 @@ tl2_surname: Smuts
 tl2_forenames: Jan Christiaan
 tl2_name_abbrev: Smuts
 tl2_dates: 1870-1950
-tl2_page_id: 33333847
+tl2_bhl_page_id: 33333847
 author_lsid: 9829-1
 wikidata_id: Q214321
 ipni_surname: Smuts
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9829-1), [Wikidata](https://www.wikidata.org/wiki/Q214321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9829-1) LSID 9829-1, [Wikidata](https://www.wikidata.org/wiki/Q214321) QID Q214321
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

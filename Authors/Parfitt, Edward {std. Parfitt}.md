@@ -6,7 +6,7 @@ tl2_surname: Parfitt
 tl2_forenames: Edward
 tl2_name_abbrev: Parfitt
 tl2_dates: 1820-1893
-tl2_page_id: 33189489
+tl2_bhl_page_id: 33189489
 author_lsid: 7334-1
 wikidata_id: Q18756662
 ipni_surname: Parfitt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7334-1), [Wikidata](https://www.wikidata.org/wiki/Q18756662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7334-1) LSID 7334-1, [Wikidata](https://www.wikidata.org/wiki/Q18756662) QID Q18756662
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

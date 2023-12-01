@@ -6,7 +6,7 @@ tl2_surname: Houstoun
 tl2_forenames: William
 tl2_name_abbrev: Houst.
 tl2_dates: 1695-1733
-tl2_page_id: 33068584
+tl2_bhl_page_id: 33068584
 author_lsid: 13408-1
 wikidata_id: Q2579338
 ipni_surname: Houstoun
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:28:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33068584) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/13408-1), [Wikidata](https://www.wikidata.org/wiki/Q2579338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13408-1) LSID 13408-1, [Wikidata](https://www.wikidata.org/wiki/Q2579338) QID Q2579338
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

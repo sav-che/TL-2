@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0741
 tl2_volume: vol3
 tl2_page_printed: 628
-tl2_surname: Mueller [called] Argoviensis [of Aargau]
-tl2_forenames: Johannes [Jean]
+tl2_surname: Mueller (called) Argoviensis (of Aargau)
+tl2_forenames: Johannes (Jean)
 tl2_name_abbrev: Müll. Arg.
 tl2_dates: 1828-1896
-tl2_page_id: 33355715
+tl2_bhl_page_id: 33355715
 author_lsid: 23712-1
 wikidata_id: Q2504914
 ipni_surname: Müller Argoviensis
@@ -27,7 +27,8 @@ ipni_record_modified: 2010-12-02 10:29:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23712-1), [Wikidata](https://www.wikidata.org/wiki/Q2504914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23712-1) LSID 23712-1, [Wikidata](https://www.wikidata.org/wiki/Q2504914) QID Q2504914
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

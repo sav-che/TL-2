@@ -6,7 +6,7 @@ tl2_surname: Dietrich
 tl2_forenames: Albert Gottfried
 tl2_name_abbrev: A. Dietr.
 tl2_dates: 1795-1856
-tl2_page_id: 33120780
+tl2_bhl_page_id: 33120780
 author_lsid: 2206-1
 wikidata_id: Q67968
 ipni_surname: Dietrich
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2206-1), [Wikidata](https://www.wikidata.org/wiki/Q67968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2206-1) LSID 2206-1, [Wikidata](https://www.wikidata.org/wiki/Q67968) QID Q67968
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dietrich, Albert Gottfried {std. A. Dietr.} (Suppl.)|second entry]] for this author
 

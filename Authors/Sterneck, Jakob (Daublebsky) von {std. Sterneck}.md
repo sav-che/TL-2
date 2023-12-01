@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0910
 tl2_volume: vol5
 tl2_page_printed: 903
 tl2_surname: Sterneck
-tl2_forenames: Jakob [Daublebsky] von
+tl2_forenames: Jakob (Daublebsky) von
 tl2_name_abbrev: Sterneck
 tl2_dates: 1864-1941
-tl2_page_id: 33334042
+tl2_bhl_page_id: 33334042
 author_lsid: 10117-1
 wikidata_id: Q18418690
 ipni_surname: Sterneck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33334042) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10117-1), [Wikidata](https://www.wikidata.org/wiki/Q18418690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10117-1) LSID 10117-1, [Wikidata](https://www.wikidata.org/wiki/Q18418690) QID Q18418690
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Guimpel
 tl2_forenames: Friedrich
 tl2_name_abbrev: Guimpel
 tl2_dates: 1774-1839
-tl2_page_id: 33121154
+tl2_bhl_page_id: 33121154
 author_lsid: 3471-1
 wikidata_id: Q8962854
 ipni_surname: Guimpel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/page/33121154) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3471-1), [Wikidata](https://www.wikidata.org/wiki/Q8962854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3471-1) LSID 3471-1, [Wikidata](https://www.wikidata.org/wiki/Q8962854) QID Q8962854
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

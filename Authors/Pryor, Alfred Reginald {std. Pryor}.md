@@ -6,7 +6,7 @@ tl2_surname: Pryor
 tl2_forenames: Alfred Reginald
 tl2_name_abbrev: Pryor
 tl2_dates: 1839-1881
-tl2_page_id: 33189891
+tl2_bhl_page_id: 33189891
 author_lsid: 8001-1
 wikidata_id: Q18526418
 ipni_surname: Pryor
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33189891) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8001-1), [Wikidata](https://www.wikidata.org/wiki/Q18526418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8001-1) LSID 8001-1, [Wikidata](https://www.wikidata.org/wiki/Q18526418) QID Q18526418
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

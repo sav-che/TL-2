@@ -6,7 +6,7 @@ tl2_surname: Gerth van Wijk
 tl2_forenames: Hugo Leonardus
 tl2_name_abbrev: Gerth
 tl2_dates: 1849-1921
-tl2_page_id: 33121067
+tl2_bhl_page_id: 33121067
 author_lsid: 3110-1
 wikidata_id: Q21513942
 ipni_surname: Gerth van Wijk
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3110-1), [Wikidata](https://www.wikidata.org/wiki/Q21513942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3110-1) LSID 3110-1, [Wikidata](https://www.wikidata.org/wiki/Q21513942) QID Q21513942
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

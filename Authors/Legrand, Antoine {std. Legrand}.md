@@ -6,7 +6,7 @@ tl2_surname: Legrand
 tl2_forenames: Antoine
 tl2_name_abbrev: Legrand
 tl2_dates: 1839-1905
-tl2_page_id: 33069058
+tl2_bhl_page_id: 33069058
 author_lsid: 5421-1
 wikidata_id: Q5697413
 ipni_surname: Le Grand
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33069058) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5421-1), [Wikidata](https://www.wikidata.org/wiki/Q5697413). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5421-1) LSID 5421-1, [Wikidata](https://www.wikidata.org/wiki/Q5697413) QID Q5697413
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Turnbull
 tl2_forenames: Robert
 tl2_name_abbrev: Turnbull
 tl2_dates: c. 1813-1891
-tl2_page_id: 33212585
+tl2_bhl_page_id: 33212585
 author_lsid: 10914-1
 wikidata_id: Q21611060
 ipni_surname: Turnbull
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33212585) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10914-1), [Wikidata](https://www.wikidata.org/wiki/Q21611060). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10914-1) LSID 10914-1, [Wikidata](https://www.wikidata.org/wiki/Q21611060) QID Q21611060
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

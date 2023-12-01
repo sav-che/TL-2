@@ -6,7 +6,7 @@ tl2_surname: Hepp
 tl2_forenames: Johann Adam Philipp
 tl2_name_abbrev: Hepp
 tl2_dates: 1797-1867
-tl2_page_id: 33068406
+tl2_bhl_page_id: 33068406
 author_lsid: 20208-1
 wikidata_id: Q2086812
 ipni_surname: Hepp
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/20208-1), [Wikidata](https://www.wikidata.org/wiki/Q2086812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20208-1) LSID 20208-1, [Wikidata](https://www.wikidata.org/wiki/Q2086812) QID Q2086812
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

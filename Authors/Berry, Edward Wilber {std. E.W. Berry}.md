@@ -6,7 +6,7 @@ tl2_surname: Berry
 tl2_forenames: Edward Wilber
 tl2_name_abbrev: E.W. Berry
 tl2_dates: 1875-1945
-tl2_page_id: 33265310
+tl2_bhl_page_id: 33265310
 author_lsid: 16026-1
 wikidata_id: Q3048727
 ipni_surname: Berry
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265310) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16026-1), [Wikidata](https://www.wikidata.org/wiki/Q3048727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16026-1) LSID 16026-1, [Wikidata](https://www.wikidata.org/wiki/Q3048727) QID Q3048727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schaffner
 tl2_forenames: Wilhelm (later J. Guillermo Schaffner)
 tl2_name_abbrev: W. Schaffn.
 tl2_dates: x-1882
-tl2_page_id: 33333252
+tl2_bhl_page_id: 33333252
 author_lsid: 9010-1
 wikidata_id: Q21342053
 ipni_surname: Schaffner
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33333252) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9010-1), [Wikidata](https://www.wikidata.org/wiki/Q21342053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9010-1) LSID 9010-1, [Wikidata](https://www.wikidata.org/wiki/Q21342053) QID Q21342053
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

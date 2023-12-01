@@ -6,7 +6,7 @@ tl2_surname: Perktold
 tl2_forenames: Josef Anton
 tl2_name_abbrev: Perktold
 tl2_dates: 1804-1870
-tl2_page_id: 33189638
+tl2_bhl_page_id: 33189638
 author_lsid: 24736-1
 wikidata_id: Q21522832
 ipni_surname: Perktold
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33189638) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24736-1), [Wikidata](https://www.wikidata.org/wiki/Q21522832). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24736-1) LSID 24736-1, [Wikidata](https://www.wikidata.org/wiki/Q21522832) QID Q21522832
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

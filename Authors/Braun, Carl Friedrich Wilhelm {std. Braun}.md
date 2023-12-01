@@ -6,7 +6,7 @@ tl2_surname: Braun
 tl2_forenames: Carl Friedrich Wilhelm
 tl2_name_abbrev: C.F.W. Braun
 tl2_dates: 1800-1864
-tl2_page_id: 33120441
+tl2_bhl_page_id: 33120441
 author_lsid: 1086-1
 wikidata_id: Q107196
 ipni_surname: Braun
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33120441) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1086-1), [Wikidata](https://www.wikidata.org/wiki/Q107196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1086-1) LSID 1086-1, [Wikidata](https://www.wikidata.org/wiki/Q107196) QID Q107196
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Braun, Carl (Karl) Friedrich Wilhelm {std. Braun} (Suppl.)|second entry]] for this author
 

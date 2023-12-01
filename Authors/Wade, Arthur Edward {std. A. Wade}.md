@@ -6,7 +6,7 @@ tl2_surname: Wade
 tl2_forenames: Arthur Edward
 tl2_name_abbrev: A. Wade
 tl2_dates: 1895-x
-tl2_page_id: 33066305
+tl2_bhl_page_id: 33066305
 author_lsid: 11289-1
 wikidata_id: Q21388511
 ipni_surname: Wade
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11289-1), [Wikidata](https://www.wikidata.org/wiki/Q21388511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11289-1) LSID 11289-1, [Wikidata](https://www.wikidata.org/wiki/Q21388511) QID Q21388511
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

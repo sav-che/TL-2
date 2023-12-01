@@ -6,7 +6,7 @@ tl2_surname: Étienne
 tl2_forenames: Georges
 tl2_name_abbrev: Étienne
 tl2_dates: x-1910
-tl2_page_id: 33120934
+tl2_bhl_page_id: 33120934
 author_lsid: 2583-1
 wikidata_id: Q21512409
 ipni_surname: Étienne
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2583-1), [Wikidata](https://www.wikidata.org/wiki/Q21512409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2583-1) LSID 2583-1, [Wikidata](https://www.wikidata.org/wiki/Q21512409) QID Q21512409
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

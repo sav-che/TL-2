@@ -6,7 +6,7 @@ tl2_surname: Duperrey
 tl2_forenames: Louis Isidore
 tl2_name_abbrev: Duperrey
 tl2_dates: 1786-1865
-tl2_page_id: 33120834
+tl2_bhl_page_id: 33120834
 author_lsid: 2385-1
 wikidata_id: Q1871768
 ipni_surname: Duperrey
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33120834) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2385-1), [Wikidata](https://www.wikidata.org/wiki/Q1871768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2385-1) LSID 2385-1, [Wikidata](https://www.wikidata.org/wiki/Q1871768) QID Q1871768
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

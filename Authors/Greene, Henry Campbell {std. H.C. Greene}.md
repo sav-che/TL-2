@@ -6,7 +6,7 @@ tl2_surname: Greene
 tl2_forenames: Henry Campbell
 tl2_name_abbrev: H.C. Greene
 tl2_dates: 1904-1967
-tl2_page_id: 33258841
+tl2_bhl_page_id: 33258841
 author_lsid: 19598-1
 wikidata_id: Q21514250
 ipni_surname: Greene
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33258841) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19598-1), [Wikidata](https://www.wikidata.org/wiki/Q21514250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19598-1) LSID 19598-1, [Wikidata](https://www.wikidata.org/wiki/Q21514250) QID Q21514250
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

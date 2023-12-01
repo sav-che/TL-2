@@ -6,7 +6,7 @@ tl2_surname: Hope
 tl2_forenames: John
 tl2_name_abbrev: J. Hope
 tl2_dates: 1725-1786
-tl2_page_id: 33068544
+tl2_bhl_page_id: 33068544
 author_lsid: 4094-1
 wikidata_id: Q4390836
 ipni_surname: Hope
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4094-1), [Wikidata](https://www.wikidata.org/wiki/Q4390836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4094-1) LSID 4094-1, [Wikidata](https://www.wikidata.org/wiki/Q4390836) QID Q4390836
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

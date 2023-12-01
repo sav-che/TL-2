@@ -6,7 +6,7 @@ tl2_surname: Domin
 tl2_forenames: Karel
 tl2_name_abbrev: Domin
 tl2_dates: 1882-1953
-tl2_page_id: 33120798
+tl2_bhl_page_id: 33120798
 author_lsid: 2263-1
 wikidata_id: Q1109649
 ipni_surname: Domin
@@ -24,7 +24,8 @@ ipni_record_modified: 2006-10-31 14:05:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33120798) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2263-1), [Wikidata](https://www.wikidata.org/wiki/Q1109649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2263-1) LSID 2263-1, [Wikidata](https://www.wikidata.org/wiki/Q1109649) QID Q1109649
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Domin, Karel {std. Domin} (Suppl.)|second entry]] for this author
 

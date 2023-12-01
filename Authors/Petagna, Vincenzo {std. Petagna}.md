@@ -6,7 +6,7 @@ tl2_surname: Petagna
 tl2_forenames: Vincenzo
 tl2_name_abbrev: Petagna
 tl2_dates: 1734-1810
-tl2_page_id: 33189658
+tl2_bhl_page_id: 33189658
 author_lsid: 7559-1
 wikidata_id: Q1089652
 ipni_surname: Petagna
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33189658) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7559-1), [Wikidata](https://www.wikidata.org/wiki/Q1089652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7559-1) LSID 7559-1, [Wikidata](https://www.wikidata.org/wiki/Q1089652) QID Q1089652
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

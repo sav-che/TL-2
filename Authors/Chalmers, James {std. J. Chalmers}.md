@@ -6,7 +6,7 @@ tl2_surname: Chalmers
 tl2_forenames: James
 tl2_name_abbrev: J. Chalmers
 tl2_dates: d. before 1834
-tl2_page_id: 33120612
+tl2_bhl_page_id: 33120612
 author_lsid: 1499-1
 wikidata_id: Q47115269
 ipni_surname: Chalmers
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1499-1), [Wikidata](https://www.wikidata.org/wiki/Q47115269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1499-1) LSID 1499-1, [Wikidata](https://www.wikidata.org/wiki/Q47115269) QID Q47115269
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

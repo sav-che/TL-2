@@ -6,7 +6,7 @@ tl2_surname: Jacob
 tl2_forenames: Edward
 tl2_name_abbrev: Jacob
 tl2_dates: c. 1710-1788
-tl2_page_id: 33068643
+tl2_bhl_page_id: 33068643
 author_lsid: 4370-1
 wikidata_id: Q5343712
 ipni_surname: Jacob
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4370-1), [Wikidata](https://www.wikidata.org/wiki/Q5343712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4370-1) LSID 4370-1, [Wikidata](https://www.wikidata.org/wiki/Q5343712) QID Q5343712
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

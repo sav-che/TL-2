@@ -6,7 +6,7 @@ tl2_surname: Wojinowic
 tl2_forenames: Welislaw P.
 tl2_name_abbrev: Wojinowic
 tl2_dates: 1864-1892
-tl2_page_id: 33066759
+tl2_bhl_page_id: 33066759
 author_lsid: 11810-1
 wikidata_id: Q21612904
 ipni_surname: Wojinowić
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11810-1), [Wikidata](https://www.wikidata.org/wiki/Q21612904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11810-1) LSID 11810-1, [Wikidata](https://www.wikidata.org/wiki/Q21612904) QID Q21612904
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

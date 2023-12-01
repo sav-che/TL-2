@@ -6,7 +6,7 @@ tl2_surname: Wollenweber
 tl2_forenames: Hans Wilhelm
 tl2_name_abbrev: Wollenweb.
 tl2_dates: 1879-1949
-tl2_page_id: 33066766
+tl2_bhl_page_id: 33066766
 author_lsid: 11828-1
 wikidata_id: Q21612926
 ipni_surname: Wollenweber
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33066766) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11828-1), [Wikidata](https://www.wikidata.org/wiki/Q21612926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11828-1) LSID 11828-1, [Wikidata](https://www.wikidata.org/wiki/Q21612926) QID Q21612926
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

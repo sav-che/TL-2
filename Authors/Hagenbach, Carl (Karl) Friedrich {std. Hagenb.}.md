@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0018
 tl2_volume: vol2
 tl2_page_printed: 12
 tl2_surname: Hagenbach
-tl2_forenames: Carl [Karl] Friedrich
+tl2_forenames: Carl (Karl) Friedrich
 tl2_name_abbrev: Hagenb.
 tl2_dates: 1771-1849
-tl2_page_id: 33068254
+tl2_bhl_page_id: 33068254
 author_lsid: 3548-1
 wikidata_id: Q5958254
 ipni_surname: Hagenbach
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33068254) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3548-1), [Wikidata](https://www.wikidata.org/wiki/Q5958254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3548-1) LSID 3548-1, [Wikidata](https://www.wikidata.org/wiki/Q5958254) QID Q5958254
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

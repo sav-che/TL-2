@@ -6,7 +6,7 @@ tl2_surname: Flagey
 tl2_forenames: Camille
 tl2_name_abbrev: Flag.
 tl2_dates: 1837-1898
-tl2_page_id: 33120973
+tl2_bhl_page_id: 33120973
 author_lsid: 2768-1
 wikidata_id: Q21339591
 ipni_surname: Flagey
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33120973) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2768-1), [Wikidata](https://www.wikidata.org/wiki/Q21339591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2768-1) LSID 2768-1, [Wikidata](https://www.wikidata.org/wiki/Q21339591) QID Q21339591
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Flagey, Camille (Jean Pierre) {std. Flagey} (Suppl.)|second entry]] for this author
 

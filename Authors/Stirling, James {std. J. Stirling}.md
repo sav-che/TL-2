@@ -6,7 +6,7 @@ tl2_surname: Stirling
 tl2_forenames: James
 tl2_name_abbrev: J. Stirling
 tl2_dates: 1852-1909
-tl2_page_id: 33212091
+tl2_bhl_page_id: 33212091
 author_lsid: 27234-1
 wikidata_id: Q21609869
 ipni_surname: Stirling
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33212091) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27234-1), [Wikidata](https://www.wikidata.org/wiki/Q21609869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27234-1) LSID 27234-1, [Wikidata](https://www.wikidata.org/wiki/Q21609869) QID Q21609869
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

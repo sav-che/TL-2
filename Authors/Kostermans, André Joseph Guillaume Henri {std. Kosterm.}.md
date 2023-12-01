@@ -6,7 +6,7 @@ tl2_surname: Kostermans
 tl2_forenames: André Joseph Guillaume Henri
 tl2_name_abbrev: Kosterm.
 tl2_dates: 1907-x
-tl2_page_id: 33068896
+tl2_bhl_page_id: 33068896
 author_lsid: 4984-1
 wikidata_id: Q2467467
 ipni_surname: Kostermans
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33068896) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4984-1), [Wikidata](https://www.wikidata.org/wiki/Q2467467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4984-1) LSID 4984-1, [Wikidata](https://www.wikidata.org/wiki/Q2467467) QID Q2467467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schmidt
 tl2_forenames: Adolf Wilhelm Ferdinand
 tl2_name_abbrev: Ad. Schmidt
 tl2_dates: 1812-1899
-tl2_page_id: 33333381
+tl2_bhl_page_id: 33333381
 author_lsid: 9152-1
 wikidata_id: Q364540
 ipni_surname: Schmidt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33333381) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9152-1), [Wikidata](https://www.wikidata.org/wiki/Q364540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9152-1) LSID 9152-1, [Wikidata](https://www.wikidata.org/wiki/Q364540) QID Q364540
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

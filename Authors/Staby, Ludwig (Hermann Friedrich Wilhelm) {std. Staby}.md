@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0818
 tl2_volume: vol5
 tl2_page_printed: 822
 tl2_surname: Staby
-tl2_forenames: Ludwig [Hermann Friedrich Wilhelm]
+tl2_forenames: Ludwig (Hermann Friedrich Wilhelm)
 tl2_name_abbrev: Staby
 tl2_dates: 1861-?
-tl2_page_id: 33333961
+tl2_bhl_page_id: 33333961
 author_lsid: 12880-1
 wikidata_id: Q21609428
 ipni_surname: Staby
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33333961) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12880-1), [Wikidata](https://www.wikidata.org/wiki/Q21609428). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12880-1) LSID 12880-1, [Wikidata](https://www.wikidata.org/wiki/Q21609428) QID Q21609428
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0419
 tl2_volume: vol7
 tl2_page_printed: 463
 tl2_surname: Wretschko
-tl2_forenames: Matthias [Ritter von]
+tl2_forenames: Matthias (Ritter von)
 tl2_name_abbrev: Wretschko
 tl2_dates: 1834-1914
-tl2_page_id: 33066803
+tl2_bhl_page_id: 33066803
 author_lsid: 11879-1
 wikidata_id: Q21613044
 ipni_surname: Wretschko
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33066803) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11879-1), [Wikidata](https://www.wikidata.org/wiki/Q21613044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11879-1) LSID 11879-1, [Wikidata](https://www.wikidata.org/wiki/Q21613044) QID Q21613044
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

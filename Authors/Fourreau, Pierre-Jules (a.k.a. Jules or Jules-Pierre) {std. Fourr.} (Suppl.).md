@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0235
 tl2_volume: suppl7
 tl2_page_printed: 362
 tl2_surname: Fourreau
-tl2_forenames: Pierre-Jules [a.k.a. Jules or Jules-Pierre]
+tl2_forenames: Pierre-Jules (a.k.a. Jules or Jules-Pierre)
 tl2_name_abbrev: Fourr.
 tl2_dates: 1844-1871
-tl2_page_id: 33259866
+tl2_bhl_page_id: 33259866
 author_lsid: 2859-1
 wikidata_id: Q925866
 ipni_surname: Fourreau
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33259866) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2859-1), [Wikidata](https://www.wikidata.org/wiki/Q925866). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2859-1) LSID 2859-1, [Wikidata](https://www.wikidata.org/wiki/Q925866) QID Q925866
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fourreau, Jules-Pierre {std. Fourr.}|first entry]] for this author
 

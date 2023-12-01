@@ -6,7 +6,7 @@ tl2_surname: Alm
 tl2_forenames: Carl Gustav
 tl2_name_abbrev: Alm
 tl2_dates: 1888-1962
-tl2_page_id: 33264808
+tl2_bhl_page_id: 33264808
 author_lsid: 158-1
 wikidata_id: Q21505100
 ipni_surname: Alm
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33264808) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/158-1), [Wikidata](https://www.wikidata.org/wiki/Q21505100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/158-1) LSID 158-1, [Wikidata](https://www.wikidata.org/wiki/Q21505100) QID Q21505100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Alm, Carl Gustaf {std. C. Alm}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Bernoulli
 tl2_forenames: Carl Gustav
 tl2_name_abbrev: Bernouilli
 tl2_dates: 1834-1878
-tl2_page_id: 33120331
+tl2_bhl_page_id: 33120331
 author_lsid: 715-1
 wikidata_id: Q121991
 ipni_surname: Bernoulli
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/715-1), [Wikidata](https://www.wikidata.org/wiki/Q121991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/715-1) LSID 715-1, [Wikidata](https://www.wikidata.org/wiki/Q121991) QID Q121991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bernoulli, Karl (Carl) Gustav {std. Bernoulli} (Suppl.)|second entry]] for this author
 

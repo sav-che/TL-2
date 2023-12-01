@@ -6,7 +6,7 @@ tl2_surname: Templeton
 tl2_forenames: John
 tl2_name_abbrev: Templeton
 tl2_dates: 1766-1825
-tl2_page_id: 33212250
+tl2_bhl_page_id: 33212250
 author_lsid: 10500-1
 wikidata_id: Q6260437
 ipni_surname: Templeton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10500-1), [Wikidata](https://www.wikidata.org/wiki/Q6260437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10500-1) LSID 10500-1, [Wikidata](https://www.wikidata.org/wiki/Q6260437) QID Q6260437
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0329
 tl2_volume: suppl8
 tl2_page_printed: 452
 tl2_surname: Guillemin
-tl2_forenames: [Jean Baptiste] Antoine
+tl2_forenames: (Jean Baptiste) Antoine
 tl2_name_abbrev: Guillem.
 tl2_dates: 1796-1842
-tl2_page_id: 33258930
+tl2_bhl_page_id: 33258930
 author_lsid: 3466-1
 wikidata_id: Q532500
 ipni_surname: Guillemin
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33258930) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3466-1), [Wikidata](https://www.wikidata.org/wiki/Q532500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3466-1) LSID 3466-1, [Wikidata](https://www.wikidata.org/wiki/Q532500) QID Q532500
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Guillemin, (Jean Baptiste) Antoine {std. Guillem.}|first entry]] for this author
 

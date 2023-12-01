@@ -6,7 +6,7 @@ tl2_surname: Squier
 tl2_forenames: Ephraim George
 tl2_name_abbrev: Squier
 tl2_dates: 1821-1888
-tl2_page_id: 33333959
+tl2_bhl_page_id: 33333959
 author_lsid: 9998-1
 wikidata_id: Q721839
 ipni_surname: Squier
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9998-1), [Wikidata](https://www.wikidata.org/wiki/Q721839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9998-1) LSID 9998-1, [Wikidata](https://www.wikidata.org/wiki/Q721839) QID Q721839
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

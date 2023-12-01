@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0061
 tl2_volume: suppl5
 tl2_page_printed: 53
 tl2_surname: Daniel
-tl2_forenames: Lucien [Louis]
+tl2_forenames: Lucien (Louis)
 tl2_name_abbrev: L.L. Daniel
 tl2_dates: 1856-1940
-tl2_page_id: 33259099
+tl2_bhl_page_id: 33259099
 author_lsid: 1985-1
 wikidata_id: Q3265618
 ipni_surname: Daniel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33259099) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1985-1), [Wikidata](https://www.wikidata.org/wiki/Q3265618). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1985-1) LSID 1985-1, [Wikidata](https://www.wikidata.org/wiki/Q3265618) QID Q3265618
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

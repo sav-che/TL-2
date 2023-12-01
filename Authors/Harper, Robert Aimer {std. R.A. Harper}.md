@@ -6,7 +6,7 @@ tl2_surname: Harper
 tl2_forenames: Robert Aimer
 tl2_name_abbrev: R.A. Harper
 tl2_dates: 1862-1946
-tl2_page_id: 33068299
+tl2_bhl_page_id: 33068299
 author_lsid: 3672-1
 wikidata_id: Q15997345
 ipni_surname: Harper
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3672-1), [Wikidata](https://www.wikidata.org/wiki/Q15997345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3672-1) LSID 3672-1, [Wikidata](https://www.wikidata.org/wiki/Q15997345) QID Q15997345
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

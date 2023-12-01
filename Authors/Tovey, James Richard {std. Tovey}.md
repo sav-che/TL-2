@@ -6,7 +6,7 @@ tl2_surname: Tovey
 tl2_forenames: James Richard
 tl2_name_abbrev: Tovey
 tl2_dates: 1873-1922
-tl2_page_id: 33212460
+tl2_bhl_page_id: 33212460
 author_lsid: 10771-1
 wikidata_id: Q21610906
 ipni_surname: Tovey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33212460) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10771-1), [Wikidata](https://www.wikidata.org/wiki/Q21610906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10771-1) LSID 10771-1, [Wikidata](https://www.wikidata.org/wiki/Q21610906) QID Q21610906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

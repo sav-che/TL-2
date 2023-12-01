@@ -6,7 +6,7 @@ tl2_surname: Marquart
 tl2_forenames: Friedrich
 tl2_name_abbrev: F. Marquart
 tl2_dates: fl. 1842
-tl2_page_id: 33355390
+tl2_bhl_page_id: 33355390
 author_lsid: 35187-1
 wikidata_id: Q36555721
 ipni_surname: Marquart
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35187-1), [Wikidata](https://www.wikidata.org/wiki/Q36555721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35187-1) LSID 35187-1, [Wikidata](https://www.wikidata.org/wiki/Q36555721) QID Q36555721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

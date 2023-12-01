@@ -6,7 +6,7 @@ tl2_surname: De Wildeman
 tl2_forenames: Émile Auguste Joseph
 tl2_name_abbrev: De Wild.
 tl2_dates: 1866-1947
-tl2_page_id: 33120770
+tl2_bhl_page_id: 33120770
 author_lsid: 12406-1
 wikidata_id: Q2628388
 ipni_surname: De Wildeman
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:35:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/page/33120770) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12406-1), [Wikidata](https://www.wikidata.org/wiki/Q2628388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12406-1) LSID 12406-1, [Wikidata](https://www.wikidata.org/wiki/Q2628388) QID Q2628388
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[De Wildeman, Émile Auguste Joseph {std. De Wild.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Marsden
 tl2_forenames: William
 tl2_name_abbrev: Marsden
 tl2_dates: 1754-1836
-tl2_page_id: 33355393
+tl2_bhl_page_id: 33355393
 author_lsid: 6130-1
 wikidata_id: Q1335233
 ipni_surname: Marsden
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33355393) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6130-1), [Wikidata](https://www.wikidata.org/wiki/Q1335233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6130-1) LSID 6130-1, [Wikidata](https://www.wikidata.org/wiki/Q1335233) QID Q1335233
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

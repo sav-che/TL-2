@@ -6,7 +6,7 @@ tl2_surname: Ochse
 tl2_forenames: Jacob Jonas
 tl2_name_abbrev: Ochse
 tl2_dates: 1891-1970
-tl2_page_id: 33355889
+tl2_bhl_page_id: 33355889
 author_lsid: 7080-1
 wikidata_id: Q21341127
 ipni_surname: Ochse
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:43:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7080-1), [Wikidata](https://www.wikidata.org/wiki/Q21341127). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7080-1) LSID 7080-1, [Wikidata](https://www.wikidata.org/wiki/Q21341127) QID Q21341127
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

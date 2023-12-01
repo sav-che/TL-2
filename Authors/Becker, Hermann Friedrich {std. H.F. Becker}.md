@@ -6,7 +6,7 @@ tl2_surname: Becker
 tl2_forenames: Hermann Friedrich
 tl2_name_abbrev: H.F. Becker
 tl2_dates: fl. 1791
-tl2_page_id: 33265227
+tl2_bhl_page_id: 33265227
 author_lsid: 20031078-1
 wikidata_id: Q21516329
 ipni_surname: Becker
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265227) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/20031078-1), [Wikidata](https://www.wikidata.org/wiki/Q21516329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20031078-1) LSID 20031078-1, [Wikidata](https://www.wikidata.org/wiki/Q21516329) QID Q21516329
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

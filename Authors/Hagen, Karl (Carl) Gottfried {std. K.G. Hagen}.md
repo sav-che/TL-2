@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0016
 tl2_volume: vol2
 tl2_page_printed: 11
 tl2_surname: Hagen
-tl2_forenames: Karl [Carl] Gottfried
+tl2_forenames: Karl (Carl) Gottfried
 tl2_name_abbrev: K.G. Hagen
 tl2_dates: 1749-1829
-tl2_page_id: 33068253
+tl2_bhl_page_id: 33068253
 author_lsid: 3543-1
 wikidata_id: Q91918
 ipni_surname: Hagen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33068253) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3543-1), [Wikidata](https://www.wikidata.org/wiki/Q91918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3543-1) LSID 3543-1, [Wikidata](https://www.wikidata.org/wiki/Q91918) QID Q91918
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

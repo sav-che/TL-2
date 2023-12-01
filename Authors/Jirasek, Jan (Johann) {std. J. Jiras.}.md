@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0498
 tl2_volume: vol2
 tl2_page_printed: 444
 tl2_surname: Jirasek
-tl2_forenames: Jan [Johann]
+tl2_forenames: Jan (Johann)
 tl2_name_abbrev: J. Jiras.
 tl2_dates: 1754-1797
-tl2_page_id: 33068686
+tl2_bhl_page_id: 33068686
 author_lsid: 4491-1
 wikidata_id: Q21517037
 ipni_surname: Jirasek
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4491-1), [Wikidata](https://www.wikidata.org/wiki/Q21517037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4491-1) LSID 4491-1, [Wikidata](https://www.wikidata.org/wiki/Q21517037) QID Q21517037
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

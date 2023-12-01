@@ -6,7 +6,7 @@ tl2_surname: Humbert
 tl2_forenames: Henri
 tl2_name_abbrev: Humbert
 tl2_dates: 1887-1967
-tl2_page_id: 33068604
+tl2_bhl_page_id: 33068604
 author_lsid: 4221-1
 wikidata_id: Q2738811
 ipni_surname: Humbert
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4221-1), [Wikidata](https://www.wikidata.org/wiki/Q2738811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4221-1) LSID 4221-1, [Wikidata](https://www.wikidata.org/wiki/Q2738811) QID Q2738811
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Storch
 tl2_forenames: Franz de Paula
 tl2_name_abbrev: Storch
 tl2_dates: 1812-?
-tl2_page_id: 33212067
+tl2_bhl_page_id: 33212067
 author_lsid: 10186-1
 wikidata_id: Q21609906
 ipni_surname: Storch
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33212067) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10186-1), [Wikidata](https://www.wikidata.org/wiki/Q21609906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10186-1) LSID 10186-1, [Wikidata](https://www.wikidata.org/wiki/Q21609906) QID Q21609906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

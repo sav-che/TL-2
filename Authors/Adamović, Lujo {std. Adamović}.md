@@ -6,7 +6,7 @@ tl2_surname: Adamović
 tl2_forenames: Lujo
 tl2_name_abbrev: Adamović
 tl2_dates: 1864-x
-tl2_page_id: 33120101
+tl2_bhl_page_id: 33120101
 author_lsid: 61-1
 wikidata_id: Q726012
 ipni_surname: Adamović
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33120101) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/61-1), [Wikidata](https://www.wikidata.org/wiki/Q726012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/61-1) LSID 61-1, [Wikidata](https://www.wikidata.org/wiki/Q726012) QID Q726012
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Adamović, Lujo {std. Adamović} (Suppl.)|second entry]] for this author
 

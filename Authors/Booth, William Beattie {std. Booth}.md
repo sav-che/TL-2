@@ -6,7 +6,7 @@ tl2_surname: Booth
 tl2_forenames: William Beattie
 tl2_name_abbrev: Booth
 tl2_dates: c. 1804-1874
-tl2_page_id: 33120408
+tl2_bhl_page_id: 33120408
 author_lsid: 970-1
 wikidata_id: Q6167569
 ipni_surname: Booth
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33120408) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/970-1), [Wikidata](https://www.wikidata.org/wiki/Q6167569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/970-1) LSID 970-1, [Wikidata](https://www.wikidata.org/wiki/Q6167569) QID Q6167569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

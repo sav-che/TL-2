@@ -6,7 +6,7 @@ tl2_surname: Pizarro
 tl2_forenames: João Joaquim
 tl2_name_abbrev: Pizarro
 tl2_dates: fl. 1872-1887
-tl2_page_id: 33189754
+tl2_bhl_page_id: 33189754
 author_lsid: 7736-1
 wikidata_id: Q26713252
 ipni_surname: Pizarro
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33189754) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7736-1), [Wikidata](https://www.wikidata.org/wiki/Q26713252). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7736-1) LSID 7736-1, [Wikidata](https://www.wikidata.org/wiki/Q26713252) QID Q26713252
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Smyttère
 tl2_forenames: Philippe Joseph Emmanuel de
 tl2_name_abbrev: Smyttère
 tl2_dates: 1800-?
-tl2_page_id: 33333848
+tl2_bhl_page_id: 33333848
 author_lsid: 9832-1
 wikidata_id: Q21609146
 ipni_surname: Smyttère
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33333848) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9832-1), [Wikidata](https://www.wikidata.org/wiki/Q21609146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9832-1) LSID 9832-1, [Wikidata](https://www.wikidata.org/wiki/Q21609146) QID Q21609146
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

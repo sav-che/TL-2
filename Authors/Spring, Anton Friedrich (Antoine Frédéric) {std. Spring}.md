@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0812
 tl2_volume: vol5
 tl2_page_printed: 815
 tl2_surname: Spring
-tl2_forenames: Anton Friedrich [Antoine Frédéric]
+tl2_forenames: Anton Friedrich (Antoine Frédéric)
 tl2_name_abbrev: Spring
 tl2_dates: 1814-1872
-tl2_page_id: 33333954
+tl2_bhl_page_id: 33333954
 author_lsid: 9994-1
 wikidata_id: Q3184518
 ipni_surname: Spring
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33333954) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9994-1), [Wikidata](https://www.wikidata.org/wiki/Q3184518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9994-1) LSID 9994-1, [Wikidata](https://www.wikidata.org/wiki/Q3184518) QID Q3184518
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Milne-Redhead
 tl2_forenames: Edgar Wolston Bertram Handsley
 tl2_name_abbrev: Milne-Redh.
 tl2_dates: 1906-x
-tl2_page_id: 33355592
+tl2_bhl_page_id: 33355592
 author_lsid: 6495-1
 wikidata_id: Q5817751
 ipni_surname: Milne-Redhead
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33355592) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6495-1), [Wikidata](https://www.wikidata.org/wiki/Q5817751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6495-1) LSID 6495-1, [Wikidata](https://www.wikidata.org/wiki/Q5817751) QID Q5817751
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Rawitscher
 tl2_forenames: Felix
 tl2_name_abbrev: Rawitscher
 tl2_dates: 1890-1957
-tl2_page_id: 33190074
+tl2_bhl_page_id: 33190074
 author_lsid: 8187-1
 wikidata_id: Q19279537
 ipni_surname: Rawitscher
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8187-1), [Wikidata](https://www.wikidata.org/wiki/Q19279537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8187-1) LSID 8187-1, [Wikidata](https://www.wikidata.org/wiki/Q19279537) QID Q19279537
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

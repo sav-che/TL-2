@@ -6,7 +6,7 @@ tl2_surname: Cleland
 tl2_forenames: John Burton
 tl2_name_abbrev: Cleland
 tl2_dates: 1878-1971
-tl2_page_id: 33265878
+tl2_bhl_page_id: 33265878
 author_lsid: 17304-1
 wikidata_id: Q4223546
 ipni_surname: Cleland
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265878) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17304-1), [Wikidata](https://www.wikidata.org/wiki/Q4223546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17304-1) LSID 17304-1, [Wikidata](https://www.wikidata.org/wiki/Q4223546) QID Q4223546
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

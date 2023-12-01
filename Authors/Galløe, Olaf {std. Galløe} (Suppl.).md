@@ -6,7 +6,7 @@ tl2_surname: Galløe
 tl2_forenames: Olaf
 tl2_name_abbrev: Galløe
 tl2_dates: 1881-1965
-tl2_page_id: 33258587
+tl2_bhl_page_id: 33258587
 author_lsid: 2997-1
 wikidata_id: Q12329973
 ipni_surname: Galløe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33258587) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2997-1), [Wikidata](https://www.wikidata.org/wiki/Q12329973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2997-1) LSID 2997-1, [Wikidata](https://www.wikidata.org/wiki/Q12329973) QID Q12329973
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Galløe, Olaf {std. Galløe}|first entry]] for this author
 

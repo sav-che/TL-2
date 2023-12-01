@@ -6,7 +6,7 @@ tl2_surname: Catcheside
 tl2_forenames: David Guthrie
 tl2_name_abbrev: Catcheside
 tl2_dates: 1907-x
-tl2_page_id: 33266769
+tl2_bhl_page_id: 33266769
 author_lsid: 1456-1
 wikidata_id: Q21165808
 ipni_surname: Catcheside
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:53:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1456-1), [Wikidata](https://www.wikidata.org/wiki/Q21165808). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1456-1) LSID 1456-1, [Wikidata](https://www.wikidata.org/wiki/Q21165808) QID Q21165808
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

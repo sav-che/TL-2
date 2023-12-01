@@ -6,7 +6,7 @@ tl2_surname: Carrington
 tl2_forenames: Benjamin
 tl2_name_abbrev: Carring.
 tl2_dates: 1827-1893
-tl2_page_id: 33120591
+tl2_bhl_page_id: 33120591
 author_lsid: 1420-1
 wikidata_id: Q21062909
 ipni_surname: Carrington
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33120591) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1420-1), [Wikidata](https://www.wikidata.org/wiki/Q21062909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1420-1) LSID 1420-1, [Wikidata](https://www.wikidata.org/wiki/Q21062909) QID Q21062909
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Carrington, Benjamin {std. Carrington} (Suppl.)|second entry]] for this author
 

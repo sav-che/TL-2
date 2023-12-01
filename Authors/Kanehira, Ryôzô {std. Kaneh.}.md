@@ -6,7 +6,7 @@ tl2_surname: Kanehira
 tl2_forenames: Ryôzô
 tl2_name_abbrev: Kaneh.
 tl2_dates: 1882-1948
-tl2_page_id: 33068735
+tl2_bhl_page_id: 33068735
 author_lsid: 4633-1
 wikidata_id: Q5935389
 ipni_surname: Kanehira
@@ -28,7 +28,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33068735) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4633-1), [Wikidata](https://www.wikidata.org/wiki/Q5935389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4633-1) LSID 4633-1, [Wikidata](https://www.wikidata.org/wiki/Q5935389) QID Q5935389
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

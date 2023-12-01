@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol6_0356
 tl2_volume: vol6
 tl2_page_printed: 301
-tl2_surname: Thümen [-Gräfendorf]
-tl2_forenames: Felix [Karl Albert Ernst Joachim baron] von
+tl2_surname: Thümen (-Gräfendorf)
+tl2_forenames: Felix (Karl Albert Ernst Joachim baron) von
 tl2_name_abbrev: Thuem.
 tl2_dates: 1839-1892
-tl2_page_id: 33212343
+tl2_bhl_page_id: 33212343
 author_lsid: 27708-1
 wikidata_id: Q4467468
 ipni_surname: Thümen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33212343) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27708-1), [Wikidata](https://www.wikidata.org/wiki/Q4467468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27708-1) LSID 27708-1, [Wikidata](https://www.wikidata.org/wiki/Q4467468) QID Q4467468
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

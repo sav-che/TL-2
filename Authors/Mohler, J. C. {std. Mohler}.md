@@ -6,7 +6,7 @@ tl2_surname: Mohler
 tl2_forenames: J. C.
 tl2_name_abbrev: Mohler
 tl2_dates: fl. 1928
-tl2_page_id: 33355630
+tl2_bhl_page_id: 33355630
 author_lsid: 6561-1
 wikidata_id: Q36595366
 ipni_surname: Mohler
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6561-1), [Wikidata](https://www.wikidata.org/wiki/Q36595366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6561-1) LSID 6561-1, [Wikidata](https://www.wikidata.org/wiki/Q36595366) QID Q36595366
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

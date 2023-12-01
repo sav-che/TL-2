@@ -6,7 +6,7 @@ tl2_surname: De la Pylaie
 tl2_forenames: Auguste Jean Marie Bachelot
 tl2_name_abbrev: Pylaie
 tl2_dates: 1786-1856
-tl2_page_id: 33120742
+tl2_bhl_page_id: 33120742
 author_lsid: 363-1
 wikidata_id: Q942867
 ipni_surname: Bachelot de la Pylaie
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:45:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33120742) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/363-1), [Wikidata](https://www.wikidata.org/wiki/Q942867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/363-1) LSID 363-1, [Wikidata](https://www.wikidata.org/wiki/Q942867) QID Q942867
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

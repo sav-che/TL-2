@@ -6,7 +6,7 @@ tl2_surname: Rutström
 tl2_forenames: Carl Birger
 tl2_name_abbrev: Rutstr.
 tl2_dates: 1758-1826
-tl2_page_id: 33190481
+tl2_bhl_page_id: 33190481
 author_lsid: 8762-1
 wikidata_id: Q6084610
 ipni_surname: Rutström
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1010](https://www.biodiversitylibrary.org/page/33190481) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8762-1), [Wikidata](https://www.wikidata.org/wiki/Q6084610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8762-1) LSID 8762-1, [Wikidata](https://www.wikidata.org/wiki/Q6084610) QID Q6084610
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

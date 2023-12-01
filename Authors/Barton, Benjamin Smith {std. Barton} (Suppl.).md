@@ -6,7 +6,7 @@ tl2_surname: Barton
 tl2_forenames: Benjamin Smith
 tl2_name_abbrev: Barton
 tl2_dates: 1766-1815
-tl2_page_id: 33265075
+tl2_bhl_page_id: 33265075
 author_lsid: 515-1
 wikidata_id: Q276825
 ipni_surname: Barton
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33265075) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/515-1), [Wikidata](https://www.wikidata.org/wiki/Q276825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/515-1) LSID 515-1, [Wikidata](https://www.wikidata.org/wiki/Q276825) QID Q276825
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Barton, Benjamin Smith {std. Barton}|first entry]] for this author
 

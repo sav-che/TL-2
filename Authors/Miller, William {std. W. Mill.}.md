@@ -6,7 +6,7 @@ tl2_surname: Miller
 tl2_forenames: William
 tl2_name_abbrev: W. Mill.
 tl2_dates: c. 1831-1898
-tl2_page_id: 33355587
+tl2_bhl_page_id: 33355587
 author_lsid: 6489-1
 wikidata_id: Q6167684
 ipni_surname: Miller
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33355587) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6489-1), [Wikidata](https://www.wikidata.org/wiki/Q6167684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6489-1) LSID 6489-1, [Wikidata](https://www.wikidata.org/wiki/Q6167684) QID Q6167684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

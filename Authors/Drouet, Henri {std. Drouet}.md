@@ -6,7 +6,7 @@ tl2_surname: Drouet
 tl2_forenames: Henri
 tl2_name_abbrev: Drouet
 tl2_dates: 1829-x
-tl2_page_id: 33120812
+tl2_bhl_page_id: 33120812
 author_lsid: 2319-1
 wikidata_id: Q10294687
 ipni_surname: Drouet
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2319-1), [Wikidata](https://www.wikidata.org/wiki/Q10294687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2319-1) LSID 2319-1, [Wikidata](https://www.wikidata.org/wiki/Q10294687) QID Q10294687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

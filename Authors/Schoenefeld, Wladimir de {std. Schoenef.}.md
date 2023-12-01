@@ -6,7 +6,7 @@ tl2_surname: Schoenefeld
 tl2_forenames: Wladimir de
 tl2_name_abbrev: Schoenef.
 tl2_dates: 1816-1875
-tl2_page_id: 33333425
+tl2_bhl_page_id: 33333425
 author_lsid: 9215-1
 wikidata_id: Q3569556
 ipni_surname: Schoenefeld
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33333425) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9215-1), [Wikidata](https://www.wikidata.org/wiki/Q3569556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9215-1) LSID 9215-1, [Wikidata](https://www.wikidata.org/wiki/Q3569556) QID Q3569556
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

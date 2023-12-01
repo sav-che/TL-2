@@ -6,7 +6,7 @@ tl2_surname: Herbert
 tl2_forenames: William
 tl2_name_abbrev: Herb.
 tl2_dates: 1778-1847
-tl2_page_id: 33068407
+tl2_bhl_page_id: 33068407
 author_lsid: 12542-1
 wikidata_id: Q954928
 ipni_surname: Herbert
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33068407) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12542-1), [Wikidata](https://www.wikidata.org/wiki/Q954928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12542-1) LSID 12542-1, [Wikidata](https://www.wikidata.org/wiki/Q954928) QID Q954928
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

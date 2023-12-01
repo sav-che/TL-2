@@ -6,7 +6,7 @@ tl2_surname: Coemans
 tl2_forenames: Eugène-Henri-Lucien Gaëtan
 tl2_name_abbrev: Coem.
 tl2_dates: 1825-1871
-tl2_page_id: 33265922
+tl2_bhl_page_id: 33265922
 author_lsid: 1718-1
 wikidata_id: Q4251070
 ipni_surname: Coemans
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33265922) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1718-1), [Wikidata](https://www.wikidata.org/wiki/Q4251070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1718-1) LSID 1718-1, [Wikidata](https://www.wikidata.org/wiki/Q4251070) QID Q4251070
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Coemans, Abbé Henri Eugène Lucien Gaëtan {std. Coem.}|first entry]] for this author
 

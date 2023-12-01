@@ -6,7 +6,7 @@ tl2_surname: Domaradsky
 tl2_forenames: M.
 tl2_name_abbrev: Domaradsky
 tl2_dates: fl. 1908
-tl2_page_id: 33260021
+tl2_bhl_page_id: 33260021
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33260021) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

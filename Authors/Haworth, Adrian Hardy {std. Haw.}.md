@@ -6,7 +6,7 @@ tl2_surname: Haworth
 tl2_forenames: Adrian Hardy
 tl2_name_abbrev: Haw.
 tl2_dates: 1768-1833
-tl2_page_id: 33068347
+tl2_bhl_page_id: 33068347
 author_lsid: 3738-1
 wikidata_id: Q373119
 ipni_surname: Haworth
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3738-1), [Wikidata](https://www.wikidata.org/wiki/Q373119). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3738-1) LSID 3738-1, [Wikidata](https://www.wikidata.org/wiki/Q373119) QID Q373119
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

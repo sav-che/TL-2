@@ -6,7 +6,7 @@ tl2_surname: Filet
 tl2_forenames: G.J.
 tl2_name_abbrev: Filet
 tl2_dates: 1825-1891
-tl2_page_id: 33259686
+tl2_bhl_page_id: 33259686
 author_lsid: 2727-1
 wikidata_id: Q21513006
 ipni_surname: Filet
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259686) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2727-1), [Wikidata](https://www.wikidata.org/wiki/Q21513006). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2727-1) LSID 2727-1, [Wikidata](https://www.wikidata.org/wiki/Q21513006) QID Q21513006
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Filet, G. J. {std. Filet}|first entry]] for this author
 

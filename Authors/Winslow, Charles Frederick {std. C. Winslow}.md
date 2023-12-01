@@ -6,7 +6,7 @@ tl2_surname: Winslow
 tl2_forenames: Charles Frederick
 tl2_name_abbrev: C. Winslow
 tl2_dates: 1811-1877
-tl2_page_id: 33066719
+tl2_bhl_page_id: 33066719
 author_lsid: 11770-1
 wikidata_id: Q5077574
 ipni_surname: Winslow
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11770-1), [Wikidata](https://www.wikidata.org/wiki/Q5077574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11770-1) LSID 11770-1, [Wikidata](https://www.wikidata.org/wiki/Q5077574) QID Q5077574
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

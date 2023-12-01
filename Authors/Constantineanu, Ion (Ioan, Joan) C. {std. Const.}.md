@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0249
 tl2_volume: suppl4
 tl2_page_printed: 308
 tl2_surname: Constantineanu
-tl2_forenames: Ion [Ioan, Joan] C.
+tl2_forenames: Ion (Ioan, Joan) C.
 tl2_name_abbrev: Const.
 tl2_dates: 1860-1931
-tl2_page_id: 33265985
+tl2_bhl_page_id: 33265985
 author_lsid: 1770-1
 wikidata_id: Q21508968
 ipni_surname: Constantineanu
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:27:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265985) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1770-1), [Wikidata](https://www.wikidata.org/wiki/Q21508968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1770-1) LSID 1770-1, [Wikidata](https://www.wikidata.org/wiki/Q21508968) QID Q21508968
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Timm
 tl2_forenames: Carl Theodor
 tl2_name_abbrev: C. Timm
 tl2_dates: 1824-1907
-tl2_page_id: 33212403
+tl2_bhl_page_id: 33212403
 author_lsid: 10674-1
 wikidata_id: Q21610751
 ipni_surname: Timm
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10674-1), [Wikidata](https://www.wikidata.org/wiki/Q21610751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10674-1) LSID 10674-1, [Wikidata](https://www.wikidata.org/wiki/Q21610751) QID Q21610751
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

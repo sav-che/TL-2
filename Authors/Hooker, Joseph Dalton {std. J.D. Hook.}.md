@@ -6,7 +6,7 @@ tl2_surname: Hooker
 tl2_forenames: Joseph Dalton
 tl2_name_abbrev: J.D. Hook.
 tl2_dates: 1817-1911
-tl2_page_id: 33068509
+tl2_bhl_page_id: 33068509
 author_lsid: 4084-1
 wikidata_id: Q157501
 ipni_surname: Hooker
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:36:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33068509) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4084-1), [Wikidata](https://www.wikidata.org/wiki/Q157501). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4084-1) LSID 4084-1, [Wikidata](https://www.wikidata.org/wiki/Q157501) QID Q157501
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

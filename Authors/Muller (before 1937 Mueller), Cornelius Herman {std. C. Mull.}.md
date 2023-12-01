@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0766
 tl2_volume: vol3
 tl2_page_printed: 659
-tl2_surname: Muller [before 1937: Mueller]
+tl2_surname: Muller (before 1937: Mueller)
 tl2_forenames: Cornelius Herman
 tl2_name_abbrev: C. Mull.
 tl2_dates: 1909-x
-tl2_page_id: 33355746
+tl2_bhl_page_id: 33355746
 author_lsid: 12701-1
 wikidata_id: Q5171384
 ipni_surname: Muller
@@ -24,7 +24,8 @@ ipni_record_modified: 2006-01-13 08:32:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12701-1), [Wikidata](https://www.wikidata.org/wiki/Q5171384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12701-1) LSID 12701-1, [Wikidata](https://www.wikidata.org/wiki/Q5171384) QID Q5171384
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

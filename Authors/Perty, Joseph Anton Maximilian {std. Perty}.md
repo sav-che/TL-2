@@ -6,7 +6,7 @@ tl2_surname: Perty
 tl2_forenames: Joseph Anton Maximilian
 tl2_name_abbrev: Perty
 tl2_dates: 1804-1884
-tl2_page_id: 33189656
+tl2_bhl_page_id: 33189656
 author_lsid: 7552-1
 wikidata_id: Q86450
 ipni_surname: Perty
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7552-1), [Wikidata](https://www.wikidata.org/wiki/Q86450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7552-1) LSID 7552-1, [Wikidata](https://www.wikidata.org/wiki/Q86450) QID Q86450
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

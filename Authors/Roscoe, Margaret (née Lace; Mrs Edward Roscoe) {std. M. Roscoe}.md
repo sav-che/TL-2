@@ -6,7 +6,7 @@ tl2_surname: Roscoe
 tl2_forenames: Margaret (née Lace; Mrs Edward Roscoe)
 tl2_name_abbrev: M. Roscoe
 tl2_dates: fl. 1830
-tl2_page_id: 33190353
+tl2_bhl_page_id: 33190353
 author_lsid: 12788-1
 wikidata_id: Q24038739
 ipni_surname: Roscoe
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33190353) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12788-1), [Wikidata](https://www.wikidata.org/wiki/Q24038739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12788-1) LSID 12788-1, [Wikidata](https://www.wikidata.org/wiki/Q24038739) QID Q24038739
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

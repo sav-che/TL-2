@@ -6,7 +6,7 @@ tl2_surname: Stewart
 tl2_forenames: Robert
 tl2_name_abbrev: R. Stewart
 tl2_dates: 1811-1865
-tl2_page_id: 33334062
+tl2_bhl_page_id: 33334062
 author_lsid: 10140-1
 wikidata_id: Q6109532
 ipni_surname: Stewart
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33334062) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10140-1), [Wikidata](https://www.wikidata.org/wiki/Q6109532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10140-1) LSID 10140-1, [Wikidata](https://www.wikidata.org/wiki/Q6109532) QID Q6109532
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Muenscher
 tl2_forenames: Walter Leopold Conrad
 tl2_name_abbrev: Muenscher
 tl2_dates: 1891-1963
-tl2_page_id: 33355740
+tl2_bhl_page_id: 33355740
 author_lsid: 6753-1
 wikidata_id: Q6166236
 ipni_surname: Muenscher
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33355740) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6753-1), [Wikidata](https://www.wikidata.org/wiki/Q6166236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6753-1) LSID 6753-1, [Wikidata](https://www.wikidata.org/wiki/Q6166236) QID Q6166236
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

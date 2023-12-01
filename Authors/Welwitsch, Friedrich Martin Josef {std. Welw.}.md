@@ -6,7 +6,7 @@ tl2_surname: Welwitsch
 tl2_forenames: Friedrich Martin Josef
 tl2_name_abbrev: Welw.
 tl2_dates: 1806-1872
-tl2_page_id: 33066514
+tl2_bhl_page_id: 33066514
 author_lsid: 11540-1
 wikidata_id: Q78609
 ipni_surname: Welwitsch
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:53:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33066514) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11540-1), [Wikidata](https://www.wikidata.org/wiki/Q78609). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11540-1) LSID 11540-1, [Wikidata](https://www.wikidata.org/wiki/Q78609) QID Q78609
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

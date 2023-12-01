@@ -6,7 +6,7 @@ tl2_surname: Schröter
 tl2_forenames: Joseph
 tl2_name_abbrev: J. Schröt.
 tl2_dates: 1837-1894
-tl2_page_id: 33333487
+tl2_bhl_page_id: 33333487
 author_lsid: 26374-1
 wikidata_id: Q71160
 ipni_surname: Schröter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33333487) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26374-1), [Wikidata](https://www.wikidata.org/wiki/Q71160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26374-1) LSID 26374-1, [Wikidata](https://www.wikidata.org/wiki/Q71160) QID Q71160
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Abromeit
 tl2_forenames: Johannes
 tl2_name_abbrev: Abrom.
 tl2_dates: 1857-1946
-tl2_page_id: 33120096
+tl2_bhl_page_id: 33120096
 author_lsid: 47-1
 wikidata_id: Q73227
 ipni_surname: Abromeit
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33120096) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/47-1), [Wikidata](https://www.wikidata.org/wiki/Q73227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/47-1) LSID 47-1, [Wikidata](https://www.wikidata.org/wiki/Q73227) QID Q73227
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Abromeit, Johannes {std. Abrom.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Radermacher
 tl2_forenames: Jacobus Cornelius Matthaeus
 tl2_name_abbrev: Radermacher
 tl2_dates: 1741-1783
-tl2_page_id: 33190010
+tl2_bhl_page_id: 33190010
 author_lsid: 8081-1
 wikidata_id: Q945130
 ipni_surname: Radermacher
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8081-1), [Wikidata](https://www.wikidata.org/wiki/Q945130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8081-1) LSID 8081-1, [Wikidata](https://www.wikidata.org/wiki/Q945130) QID Q945130
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

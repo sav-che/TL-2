@@ -6,7 +6,7 @@ tl2_surname: Rand
 tl2_forenames: Edward Lothrop
 tl2_name_abbrev: E.L. Rand
 tl2_dates: 1859-1924
-tl2_page_id: 33190046
+tl2_bhl_page_id: 33190046
 author_lsid: 8131-1
 wikidata_id: Q20828375
 ipni_surname: Rand
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8131-1), [Wikidata](https://www.wikidata.org/wiki/Q20828375). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8131-1) LSID 8131-1, [Wikidata](https://www.wikidata.org/wiki/Q20828375) QID Q20828375
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

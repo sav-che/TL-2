@@ -6,7 +6,7 @@ tl2_surname: Doumenjou
 tl2_forenames: Jean-Bazile
 tl2_name_abbrev: Doumenjou
 tl2_dates: ?-1856
-tl2_page_id: 33260065
+tl2_bhl_page_id: 33260065
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33260065) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

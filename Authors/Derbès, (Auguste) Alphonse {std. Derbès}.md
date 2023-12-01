@@ -3,28 +3,31 @@ tl2_entry_id: tl2_suppl5_0242
 tl2_volume: suppl5
 tl2_page_printed: 211
 tl2_surname: Derbès
-tl2_forenames: [Auguste] Alphonse
+tl2_forenames: (Auguste) Alphonse
 tl2_name_abbrev: Derbès
 tl2_dates: 1818-1894
-tl2_page_id: 33259257
+tl2_bhl_page_id: 33259257
 author_lsid: 2136-1
 wikidata_id: Q4820636
 ipni_surname: Derbès
 ipni_forenames: August Alphonse
 ipni_standard_form: Derbès
-ipni_dates: 
-ipni_taxon_scope: 
+ipni_dates:
+ipni_taxon_scope:
 - Botany
 - Algae
-ipni_geo_scope: 
+ipni_geo_scope:
 - France
 ipni_version: 1.1
-ipni_record_created: 
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33259257) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2136-1), [Wikidata](https://www.wikidata.org/wiki/Q4820636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2136-1) LSID 2136-1, [Wikidata](https://www.wikidata.org/wiki/Q4820636) QID Q4820636
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
+
+> [!example] See also [[Derbès, Auguste Alphonse {std. Derbés}|first entry]] for this author
 
 ### Author
 

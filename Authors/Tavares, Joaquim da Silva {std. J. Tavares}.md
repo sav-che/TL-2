@@ -6,7 +6,7 @@ tl2_surname: Tavares
 tl2_forenames: Joaquim da Silva
 tl2_name_abbrev: J. Tavares
 tl2_dates: 1866-1931
-tl2_page_id: 33212227
+tl2_bhl_page_id: 33212227
 author_lsid: 10456-1
 wikidata_id: Q10307467
 ipni_surname: Tavares
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10456-1), [Wikidata](https://www.wikidata.org/wiki/Q10307467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10456-1) LSID 10456-1, [Wikidata](https://www.wikidata.org/wiki/Q10307467) QID Q10307467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

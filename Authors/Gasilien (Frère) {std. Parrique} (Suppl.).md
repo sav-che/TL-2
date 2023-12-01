@@ -6,7 +6,7 @@ tl2_surname: Parrique
 tl2_forenames: Gasilien (Frère)
 tl2_name_abbrev: 
 tl2_dates: 1851-1907
-tl2_page_id: 33258610
+tl2_bhl_page_id: 33258610
 author_lsid: 7365-1
 wikidata_id: Q21339522
 ipni_surname: Parrique
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33258610) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/7365-1), [Wikidata](https://www.wikidata.org/wiki/Q21339522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7365-1) LSID 7365-1, [Wikidata](https://www.wikidata.org/wiki/Q21339522) QID Q21339522
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Parrique, Géraud (Frère Gasilien) {std. Parrique}|first entry]] for this author
 

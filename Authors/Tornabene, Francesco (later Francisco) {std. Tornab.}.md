@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0431
 tl2_volume: vol6
 tl2_page_printed: 397
 tl2_surname: Tornabene
-tl2_forenames: Francesco [later Francisco]
+tl2_forenames: Francesco (later Francisco)
 tl2_name_abbrev: Tornab.
 tl2_dates: 1813-1897
-tl2_page_id: 33212439
+tl2_bhl_page_id: 33212439
 author_lsid: 10746-1
 wikidata_id: Q5864794
 ipni_surname: Tornabene
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:31:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33212439) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10746-1), [Wikidata](https://www.wikidata.org/wiki/Q5864794). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10746-1) LSID 10746-1, [Wikidata](https://www.wikidata.org/wiki/Q5864794) QID Q5864794
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Woolsey
 tl2_forenames: Theodore Salisbury, Jr.
 tl2_name_abbrev: Woolsey
 tl2_dates: 1880-1933
-tl2_page_id: 33066791
+tl2_bhl_page_id: 33066791
 author_lsid: 11863-1
 wikidata_id: Q7782028
 ipni_surname: Woolsey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33066791) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11863-1), [Wikidata](https://www.wikidata.org/wiki/Q7782028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11863-1) LSID 11863-1, [Wikidata](https://www.wikidata.org/wiki/Q7782028) QID Q7782028
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

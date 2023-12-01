@@ -6,7 +6,7 @@ tl2_surname: Mattei
 tl2_forenames: Giovanni Ettore
 tl2_name_abbrev: Mattei
 tl2_dates: 1865-1943
-tl2_page_id: 33355457
+tl2_bhl_page_id: 33355457
 author_lsid: 6231-1
 wikidata_id: Q3767180
 ipni_surname: Mattei
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33355457) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6231-1), [Wikidata](https://www.wikidata.org/wiki/Q3767180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6231-1) LSID 6231-1, [Wikidata](https://www.wikidata.org/wiki/Q3767180) QID Q3767180
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

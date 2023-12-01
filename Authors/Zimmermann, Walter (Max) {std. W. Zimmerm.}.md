@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0494
 tl2_volume: vol7
 tl2_page_printed: 542
 tl2_surname: Zimmermann
-tl2_forenames: Walter [Max]
+tl2_forenames: Walter (Max)
 tl2_name_abbrev: W. Zimmerm.
 tl2_dates: 1892-1980
-tl2_page_id: 33066882
+tl2_bhl_page_id: 33066882
 author_lsid: 12040-1
 wikidata_id: Q65811
 ipni_surname: Zimmermann
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:47:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33066882) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12040-1), [Wikidata](https://www.wikidata.org/wiki/Q65811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12040-1) LSID 12040-1, [Wikidata](https://www.wikidata.org/wiki/Q65811) QID Q65811
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lagerstedt
 tl2_forenames: Nils Gerhard Wilhelm
 tl2_name_abbrev: Lagerst.
 tl2_dates: 1847-1925
-tl2_page_id: 33068966
+tl2_bhl_page_id: 33068966
 author_lsid: 5208-1
 wikidata_id: Q5931539
 ipni_surname: Lagerstedt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33068966) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5208-1), [Wikidata](https://www.wikidata.org/wiki/Q5931539). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5208-1) LSID 5208-1, [Wikidata](https://www.wikidata.org/wiki/Q5931539) QID Q5931539
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

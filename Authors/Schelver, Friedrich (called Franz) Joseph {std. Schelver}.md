@@ -6,7 +6,7 @@ tl2_surname: Schelver
 tl2_forenames: Friedrich (called Franz) Joseph
 tl2_name_abbrev: Schelver
 tl2_dates: 1778-1832
-tl2_page_id: 33333267
+tl2_bhl_page_id: 33333267
 author_lsid: 9046-1
 wikidata_id: Q21607881
 ipni_surname: Schelver
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33333267) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9046-1), [Wikidata](https://www.wikidata.org/wiki/Q21607881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9046-1) LSID 9046-1, [Wikidata](https://www.wikidata.org/wiki/Q21607881) QID Q21607881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

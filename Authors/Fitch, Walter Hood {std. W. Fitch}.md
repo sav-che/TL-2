@@ -6,7 +6,7 @@ tl2_surname: Fitch
 tl2_forenames: Walter Hood
 tl2_name_abbrev: W. Fitch
 tl2_dates: 1817-1892
-tl2_page_id: 33120971
+tl2_bhl_page_id: 33120971
 author_lsid: 2760-1
 wikidata_id: Q1102060
 ipni_surname: Fitch
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2760-1), [Wikidata](https://www.wikidata.org/wiki/Q1102060). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2760-1) LSID 2760-1, [Wikidata](https://www.wikidata.org/wiki/Q1102060) QID Q1102060
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

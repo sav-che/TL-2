@@ -6,7 +6,7 @@ tl2_surname: Ball
 tl2_forenames: Carleton Roy
 tl2_name_abbrev: C.R. Ball
 tl2_dates: 1873-1958
-tl2_page_id: 33265028
+tl2_bhl_page_id: 33265028
 author_lsid: 427-1
 wikidata_id: Q15177428
 ipni_surname: Ball
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265028) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/427-1), [Wikidata](https://www.wikidata.org/wiki/Q15177428). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/427-1) LSID 427-1, [Wikidata](https://www.wikidata.org/wiki/Q15177428) QID Q15177428
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

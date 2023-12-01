@@ -6,7 +6,7 @@ tl2_surname: Hara
 tl2_forenames: Kanesuke
 tl2_name_abbrev: K. Hara
 tl2_dates: 1885-1962
-tl2_page_id: 33068293
+tl2_bhl_page_id: 33068293
 author_lsid: 3644-1
 wikidata_id: Q4390878
 ipni_surname: Hara
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:28:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33068293) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3644-1), [Wikidata](https://www.wikidata.org/wiki/Q4390878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3644-1) LSID 3644-1, [Wikidata](https://www.wikidata.org/wiki/Q4390878) QID Q4390878
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

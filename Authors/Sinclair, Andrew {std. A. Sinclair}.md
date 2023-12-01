@@ -6,7 +6,7 @@ tl2_surname: Sinclair
 tl2_forenames: Andrew
 tl2_name_abbrev: A. Sinclair
 tl2_dates: ca. 1796-1861
-tl2_page_id: 33333751
+tl2_bhl_page_id: 33333751
 author_lsid: 9687-1
 wikidata_id: Q4758589
 ipni_surname: Sinclair
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9687-1), [Wikidata](https://www.wikidata.org/wiki/Q4758589). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9687-1) LSID 9687-1, [Wikidata](https://www.wikidata.org/wiki/Q4758589) QID Q4758589
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: O'Meara
 tl2_forenames: Eugene
 tl2_name_abbrev: O'Meara
 tl2_dates: c. 1815-1880
-tl2_page_id: 33355924
+tl2_bhl_page_id: 33355924
 author_lsid: 7144-1
 wikidata_id: Q16861955
 ipni_surname: O'Meara
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7144-1), [Wikidata](https://www.wikidata.org/wiki/Q16861955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7144-1) LSID 7144-1, [Wikidata](https://www.wikidata.org/wiki/Q16861955) QID Q16861955
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

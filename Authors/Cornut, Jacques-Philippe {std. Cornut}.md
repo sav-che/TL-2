@@ -6,7 +6,7 @@ tl2_surname: Cornut
 tl2_forenames: Jacques-Philippe
 tl2_name_abbrev: Cornut
 tl2_dates: 1606?-1651
-tl2_page_id: 33120681
+tl2_bhl_page_id: 33120681
 author_lsid: 1809-1
 wikidata_id: Q355691
 ipni_surname: Cornut
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33120681) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1809-1), [Wikidata](https://www.wikidata.org/wiki/Q355691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1809-1) LSID 1809-1, [Wikidata](https://www.wikidata.org/wiki/Q355691) QID Q355691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

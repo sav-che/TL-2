@@ -6,7 +6,7 @@ tl2_surname: Praetorius
 tl2_forenames: Ignaz
 tl2_name_abbrev: Praet.
 tl2_dates: 1836-1908
-tl2_page_id: 33189845
+tl2_bhl_page_id: 33189845
 author_lsid: 7921-1
 wikidata_id: Q21523179
 ipni_surname: Praetorius
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33189845) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7921-1), [Wikidata](https://www.wikidata.org/wiki/Q21523179). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7921-1) LSID 7921-1, [Wikidata](https://www.wikidata.org/wiki/Q21523179) QID Q21523179
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

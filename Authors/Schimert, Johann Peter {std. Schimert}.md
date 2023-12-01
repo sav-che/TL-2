@@ -6,7 +6,7 @@ tl2_surname: Schimert
 tl2_forenames: Johann Peter
 tl2_name_abbrev: Schimert
 tl2_dates: fl. 1776
-tl2_page_id: 33333299
+tl2_bhl_page_id: 33333299
 author_lsid: 9087-1
 wikidata_id: Q36598731
 ipni_surname: Schimert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33333299) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9087-1), [Wikidata](https://www.wikidata.org/wiki/Q36598731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9087-1) LSID 9087-1, [Wikidata](https://www.wikidata.org/wiki/Q36598731) QID Q36598731
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

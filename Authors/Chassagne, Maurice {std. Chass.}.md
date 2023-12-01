@@ -6,7 +6,7 @@ tl2_surname: Chassagne
 tl2_forenames: Maurice
 tl2_name_abbrev: Chass.
 tl2_dates: fl. 1904-1957
-tl2_page_id: 33265737
+tl2_bhl_page_id: 33265737
 author_lsid: 1544-1
 wikidata_id: Q16027635
 ipni_surname: Chassagne
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265737) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1544-1), [Wikidata](https://www.wikidata.org/wiki/Q16027635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1544-1) LSID 1544-1, [Wikidata](https://www.wikidata.org/wiki/Q16027635) QID Q16027635
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

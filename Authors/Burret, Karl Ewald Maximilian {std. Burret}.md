@@ -6,7 +6,7 @@ tl2_surname: Burret
 tl2_forenames: Karl Ewald Maximilian
 tl2_name_abbrev: Burret
 tl2_dates: 1883-1964
-tl2_page_id: 33120549
+tl2_bhl_page_id: 33120549
 author_lsid: 12369-1
 wikidata_id: Q78365
 ipni_surname: Burret
@@ -23,7 +23,8 @@ ipni_record_modified: 2010-03-15 07:20:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33120549) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12369-1), [Wikidata](https://www.wikidata.org/wiki/Q78365). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12369-1) LSID 12369-1, [Wikidata](https://www.wikidata.org/wiki/Q78365) QID Q78365
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Burret, Karl Ewald Maximilian {std. Burret} (Suppl.)|second entry]] for this author
 

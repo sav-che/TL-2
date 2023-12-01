@@ -6,7 +6,7 @@ tl2_surname: Darbishire
 tl2_forenames: Otto Vernon
 tl2_name_abbrev: Darb.
 tl2_dates: 1870-1934
-tl2_page_id: 33259110
+tl2_bhl_page_id: 33259110
 author_lsid: 17690-1
 wikidata_id: Q6054753
 ipni_surname: Darbishire
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259110) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17690-1), [Wikidata](https://www.wikidata.org/wiki/Q6054753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17690-1) LSID 17690-1, [Wikidata](https://www.wikidata.org/wiki/Q6054753) QID Q6054753
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Darbishire, Otto Vernon {std. Darb.}|first entry]] for this author
 

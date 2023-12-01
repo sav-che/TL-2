@@ -6,7 +6,7 @@ tl2_surname: Kittel
 tl2_forenames: Baldwin Martin
 tl2_name_abbrev: Kitt.
 tl2_dates: 1798-1885
-tl2_page_id: 33068798
+tl2_bhl_page_id: 33068798
 author_lsid: 4821-1
 wikidata_id: Q6774932
 ipni_surname: Kittel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33068798) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4821-1), [Wikidata](https://www.wikidata.org/wiki/Q6774932). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4821-1) LSID 4821-1, [Wikidata](https://www.wikidata.org/wiki/Q6774932) QID Q6774932
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Longo
 tl2_forenames: Biagio
 tl2_name_abbrev: Longo
 tl2_dates: 1872-1950
-tl2_page_id: 33355240
+tl2_bhl_page_id: 33355240
 author_lsid: 5731-1
 wikidata_id: Q21519458
 ipni_surname: Longo
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5731-1), [Wikidata](https://www.wikidata.org/wiki/Q21519458). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5731-1) LSID 5731-1, [Wikidata](https://www.wikidata.org/wiki/Q21519458) QID Q21519458
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

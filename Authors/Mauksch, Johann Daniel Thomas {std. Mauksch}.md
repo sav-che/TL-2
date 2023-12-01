@@ -6,7 +6,7 @@ tl2_surname: Mauksch
 tl2_forenames: Johann Daniel Thomas
 tl2_name_abbrev: Mauksch
 tl2_dates: 1748-1831
-tl2_page_id: 33355463
+tl2_bhl_page_id: 33355463
 author_lsid: 6254-1
 wikidata_id: Q739055
 ipni_surname: Mauksch
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33355463) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6254-1), [Wikidata](https://www.wikidata.org/wiki/Q739055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6254-1) LSID 6254-1, [Wikidata](https://www.wikidata.org/wiki/Q739055) QID Q739055
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

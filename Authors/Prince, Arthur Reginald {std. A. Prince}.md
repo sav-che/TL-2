@@ -6,7 +6,7 @@ tl2_surname: Prince
 tl2_forenames: Arthur Reginald
 tl2_name_abbrev: A. Prince
 tl2_dates: 1900-1969
-tl2_page_id: 33189871
+tl2_bhl_page_id: 33189871
 author_lsid: 7961-1
 wikidata_id: Q21523263
 ipni_surname: Prince
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33189871) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7961-1), [Wikidata](https://www.wikidata.org/wiki/Q21523263). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7961-1) LSID 7961-1, [Wikidata](https://www.wikidata.org/wiki/Q21523263) QID Q21523263
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Damazio
 tl2_forenames: Léonidas Bothelo
 tl2_name_abbrev: Damazio
 tl2_dates: 1854-1922
-tl2_page_id: 33259081
+tl2_bhl_page_id: 33259081
 author_lsid: 1971-1
 wikidata_id: Q21509758
 ipni_surname: Damazio
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1971-1), [Wikidata](https://www.wikidata.org/wiki/Q21509758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1971-1) LSID 1971-1, [Wikidata](https://www.wikidata.org/wiki/Q21509758) QID Q21509758
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

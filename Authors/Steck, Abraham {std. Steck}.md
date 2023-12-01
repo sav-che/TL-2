@@ -6,7 +6,7 @@ tl2_surname: Steck
 tl2_forenames: Abraham
 tl2_name_abbrev: Steck
 tl2_dates: fl. 1757
-tl2_page_id: 33333996
+tl2_bhl_page_id: 33333996
 author_lsid: 10052-1
 wikidata_id: Q5655298
 ipni_surname: Steck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33333996) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10052-1), [Wikidata](https://www.wikidata.org/wiki/Q5655298). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10052-1) LSID 10052-1, [Wikidata](https://www.wikidata.org/wiki/Q5655298) QID Q5655298
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

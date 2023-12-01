@@ -6,7 +6,7 @@ tl2_surname: Pinatzis
 tl2_forenames: Leonidas
 tl2_name_abbrev: Pinatzis
 tl2_dates: 1891-1964
-tl2_page_id: 33189739
+tl2_bhl_page_id: 33189739
 author_lsid: 7710-1
 wikidata_id: Q21523017
 ipni_surname: Pinatzis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7710-1), [Wikidata](https://www.wikidata.org/wiki/Q21523017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7710-1) LSID 7710-1, [Wikidata](https://www.wikidata.org/wiki/Q21523017) QID Q21523017
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

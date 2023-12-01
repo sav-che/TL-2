@@ -6,7 +6,7 @@ tl2_surname: Puymaly
 tl2_forenames: André Henri Laurent de
 tl2_name_abbrev: Puym.
 tl2_dates: 1883-?
-tl2_page_id: 33189922
+tl2_bhl_page_id: 33189922
 author_lsid: 8038-1
 wikidata_id: Q21606790
 ipni_surname: Puymaly
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8038-1), [Wikidata](https://www.wikidata.org/wiki/Q21606790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8038-1) LSID 8038-1, [Wikidata](https://www.wikidata.org/wiki/Q21606790) QID Q21606790
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

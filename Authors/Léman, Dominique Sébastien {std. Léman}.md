@@ -6,7 +6,7 @@ tl2_surname: Léman
 tl2_forenames: Dominique Sébastien
 tl2_name_abbrev: Léman
 tl2_dates: 1781-1829
-tl2_page_id: 33069079
+tl2_bhl_page_id: 33069079
 author_lsid: 5458-1
 wikidata_id: Q5551287
 ipni_surname: Léman
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33069079) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5458-1), [Wikidata](https://www.wikidata.org/wiki/Q5551287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5458-1) LSID 5458-1, [Wikidata](https://www.wikidata.org/wiki/Q5551287) QID Q5551287
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

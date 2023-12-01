@@ -6,7 +6,7 @@ tl2_surname: Daniel
 tl2_forenames: Hermano
 tl2_name_abbrev: Daniel
 tl2_dates: fl. 1933-1949
-tl2_page_id: 33259098
+tl2_bhl_page_id: 33259098
 author_lsid: 13083-1
 wikidata_id: Q19277243
 ipni_surname: Daniel
@@ -24,7 +24,8 @@ ipni_record_modified: 2009-02-11 20:40:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259098) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/13083-1), [Wikidata](https://www.wikidata.org/wiki/Q19277243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13083-1) LSID 13083-1, [Wikidata](https://www.wikidata.org/wiki/Q19277243) QID Q19277243
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

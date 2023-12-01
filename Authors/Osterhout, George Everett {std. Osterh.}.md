@@ -6,7 +6,7 @@ tl2_surname: Osterhout
 tl2_forenames: George Everett
 tl2_name_abbrev: Osterh.
 tl2_dates: 1858-1937
-tl2_page_id: 33355943
+tl2_bhl_page_id: 33355943
 author_lsid: 7191-1
 wikidata_id: Q5788341
 ipni_surname: Osterhout
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7191-1), [Wikidata](https://www.wikidata.org/wiki/Q5788341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7191-1) LSID 7191-1, [Wikidata](https://www.wikidata.org/wiki/Q5788341) QID Q5788341
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

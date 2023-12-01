@@ -6,7 +6,7 @@ tl2_surname: Kühn
 tl2_forenames: Julius Gotthelf
 tl2_name_abbrev: Kühn
 tl2_dates: 1825-1910
-tl2_page_id: 33068924
+tl2_bhl_page_id: 33068924
 author_lsid: 21787-1
 wikidata_id: Q66206
 ipni_surname: Kühn
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33068924) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21787-1), [Wikidata](https://www.wikidata.org/wiki/Q66206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21787-1) LSID 21787-1, [Wikidata](https://www.wikidata.org/wiki/Q66206) QID Q66206
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

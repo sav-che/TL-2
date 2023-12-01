@@ -6,7 +6,7 @@ tl2_surname: Lloyd
 tl2_forenames: Curtis Gates
 tl2_name_abbrev: C.G. Lloyd
 tl2_dates: 1859-1926
-tl2_page_id: 33355210
+tl2_bhl_page_id: 33355210
 author_lsid: 22460-1
 wikidata_id: Q4264539
 ipni_surname: Lloyd
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33355210) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22460-1), [Wikidata](https://www.wikidata.org/wiki/Q4264539). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22460-1) LSID 22460-1, [Wikidata](https://www.wikidata.org/wiki/Q4264539) QID Q4264539
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

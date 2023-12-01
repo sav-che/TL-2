@@ -6,7 +6,7 @@ tl2_surname: Van Geel
 tl2_forenames: Pierre Corneille
 tl2_name_abbrev: 
 tl2_dates: 1796-1836
-tl2_page_id: 33212706
+tl2_bhl_page_id: 33212706
 author_lsid: 12510-1
 wikidata_id: Q2093328
 ipni_surname: Van Geel
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33212706) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12510-1), [Wikidata](https://www.wikidata.org/wiki/Q2093328). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12510-1) LSID 12510-1, [Wikidata](https://www.wikidata.org/wiki/Q2093328) QID Q2093328
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Geel, Pierre (Petrus) Corneille van {std. Van Geel} (Suppl.)|second entry]] for this author
 

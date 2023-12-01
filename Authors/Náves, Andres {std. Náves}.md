@@ -6,7 +6,7 @@ tl2_surname: Náves
 tl2_forenames: Andres
 tl2_name_abbrev: Náves
 tl2_dates: 1839-1910
-tl2_page_id: 33355787
+tl2_bhl_page_id: 33355787
 author_lsid: 6874-1
 wikidata_id: Q8199377
 ipni_surname: Náves
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33355787) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6874-1), [Wikidata](https://www.wikidata.org/wiki/Q8199377). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6874-1) LSID 6874-1, [Wikidata](https://www.wikidata.org/wiki/Q8199377) QID Q8199377
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

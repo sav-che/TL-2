@@ -6,7 +6,7 @@ tl2_surname: Fischer-Ooster
 tl2_forenames: Carl von
 tl2_name_abbrev: Fisch.-Oost.
 tl2_dates: 1807-1875
-tl2_page_id: 33120970
+tl2_bhl_page_id: 33120970
 author_lsid: 2751-1
 wikidata_id: Q21513171
 ipni_surname: Fischer-Ooster
@@ -26,7 +26,8 @@ ipni_record_modified: 2011-10-06 17:43:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2751-1), [Wikidata](https://www.wikidata.org/wiki/Q21513171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2751-1) LSID 2751-1, [Wikidata](https://www.wikidata.org/wiki/Q21513171) QID Q21513171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fischer-Ooster, Carl (von) {std. Fisch.-Oost.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Turpin
 tl2_forenames: Pierre Jean François
 tl2_name_abbrev: Turpin
 tl2_dates: 1775-1840
-tl2_page_id: 33212591
+tl2_bhl_page_id: 33212591
 author_lsid: 27997-1
 wikidata_id: Q1374703
 ipni_surname: Turpin
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:31:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33212591) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27997-1), [Wikidata](https://www.wikidata.org/wiki/Q1374703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27997-1) LSID 27997-1, [Wikidata](https://www.wikidata.org/wiki/Q1374703) QID Q1374703
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

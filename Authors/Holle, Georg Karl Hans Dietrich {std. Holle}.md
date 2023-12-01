@@ -6,7 +6,7 @@ tl2_surname: Holle
 tl2_forenames: Georg Karl Hans Dietrich
 tl2_name_abbrev: Holle
 tl2_dates: 1825-1893
-tl2_page_id: 33068497
+tl2_bhl_page_id: 33068497
 author_lsid: 4040-1
 wikidata_id: Q21515966
 ipni_surname: Holle
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33068497) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4040-1), [Wikidata](https://www.wikidata.org/wiki/Q21515966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4040-1) LSID 4040-1, [Wikidata](https://www.wikidata.org/wiki/Q21515966) QID Q21515966
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

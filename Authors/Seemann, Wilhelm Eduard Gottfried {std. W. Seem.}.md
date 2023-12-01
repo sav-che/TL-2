@@ -6,7 +6,7 @@ tl2_surname: Seemann
 tl2_forenames: Wilhelm Eduard Gottfried
 tl2_name_abbrev: W. Seem.
 tl2_dates: x-1868
-tl2_page_id: 33333620
+tl2_bhl_page_id: 33333620
 author_lsid: 9418-1
 wikidata_id: Q21608604
 ipni_surname: Seemann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9418-1), [Wikidata](https://www.wikidata.org/wiki/Q21608604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9418-1) LSID 9418-1, [Wikidata](https://www.wikidata.org/wiki/Q21608604) QID Q21608604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

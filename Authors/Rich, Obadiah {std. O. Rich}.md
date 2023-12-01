@@ -6,7 +6,7 @@ tl2_surname: Rich
 tl2_forenames: Obadiah
 tl2_name_abbrev: O. Rich
 tl2_dates: 1783(1782?)-1850
-tl2_page_id: 33190228
+tl2_bhl_page_id: 33190228
 author_lsid: 8346-1
 wikidata_id: Q5478688
 ipni_surname: Rich
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33190228) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8346-1), [Wikidata](https://www.wikidata.org/wiki/Q5478688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8346-1) LSID 8346-1, [Wikidata](https://www.wikidata.org/wiki/Q5478688) QID Q5478688
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

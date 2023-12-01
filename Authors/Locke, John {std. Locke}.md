@@ -6,7 +6,7 @@ tl2_surname: Locke
 tl2_forenames: John
 tl2_name_abbrev: Locke
 tl2_dates: 1792-1856
-tl2_page_id: 33355219
+tl2_bhl_page_id: 33355219
 author_lsid: 5691-1
 wikidata_id: Q933652
 ipni_surname: Locke
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33355219) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5691-1), [Wikidata](https://www.wikidata.org/wiki/Q933652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5691-1) LSID 5691-1, [Wikidata](https://www.wikidata.org/wiki/Q933652) QID Q933652
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

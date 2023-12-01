@@ -6,7 +6,7 @@ tl2_surname: Lessing
 tl2_forenames: Christian Friedrich
 tl2_name_abbrev: Less.
 tl2_dates: 1809-1862
-tl2_page_id: 33069094
+tl2_bhl_page_id: 33069094
 author_lsid: 22263-1
 wikidata_id: Q76352
 ipni_surname: Lessing
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:28:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33069094) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22263-1), [Wikidata](https://www.wikidata.org/wiki/Q76352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22263-1) LSID 22263-1, [Wikidata](https://www.wikidata.org/wiki/Q76352) QID Q76352
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

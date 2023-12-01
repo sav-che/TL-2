@@ -6,7 +6,7 @@ tl2_surname: Semadeni
 tl2_forenames: Francesco Ottavio
 tl2_name_abbrev: Semadeni
 tl2_dates: fl. 1904
-tl2_page_id: 33333641
+tl2_bhl_page_id: 33333641
 author_lsid: 9466-1
 wikidata_id: Q36557445
 ipni_surname: Semadeni
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9466-1), [Wikidata](https://www.wikidata.org/wiki/Q36557445). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9466-1) LSID 9466-1, [Wikidata](https://www.wikidata.org/wiki/Q36557445) QID Q36557445
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

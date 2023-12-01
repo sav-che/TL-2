@@ -6,7 +6,7 @@ tl2_surname: Catlow
 tl2_forenames: Agnes
 tl2_name_abbrev: Catlow
 tl2_dates: 1807(?)-1889
-tl2_page_id: 33266770
+tl2_bhl_page_id: 33266770
 author_lsid: 20017940-2
 wikidata_id: Q21068951
 ipni_surname: Catlow
@@ -22,7 +22,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33266770) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/20017940-2), [Wikidata](https://www.wikidata.org/wiki/Q21068951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20017940-2) LSID 20017940-2, [Wikidata](https://www.wikidata.org/wiki/Q21068951) QID Q21068951
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

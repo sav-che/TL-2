@@ -6,7 +6,7 @@ tl2_surname: Curtis
 tl2_forenames: Kathleen Maisey
 tl2_name_abbrev: K.M. Curtis
 tl2_dates: fl. 1900-1930
-tl2_page_id: 33266192
+tl2_bhl_page_id: 33266192
 author_lsid: 17592-1
 wikidata_id: Q6376816
 ipni_surname: Curtis
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17592-1), [Wikidata](https://www.wikidata.org/wiki/Q6376816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17592-1) LSID 17592-1, [Wikidata](https://www.wikidata.org/wiki/Q6376816) QID Q6376816
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

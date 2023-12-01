@@ -6,7 +6,7 @@ tl2_surname: Hope
 tl2_forenames: Charles William Webley
 tl2_name_abbrev: C. Hope
 tl2_dates: 1832-1904
-tl2_page_id: 33068544
+tl2_bhl_page_id: 33068544
 author_lsid: 4093-1
 wikidata_id: Q5765023
 ipni_surname: Hope
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4093-1), [Wikidata](https://www.wikidata.org/wiki/Q5765023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4093-1) LSID 4093-1, [Wikidata](https://www.wikidata.org/wiki/Q5765023) QID Q5765023
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

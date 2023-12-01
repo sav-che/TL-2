@@ -6,7 +6,7 @@ tl2_surname: Thomson
 tl2_forenames: George Malcolm
 tl2_name_abbrev: G.M. Thomson
 tl2_dates: 1848-1933
-tl2_page_id: 33212326
+tl2_bhl_page_id: 33212326
 author_lsid: 10615-1
 wikidata_id: Q5512351
 ipni_surname: Thomson
@@ -24,7 +24,8 @@ ipni_record_modified: 2016-07-26 12:16:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33212326) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10615-1), [Wikidata](https://www.wikidata.org/wiki/Q5512351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10615-1) LSID 10615-1, [Wikidata](https://www.wikidata.org/wiki/Q5512351) QID Q5512351
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0283
 tl2_volume: suppl4
 tl2_page_printed: 352
 tl2_surname: Corbière
-tl2_forenames: [François Matthieu] Louis
+tl2_forenames: (François Matthieu) Louis
 tl2_name_abbrev: Corb.
 tl2_dates: 1850-1941
-tl2_page_id: 33266029
+tl2_bhl_page_id: 33266029
 author_lsid: 1796-1
 wikidata_id: Q3261587
 ipni_surname: Corbière
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33266029) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1796-1), [Wikidata](https://www.wikidata.org/wiki/Q3261587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1796-1) LSID 1796-1, [Wikidata](https://www.wikidata.org/wiki/Q3261587) QID Q3261587
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Corbière, Louis {std. Corb.}|first entry]] for this author
 

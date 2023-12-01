@@ -6,7 +6,7 @@ tl2_surname: Witte
 tl2_forenames: Eduard Theodoor
 tl2_name_abbrev: E. Witte
 tl2_dates: 1865-1936
-tl2_page_id: 33066742
+tl2_bhl_page_id: 33066742
 author_lsid: 11797-1
 wikidata_id: Q21339820
 ipni_surname: Witte
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33066742) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11797-1), [Wikidata](https://www.wikidata.org/wiki/Q21339820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11797-1) LSID 11797-1, [Wikidata](https://www.wikidata.org/wiki/Q21339820) QID Q21339820
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

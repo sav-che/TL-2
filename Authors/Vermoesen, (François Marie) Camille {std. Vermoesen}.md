@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0691
 tl2_volume: vol6
 tl2_page_printed: 713
 tl2_surname: Vermoesen
-tl2_forenames: [François Marie] Camille
+tl2_forenames: (François Marie) Camille
 tl2_name_abbrev: Vermoesen
 tl2_dates: 1882-1922
-tl2_page_id: 33212755
+tl2_bhl_page_id: 33212755
 author_lsid: 11144-1
 wikidata_id: Q5742024
 ipni_surname: Vermoesen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11144-1), [Wikidata](https://www.wikidata.org/wiki/Q5742024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11144-1) LSID 11144-1, [Wikidata](https://www.wikidata.org/wiki/Q5742024) QID Q5742024
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Conn
 tl2_forenames: Harold Joel
 tl2_name_abbrev: H.J. Conn
 tl2_dates: 1886-1952
-tl2_page_id: 33265979
+tl2_bhl_page_id: 33265979
 author_lsid: 17375-1
 wikidata_id: Q21508943
 ipni_surname: Conn
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17375-1), [Wikidata](https://www.wikidata.org/wiki/Q21508943). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17375-1) LSID 17375-1, [Wikidata](https://www.wikidata.org/wiki/Q21508943) QID Q21508943
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

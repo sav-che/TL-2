@@ -6,7 +6,7 @@ tl2_surname: Strauss
 tl2_forenames: Friedrich Karl Joseph, Freiherr von
 tl2_name_abbrev: F. Strauss
 tl2_dates: 1787-1855
-tl2_page_id: 33212046
+tl2_bhl_page_id: 33212046
 author_lsid: 27275-1
 wikidata_id: Q21609941
 ipni_surname: Strauss
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27275-1), [Wikidata](https://www.wikidata.org/wiki/Q21609941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27275-1) LSID 27275-1, [Wikidata](https://www.wikidata.org/wiki/Q21609941) QID Q21609941
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0089
 tl2_volume: suppl2
 tl2_page_printed: 83
 tl2_surname: Berg
-tl2_forenames: [Friedrich Wilhelm Carl, later Federico Guillermo] Carlos
+tl2_forenames: (Friedrich Wilhelm Carl, later Federico Guillermo) Carlos
 tl2_name_abbrev: C. Berg
 tl2_dates: 1843-1902
-tl2_page_id: 33265280
+tl2_bhl_page_id: 33265280
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33265280) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Montin
 tl2_forenames: Lars Jonasson
 tl2_name_abbrev: Montin
 tl2_dates: 1723-1785
-tl2_page_id: 33355652
+tl2_bhl_page_id: 33355652
 author_lsid: 23573-1
 wikidata_id: Q1623011
 ipni_surname: Montin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33355652) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23573-1), [Wikidata](https://www.wikidata.org/wiki/Q1623011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23573-1) LSID 23573-1, [Wikidata](https://www.wikidata.org/wiki/Q1623011) QID Q1623011
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

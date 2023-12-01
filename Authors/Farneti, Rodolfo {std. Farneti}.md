@@ -6,7 +6,7 @@ tl2_surname: Farneti
 tl2_forenames: Rodolfo
 tl2_name_abbrev: Farneti
 tl2_dates: 1859-1919
-tl2_page_id: 33259551
+tl2_bhl_page_id: 33259551
 author_lsid: 14313-1
 wikidata_id: Q21512625
 ipni_surname: Farneti
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33259551) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/14313-1), [Wikidata](https://www.wikidata.org/wiki/Q21512625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14313-1) LSID 14313-1, [Wikidata](https://www.wikidata.org/wiki/Q21512625) QID Q21512625
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Réaubourg
 tl2_forenames: Gaston
 tl2_name_abbrev: Réaubourg
 tl2_dates: fl. 1906
-tl2_page_id: 33190085
+tl2_bhl_page_id: 33190085
 author_lsid: 8206-1
 wikidata_id: Q19001566
 ipni_surname: Réaubourg
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33190085) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8206-1), [Wikidata](https://www.wikidata.org/wiki/Q19001566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8206-1) LSID 8206-1, [Wikidata](https://www.wikidata.org/wiki/Q19001566) QID Q19001566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

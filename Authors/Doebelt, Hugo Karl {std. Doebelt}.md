@@ -6,7 +6,7 @@ tl2_surname: Doebelt
 tl2_forenames: Hugo Karl
 tl2_name_abbrev: Doebelt
 tl2_dates: 1885-x
-tl2_page_id: 33260007
+tl2_bhl_page_id: 33260007
 author_lsid: 20002707-1
 wikidata_id: Q36572113
 ipni_surname: Doebelt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20002707-1), [Wikidata](https://www.wikidata.org/wiki/Q36572113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20002707-1) LSID 20002707-1, [Wikidata](https://www.wikidata.org/wiki/Q36572113) QID Q36572113
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

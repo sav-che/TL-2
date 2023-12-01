@@ -6,7 +6,7 @@ tl2_surname: Rumphius (baptized Rumpf)
 tl2_forenames: Georg Eberhard
 tl2_name_abbrev: Rumph.
 tl2_dates: 1628-1702
-tl2_page_id: 33190457
+tl2_bhl_page_id: 33190457
 author_lsid: 8739-1
 wikidata_id: Q61439
 ipni_surname: Rumphius
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8739-1), [Wikidata](https://www.wikidata.org/wiki/Q61439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8739-1) LSID 8739-1, [Wikidata](https://www.wikidata.org/wiki/Q61439) QID Q61439
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

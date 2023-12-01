@@ -6,7 +6,7 @@ tl2_surname: Barber
 tl2_forenames: Emil
 tl2_name_abbrev: E. Barber
 tl2_dates: 1857-1917
-tl2_page_id: 33265042
+tl2_bhl_page_id: 33265042
 author_lsid: 460-1
 wikidata_id: Q1335807
 ipni_surname: Barber
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33265042) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/460-1), [Wikidata](https://www.wikidata.org/wiki/Q1335807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/460-1) LSID 460-1, [Wikidata](https://www.wikidata.org/wiki/Q1335807) QID Q1335807
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

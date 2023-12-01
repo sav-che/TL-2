@@ -6,7 +6,7 @@ tl2_surname: Bertero
 tl2_forenames: Carlo Guiseppe
 tl2_name_abbrev: Bertero
 tl2_dates: 1789-1831
-tl2_page_id: 33120332
+tl2_bhl_page_id: 33120332
 author_lsid: 16031-1
 wikidata_id: Q522467
 ipni_surname: Bertero
@@ -27,7 +27,8 @@ ipni_record_modified: 2005-11-28 09:47:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33120332) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16031-1), [Wikidata](https://www.wikidata.org/wiki/Q522467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16031-1) LSID 16031-1, [Wikidata](https://www.wikidata.org/wiki/Q522467) QID Q522467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bertero, Carlo Giuseppe {std. Bertero} (Suppl.)|second entry]] for this author
 

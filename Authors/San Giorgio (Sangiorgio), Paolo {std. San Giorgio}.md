@@ -6,7 +6,7 @@ tl2_surname: San Giorgio (Sangiorgio)
 tl2_forenames: Paolo
 tl2_name_abbrev: San Giorgio
 tl2_dates: 1748-1816
-tl2_page_id: 33333138
+tl2_bhl_page_id: 33333138
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33333138) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

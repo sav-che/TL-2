@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0515
 tl2_volume: vol7
 tl2_page_printed: 565
 tl2_surname: Zwackh-Holzhausen
-tl2_forenames: [Philipp Franz] Wilhelm Ritter von
+tl2_forenames: (Philipp Franz) Wilhelm Ritter von
 tl2_name_abbrev: Zwackh.
 tl2_dates: 1825-1903
-tl2_page_id: 33066905
+tl2_bhl_page_id: 33066905
 author_lsid: 29199-1
 wikidata_id: Q6074265
 ipni_surname: Zwackh-Holzhausen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/29199-1), [Wikidata](https://www.wikidata.org/wiki/Q6074265). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29199-1) LSID 29199-1, [Wikidata](https://www.wikidata.org/wiki/Q6074265) QID Q6074265
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

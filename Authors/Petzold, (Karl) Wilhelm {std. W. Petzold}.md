@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0247
 tl2_volume: vol4
 tl2_page_printed: 215
 tl2_surname: Petzold
-tl2_forenames: [Karl] Wilhelm
+tl2_forenames: (Karl) Wilhelm
 tl2_name_abbrev: W. Petzold
 tl2_dates: 1848-1897
-tl2_page_id: 33189686
+tl2_bhl_page_id: 33189686
 author_lsid: 35197-1
 wikidata_id: Q21522918
 ipni_surname: Petzold
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/35197-1), [Wikidata](https://www.wikidata.org/wiki/Q21522918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35197-1) LSID 35197-1, [Wikidata](https://www.wikidata.org/wiki/Q21522918) QID Q21522918
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

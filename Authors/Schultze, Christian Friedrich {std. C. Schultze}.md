@@ -6,7 +6,7 @@ tl2_surname: Schultze
 tl2_forenames: Christian Friedrich
 tl2_name_abbrev: C. Schultze
 tl2_dates: 1730-1755
-tl2_page_id: 33333520
+tl2_bhl_page_id: 33333520
 author_lsid: 9300-1
 wikidata_id: Q21608477
 ipni_surname: Schultze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9300-1), [Wikidata](https://www.wikidata.org/wiki/Q21608477). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9300-1) LSID 9300-1, [Wikidata](https://www.wikidata.org/wiki/Q21608477) QID Q21608477
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

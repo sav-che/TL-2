@@ -6,7 +6,7 @@ tl2_surname: Vogel
 tl2_forenames: Benedict Christian
 tl2_name_abbrev: B. Vogel
 tl2_dates: 1745-1825
-tl2_page_id: 33212808
+tl2_bhl_page_id: 33212808
 author_lsid: 11233-1
 wikidata_id: Q4491273
 ipni_surname: Vogel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33212808) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11233-1), [Wikidata](https://www.wikidata.org/wiki/Q4491273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11233-1) LSID 11233-1, [Wikidata](https://www.wikidata.org/wiki/Q4491273) QID Q4491273
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

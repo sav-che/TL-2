@@ -6,7 +6,7 @@ tl2_surname: Gortani
 tl2_forenames: Luigi
 tl2_name_abbrev: Gortani
 tl2_dates: 1850-1908
-tl2_page_id: 33258788
+tl2_bhl_page_id: 33258788
 author_lsid: 3281-1
 wikidata_id: Q21514145
 ipni_surname: Gortani
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33258788) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3281-1), [Wikidata](https://www.wikidata.org/wiki/Q21514145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3281-1) LSID 3281-1, [Wikidata](https://www.wikidata.org/wiki/Q21514145) QID Q21514145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Funck
 tl2_forenames: Heinrich Christian
 tl2_name_abbrev: Funck
 tl2_dates: 1771-1839
-tl2_page_id: 33121029
+tl2_bhl_page_id: 33121029
 author_lsid: 19043-1
 wikidata_id: Q72696
 ipni_surname: Funck
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33121029) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19043-1), [Wikidata](https://www.wikidata.org/wiki/Q72696). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19043-1) LSID 19043-1, [Wikidata](https://www.wikidata.org/wiki/Q72696) QID Q72696
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

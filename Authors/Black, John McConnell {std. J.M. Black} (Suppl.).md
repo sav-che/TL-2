@@ -6,7 +6,7 @@ tl2_surname: Black
 tl2_forenames: John McConnell
 tl2_name_abbrev: J.M. Black
 tl2_dates: 1855-1951
-tl2_page_id: 33265383
+tl2_bhl_page_id: 33265383
 author_lsid: 828-1
 wikidata_id: Q924556
 ipni_surname: Black
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33265383) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/828-1), [Wikidata](https://www.wikidata.org/wiki/Q924556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/828-1) LSID 828-1, [Wikidata](https://www.wikidata.org/wiki/Q924556) QID Q924556
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Black, John McConnell {std. J.M. Black}|first entry]] for this author
 

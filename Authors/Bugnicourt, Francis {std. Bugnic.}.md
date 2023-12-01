@@ -6,7 +6,7 @@ tl2_surname: Bugnicourt
 tl2_forenames: Francis
 tl2_name_abbrev: Bugnic.
 tl2_dates: fl. 1939
-tl2_page_id: 33266519
+tl2_bhl_page_id: 33266519
 author_lsid: 16683-1
 wikidata_id: Q36552695
 ipni_surname: Bugnicourt
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33266519) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16683-1), [Wikidata](https://www.wikidata.org/wiki/Q36552695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16683-1) LSID 16683-1, [Wikidata](https://www.wikidata.org/wiki/Q36552695) QID Q36552695
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Girod-Chantrans
 tl2_forenames: Justin
 tl2_name_abbrev: Girod-Chantrans
 tl2_dates: 1750-1841
-tl2_page_id: 33121080
+tl2_bhl_page_id: 33121080
 author_lsid: 3178-1
 wikidata_id: Q263505
 ipni_surname: Girod-Chantrans
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 949](https://www.biodiversitylibrary.org/page/33121080) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3178-1), [Wikidata](https://www.wikidata.org/wiki/Q263505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3178-1) LSID 3178-1, [Wikidata](https://www.wikidata.org/wiki/Q263505) QID Q263505
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

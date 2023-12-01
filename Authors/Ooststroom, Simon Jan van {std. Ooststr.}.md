@@ -6,7 +6,7 @@ tl2_surname: Ooststroom
 tl2_forenames: Simon Jan van
 tl2_name_abbrev: Ooststr.
 tl2_dates: 1906-x
-tl2_page_id: 33355925
+tl2_bhl_page_id: 33355925
 author_lsid: 7151-1
 wikidata_id: Q925131
 ipni_surname: Ooststroom
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:44:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33355925) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7151-1), [Wikidata](https://www.wikidata.org/wiki/Q925131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7151-1) LSID 7151-1, [Wikidata](https://www.wikidata.org/wiki/Q925131) QID Q925131
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

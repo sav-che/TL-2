@@ -6,7 +6,7 @@ tl2_surname: Taschenberg
 tl2_forenames: Ernst Ludwig
 tl2_name_abbrev: Taschenb.
 tl2_dates: 1818-1898
-tl2_page_id: 33212214
+tl2_bhl_page_id: 33212214
 author_lsid: 35143-1
 wikidata_id: Q73246
 ipni_surname: Taschenberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33212214) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/35143-1), [Wikidata](https://www.wikidata.org/wiki/Q73246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35143-1) LSID 35143-1, [Wikidata](https://www.wikidata.org/wiki/Q73246) QID Q73246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

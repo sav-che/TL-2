@@ -6,7 +6,7 @@ tl2_surname: Garcin
 tl2_forenames: Laurent
 tl2_name_abbrev: Garcin
 tl2_dates: 1683-1752
-tl2_page_id: 33121043
+tl2_bhl_page_id: 33121043
 author_lsid: 20032151-1
 wikidata_id: Q3219242
 ipni_surname: Garcin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33121043) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/20032151-1), [Wikidata](https://www.wikidata.org/wiki/Q3219242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20032151-1) LSID 20032151-1, [Wikidata](https://www.wikidata.org/wiki/Q3219242) QID Q3219242
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

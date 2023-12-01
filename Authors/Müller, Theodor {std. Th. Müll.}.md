@@ -6,7 +6,7 @@ tl2_surname: Müller
 tl2_forenames: Theodor
 tl2_name_abbrev: Th. Müll.
 tl2_dates: 1894-1969
-tl2_page_id: 33355738
+tl2_bhl_page_id: 33355738
 author_lsid: 6748-1
 wikidata_id: Q21516195
 ipni_surname: Müller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6748-1), [Wikidata](https://www.wikidata.org/wiki/Q21516195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6748-1) LSID 6748-1, [Wikidata](https://www.wikidata.org/wiki/Q21516195) QID Q21516195
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

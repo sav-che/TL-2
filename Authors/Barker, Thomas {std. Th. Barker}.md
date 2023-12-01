@@ -6,27 +6,30 @@ tl2_surname: Barker
 tl2_forenames: Thomas
 tl2_name_abbrev: Th. Barker
 tl2_dates: 1838-1907
-tl2_page_id: 33265053
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33265053
+author_lsid: 20043524-1
+wikidata_id: Q15989825
+ipni_surname: Barker
+ipni_forenames: Thomas
+ipni_standard_form: T.Barker
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Bryophytes
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33265053) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20043524-1) LSID 20043524-1, [Wikidata](https://www.wikidata.org/wiki/Q15989825) QID Q15989825
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Barker, Thomas (1838-1907), Scottish botanist and mathematician, M.A. Aberdeen 1857, M.A. Cambridge 1862, at Trinity College, Cambridge, 1858-1865; professor of mathematics, Owen's College, Manchester 1865-1885. 
-**Abbreviated name**: *Th. Barker*
+**Abbreviated name**: *Th. Barker* \[standard form in IPNI: *T.Barker*\]
 
 #### Herbarium and types
 

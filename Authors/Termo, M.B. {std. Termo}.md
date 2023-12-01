@@ -6,7 +6,7 @@ tl2_surname: Termo
 tl2_forenames: M.B.
 tl2_name_abbrev: Termo
 tl2_dates: fl. 1837
-tl2_page_id: 33212264
+tl2_bhl_page_id: 33212264
 author_lsid: 10521-1
 wikidata_id: Q36637345
 ipni_surname: Termo
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33212264) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10521-1), [Wikidata](https://www.wikidata.org/wiki/Q36637345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10521-1) LSID 10521-1, [Wikidata](https://www.wikidata.org/wiki/Q36637345) QID Q36637345
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

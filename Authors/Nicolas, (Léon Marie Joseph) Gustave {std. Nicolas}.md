@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0876
 tl2_volume: vol3
 tl2_page_printed: 743
 tl2_surname: Nicolas
-tl2_forenames: [Léon Marie Joseph] Gustave
+tl2_forenames: (Léon Marie Joseph) Gustave
 tl2_name_abbrev: Nicolas
 tl2_dates: 1879-1955
-tl2_page_id: 33355830
+tl2_bhl_page_id: 33355830
 author_lsid: 24058-1
 wikidata_id: Q21522142
 ipni_surname: Nicolas
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33355830) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24058-1), [Wikidata](https://www.wikidata.org/wiki/Q21522142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24058-1) LSID 24058-1, [Wikidata](https://www.wikidata.org/wiki/Q21522142) QID Q21522142
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

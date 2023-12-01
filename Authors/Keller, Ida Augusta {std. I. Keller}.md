@@ -6,7 +6,7 @@ tl2_surname: Keller
 tl2_forenames: Ida Augusta
 tl2_name_abbrev: I. Keller
 tl2_dates: 1866-1932
-tl2_page_id: 33068757
+tl2_bhl_page_id: 33068757
 author_lsid: 4706-1
 wikidata_id: Q18631896
 ipni_surname: Keller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33068757) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4706-1), [Wikidata](https://www.wikidata.org/wiki/Q18631896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4706-1) LSID 4706-1, [Wikidata](https://www.wikidata.org/wiki/Q18631896) QID Q18631896
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

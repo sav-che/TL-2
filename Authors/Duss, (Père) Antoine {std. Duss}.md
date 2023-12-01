@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0908
 tl2_volume: vol1
 tl2_page_printed: 713
 tl2_surname: Duss
-tl2_forenames: [Père] Antoine
+tl2_forenames: (Père) Antoine
 tl2_name_abbrev: Duss
 tl2_dates: 1840-1924
-tl2_page_id: 33120844
+tl2_bhl_page_id: 33120844
 author_lsid: 18305-1
 wikidata_id: Q4775469
 ipni_surname: Duss
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33120844) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18305-1), [Wikidata](https://www.wikidata.org/wiki/Q4775469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18305-1) LSID 18305-1, [Wikidata](https://www.wikidata.org/wiki/Q4775469) QID Q4775469
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Duss, (Rèverend-Père) Antoine {std. Duss} (Suppl.)|second entry]] for this author
 

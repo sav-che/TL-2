@@ -6,7 +6,7 @@ tl2_surname: Harz
 tl2_forenames: Kurt
 tl2_name_abbrev: K. Harz
 tl2_dates: fl. 1914
-tl2_page_id: 33068333
+tl2_bhl_page_id: 33068333
 author_lsid: 3709-1
 wikidata_id: Q21515554
 ipni_surname: Harz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3709-1), [Wikidata](https://www.wikidata.org/wiki/Q21515554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3709-1) LSID 3709-1, [Wikidata](https://www.wikidata.org/wiki/Q21515554) QID Q21515554
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

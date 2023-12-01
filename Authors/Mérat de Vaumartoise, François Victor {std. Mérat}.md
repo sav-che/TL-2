@@ -6,7 +6,7 @@ tl2_surname: Mérat de Vaumartoise
 tl2_forenames: François Victor
 tl2_name_abbrev: Mérat
 tl2_dates: 1780-1851
-tl2_page_id: 33355506
+tl2_bhl_page_id: 33355506
 author_lsid: 28284-1
 wikidata_id: Q3086016
 ipni_surname: Mérat de Vaumartoise
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33355506) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/28284-1), [Wikidata](https://www.wikidata.org/wiki/Q3086016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28284-1) LSID 28284-1, [Wikidata](https://www.wikidata.org/wiki/Q3086016) QID Q3086016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0899
 tl2_volume: vol1
 tl2_page_printed: 707
 tl2_surname: Durand
-tl2_forenames: Elias [Elie] Magliore
+tl2_forenames: Elias (Elie) Magliore
 tl2_name_abbrev: E.M. Durand
 tl2_dates: 1794-1873
-tl2_page_id: 33120838
+tl2_bhl_page_id: 33120838
 author_lsid: 2394-1
 wikidata_id: Q949682
 ipni_surname: Durand
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33120838) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2394-1), [Wikidata](https://www.wikidata.org/wiki/Q949682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2394-1) LSID 2394-1, [Wikidata](https://www.wikidata.org/wiki/Q949682) QID Q949682
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Durand, Elias (Elie) Magliore {std. Durand} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Née
 tl2_forenames: Luis
 tl2_name_abbrev: Née
 tl2_dates: 17..-18..
-tl2_page_id: 33355792
+tl2_bhl_page_id: 33355792
 author_lsid: 6887-1
 wikidata_id: Q1848893
 ipni_surname: Née
@@ -25,7 +25,8 @@ ipni_record_modified: 2015-01-22 10:37:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6887-1), [Wikidata](https://www.wikidata.org/wiki/Q1848893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6887-1) LSID 6887-1, [Wikidata](https://www.wikidata.org/wiki/Q1848893) QID Q1848893
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

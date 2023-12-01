@@ -6,7 +6,7 @@ tl2_surname: Kirilow
 tl2_forenames: Iwan Petrovic
 tl2_name_abbrev: Kir.
 tl2_dates: 1821-1842
-tl2_page_id: 33068792
+tl2_bhl_page_id: 33068792
 author_lsid: 4806-1
 wikidata_id: Q4221435
 ipni_surname: Kirilov
@@ -24,7 +24,8 @@ ipni_record_modified: 2009-11-25 14:43:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4806-1), [Wikidata](https://www.wikidata.org/wiki/Q4221435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4806-1) LSID 4806-1, [Wikidata](https://www.wikidata.org/wiki/Q4221435) QID Q4221435
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

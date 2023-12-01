@@ -6,7 +6,7 @@ tl2_surname: Bary
 tl2_forenames: Heinrich Anton de
 tl2_name_abbrev: de Bary
 tl2_dates: 1831-1888
-tl2_page_id: 33120266
+tl2_bhl_page_id: 33120266
 author_lsid: 15750-1
 wikidata_id: Q58806
 ipni_surname: de Bary
@@ -25,7 +25,8 @@ ipni_record_modified: 2009-08-05 12:12:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33120266) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15750-1), [Wikidata](https://www.wikidata.org/wiki/Q58806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15750-1) LSID 15750-1, [Wikidata](https://www.wikidata.org/wiki/Q58806) QID Q58806
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bary, (Heinrich) Anton de {std. de Bary} (Suppl.)|second entry]] for this author
 

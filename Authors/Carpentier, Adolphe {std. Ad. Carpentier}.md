@@ -6,7 +6,7 @@ tl2_surname: Carpentier
 tl2_forenames: Adolphe
 tl2_name_abbrev: Ad. Carpentier
 tl2_dates: fl. 1869
-tl2_page_id: 33266727
+tl2_bhl_page_id: 33266727
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266727) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

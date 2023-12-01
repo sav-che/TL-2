@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0286
 tl2_volume: vol2
 tl2_page_printed: 235
 tl2_surname: Hofer
-tl2_forenames: Johannes [Jean]
+tl2_forenames: Johannes (Jean)
 tl2_name_abbrev: Hofer
 tl2_dates: 1697-1781
-tl2_page_id: 33068477
+tl2_bhl_page_id: 33068477
 author_lsid: 4009-1
 wikidata_id: Q21515912
 ipni_surname: Hofer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4009-1), [Wikidata](https://www.wikidata.org/wiki/Q21515912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4009-1) LSID 4009-1, [Wikidata](https://www.wikidata.org/wiki/Q21515912) QID Q21515912
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

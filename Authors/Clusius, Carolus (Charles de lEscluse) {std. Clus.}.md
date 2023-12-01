@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0643
 tl2_volume: vol1
 tl2_page_printed: 513
 tl2_surname: Clusius
-tl2_forenames: Carolus [Charles de l’Escluse]
+tl2_forenames: Carolus (Charles de l’Escluse)
 tl2_name_abbrev: Clus.
 tl2_dates: 1526-1609
-tl2_page_id: 33120644
+tl2_bhl_page_id: 33120644
 author_lsid: 17315-1
 wikidata_id: Q333372
 ipni_surname: Clusius
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33120644) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17315-1), [Wikidata](https://www.wikidata.org/wiki/Q333372). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17315-1) LSID 17315-1, [Wikidata](https://www.wikidata.org/wiki/Q333372) QID Q333372
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

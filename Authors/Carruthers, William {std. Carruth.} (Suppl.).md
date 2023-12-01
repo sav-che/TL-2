@@ -6,7 +6,7 @@ tl2_surname: Carruthers
 tl2_forenames: William
 tl2_name_abbrev: Carruthers
 tl2_dates: 1830-1922
-tl2_page_id: 33266733
+tl2_bhl_page_id: 33266733
 author_lsid: 1424-1
 wikidata_id: Q713674
 ipni_surname: Carruthers
@@ -29,7 +29,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266733) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1424-1), [Wikidata](https://www.wikidata.org/wiki/Q713674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1424-1) LSID 1424-1, [Wikidata](https://www.wikidata.org/wiki/Q713674) QID Q713674
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Carruthers, William {std. Carruth.}|first entry]] for this author
 

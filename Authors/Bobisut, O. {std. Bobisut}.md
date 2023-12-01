@@ -6,7 +6,7 @@ tl2_surname: Bobisut
 tl2_forenames: O.
 tl2_name_abbrev: Bobisut
 tl2_dates: fl. 1904
-tl2_page_id: 33265436
+tl2_bhl_page_id: 33265436
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33265436) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

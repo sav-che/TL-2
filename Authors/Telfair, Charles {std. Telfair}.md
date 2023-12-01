@@ -6,7 +6,7 @@ tl2_surname: Telfair
 tl2_forenames: Charles
 tl2_name_abbrev: Telfair
 tl2_dates: 1778 (1777?)-1833
-tl2_page_id: 33212247
+tl2_bhl_page_id: 33212247
 author_lsid: 10492-1
 wikidata_id: Q1066232
 ipni_surname: Telfair
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33212247) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10492-1), [Wikidata](https://www.wikidata.org/wiki/Q1066232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10492-1) LSID 10492-1, [Wikidata](https://www.wikidata.org/wiki/Q1066232) QID Q1066232
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

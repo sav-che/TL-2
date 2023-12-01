@@ -6,7 +6,7 @@ tl2_surname: Houdard
 tl2_forenames: Jules
 tl2_name_abbrev: Houdard
 tl2_dates: fl. 1911
-tl2_page_id: 33068583
+tl2_bhl_page_id: 33068583
 author_lsid: 4137-1
 wikidata_id: Q36591906
 ipni_surname: Houdard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4137-1), [Wikidata](https://www.wikidata.org/wiki/Q36591906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4137-1) LSID 4137-1, [Wikidata](https://www.wikidata.org/wiki/Q36591906) QID Q36591906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

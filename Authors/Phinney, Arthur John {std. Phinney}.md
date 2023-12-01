@@ -6,7 +6,7 @@ tl2_surname: Phinney
 tl2_forenames: Arthur John
 tl2_name_abbrev: Phinney
 tl2_dates: 1850-1942
-tl2_page_id: 33189716
+tl2_bhl_page_id: 33189716
 author_lsid: 7650-1
 wikidata_id: Q21522966
 ipni_surname: Phinney
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33189716) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7650-1), [Wikidata](https://www.wikidata.org/wiki/Q21522966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7650-1) LSID 7650-1, [Wikidata](https://www.wikidata.org/wiki/Q21522966) QID Q21522966
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

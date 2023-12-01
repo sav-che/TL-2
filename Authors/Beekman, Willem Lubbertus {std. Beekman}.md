@@ -6,7 +6,7 @@ tl2_surname: Beekman
 tl2_forenames: Willem Lubbertus
 tl2_name_abbrev: Beekman
 tl2_dates: 1895-x
-tl2_page_id: 33265237
+tl2_bhl_page_id: 33265237
 author_lsid: 34352-1
 wikidata_id: Q36699778
 ipni_surname: Beekman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33265237) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/34352-1), [Wikidata](https://www.wikidata.org/wiki/Q36699778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34352-1) LSID 34352-1, [Wikidata](https://www.wikidata.org/wiki/Q36699778) QID Q36699778
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

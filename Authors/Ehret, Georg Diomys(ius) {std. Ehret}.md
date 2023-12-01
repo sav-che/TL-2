@@ -6,7 +6,7 @@ tl2_surname: Ehret
 tl2_forenames: Georg Diomys(ius)
 tl2_name_abbrev: Ehret
 tl2_dates: 1708-1770
-tl2_page_id: 33120861
+tl2_bhl_page_id: 33120861
 author_lsid: 2484-1
 wikidata_id: Q62952
 ipni_surname: Ehret
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33120861) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2484-1), [Wikidata](https://www.wikidata.org/wiki/Q62952). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2484-1) LSID 2484-1, [Wikidata](https://www.wikidata.org/wiki/Q62952) QID Q62952
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

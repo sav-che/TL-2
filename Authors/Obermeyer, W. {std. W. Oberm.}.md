@@ -6,7 +6,7 @@ tl2_surname: Obermeyer
 tl2_forenames: W.
 tl2_name_abbrev: W. Oberm.
 tl2_dates: fl. 1908
-tl2_page_id: 33355887
+tl2_bhl_page_id: 33355887
 author_lsid: 7072-1
 wikidata_id: Q36703184
 ipni_surname: Obermeyer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33355887) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7072-1), [Wikidata](https://www.wikidata.org/wiki/Q36703184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7072-1) LSID 7072-1, [Wikidata](https://www.wikidata.org/wiki/Q36703184) QID Q36703184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

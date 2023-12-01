@@ -6,7 +6,7 @@ tl2_surname: Coutance
 tl2_forenames: Amédée Guillaume Auguste
 tl2_name_abbrev: Coutance
 tl2_dates: 1824-1895
-tl2_page_id: 33266103
+tl2_bhl_page_id: 33266103
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266103) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

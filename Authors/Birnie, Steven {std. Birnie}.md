@@ -6,7 +6,7 @@ tl2_surname: Birnie
 tl2_forenames: Steven
 tl2_name_abbrev: Birnie
 tl2_dates: 1855-1939
-tl2_page_id: 33265370
+tl2_bhl_page_id: 33265370
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265370) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

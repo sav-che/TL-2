@@ -6,7 +6,7 @@ tl2_surname: Klinggräff
 tl2_forenames: Carl Julius Meyer von
 tl2_name_abbrev: C. Klinggr.
 tl2_dates: 1809-1879
-tl2_page_id: 33068808
+tl2_bhl_page_id: 33068808
 author_lsid: 4846-1
 wikidata_id: Q5040407
 ipni_surname: Klinggräff
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33068808) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4846-1), [Wikidata](https://www.wikidata.org/wiki/Q5040407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4846-1) LSID 4846-1, [Wikidata](https://www.wikidata.org/wiki/Q5040407) QID Q5040407
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

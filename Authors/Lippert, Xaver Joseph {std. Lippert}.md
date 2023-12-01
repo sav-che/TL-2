@@ -6,7 +6,7 @@ tl2_surname: Lippert
 tl2_forenames: Xaver Joseph
 tl2_name_abbrev: Lippert
 tl2_dates: fl. 1786
-tl2_page_id: 33355202
+tl2_bhl_page_id: 33355202
 author_lsid: 5647-1
 wikidata_id: Q23675016
 ipni_surname: Lippert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33355202) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5647-1), [Wikidata](https://www.wikidata.org/wiki/Q23675016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5647-1) LSID 5647-1, [Wikidata](https://www.wikidata.org/wiki/Q23675016) QID Q23675016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

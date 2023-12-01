@@ -6,7 +6,7 @@ tl2_surname: Davies
 tl2_forenames: (Rev.) Hugh
 tl2_name_abbrev: Davies
 tl2_dates: 1739-1821
-tl2_page_id: 33259145
+tl2_bhl_page_id: 33259145
 author_lsid: 2025-1
 wikidata_id: Q56170
 ipni_surname: Davies
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33259145) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2025-1), [Wikidata](https://www.wikidata.org/wiki/Q56170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2025-1) LSID 2025-1, [Wikidata](https://www.wikidata.org/wiki/Q56170) QID Q56170
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Facchini
 tl2_forenames: Francesco
 tl2_name_abbrev: Facch.
 tl2_dates: 1788-1852
-tl2_page_id: 33259513
+tl2_bhl_page_id: 33259513
 author_lsid: 2616-1
 wikidata_id: Q2337414
 ipni_surname: Facchini
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33259513) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2616-1), [Wikidata](https://www.wikidata.org/wiki/Q2337414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2616-1) LSID 2616-1, [Wikidata](https://www.wikidata.org/wiki/Q2337414) QID Q2337414
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Ruprecht
 tl2_forenames: Franz Josef
 tl2_name_abbrev: Rupr.
 tl2_dates: 1814-1870
-tl2_page_id: 33190464
+tl2_bhl_page_id: 33190464
 author_lsid: 12802-1
 wikidata_id: Q62887
 ipni_surname: Ruprecht
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-02-12 12:26:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33190464) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12802-1), [Wikidata](https://www.wikidata.org/wiki/Q62887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12802-1) LSID 12802-1, [Wikidata](https://www.wikidata.org/wiki/Q62887) QID Q62887
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Elsner
 tl2_forenames: Carl Friedrich Moritz
 tl2_name_abbrev: Elsner
 tl2_dates: 1809-1894
-tl2_page_id: 33260315
+tl2_bhl_page_id: 33260315
 author_lsid: 20015929-1
 wikidata_id: Q1282734
 ipni_surname: Elsner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33260315) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20015929-1), [Wikidata](https://www.wikidata.org/wiki/Q1282734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20015929-1) LSID 20015929-1, [Wikidata](https://www.wikidata.org/wiki/Q1282734) QID Q1282734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Mottet
 tl2_forenames: Séraphin Joseph
 tl2_name_abbrev: Mottet
 tl2_dates: 1861-1930
-tl2_page_id: 33355691
+tl2_bhl_page_id: 33355691
 author_lsid: 6706-1
 wikidata_id: Q21340334
 ipni_surname: Mottet
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33355691) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6706-1), [Wikidata](https://www.wikidata.org/wiki/Q21340334). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6706-1) LSID 6706-1, [Wikidata](https://www.wikidata.org/wiki/Q21340334) QID Q21340334
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0481
 tl2_volume: vol7
 tl2_page_printed: 530
 tl2_surname: Zetterstedt
-tl2_forenames: Johan [Janne] Emanuele
+tl2_forenames: Johan (Janne) Emanuele
 tl2_name_abbrev: J.E. Zetterst.
 tl2_dates: 1828-1880
-tl2_page_id: 33066870
+tl2_bhl_page_id: 33066870
 author_lsid: 12018-1
 wikidata_id: Q6252228
 ipni_surname: Zetterstedt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33066870) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12018-1), [Wikidata](https://www.wikidata.org/wiki/Q6252228). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12018-1) LSID 12018-1, [Wikidata](https://www.wikidata.org/wiki/Q6252228) QID Q6252228
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

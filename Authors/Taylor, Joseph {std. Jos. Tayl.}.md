@@ -6,7 +6,7 @@ tl2_surname: Taylor
 tl2_forenames: Joseph
 tl2_name_abbrev: Jos. Tayl.
 tl2_dates: ca. 1762-1844
-tl2_page_id: 33212231
+tl2_bhl_page_id: 33212231
 author_lsid: 10466-1
 wikidata_id: Q21610317
 ipni_surname: Taylor
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33212231) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10466-1), [Wikidata](https://www.wikidata.org/wiki/Q21610317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10466-1) LSID 10466-1, [Wikidata](https://www.wikidata.org/wiki/Q21610317) QID Q21610317
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

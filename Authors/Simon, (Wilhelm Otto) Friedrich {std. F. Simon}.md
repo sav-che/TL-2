@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0606
 tl2_volume: vol5
 tl2_page_printed: 609
 tl2_surname: Simon
-tl2_forenames: [Wilhelm Otto] Friedrich
+tl2_forenames: (Wilhelm Otto) Friedrich
 tl2_name_abbrev: F. Simon
 tl2_dates: 1868-?
-tl2_page_id: 33333748
+tl2_bhl_page_id: 33333748
 author_lsid: 13077-1
 wikidata_id: Q21608917
 ipni_surname: Simon
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/13077-1), [Wikidata](https://www.wikidata.org/wiki/Q21608917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13077-1) LSID 13077-1, [Wikidata](https://www.wikidata.org/wiki/Q21608917) QID Q21608917
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

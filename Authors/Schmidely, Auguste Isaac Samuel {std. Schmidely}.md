@@ -6,7 +6,7 @@ tl2_surname: Schmidely
 tl2_forenames: Auguste Isaac Samuel
 tl2_name_abbrev: Schmidely
 tl2_dates: 1838-1918
-tl2_page_id: 33333379
+tl2_bhl_page_id: 33333379
 author_lsid: 9148-1
 wikidata_id: Q5711567
 ipni_surname: Schmidely
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33333379) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9148-1), [Wikidata](https://www.wikidata.org/wiki/Q5711567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9148-1) LSID 9148-1, [Wikidata](https://www.wikidata.org/wiki/Q5711567) QID Q5711567
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

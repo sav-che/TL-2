@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0489
 tl2_volume: vol6
 tl2_page_printed: 480
 tl2_surname: Trevisan de Saint-Léon
-tl2_forenames: Vittore [Benedetto Antonio], Conte
+tl2_forenames: Vittore (Benedetto Antonio), Conte
 tl2_name_abbrev: Trevis.
 tl2_dates: 1818-1897
-tl2_page_id: 33212522
+tl2_bhl_page_id: 33212522
 author_lsid: 10816-1
 wikidata_id: Q634712
 ipni_surname: Trevisan de Saint-Léon
@@ -28,7 +28,8 @@ ipni_record_modified: 2014-08-05 14:55:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33212522) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10816-1), [Wikidata](https://www.wikidata.org/wiki/Q634712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10816-1) LSID 10816-1, [Wikidata](https://www.wikidata.org/wiki/Q634712) QID Q634712
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

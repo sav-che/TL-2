@@ -6,7 +6,7 @@ tl2_surname: Leonard
 tl2_forenames: Emery Clarence
 tl2_name_abbrev: E. Leonard
 tl2_dates: 1892-1968
-tl2_page_id: 33069087
+tl2_bhl_page_id: 33069087
 author_lsid: 5480-1
 wikidata_id: Q5370979
 ipni_surname: Leonard
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5480-1), [Wikidata](https://www.wikidata.org/wiki/Q5370979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5480-1) LSID 5480-1, [Wikidata](https://www.wikidata.org/wiki/Q5370979) QID Q5370979
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

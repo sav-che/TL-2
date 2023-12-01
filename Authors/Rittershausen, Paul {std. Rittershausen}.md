@@ -6,7 +6,7 @@ tl2_surname: Rittershausen
 tl2_forenames: Paul
 tl2_name_abbrev: Rittershausen
 tl2_dates: fl. 1892
-tl2_page_id: 33190274
+tl2_bhl_page_id: 33190274
 author_lsid: 8417-1
 wikidata_id: Q36655188
 ipni_surname: Rittershausen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33190274) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8417-1), [Wikidata](https://www.wikidata.org/wiki/Q36655188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8417-1) LSID 8417-1, [Wikidata](https://www.wikidata.org/wiki/Q36655188) QID Q36655188
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

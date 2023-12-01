@@ -6,7 +6,7 @@ tl2_surname: Dannemann
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: J.F. Dannemann
 tl2_dates: 1859-1936
-tl2_page_id: 33259101
+tl2_bhl_page_id: 33259101
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33259101) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

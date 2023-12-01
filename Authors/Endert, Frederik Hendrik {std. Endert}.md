@@ -6,7 +6,7 @@ tl2_surname: Endert
 tl2_forenames: Frederik Hendrik
 tl2_name_abbrev: Endert
 tl2_dates: 1891-1953
-tl2_page_id: 33260325
+tl2_bhl_page_id: 33260325
 author_lsid: 2534-1
 wikidata_id: Q5499274
 ipni_surname: Endert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33260325) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2534-1), [Wikidata](https://www.wikidata.org/wiki/Q5499274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2534-1) LSID 2534-1, [Wikidata](https://www.wikidata.org/wiki/Q5499274) QID Q5499274
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

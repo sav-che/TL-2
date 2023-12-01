@@ -6,7 +6,7 @@ tl2_surname: Morton
 tl2_forenames: Conrad Vernon
 tl2_name_abbrev: C. Morton
 tl2_dates: 1905-1972
-tl2_page_id: 33355685
+tl2_bhl_page_id: 33355685
 author_lsid: 6685-1
 wikidata_id: Q1127029
 ipni_surname: Morton
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33355685) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6685-1), [Wikidata](https://www.wikidata.org/wiki/Q1127029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6685-1) LSID 6685-1, [Wikidata](https://www.wikidata.org/wiki/Q1127029) QID Q1127029
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

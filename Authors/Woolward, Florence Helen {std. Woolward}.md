@@ -6,7 +6,7 @@ tl2_surname: Woolward
 tl2_forenames: Florence Helen
 tl2_name_abbrev: Woolward
 tl2_dates: 1854-1930
-tl2_page_id: 33066792
+tl2_bhl_page_id: 33066792
 author_lsid: 11865-1
 wikidata_id: Q19569220
 ipni_surname: Woolward
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33066792) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11865-1), [Wikidata](https://www.wikidata.org/wiki/Q19569220). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11865-1) LSID 11865-1, [Wikidata](https://www.wikidata.org/wiki/Q19569220) QID Q19569220
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

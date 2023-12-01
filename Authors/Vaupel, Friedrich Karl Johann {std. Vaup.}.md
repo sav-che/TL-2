@@ -6,7 +6,7 @@ tl2_surname: Vaupel
 tl2_forenames: Friedrich Karl Johann
 tl2_name_abbrev: Vaup.
 tl2_dates: 1876-1927
-tl2_page_id: 33212724
+tl2_bhl_page_id: 33212724
 author_lsid: 11097-1
 wikidata_id: Q96747
 ipni_surname: Vaupel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33212724) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11097-1), [Wikidata](https://www.wikidata.org/wiki/Q96747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11097-1) LSID 11097-1, [Wikidata](https://www.wikidata.org/wiki/Q96747) QID Q96747
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hansen
 tl2_forenames: Emil Christian
 tl2_name_abbrev: E. Hans.
 tl2_dates: 1842-1909
-tl2_page_id: 33068288
+tl2_bhl_page_id: 33068288
 author_lsid: 19938-1
 wikidata_id: Q603858
 ipni_surname: Hansen
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/19938-1), [Wikidata](https://www.wikidata.org/wiki/Q603858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19938-1) LSID 19938-1, [Wikidata](https://www.wikidata.org/wiki/Q603858) QID Q603858
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

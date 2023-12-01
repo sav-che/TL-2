@@ -6,7 +6,7 @@ tl2_surname: Goethe
 tl2_forenames: Johann Wolfgang (von)
 tl2_name_abbrev: Goethe
 tl2_dates: 1749-1832
-tl2_page_id: 33258751
+tl2_bhl_page_id: 33258751
 author_lsid: 3229-1
 wikidata_id: Q5879
 ipni_surname: Goethe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33258751) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3229-1), [Wikidata](https://www.wikidata.org/wiki/Q5879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3229-1) LSID 3229-1, [Wikidata](https://www.wikidata.org/wiki/Q5879) QID Q5879
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Goethe, Johann Wolfgang von {std. Goethe}|first entry]] for this author
 

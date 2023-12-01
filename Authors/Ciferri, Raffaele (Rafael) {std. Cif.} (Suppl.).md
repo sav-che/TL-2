@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0127
 tl2_volume: suppl4
 tl2_page_printed: 174
 tl2_surname: Ciferri
-tl2_forenames: Raffaele [Rafael]
+tl2_forenames: Raffaele (Rafael)
 tl2_name_abbrev: Cif.
 tl2_dates: 1897-1964
-tl2_page_id: 33265851
+tl2_bhl_page_id: 33265851
 author_lsid: 17265-1
 wikidata_id: Q4516707
 ipni_surname: Ciferri
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265851) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17265-1), [Wikidata](https://www.wikidata.org/wiki/Q4516707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17265-1) LSID 17265-1, [Wikidata](https://www.wikidata.org/wiki/Q4516707) QID Q4516707
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ciferri, Raffaele {std. Cif.}|first entry]] for this author
 

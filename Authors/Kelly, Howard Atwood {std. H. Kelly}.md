@@ -6,7 +6,7 @@ tl2_surname: Kelly
 tl2_forenames: Howard Atwood
 tl2_name_abbrev: H. Kelly
 tl2_dates: 1858-1943
-tl2_page_id: 33068762
+tl2_bhl_page_id: 33068762
 author_lsid: 21301-1
 wikidata_id: Q1631728
 ipni_surname: Kelly
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21301-1), [Wikidata](https://www.wikidata.org/wiki/Q1631728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21301-1) LSID 21301-1, [Wikidata](https://www.wikidata.org/wiki/Q1631728) QID Q1631728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

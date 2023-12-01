@@ -6,7 +6,7 @@ tl2_surname: Dahl
 tl2_forenames: Andreas
 tl2_name_abbrev: Dahl
 tl2_dates: 1751-1789
-tl2_page_id: 33120719
+tl2_bhl_page_id: 33120719
 author_lsid: 1952-1
 wikidata_id: Q496775
 ipni_surname: Dahl
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33120719) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1952-1), [Wikidata](https://www.wikidata.org/wiki/Q496775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1952-1) LSID 1952-1, [Wikidata](https://www.wikidata.org/wiki/Q496775) QID Q496775
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dahl, Andreas {std. Dahl} (Suppl.)|second entry]] for this author
 

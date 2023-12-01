@@ -6,7 +6,7 @@ tl2_surname: Lucand
 tl2_forenames: Jean Louis
 tl2_name_abbrev: Lucand
 tl2_dates: 1821-1896
-tl2_page_id: 33355266
+tl2_bhl_page_id: 33355266
 author_lsid: 22584-1
 wikidata_id: Q16059888
 ipni_surname: Lucand
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22584-1), [Wikidata](https://www.wikidata.org/wiki/Q16059888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22584-1) LSID 22584-1, [Wikidata](https://www.wikidata.org/wiki/Q16059888) QID Q16059888
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

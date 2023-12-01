@@ -6,7 +6,7 @@ tl2_surname: Martins
 tl2_forenames: Charles Frédéric
 tl2_name_abbrev: Martins
 tl2_dates: 1806-1889
-tl2_page_id: 33355411
+tl2_bhl_page_id: 33355411
 author_lsid: 6172-1
 wikidata_id: Q5650248
 ipni_surname: Martins
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33355411) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6172-1), [Wikidata](https://www.wikidata.org/wiki/Q5650248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6172-1) LSID 6172-1, [Wikidata](https://www.wikidata.org/wiki/Q5650248) QID Q5650248
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

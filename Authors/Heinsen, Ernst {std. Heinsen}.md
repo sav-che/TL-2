@@ -6,7 +6,7 @@ tl2_surname: Heinsen
 tl2_forenames: Ernst
 tl2_name_abbrev: Heinsen
 tl2_dates: fl. 1894
-tl2_page_id: 33068382
+tl2_bhl_page_id: 33068382
 author_lsid: 3797-1
 wikidata_id: Q47118714
 ipni_surname: Heinsen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3797-1), [Wikidata](https://www.wikidata.org/wiki/Q47118714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3797-1) LSID 3797-1, [Wikidata](https://www.wikidata.org/wiki/Q47118714) QID Q47118714
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

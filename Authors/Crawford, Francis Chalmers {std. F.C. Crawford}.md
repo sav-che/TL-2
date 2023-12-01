@@ -6,7 +6,7 @@ tl2_surname: Crawford
 tl2_forenames: Francis Chalmers
 tl2_name_abbrev: F.C. Crawford
 tl2_dates: 1851-1908
-tl2_page_id: 33266129
+tl2_bhl_page_id: 33266129
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33266129) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

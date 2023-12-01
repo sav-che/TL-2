@@ -6,7 +6,7 @@ tl2_surname: Duvigneaud
 tl2_forenames: Paul Auguste
 tl2_name_abbrev: P.A. Duvign.
 tl2_dates: 1913-x
-tl2_page_id: 33260212
+tl2_bhl_page_id: 33260212
 author_lsid: 18318-1
 wikidata_id: Q3371153
 ipni_surname: Duvigneaud
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:42:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33260212) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18318-1), [Wikidata](https://www.wikidata.org/wiki/Q3371153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18318-1) LSID 18318-1, [Wikidata](https://www.wikidata.org/wiki/Q3371153) QID Q3371153
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

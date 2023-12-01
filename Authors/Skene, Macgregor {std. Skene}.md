@@ -6,7 +6,7 @@ tl2_surname: Skene
 tl2_forenames: Macgregor
 tl2_name_abbrev: Skene
 tl2_dates: 1889-1973
-tl2_page_id: 33333764
+tl2_bhl_page_id: 33333764
 author_lsid: 9715-1
 wikidata_id: Q21609006
 ipni_surname: Skene
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33333764) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9715-1), [Wikidata](https://www.wikidata.org/wiki/Q21609006). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9715-1) LSID 9715-1, [Wikidata](https://www.wikidata.org/wiki/Q21609006) QID Q21609006
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

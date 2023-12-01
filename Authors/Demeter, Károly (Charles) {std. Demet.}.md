@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0219
 tl2_volume: suppl5
 tl2_page_printed: 197
 tl2_surname: Demeter
-tl2_forenames: Károly [Charles]
+tl2_forenames: Károly (Charles)
 tl2_name_abbrev: Demet.
 tl2_dates: 1852-1890
-tl2_page_id: 33259243
+tl2_bhl_page_id: 33259243
 author_lsid: 17921-1
 wikidata_id: Q12351009
 ipni_surname: Demeter
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17921-1), [Wikidata](https://www.wikidata.org/wiki/Q12351009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17921-1) LSID 17921-1, [Wikidata](https://www.wikidata.org/wiki/Q12351009) QID Q12351009
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

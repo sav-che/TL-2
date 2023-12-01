@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_1066
 tl2_volume: vol4
 tl2_page_printed: 1049
 tl2_surname: Saelan
-tl2_forenames: [Anders] Thiodolf
+tl2_forenames: (Anders) Thiodolf
 tl2_name_abbrev: Saelan
 tl2_dates: 1834-1921
-tl2_page_id: 33190520
+tl2_bhl_page_id: 33190520
 author_lsid: 8800-1
 wikidata_id: Q6088004
 ipni_surname: Saelan
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8800-1), [Wikidata](https://www.wikidata.org/wiki/Q6088004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8800-1) LSID 8800-1, [Wikidata](https://www.wikidata.org/wiki/Q6088004) QID Q6088004
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

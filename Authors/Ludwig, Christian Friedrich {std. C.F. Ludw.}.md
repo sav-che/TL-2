@@ -6,7 +6,7 @@ tl2_surname: Ludwig
 tl2_forenames: Christian Friedrich
 tl2_name_abbrev: C.F. Ludw.
 tl2_dates: 1757-1823
-tl2_page_id: 33355268
+tl2_bhl_page_id: 33355268
 author_lsid: 5803-1
 wikidata_id: Q98258
 ipni_surname: Ludwig
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5803-1), [Wikidata](https://www.wikidata.org/wiki/Q98258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5803-1) LSID 5803-1, [Wikidata](https://www.wikidata.org/wiki/Q98258) QID Q98258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

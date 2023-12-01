@@ -6,7 +6,7 @@ tl2_surname: Pitcher
 tl2_forenames: Zina
 tl2_name_abbrev: Pitcher
 tl2_dates: 1797-1872
-tl2_page_id: 33189749
+tl2_bhl_page_id: 33189749
 author_lsid: 7733-1
 wikidata_id: Q8072235
 ipni_surname: Pitcher
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33189749) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7733-1), [Wikidata](https://www.wikidata.org/wiki/Q8072235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7733-1) LSID 7733-1, [Wikidata](https://www.wikidata.org/wiki/Q8072235) QID Q8072235
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

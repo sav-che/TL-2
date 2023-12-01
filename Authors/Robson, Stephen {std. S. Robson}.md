@@ -6,7 +6,7 @@ tl2_surname: Robson
 tl2_forenames: Stephen
 tl2_name_abbrev: S. Robson
 tl2_dates: 1741-1779
-tl2_page_id: 33190290
+tl2_bhl_page_id: 33190290
 author_lsid: 8464-1
 wikidata_id: Q18672360
 ipni_surname: Robson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33190290) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8464-1), [Wikidata](https://www.wikidata.org/wiki/Q18672360). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8464-1) LSID 8464-1, [Wikidata](https://www.wikidata.org/wiki/Q18672360) QID Q18672360
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

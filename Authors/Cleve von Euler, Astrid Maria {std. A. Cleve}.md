@@ -6,7 +6,7 @@ tl2_surname: Cleve von Euler
 tl2_forenames: Astrid Maria
 tl2_name_abbrev: A. Cleve
 tl2_dates: 1875-1968
-tl2_page_id: 33265889
+tl2_bhl_page_id: 33265889
 author_lsid: 32762-1
 wikidata_id: Q4811427
 ipni_surname: Cleve
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33265889) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32762-1), [Wikidata](https://www.wikidata.org/wiki/Q4811427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32762-1) LSID 32762-1, [Wikidata](https://www.wikidata.org/wiki/Q4811427) QID Q4811427
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

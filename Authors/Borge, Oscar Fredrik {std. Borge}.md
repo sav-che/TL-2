@@ -6,7 +6,7 @@ tl2_surname: Borge
 tl2_forenames: Oscar Fredrik
 tl2_name_abbrev: Borge
 tl2_dates: 1862-1938
-tl2_page_id: 33265533
+tl2_bhl_page_id: 33265533
 author_lsid: 20026780-1
 wikidata_id: Q5582439
 ipni_surname: Borge
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265533) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/20026780-1), [Wikidata](https://www.wikidata.org/wiki/Q5582439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20026780-1) LSID 20026780-1, [Wikidata](https://www.wikidata.org/wiki/Q5582439) QID Q5582439
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

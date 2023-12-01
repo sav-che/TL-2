@@ -6,7 +6,7 @@ tl2_surname: Patze
 tl2_forenames: Carl August
 tl2_name_abbrev: Patze
 tl2_dates: 1808-1892
-tl2_page_id: 33189578
+tl2_bhl_page_id: 33189578
 author_lsid: 7398-1
 wikidata_id: Q21394096
 ipni_surname: Patze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7398-1), [Wikidata](https://www.wikidata.org/wiki/Q21394096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7398-1) LSID 7398-1, [Wikidata](https://www.wikidata.org/wiki/Q21394096) QID Q21394096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

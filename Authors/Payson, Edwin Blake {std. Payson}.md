@@ -6,7 +6,7 @@ tl2_surname: Payson
 tl2_forenames: Edwin Blake
 tl2_name_abbrev: Payson
 tl2_dates: 1893-1927
-tl2_page_id: 33189599
+tl2_bhl_page_id: 33189599
 author_lsid: 7433-1
 wikidata_id: Q5820043
 ipni_surname: Payson
@@ -24,7 +24,8 @@ ipni_record_modified: 2017-07-10 18:20:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7433-1), [Wikidata](https://www.wikidata.org/wiki/Q5820043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7433-1) LSID 7433-1, [Wikidata](https://www.wikidata.org/wiki/Q5820043) QID Q5820043
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

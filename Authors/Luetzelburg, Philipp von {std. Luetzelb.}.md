@@ -6,7 +6,7 @@ tl2_surname: Luetzelburg
 tl2_forenames: Philipp von
 tl2_name_abbrev: Luetzelb.
 tl2_dates: 1880-1948
-tl2_page_id: 33355277
+tl2_bhl_page_id: 33355277
 author_lsid: 5824-1
 wikidata_id: Q4272397
 ipni_surname: Luetzelburg
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33355277) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5824-1), [Wikidata](https://www.wikidata.org/wiki/Q4272397). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5824-1) LSID 5824-1, [Wikidata](https://www.wikidata.org/wiki/Q4272397) QID Q4272397
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

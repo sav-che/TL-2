@@ -6,7 +6,7 @@ tl2_surname: Örsted
 tl2_forenames: Anders Sandö (Ørsted, Oersted)
 tl2_name_abbrev: Örst.
 tl2_dates: 1816-1872
-tl2_page_id: 33355895
+tl2_bhl_page_id: 33355895
 author_lsid: 24229-1
 wikidata_id: Q491270
 ipni_surname: Oersted
@@ -26,7 +26,8 @@ ipni_record_modified: 2004-04-15 08:14:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33355895) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24229-1), [Wikidata](https://www.wikidata.org/wiki/Q491270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24229-1) LSID 24229-1, [Wikidata](https://www.wikidata.org/wiki/Q491270) QID Q491270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

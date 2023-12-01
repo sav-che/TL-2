@@ -6,7 +6,7 @@ tl2_surname: Knauth
 tl2_forenames: Christoph(orus)
 tl2_name_abbrev: Knauth
 tl2_dates: 1638-1694
-tl2_page_id: 33068816
+tl2_bhl_page_id: 33068816
 author_lsid: 12614-1
 wikidata_id: Q1085318
 ipni_surname: Knauth
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12614-1), [Wikidata](https://www.wikidata.org/wiki/Q1085318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12614-1) LSID 12614-1, [Wikidata](https://www.wikidata.org/wiki/Q1085318) QID Q1085318
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

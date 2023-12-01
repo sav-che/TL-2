@@ -6,7 +6,7 @@ tl2_surname: Scheuermann
 tl2_forenames: Richard
 tl2_name_abbrev: Scheuermann
 tl2_dates: x-1949
-tl2_page_id: 33333282
+tl2_bhl_page_id: 33333282
 author_lsid: 9065-1
 wikidata_id: Q21607895
 ipni_surname: Scheuermann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33333282) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9065-1), [Wikidata](https://www.wikidata.org/wiki/Q21607895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9065-1) LSID 9065-1, [Wikidata](https://www.wikidata.org/wiki/Q21607895) QID Q21607895
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Sperk
 tl2_forenames: Gustav
 tl2_name_abbrev: Sperk
 tl2_dates: 1845/1846-1870
-tl2_page_id: 33333926
+tl2_bhl_page_id: 33333926
 author_lsid: 9961-1
 wikidata_id: Q17333312
 ipni_surname: Sperk
@@ -24,7 +24,8 @@ ipni_record_modified: 2015-01-06 12:21:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9961-1), [Wikidata](https://www.wikidata.org/wiki/Q17333312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9961-1) LSID 9961-1, [Wikidata](https://www.wikidata.org/wiki/Q17333312) QID Q17333312
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

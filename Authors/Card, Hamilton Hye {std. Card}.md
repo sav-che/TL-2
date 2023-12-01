@@ -6,7 +6,7 @@ tl2_surname: Card
 tl2_forenames: Hamilton Hye
 tl2_name_abbrev: Card
 tl2_dates: 1877-1953
-tl2_page_id: 33266707
+tl2_bhl_page_id: 33266707
 author_lsid: 13564-1
 wikidata_id: Q21506960
 ipni_surname: Card
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33266707) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/13564-1), [Wikidata](https://www.wikidata.org/wiki/Q21506960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13564-1) LSID 13564-1, [Wikidata](https://www.wikidata.org/wiki/Q21506960) QID Q21506960
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

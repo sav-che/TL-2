@@ -6,7 +6,7 @@ tl2_surname: Micheli
 tl2_forenames: Pier Antonio (Pietro Antonio)
 tl2_name_abbrev: P. Mich.
 tl2_dates: 1679-1737
-tl2_page_id: 33355553
+tl2_bhl_page_id: 33355553
 author_lsid: 23348-1
 wikidata_id: Q948840
 ipni_surname: Micheli
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:36:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33355553) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23348-1), [Wikidata](https://www.wikidata.org/wiki/Q948840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23348-1) LSID 23348-1, [Wikidata](https://www.wikidata.org/wiki/Q948840) QID Q948840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

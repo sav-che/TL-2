@@ -6,7 +6,7 @@ tl2_surname: Sturt
 tl2_forenames: Charles
 tl2_name_abbrev: Sturt
 tl2_dates: 1795-1869
-tl2_page_id: 33212115
+tl2_bhl_page_id: 33212115
 author_lsid: 10257-1
 wikidata_id: Q548928
 ipni_surname: Sturt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33212115) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10257-1), [Wikidata](https://www.wikidata.org/wiki/Q548928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10257-1) LSID 10257-1, [Wikidata](https://www.wikidata.org/wiki/Q548928) QID Q548928
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

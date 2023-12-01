@@ -6,7 +6,7 @@ tl2_surname: Celsius
 tl2_forenames: Olof
 tl2_name_abbrev: Celsius
 tl2_dates: 1670-1756
-tl2_page_id: 33120608
+tl2_bhl_page_id: 33120608
 author_lsid: 1481-1
 wikidata_id: Q954771
 ipni_surname: Celsius
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33120608) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1481-1), [Wikidata](https://www.wikidata.org/wiki/Q954771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1481-1) LSID 1481-1, [Wikidata](https://www.wikidata.org/wiki/Q954771) QID Q954771
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

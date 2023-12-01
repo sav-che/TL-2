@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0031
 tl2_volume: suppl7
 tl2_page_printed: 36
 tl2_surname: Farlow
-tl2_forenames: William Gilson [sometimes miscited as Gibson]
+tl2_forenames: William Gilson (sometimes miscited as Gibson)
 tl2_name_abbrev: Farl.
 tl2_dates: 1844-1919
-tl2_page_id: 33259540
+tl2_bhl_page_id: 33259540
 author_lsid: 18653-1
 wikidata_id: Q2701736
 ipni_surname: Farlow
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18653-1), [Wikidata](https://www.wikidata.org/wiki/Q2701736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18653-1) LSID 18653-1, [Wikidata](https://www.wikidata.org/wiki/Q2701736) QID Q2701736
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Farlow, William Gilson {std. Farl.}|first entry]] for this author
 

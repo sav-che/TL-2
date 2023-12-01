@@ -6,7 +6,7 @@ tl2_surname: Llano
 tl2_forenames: George Albert
 tl2_name_abbrev: Llano
 tl2_dates: 1911-x
-tl2_page_id: 33355209
+tl2_bhl_page_id: 33355209
 author_lsid: 22454-1
 wikidata_id: Q5877769
 ipni_surname: Llano
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33355209) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22454-1), [Wikidata](https://www.wikidata.org/wiki/Q5877769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22454-1) LSID 22454-1, [Wikidata](https://www.wikidata.org/wiki/Q5877769) QID Q5877769
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

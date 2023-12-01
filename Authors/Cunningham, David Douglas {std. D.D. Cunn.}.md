@@ -6,7 +6,7 @@ tl2_surname: Cunningham
 tl2_forenames: David Douglas
 tl2_name_abbrev: D.D. Cunn.
 tl2_dates: 1843-1914
-tl2_page_id: 33120703
+tl2_bhl_page_id: 33120703
 author_lsid: 17581-1
 wikidata_id: Q3017793
 ipni_surname: Cunningham
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33120703) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17581-1), [Wikidata](https://www.wikidata.org/wiki/Q3017793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17581-1) LSID 17581-1, [Wikidata](https://www.wikidata.org/wiki/Q3017793) QID Q3017793
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cunningham, David Douglas {std. D.D. Cunn.} (Suppl.)|second entry]] for this author
 

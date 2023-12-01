@@ -6,7 +6,7 @@ tl2_surname: Nees von Esenbeck
 tl2_forenames: Christian Gottfried Daniel
 tl2_name_abbrev: Nees
 tl2_dates: 1776-1858
-tl2_page_id: 33355792
+tl2_bhl_page_id: 33355792
 author_lsid: 6888-1
 wikidata_id: Q76349
 ipni_surname: Nees von Esenbeck
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:46:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6888-1), [Wikidata](https://www.wikidata.org/wiki/Q76349). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6888-1) LSID 6888-1, [Wikidata](https://www.wikidata.org/wiki/Q76349) QID Q76349
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Cuénod
 tl2_forenames: Auguste Jean
 tl2_name_abbrev: Cuénod
 tl2_dates: 1868-1954
-tl2_page_id: 33266168
+tl2_bhl_page_id: 33266168
 author_lsid: 20000035-2
 wikidata_id: Q2871138
 ipni_surname: Cuénod
@@ -23,7 +23,8 @@ ipni_record_modified: 2004-03-31 04:18:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33266168) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/20000035-2), [Wikidata](https://www.wikidata.org/wiki/Q2871138). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20000035-2) LSID 20000035-2, [Wikidata](https://www.wikidata.org/wiki/Q2871138) QID Q2871138
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

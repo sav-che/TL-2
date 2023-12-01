@@ -6,7 +6,7 @@ tl2_surname: Lohwag
 tl2_forenames: Heinrich
 tl2_name_abbrev: H. Lohwag
 tl2_dates: 1884-1945
-tl2_page_id: 33355233
+tl2_bhl_page_id: 33355233
 author_lsid: 22498-1
 wikidata_id: Q21519427
 ipni_surname: Lohwag
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33355233) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22498-1), [Wikidata](https://www.wikidata.org/wiki/Q21519427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22498-1) LSID 22498-1, [Wikidata](https://www.wikidata.org/wiki/Q21519427) QID Q21519427
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Labillardière
 tl2_forenames: Jacques Julien Houttou de
 tl2_name_abbrev: Labill.
 tl2_dates: 1775-1834
-tl2_page_id: 33068952
+tl2_bhl_page_id: 33068952
 author_lsid: 5175-1
 wikidata_id: Q528925
 ipni_surname: Labillardière
@@ -27,7 +27,8 @@ ipni_record_modified: 2004-04-29 08:51:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5175-1), [Wikidata](https://www.wikidata.org/wiki/Q528925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5175-1) LSID 5175-1, [Wikidata](https://www.wikidata.org/wiki/Q528925) QID Q528925
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Castracane degli Antelminelli
 tl2_forenames: Francesco Saverio, Conte
 tl2_name_abbrev: Castracane
 tl2_dates: 1817-1899
-tl2_page_id: 33120600
+tl2_bhl_page_id: 33120600
 author_lsid: 1453-1
 wikidata_id: Q5479282
 ipni_surname: Castracane degli Antelminelli
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1453-1), [Wikidata](https://www.wikidata.org/wiki/Q5479282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1453-1) LSID 1453-1, [Wikidata](https://www.wikidata.org/wiki/Q5479282) QID Q5479282
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Castracane degli Antelminelli, Francesco {std. Castracane} (Suppl.)|second entry]] for this author
 

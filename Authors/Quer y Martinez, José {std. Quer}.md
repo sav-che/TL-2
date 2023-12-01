@@ -6,7 +6,7 @@ tl2_surname: Quer y Martinez
 tl2_forenames: José
 tl2_name_abbrev: Quer
 tl2_dates: 1695-1764
-tl2_page_id: 33189927
+tl2_bhl_page_id: 33189927
 author_lsid: 8051-1
 wikidata_id: Q957879
 ipni_surname: Quer y Martínez
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8051-1), [Wikidata](https://www.wikidata.org/wiki/Q957879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8051-1) LSID 8051-1, [Wikidata](https://www.wikidata.org/wiki/Q957879) QID Q957879
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

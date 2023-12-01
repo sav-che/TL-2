@@ -6,7 +6,7 @@ tl2_surname: Howe
 tl2_forenames: Marshall Avery
 tl2_name_abbrev: M. Howe
 tl2_dates: 1867-1936
-tl2_page_id: 33068589
+tl2_bhl_page_id: 33068589
 author_lsid: 4160-1
 wikidata_id: Q2715058
 ipni_surname: Howe
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33068589) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4160-1), [Wikidata](https://www.wikidata.org/wiki/Q2715058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4160-1) LSID 4160-1, [Wikidata](https://www.wikidata.org/wiki/Q2715058) QID Q2715058
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Berger
 tl2_forenames: Alwin
 tl2_name_abbrev: A. Berger
 tl2_dates: 1871-1931
-tl2_page_id: 33265285
+tl2_bhl_page_id: 33265285
 author_lsid: 680-1
 wikidata_id: Q61805
 ipni_surname: Berger
@@ -23,7 +23,8 @@ ipni_record_modified: 2011-09-20 07:36:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33265285) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/680-1), [Wikidata](https://www.wikidata.org/wiki/Q61805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/680-1) LSID 680-1, [Wikidata](https://www.wikidata.org/wiki/Q61805) QID Q61805
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Berger, Alwin {std. A. Berger}|first entry]] for this author
 

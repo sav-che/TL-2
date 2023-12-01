@@ -6,7 +6,7 @@ tl2_surname: Schwertschlager
 tl2_forenames: Joseph
 tl2_name_abbrev: Schwertschlager
 tl2_dates: 1853-1924
-tl2_page_id: 33333588
+tl2_bhl_page_id: 33333588
 author_lsid: 9376-1
 wikidata_id: Q21608550
 ipni_surname: Schwertschlager
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33333588) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9376-1), [Wikidata](https://www.wikidata.org/wiki/Q21608550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9376-1) LSID 9376-1, [Wikidata](https://www.wikidata.org/wiki/Q21608550) QID Q21608550
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

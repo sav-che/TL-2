@@ -6,7 +6,7 @@ tl2_surname: Miranda
 tl2_forenames: González, Faustino
 tl2_name_abbrev: Miranda
 tl2_dates: 1905-1964
-tl2_page_id: 33355607
+tl2_bhl_page_id: 33355607
 author_lsid: 6510-1
 wikidata_id: Q5405844
 ipni_surname: Miranda
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6510-1), [Wikidata](https://www.wikidata.org/wiki/Q5405844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6510-1) LSID 6510-1, [Wikidata](https://www.wikidata.org/wiki/Q5405844) QID Q5405844
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

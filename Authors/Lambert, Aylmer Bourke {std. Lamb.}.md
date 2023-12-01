@@ -6,7 +6,7 @@ tl2_surname: Lambert
 tl2_forenames: Aylmer Bourke
 tl2_name_abbrev: Lamb.
 tl2_dates: 1761-1842
-tl2_page_id: 33068977
+tl2_bhl_page_id: 33068977
 author_lsid: 5231-1
 wikidata_id: Q374894
 ipni_surname: Lambert
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33068977) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5231-1), [Wikidata](https://www.wikidata.org/wiki/Q374894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5231-1) LSID 5231-1, [Wikidata](https://www.wikidata.org/wiki/Q374894) QID Q374894
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Valeton
 tl2_forenames: Theodoric
 tl2_name_abbrev: Val.
 tl2_dates: 1855-1929
-tl2_page_id: 33212691
+tl2_bhl_page_id: 33212691
 author_lsid: 11036-1
 wikidata_id: Q2335410
 ipni_surname: Valeton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33212691) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11036-1), [Wikidata](https://www.wikidata.org/wiki/Q2335410). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11036-1) LSID 11036-1, [Wikidata](https://www.wikidata.org/wiki/Q2335410) QID Q2335410
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

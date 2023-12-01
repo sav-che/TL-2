@@ -6,7 +6,7 @@ tl2_surname: Barceló y Combis
 tl2_forenames: Francisco
 tl2_name_abbrev: Barceló
 tl2_dates: x-1889
-tl2_page_id: 33120251
+tl2_bhl_page_id: 33120251
 author_lsid: 471-1
 wikidata_id: Q21505652
 ipni_surname: Barceló y Combis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33120251) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/471-1), [Wikidata](https://www.wikidata.org/wiki/Q21505652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/471-1) LSID 471-1, [Wikidata](https://www.wikidata.org/wiki/Q21505652) QID Q21505652
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Barceló y Combis, Francisco {std. Barceló} (Suppl.)|second entry]] for this author
 

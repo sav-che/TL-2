@@ -6,7 +6,7 @@ tl2_surname: Hegelmaier
 tl2_forenames: Christoph Friedrich
 tl2_name_abbrev: Hegelm.
 tl2_dates: 1833-1906
-tl2_page_id: 33068369
+tl2_bhl_page_id: 33068369
 author_lsid: 3779-1
 wikidata_id: Q96737
 ipni_surname: Hegelmaier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3779-1), [Wikidata](https://www.wikidata.org/wiki/Q96737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3779-1) LSID 3779-1, [Wikidata](https://www.wikidata.org/wiki/Q96737) QID Q96737
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

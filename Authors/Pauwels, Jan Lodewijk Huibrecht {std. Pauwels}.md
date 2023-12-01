@@ -6,7 +6,7 @@ tl2_surname: Pauwels
 tl2_forenames: Jan Lodewijk Huibrecht
 tl2_name_abbrev: Pauwels
 tl2_dates: 1899-x
-tl2_page_id: 33189586
+tl2_bhl_page_id: 33189586
 author_lsid: 7415-1
 wikidata_id: Q21522708
 ipni_surname: Pauwels
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7415-1), [Wikidata](https://www.wikidata.org/wiki/Q21522708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7415-1) LSID 7415-1, [Wikidata](https://www.wikidata.org/wiki/Q21522708) QID Q21522708
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

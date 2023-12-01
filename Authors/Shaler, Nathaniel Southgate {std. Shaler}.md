@@ -6,7 +6,7 @@ tl2_surname: Shaler
 tl2_forenames: Nathaniel Southgate
 tl2_name_abbrev: Shaler
 tl2_dates: 1841-1906
-tl2_page_id: 33333687
+tl2_bhl_page_id: 33333687
 author_lsid: 9533-1
 wikidata_id: Q263541
 ipni_surname: Shaler
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9533-1), [Wikidata](https://www.wikidata.org/wiki/Q263541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9533-1) LSID 9533-1, [Wikidata](https://www.wikidata.org/wiki/Q263541) QID Q263541
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

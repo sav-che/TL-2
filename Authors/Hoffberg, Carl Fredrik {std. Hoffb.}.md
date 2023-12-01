@@ -6,7 +6,7 @@ tl2_surname: Hoffberg
 tl2_forenames: Carl Fredrik
 tl2_name_abbrev: Hoffb.
 tl2_dates: 1729-1790
-tl2_page_id: 33068477
+tl2_bhl_page_id: 33068477
 author_lsid: 4010-1
 wikidata_id: Q21515916
 ipni_surname: Hoffberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4010-1), [Wikidata](https://www.wikidata.org/wiki/Q21515916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4010-1) LSID 4010-1, [Wikidata](https://www.wikidata.org/wiki/Q21515916) QID Q21515916
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

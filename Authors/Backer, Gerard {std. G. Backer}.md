@@ -6,7 +6,7 @@ tl2_surname: Backer
 tl2_forenames: Gerard
 tl2_name_abbrev: G. Backer
 tl2_dates: fl. 1829
-tl2_page_id: 33264967
+tl2_bhl_page_id: 33264967
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33264967) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

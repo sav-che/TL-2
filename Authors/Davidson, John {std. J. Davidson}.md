@@ -6,7 +6,7 @@ tl2_surname: Davidson
 tl2_forenames: John
 tl2_name_abbrev: J. Davidson
 tl2_dates: 1878-1970
-tl2_page_id: 33259143
+tl2_bhl_page_id: 33259143
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33259143) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

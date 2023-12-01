@@ -6,7 +6,7 @@ tl2_surname: Mexia
 tl2_forenames: Ynes Enriquetta Julietta
 tl2_name_abbrev: Mexia
 tl2_dates: 1870-1938
-tl2_page_id: 33355524
+tl2_bhl_page_id: 33355524
 author_lsid: 6405-1
 wikidata_id: Q2600470
 ipni_surname: Mexia
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6405-1), [Wikidata](https://www.wikidata.org/wiki/Q2600470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6405-1) LSID 6405-1, [Wikidata](https://www.wikidata.org/wiki/Q2600470) QID Q2600470
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

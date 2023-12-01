@@ -6,7 +6,7 @@ tl2_surname: Curtis
 tl2_forenames: Carlton Clarence
 tl2_name_abbrev: C.C. Curtis
 tl2_dates: 1864-1945
-tl2_page_id: 33266190
+tl2_bhl_page_id: 33266190
 author_lsid: 1929-1
 wikidata_id: Q15830216
 ipni_surname: Curtis
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33266190) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1929-1), [Wikidata](https://www.wikidata.org/wiki/Q15830216). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1929-1) LSID 1929-1, [Wikidata](https://www.wikidata.org/wiki/Q15830216) QID Q15830216
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

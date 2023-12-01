@@ -6,7 +6,7 @@ tl2_surname: Rea
 tl2_forenames: Carleton
 tl2_name_abbrev: Rea
 tl2_dates: 1861-1946
-tl2_page_id: 33190083
+tl2_bhl_page_id: 33190083
 author_lsid: 25403-1
 wikidata_id: Q4394281
 ipni_surname: Rea
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33190083) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25403-1), [Wikidata](https://www.wikidata.org/wiki/Q4394281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25403-1) LSID 25403-1, [Wikidata](https://www.wikidata.org/wiki/Q4394281) QID Q4394281
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

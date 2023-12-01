@@ -6,7 +6,7 @@ tl2_surname: Starcs
 tl2_forenames: Karlis
 tl2_name_abbrev: Starcs
 tl2_dates: 1897-1953
-tl2_page_id: 33333983
+tl2_bhl_page_id: 33333983
 author_lsid: 10031-1
 wikidata_id: Q21609538
 ipni_surname: Starcs
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33333983) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10031-1), [Wikidata](https://www.wikidata.org/wiki/Q21609538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10031-1) LSID 10031-1, [Wikidata](https://www.wikidata.org/wiki/Q21609538) QID Q21609538
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

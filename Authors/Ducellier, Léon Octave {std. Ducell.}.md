@@ -6,7 +6,7 @@ tl2_surname: Ducellier
 tl2_forenames: Léon Octave
 tl2_name_abbrev: Ducell.
 tl2_dates: 1878-1937
-tl2_page_id: 33260115
+tl2_bhl_page_id: 33260115
 author_lsid: 2342-1
 wikidata_id: Q21510984
 ipni_surname: Ducellier
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33260115) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2342-1), [Wikidata](https://www.wikidata.org/wiki/Q21510984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2342-1) LSID 2342-1, [Wikidata](https://www.wikidata.org/wiki/Q21510984) QID Q21510984
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

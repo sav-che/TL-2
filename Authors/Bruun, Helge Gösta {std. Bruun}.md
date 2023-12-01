@@ -6,7 +6,7 @@ tl2_surname: Bruun
 tl2_forenames: Helge Gösta
 tl2_name_abbrev: Bruun
 tl2_dates: 1897-x
-tl2_page_id: 33266475
+tl2_bhl_page_id: 33266475
 author_lsid: 1228-1
 wikidata_id: Q13410501
 ipni_surname: Bruun
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33266475) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1228-1), [Wikidata](https://www.wikidata.org/wiki/Q13410501). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1228-1) LSID 1228-1, [Wikidata](https://www.wikidata.org/wiki/Q13410501) QID Q13410501
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

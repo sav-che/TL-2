@@ -6,7 +6,7 @@ tl2_surname: Londes
 tl2_forenames: Friedrich Wilhelm
 tl2_name_abbrev: Londes
 tl2_dates: 1780-1807
-tl2_page_id: 33355239
+tl2_bhl_page_id: 33355239
 author_lsid: 5726-1
 wikidata_id: Q15957220
 ipni_surname: Londes
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33355239) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5726-1), [Wikidata](https://www.wikidata.org/wiki/Q15957220). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5726-1) LSID 5726-1, [Wikidata](https://www.wikidata.org/wiki/Q15957220) QID Q15957220
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

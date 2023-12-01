@@ -6,7 +6,7 @@ tl2_surname: Migout
 tl2_forenames: Abel
 tl2_name_abbrev: Migout
 tl2_dates: 1830-?
-tl2_page_id: 33355561
+tl2_bhl_page_id: 33355561
 author_lsid: 6455-1
 wikidata_id: Q21520528
 ipni_surname: Migout
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33355561) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6455-1), [Wikidata](https://www.wikidata.org/wiki/Q21520528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6455-1) LSID 6455-1, [Wikidata](https://www.wikidata.org/wiki/Q21520528) QID Q21520528
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

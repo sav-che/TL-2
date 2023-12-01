@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0452
 tl2_volume: vol6
 tl2_page_printed: 421
 tl2_surname: Trabut
-tl2_forenames: Louis [Charles]
+tl2_forenames: Louis (Charles)
 tl2_name_abbrev: Trab.
 tl2_dates: 1853-1929
-tl2_page_id: 33212463
+tl2_bhl_page_id: 33212463
 author_lsid: 10780-1
 wikidata_id: Q2017793
 ipni_surname: Trabut
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:54:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33212463) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10780-1), [Wikidata](https://www.wikidata.org/wiki/Q2017793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10780-1) LSID 10780-1, [Wikidata](https://www.wikidata.org/wiki/Q2017793) QID Q2017793
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

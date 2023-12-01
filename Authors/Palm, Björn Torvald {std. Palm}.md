@@ -6,7 +6,7 @@ tl2_surname: Palm
 tl2_forenames: Björn Torvald
 tl2_name_abbrev: Palm
 tl2_dates: 1887-1956
-tl2_page_id: 33189460
+tl2_bhl_page_id: 33189460
 author_lsid: 7278-1
 wikidata_id: Q16650116
 ipni_surname: Palm
@@ -28,7 +28,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33189460) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7278-1), [Wikidata](https://www.wikidata.org/wiki/Q16650116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7278-1) LSID 7278-1, [Wikidata](https://www.wikidata.org/wiki/Q16650116) QID Q16650116
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

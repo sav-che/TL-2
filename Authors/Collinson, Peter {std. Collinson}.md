@@ -6,7 +6,7 @@ tl2_surname: Collinson
 tl2_forenames: Peter
 tl2_name_abbrev: Collinson
 tl2_dates: 1694-1768
-tl2_page_id: 33120659
+tl2_bhl_page_id: 33120659
 author_lsid: 1746-1
 wikidata_id: Q1350818
 ipni_surname: Collinson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33120659) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1746-1), [Wikidata](https://www.wikidata.org/wiki/Q1350818). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1746-1) LSID 1746-1, [Wikidata](https://www.wikidata.org/wiki/Q1350818) QID Q1350818
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

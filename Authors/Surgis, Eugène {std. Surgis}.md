@@ -6,7 +6,7 @@ tl2_surname: Surgis
 tl2_forenames: Eugène
 tl2_name_abbrev: Surgis
 tl2_dates: fl. 1921
-tl2_page_id: 33212136
+tl2_bhl_page_id: 33212136
 author_lsid: 10304-1
 wikidata_id: Q36550711
 ipni_surname: Surgis
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10304-1), [Wikidata](https://www.wikidata.org/wiki/Q36550711). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10304-1) LSID 10304-1, [Wikidata](https://www.wikidata.org/wiki/Q36550711) QID Q36550711
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

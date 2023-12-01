@@ -6,7 +6,7 @@ tl2_surname: Plumier
 tl2_forenames: Charles
 tl2_name_abbrev: Plum.
 tl2_dates: 1646-1704
-tl2_page_id: 33189772
+tl2_bhl_page_id: 33189772
 author_lsid: 7765-1
 wikidata_id: Q468460
 ipni_surname: Plumier
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33189772) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7765-1), [Wikidata](https://www.wikidata.org/wiki/Q468460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7765-1) LSID 7765-1, [Wikidata](https://www.wikidata.org/wiki/Q468460) QID Q468460
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

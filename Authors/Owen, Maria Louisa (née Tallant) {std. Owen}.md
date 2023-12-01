@@ -6,7 +6,7 @@ tl2_surname: Owen
 tl2_forenames: Maria Louisa (née Tallant)
 tl2_name_abbrev: Owen
 tl2_dates: 1825-1913
-tl2_page_id: 33355954
+tl2_bhl_page_id: 33355954
 author_lsid: 12718-1
 wikidata_id: Q21522487
 ipni_surname: Owen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12718-1), [Wikidata](https://www.wikidata.org/wiki/Q21522487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12718-1) LSID 12718-1, [Wikidata](https://www.wikidata.org/wiki/Q21522487) QID Q21522487
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

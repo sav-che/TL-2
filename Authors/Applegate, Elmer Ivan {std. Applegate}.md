@@ -6,7 +6,7 @@ tl2_surname: Applegate
 tl2_forenames: Elmer Ivan
 tl2_name_abbrev: Applegate
 tl2_dates: 1867-1949
-tl2_page_id: 33264865
+tl2_bhl_page_id: 33264865
 author_lsid: 245-1
 wikidata_id: Q1332940
 ipni_surname: Applegate
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/245-1), [Wikidata](https://www.wikidata.org/wiki/Q1332940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/245-1) LSID 245-1, [Wikidata](https://www.wikidata.org/wiki/Q1332940) QID Q1332940
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

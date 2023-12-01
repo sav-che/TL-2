@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_1002
 tl2_volume: vol2
 tl2_page_printed: 846
 tl2_surname: Leonhardi
-tl2_forenames: Peter Carl Pius Gustav Hermann, Freiherr von [Hermann von L.]
+tl2_forenames: Peter Carl Pius Gustav Hermann, Freiherr von (Hermann von L.)
 tl2_name_abbrev: Leonhardi
 tl2_dates: 1809-1875
-tl2_page_id: 33069088
+tl2_bhl_page_id: 33069088
 author_lsid: 5483-1
 wikidata_id: Q1613257
 ipni_surname: Leonhardi
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5483-1), [Wikidata](https://www.wikidata.org/wiki/Q1613257). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5483-1) LSID 5483-1, [Wikidata](https://www.wikidata.org/wiki/Q1613257) QID Q1613257
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

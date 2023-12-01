@@ -6,7 +6,7 @@ tl2_surname: Selk
 tl2_forenames: Heinrich
 tl2_name_abbrev: Selk
 tl2_dates: fl. 1908
-tl2_page_id: 33333638
+tl2_bhl_page_id: 33333638
 author_lsid: 9460-1
 wikidata_id: Q36578912
 ipni_surname: Selk
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9460-1), [Wikidata](https://www.wikidata.org/wiki/Q36578912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9460-1) LSID 9460-1, [Wikidata](https://www.wikidata.org/wiki/Q36578912) QID Q36578912
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

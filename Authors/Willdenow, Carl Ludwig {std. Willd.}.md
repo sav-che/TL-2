@@ -6,7 +6,7 @@ tl2_surname: Willdenow
 tl2_forenames: Carl Ludwig
 tl2_name_abbrev: Willd.
 tl2_dates: 1765-1812
-tl2_page_id: 33066638
+tl2_bhl_page_id: 33066638
 author_lsid: 11692-1
 wikidata_id: Q76353
 ipni_surname: Willdenow
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-08-21 23:28:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33066638) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11692-1), [Wikidata](https://www.wikidata.org/wiki/Q76353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11692-1) LSID 11692-1, [Wikidata](https://www.wikidata.org/wiki/Q76353) QID Q76353
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Barbeu-Dubourg
 tl2_forenames: Jacques
 tl2_name_abbrev: Barbeu
 tl2_dates: 1709-1779
-tl2_page_id: 33265044
+tl2_bhl_page_id: 33265044
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33265044) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

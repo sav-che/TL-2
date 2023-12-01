@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0944
 tl2_volume: vol3
 tl2_page_printed: 799
 tl2_surname: Nyst
-tl2_forenames: [Henri Joseph] Pierre
+tl2_forenames: (Henri Joseph) Pierre
 tl2_name_abbrev: Nyst
 tl2_dates: 1780-1846
-tl2_page_id: 33355886
+tl2_bhl_page_id: 33355886
 author_lsid: 12711-1
 wikidata_id: Q21522292
 ipni_surname: Nyst
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12711-1), [Wikidata](https://www.wikidata.org/wiki/Q21522292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12711-1) LSID 12711-1, [Wikidata](https://www.wikidata.org/wiki/Q21522292) QID Q21522292
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Fleischer
 tl2_forenames: Johann Gottlieb (Theophilus)
 tl2_name_abbrev: J. Fleisch.
 tl2_dates: 1797-1838
-tl2_page_id: 33120974
+tl2_bhl_page_id: 33120974
 author_lsid: 2776-1
 wikidata_id: Q6215912
 ipni_surname: Fleischer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2776-1), [Wikidata](https://www.wikidata.org/wiki/Q6215912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2776-1) LSID 2776-1, [Wikidata](https://www.wikidata.org/wiki/Q6215912) QID Q6215912
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

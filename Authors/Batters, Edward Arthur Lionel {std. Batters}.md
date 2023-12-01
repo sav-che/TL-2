@@ -6,7 +6,7 @@ tl2_surname: Batters
 tl2_forenames: Edward Arthur Lionel
 tl2_name_abbrev: Batters
 tl2_dates: 1860-1907
-tl2_page_id: 33120275
+tl2_bhl_page_id: 33120275
 author_lsid: 546-1
 wikidata_id: Q21505786
 ipni_surname: Batters
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33120275) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/546-1), [Wikidata](https://www.wikidata.org/wiki/Q21505786). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/546-1) LSID 546-1, [Wikidata](https://www.wikidata.org/wiki/Q21505786) QID Q21505786
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Batters, Edward Arthur Lionel {std. Batters} (Suppl.)|second entry]] for this author
 

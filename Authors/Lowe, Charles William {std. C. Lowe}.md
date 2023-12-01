@@ -6,7 +6,7 @@ tl2_surname: Lowe
 tl2_forenames: Charles William
 tl2_name_abbrev: C. Lowe
 tl2_dates: 1885-1969
-tl2_page_id: 33355262
+tl2_bhl_page_id: 33355262
 author_lsid: 5783-1
 wikidata_id: Q21519532
 ipni_surname: Lowe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33355262) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5783-1), [Wikidata](https://www.wikidata.org/wiki/Q21519532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5783-1) LSID 5783-1, [Wikidata](https://www.wikidata.org/wiki/Q21519532) QID Q21519532
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

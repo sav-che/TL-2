@@ -6,7 +6,7 @@ tl2_surname: Phares
 tl2_forenames: David Lewis
 tl2_name_abbrev: Phares
 tl2_dates: 1817-1892
-tl2_page_id: 33189701
+tl2_bhl_page_id: 33189701
 author_lsid: 7628-1
 wikidata_id: Q21522939
 ipni_surname: Phares
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33189701) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7628-1), [Wikidata](https://www.wikidata.org/wiki/Q21522939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7628-1) LSID 7628-1, [Wikidata](https://www.wikidata.org/wiki/Q21522939) QID Q21522939
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

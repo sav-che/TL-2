@@ -6,7 +6,7 @@ tl2_surname: Henschel
 tl2_forenames: August Wilhelm Eduard Theodor
 tl2_name_abbrev: Hensch.
 tl2_dates: 1790-1856
-tl2_page_id: 33068404
+tl2_bhl_page_id: 33068404
 author_lsid: 3855-1
 wikidata_id: Q120079
 ipni_surname: Henschel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3855-1), [Wikidata](https://www.wikidata.org/wiki/Q120079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3855-1) LSID 3855-1, [Wikidata](https://www.wikidata.org/wiki/Q120079) QID Q120079
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

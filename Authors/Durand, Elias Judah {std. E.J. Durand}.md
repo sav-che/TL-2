@@ -6,7 +6,7 @@ tl2_surname: Durand
 tl2_forenames: Elias Judah
 tl2_name_abbrev: E.J. Durand
 tl2_dates: 1870-1922
-tl2_page_id: 33260166
+tl2_bhl_page_id: 33260166
 author_lsid: 2393-1
 wikidata_id: Q8774833
 ipni_surname: Durand
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33260166) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2393-1), [Wikidata](https://www.wikidata.org/wiki/Q8774833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2393-1) LSID 2393-1, [Wikidata](https://www.wikidata.org/wiki/Q8774833) QID Q8774833
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

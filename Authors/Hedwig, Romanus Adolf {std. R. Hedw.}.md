@@ -6,7 +6,7 @@ tl2_surname: Hedwig
 tl2_forenames: Romanus Adolf
 tl2_name_abbrev: R. Hedw.
 tl2_dates: 1772-1806
-tl2_page_id: 33068364
+tl2_bhl_page_id: 33068364
 author_lsid: 3774-1
 wikidata_id: Q6111432
 ipni_surname: Hedwig
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:46:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33068364) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3774-1), [Wikidata](https://www.wikidata.org/wiki/Q6111432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3774-1) LSID 3774-1, [Wikidata](https://www.wikidata.org/wiki/Q6111432) QID Q6111432
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

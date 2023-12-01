@@ -6,7 +6,7 @@ tl2_surname: Söderberg
 tl2_forenames: Daniel Henric
 tl2_name_abbrev: Söderberg
 tl2_dates: 1750-1781
-tl2_page_id: 33333856
+tl2_bhl_page_id: 33333856
 author_lsid: 9852-1
 wikidata_id: Q5798433
 ipni_surname: Söderberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9852-1), [Wikidata](https://www.wikidata.org/wiki/Q5798433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9852-1) LSID 9852-1, [Wikidata](https://www.wikidata.org/wiki/Q5798433) QID Q5798433
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

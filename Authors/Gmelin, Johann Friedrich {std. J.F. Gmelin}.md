@@ -6,7 +6,7 @@ tl2_surname: Gmelin
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: J.F. Gmelin
 tl2_dates: 1748-1804
-tl2_page_id: 33121086
+tl2_bhl_page_id: 33121086
 author_lsid: 3203-1
 wikidata_id: Q57230
 ipni_surname: Gmelin
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:42:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 955](https://www.biodiversitylibrary.org/page/33121086) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3203-1), [Wikidata](https://www.wikidata.org/wiki/Q57230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3203-1) LSID 3203-1, [Wikidata](https://www.wikidata.org/wiki/Q57230) QID Q57230
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

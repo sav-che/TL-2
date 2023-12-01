@@ -6,7 +6,7 @@ tl2_surname: Foucaud
 tl2_forenames: Julien
 tl2_name_abbrev: Foucaud
 tl2_dates: 1847-1904
-tl2_page_id: 33259857
+tl2_bhl_page_id: 33259857
 author_lsid: 2851-1
 wikidata_id: Q2344902
 ipni_surname: Foucaud
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33259857) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2851-1), [Wikidata](https://www.wikidata.org/wiki/Q2344902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2851-1) LSID 2851-1, [Wikidata](https://www.wikidata.org/wiki/Q2344902) QID Q2344902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Foucaud, Julien {std. Foucaud}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Ernst-Schwarzenbach
 tl2_forenames: Marthe
 tl2_name_abbrev: M. Schwarzenb.
 tl2_dates: 1900-1967
-tl2_page_id: 33260396
+tl2_bhl_page_id: 33260396
 author_lsid: 9359-1
 wikidata_id: Q21608535
 ipni_surname: Schwarzenbach
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33260396) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/9359-1), [Wikidata](https://www.wikidata.org/wiki/Q21608535). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9359-1) LSID 9359-1, [Wikidata](https://www.wikidata.org/wiki/Q21608535) QID Q21608535
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

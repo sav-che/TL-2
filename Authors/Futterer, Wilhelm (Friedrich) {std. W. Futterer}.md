@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0064
 tl2_volume: suppl8
 tl2_page_printed: 83
 tl2_surname: Futterer
-tl2_forenames: Wilhelm [Friedrich]
+tl2_forenames: Wilhelm (Friedrich)
 tl2_name_abbrev: W. Futterer
 tl2_dates: 1871-x
-tl2_page_id: 33258561
+tl2_bhl_page_id: 33258561
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33258561) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

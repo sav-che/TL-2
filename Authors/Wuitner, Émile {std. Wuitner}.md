@@ -6,7 +6,7 @@ tl2_surname: Wuitner
 tl2_forenames: Émile
 tl2_name_abbrev: Wuitner
 tl2_dates: 1865-1946
-tl2_page_id: 33066814
+tl2_bhl_page_id: 33066814
 author_lsid: 11897-1
 wikidata_id: Q20972195
 ipni_surname: Wuitner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11897-1), [Wikidata](https://www.wikidata.org/wiki/Q20972195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11897-1) LSID 11897-1, [Wikidata](https://www.wikidata.org/wiki/Q20972195) QID Q20972195
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

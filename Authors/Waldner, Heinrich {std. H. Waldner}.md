@@ -6,7 +6,7 @@ tl2_surname: Waldner
 tl2_forenames: Heinrich
 tl2_name_abbrev: H. Waldner
 tl2_dates: fl. 1880
-tl2_page_id: 33066369
+tl2_bhl_page_id: 33066369
 author_lsid: 11330-1
 wikidata_id: Q36580139
 ipni_surname: Waldner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33066369) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11330-1), [Wikidata](https://www.wikidata.org/wiki/Q36580139). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11330-1) LSID 11330-1, [Wikidata](https://www.wikidata.org/wiki/Q36580139) QID Q36580139
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

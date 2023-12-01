@@ -6,7 +6,7 @@ tl2_surname: Koehne
 tl2_forenames: Bernhard Adalbert Emil
 tl2_name_abbrev: Koehne
 tl2_dates: 1848-1918
-tl2_page_id: 33068837
+tl2_bhl_page_id: 33068837
 author_lsid: 4912-1
 wikidata_id: Q71081
 ipni_surname: Koehne
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4912-1), [Wikidata](https://www.wikidata.org/wiki/Q71081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4912-1) LSID 4912-1, [Wikidata](https://www.wikidata.org/wiki/Q71081) QID Q71081
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

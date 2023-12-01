@@ -6,7 +6,7 @@ tl2_surname: Fritel
 tl2_forenames: Paul-Honoré
 tl2_name_abbrev: Fritel
 tl2_dates: 1867-1927
-tl2_page_id: 33258485
+tl2_bhl_page_id: 33258485
 author_lsid: 18999-1
 wikidata_id: Q21513563
 ipni_surname: Fritel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33258485) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/18999-1), [Wikidata](https://www.wikidata.org/wiki/Q21513563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18999-1) LSID 18999-1, [Wikidata](https://www.wikidata.org/wiki/Q21513563) QID Q21513563
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

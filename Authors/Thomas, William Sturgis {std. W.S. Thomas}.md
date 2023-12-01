@@ -6,7 +6,7 @@ tl2_surname: Thomas
 tl2_forenames: William Sturgis
 tl2_name_abbrev: W.S. Thomas
 tl2_dates: 1871-1941
-tl2_page_id: 33212318
+tl2_bhl_page_id: 33212318
 author_lsid: 10598-1
 wikidata_id: Q21610639
 ipni_surname: Thomas
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33212318) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10598-1), [Wikidata](https://www.wikidata.org/wiki/Q21610639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10598-1) LSID 10598-1, [Wikidata](https://www.wikidata.org/wiki/Q21610639) QID Q21610639
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

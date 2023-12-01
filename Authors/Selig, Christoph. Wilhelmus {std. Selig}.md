@@ -6,7 +6,7 @@ tl2_surname: Selig
 tl2_forenames: Christoph. Wilhelmus
 tl2_name_abbrev: Selig
 tl2_dates: fl. 1802
-tl2_page_id: 33333637
+tl2_bhl_page_id: 33333637
 author_lsid: 9455-1
 wikidata_id: Q36530706
 ipni_surname: Selig
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9455-1), [Wikidata](https://www.wikidata.org/wiki/Q36530706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9455-1) LSID 9455-1, [Wikidata](https://www.wikidata.org/wiki/Q36530706) QID Q36530706
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

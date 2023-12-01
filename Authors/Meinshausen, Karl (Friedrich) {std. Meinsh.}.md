@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0473
 tl2_volume: vol3
 tl2_page_printed: 403
 tl2_surname: Meinshausen
-tl2_forenames: Karl [Friedrich]
+tl2_forenames: Karl (Friedrich)
 tl2_name_abbrev: Meinsh.
 tl2_dates: 1819-1899
-tl2_page_id: 33355490
+tl2_bhl_page_id: 33355490
 author_lsid: 6321-1
 wikidata_id: Q5958256
 ipni_surname: Meinshausen
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6321-1), [Wikidata](https://www.wikidata.org/wiki/Q5958256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6321-1) LSID 6321-1, [Wikidata](https://www.wikidata.org/wiki/Q5958256) QID Q5958256
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

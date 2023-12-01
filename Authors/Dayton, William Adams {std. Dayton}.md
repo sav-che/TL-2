@@ -6,7 +6,7 @@ tl2_surname: Dayton
 tl2_forenames: William Adams
 tl2_name_abbrev: Dayton
 tl2_dates: 1885-1958
-tl2_page_id: 33259163
+tl2_bhl_page_id: 33259163
 author_lsid: 2046-1
 wikidata_id: Q21509978
 ipni_surname: Dayton
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33259163) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2046-1), [Wikidata](https://www.wikidata.org/wiki/Q21509978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2046-1) LSID 2046-1, [Wikidata](https://www.wikidata.org/wiki/Q21509978) QID Q21509978
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

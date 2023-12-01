@@ -6,7 +6,7 @@ tl2_surname: Hough
 tl2_forenames: Romeyn Beck
 tl2_name_abbrev: Hough
 tl2_dates: 1857-1924
-tl2_page_id: 33068583
+tl2_bhl_page_id: 33068583
 author_lsid: 4138-1
 wikidata_id: Q18385149
 ipni_surname: Hough
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4138-1), [Wikidata](https://www.wikidata.org/wiki/Q18385149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4138-1) LSID 4138-1, [Wikidata](https://www.wikidata.org/wiki/Q18385149) QID Q18385149
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

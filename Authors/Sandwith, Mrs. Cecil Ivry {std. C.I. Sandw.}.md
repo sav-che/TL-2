@@ -6,7 +6,7 @@ tl2_surname: Sandwith
 tl2_forenames: Mrs. Cecil Ivry
 tl2_name_abbrev: C.I. Sandw.
 tl2_dates: 1871-1961
-tl2_page_id: 33333136
+tl2_bhl_page_id: 33333136
 author_lsid: 8894-1
 wikidata_id: Q18243099
 ipni_surname: Sandwith
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8894-1), [Wikidata](https://www.wikidata.org/wiki/Q18243099). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8894-1) LSID 8894-1, [Wikidata](https://www.wikidata.org/wiki/Q18243099) QID Q18243099
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

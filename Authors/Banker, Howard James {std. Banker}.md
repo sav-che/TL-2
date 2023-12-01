@@ -6,7 +6,7 @@ tl2_surname: Banker
 tl2_forenames: Howard James
 tl2_name_abbrev: Banker
 tl2_dates: 1866-1940
-tl2_page_id: 33265039
+tl2_bhl_page_id: 33265039
 author_lsid: 31292-1
 wikidata_id: Q5919988
 ipni_surname: Banker
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265039) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31292-1), [Wikidata](https://www.wikidata.org/wiki/Q5919988). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31292-1) LSID 31292-1, [Wikidata](https://www.wikidata.org/wiki/Q5919988) QID Q5919988
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

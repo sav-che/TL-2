@@ -6,7 +6,7 @@ tl2_surname: Liebmann
 tl2_forenames: Frederik Michael
 tl2_name_abbrev: Liebm.
 tl2_dates: 1813-1856
-tl2_page_id: 33355115
+tl2_bhl_page_id: 33355115
 author_lsid: 22332-1
 wikidata_id: Q1335154
 ipni_surname: Liebmann
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:34:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22332-1), [Wikidata](https://www.wikidata.org/wiki/Q1335154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22332-1) LSID 22332-1, [Wikidata](https://www.wikidata.org/wiki/Q1335154) QID Q1335154
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

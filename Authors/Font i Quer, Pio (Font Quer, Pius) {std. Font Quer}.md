@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_1060
 tl2_volume: vol1
 tl2_page_printed: 852
 tl2_surname: Font i Quer
-tl2_forenames: Pio [Font Quer, Pius]
+tl2_forenames: Pio (Font Quer, Pius)
 tl2_name_abbrev: Font Quer
 tl2_dates: 1888-1964
-tl2_page_id: 33120983
+tl2_bhl_page_id: 33120983
 author_lsid: 2810-1
 wikidata_id: Q2987664
 ipni_surname: Font Quer
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2810-1), [Wikidata](https://www.wikidata.org/wiki/Q2987664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2810-1) LSID 2810-1, [Wikidata](https://www.wikidata.org/wiki/Q2987664) QID Q2987664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Font Quer, Pio(afterwards Font i Quer, Pius) {std. Font Quer} (Suppl.)|second entry]] for this author
 

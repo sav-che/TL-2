@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0489
 tl2_volume: vol5
 tl2_page_printed: 500
 tl2_surname: Sellow
-tl2_forenames: [orig. Sello] Friedrich
+tl2_forenames: (orig. Sello) Friedrich
 tl2_name_abbrev: Sellow
 tl2_dates: 1789-1831
-tl2_page_id: 33333639
+tl2_bhl_page_id: 33333639
 author_lsid: 9464-1
 wikidata_id: Q76159
 ipni_surname: Sellow
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33333639) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9464-1), [Wikidata](https://www.wikidata.org/wiki/Q76159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9464-1) LSID 9464-1, [Wikidata](https://www.wikidata.org/wiki/Q76159) QID Q76159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

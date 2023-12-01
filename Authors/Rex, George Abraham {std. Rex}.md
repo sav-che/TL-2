@@ -6,7 +6,7 @@ tl2_surname: Rex
 tl2_forenames: George Abraham
 tl2_name_abbrev: Rex
 tl2_dates: 1845-1895
-tl2_page_id: 33190219
+tl2_bhl_page_id: 33190219
 author_lsid: 8323-1
 wikidata_id: Q5877766
 ipni_surname: Rex
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33190219) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8323-1), [Wikidata](https://www.wikidata.org/wiki/Q5877766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8323-1) LSID 8323-1, [Wikidata](https://www.wikidata.org/wiki/Q5877766) QID Q5877766
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

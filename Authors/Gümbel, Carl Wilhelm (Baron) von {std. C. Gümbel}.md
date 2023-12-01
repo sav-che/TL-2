@@ -6,7 +6,7 @@ tl2_surname: Gümbel
 tl2_forenames: Carl Wilhelm (Baron) von
 tl2_name_abbrev: C. Gümbel
 tl2_dates: 1823-1898
-tl2_page_id: 33121149
+tl2_bhl_page_id: 33121149
 author_lsid: 3446-1
 wikidata_id: Q96287
 ipni_surname: Gümbel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3446-1), [Wikidata](https://www.wikidata.org/wiki/Q96287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3446-1) LSID 3446-1, [Wikidata](https://www.wikidata.org/wiki/Q96287) QID Q96287
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

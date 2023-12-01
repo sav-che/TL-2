@@ -6,7 +6,7 @@ tl2_surname: Ficinus
 tl2_forenames: Heinrich David August
 tl2_name_abbrev: Ficinus
 tl2_dates: 1782-1857
-tl2_page_id: 33120958
+tl2_bhl_page_id: 33120958
 author_lsid: 18777-1
 wikidata_id: Q1597002
 ipni_surname: Ficinus
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33120958) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18777-1), [Wikidata](https://www.wikidata.org/wiki/Q1597002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18777-1) LSID 18777-1, [Wikidata](https://www.wikidata.org/wiki/Q1597002) QID Q1597002
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

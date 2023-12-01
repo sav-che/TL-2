@@ -6,7 +6,7 @@ tl2_surname: Weir
 tl2_forenames: James Robert
 tl2_name_abbrev: Weir
 tl2_dates: 1882-1943
-tl2_page_id: 33066501
+tl2_bhl_page_id: 33066501
 author_lsid: 11516-1
 wikidata_id: Q21062305
 ipni_surname: Weir
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33066501) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11516-1), [Wikidata](https://www.wikidata.org/wiki/Q21062305). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11516-1) LSID 11516-1, [Wikidata](https://www.wikidata.org/wiki/Q21062305) QID Q21062305
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

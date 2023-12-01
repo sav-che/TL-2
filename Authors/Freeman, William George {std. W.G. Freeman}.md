@@ -6,7 +6,7 @@ tl2_surname: Freeman
 tl2_forenames: William George
 tl2_name_abbrev: W.G. Freeman
 tl2_dates: 1874-x
-tl2_page_id: 33259902
+tl2_bhl_page_id: 33259902
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33259902) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

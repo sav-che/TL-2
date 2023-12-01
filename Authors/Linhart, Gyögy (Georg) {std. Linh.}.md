@@ -6,7 +6,7 @@ tl2_surname: Linhart
 tl2_forenames: Gyögy (Georg)
 tl2_name_abbrev: Linh.
 tl2_dates: 1844-1925
-tl2_page_id: 33355152
+tl2_bhl_page_id: 33355152
 author_lsid: 22399-1
 wikidata_id: Q1130242
 ipni_surname: Linhart
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22399-1), [Wikidata](https://www.wikidata.org/wiki/Q1130242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22399-1) LSID 22399-1, [Wikidata](https://www.wikidata.org/wiki/Q1130242) QID Q1130242
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

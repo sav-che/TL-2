@@ -6,7 +6,7 @@ tl2_surname: O'Brien
 tl2_forenames: Charlotte Grace
 tl2_name_abbrev: C. O'brien
 tl2_dates: 1845-1909
-tl2_page_id: 33355889
+tl2_bhl_page_id: 33355889
 author_lsid: 7075-1
 wikidata_id: Q16856694
 ipni_surname: O'Brien
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7075-1), [Wikidata](https://www.wikidata.org/wiki/Q16856694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7075-1) LSID 7075-1, [Wikidata](https://www.wikidata.org/wiki/Q16856694) QID Q16856694
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

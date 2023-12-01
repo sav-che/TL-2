@@ -6,7 +6,7 @@ tl2_surname: Marsilly
 tl2_forenames: Louis Joseph Auguste de Commines de
 tl2_name_abbrev: Marsilly
 tl2_dates: 1811 -1890
-tl2_page_id: 33355398
+tl2_bhl_page_id: 33355398
 author_lsid: 6142-1
 wikidata_id: Q21519995
 ipni_surname: Marsilly
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6142-1), [Wikidata](https://www.wikidata.org/wiki/Q21519995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6142-1) LSID 6142-1, [Wikidata](https://www.wikidata.org/wiki/Q21519995) QID Q21519995
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

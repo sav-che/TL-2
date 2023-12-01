@@ -6,7 +6,7 @@ tl2_surname: Babey
 tl2_forenames: Claude Marie Philibert
 tl2_name_abbrev: Babey
 tl2_dates: 1786-1848
-tl2_page_id: 33120214
+tl2_bhl_page_id: 33120214
 author_lsid: 358-1
 wikidata_id: Q5409645
 ipni_surname: Babey
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33120214) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/358-1), [Wikidata](https://www.wikidata.org/wiki/Q5409645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/358-1) LSID 358-1, [Wikidata](https://www.wikidata.org/wiki/Q5409645) QID Q5409645
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Babey, Claude Marie Philibert {std. Babey} (Suppl.)|second entry]] for this author
 

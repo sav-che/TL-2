@@ -6,7 +6,7 @@ tl2_surname: Claparède
 tl2_forenames: Jean Louis René Antoine Édouard
 tl2_name_abbrev: Claparède
 tl2_dates: 1830-1871
-tl2_page_id: 33120636
+tl2_bhl_page_id: 33120636
 author_lsid: 1659-1
 wikidata_id: Q116148
 ipni_surname: Claparède
@@ -24,7 +24,8 @@ ipni_record_modified: 2018-08-20 15:11:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1659-1), [Wikidata](https://www.wikidata.org/wiki/Q116148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1659-1) LSID 1659-1, [Wikidata](https://www.wikidata.org/wiki/Q116148) QID Q116148
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

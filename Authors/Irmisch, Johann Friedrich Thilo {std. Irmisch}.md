@@ -6,7 +6,7 @@ tl2_surname: Irmisch
 tl2_forenames: Johann Friedrich Thilo
 tl2_name_abbrev: Irmisch
 tl2_dates: 1816-1879
-tl2_page_id: 33068628
+tl2_bhl_page_id: 33068628
 author_lsid: 4307-1
 wikidata_id: Q75001
 ipni_surname: Irmisch
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33068628) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4307-1), [Wikidata](https://www.wikidata.org/wiki/Q75001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4307-1) LSID 4307-1, [Wikidata](https://www.wikidata.org/wiki/Q75001) QID Q75001
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

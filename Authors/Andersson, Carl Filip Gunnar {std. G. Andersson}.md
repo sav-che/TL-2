@@ -6,7 +6,7 @@ tl2_surname: Andersson
 tl2_forenames: Carl Filip Gunnar
 tl2_name_abbrev: C. Andersson
 tl2_dates: 1865-1928
-tl2_page_id: 33120176
+tl2_bhl_page_id: 33120176
 author_lsid: 202-1
 wikidata_id: Q5554595
 ipni_surname: Andersson
@@ -24,7 +24,8 @@ ipni_record_modified: 2004-01-15 09:09:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33120176) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/202-1), [Wikidata](https://www.wikidata.org/wiki/Q5554595). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/202-1) LSID 202-1, [Wikidata](https://www.wikidata.org/wiki/Q5554595) QID Q5554595
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Andersson, (Carl Filip) Gunnar {std. G. Andersson} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Geheeb
 tl2_forenames: Adalbert
 tl2_name_abbrev: Geh.
 tl2_dates: 1842-1909
-tl2_page_id: 33121059
+tl2_bhl_page_id: 33121059
 author_lsid: 3064-1
 wikidata_id: Q69278
 ipni_surname: Geheeb
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/page/33121059) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3064-1), [Wikidata](https://www.wikidata.org/wiki/Q69278). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3064-1) LSID 3064-1, [Wikidata](https://www.wikidata.org/wiki/Q69278) QID Q69278
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Geheeb, Adalbert (Adelbert) {std. Geh.} (Suppl.)|second entry]] for this author
 

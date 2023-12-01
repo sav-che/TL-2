@@ -6,7 +6,7 @@ tl2_surname: Fron
 tl2_forenames: Georges
 tl2_name_abbrev: Fron
 tl2_dates: 1870-1957
-tl2_page_id: 33258540
+tl2_bhl_page_id: 33258540
 author_lsid: 19016-1
 wikidata_id: Q21513590
 ipni_surname: Fron
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33258540) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19016-1), [Wikidata](https://www.wikidata.org/wiki/Q21513590). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19016-1) LSID 19016-1, [Wikidata](https://www.wikidata.org/wiki/Q21513590) QID Q21513590
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

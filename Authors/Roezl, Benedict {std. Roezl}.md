@@ -6,7 +6,7 @@ tl2_surname: Roezl
 tl2_forenames: Benedict
 tl2_name_abbrev: Roezl
 tl2_dates: 1824-1885
-tl2_page_id: 33190325
+tl2_bhl_page_id: 33190325
 author_lsid: 8516-1
 wikidata_id: Q79112
 ipni_surname: Roezl
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:32:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33190325) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8516-1), [Wikidata](https://www.wikidata.org/wiki/Q79112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8516-1) LSID 8516-1, [Wikidata](https://www.wikidata.org/wiki/Q79112) QID Q79112
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

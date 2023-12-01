@@ -6,7 +6,7 @@ tl2_surname: Arber
 tl2_forenames: Edward Alexander Newell
 tl2_name_abbrev: E. Arber
 tl2_dates: 1870-1918
-tl2_page_id: 33264868
+tl2_bhl_page_id: 33264868
 author_lsid: 250-1
 wikidata_id: Q5341538
 ipni_surname: Arber
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33264868) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/250-1), [Wikidata](https://www.wikidata.org/wiki/Q5341538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/250-1) LSID 250-1, [Wikidata](https://www.wikidata.org/wiki/Q5341538) QID Q5341538
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arber, Edward Alexander Newell {std. E. Arber}|first entry]] for this author
 

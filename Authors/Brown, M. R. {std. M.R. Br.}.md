@@ -6,7 +6,7 @@ tl2_surname: Brown
 tl2_forenames: M. R.
 tl2_name_abbrev: M.R. Br.
 tl2_dates: fl. 1937
-tl2_page_id: 33266443
+tl2_bhl_page_id: 33266443
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

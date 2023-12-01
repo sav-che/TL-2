@@ -6,7 +6,7 @@ tl2_surname: Froelich
 tl2_forenames: Carl Fr.
 tl2_name_abbrev: C. Froel.
 tl2_dates: fl. 1850-1857
-tl2_page_id: 33258540
+tl2_bhl_page_id: 33258540
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33258540) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

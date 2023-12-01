@@ -6,7 +6,7 @@ tl2_surname: Monroe
 tl2_forenames: Charles Edwin
 tl2_name_abbrev: Monroe
 tl2_dates: 1857-1931
-tl2_page_id: 33355644
+tl2_bhl_page_id: 33355644
 author_lsid: 6598-1
 wikidata_id: Q21521659
 ipni_surname: Monroe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33355644) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6598-1), [Wikidata](https://www.wikidata.org/wiki/Q21521659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6598-1) LSID 6598-1, [Wikidata](https://www.wikidata.org/wiki/Q21521659) QID Q21521659
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

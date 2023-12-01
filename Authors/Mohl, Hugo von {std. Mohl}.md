@@ -6,7 +6,7 @@ tl2_surname: Mohl
 tl2_forenames: Hugo von
 tl2_name_abbrev: Mohl
 tl2_dates: 1805-1872
-tl2_page_id: 33355628
+tl2_bhl_page_id: 33355628
 author_lsid: 23524-1
 wikidata_id: Q61635
 ipni_surname: Mohl
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33355628) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23524-1), [Wikidata](https://www.wikidata.org/wiki/Q61635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23524-1) LSID 23524-1, [Wikidata](https://www.wikidata.org/wiki/Q61635) QID Q61635
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

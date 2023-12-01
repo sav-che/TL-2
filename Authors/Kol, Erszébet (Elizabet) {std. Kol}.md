@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0742
 tl2_volume: vol2
 tl2_page_printed: 608
 tl2_surname: Kol
-tl2_forenames: Erszébet [Elizabet]
+tl2_forenames: Erszébet (Elizabet)
 tl2_name_abbrev: Kol
 tl2_dates: 1897-x
-tl2_page_id: 33068850
+tl2_bhl_page_id: 33068850
 author_lsid: 4936-1
 wikidata_id: Q1115153
 ipni_surname: Kol
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4936-1), [Wikidata](https://www.wikidata.org/wiki/Q1115153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4936-1) LSID 4936-1, [Wikidata](https://www.wikidata.org/wiki/Q1115153) QID Q1115153
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

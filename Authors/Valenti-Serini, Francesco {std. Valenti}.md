@@ -6,7 +6,7 @@ tl2_surname: Valenti-Serini
 tl2_forenames: Francesco
 tl2_name_abbrev: Valenti
 tl2_dates: 1795-1872
-tl2_page_id: 33212690
+tl2_bhl_page_id: 33212690
 author_lsid: 11034-1
 wikidata_id: Q21611337
 ipni_surname: Valenti-Serini
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33212690) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11034-1), [Wikidata](https://www.wikidata.org/wiki/Q21611337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11034-1) LSID 11034-1, [Wikidata](https://www.wikidata.org/wiki/Q21611337) QID Q21611337
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

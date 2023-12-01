@@ -6,7 +6,7 @@ tl2_surname: Torrey
 tl2_forenames: Raymond Hezekiah
 tl2_name_abbrev: R.H. Torr.
 tl2_dates: 1880-1938
-tl2_page_id: 33212450
+tl2_bhl_page_id: 33212450
 author_lsid: 10756-1
 wikidata_id: Q7298827
 ipni_surname: Torrey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10756-1), [Wikidata](https://www.wikidata.org/wiki/Q7298827). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10756-1) LSID 10756-1, [Wikidata](https://www.wikidata.org/wiki/Q7298827) QID Q7298827
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

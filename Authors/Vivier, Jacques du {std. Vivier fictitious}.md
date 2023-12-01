@@ -6,7 +6,7 @@ tl2_surname: Vivier
 tl2_forenames: Jacques du
 tl2_name_abbrev: 
 tl2_dates: 1720-1793
-tl2_page_id: 33212805
+tl2_bhl_page_id: 33212805
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

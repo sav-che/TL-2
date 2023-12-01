@@ -6,7 +6,7 @@ tl2_surname: Weatherby
 tl2_forenames: Charles Alfred
 tl2_name_abbrev: Weath.
 tl2_dates: 1875-1949
-tl2_page_id: 33066454
+tl2_bhl_page_id: 33066454
 author_lsid: 11449-1
 wikidata_id: Q8344897
 ipni_surname: Weatherby
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:37:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33066454) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11449-1), [Wikidata](https://www.wikidata.org/wiki/Q8344897). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11449-1) LSID 11449-1, [Wikidata](https://www.wikidata.org/wiki/Q8344897) QID Q8344897
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Maximowicz
 tl2_forenames: Carl Johann (Ivanovic)
 tl2_name_abbrev: Maxim.
 tl2_dates: 1827-1891
-tl2_page_id: 33355469
+tl2_bhl_page_id: 33355469
 author_lsid: 23089-1
 wikidata_id: Q77640
 ipni_surname: Maximowicz
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:27:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33355469) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23089-1), [Wikidata](https://www.wikidata.org/wiki/Q77640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23089-1) LSID 23089-1, [Wikidata](https://www.wikidata.org/wiki/Q77640) QID Q77640
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

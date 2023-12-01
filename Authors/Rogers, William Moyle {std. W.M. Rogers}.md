@@ -6,7 +6,7 @@ tl2_surname: Rogers
 tl2_forenames: William Moyle
 tl2_name_abbrev: W.M. Rogers
 tl2_dates: 1835-1920
-tl2_page_id: 33190331
+tl2_bhl_page_id: 33190331
 author_lsid: 8529-1
 wikidata_id: Q21387727
 ipni_surname: Rogers
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8529-1), [Wikidata](https://www.wikidata.org/wiki/Q21387727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8529-1) LSID 8529-1, [Wikidata](https://www.wikidata.org/wiki/Q21387727) QID Q21387727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

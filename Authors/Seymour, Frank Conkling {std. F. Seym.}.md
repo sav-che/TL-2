@@ -6,7 +6,7 @@ tl2_surname: Seymour
 tl2_forenames: Frank Conkling
 tl2_name_abbrev: F. Seym.
 tl2_dates: 1895-x
-tl2_page_id: 33333684
+tl2_bhl_page_id: 33333684
 author_lsid: 9526-1
 wikidata_id: Q21394007
 ipni_surname: Seymour
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33333684) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9526-1), [Wikidata](https://www.wikidata.org/wiki/Q21394007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9526-1) LSID 9526-1, [Wikidata](https://www.wikidata.org/wiki/Q21394007) QID Q21394007
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Clifford
 tl2_forenames: George
 tl2_name_abbrev: Clifford
 tl2_dates: 1685-1760
-tl2_page_id: 33120642
+tl2_bhl_page_id: 33120642
 author_lsid: 1696-1
 wikidata_id: Q556591
 ipni_surname: Clifford
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1696-1), [Wikidata](https://www.wikidata.org/wiki/Q556591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1696-1) LSID 1696-1, [Wikidata](https://www.wikidata.org/wiki/Q556591) QID Q556591
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

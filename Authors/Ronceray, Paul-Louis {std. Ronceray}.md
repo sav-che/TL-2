@@ -6,7 +6,7 @@ tl2_surname: Ronceray
 tl2_forenames: Paul-Louis
 tl2_name_abbrev: Ronceray
 tl2_dates: 1875-1953 (?)
-tl2_page_id: 33190348
+tl2_bhl_page_id: 33190348
 author_lsid: 8570-1
 wikidata_id: Q21607386
 ipni_surname: Ronceray
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8570-1), [Wikidata](https://www.wikidata.org/wiki/Q21607386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8570-1) LSID 8570-1, [Wikidata](https://www.wikidata.org/wiki/Q21607386) QID Q21607386
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

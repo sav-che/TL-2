@@ -6,7 +6,7 @@ tl2_surname: Lorinser
 tl2_forenames: Friedrich Wilhelm
 tl2_name_abbrev: F. Lorinser
 tl2_dates: 1817-1895
-tl2_page_id: 33355249
+tl2_bhl_page_id: 33355249
 author_lsid: 5759-1
 wikidata_id: Q17541111
 ipni_surname: Lorinser
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33355249) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5759-1), [Wikidata](https://www.wikidata.org/wiki/Q17541111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5759-1) LSID 5759-1, [Wikidata](https://www.wikidata.org/wiki/Q17541111) QID Q17541111
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

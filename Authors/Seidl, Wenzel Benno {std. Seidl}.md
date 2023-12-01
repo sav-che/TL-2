@@ -6,7 +6,7 @@ tl2_surname: Seidl
 tl2_forenames: Wenzel Benno
 tl2_name_abbrev: Seidl
 tl2_dates: 1773-1842
-tl2_page_id: 33333632
+tl2_bhl_page_id: 33333632
 author_lsid: 9442-1
 wikidata_id: Q4184275
 ipni_surname: Seidl
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9442-1), [Wikidata](https://www.wikidata.org/wiki/Q4184275). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9442-1) LSID 9442-1, [Wikidata](https://www.wikidata.org/wiki/Q4184275) QID Q4184275
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Courtois
 tl2_forenames: Richard Joseph
 tl2_name_abbrev: Courtois
 tl2_dates: 1806-1835
-tl2_page_id: 33266102
+tl2_bhl_page_id: 33266102
 author_lsid: 1843-1
 wikidata_id: Q4248931
 ipni_surname: Courtois
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266102) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1843-1), [Wikidata](https://www.wikidata.org/wiki/Q4248931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1843-1) LSID 1843-1, [Wikidata](https://www.wikidata.org/wiki/Q4248931) QID Q4248931
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

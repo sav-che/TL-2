@@ -6,7 +6,7 @@ tl2_surname: Wiegand
 tl2_forenames: Karl McKay
 tl2_name_abbrev: Wiegand
 tl2_dates: 1873-1942
-tl2_page_id: 33066602
+tl2_bhl_page_id: 33066602
 author_lsid: 11645-1
 wikidata_id: Q5958294
 ipni_surname: Wiegand
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33066602) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11645-1), [Wikidata](https://www.wikidata.org/wiki/Q5958294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11645-1) LSID 11645-1, [Wikidata](https://www.wikidata.org/wiki/Q5958294) QID Q5958294
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

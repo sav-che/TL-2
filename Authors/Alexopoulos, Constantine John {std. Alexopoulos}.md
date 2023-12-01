@@ -6,7 +6,7 @@ tl2_surname: Alexopoulos
 tl2_forenames: Constantine John
 tl2_name_abbrev: Alexopoulos
 tl2_dates: 1907-1986
-tl2_page_id: 33264794
+tl2_bhl_page_id: 33264794
 author_lsid: 30768-1
 wikidata_id: Q21505062
 ipni_surname: Alexopoulos
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30768-1), [Wikidata](https://www.wikidata.org/wiki/Q21505062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30768-1) LSID 30768-1, [Wikidata](https://www.wikidata.org/wiki/Q21505062) QID Q21505062
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

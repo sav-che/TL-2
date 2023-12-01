@@ -6,7 +6,7 @@ tl2_surname: Frickhinger
 tl2_forenames: Ernst Christoph
 tl2_name_abbrev: E. Frickh.
 tl2_dates: 1876-1940
-tl2_page_id: 33258516
+tl2_bhl_page_id: 33258516
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33258516) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

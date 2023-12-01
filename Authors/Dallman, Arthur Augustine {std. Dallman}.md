@@ -6,7 +6,7 @@ tl2_surname: Dallman
 tl2_forenames: Arthur Augustine
 tl2_name_abbrev: Dallman
 tl2_dates: 1883-1963
-tl2_page_id: 33259078
+tl2_bhl_page_id: 33259078
 author_lsid: 14660-1
 wikidata_id: Q21509738
 ipni_surname: Dallman
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33259078) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/14660-1), [Wikidata](https://www.wikidata.org/wiki/Q21509738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14660-1) LSID 14660-1, [Wikidata](https://www.wikidata.org/wiki/Q21509738) QID Q21509738
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

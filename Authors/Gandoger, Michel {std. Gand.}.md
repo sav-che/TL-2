@@ -6,7 +6,7 @@ tl2_surname: Gandoger
 tl2_forenames: Michel
 tl2_name_abbrev: Gand.
 tl2_dates: 1850-1926
-tl2_page_id: 33121040
+tl2_bhl_page_id: 33121040
 author_lsid: 3009-1
 wikidata_id: Q2601687
 ipni_surname: Gandoger
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 909](https://www.biodiversitylibrary.org/page/33121040) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3009-1), [Wikidata](https://www.wikidata.org/wiki/Q2601687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3009-1) LSID 3009-1, [Wikidata](https://www.wikidata.org/wiki/Q2601687) QID Q2601687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gandoger, (Jean) Michel (Abbé) {std. Gand.} (Suppl.)|second entry]] for this author
 

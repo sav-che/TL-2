@@ -6,7 +6,7 @@ tl2_surname: Cousturier
 tl2_forenames: Paul
 tl2_name_abbrev: Coustur.
 tl2_dates: 1849-1921
-tl2_page_id: 33266102
+tl2_bhl_page_id: 33266102
 author_lsid: 1844-1
 wikidata_id: Q7149988
 ipni_surname: Cousturier
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266102) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1844-1), [Wikidata](https://www.wikidata.org/wiki/Q7149988). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1844-1) LSID 1844-1, [Wikidata](https://www.wikidata.org/wiki/Q7149988) QID Q7149988
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Campanile
 tl2_forenames: Giulia
 tl2_name_abbrev: Campanile
 tl2_dates: fl. 1922-1925
-tl2_page_id: 33266633
+tl2_bhl_page_id: 33266633
 author_lsid: 16839-1
 wikidata_id: Q23226966
 ipni_surname: Campanile
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33266633) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16839-1), [Wikidata](https://www.wikidata.org/wiki/Q23226966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16839-1) LSID 16839-1, [Wikidata](https://www.wikidata.org/wiki/Q23226966) QID Q23226966
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

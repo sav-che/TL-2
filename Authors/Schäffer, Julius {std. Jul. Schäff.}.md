@@ -6,7 +6,7 @@ tl2_surname: Schäffer
 tl2_forenames: Julius
 tl2_name_abbrev: Jul. Schäff.
 tl2_dates: 1882-1944
-tl2_page_id: 33333246
+tl2_bhl_page_id: 33333246
 author_lsid: 12819-1
 wikidata_id: Q91915
 ipni_surname: Schäffer
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33333246) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12819-1), [Wikidata](https://www.wikidata.org/wiki/Q91915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12819-1) LSID 12819-1, [Wikidata](https://www.wikidata.org/wiki/Q91915) QID Q91915
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

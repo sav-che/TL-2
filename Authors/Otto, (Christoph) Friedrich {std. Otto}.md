@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_1024
 tl2_volume: vol3
 tl2_page_printed: 858
 tl2_surname: Otto
-tl2_forenames: [Christoph] Friedrich
+tl2_forenames: (Christoph) Friedrich
 tl2_name_abbrev: Otto
 tl2_dates: 1783-1856
-tl2_page_id: 33355945
+tl2_bhl_page_id: 33355945
 author_lsid: 7204-1
 wikidata_id: Q77650
 ipni_surname: Otto
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33355945) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7204-1), [Wikidata](https://www.wikidata.org/wiki/Q77650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7204-1) LSID 7204-1, [Wikidata](https://www.wikidata.org/wiki/Q77650) QID Q77650
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

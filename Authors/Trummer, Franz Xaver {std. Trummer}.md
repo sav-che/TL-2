@@ -6,7 +6,7 @@ tl2_surname: Trummer
 tl2_forenames: Franz Xaver
 tl2_name_abbrev: Trummer
 tl2_dates: x-1858
-tl2_page_id: 33212555
+tl2_bhl_page_id: 33212555
 author_lsid: 35141-1
 wikidata_id: Q21610983
 ipni_surname: Trummer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/35141-1), [Wikidata](https://www.wikidata.org/wiki/Q21610983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35141-1) LSID 35141-1, [Wikidata](https://www.wikidata.org/wiki/Q21610983) QID Q21610983
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

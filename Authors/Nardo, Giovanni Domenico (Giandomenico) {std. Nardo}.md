@@ -6,7 +6,7 @@ tl2_surname: Nardo
 tl2_forenames: Giovanni Domenico (Giandomenico)
 tl2_name_abbrev: Nardo
 tl2_dates: 1802-1877
-tl2_page_id: 33355777
+tl2_bhl_page_id: 33355777
 author_lsid: 6857-1
 wikidata_id: Q55069062
 ipni_surname: Nardo
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6857-1), [Wikidata](https://www.wikidata.org/wiki/Q55069062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6857-1) LSID 6857-1, [Wikidata](https://www.wikidata.org/wiki/Q55069062) QID Q55069062
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

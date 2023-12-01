@@ -6,7 +6,7 @@ tl2_surname: Swederus
 tl2_forenames: Magnus Bernhard
 tl2_name_abbrev: Swederus
 tl2_dates: 1840-1911
-tl2_page_id: 33212163
+tl2_bhl_page_id: 33212163
 author_lsid: 10340-1
 wikidata_id: Q21610100
 ipni_surname: Swederus
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33212163) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10340-1), [Wikidata](https://www.wikidata.org/wiki/Q21610100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10340-1) LSID 10340-1, [Wikidata](https://www.wikidata.org/wiki/Q21610100) QID Q21610100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

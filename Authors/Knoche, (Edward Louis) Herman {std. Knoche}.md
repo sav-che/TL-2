@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0703
 tl2_volume: vol2
 tl2_page_printed: 579
 tl2_surname: Knoche
-tl2_forenames: [Edward Louis] Herman
+tl2_forenames: (Edward Louis) Herman
 tl2_name_abbrev: Knoche
 tl2_dates: 1870-1945
-tl2_page_id: 33068821
+tl2_bhl_page_id: 33068821
 author_lsid: 4877-1
 wikidata_id: Q5820005
 ipni_surname: Knoche
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33068821) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4877-1), [Wikidata](https://www.wikidata.org/wiki/Q5820005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4877-1) LSID 4877-1, [Wikidata](https://www.wikidata.org/wiki/Q5820005) QID Q5820005
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

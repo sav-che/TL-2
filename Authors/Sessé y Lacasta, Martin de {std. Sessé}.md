@@ -6,7 +6,7 @@ tl2_surname: Sessé y Lacasta
 tl2_forenames: Martin de
 tl2_name_abbrev: Sessé
 tl2_dates: 1751-1808
-tl2_page_id: 33333664
+tl2_bhl_page_id: 33333664
 author_lsid: 9514-1
 wikidata_id: Q2983613
 ipni_surname: Sessé y Lacasta
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9514-1), [Wikidata](https://www.wikidata.org/wiki/Q2983613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9514-1) LSID 9514-1, [Wikidata](https://www.wikidata.org/wiki/Q2983613) QID Q2983613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

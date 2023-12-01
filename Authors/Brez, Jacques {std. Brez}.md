@@ -6,7 +6,7 @@ tl2_surname: Brez
 tl2_forenames: Jacques
 tl2_name_abbrev: Brez
 tl2_dates: 1771-1798
-tl2_page_id: 33266378
+tl2_bhl_page_id: 33266378
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33266378) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

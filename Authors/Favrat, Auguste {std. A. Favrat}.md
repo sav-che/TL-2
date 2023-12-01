@@ -6,7 +6,7 @@ tl2_surname: Favrat
 tl2_forenames: Auguste
 tl2_name_abbrev: A. Favrat
 tl2_dates: 1862-1893
-tl2_page_id: 33259574
+tl2_bhl_page_id: 33259574
 author_lsid: 40078-1
 wikidata_id: Q5711565
 ipni_surname: Favrat
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33259574) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/40078-1), [Wikidata](https://www.wikidata.org/wiki/Q5711565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/40078-1) LSID 40078-1, [Wikidata](https://www.wikidata.org/wiki/Q5711565) QID Q5711565
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

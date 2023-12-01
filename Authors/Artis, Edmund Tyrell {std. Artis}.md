@@ -6,7 +6,7 @@ tl2_surname: Artis
 tl2_forenames: Edmund Tyrell
 tl2_name_abbrev: Artis
 tl2_dates: 1789-1847
-tl2_page_id: 33120202
+tl2_bhl_page_id: 33120202
 author_lsid: 295-1
 wikidata_id: Q19958863
 ipni_surname: Artis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/295-1), [Wikidata](https://www.wikidata.org/wiki/Q19958863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/295-1) LSID 295-1, [Wikidata](https://www.wikidata.org/wiki/Q19958863) QID Q19958863
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Artis, Edmund Tyrell {std. Artis} (Suppl.)|second entry]] for this author
 

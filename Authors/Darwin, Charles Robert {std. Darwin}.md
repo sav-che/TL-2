@@ -6,7 +6,7 @@ tl2_surname: Darwin
 tl2_forenames: Charles Robert
 tl2_name_abbrev: Darwin
 tl2_dates: 1809-1882
-tl2_page_id: 33120731
+tl2_bhl_page_id: 33120731
 author_lsid: 2001-1
 wikidata_id: Q1035
 ipni_surname: Darwin
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2001-1), [Wikidata](https://www.wikidata.org/wiki/Q1035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2001-1) LSID 2001-1, [Wikidata](https://www.wikidata.org/wiki/Q1035) QID Q1035
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Darwin, Charles Robert {std. Darwin} (Suppl.)|second entry]] for this author
 

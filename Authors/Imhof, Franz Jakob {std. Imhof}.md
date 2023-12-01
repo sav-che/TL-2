@@ -6,7 +6,7 @@ tl2_surname: Imhof
 tl2_forenames: Franz Jakob
 tl2_name_abbrev: Imhof
 tl2_dates: fl. 1784
-tl2_page_id: 33068626
+tl2_bhl_page_id: 33068626
 author_lsid: 4288-1
 wikidata_id: Q36554902
 ipni_surname: Imhof
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4288-1), [Wikidata](https://www.wikidata.org/wiki/Q36554902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4288-1) LSID 4288-1, [Wikidata](https://www.wikidata.org/wiki/Q36554902) QID Q36554902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

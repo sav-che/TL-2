@@ -6,7 +6,7 @@ tl2_surname: Loew
 tl2_forenames: Ernst
 tl2_name_abbrev: E. Loew
 tl2_dates: 1843-1908
-tl2_page_id: 33355232
+tl2_bhl_page_id: 33355232
 author_lsid: 5711-1
 wikidata_id: Q21519414
 ipni_surname: Loew
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33355232) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5711-1), [Wikidata](https://www.wikidata.org/wiki/Q21519414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5711-1) LSID 5711-1, [Wikidata](https://www.wikidata.org/wiki/Q21519414) QID Q21519414
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

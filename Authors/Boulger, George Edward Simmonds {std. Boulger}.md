@@ -6,7 +6,7 @@ tl2_surname: Boulger
 tl2_forenames: George Edward Simmonds
 tl2_name_abbrev: Boulger
 tl2_dates: 1853-1922
-tl2_page_id: 33120425
+tl2_bhl_page_id: 33120425
 author_lsid: 1023-1
 wikidata_id: Q5544565
 ipni_surname: Boulger
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33120425) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1023-1), [Wikidata](https://www.wikidata.org/wiki/Q5544565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1023-1) LSID 1023-1, [Wikidata](https://www.wikidata.org/wiki/Q5544565) QID Q5544565
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boulger, George (Edward) Simmonds {std. Boulger} (Suppl.)|second entry]] for this author
 

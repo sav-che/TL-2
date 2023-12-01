@@ -6,7 +6,7 @@ tl2_surname: Pantu
 tl2_forenames: Zacharia C. (Pantzu)
 tl2_name_abbrev: Pantu
 tl2_dates: 1866-1934
-tl2_page_id: 33189481
+tl2_bhl_page_id: 33189481
 author_lsid: 12721-1
 wikidata_id: Q730640
 ipni_surname: Panțu
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33189481) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12721-1), [Wikidata](https://www.wikidata.org/wiki/Q730640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12721-1) LSID 12721-1, [Wikidata](https://www.wikidata.org/wiki/Q730640) QID Q730640
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

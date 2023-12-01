@@ -6,7 +6,7 @@ tl2_surname: Suhr
 tl2_forenames: Johannes Nicolaus von
 tl2_name_abbrev: Suhr
 tl2_dates: 1792-1847
-tl2_page_id: 33212126
+tl2_bhl_page_id: 33212126
 author_lsid: 10281-1
 wikidata_id: Q21610016
 ipni_surname: Suhr
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33212126) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10281-1), [Wikidata](https://www.wikidata.org/wiki/Q21610016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10281-1) LSID 10281-1, [Wikidata](https://www.wikidata.org/wiki/Q21610016) QID Q21610016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

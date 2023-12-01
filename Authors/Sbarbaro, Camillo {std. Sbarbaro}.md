@@ -6,7 +6,7 @@ tl2_surname: Sbarbaro
 tl2_forenames: Camillo
 tl2_name_abbrev: Sbarbaro
 tl2_dates: 1888-1967
-tl2_page_id: 33333235
+tl2_bhl_page_id: 33333235
 author_lsid: 26206-1
 wikidata_id: Q585401
 ipni_surname: Sbarbaro
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33333235) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26206-1), [Wikidata](https://www.wikidata.org/wiki/Q585401). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26206-1) LSID 26206-1, [Wikidata](https://www.wikidata.org/wiki/Q585401) QID Q585401
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

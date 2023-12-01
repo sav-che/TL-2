@@ -6,7 +6,7 @@ tl2_surname: Schaffner
 tl2_forenames: John Henry
 tl2_name_abbrev: J.H. Schaffn.
 tl2_dates: 1866-1939
-tl2_page_id: 33333250
+tl2_bhl_page_id: 33333250
 author_lsid: 9009-1
 wikidata_id: Q16027658
 ipni_surname: Schaffner
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:31:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33333250) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9009-1), [Wikidata](https://www.wikidata.org/wiki/Q16027658). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9009-1) LSID 9009-1, [Wikidata](https://www.wikidata.org/wiki/Q16027658) QID Q16027658
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

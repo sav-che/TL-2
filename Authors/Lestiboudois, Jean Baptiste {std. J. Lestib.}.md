@@ -6,7 +6,7 @@ tl2_surname: Lestiboudois
 tl2_forenames: Jean Baptiste
 tl2_name_abbrev: J. Lestib.
 tl2_dates: 1715-1804
-tl2_page_id: 33069097
+tl2_bhl_page_id: 33069097
 author_lsid: 5513-1
 wikidata_id: Q3164233
 ipni_surname: Lestiboudois
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33069097) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5513-1), [Wikidata](https://www.wikidata.org/wiki/Q3164233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5513-1) LSID 5513-1, [Wikidata](https://www.wikidata.org/wiki/Q3164233) QID Q3164233
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

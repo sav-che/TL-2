@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Alfred
 tl2_name_abbrev: A. Fisch.
 tl2_dates: 1858-1913
-tl2_page_id: 33259705
+tl2_bhl_page_id: 33259705
 author_lsid: 18818-1
 wikidata_id: Q15301643
 ipni_surname: Fischer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33259705) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18818-1), [Wikidata](https://www.wikidata.org/wiki/Q15301643). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18818-1) LSID 18818-1, [Wikidata](https://www.wikidata.org/wiki/Q15301643) QID Q15301643
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

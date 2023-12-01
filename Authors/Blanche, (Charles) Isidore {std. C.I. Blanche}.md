@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0239
 tl2_volume: suppl2
 tl2_page_printed: 200
 tl2_surname: Blanche
-tl2_forenames: [Charles] Isidore
+tl2_forenames: (Charles) Isidore
 tl2_name_abbrev: C.I. Blanche
 tl2_dates: 1823-1887
-tl2_page_id: 33265397
+tl2_bhl_page_id: 33265397
 author_lsid: 13883-1
 wikidata_id: Q20013520
 ipni_surname: Blanche
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265397) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/13883-1), [Wikidata](https://www.wikidata.org/wiki/Q20013520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13883-1) LSID 13883-1, [Wikidata](https://www.wikidata.org/wiki/Q20013520) QID Q20013520
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0001
 tl2_volume: suppl4
 tl2_page_printed: 1
 tl2_surname: Cedercreutz
-tl2_forenames: Carl [Wilhelm]
+tl2_forenames: Carl (Wilhelm)
 tl2_name_abbrev: Cedercr.
 tl2_dates: 1893-1968
-tl2_page_id: 33265678
+tl2_bhl_page_id: 33265678
 author_lsid: 1473-1
 wikidata_id: Q21508077
 ipni_surname: Cedercreutz
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1473-1), [Wikidata](https://www.wikidata.org/wiki/Q21508077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1473-1) LSID 1473-1, [Wikidata](https://www.wikidata.org/wiki/Q21508077) QID Q21508077
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Himmelbaur
 tl2_forenames: Wolfgang
 tl2_name_abbrev: Himmelb.
 tl2_dates: 1886-1937
-tl2_page_id: 33068449
+tl2_bhl_page_id: 33068449
 author_lsid: 3957-1
 wikidata_id: Q21515834
 ipni_surname: Himmelbauer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3957-1), [Wikidata](https://www.wikidata.org/wiki/Q21515834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3957-1) LSID 3957-1, [Wikidata](https://www.wikidata.org/wiki/Q21515834) QID Q21515834
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

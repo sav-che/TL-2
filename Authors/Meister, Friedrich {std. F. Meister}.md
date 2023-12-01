@@ -6,7 +6,7 @@ tl2_surname: Meister
 tl2_forenames: Friedrich
 tl2_name_abbrev: F. Meister
 tl2_dates: fl. 1893-1919
-tl2_page_id: 33355494
+tl2_bhl_page_id: 33355494
 author_lsid: 33465-1
 wikidata_id: Q47122405
 ipni_surname: Meister
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33355494) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/33465-1), [Wikidata](https://www.wikidata.org/wiki/Q47122405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33465-1) LSID 33465-1, [Wikidata](https://www.wikidata.org/wiki/Q47122405) QID Q47122405
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

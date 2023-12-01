@@ -6,7 +6,7 @@ tl2_surname: Poivre
 tl2_forenames: Pierre
 tl2_name_abbrev: Poivre
 tl2_dates: 1719-1786
-tl2_page_id: 33189795
+tl2_bhl_page_id: 33189795
 author_lsid: 7799-1
 wikidata_id: Q562
 ipni_surname: Poivre
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33189795) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7799-1), [Wikidata](https://www.wikidata.org/wiki/Q562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7799-1) LSID 7799-1, [Wikidata](https://www.wikidata.org/wiki/Q562) QID Q562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

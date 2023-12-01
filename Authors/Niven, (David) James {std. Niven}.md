@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0900
 tl2_volume: vol3
 tl2_page_printed: 757
 tl2_surname: Niven
-tl2_forenames: [David] James
+tl2_forenames: (David) James
 tl2_name_abbrev: Niven
 tl2_dates: 1774-1826
-tl2_page_id: 33355844
+tl2_bhl_page_id: 33355844
 author_lsid: 7005-1
 wikidata_id: Q21516464
 ipni_surname: Niven
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:43:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33355844) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7005-1), [Wikidata](https://www.wikidata.org/wiki/Q21516464). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7005-1) LSID 7005-1, [Wikidata](https://www.wikidata.org/wiki/Q21516464) QID Q21516464
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

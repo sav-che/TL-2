@@ -6,7 +6,7 @@ tl2_surname: White
 tl2_forenames: Gilbert
 tl2_name_abbrev: G. White
 tl2_dates: 1720-1793
-tl2_page_id: 33066591
+tl2_bhl_page_id: 33066591
 author_lsid: 11619-1
 wikidata_id: Q772840
 ipni_surname: White
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33066591) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11619-1), [Wikidata](https://www.wikidata.org/wiki/Q772840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11619-1) LSID 11619-1, [Wikidata](https://www.wikidata.org/wiki/Q772840) QID Q772840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

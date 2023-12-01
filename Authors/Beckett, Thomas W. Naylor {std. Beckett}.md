@@ -6,7 +6,7 @@ tl2_surname: Beckett
 tl2_forenames: Thomas W. Naylor
 tl2_name_abbrev: Beckett
 tl2_dates: 1839-1906
-tl2_page_id: 33265232
+tl2_bhl_page_id: 33265232
 author_lsid: 15861-1
 wikidata_id: Q15994293
 ipni_surname: Beckett
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:37:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265232) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/15861-1), [Wikidata](https://www.wikidata.org/wiki/Q15994293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15861-1) LSID 15861-1, [Wikidata](https://www.wikidata.org/wiki/Q15994293) QID Q15994293
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

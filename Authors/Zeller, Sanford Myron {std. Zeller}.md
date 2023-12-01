@@ -6,7 +6,7 @@ tl2_surname: Zeller
 tl2_forenames: Sanford Myron
 tl2_name_abbrev: Zeller
 tl2_dates: 1884-1948
-tl2_page_id: 33066866
+tl2_bhl_page_id: 33066866
 author_lsid: 29103-1
 wikidata_id: Q4190510
 ipni_surname: Zeller
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33066866) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/29103-1), [Wikidata](https://www.wikidata.org/wiki/Q4190510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29103-1) LSID 29103-1, [Wikidata](https://www.wikidata.org/wiki/Q4190510) QID Q4190510
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

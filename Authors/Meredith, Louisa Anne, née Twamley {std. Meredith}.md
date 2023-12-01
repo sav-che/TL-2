@@ -6,7 +6,7 @@ tl2_surname: Meredith
 tl2_forenames: Louisa Anne, née Twamley
 tl2_name_abbrev: Meredith
 tl2_dates: 1812-1895
-tl2_page_id: 33355509
+tl2_bhl_page_id: 33355509
 author_lsid: 12681-1
 wikidata_id: Q531358
 ipni_surname: Meredith
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33355509) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12681-1), [Wikidata](https://www.wikidata.org/wiki/Q531358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12681-1) LSID 12681-1, [Wikidata](https://www.wikidata.org/wiki/Q531358) QID Q531358
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

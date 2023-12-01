@@ -6,7 +6,7 @@ tl2_surname: Gaertner
 tl2_forenames: Philipp Gottfried
 tl2_name_abbrev: P. Gaertn.
 tl2_dates: 1754-1825
-tl2_page_id: 33121034
+tl2_bhl_page_id: 33121034
 author_lsid: 2975-1
 wikidata_id: Q2078664
 ipni_surname: Gaertner
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33121034) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2975-1), [Wikidata](https://www.wikidata.org/wiki/Q2078664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2975-1) LSID 2975-1, [Wikidata](https://www.wikidata.org/wiki/Q2078664) QID Q2078664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0777
 tl2_volume: vol6
 tl2_page_printed: 803
 tl2_surname: Vukotinovic
-tl2_forenames: Ludwig [Ljudevit] von Farkaš
+tl2_forenames: Ludwig (Ljudevit) von Farkaš
 tl2_name_abbrev: Vuk.
 tl2_dates: 1813-1893
-tl2_page_id: 33212845
+tl2_bhl_page_id: 33212845
 author_lsid: 12981-1
 wikidata_id: Q3437113
 ipni_surname: Vukotinović
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33212845) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12981-1), [Wikidata](https://www.wikidata.org/wiki/Q3437113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12981-1) LSID 12981-1, [Wikidata](https://www.wikidata.org/wiki/Q3437113) QID Q3437113
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Farkaš-Vukotinović, Ludwig {std. Vuk.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Rehder
 tl2_forenames: Alfred
 tl2_name_abbrev: Rehd.
 tl2_dates: 1863-1949
-tl2_page_id: 33190121
+tl2_bhl_page_id: 33190121
 author_lsid: 8242-1
 wikidata_id: Q68949
 ipni_surname: Rehder
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8242-1), [Wikidata](https://www.wikidata.org/wiki/Q68949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8242-1) LSID 8242-1, [Wikidata](https://www.wikidata.org/wiki/Q68949) QID Q68949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

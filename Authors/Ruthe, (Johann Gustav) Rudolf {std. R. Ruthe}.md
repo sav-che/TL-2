@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_1039
 tl2_volume: vol4
 tl2_page_printed: 1009
 tl2_surname: Ruthe
-tl2_forenames: [Johann Gustav] Rudolf
+tl2_forenames: (Johann Gustav) Rudolf
 tl2_name_abbrev: R. Ruthe
 tl2_dates: 1823-1905
-tl2_page_id: 33190480
+tl2_bhl_page_id: 33190480
 author_lsid: 12805-1
 wikidata_id: Q21607566
 ipni_surname: Ruthe
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12805-1), [Wikidata](https://www.wikidata.org/wiki/Q21607566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12805-1) LSID 12805-1, [Wikidata](https://www.wikidata.org/wiki/Q21607566) QID Q21607566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Palmberg
 tl2_forenames: Johannes Olai
 tl2_name_abbrev: Palmberg
 tl2_dates: 1640-1691
-tl2_page_id: 33189460
+tl2_bhl_page_id: 33189460
 author_lsid: 7279-1
 wikidata_id: Q6033388
 ipni_surname: Palmberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33189460) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7279-1), [Wikidata](https://www.wikidata.org/wiki/Q6033388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7279-1) LSID 7279-1, [Wikidata](https://www.wikidata.org/wiki/Q6033388) QID Q6033388
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

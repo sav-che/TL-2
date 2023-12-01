@@ -6,7 +6,7 @@ tl2_surname: Oskamp
 tl2_forenames: Dirk Leonard
 tl2_name_abbrev: Oskamp
 tl2_dates: 1768-?
-tl2_page_id: 33355940
+tl2_bhl_page_id: 33355940
 author_lsid: 7183-1
 wikidata_id: Q21522455
 ipni_surname: Oskamp
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7183-1), [Wikidata](https://www.wikidata.org/wiki/Q21522455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7183-1) LSID 7183-1, [Wikidata](https://www.wikidata.org/wiki/Q21522455) QID Q21522455
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

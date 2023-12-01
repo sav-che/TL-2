@@ -6,7 +6,7 @@ tl2_surname: Jacquemont
 tl2_forenames: Victor
 tl2_name_abbrev: Jacquem.
 tl2_dates: 1801-1832
-tl2_page_id: 33068645
+tl2_bhl_page_id: 33068645
 author_lsid: 4383-1
 wikidata_id: Q63739
 ipni_surname: Jacquemont
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33068645) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4383-1), [Wikidata](https://www.wikidata.org/wiki/Q63739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4383-1) LSID 4383-1, [Wikidata](https://www.wikidata.org/wiki/Q63739) QID Q63739
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

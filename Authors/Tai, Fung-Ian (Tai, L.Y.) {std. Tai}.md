@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0173
 tl2_volume: vol6
 tl2_page_printed: 152
 tl2_surname: Tai
-tl2_forenames: Fung-Ian [L.Y.]
+tl2_forenames: Fung-Ian (L.Y.)
 tl2_name_abbrev: Tai
 tl2_dates: 1893-x
-tl2_page_id: 33212194
+tl2_bhl_page_id: 33212194
 author_lsid: 10388-1
 wikidata_id: Q11075379
 ipni_surname: Tai
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33212194) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10388-1), [Wikidata](https://www.wikidata.org/wiki/Q11075379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10388-1) LSID 10388-1, [Wikidata](https://www.wikidata.org/wiki/Q11075379) QID Q11075379
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

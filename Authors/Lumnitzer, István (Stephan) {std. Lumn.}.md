@@ -6,7 +6,7 @@ tl2_surname: Lumnitzer
 tl2_forenames: István (Stephan)
 tl2_name_abbrev: Lumn.
 tl2_dates: 1747-1806
-tl2_page_id: 33355279
+tl2_bhl_page_id: 33355279
 author_lsid: 5832-1
 wikidata_id: Q18986780
 ipni_surname: Lumnitzer
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5832-1), [Wikidata](https://www.wikidata.org/wiki/Q18986780). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5832-1) LSID 5832-1, [Wikidata](https://www.wikidata.org/wiki/Q18986780) QID Q18986780
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

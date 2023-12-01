@@ -6,7 +6,7 @@ tl2_surname: Lesacher
 tl2_forenames: Eugène
 tl2_name_abbrev: Lesacher
 tl2_dates: 1824-?
-tl2_page_id: 33069089
+tl2_bhl_page_id: 33069089
 author_lsid: 5500-1
 wikidata_id: Q21518704
 ipni_surname: Lesacher
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33069089) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5500-1), [Wikidata](https://www.wikidata.org/wiki/Q21518704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5500-1) LSID 5500-1, [Wikidata](https://www.wikidata.org/wiki/Q21518704) QID Q21518704
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

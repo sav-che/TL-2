@@ -6,7 +6,7 @@ tl2_surname: Laestadius
 tl2_forenames: Lars Levi
 tl2_name_abbrev: Laest.
 tl2_dates: 1800-1861
-tl2_page_id: 33068961
+tl2_bhl_page_id: 33068961
 author_lsid: 5200-1
 wikidata_id: Q434939
 ipni_surname: Laestadius
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:47:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5200-1), [Wikidata](https://www.wikidata.org/wiki/Q434939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5200-1) LSID 5200-1, [Wikidata](https://www.wikidata.org/wiki/Q434939) QID Q434939
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

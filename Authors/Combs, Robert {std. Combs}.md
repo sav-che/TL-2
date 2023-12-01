@@ -6,7 +6,7 @@ tl2_surname: Combs
 tl2_forenames: Robert
 tl2_name_abbrev: Combs
 tl2_dates: 1872-1899
-tl2_page_id: 33265960
+tl2_bhl_page_id: 33265960
 author_lsid: 1751-1
 wikidata_id: Q21508902
 ipni_surname: Combs
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33265960) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1751-1), [Wikidata](https://www.wikidata.org/wiki/Q21508902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1751-1) LSID 1751-1, [Wikidata](https://www.wikidata.org/wiki/Q21508902) QID Q21508902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

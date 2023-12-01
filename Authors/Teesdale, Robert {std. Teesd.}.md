@@ -6,7 +6,7 @@ tl2_surname: Teesdale
 tl2_forenames: Robert
 tl2_name_abbrev: Teesd.
 tl2_dates: ca. 1740-1804
-tl2_page_id: 33212241
+tl2_bhl_page_id: 33212241
 author_lsid: 10482-1
 wikidata_id: Q788481
 ipni_surname: Teesdale
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33212241) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10482-1), [Wikidata](https://www.wikidata.org/wiki/Q788481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10482-1) LSID 10482-1, [Wikidata](https://www.wikidata.org/wiki/Q788481) QID Q788481
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

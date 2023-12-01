@@ -6,7 +6,7 @@ tl2_surname: Hooper
 tl2_forenames: John
 tl2_name_abbrev: Hooper
 tl2_dates: 1802-1869
-tl2_page_id: 33068543
+tl2_bhl_page_id: 33068543
 author_lsid: 4088-1
 wikidata_id: Q21516012
 ipni_surname: Hooper
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33068543) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4088-1), [Wikidata](https://www.wikidata.org/wiki/Q21516012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4088-1) LSID 4088-1, [Wikidata](https://www.wikidata.org/wiki/Q21516012) QID Q21516012
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

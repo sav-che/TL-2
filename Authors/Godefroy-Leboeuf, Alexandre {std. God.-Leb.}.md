@@ -6,7 +6,7 @@ tl2_surname: Godefroy-Leboeuf
 tl2_forenames: Alexandre
 tl2_name_abbrev: Godefroy-Leb.
 tl2_dates: 1852-1903
-tl2_page_id: 33121090
+tl2_bhl_page_id: 33121090
 author_lsid: 3213-1
 wikidata_id: Q2833709
 ipni_surname: Godefroy-Lebeuf
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/page/33121090) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3213-1), [Wikidata](https://www.wikidata.org/wiki/Q2833709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3213-1) LSID 3213-1, [Wikidata](https://www.wikidata.org/wiki/Q2833709) QID Q2833709
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Godefroy-Lebeuf, Alexandre (né Godefroy) {std. God.-Leb.} (Suppl.)|second entry]] for this author
 

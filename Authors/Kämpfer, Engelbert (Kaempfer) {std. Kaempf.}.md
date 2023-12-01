@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0568
 tl2_volume: vol2
 tl2_page_printed: 484
 tl2_surname: Kämpfer
-tl2_forenames: Engelbert [Kaempfer]
+tl2_forenames: Engelbert (Kaempfer)
 tl2_name_abbrev: Kaempf.
 tl2_dates: 1651-1716
-tl2_page_id: 33068726
+tl2_bhl_page_id: 33068726
 author_lsid: 4611-1
 wikidata_id: Q58042
 ipni_surname: Kaempfer
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33068726) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4611-1), [Wikidata](https://www.wikidata.org/wiki/Q58042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4611-1) LSID 4611-1, [Wikidata](https://www.wikidata.org/wiki/Q58042) QID Q58042
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

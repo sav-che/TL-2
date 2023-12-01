@@ -6,7 +6,7 @@ tl2_surname: Mosén
 tl2_forenames: Carl Wilhelm Hjalmar
 tl2_name_abbrev: Mosén
 tl2_dates: 1841-1887
-tl2_page_id: 33355687
+tl2_bhl_page_id: 33355687
 author_lsid: 23667-1
 wikidata_id: Q5994869
 ipni_surname: Mosén
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33355687) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23667-1), [Wikidata](https://www.wikidata.org/wiki/Q5994869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23667-1) LSID 23667-1, [Wikidata](https://www.wikidata.org/wiki/Q5994869) QID Q5994869
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

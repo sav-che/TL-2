@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0533
 tl2_volume: vol2
 tl2_page_printed: 464
 tl2_surname: Jourdan
-tl2_forenames: [Claude] Pascal
+tl2_forenames: (Claude) Pascal
 tl2_name_abbrev: Jourd.
 tl2_dates: 1835-1881
-tl2_page_id: 33068706
+tl2_bhl_page_id: 33068706
 author_lsid: 4562-1
 wikidata_id: Q21517158
 ipni_surname: Jourdan
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4562-1), [Wikidata](https://www.wikidata.org/wiki/Q21517158). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4562-1) LSID 4562-1, [Wikidata](https://www.wikidata.org/wiki/Q21517158) QID Q21517158
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

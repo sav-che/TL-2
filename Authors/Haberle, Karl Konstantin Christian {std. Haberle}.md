@@ -6,7 +6,7 @@ tl2_surname: Haberle
 tl2_forenames: Karl Konstantin Christian
 tl2_name_abbrev: Haberle
 tl2_dates: 1764-1832
-tl2_page_id: 33068243
+tl2_bhl_page_id: 33068243
 author_lsid: 3520-1
 wikidata_id: Q106858
 ipni_surname: Haberle
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33068243) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3520-1), [Wikidata](https://www.wikidata.org/wiki/Q106858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3520-1) LSID 3520-1, [Wikidata](https://www.wikidata.org/wiki/Q106858) QID Q106858
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lely
 tl2_forenames: Hugh Vandervaes
 tl2_name_abbrev: Lely
 tl2_dates: 1891-x
-tl2_page_id: 33069075
+tl2_bhl_page_id: 33069075
 author_lsid: 5456-1
 wikidata_id: Q21518617
 ipni_surname: Lely
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33069075) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5456-1), [Wikidata](https://www.wikidata.org/wiki/Q21518617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5456-1) LSID 5456-1, [Wikidata](https://www.wikidata.org/wiki/Q21518617) QID Q21518617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

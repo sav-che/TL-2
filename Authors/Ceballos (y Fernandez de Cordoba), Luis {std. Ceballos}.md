@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl4_0000
 tl2_volume: suppl4
 tl2_page_printed: 1
-tl2_surname: Ceballos [y Fernandez de Cordoba]
+tl2_surname: Ceballos (y Fernandez de Cordoba)
 tl2_forenames: Luis
 tl2_name_abbrev: Ceballos
 tl2_dates: 1896-1967
-tl2_page_id: 33265678
+tl2_bhl_page_id: 33265678
 author_lsid: 12491-1
 wikidata_id: Q3848840
 ipni_surname: Ceballos
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/12491-1), [Wikidata](https://www.wikidata.org/wiki/Q3848840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12491-1) LSID 12491-1, [Wikidata](https://www.wikidata.org/wiki/Q3848840) QID Q3848840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

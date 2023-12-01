@@ -6,7 +6,7 @@ tl2_surname: Brockmann
 tl2_forenames: Christoph
 tl2_name_abbrev: C. Brockmann
 tl2_dates: 1878-1962
-tl2_page_id: 33266416
+tl2_bhl_page_id: 33266416
 author_lsid: 32548-1
 wikidata_id: Q1084623
 ipni_surname: Brockmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/32548-1), [Wikidata](https://www.wikidata.org/wiki/Q1084623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32548-1) LSID 32548-1, [Wikidata](https://www.wikidata.org/wiki/Q1084623) QID Q1084623
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0429
 tl2_volume: vol5
 tl2_page_printed: 453
 tl2_surname: Scopoli
-tl2_forenames: Joannes Antonius [Giovanni Antonio]
+tl2_forenames: Joannes Antonius (Giovanni Antonio)
 tl2_name_abbrev: Scop.
 tl2_dates: 1723-1788
-tl2_page_id: 33333592
+tl2_bhl_page_id: 33333592
 author_lsid: 9384-1
 wikidata_id: Q84181
 ipni_surname: Scopoli
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:46:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33333592) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9384-1), [Wikidata](https://www.wikidata.org/wiki/Q84181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9384-1) LSID 9384-1, [Wikidata](https://www.wikidata.org/wiki/Q84181) QID Q84181
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

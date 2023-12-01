@@ -6,7 +6,7 @@ tl2_surname: Buffon
 tl2_forenames: Georges Louis Leclercq de
 tl2_name_abbrev: Buffon
 tl2_dates: 1707-1788
-tl2_page_id: 33120531
+tl2_bhl_page_id: 33120531
 author_lsid: 1270-1
 wikidata_id: Q229264
 ipni_surname: Buffon
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33120531) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1270-1), [Wikidata](https://www.wikidata.org/wiki/Q229264). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1270-1) LSID 1270-1, [Wikidata](https://www.wikidata.org/wiki/Q229264) QID Q229264
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

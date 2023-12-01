@@ -6,7 +6,7 @@ tl2_surname: Fuss
 tl2_forenames: Johann Mihály (Michael)
 tl2_name_abbrev: Fuss
 tl2_dates: 1814-1883
-tl2_page_id: 33121031
+tl2_bhl_page_id: 33121031
 author_lsid: 2964-1
 wikidata_id: Q1176670
 ipni_surname: Fuss
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/page/33121031) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2964-1), [Wikidata](https://www.wikidata.org/wiki/Q1176670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2964-1) LSID 2964-1, [Wikidata](https://www.wikidata.org/wiki/Q1176670) QID Q1176670
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

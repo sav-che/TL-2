@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0033
 tl2_volume: vol5
 tl2_page_printed: 33
 tl2_surname: Sandstede
-tl2_forenames: [Johann] Heinrich
+tl2_forenames: (Johann) Heinrich
 tl2_name_abbrev: Sandst.
 tl2_dates: 1859-1951
-tl2_page_id: 33333134
+tl2_bhl_page_id: 33333134
 author_lsid: 12810-1
 wikidata_id: Q15814842
 ipni_surname: Sandstede
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12810-1), [Wikidata](https://www.wikidata.org/wiki/Q15814842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12810-1) LSID 12810-1, [Wikidata](https://www.wikidata.org/wiki/Q15814842) QID Q15814842
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

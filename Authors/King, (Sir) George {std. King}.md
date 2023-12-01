@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0650
 tl2_volume: vol2
 tl2_page_printed: 545
 tl2_surname: King
-tl2_forenames: [Sir] George
+tl2_forenames: (Sir) George
 tl2_name_abbrev: King
 tl2_dates: 1840-1909
-tl2_page_id: 33068787
+tl2_bhl_page_id: 33068787
 author_lsid: 4798-1
 wikidata_id: Q2566984
 ipni_surname: King
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:40:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33068787) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4798-1), [Wikidata](https://www.wikidata.org/wiki/Q2566984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4798-1) LSID 4798-1, [Wikidata](https://www.wikidata.org/wiki/Q2566984) QID Q2566984
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

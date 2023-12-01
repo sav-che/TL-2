@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0660
 tl2_volume: vol4
 tl2_page_printed: 637
 tl2_surname: Regel
-tl2_forenames: [Johann] Albert von
+tl2_forenames: (Johann) Albert von
 tl2_name_abbrev: A. Regel
 tl2_dates: 1845-1908
-tl2_page_id: 33190108
+tl2_bhl_page_id: 33190108
 author_lsid: 8235-1
 wikidata_id: Q354083
 ipni_surname: Regel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33190108) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8235-1), [Wikidata](https://www.wikidata.org/wiki/Q354083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8235-1) LSID 8235-1, [Wikidata](https://www.wikidata.org/wiki/Q354083) QID Q354083
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

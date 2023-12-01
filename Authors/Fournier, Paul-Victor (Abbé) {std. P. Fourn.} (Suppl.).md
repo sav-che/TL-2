@@ -6,7 +6,7 @@ tl2_surname: Fournier
 tl2_forenames: Paul-Victor (Abbé)
 tl2_name_abbrev: P. Fourn.
 tl2_dates: 1877-1964
-tl2_page_id: 33259865
+tl2_bhl_page_id: 33259865
 author_lsid: 2858-1
 wikidata_id: Q3372376
 ipni_surname: Fournier
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259865) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2858-1), [Wikidata](https://www.wikidata.org/wiki/Q3372376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2858-1) LSID 2858-1, [Wikidata](https://www.wikidata.org/wiki/Q3372376) QID Q3372376
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fournier, Paul Victor {std. P. Fourn.}|first entry]] for this author
 

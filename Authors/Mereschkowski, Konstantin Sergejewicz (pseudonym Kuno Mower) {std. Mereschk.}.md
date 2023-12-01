@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0503
 tl2_volume: vol3
 tl2_page_printed: 423
 tl2_surname: Mereschkowski
-tl2_forenames: Konstantin Sergejewicz [pseudonym Kuno Mower]
+tl2_forenames: Konstantin Sergejewicz (pseudonym Kuno Mower)
 tl2_name_abbrev: Mereschk.
 tl2_dates: 1854 (1855?)-1921
-tl2_page_id: 33355510
+tl2_bhl_page_id: 33355510
 author_lsid: 23283-1
 wikidata_id: Q784856
 ipni_surname: Mereschkowski
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33355510) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23283-1), [Wikidata](https://www.wikidata.org/wiki/Q784856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23283-1) LSID 23283-1, [Wikidata](https://www.wikidata.org/wiki/Q784856) QID Q784856
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

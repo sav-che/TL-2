@@ -6,7 +6,7 @@ tl2_surname: Royen
 tl2_forenames: Adriaan van
 tl2_name_abbrev: Royen
 tl2_dates: 1704-1779
-tl2_page_id: 33190429
+tl2_bhl_page_id: 33190429
 author_lsid: 8684-1
 wikidata_id: Q367689
 ipni_surname: Royen
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33190429) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8684-1), [Wikidata](https://www.wikidata.org/wiki/Q367689). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8684-1) LSID 8684-1, [Wikidata](https://www.wikidata.org/wiki/Q367689) QID Q367689
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

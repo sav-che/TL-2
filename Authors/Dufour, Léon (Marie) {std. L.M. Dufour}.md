@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0881
 tl2_volume: vol1
 tl2_page_printed: 690
 tl2_surname: Dufour
-tl2_forenames: Léon [Marie]
+tl2_forenames: Léon (Marie)
 tl2_name_abbrev: Dufour
 tl2_dates: 1861-1942
-tl2_page_id: 33120821
+tl2_bhl_page_id: 33120821
 author_lsid: 18251-1
 wikidata_id: Q2884274
 ipni_surname: Dufour
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18251-1), [Wikidata](https://www.wikidata.org/wiki/Q2884274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18251-1) LSID 18251-1, [Wikidata](https://www.wikidata.org/wiki/Q2884274) QID Q2884274
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dufour, Léon Marie {std. L.M. Dufour} (Suppl.)|second entry]] for this author
 

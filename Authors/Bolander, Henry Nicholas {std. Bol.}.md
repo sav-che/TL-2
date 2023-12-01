@@ -6,7 +6,7 @@ tl2_surname: Bolander
 tl2_forenames: Henry Nicholas
 tl2_name_abbrev: Boland.
 tl2_dates: 1832-1897
-tl2_page_id: 33120393
+tl2_bhl_page_id: 33120393
 author_lsid: 925-1
 wikidata_id: Q70471
 ipni_surname: Bolander
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33120393) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/925-1), [Wikidata](https://www.wikidata.org/wiki/Q70471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/925-1) LSID 925-1, [Wikidata](https://www.wikidata.org/wiki/Q70471) QID Q70471
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bolander, Henry Nicholas {std. Bol.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Piper
 tl2_forenames: Richard Upton
 tl2_name_abbrev: R. Piper
 tl2_dates: 1818-1897
-tl2_page_id: 33189743
+tl2_bhl_page_id: 33189743
 author_lsid: 7721-1
 wikidata_id: Q6108718
 ipni_surname: Piper
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7721-1), [Wikidata](https://www.wikidata.org/wiki/Q6108718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7721-1) LSID 7721-1, [Wikidata](https://www.wikidata.org/wiki/Q6108718) QID Q6108718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

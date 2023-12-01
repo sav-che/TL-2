@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0138
 tl2_volume: suppl8
 tl2_page_printed: 180
 tl2_surname: Genty
-tl2_forenames: Paul [-André]
+tl2_forenames: Paul (-André)
 tl2_name_abbrev: P.A. Genty
 tl2_dates: 1861-1955
-tl2_page_id: 33258658
+tl2_bhl_page_id: 33258658
 author_lsid: 3088-1
 wikidata_id: Q21513895
 ipni_surname: Genty
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33258658) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3088-1), [Wikidata](https://www.wikidata.org/wiki/Q21513895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3088-1) LSID 3088-1, [Wikidata](https://www.wikidata.org/wiki/Q21513895) QID Q21513895
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0582
 tl2_volume: vol5
 tl2_page_printed: 595
 tl2_surname: Siemaszko
-tl2_forenames: Wincenty [Vincent]
+tl2_forenames: Wincenty (Vincent)
 tl2_name_abbrev: Siemaszko
 tl2_dates: 1887-x
-tl2_page_id: 33333734
+tl2_bhl_page_id: 33333734
 author_lsid: 9624-1
 wikidata_id: Q21608866
 ipni_surname: Siemaszko
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9624-1), [Wikidata](https://www.wikidata.org/wiki/Q21608866). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9624-1) LSID 9624-1, [Wikidata](https://www.wikidata.org/wiki/Q21608866) QID Q21608866
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Shull
 tl2_forenames: Charles Albert
 tl2_name_abbrev: C. Shull
 tl2_dates: 1879-1962
-tl2_page_id: 33333712
+tl2_bhl_page_id: 33333712
 author_lsid: 9597-1
 wikidata_id: Q21608840
 ipni_surname: Shull
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33333712) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9597-1), [Wikidata](https://www.wikidata.org/wiki/Q21608840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9597-1) LSID 9597-1, [Wikidata](https://www.wikidata.org/wiki/Q21608840) QID Q21608840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

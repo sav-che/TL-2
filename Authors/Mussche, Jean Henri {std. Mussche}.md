@@ -6,7 +6,7 @@ tl2_surname: Mussche
 tl2_forenames: Jean Henri
 tl2_name_abbrev: Mussche
 tl2_dates: 1765-1834
-tl2_page_id: 33355761
+tl2_bhl_page_id: 33355761
 author_lsid: 6815-1
 wikidata_id: Q21521926
 ipni_surname: Mussche
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33355761) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6815-1), [Wikidata](https://www.wikidata.org/wiki/Q21521926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6815-1) LSID 6815-1, [Wikidata](https://www.wikidata.org/wiki/Q21521926) QID Q21521926
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

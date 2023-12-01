@@ -6,7 +6,7 @@ tl2_surname: Druce
 tl2_forenames: George Claridge
 tl2_name_abbrev: Druce
 tl2_dates: 1850-1932
-tl2_page_id: 33260091
+tl2_bhl_page_id: 33260091
 author_lsid: 2321-1
 wikidata_id: Q601969
 ipni_surname: Druce
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33260091) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2321-1), [Wikidata](https://www.wikidata.org/wiki/Q601969). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2321-1) LSID 2321-1, [Wikidata](https://www.wikidata.org/wiki/Q601969) QID Q601969
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Druce, George Claridge {std. Druce}|first entry]] for this author
 

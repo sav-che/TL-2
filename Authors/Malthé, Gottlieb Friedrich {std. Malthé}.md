@@ -6,7 +6,7 @@ tl2_surname: Malthé
 tl2_forenames: Gottlieb Friedrich
 tl2_name_abbrev: Malthé
 tl2_dates: fl. 1787
-tl2_page_id: 33355357
+tl2_bhl_page_id: 33355357
 author_lsid: 6042-1
 wikidata_id: Q36565098
 ipni_surname: Malthé
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6042-1), [Wikidata](https://www.wikidata.org/wiki/Q36565098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6042-1) LSID 6042-1, [Wikidata](https://www.wikidata.org/wiki/Q36565098) QID Q36565098
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

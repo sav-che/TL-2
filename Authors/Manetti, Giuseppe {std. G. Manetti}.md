@@ -6,7 +6,7 @@ tl2_surname: Manetti
 tl2_forenames: Giuseppe
 tl2_name_abbrev: G. Manetti
 tl2_dates: fl. 1831-1858
-tl2_page_id: 33355360
+tl2_bhl_page_id: 33355360
 author_lsid: 6057-1
 wikidata_id: Q3770876
 ipni_surname: Manetti
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33355360) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6057-1), [Wikidata](https://www.wikidata.org/wiki/Q3770876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6057-1) LSID 6057-1, [Wikidata](https://www.wikidata.org/wiki/Q3770876) QID Q3770876
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

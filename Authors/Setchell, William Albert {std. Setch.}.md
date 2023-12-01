@@ -6,7 +6,7 @@ tl2_surname: Setchell
 tl2_forenames: William Albert
 tl2_name_abbrev: Setch.
 tl2_dates: 1864-1943
-tl2_page_id: 33333667
+tl2_bhl_page_id: 33333667
 author_lsid: 9516-1
 wikidata_id: Q6167550
 ipni_surname: Setchell
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:30:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33333667) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9516-1), [Wikidata](https://www.wikidata.org/wiki/Q6167550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9516-1) LSID 9516-1, [Wikidata](https://www.wikidata.org/wiki/Q6167550) QID Q6167550
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

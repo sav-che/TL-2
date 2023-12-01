@@ -6,7 +6,7 @@ tl2_surname: Turio
 tl2_forenames: Bernardino
 tl2_name_abbrev: Turio
 tl2_dates: fl. 1806
-tl2_page_id: 33212585
+tl2_bhl_page_id: 33212585
 author_lsid: 10912-1
 wikidata_id: Q21611054
 ipni_surname: Turio
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33212585) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10912-1), [Wikidata](https://www.wikidata.org/wiki/Q21611054). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10912-1) LSID 10912-1, [Wikidata](https://www.wikidata.org/wiki/Q21611054) QID Q21611054
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

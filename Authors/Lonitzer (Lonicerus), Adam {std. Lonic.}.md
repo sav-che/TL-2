@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0116
 tl2_volume: vol3
 tl2_page_printed: 154
-tl2_surname: Lonitzer [Lonicerus]
+tl2_surname: Lonitzer (Lonicerus)
 tl2_forenames: Adam
 tl2_name_abbrev: Lonic.
 tl2_dates: 1528-1586
-tl2_page_id: 33355241
+tl2_bhl_page_id: 33355241
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33355241) of TL-2 Vol. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

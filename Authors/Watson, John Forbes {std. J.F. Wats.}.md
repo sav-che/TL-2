@@ -6,7 +6,7 @@ tl2_surname: Watson
 tl2_forenames: John Forbes
 tl2_name_abbrev: J.F. Wats.
 tl2_dates: 1827-1892
-tl2_page_id: 33066441
+tl2_bhl_page_id: 33066441
 author_lsid: 11434-1
 wikidata_id: Q18917507
 ipni_surname: Watson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33066441) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11434-1), [Wikidata](https://www.wikidata.org/wiki/Q18917507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11434-1) LSID 11434-1, [Wikidata](https://www.wikidata.org/wiki/Q18917507) QID Q18917507
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

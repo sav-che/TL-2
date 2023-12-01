@@ -6,7 +6,7 @@ tl2_surname: Libert
 tl2_forenames: Marie-Anne
 tl2_name_abbrev: Lib.
 tl2_dates: 1782-1865
-tl2_page_id: 33355121
+tl2_bhl_page_id: 33355121
 author_lsid: 5561-1
 wikidata_id: Q470036
 ipni_surname: Libert
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:44:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33355121) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5561-1), [Wikidata](https://www.wikidata.org/wiki/Q470036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5561-1) LSID 5561-1, [Wikidata](https://www.wikidata.org/wiki/Q470036) QID Q470036
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

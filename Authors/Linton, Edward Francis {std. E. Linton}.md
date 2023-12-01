@@ -6,7 +6,7 @@ tl2_surname: Linton
 tl2_forenames: Edward Francis
 tl2_name_abbrev: E. Linton
 tl2_dates: 1848-1928
-tl2_page_id: 33355200
+tl2_bhl_page_id: 33355200
 author_lsid: 5638-1
 wikidata_id: Q21341899
 ipni_surname: Linton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33355200) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5638-1), [Wikidata](https://www.wikidata.org/wiki/Q21341899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5638-1) LSID 5638-1, [Wikidata](https://www.wikidata.org/wiki/Q21341899) QID Q21341899
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

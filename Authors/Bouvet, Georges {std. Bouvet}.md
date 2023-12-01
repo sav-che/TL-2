@@ -6,7 +6,7 @@ tl2_surname: Bouvet
 tl2_forenames: Georges
 tl2_name_abbrev: Bouvet
 tl2_dates: 1850-1929
-tl2_page_id: 33265591
+tl2_bhl_page_id: 33265591
 author_lsid: 1039-1
 wikidata_id: Q3102355
 ipni_surname: Bouvet
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:31:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265591) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1039-1), [Wikidata](https://www.wikidata.org/wiki/Q3102355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1039-1) LSID 1039-1, [Wikidata](https://www.wikidata.org/wiki/Q3102355) QID Q3102355
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bloxam
 tl2_forenames: Andrew
 tl2_name_abbrev: A. Bloxam
 tl2_dates: 1801-1878
-tl2_page_id: 33265421
+tl2_bhl_page_id: 33265421
 author_lsid: 16225-1
 wikidata_id: Q4354691
 ipni_surname: Bloxam
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33265421) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16225-1), [Wikidata](https://www.wikidata.org/wiki/Q4354691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16225-1) LSID 16225-1, [Wikidata](https://www.wikidata.org/wiki/Q4354691) QID Q4354691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0426
 tl2_volume: vol2
 tl2_page_printed: 391
 tl2_surname: Itzigsohn
-tl2_forenames: [Ernst Friedrich] Hermann
+tl2_forenames: (Ernst Friedrich) Hermann
 tl2_name_abbrev: Itzigs.
 tl2_dates: 1814-1879
-tl2_page_id: 33068633
+tl2_bhl_page_id: 33068633
 author_lsid: 4333-1
 wikidata_id: Q50354950
 ipni_surname: Itzigsohn
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:27:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33068633) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4333-1), [Wikidata](https://www.wikidata.org/wiki/Q50354950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4333-1) LSID 4333-1, [Wikidata](https://www.wikidata.org/wiki/Q50354950) QID Q50354950
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

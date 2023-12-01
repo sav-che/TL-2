@@ -6,7 +6,7 @@ tl2_surname: Laval
 tl2_forenames: Edouard
 tl2_name_abbrev: Laval
 tl2_dates: 1871-x
-tl2_page_id: 33069013
+tl2_bhl_page_id: 33069013
 author_lsid: 5335-1
 wikidata_id: Q21518435
 ipni_surname: Laval
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5335-1), [Wikidata](https://www.wikidata.org/wiki/Q21518435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5335-1) LSID 5335-1, [Wikidata](https://www.wikidata.org/wiki/Q21518435) QID Q21518435
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Couret-Villeneuve
 tl2_forenames: Louis Pierre
 tl2_name_abbrev: Couret-Villeneuve
 tl2_dates: 1749-1806
-tl2_page_id: 33266101
+tl2_bhl_page_id: 33266101
 author_lsid: 20020198-2
 wikidata_id: Q20084499
 ipni_surname: Couret-Villeneuve
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/20020198-2), [Wikidata](https://www.wikidata.org/wiki/Q20084499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20020198-2) LSID 20020198-2, [Wikidata](https://www.wikidata.org/wiki/Q20084499) QID Q20084499
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

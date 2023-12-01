@@ -6,7 +6,7 @@ tl2_surname: Slooten
 tl2_forenames: Dirk Fok van
 tl2_name_abbrev: Slooten
 tl2_dates: 1891-1953
-tl2_page_id: 33333787
+tl2_bhl_page_id: 33333787
 author_lsid: 9749-1
 wikidata_id: Q1848229
 ipni_surname: Slooten
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33333787) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9749-1), [Wikidata](https://www.wikidata.org/wiki/Q1848229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9749-1) LSID 9749-1, [Wikidata](https://www.wikidata.org/wiki/Q1848229) QID Q1848229
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0462
 tl2_volume: vol7
 tl2_page_printed: 510
 tl2_surname: Zahlbruckner
-tl2_forenames: Johann [Baptist]
+tl2_forenames: Johann (Baptist)
 tl2_name_abbrev: J. Zahlbr.
 tl2_dates: 1782-1851
-tl2_page_id: 33066850
+tl2_bhl_page_id: 33066850
 author_lsid: 11975-1
 wikidata_id: Q88712
 ipni_surname: Zahlbruckner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33066850) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11975-1), [Wikidata](https://www.wikidata.org/wiki/Q88712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11975-1) LSID 11975-1, [Wikidata](https://www.wikidata.org/wiki/Q88712) QID Q88712
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

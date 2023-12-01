@@ -6,7 +6,7 @@ tl2_surname: Doyer
 tl2_forenames: Catharina Magdalena
 tl2_name_abbrev: Doyer
 tl2_dates: 1898-1979
-tl2_page_id: 33260071
+tl2_bhl_page_id: 33260071
 author_lsid: 18184-1
 wikidata_id: Q36524100
 ipni_surname: Doyer
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18184-1), [Wikidata](https://www.wikidata.org/wiki/Q36524100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18184-1) LSID 18184-1, [Wikidata](https://www.wikidata.org/wiki/Q36524100) QID Q36524100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

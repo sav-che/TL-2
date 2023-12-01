@@ -6,7 +6,7 @@ tl2_surname: Hebenstreit
 tl2_forenames: Johann Christian
 tl2_name_abbrev: Hebenstr.
 tl2_dates: 1720-1795
-tl2_page_id: 33068357
+tl2_bhl_page_id: 33068357
 author_lsid: 3759-1
 wikidata_id: Q1692922
 ipni_surname: Hebenstreit
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33068357) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3759-1), [Wikidata](https://www.wikidata.org/wiki/Q1692922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3759-1) LSID 3759-1, [Wikidata](https://www.wikidata.org/wiki/Q1692922) QID Q1692922
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

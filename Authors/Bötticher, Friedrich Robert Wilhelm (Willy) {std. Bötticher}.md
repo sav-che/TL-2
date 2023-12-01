@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0321
 tl2_volume: suppl2
 tl2_page_printed: 271
 tl2_surname: Bötticher
-tl2_forenames: Friedrich Robert Wilhelm [Willy]
+tl2_forenames: Friedrich Robert Wilhelm (Willy)
 tl2_name_abbrev: Bötticher
 tl2_dates: 1869-?
-tl2_page_id: 33265468
+tl2_bhl_page_id: 33265468
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265468) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

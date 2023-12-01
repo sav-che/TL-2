@@ -6,7 +6,7 @@ tl2_surname: Sauvaigo
 tl2_forenames: Émile
 tl2_name_abbrev: Sauvaigo
 tl2_dates: 1856-1927
-tl2_page_id: 33333217
+tl2_bhl_page_id: 33333217
 author_lsid: 8964-1
 wikidata_id: Q3588748
 ipni_surname: Sauvaigo
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33333217) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8964-1), [Wikidata](https://www.wikidata.org/wiki/Q3588748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8964-1) LSID 8964-1, [Wikidata](https://www.wikidata.org/wiki/Q3588748) QID Q3588748
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

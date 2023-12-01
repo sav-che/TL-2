@@ -6,7 +6,7 @@ tl2_surname: Dorsett
 tl2_forenames: Palemon Howard
 tl2_name_abbrev: Dorsett
 tl2_dates: 1862-1943
-tl2_page_id: 33260050
+tl2_bhl_page_id: 33260050
 author_lsid: 18165-1
 wikidata_id: Q7127105
 ipni_surname: Dorsett
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33260050) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18165-1), [Wikidata](https://www.wikidata.org/wiki/Q7127105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18165-1) LSID 18165-1, [Wikidata](https://www.wikidata.org/wiki/Q7127105) QID Q7127105
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hu
 tl2_forenames: Hsen-hu
 tl2_name_abbrev: Hu
 tl2_dates: 1894-1968
-tl2_page_id: 33068594
+tl2_bhl_page_id: 33068594
 author_lsid: 4185-1
 wikidata_id: Q510757
 ipni_surname: Hu
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:28:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33068594) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4185-1), [Wikidata](https://www.wikidata.org/wiki/Q510757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4185-1) LSID 4185-1, [Wikidata](https://www.wikidata.org/wiki/Q510757) QID Q510757
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0039
 tl2_volume: vol7
 tl2_page_printed: 30
 tl2_surname: Waldstein
-tl2_forenames: Franz de Paula Adam [Graf]
+tl2_forenames: Franz de Paula Adam (Graf)
 tl2_name_abbrev: Waldst.
 tl2_dates: 1759-1823
-tl2_page_id: 33066370
+tl2_bhl_page_id: 33066370
 author_lsid: 12989-1
 wikidata_id: Q78816
 ipni_surname: Waldstein
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12989-1), [Wikidata](https://www.wikidata.org/wiki/Q78816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12989-1) LSID 12989-1, [Wikidata](https://www.wikidata.org/wiki/Q78816) QID Q78816
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

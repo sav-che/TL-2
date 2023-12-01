@@ -6,7 +6,7 @@ tl2_surname: Bethge
 tl2_forenames: Hans
 tl2_name_abbrev: Bethge
 tl2_dates: 1885-1955
-tl2_page_id: 33265343
+tl2_bhl_page_id: 33265343
 author_lsid: 32420-1
 wikidata_id: Q21506044
 ipni_surname: Bethge
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32420-1), [Wikidata](https://www.wikidata.org/wiki/Q21506044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32420-1) LSID 32420-1, [Wikidata](https://www.wikidata.org/wiki/Q21506044) QID Q21506044
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

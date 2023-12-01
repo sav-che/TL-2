@@ -6,7 +6,7 @@ tl2_surname: Dugès
 tl2_forenames: Alfred Auguste Dalsescantz
 tl2_name_abbrev: Dugès
 tl2_dates: 1826-1910
-tl2_page_id: 33120823
+tl2_bhl_page_id: 33120823
 author_lsid: 2361-1
 wikidata_id: Q2835593
 ipni_surname: Dugès
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2361-1), [Wikidata](https://www.wikidata.org/wiki/Q2835593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2361-1) LSID 2361-1, [Wikidata](https://www.wikidata.org/wiki/Q2835593) QID Q2835593
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

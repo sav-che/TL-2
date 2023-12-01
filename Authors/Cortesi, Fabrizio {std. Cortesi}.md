@@ -6,7 +6,7 @@ tl2_surname: Cortesi
 tl2_forenames: Fabrizio
 tl2_name_abbrev: Cortesi
 tl2_dates: 1879-1949
-tl2_page_id: 33266061
+tl2_bhl_page_id: 33266061
 author_lsid: 1817-1
 wikidata_id: Q5428203
 ipni_surname: Cortesi
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33266061) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1817-1), [Wikidata](https://www.wikidata.org/wiki/Q5428203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1817-1) LSID 1817-1, [Wikidata](https://www.wikidata.org/wiki/Q5428203) QID Q5428203
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

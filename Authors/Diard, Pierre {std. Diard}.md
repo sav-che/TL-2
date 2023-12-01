@@ -6,7 +6,7 @@ tl2_surname: Diard
 tl2_forenames: Pierre
 tl2_name_abbrev: Diard
 tl2_dates: 1784-1849
-tl2_page_id: 33120774
+tl2_bhl_page_id: 33120774
 author_lsid: 2185-1
 wikidata_id: Q27930993
 ipni_surname: Diard
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:31:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2185-1), [Wikidata](https://www.wikidata.org/wiki/Q27930993). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2185-1) LSID 2185-1, [Wikidata](https://www.wikidata.org/wiki/Q27930993) QID Q27930993
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

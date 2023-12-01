@@ -6,7 +6,7 @@ tl2_surname: Baldwin
 tl2_forenames: William
 tl2_name_abbrev: Baldw.
 tl2_dates: 1779-1819
-tl2_page_id: 33120241
+tl2_bhl_page_id: 33120241
 author_lsid: 421-1
 wikidata_id: Q787698
 ipni_surname: Baldwin
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33120241) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/421-1), [Wikidata](https://www.wikidata.org/wiki/Q787698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/421-1) LSID 421-1, [Wikidata](https://www.wikidata.org/wiki/Q787698) QID Q787698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baldwin, William {std. Baldw.} (Suppl.)|second entry]] for this author
 

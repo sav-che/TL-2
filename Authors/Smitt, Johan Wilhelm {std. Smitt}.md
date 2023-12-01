@@ -6,7 +6,7 @@ tl2_surname: Smitt
 tl2_forenames: Johan Wilhelm
 tl2_name_abbrev: Smitt
 tl2_dates: 1821-1904
-tl2_page_id: 33333846
+tl2_bhl_page_id: 33333846
 author_lsid: 9826-1
 wikidata_id: Q6182318
 ipni_surname: Smitt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33333846) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9826-1), [Wikidata](https://www.wikidata.org/wiki/Q6182318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9826-1) LSID 9826-1, [Wikidata](https://www.wikidata.org/wiki/Q6182318) QID Q6182318
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

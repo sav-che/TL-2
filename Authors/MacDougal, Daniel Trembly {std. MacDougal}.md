@@ -6,7 +6,7 @@ tl2_surname: MacDougal
 tl2_forenames: Daniel Trembly
 tl2_name_abbrev: MacDougal
 tl2_dates: 1865-1958
-tl2_page_id: 33355303
+tl2_bhl_page_id: 33355303
 author_lsid: 35183-1
 wikidata_id: Q2677374
 ipni_surname: MacDougal
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33355303) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35183-1), [Wikidata](https://www.wikidata.org/wiki/Q2677374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35183-1) LSID 35183-1, [Wikidata](https://www.wikidata.org/wiki/Q2677374) QID Q2677374
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

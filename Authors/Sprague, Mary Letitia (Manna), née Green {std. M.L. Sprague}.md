@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0802
 tl2_volume: vol5
 tl2_page_printed: 798
 tl2_surname: Sprague
-tl2_forenames: Mary Letitia [Manna], née Green
+tl2_forenames: Mary Letitia (Manna), née Green
 tl2_name_abbrev: M.L. Sprague
 tl2_dates: 1886-1978
-tl2_page_id: 33333937
+tl2_bhl_page_id: 33333937
 author_lsid: 12879-1
 wikidata_id: Q21609342
 ipni_surname: Sprague
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33333937) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12879-1), [Wikidata](https://www.wikidata.org/wiki/Q21609342). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12879-1) LSID 12879-1, [Wikidata](https://www.wikidata.org/wiki/Q21609342) QID Q21609342
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

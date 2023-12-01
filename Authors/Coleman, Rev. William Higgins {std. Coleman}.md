@@ -6,7 +6,7 @@ tl2_surname: Coleman
 tl2_forenames: Rev. William Higgins
 tl2_name_abbrev: Coleman
 tl2_dates: 1816?-1863
-tl2_page_id: 33120653
+tl2_bhl_page_id: 33120653
 author_lsid: 1735-1
 wikidata_id: Q8012324
 ipni_surname: Coleman
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1735-1), [Wikidata](https://www.wikidata.org/wiki/Q8012324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1735-1) LSID 1735-1, [Wikidata](https://www.wikidata.org/wiki/Q8012324) QID Q8012324
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

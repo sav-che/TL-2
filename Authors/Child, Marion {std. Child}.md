@@ -6,7 +6,7 @@ tl2_surname: Child
 tl2_forenames: Marion
 tl2_name_abbrev: Child
 tl2_dates: fl. 1929-1932
-tl2_page_id: 33265779
+tl2_bhl_page_id: 33265779
 author_lsid: 17185-1
 wikidata_id: Q47115478
 ipni_surname: Child
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33265779) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17185-1), [Wikidata](https://www.wikidata.org/wiki/Q47115478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17185-1) LSID 17185-1, [Wikidata](https://www.wikidata.org/wiki/Q47115478) QID Q47115478
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

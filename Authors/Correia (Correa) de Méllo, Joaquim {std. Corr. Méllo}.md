@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl4_0301
 tl2_volume: suppl4
 tl2_page_printed: 370
-tl2_surname: Correia [Correa] de Méllo
+tl2_surname: Correia (Correa) de Méllo
 tl2_forenames: Joaquim
 tl2_name_abbrev: Corr. Méllo
 tl2_dates: 1816-1877
-tl2_page_id: 33266047
+tl2_bhl_page_id: 33266047
 author_lsid: 12387-1
 wikidata_id: Q10307130
 ipni_surname: Corrêa de Mello
@@ -24,7 +24,8 @@ ipni_record_modified: 2007-12-12 10:59:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33266047) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/12387-1), [Wikidata](https://www.wikidata.org/wiki/Q10307130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12387-1) LSID 12387-1, [Wikidata](https://www.wikidata.org/wiki/Q10307130) QID Q10307130
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

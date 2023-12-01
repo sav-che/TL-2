@@ -6,7 +6,7 @@ tl2_surname: Currey
 tl2_forenames: Frederick
 tl2_name_abbrev: Curr.
 tl2_dates: 1819-1881
-tl2_page_id: 33120704
+tl2_bhl_page_id: 33120704
 author_lsid: 17588-1
 wikidata_id: Q18559734
 ipni_surname: Currey
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17588-1), [Wikidata](https://www.wikidata.org/wiki/Q18559734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17588-1) LSID 17588-1, [Wikidata](https://www.wikidata.org/wiki/Q18559734) QID Q18559734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Currey, Frederick {std. Curr.} (Suppl.)|second entry]] for this author
 

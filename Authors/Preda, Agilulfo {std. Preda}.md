@@ -6,7 +6,7 @@ tl2_surname: Preda
 tl2_forenames: Agilulfo
 tl2_name_abbrev: Preda
 tl2_dates: 1870-1941
-tl2_page_id: 33189856
+tl2_bhl_page_id: 33189856
 author_lsid: 7936-1
 wikidata_id: Q21523204
 ipni_surname: Preda
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7936-1), [Wikidata](https://www.wikidata.org/wiki/Q21523204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7936-1) LSID 7936-1, [Wikidata](https://www.wikidata.org/wiki/Q21523204) QID Q21523204
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

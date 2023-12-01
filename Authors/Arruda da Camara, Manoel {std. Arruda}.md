@@ -6,7 +6,7 @@ tl2_surname: Arruda da Camara
 tl2_forenames: Manoel
 tl2_name_abbrev: Arruda
 tl2_dates: 1752-1810
-tl2_page_id: 33120200
+tl2_bhl_page_id: 33120200
 author_lsid: 291-1
 wikidata_id: Q690995
 ipni_surname: Arruda da Cámara
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33120200) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/291-1), [Wikidata](https://www.wikidata.org/wiki/Q690995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/291-1) LSID 291-1, [Wikidata](https://www.wikidata.org/wiki/Q690995) QID Q690995
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

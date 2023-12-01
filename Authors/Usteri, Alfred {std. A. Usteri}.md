@@ -6,7 +6,7 @@ tl2_surname: Usteri
 tl2_forenames: Alfred
 tl2_name_abbrev: A. Usteri
 tl2_dates: 1869-?
-tl2_page_id: 33212664
+tl2_bhl_page_id: 33212664
 author_lsid: 11004-1
 wikidata_id: Q21611291
 ipni_surname: Usteri
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33212664) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11004-1), [Wikidata](https://www.wikidata.org/wiki/Q21611291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11004-1) LSID 11004-1, [Wikidata](https://www.wikidata.org/wiki/Q21611291) QID Q21611291
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

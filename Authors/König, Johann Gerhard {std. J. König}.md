@@ -6,7 +6,7 @@ tl2_surname: König
 tl2_forenames: Johann Gerhard
 tl2_name_abbrev: J. König
 tl2_dates: 1728-1785
-tl2_page_id: 33068842
+tl2_bhl_page_id: 33068842
 author_lsid: 12621-1
 wikidata_id: Q64834
 ipni_surname: Koenig
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-11-12 06:38:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33068842) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12621-1), [Wikidata](https://www.wikidata.org/wiki/Q64834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12621-1) LSID 12621-1, [Wikidata](https://www.wikidata.org/wiki/Q64834) QID Q64834
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

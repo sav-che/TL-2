@@ -6,7 +6,7 @@ tl2_surname: MacMillan
 tl2_forenames: Conway
 tl2_name_abbrev: MacMill.
 tl2_dates: 1867-1929
-tl2_page_id: 33355317
+tl2_bhl_page_id: 33355317
 author_lsid: 22701-1
 wikidata_id: Q4275851
 ipni_surname: MacMillan
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33355317) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22701-1), [Wikidata](https://www.wikidata.org/wiki/Q4275851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22701-1) LSID 22701-1, [Wikidata](https://www.wikidata.org/wiki/Q4275851) QID Q4275851
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Curtis
 tl2_forenames: Samuel
 tl2_name_abbrev: S. Curtis
 tl2_dates: 1779-1860
-tl2_page_id: 33120705
+tl2_bhl_page_id: 33120705
 author_lsid: 1926-1
 wikidata_id: Q13107330
 ipni_surname: Curtis
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33120705) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1926-1), [Wikidata](https://www.wikidata.org/wiki/Q13107330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1926-1) LSID 1926-1, [Wikidata](https://www.wikidata.org/wiki/Q13107330) QID Q13107330
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

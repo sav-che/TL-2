@@ -6,7 +6,7 @@ tl2_surname: Mueller
 tl2_forenames: Karl (Carl)
 tl2_name_abbrev: K. Muell. berol.
 tl2_dates: 1817-1870
-tl2_page_id: 33355725
+tl2_bhl_page_id: 33355725
 author_lsid: 23707-1
 wikidata_id: Q5958299
 ipni_surname: Müller
@@ -25,7 +25,8 @@ ipni_record_modified: 2007-08-03 11:21:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33355725) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23707-1), [Wikidata](https://www.wikidata.org/wiki/Q5958299). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23707-1) LSID 23707-1, [Wikidata](https://www.wikidata.org/wiki/Q5958299) QID Q5958299
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

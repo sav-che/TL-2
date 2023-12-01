@@ -6,7 +6,7 @@ tl2_surname: Sprengel
 tl2_forenames: Christian Konrad
 tl2_name_abbrev: CK. Spreng.
 tl2_dates: 1750-1816
-tl2_page_id: 33333943
+tl2_bhl_page_id: 33333943
 author_lsid: 9991-1
 wikidata_id: Q64331
 ipni_surname: Sprengel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33333943) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9991-1), [Wikidata](https://www.wikidata.org/wiki/Q64331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9991-1) LSID 9991-1, [Wikidata](https://www.wikidata.org/wiki/Q64331) QID Q64331
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kinney
 tl2_forenames: Abbot
 tl2_name_abbrev: Kinney
 tl2_dates: 1850-1920
-tl2_page_id: 33068789
+tl2_bhl_page_id: 33068789
 author_lsid: 4800-1
 wikidata_id: Q4664207
 ipni_surname: Kinney
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4800-1), [Wikidata](https://www.wikidata.org/wiki/Q4664207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4800-1) LSID 4800-1, [Wikidata](https://www.wikidata.org/wiki/Q4664207) QID Q4664207
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Shirley
 tl2_forenames: John F.
 tl2_name_abbrev: Shirley
 tl2_dates: 1849-1922
-tl2_page_id: 33333706
+tl2_bhl_page_id: 33333706
 author_lsid: 9584-1
 wikidata_id: Q21516220
 ipni_surname: Shirley
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33333706) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9584-1), [Wikidata](https://www.wikidata.org/wiki/Q21516220). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9584-1) LSID 9584-1, [Wikidata](https://www.wikidata.org/wiki/Q21516220) QID Q21516220
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

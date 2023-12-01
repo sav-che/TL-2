@@ -6,7 +6,7 @@ tl2_surname: Bauch
 tl2_forenames: Robert
 tl2_name_abbrev: Bauch
 tl2_dates: 1897-x
-tl2_page_id: 33265109
+tl2_bhl_page_id: 33265109
 author_lsid: 15800-1
 wikidata_id: Q47113875
 ipni_surname: Bauch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265109) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/15800-1), [Wikidata](https://www.wikidata.org/wiki/Q47113875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15800-1) LSID 15800-1, [Wikidata](https://www.wikidata.org/wiki/Q47113875) QID Q47113875
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

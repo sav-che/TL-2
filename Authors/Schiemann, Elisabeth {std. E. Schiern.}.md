@@ -6,7 +6,7 @@ tl2_surname: Schiemann
 tl2_forenames: Elisabeth
 tl2_name_abbrev: E. Schiern.
 tl2_dates: 1881-1972
-tl2_page_id: 33333287
+tl2_bhl_page_id: 33333287
 author_lsid: 9077-1
 wikidata_id: Q1330249
 ipni_surname: Schiemann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33333287) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9077-1), [Wikidata](https://www.wikidata.org/wiki/Q1330249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9077-1) LSID 9077-1, [Wikidata](https://www.wikidata.org/wiki/Q1330249) QID Q1330249
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

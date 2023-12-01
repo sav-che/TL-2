@@ -6,7 +6,7 @@ tl2_surname: Szatala
 tl2_forenames: Odön
 tl2_name_abbrev: Szat.
 tl2_dates: 1889-1958
-tl2_page_id: 33212185
+tl2_bhl_page_id: 33212185
 author_lsid: 27435-1
 wikidata_id: Q21338840
 ipni_surname: Szatala
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33212185) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27435-1), [Wikidata](https://www.wikidata.org/wiki/Q21338840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27435-1) LSID 27435-1, [Wikidata](https://www.wikidata.org/wiki/Q21338840) QID Q21338840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

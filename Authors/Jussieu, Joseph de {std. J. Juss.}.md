@@ -6,7 +6,7 @@ tl2_surname: Jussieu
 tl2_forenames: Joseph de
 tl2_name_abbrev: J. Juss.
 tl2_dates: 1704-1779
-tl2_page_id: 33068722
+tl2_bhl_page_id: 33068722
 author_lsid: 4594-1
 wikidata_id: Q1347343
 ipni_surname: Jussieu
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33068722) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4594-1), [Wikidata](https://www.wikidata.org/wiki/Q1347343). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4594-1) LSID 4594-1, [Wikidata](https://www.wikidata.org/wiki/Q1347343) QID Q1347343
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

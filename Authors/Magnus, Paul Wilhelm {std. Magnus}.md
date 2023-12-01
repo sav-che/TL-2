@@ -6,7 +6,7 @@ tl2_surname: Magnus
 tl2_forenames: Paul Wilhelm
 tl2_name_abbrev: Magnus
 tl2_dates: 1844-1914
-tl2_page_id: 33355332
+tl2_bhl_page_id: 33355332
 author_lsid: 22742-1
 wikidata_id: Q15431600
 ipni_surname: Magnus
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33355332) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22742-1), [Wikidata](https://www.wikidata.org/wiki/Q15431600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22742-1) LSID 22742-1, [Wikidata](https://www.wikidata.org/wiki/Q15431600) QID Q15431600
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

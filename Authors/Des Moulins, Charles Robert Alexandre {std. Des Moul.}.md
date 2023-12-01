@@ -6,7 +6,7 @@ tl2_surname: Des Moulins
 tl2_forenames: Charles Robert Alexandre
 tl2_name_abbrev: Des Moul.
 tl2_dates: 1798-1875
-tl2_page_id: 33120763
+tl2_bhl_page_id: 33120763
 author_lsid: 2156-1
 wikidata_id: Q2960744
 ipni_surname: Des Moulins
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 632](https://www.biodiversitylibrary.org/page/33120763) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2156-1), [Wikidata](https://www.wikidata.org/wiki/Q2960744). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2156-1) LSID 2156-1, [Wikidata](https://www.wikidata.org/wiki/Q2960744) QID Q2960744
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Des Moulins (Desmoulines), Charles ... de Gaux {std. Des Moul.} (Suppl.)|second entry]] for this author
 

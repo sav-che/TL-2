@@ -6,7 +6,7 @@ tl2_surname: Trew
 tl2_forenames: Christoph Jakob
 tl2_name_abbrev: Trew
 tl2_dates: 1695-1769
-tl2_page_id: 33212525
+tl2_bhl_page_id: 33212525
 author_lsid: 10817-1
 wikidata_id: Q77661
 ipni_surname: Trew
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33212525) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10817-1), [Wikidata](https://www.wikidata.org/wiki/Q77661). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10817-1) LSID 10817-1, [Wikidata](https://www.wikidata.org/wiki/Q77661) QID Q77661
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Barbosa Rodrigues
 tl2_forenames: João
 tl2_name_abbrev: Barb. Rodr.
 tl2_dates: 1842-1909
-tl2_page_id: 33120250
+tl2_bhl_page_id: 33120250
 author_lsid: 465-1
 wikidata_id: Q45374
 ipni_surname: Barbosa Rodrigues
@@ -25,7 +25,8 @@ ipni_record_modified: 2014-12-01 11:38:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33120250) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/465-1), [Wikidata](https://www.wikidata.org/wiki/Q45374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/465-1) LSID 465-1, [Wikidata](https://www.wikidata.org/wiki/Q45374) QID Q45374
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Rodrigues, João Barbosa {std. Barb. Rodr.}|second]] and [[Barbosa Rodrigues, João {std. Barb. Rodr.} (Suppl.)|third]] entries for this author
 

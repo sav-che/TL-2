@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0142
 tl2_volume: vol7
 tl2_page_printed: 149
 tl2_surname: Weigel
-tl2_forenames: Christian Ehrenfried [after 1806 von Weigel]
+tl2_forenames: Christian Ehrenfried (after 1806 von Weigel)
 tl2_name_abbrev: Weigel
 tl2_dates: 1748-1831
-tl2_page_id: 33066489
+tl2_bhl_page_id: 33066489
 author_lsid: 11496-1
 wikidata_id: Q543475
 ipni_surname: Weigel
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33066489) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11496-1), [Wikidata](https://www.wikidata.org/wiki/Q543475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11496-1) LSID 11496-1, [Wikidata](https://www.wikidata.org/wiki/Q543475) QID Q543475
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

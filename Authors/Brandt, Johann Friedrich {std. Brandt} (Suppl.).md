@@ -6,7 +6,7 @@ tl2_surname: Brandt
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: Brandt
 tl2_dates: 1802-1879
-tl2_page_id: 33266323
+tl2_bhl_page_id: 33266323
 author_lsid: 12359-1
 wikidata_id: Q57361
 ipni_surname: Brandt
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/12359-1), [Wikidata](https://www.wikidata.org/wiki/Q57361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12359-1) LSID 12359-1, [Wikidata](https://www.wikidata.org/wiki/Q57361) QID Q57361
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brandt, Johann Friedrich (von) {std. Brandt}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Barnes
 tl2_forenames: William David
 tl2_name_abbrev: W.D. Barnes
 tl2_dates: 1868-1938
-tl2_page_id: 33265059
+tl2_bhl_page_id: 33265059
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265059) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

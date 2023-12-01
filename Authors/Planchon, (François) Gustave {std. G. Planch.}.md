@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0338
 tl2_volume: vol4
 tl2_page_printed: 283
 tl2_surname: Planchon
-tl2_forenames: [François] Gustave
+tl2_forenames: (François) Gustave
 tl2_name_abbrev: G. Planch.
 tl2_dates: 1833-1900
-tl2_page_id: 33189754
+tl2_bhl_page_id: 33189754
 author_lsid: 12737-1
 wikidata_id: Q3121295
 ipni_surname: Planchon
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33189754) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12737-1), [Wikidata](https://www.wikidata.org/wiki/Q3121295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12737-1) LSID 12737-1, [Wikidata](https://www.wikidata.org/wiki/Q3121295) QID Q3121295
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Popenoe
 tl2_forenames: Dorothy Kate (née Hughes)
 tl2_name_abbrev: D. Popenoe
 tl2_dates: 1899-1932
-tl2_page_id: 33189808
+tl2_bhl_page_id: 33189808
 author_lsid: 12742-1
 wikidata_id: Q18985687
 ipni_surname: Popenoe
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12742-1), [Wikidata](https://www.wikidata.org/wiki/Q18985687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12742-1) LSID 12742-1, [Wikidata](https://www.wikidata.org/wiki/Q18985687) QID Q18985687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

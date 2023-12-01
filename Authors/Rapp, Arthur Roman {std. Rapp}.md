@@ -6,7 +6,7 @@ tl2_surname: Rapp
 tl2_forenames: Arthur Roman
 tl2_name_abbrev: Rapp
 tl2_dates: 1854-after 1894
-tl2_page_id: 33190051
+tl2_bhl_page_id: 33190051
 author_lsid: 8145-1
 wikidata_id: Q21606974
 ipni_surname: Rapp
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33190051) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8145-1), [Wikidata](https://www.wikidata.org/wiki/Q21606974). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8145-1) LSID 8145-1, [Wikidata](https://www.wikidata.org/wiki/Q21606974) QID Q21606974
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

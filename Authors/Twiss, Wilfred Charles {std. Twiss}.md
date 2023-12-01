@@ -6,7 +6,7 @@ tl2_surname: Twiss
 tl2_forenames: Wilfred Charles
 tl2_name_abbrev: Twiss
 tl2_dates: 1868-?
-tl2_page_id: 33212602
+tl2_bhl_page_id: 33212602
 author_lsid: 10942-1
 wikidata_id: Q21611096
 ipni_surname: Twiss
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33212602) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10942-1), [Wikidata](https://www.wikidata.org/wiki/Q21611096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10942-1) LSID 10942-1, [Wikidata](https://www.wikidata.org/wiki/Q21611096) QID Q21611096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

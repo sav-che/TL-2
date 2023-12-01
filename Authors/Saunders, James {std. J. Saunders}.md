@@ -6,7 +6,7 @@ tl2_surname: Saunders
 tl2_forenames: James
 tl2_name_abbrev: J. Saunders
 tl2_dates: 1839-1925
-tl2_page_id: 33333206
+tl2_bhl_page_id: 33333206
 author_lsid: 8954-1
 wikidata_id: Q21607778
 ipni_surname: Saunders
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8954-1), [Wikidata](https://www.wikidata.org/wiki/Q21607778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8954-1) LSID 8954-1, [Wikidata](https://www.wikidata.org/wiki/Q21607778) QID Q21607778
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

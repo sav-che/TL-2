@@ -6,27 +6,31 @@ tl2_surname: Carl
 tl2_forenames: Helmut
 tl2_name_abbrev: H. Carl
 tl2_dates: fl. 1931-1933
-tl2_page_id: 33266721
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33266721
+author_lsid: 16896-1
+wikidata_id: Q21506976
+ipni_surname: Carl
+ipni_forenames: Helmut
+ipni_standard_form: Carl
+ipni_dates: 1908-1984
+ipni_taxon_scope:
+- Botany
+- Bryophytes
+ipni_geo_scope:
+- Germany
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33266721) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16896-1) LSID 16896-1, [Wikidata](https://www.wikidata.org/wiki/Q21506976) QID Q21506976
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Carl, Helmut (fl. 1931-1933), German botanist at Eisenach and Jena. 
-**Abbreviated name**: *H. Carl*
+**Abbreviated name**: *H. Carl* \[standard form in IPNI: *Carl*\]
 
 #### Herbarium and types
 

@@ -6,7 +6,7 @@ tl2_surname: Rhind
 tl2_forenames: William
 tl2_name_abbrev: Rhind
 tl2_dates: fl. 1830-1860
-tl2_page_id: 33190224
+tl2_bhl_page_id: 33190224
 author_lsid: 8333-1
 wikidata_id: Q9096066
 ipni_surname: Rhind
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8333-1), [Wikidata](https://www.wikidata.org/wiki/Q9096066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8333-1) LSID 8333-1, [Wikidata](https://www.wikidata.org/wiki/Q9096066) QID Q9096066
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

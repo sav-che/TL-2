@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0067
 tl2_volume: suppl8
 tl2_page_printed: 86
 tl2_surname: Gadd
-tl2_forenames: Pehr [Petrus] Adrian [Adrianus]
+tl2_forenames: Pehr (Petrus) Adrian (Adrianus)
 tl2_name_abbrev: Gadd
 tl2_dates: 1727-1797
-tl2_page_id: 33258564
+tl2_bhl_page_id: 33258564
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33258564) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

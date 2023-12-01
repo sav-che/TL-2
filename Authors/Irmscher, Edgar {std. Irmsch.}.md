@@ -6,7 +6,7 @@ tl2_surname: Irmscher
 tl2_forenames: Edgar
 tl2_name_abbrev: Irmsch.
 tl2_dates: 1887-1968
-tl2_page_id: 33068629
+tl2_bhl_page_id: 33068629
 author_lsid: 4308-1
 wikidata_id: Q8771887
 ipni_surname: Irmscher
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33068629) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4308-1), [Wikidata](https://www.wikidata.org/wiki/Q8771887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4308-1) LSID 4308-1, [Wikidata](https://www.wikidata.org/wiki/Q8771887) QID Q8771887
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

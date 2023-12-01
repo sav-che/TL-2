@@ -6,7 +6,7 @@ tl2_surname: Lincke
 tl2_forenames: Johann Rudolf
 tl2_name_abbrev: Lincke
 tl2_dates: fl. 1840
-tl2_page_id: 33355105
+tl2_bhl_page_id: 33355105
 author_lsid: 5597-1
 wikidata_id: Q36593496
 ipni_surname: Lincke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33355105) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5597-1), [Wikidata](https://www.wikidata.org/wiki/Q36593496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5597-1) LSID 5597-1, [Wikidata](https://www.wikidata.org/wiki/Q36593496) QID Q36593496
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Jacquin
 tl2_forenames: Nikolaus Joseph, Baron von
 tl2_name_abbrev: Jacq.
 tl2_dates: 1727-1817
-tl2_page_id: 33068649
+tl2_bhl_page_id: 33068649
 author_lsid: 12576-1
 wikidata_id: Q84497
 ipni_surname: Jacquin
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:30:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33068649) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12576-1), [Wikidata](https://www.wikidata.org/wiki/Q84497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12576-1) LSID 12576-1, [Wikidata](https://www.wikidata.org/wiki/Q84497) QID Q84497
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

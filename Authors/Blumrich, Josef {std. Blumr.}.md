@@ -6,7 +6,7 @@ tl2_surname: Blumrich
 tl2_forenames: Josef
 tl2_name_abbrev: Blumr.
 tl2_dates: 1865-1949
-tl2_page_id: 33265429
+tl2_bhl_page_id: 33265429
 author_lsid: 16234-1
 wikidata_id: Q15446905
 ipni_surname: Blumrich
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265429) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16234-1), [Wikidata](https://www.wikidata.org/wiki/Q15446905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16234-1) LSID 16234-1, [Wikidata](https://www.wikidata.org/wiki/Q15446905) QID Q15446905
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

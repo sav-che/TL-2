@@ -6,7 +6,7 @@ tl2_surname: Pieper
 tl2_forenames: Gustav Robert
 tl2_name_abbrev: G. Piep.
 tl2_dates: fl. 1908
-tl2_page_id: 33189728
+tl2_bhl_page_id: 33189728
 author_lsid: 7680-1
 wikidata_id: Q36566484
 ipni_surname: Pieper
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7680-1), [Wikidata](https://www.wikidata.org/wiki/Q36566484). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7680-1) LSID 7680-1, [Wikidata](https://www.wikidata.org/wiki/Q36566484) QID Q36566484
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

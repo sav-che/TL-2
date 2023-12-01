@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0360
 tl2_volume: vol5
 tl2_page_printed: 383
 tl2_surname: Schulz
-tl2_forenames: August [Albert Heinrich]
+tl2_forenames: August (Albert Heinrich)
 tl2_name_abbrev: Aug. Schulz
 tl2_dates: 1862-1922
-tl2_page_id: 33333522
+tl2_bhl_page_id: 33333522
 author_lsid: 9305-1
 wikidata_id: Q20733505
 ipni_surname: Schulz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33333522) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9305-1), [Wikidata](https://www.wikidata.org/wiki/Q20733505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9305-1) LSID 9305-1, [Wikidata](https://www.wikidata.org/wiki/Q20733505) QID Q20733505
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

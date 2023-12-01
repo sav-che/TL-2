@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0419
 tl2_volume: vol6
 tl2_page_printed: 389
 tl2_surname: Tommasini
-tl2_forenames: Muzio Giuseppe Spirito de [Mutius Joseph Spiritus, Ritter von]
+tl2_forenames: Muzio Giuseppe Spirito de (Mutius Joseph Spiritus, Ritter von)
 tl2_name_abbrev: Tomm.
 tl2_dates: 1794-1879
-tl2_page_id: 33212431
+tl2_bhl_page_id: 33212431
 author_lsid: 10731-1
 wikidata_id: Q202106
 ipni_surname: Tommasini
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10731-1), [Wikidata](https://www.wikidata.org/wiki/Q202106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10731-1) LSID 10731-1, [Wikidata](https://www.wikidata.org/wiki/Q202106) QID Q202106
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

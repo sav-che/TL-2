@@ -6,7 +6,7 @@ tl2_surname: Voeltzkow
 tl2_forenames: Alfred
 tl2_name_abbrev: Voeltzk.
 tl2_dates: 1860-?
-tl2_page_id: 33212807
+tl2_bhl_page_id: 33212807
 author_lsid: 11232-1
 wikidata_id: Q2918926
 ipni_surname: Voeltzkow
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33212807) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11232-1), [Wikidata](https://www.wikidata.org/wiki/Q2918926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11232-1) LSID 11232-1, [Wikidata](https://www.wikidata.org/wiki/Q2918926) QID Q2918926
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

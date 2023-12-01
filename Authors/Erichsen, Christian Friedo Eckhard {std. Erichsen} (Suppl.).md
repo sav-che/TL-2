@@ -6,7 +6,7 @@ tl2_surname: Erichsen
 tl2_forenames: Christian Friedo Eckhard
 tl2_name_abbrev: Erichsen
 tl2_dates: 1867-1945
-tl2_page_id: 33260374
+tl2_bhl_page_id: 33260374
 author_lsid: 18530-1
 wikidata_id: Q16022968
 ipni_surname: Erichsen
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33260374) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18530-1), [Wikidata](https://www.wikidata.org/wiki/Q16022968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18530-1) LSID 18530-1, [Wikidata](https://www.wikidata.org/wiki/Q16022968) QID Q16022968
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Erichsen, Christian Friedo Eckhard {std. Erichsen}|first entry]] for this author
 

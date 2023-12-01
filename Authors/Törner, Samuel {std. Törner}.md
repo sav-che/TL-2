@@ -6,7 +6,7 @@ tl2_surname: Törner
 tl2_forenames: Samuel
 tl2_name_abbrev: Törner
 tl2_dates: 1762-?
-tl2_page_id: 33212426
+tl2_bhl_page_id: 33212426
 author_lsid: 10711-1
 wikidata_id: Q21610883
 ipni_surname: Törner
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10711-1), [Wikidata](https://www.wikidata.org/wiki/Q21610883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10711-1) LSID 10711-1, [Wikidata](https://www.wikidata.org/wiki/Q21610883) QID Q21610883
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

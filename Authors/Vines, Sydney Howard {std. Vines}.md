@@ -6,7 +6,7 @@ tl2_surname: Vines
 tl2_forenames: Sydney Howard
 tl2_name_abbrev: Vines
 tl2_dates: 1849-1934
-tl2_page_id: 33212790
+tl2_bhl_page_id: 33212790
 author_lsid: 11208-1
 wikidata_id: Q2596187
 ipni_surname: Vines
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11208-1), [Wikidata](https://www.wikidata.org/wiki/Q2596187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11208-1) LSID 11208-1, [Wikidata](https://www.wikidata.org/wiki/Q2596187) QID Q2596187
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

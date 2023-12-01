@@ -6,7 +6,7 @@ tl2_surname: Bartram
 tl2_forenames: Edwin Bunting
 tl2_name_abbrev: E.B. Bartram
 tl2_dates: 1878-1964
-tl2_page_id: 33265079
+tl2_bhl_page_id: 33265079
 author_lsid: 15746-1
 wikidata_id: Q18205408
 ipni_surname: Bartram
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33265079) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/15746-1), [Wikidata](https://www.wikidata.org/wiki/Q18205408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15746-1) LSID 15746-1, [Wikidata](https://www.wikidata.org/wiki/Q18205408) QID Q18205408
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bartram, Edwin Bunting {std. E.B. Bartram}|first entry]] for this author
 

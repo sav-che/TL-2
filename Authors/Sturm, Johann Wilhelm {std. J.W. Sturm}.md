@@ -6,7 +6,7 @@ tl2_surname: Sturm
 tl2_forenames: Johann Wilhelm
 tl2_name_abbrev: J.W. Sturm
 tl2_dates: 1808-1865
-tl2_page_id: 33212114
+tl2_bhl_page_id: 33212114
 author_lsid: 10254-1
 wikidata_id: Q1447354
 ipni_surname: Sturm
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33212114) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10254-1), [Wikidata](https://www.wikidata.org/wiki/Q1447354). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10254-1) LSID 10254-1, [Wikidata](https://www.wikidata.org/wiki/Q1447354) QID Q1447354
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

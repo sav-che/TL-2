@@ -6,7 +6,7 @@ tl2_surname: Loher
 tl2_forenames: August
 tl2_name_abbrev: Loher
 tl2_dates: x-1930
-tl2_page_id: 33355233
+tl2_bhl_page_id: 33355233
 author_lsid: 5714-1
 wikidata_id: Q8209021
 ipni_surname: Loher
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33355233) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5714-1), [Wikidata](https://www.wikidata.org/wiki/Q8209021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5714-1) LSID 5714-1, [Wikidata](https://www.wikidata.org/wiki/Q8209021) QID Q8209021
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

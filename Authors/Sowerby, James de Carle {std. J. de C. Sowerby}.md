@@ -6,7 +6,7 @@ tl2_surname: Sowerby
 tl2_forenames: James de Carle
 tl2_name_abbrev: J. de C. Sowerby
 tl2_dates: 1787-1871
-tl2_page_id: 33333901
+tl2_bhl_page_id: 33333901
 author_lsid: 9934-1
 wikidata_id: Q1233369
 ipni_surname: Sowerby
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9934-1), [Wikidata](https://www.wikidata.org/wiki/Q1233369). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9934-1) LSID 9934-1, [Wikidata](https://www.wikidata.org/wiki/Q1233369) QID Q1233369
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

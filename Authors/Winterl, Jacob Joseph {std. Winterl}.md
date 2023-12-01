@@ -6,7 +6,7 @@ tl2_surname: Winterl
 tl2_forenames: Jacob Joseph
 tl2_name_abbrev: Winterl
 tl2_dates: 1739-1809
-tl2_page_id: 33066724
+tl2_bhl_page_id: 33066724
 author_lsid: 11778-1
 wikidata_id: Q736342
 ipni_surname: Winterl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33066724) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11778-1), [Wikidata](https://www.wikidata.org/wiki/Q736342). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11778-1) LSID 11778-1, [Wikidata](https://www.wikidata.org/wiki/Q736342) QID Q736342
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

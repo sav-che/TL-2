@@ -6,7 +6,7 @@ tl2_surname: Strachey
 tl2_forenames: Richard
 tl2_name_abbrev: Strachey
 tl2_dates: 1817-1908
-tl2_page_id: 33212033
+tl2_bhl_page_id: 33212033
 author_lsid: 10193-1
 wikidata_id: Q6191761
 ipni_surname: Strachey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10193-1), [Wikidata](https://www.wikidata.org/wiki/Q6191761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10193-1) LSID 10193-1, [Wikidata](https://www.wikidata.org/wiki/Q6191761) QID Q6191761
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

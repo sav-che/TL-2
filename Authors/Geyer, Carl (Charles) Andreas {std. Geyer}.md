@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_1181
 tl2_volume: vol1
 tl2_page_printed: 939
 tl2_surname: Geyer
-tl2_forenames: Carl [Charles] Andreas
+tl2_forenames: Carl (Charles) Andreas
 tl2_name_abbrev: Geyer
 tl2_dates: 1809-1853
-tl2_page_id: 33121070
+tl2_bhl_page_id: 33121070
 author_lsid: 3118-1
 wikidata_id: Q84811
 ipni_surname: Geyer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3118-1), [Wikidata](https://www.wikidata.org/wiki/Q84811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3118-1) LSID 3118-1, [Wikidata](https://www.wikidata.org/wiki/Q84811) QID Q84811
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

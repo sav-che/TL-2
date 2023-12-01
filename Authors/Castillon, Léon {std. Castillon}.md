@@ -6,7 +6,7 @@ tl2_surname: Castillon
 tl2_forenames: Léon
 tl2_name_abbrev: Castillon
 tl2_dates: fl. 1908-1928
-tl2_page_id: 33266764
+tl2_bhl_page_id: 33266764
 author_lsid: 37226-1
 wikidata_id: Q26712847
 ipni_surname: Castillón
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33266764) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/37226-1), [Wikidata](https://www.wikidata.org/wiki/Q26712847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/37226-1) LSID 37226-1, [Wikidata](https://www.wikidata.org/wiki/Q26712847) QID Q26712847
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

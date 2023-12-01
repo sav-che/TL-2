@@ -6,7 +6,7 @@ tl2_surname: Darlington
 tl2_forenames: Hayward Radcliffe
 tl2_name_abbrev: H.R. Darl.
 tl2_dates: c. 1863-1946
-tl2_page_id: 33259118
+tl2_bhl_page_id: 33259118
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259118) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

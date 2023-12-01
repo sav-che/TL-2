@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0052
 tl2_volume: suppl8
 tl2_page_printed: 72
-tl2_surname: Fünfstück [Fuenfstueck]
-tl2_forenames: [Leberecht] Moritz
+tl2_surname: Fünfstück (Fuenfstueck)
+tl2_forenames: (Leberecht) Moritz
 tl2_name_abbrev: Fünfstück
 tl2_dates: 1856-1925
-tl2_page_id: 33258550
+tl2_bhl_page_id: 33258550
 author_lsid: 2951-1
 wikidata_id: Q1519120
 ipni_surname: Fünfstück
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33258550) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2951-1), [Wikidata](https://www.wikidata.org/wiki/Q1519120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2951-1) LSID 2951-1, [Wikidata](https://www.wikidata.org/wiki/Q1519120) QID Q1519120
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fünfstück, Leberecht Moritz {std. Fünfstück}|first entry]] for this author
 

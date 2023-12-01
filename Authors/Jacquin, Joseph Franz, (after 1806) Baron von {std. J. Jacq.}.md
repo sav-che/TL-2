@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0448
 tl2_volume: vol2
 tl2_page_printed: 405
 tl2_surname: Jacquin
-tl2_forenames: Joseph Franz, [after 1806] Baron von
+tl2_forenames: Joseph Franz, (after 1806) Baron von
 tl2_name_abbrev: J. Jacq.
 tl2_dates: 1766-1839
-tl2_page_id: 33068647
+tl2_bhl_page_id: 33068647
 author_lsid: 4388-1
 wikidata_id: Q78990
 ipni_surname: Jacquin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33068647) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4388-1), [Wikidata](https://www.wikidata.org/wiki/Q78990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4388-1) LSID 4388-1, [Wikidata](https://www.wikidata.org/wiki/Q78990) QID Q78990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

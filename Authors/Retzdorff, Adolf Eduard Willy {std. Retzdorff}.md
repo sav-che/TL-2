@@ -6,7 +6,7 @@ tl2_surname: Retzdorff
 tl2_forenames: Adolf Eduard Willy
 tl2_name_abbrev: Retzdorff
 tl2_dates: 1856-1910
-tl2_page_id: 33190206
+tl2_bhl_page_id: 33190206
 author_lsid: 8304-1
 wikidata_id: Q21607127
 ipni_surname: Retzdorff
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8304-1), [Wikidata](https://www.wikidata.org/wiki/Q21607127). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8304-1) LSID 8304-1, [Wikidata](https://www.wikidata.org/wiki/Q21607127) QID Q21607127
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Batchelder
 tl2_forenames: Frederick William
 tl2_name_abbrev: Batchelder
 tl2_dates: 1838-1911
-tl2_page_id: 33265100
+tl2_bhl_page_id: 33265100
 author_lsid: 536-1
 wikidata_id: Q21505761
 ipni_surname: Batchelder
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265100) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/536-1), [Wikidata](https://www.wikidata.org/wiki/Q21505761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/536-1) LSID 536-1, [Wikidata](https://www.wikidata.org/wiki/Q21505761) QID Q21505761
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

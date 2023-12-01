@@ -6,7 +6,7 @@ tl2_surname: Hoess
 tl2_forenames: Franz
 tl2_name_abbrev: Hoess
 tl2_dates: 1756-1840
-tl2_page_id: 33068475
+tl2_bhl_page_id: 33068475
 author_lsid: 4006-1
 wikidata_id: Q21516097
 ipni_surname: Höss
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4006-1), [Wikidata](https://www.wikidata.org/wiki/Q21516097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4006-1) LSID 4006-1, [Wikidata](https://www.wikidata.org/wiki/Q21516097) QID Q21516097
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

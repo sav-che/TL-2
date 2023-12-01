@@ -6,7 +6,7 @@ tl2_surname: Carmignani
 tl2_forenames: Vincenzo
 tl2_name_abbrev: Carmignani
 tl2_dates: 1779-1859
-tl2_page_id: 33266725
+tl2_bhl_page_id: 33266725
 author_lsid: 1407-1
 wikidata_id: Q19861579
 ipni_surname: Carmignani
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33266725) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1407-1), [Wikidata](https://www.wikidata.org/wiki/Q19861579). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1407-1) LSID 1407-1, [Wikidata](https://www.wikidata.org/wiki/Q19861579) QID Q19861579
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

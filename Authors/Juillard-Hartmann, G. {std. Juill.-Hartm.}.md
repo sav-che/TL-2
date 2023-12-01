@@ -6,7 +6,7 @@ tl2_surname: Juillard-Hartmann
 tl2_forenames: G.
 tl2_name_abbrev: Juill.-Hartm.
 tl2_dates: fl. 1919
-tl2_page_id: 33068710
+tl2_bhl_page_id: 33068710
 author_lsid: 4573-1
 wikidata_id: Q36563601
 ipni_surname: Juillard-Hartmann
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4573-1), [Wikidata](https://www.wikidata.org/wiki/Q36563601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4573-1) LSID 4573-1, [Wikidata](https://www.wikidata.org/wiki/Q36563601) QID Q36563601
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

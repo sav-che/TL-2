@@ -6,7 +6,7 @@ tl2_surname: Pfuhl
 tl2_forenames: Fritz C.A.
 tl2_name_abbrev: Pfuhl
 tl2_dates: 1853-1913
-tl2_page_id: 33189699
+tl2_bhl_page_id: 33189699
 author_lsid: 7626-1
 wikidata_id: Q21337948
 ipni_surname: Pfuhl
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7626-1), [Wikidata](https://www.wikidata.org/wiki/Q21337948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7626-1) LSID 7626-1, [Wikidata](https://www.wikidata.org/wiki/Q21337948) QID Q21337948
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

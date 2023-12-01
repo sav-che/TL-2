@@ -6,7 +6,7 @@ tl2_surname: Richardson
 tl2_forenames: Sir John
 tl2_name_abbrev: Richardson
 tl2_dates: 1787-1865
-tl2_page_id: 33190241
+tl2_bhl_page_id: 33190241
 author_lsid: 8360-1
 wikidata_id: Q545944
 ipni_surname: Richardson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33190241) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8360-1), [Wikidata](https://www.wikidata.org/wiki/Q545944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8360-1) LSID 8360-1, [Wikidata](https://www.wikidata.org/wiki/Q545944) QID Q545944
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

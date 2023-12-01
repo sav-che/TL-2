@@ -6,7 +6,7 @@ tl2_surname: Brignoli di Brunnhoff
 tl2_forenames: Giovanni de
 tl2_name_abbrev: Brign.
 tl2_dates: 1774-1857
-tl2_page_id: 33266383
+tl2_bhl_page_id: 33266383
 author_lsid: 1148-1
 wikidata_id: Q5880193
 ipni_surname: Brignoli di Brunnhoff
@@ -24,7 +24,8 @@ ipni_record_modified: 2005-05-18 14:48:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33266383) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1148-1), [Wikidata](https://www.wikidata.org/wiki/Q5880193). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1148-1) LSID 1148-1, [Wikidata](https://www.wikidata.org/wiki/Q5880193) QID Q5880193
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brignoli di Brunnhoff, Giovanni de {std. Brign.}|first entry]] for this author
 

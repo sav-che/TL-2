@@ -6,7 +6,7 @@ tl2_surname: Ramsbottom
 tl2_forenames: John
 tl2_name_abbrev: Ramsb.
 tl2_dates: 1885-1974
-tl2_page_id: 33190045
+tl2_bhl_page_id: 33190045
 author_lsid: 8130-1
 wikidata_id: Q6254165
 ipni_surname: Ramsbottom
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33190045) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8130-1), [Wikidata](https://www.wikidata.org/wiki/Q6254165). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8130-1) LSID 8130-1, [Wikidata](https://www.wikidata.org/wiki/Q6254165) QID Q6254165
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

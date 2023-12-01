@@ -6,7 +6,7 @@ tl2_surname: Cilleuls
 tl2_forenames: J. des
 tl2_name_abbrev: Cilleuls
 tl2_dates: fl. 1928-1932
-tl2_page_id: 33265855
+tl2_bhl_page_id: 33265855
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33265855) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

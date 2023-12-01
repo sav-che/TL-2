@@ -6,7 +6,7 @@ tl2_surname: Hendel
 tl2_forenames: Johann Christian
 tl2_name_abbrev: Hendel
 tl2_dates: 1742-1823
-tl2_page_id: 33068396
+tl2_bhl_page_id: 33068396
 author_lsid: 3826-1
 wikidata_id: Q21515691
 ipni_surname: Hendel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3826-1), [Wikidata](https://www.wikidata.org/wiki/Q21515691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3826-1) LSID 3826-1, [Wikidata](https://www.wikidata.org/wiki/Q21515691) QID Q21515691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

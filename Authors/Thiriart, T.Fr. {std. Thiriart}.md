@@ -6,7 +6,7 @@ tl2_surname: Thiriart
 tl2_forenames: T.Fr.
 tl2_name_abbrev: Thiriart
 tl2_dates: fl. 1806
-tl2_page_id: 33212306
+tl2_bhl_page_id: 33212306
 author_lsid: 10577-1
 wikidata_id: Q36692274
 ipni_surname: Thiriart
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33212306) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10577-1), [Wikidata](https://www.wikidata.org/wiki/Q36692274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10577-1) LSID 10577-1, [Wikidata](https://www.wikidata.org/wiki/Q36692274) QID Q36692274
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

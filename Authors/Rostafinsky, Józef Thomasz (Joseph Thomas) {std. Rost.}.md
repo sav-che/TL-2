@@ -6,7 +6,7 @@ tl2_surname: Rostafinsky
 tl2_forenames: Józef Thomasz (Joseph Thomas)
 tl2_name_abbrev: Rost.
 tl2_dates: 1850-1928
-tl2_page_id: 33190379
+tl2_bhl_page_id: 33190379
 author_lsid: 8627-1
 wikidata_id: Q506075
 ipni_surname: Rostafińsky
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 908](https://www.biodiversitylibrary.org/page/33190379) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8627-1), [Wikidata](https://www.wikidata.org/wiki/Q506075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8627-1) LSID 8627-1, [Wikidata](https://www.wikidata.org/wiki/Q506075) QID Q506075
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

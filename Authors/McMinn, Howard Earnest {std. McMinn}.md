@@ -6,7 +6,7 @@ tl2_surname: McMinn
 tl2_forenames: Howard Earnest
 tl2_name_abbrev: McMinn
 tl2_dates: 1891-1963
-tl2_page_id: 33355318
+tl2_bhl_page_id: 33355318
 author_lsid: 5950-1
 wikidata_id: Q21340686
 ipni_surname: McMinn
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33355318) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5950-1), [Wikidata](https://www.wikidata.org/wiki/Q21340686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5950-1) LSID 5950-1, [Wikidata](https://www.wikidata.org/wiki/Q21340686) QID Q21340686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

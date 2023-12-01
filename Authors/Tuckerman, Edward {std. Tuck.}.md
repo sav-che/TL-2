@@ -6,7 +6,7 @@ tl2_surname: Tuckerman
 tl2_forenames: Edward
 tl2_name_abbrev: Tuck.
 tl2_dates: 1817-1886
-tl2_page_id: 33212565
+tl2_bhl_page_id: 33212565
 author_lsid: 10891-1
 wikidata_id: Q1293905
 ipni_surname: Tuckerman
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:34:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33212565) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10891-1), [Wikidata](https://www.wikidata.org/wiki/Q1293905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10891-1) LSID 10891-1, [Wikidata](https://www.wikidata.org/wiki/Q1293905) QID Q1293905
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

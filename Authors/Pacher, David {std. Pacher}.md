@@ -6,7 +6,7 @@ tl2_surname: Pacher
 tl2_forenames: David
 tl2_name_abbrev: Pacher
 tl2_dates: 1816-1902
-tl2_page_id: 33189513
+tl2_bhl_page_id: 33189513
 author_lsid: 7232-1
 wikidata_id: Q5800247
 ipni_surname: Pacher
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33189513) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7232-1), [Wikidata](https://www.wikidata.org/wiki/Q5800247). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7232-1) LSID 7232-1, [Wikidata](https://www.wikidata.org/wiki/Q5800247) QID Q5800247
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

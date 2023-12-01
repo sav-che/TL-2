@@ -6,7 +6,7 @@ tl2_surname: Heyne
 tl2_forenames: Friedrich Adolf
 tl2_name_abbrev: F. Heyne
 tl2_dates: 1760-1826
-tl2_page_id: 33068430
+tl2_bhl_page_id: 33068430
 author_lsid: 3924-1
 wikidata_id: Q6437245
 ipni_surname: Heyne
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33068430) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3924-1), [Wikidata](https://www.wikidata.org/wiki/Q6437245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3924-1) LSID 3924-1, [Wikidata](https://www.wikidata.org/wiki/Q6437245) QID Q6437245
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

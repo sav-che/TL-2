@@ -6,7 +6,7 @@ tl2_surname: Limpricht
 tl2_forenames: Hans Wolfgang
 tl2_name_abbrev: H. Limpr.
 tl2_dates: 1877-x
-tl2_page_id: 33355107
+tl2_bhl_page_id: 33355107
 author_lsid: 35182-1
 wikidata_id: Q16671329
 ipni_surname: Limpricht
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33355107) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35182-1), [Wikidata](https://www.wikidata.org/wiki/Q16671329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35182-1) LSID 35182-1, [Wikidata](https://www.wikidata.org/wiki/Q16671329) QID Q16671329
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

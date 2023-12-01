@@ -6,7 +6,7 @@ tl2_surname: Bailey
 tl2_forenames: Liberty Hyde
 tl2_name_abbrev: L.H.Bailey
 tl2_dates: 1858-1954
-tl2_page_id: 33120225
+tl2_bhl_page_id: 33120225
 author_lsid: 395-1
 wikidata_id: Q152366
 ipni_surname: Bailey
@@ -25,7 +25,8 @@ ipni_record_modified: 2011-12-01 06:57:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33120225) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/395-1), [Wikidata](https://www.wikidata.org/wiki/Q152366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/395-1) LSID 395-1, [Wikidata](https://www.wikidata.org/wiki/Q152366) QID Q152366
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bailey, Liberty Hyde {std. L.H. Bailey} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Osten-Saken
 tl2_forenames: Baron Friedrich von der (Fedor Romanovic)
 tl2_name_abbrev: Osten-Saken
 tl2_dates: 1832-?
-tl2_page_id: 33355941
+tl2_bhl_page_id: 33355941
 author_lsid: 7190-1
 wikidata_id: Q4338630
 ipni_surname: Osten-Sacken
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33355941) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7190-1), [Wikidata](https://www.wikidata.org/wiki/Q4338630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7190-1) LSID 7190-1, [Wikidata](https://www.wikidata.org/wiki/Q4338630) QID Q4338630
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

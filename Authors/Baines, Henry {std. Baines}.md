@@ -6,7 +6,7 @@ tl2_surname: Baines
 tl2_forenames: Henry
 tl2_name_abbrev: Baines
 tl2_dates: 1794-1878
-tl2_page_id: 33120233
+tl2_bhl_page_id: 33120233
 author_lsid: 399-1
 wikidata_id: Q15615855
 ipni_surname: Baines
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/399-1), [Wikidata](https://www.wikidata.org/wiki/Q15615855). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/399-1) LSID 399-1, [Wikidata](https://www.wikidata.org/wiki/Q15615855) QID Q15615855
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

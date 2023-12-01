@@ -6,7 +6,7 @@ tl2_surname: Bowles
 tl2_forenames: Edward Augustus
 tl2_name_abbrev: Bowles
 tl2_dates: 1865-1954
-tl2_page_id: 33265598
+tl2_bhl_page_id: 33265598
 author_lsid: 1048-1
 wikidata_id: Q4095221
 ipni_surname: Bowles
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33265598) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1048-1), [Wikidata](https://www.wikidata.org/wiki/Q4095221). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1048-1) LSID 1048-1, [Wikidata](https://www.wikidata.org/wiki/Q4095221) QID Q4095221
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

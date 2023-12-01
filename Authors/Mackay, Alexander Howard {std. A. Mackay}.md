@@ -6,7 +6,7 @@ tl2_surname: Mackay
 tl2_forenames: Alexander Howard
 tl2_name_abbrev: A. Mackay
 tl2_dates: 1848-1929
-tl2_page_id: 33355312
+tl2_bhl_page_id: 33355312
 author_lsid: 5933-1
 wikidata_id: Q21519727
 ipni_surname: Mackay
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33355312) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5933-1), [Wikidata](https://www.wikidata.org/wiki/Q21519727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5933-1) LSID 5933-1, [Wikidata](https://www.wikidata.org/wiki/Q21519727) QID Q21519727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Østrup
 tl2_forenames: Ernst Vilhelm
 tl2_name_abbrev: Østrup
 tl2_dates: 1845-1917
-tl2_page_id: 33355899
+tl2_bhl_page_id: 33355899
 author_lsid: 33719-1
 wikidata_id: Q5395217
 ipni_surname: Østrup
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33355899) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/33719-1), [Wikidata](https://www.wikidata.org/wiki/Q5395217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33719-1) LSID 33719-1, [Wikidata](https://www.wikidata.org/wiki/Q5395217) QID Q5395217
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

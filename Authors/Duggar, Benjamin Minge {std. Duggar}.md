@@ -6,7 +6,7 @@ tl2_surname: Duggar
 tl2_forenames: Benjamin Minge
 tl2_name_abbrev: Duggar
 tl2_dates: 1872-1956
-tl2_page_id: 33260140
+tl2_bhl_page_id: 33260140
 author_lsid: 18255-1
 wikidata_id: Q1609345
 ipni_surname: Duggar
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33260140) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18255-1), [Wikidata](https://www.wikidata.org/wiki/Q1609345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18255-1) LSID 18255-1, [Wikidata](https://www.wikidata.org/wiki/Q1609345) QID Q1609345
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

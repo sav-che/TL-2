@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0454
 tl2_volume: vol3
 tl2_page_printed: 391
 tl2_surname: Mayrhoffer
-tl2_forenames: Johann Nepomuk [Mayrhofer, I.N.]
+tl2_forenames: Johann Nepomuk (Mayrhofer, I.N.)
 tl2_name_abbrev: Mayrh.
 tl2_dates: 1764-1832
-tl2_page_id: 33355478
+tl2_bhl_page_id: 33355478
 author_lsid: 6281-1
 wikidata_id: Q21520180
 ipni_surname: Mayrhoffer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33355478) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6281-1), [Wikidata](https://www.wikidata.org/wiki/Q21520180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6281-1) LSID 6281-1, [Wikidata](https://www.wikidata.org/wiki/Q21520180) QID Q21520180
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

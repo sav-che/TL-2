@@ -6,7 +6,7 @@ tl2_surname: Luerssen
 tl2_forenames: Christian
 tl2_name_abbrev: Luerss.
 tl2_dates: 1843-1916
-tl2_page_id: 33355273
+tl2_bhl_page_id: 33355273
 author_lsid: 5820-1
 wikidata_id: Q70807
 ipni_surname: Luerssen
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5820-1), [Wikidata](https://www.wikidata.org/wiki/Q70807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5820-1) LSID 5820-1, [Wikidata](https://www.wikidata.org/wiki/Q70807) QID Q70807
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

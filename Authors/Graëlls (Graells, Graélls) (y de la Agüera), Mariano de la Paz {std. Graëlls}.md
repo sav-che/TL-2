@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0240
 tl2_volume: suppl8
 tl2_page_printed: 322
-tl2_surname: Graëlls [Graells, Graélls] [y de la Agüera]
+tl2_surname: Graëlls (Graells, Graélls) (y de la Agüera)
 tl2_forenames: Mariano de la Paz
 tl2_name_abbrev: Graëlls
 tl2_dates: 1809-1898
-tl2_page_id: 33258800
+tl2_bhl_page_id: 33258800
 author_lsid: 3311-1
 wikidata_id: Q3821587
 ipni_surname: Graells
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3311-1), [Wikidata](https://www.wikidata.org/wiki/Q3821587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3311-1) LSID 3311-1, [Wikidata](https://www.wikidata.org/wiki/Q3821587) QID Q3821587
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

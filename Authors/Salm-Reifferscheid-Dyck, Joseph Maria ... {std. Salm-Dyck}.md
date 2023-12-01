@@ -6,7 +6,7 @@ tl2_surname: Salm-Reifferscheid-Dyck
 tl2_forenames: Joseph Maria ...
 tl2_name_abbrev: Salm-Dyck
 tl2_dates: 1773-1861
-tl2_page_id: 33333176
+tl2_bhl_page_id: 33333176
 author_lsid: 8846-1
 wikidata_id: Q62938
 ipni_surname: Salm-Reifferscheid-Dyck
@@ -24,7 +24,8 @@ ipni_record_modified: 2015-12-19 15:41:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33333176) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8846-1), [Wikidata](https://www.wikidata.org/wiki/Q62938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8846-1) LSID 8846-1, [Wikidata](https://www.wikidata.org/wiki/Q62938) QID Q62938
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

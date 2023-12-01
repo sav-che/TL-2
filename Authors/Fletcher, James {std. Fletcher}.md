@@ -6,7 +6,7 @@ tl2_surname: Fletcher
 tl2_forenames: James
 tl2_name_abbrev: Fletcher
 tl2_dates: 1852-1908
-tl2_page_id: 33120976
+tl2_bhl_page_id: 33120976
 author_lsid: 2783-1
 wikidata_id: Q6133987
 ipni_surname: Fletcher
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33120976) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2783-1), [Wikidata](https://www.wikidata.org/wiki/Q6133987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2783-1) LSID 2783-1, [Wikidata](https://www.wikidata.org/wiki/Q6133987) QID Q6133987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fletcher, James {std. Fletcher} (Suppl.)|second entry]] for this author
 

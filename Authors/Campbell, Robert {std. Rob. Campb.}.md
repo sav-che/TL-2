@@ -6,7 +6,7 @@ tl2_surname: Campbell
 tl2_forenames: Robert
 tl2_name_abbrev: Rob. Campb.
 tl2_dates: 1835-1921
-tl2_page_id: 33266643
+tl2_bhl_page_id: 33266643
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266643) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

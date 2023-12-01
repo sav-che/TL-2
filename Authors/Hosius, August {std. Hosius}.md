@@ -6,7 +6,7 @@ tl2_surname: Hosius
 tl2_forenames: August
 tl2_name_abbrev: Hosius
 tl2_dates: 1825-1896
-tl2_page_id: 33068580
+tl2_bhl_page_id: 33068580
 author_lsid: 4127-1
 wikidata_id: Q21516083
 ipni_surname: Hosius
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33068580) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4127-1), [Wikidata](https://www.wikidata.org/wiki/Q21516083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4127-1) LSID 4127-1, [Wikidata](https://www.wikidata.org/wiki/Q21516083) QID Q21516083
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

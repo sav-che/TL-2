@@ -6,7 +6,7 @@ tl2_surname: Jelliffe
 tl2_forenames: Smith Ely
 tl2_name_abbrev: Jell.
 tl2_dates: 1866-1945
-tl2_page_id: 33068677
+tl2_bhl_page_id: 33068677
 author_lsid: 4463-1
 wikidata_id: Q3656558
 ipni_surname: Jelliffe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4463-1), [Wikidata](https://www.wikidata.org/wiki/Q3656558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4463-1) LSID 4463-1, [Wikidata](https://www.wikidata.org/wiki/Q3656558) QID Q3656558
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

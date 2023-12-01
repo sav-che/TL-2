@@ -6,7 +6,7 @@ tl2_surname: Cupp
 tl2_forenames: Easter E.
 tl2_name_abbrev: Cupp
 tl2_dates: 1904-?
-tl2_page_id: 33266188
+tl2_bhl_page_id: 33266188
 author_lsid: 32846-1
 wikidata_id: Q21509657
 ipni_surname: Cupp
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32846-1), [Wikidata](https://www.wikidata.org/wiki/Q21509657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32846-1) LSID 32846-1, [Wikidata](https://www.wikidata.org/wiki/Q21509657) QID Q21509657
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

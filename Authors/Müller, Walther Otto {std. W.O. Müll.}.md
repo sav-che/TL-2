@@ -6,7 +6,7 @@ tl2_surname: Müller
 tl2_forenames: Walther Otto
 tl2_name_abbrev: W.O. Müll.
 tl2_dates: 1833-1887
-tl2_page_id: 33355738
+tl2_bhl_page_id: 33355738
 author_lsid: 6749-1
 wikidata_id: Q21521878
 ipni_surname: Müller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6749-1), [Wikidata](https://www.wikidata.org/wiki/Q21521878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6749-1) LSID 6749-1, [Wikidata](https://www.wikidata.org/wiki/Q21521878) QID Q21521878
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

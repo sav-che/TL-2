@@ -6,7 +6,7 @@ tl2_surname: Wilbrand
 tl2_forenames: Johann Bernhard
 tl2_name_abbrev: Wilbr.
 tl2_dates: 1779-1846
-tl2_page_id: 33066626
+tl2_bhl_page_id: 33066626
 author_lsid: 11664-1
 wikidata_id: Q102107
 ipni_surname: Wilbrand
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33066626) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11664-1), [Wikidata](https://www.wikidata.org/wiki/Q102107). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11664-1) LSID 11664-1, [Wikidata](https://www.wikidata.org/wiki/Q102107) QID Q102107
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

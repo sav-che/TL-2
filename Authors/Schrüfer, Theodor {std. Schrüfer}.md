@@ -6,7 +6,7 @@ tl2_surname: Schrüfer
 tl2_forenames: Theodor
 tl2_name_abbrev: Schrüfer
 tl2_dates: 1836-1908
-tl2_page_id: 33333488
+tl2_bhl_page_id: 33333488
 author_lsid: 9271-1
 wikidata_id: Q21608452
 ipni_surname: Schrüfer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33333488) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9271-1), [Wikidata](https://www.wikidata.org/wiki/Q21608452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9271-1) LSID 9271-1, [Wikidata](https://www.wikidata.org/wiki/Q21608452) QID Q21608452
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

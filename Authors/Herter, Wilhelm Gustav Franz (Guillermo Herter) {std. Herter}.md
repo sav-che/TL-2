@@ -6,7 +6,7 @@ tl2_surname: Herter
 tl2_forenames: Wilhelm Gustav Franz (Guillermo Herter)
 tl2_name_abbrev: Herter
 tl2_dates: 1884-1958
-tl2_page_id: 33068418
+tl2_bhl_page_id: 33068418
 author_lsid: 12545-1
 wikidata_id: Q3030442
 ipni_surname: Herter
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:41:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12545-1), [Wikidata](https://www.wikidata.org/wiki/Q3030442). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12545-1) LSID 12545-1, [Wikidata](https://www.wikidata.org/wiki/Q3030442) QID Q3030442
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

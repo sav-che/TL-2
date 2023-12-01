@@ -6,7 +6,7 @@ tl2_surname: Pospíšil
 tl2_forenames: Valentin
 tl2_name_abbrev: Pospíšil
 tl2_dates: 1913-x
-tl2_page_id: 33189821
+tl2_bhl_page_id: 33189821
 author_lsid: 7874-1
 wikidata_id: Q21523135
 ipni_surname: Pospíšil
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33189821) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7874-1), [Wikidata](https://www.wikidata.org/wiki/Q21523135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7874-1) LSID 7874-1, [Wikidata](https://www.wikidata.org/wiki/Q21523135) QID Q21523135
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

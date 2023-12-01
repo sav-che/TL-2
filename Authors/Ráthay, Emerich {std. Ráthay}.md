@@ -6,7 +6,7 @@ tl2_surname: Ráthay
 tl2_forenames: Emerich
 tl2_name_abbrev: Ráthay
 tl2_dates: 1845-1900
-tl2_page_id: 33190054
+tl2_bhl_page_id: 33190054
 author_lsid: 25359-1
 wikidata_id: Q21606987
 ipni_surname: Ráthay
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33190054) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25359-1), [Wikidata](https://www.wikidata.org/wiki/Q21606987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25359-1) LSID 25359-1, [Wikidata](https://www.wikidata.org/wiki/Q21606987) QID Q21606987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

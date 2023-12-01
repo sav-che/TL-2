@@ -6,7 +6,7 @@ tl2_surname: Butler
 tl2_forenames: George Dexter
 tl2_name_abbrev: G.D. Butler
 tl2_dates: 1850-1910
-tl2_page_id: 33266594
+tl2_bhl_page_id: 33266594
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33266594) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

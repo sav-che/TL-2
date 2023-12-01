@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0924
 tl2_volume: vol1
 tl2_page_printed: 726
 tl2_surname: Eggers
-tl2_forenames: Henrik [Heinrich] Franz Alexander Baron von
+tl2_forenames: Henrik (Heinrich) Franz Alexander Baron von
 tl2_name_abbrev: Eggers
 tl2_dates: 1844-1903
-tl2_page_id: 33120857
+tl2_bhl_page_id: 33120857
 author_lsid: 2474-1
 wikidata_id: Q5627792
 ipni_surname: Eggers
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33120857) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2474-1), [Wikidata](https://www.wikidata.org/wiki/Q5627792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2474-1) LSID 2474-1, [Wikidata](https://www.wikidata.org/wiki/Q5627792) QID Q5627792
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Eggers, Henrik (Heinrich) Franz Alexander (Baron) von {std. Eggers} (Suppl.)|second entry]] for this author
 

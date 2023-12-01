@@ -6,7 +6,7 @@ tl2_surname: Castelnau
 tl2_forenames: François Louis Nompar de Caumont de Laporte, Comte de
 tl2_name_abbrev: Castelnau
 tl2_dates: 1810-1880
-tl2_page_id: 33120599
+tl2_bhl_page_id: 33120599
 author_lsid: 1447-1
 wikidata_id: Q741590
 ipni_surname: Castelnau
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33120599) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1447-1), [Wikidata](https://www.wikidata.org/wiki/Q741590). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1447-1) LSID 1447-1, [Wikidata](https://www.wikidata.org/wiki/Q741590) QID Q741590
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

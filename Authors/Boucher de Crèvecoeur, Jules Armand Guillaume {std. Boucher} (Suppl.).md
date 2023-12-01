@@ -6,7 +6,7 @@ tl2_surname: Boucher de Crèvecoeur
 tl2_forenames: Jules Armand Guillaume
 tl2_name_abbrev: Boucher
 tl2_dates: 1757-1844
-tl2_page_id: 33265573
+tl2_bhl_page_id: 33265573
 author_lsid: 1017-1
 wikidata_id: Q20013591
 ipni_surname: Boucher de Crèvecoeur
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1017-1), [Wikidata](https://www.wikidata.org/wiki/Q20013591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1017-1) LSID 1017-1, [Wikidata](https://www.wikidata.org/wiki/Q20013591) QID Q20013591
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boucher de Crèvecoeur, Jules Armand Guillaume {std. Boucher}|first entry]] for this author
 

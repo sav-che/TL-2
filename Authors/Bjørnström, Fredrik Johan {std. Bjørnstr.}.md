@@ -6,7 +6,7 @@ tl2_surname: Bjørnström
 tl2_forenames: Fredrik Johan
 tl2_name_abbrev: Bjørnstr.
 tl2_dates: 1833-1889
-tl2_page_id: 33265382
+tl2_bhl_page_id: 33265382
 author_lsid: 16182-1
 wikidata_id: Q5578375
 ipni_surname: Björnström
@@ -25,7 +25,8 @@ ipni_record_modified: 2005-04-04 16:27:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16182-1), [Wikidata](https://www.wikidata.org/wiki/Q5578375). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16182-1) LSID 16182-1, [Wikidata](https://www.wikidata.org/wiki/Q5578375) QID Q5578375
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

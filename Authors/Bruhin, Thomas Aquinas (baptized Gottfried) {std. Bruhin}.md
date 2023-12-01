@@ -6,7 +6,7 @@ tl2_surname: Bruhin
 tl2_forenames: Thomas Aquinas (baptized Gottfried)
 tl2_name_abbrev: Bruhin
 tl2_dates: 1835-1896
-tl2_page_id: 33266462
+tl2_bhl_page_id: 33266462
 author_lsid: 14624-1
 wikidata_id: Q21506562
 ipni_surname: Bruhin
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33266462) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/14624-1), [Wikidata](https://www.wikidata.org/wiki/Q21506562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14624-1) LSID 14624-1, [Wikidata](https://www.wikidata.org/wiki/Q21506562) QID Q21506562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

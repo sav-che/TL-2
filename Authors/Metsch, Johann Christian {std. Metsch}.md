@@ -6,7 +6,7 @@ tl2_surname: Metsch
 tl2_forenames: Johann Christian
 tl2_name_abbrev: Metsch
 tl2_dates: 1796-1856
-tl2_page_id: 33355519
+tl2_bhl_page_id: 33355519
 author_lsid: 6392-1
 wikidata_id: Q18986898
 ipni_surname: Metsch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33355519) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6392-1), [Wikidata](https://www.wikidata.org/wiki/Q18986898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6392-1) LSID 6392-1, [Wikidata](https://www.wikidata.org/wiki/Q18986898) QID Q18986898
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

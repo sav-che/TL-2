@@ -6,7 +6,7 @@ tl2_surname: Kaalaas
 tl2_forenames: Baard Bastian Larsen
 tl2_name_abbrev: Kaal.
 tl2_dates: 1851-1918
-tl2_page_id: 33068723
+tl2_bhl_page_id: 33068723
 author_lsid: 21113-1
 wikidata_id: Q11959947
 ipni_surname: Kaalaas
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21113-1), [Wikidata](https://www.wikidata.org/wiki/Q11959947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21113-1) LSID 21113-1, [Wikidata](https://www.wikidata.org/wiki/Q11959947) QID Q11959947
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

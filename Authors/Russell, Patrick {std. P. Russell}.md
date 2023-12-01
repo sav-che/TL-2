@@ -6,7 +6,7 @@ tl2_surname: Russell
 tl2_forenames: Patrick
 tl2_name_abbrev: P. Russell
 tl2_dates: 1727-1805
-tl2_page_id: 33190475
+tl2_bhl_page_id: 33190475
 author_lsid: 8756-1
 wikidata_id: Q921856
 ipni_surname: Russell
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33190475) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8756-1), [Wikidata](https://www.wikidata.org/wiki/Q921856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8756-1) LSID 8756-1, [Wikidata](https://www.wikidata.org/wiki/Q921856) QID Q921856
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

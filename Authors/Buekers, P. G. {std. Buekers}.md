@@ -6,7 +6,7 @@ tl2_surname: Buekers
 tl2_forenames: P. G.
 tl2_name_abbrev: Buekers
 tl2_dates: fl. 1904-1909
-tl2_page_id: 33266513
+tl2_bhl_page_id: 33266513
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33266513) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

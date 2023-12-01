@@ -6,7 +6,7 @@ tl2_surname: Thompson
 tl2_forenames: Charles Henry
 tl2_name_abbrev: C.H. Thomps.
 tl2_dates: 1870-1931
-tl2_page_id: 33212321
+tl2_bhl_page_id: 33212321
 author_lsid: 27690-1
 wikidata_id: Q5764889
 ipni_surname: Thompson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33212321) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27690-1), [Wikidata](https://www.wikidata.org/wiki/Q5764889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27690-1) LSID 27690-1, [Wikidata](https://www.wikidata.org/wiki/Q5764889) QID Q5764889
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

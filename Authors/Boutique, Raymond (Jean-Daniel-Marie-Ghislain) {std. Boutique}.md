@@ -6,7 +6,7 @@ tl2_surname: Boutique
 tl2_forenames: Raymond (Jean-Daniel-Marie-Ghislain)
 tl2_name_abbrev: Boutique
 tl2_dates: 1906-1985
-tl2_page_id: 33265590
+tl2_bhl_page_id: 33265590
 author_lsid: 1037-1
 wikidata_id: Q2883140
 ipni_surname: Boutique
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265590) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1037-1), [Wikidata](https://www.wikidata.org/wiki/Q2883140). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1037-1) LSID 1037-1, [Wikidata](https://www.wikidata.org/wiki/Q2883140) QID Q2883140
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

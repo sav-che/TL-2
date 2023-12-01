@@ -6,7 +6,7 @@ tl2_surname: Cook
 tl2_forenames: James
 tl2_name_abbrev: J. Cook
 tl2_dates: 1728-1779
-tl2_page_id: 33120666
+tl2_bhl_page_id: 33120666
 author_lsid: 1779-1
 wikidata_id: Q7324
 ipni_surname: Cook
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33120666) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1779-1), [Wikidata](https://www.wikidata.org/wiki/Q7324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1779-1) LSID 1779-1, [Wikidata](https://www.wikidata.org/wiki/Q7324) QID Q7324
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

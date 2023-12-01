@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0910
 tl2_volume: vol2
 tl2_page_printed: 766
 tl2_surname: Lauche
-tl2_forenames: [Friedrich] Wilhelm [Georg]
+tl2_forenames: (Friedrich) Wilhelm (Georg)
 tl2_name_abbrev: Lauche
 tl2_dates: 1827-1883
-tl2_page_id: 33069008
+tl2_bhl_page_id: 33069008
 author_lsid: 5318-1
 wikidata_id: Q73819
 ipni_surname: Lauche
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33069008) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5318-1), [Wikidata](https://www.wikidata.org/wiki/Q73819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5318-1) LSID 5318-1, [Wikidata](https://www.wikidata.org/wiki/Q73819) QID Q73819
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

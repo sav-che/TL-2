@@ -6,7 +6,7 @@ tl2_surname: Deane
 tl2_forenames: Walter
 tl2_name_abbrev: W. Deane
 tl2_dates: 1848-1930
-tl2_page_id: 33259168
+tl2_bhl_page_id: 33259168
 author_lsid: 2053-1
 wikidata_id: Q21510088
 ipni_surname: Deane
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33259168) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2053-1), [Wikidata](https://www.wikidata.org/wiki/Q21510088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2053-1) LSID 2053-1, [Wikidata](https://www.wikidata.org/wiki/Q21510088) QID Q21510088
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Deane, Walter {std. W. Deane}|first entry]] for this author
 

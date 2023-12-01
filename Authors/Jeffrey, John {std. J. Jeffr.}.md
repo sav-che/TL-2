@@ -6,7 +6,7 @@ tl2_surname: Jeffrey
 tl2_forenames: John
 tl2_name_abbrev: J. Jeffr.
 tl2_dates: 1826-1854
-tl2_page_id: 33068676
+tl2_bhl_page_id: 33068676
 author_lsid: 4456-1
 wikidata_id: Q6241760
 ipni_surname: Jeffrey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4456-1), [Wikidata](https://www.wikidata.org/wiki/Q6241760). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4456-1) LSID 4456-1, [Wikidata](https://www.wikidata.org/wiki/Q6241760) QID Q6241760
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

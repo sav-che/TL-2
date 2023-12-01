@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol5_0733
 tl2_volume: vol5
 tl2_page_printed: 737
-tl2_surname: Sommier [Carlo Pietro] Stefano [Stephen]
-tl2_forenames: Sommier [Carlo Pietro] Stefano [Stephen]
+tl2_surname: Sommier (Carlo Pietro) Stefano (Stephen)
+tl2_forenames: Sommier (Carlo Pietro) Stefano (Stephen)
 tl2_name_abbrev: Sommier
 tl2_dates: 1848-1922
-tl2_page_id: 33333876
+tl2_bhl_page_id: 33333876
 author_lsid: 9887-1
 wikidata_id: Q5685893
 ipni_surname: Sommier
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33333876) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9887-1), [Wikidata](https://www.wikidata.org/wiki/Q5685893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9887-1) LSID 9887-1, [Wikidata](https://www.wikidata.org/wiki/Q5685893) QID Q5685893
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

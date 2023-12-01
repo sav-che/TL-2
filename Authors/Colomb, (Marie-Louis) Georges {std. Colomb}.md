@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0215
 tl2_volume: suppl4
 tl2_page_printed: 280
 tl2_surname: Colomb
-tl2_forenames: [Marie-Louis] Georges
+tl2_forenames: (Marie-Louis) Georges
 tl2_name_abbrev: Colomb
 tl2_dates: 1856-?
-tl2_page_id: 33265957
+tl2_bhl_page_id: 33265957
 author_lsid: 1748-1
 wikidata_id: Q2966075
 ipni_surname: Colomb
@@ -25,7 +25,8 @@ ipni_record_modified: 2014-06-28 01:58:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33265957) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1748-1), [Wikidata](https://www.wikidata.org/wiki/Q2966075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1748-1) LSID 1748-1, [Wikidata](https://www.wikidata.org/wiki/Q2966075) QID Q2966075
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

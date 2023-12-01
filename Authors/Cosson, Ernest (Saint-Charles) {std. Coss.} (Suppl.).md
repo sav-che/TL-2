@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0314
 tl2_volume: suppl4
 tl2_page_printed: 387
 tl2_surname: Cosson
-tl2_forenames: Ernest [Saint-Charles]
+tl2_forenames: Ernest (Saint-Charles)
 tl2_name_abbrev: Coss.
 tl2_dates: 1819-1889
-tl2_page_id: 33266064
+tl2_bhl_page_id: 33266064
 author_lsid: 17452-1
 wikidata_id: Q1276939
 ipni_surname: Cosson
@@ -28,7 +28,8 @@ ipni_record_modified: 2007-02-23 07:31:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17452-1), [Wikidata](https://www.wikidata.org/wiki/Q1276939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17452-1) LSID 17452-1, [Wikidata](https://www.wikidata.org/wiki/Q1276939) QID Q1276939
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cosson, Ernest Saint-Charles {std. Coss.}|first entry]] for this author
 

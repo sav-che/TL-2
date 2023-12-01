@@ -6,7 +6,7 @@ tl2_surname: McVaugh
 tl2_forenames: Rogers
 tl2_name_abbrev: Mc Vaugh
 tl2_dates: 1909-x
-tl2_page_id: 33355323
+tl2_bhl_page_id: 33355323
 author_lsid: 5961-1
 wikidata_id: Q2063048
 ipni_surname: McVaugh
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33355323) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5961-1), [Wikidata](https://www.wikidata.org/wiki/Q2063048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5961-1) LSID 5961-1, [Wikidata](https://www.wikidata.org/wiki/Q2063048) QID Q2063048
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

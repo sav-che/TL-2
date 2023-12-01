@@ -6,7 +6,7 @@ tl2_surname: Faber
 tl2_forenames: Albrecht
 tl2_name_abbrev: A. Faber
 tl2_dates: 1903-1986
-tl2_page_id: 33259505
+tl2_bhl_page_id: 33259505
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259505) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

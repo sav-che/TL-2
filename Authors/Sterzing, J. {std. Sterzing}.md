@@ -6,7 +6,7 @@ tl2_surname: Sterzing
 tl2_forenames: J.
 tl2_name_abbrev: Sterzing
 tl2_dates: fl. 1860
-tl2_page_id: 33334046
+tl2_bhl_page_id: 33334046
 author_lsid: 10121-1
 wikidata_id: Q36599663
 ipni_surname: Sterzing
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10121-1), [Wikidata](https://www.wikidata.org/wiki/Q36599663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10121-1) LSID 10121-1, [Wikidata](https://www.wikidata.org/wiki/Q36599663) QID Q36599663
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

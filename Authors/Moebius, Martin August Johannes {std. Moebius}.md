@@ -6,7 +6,7 @@ tl2_surname: Moebius
 tl2_forenames: Martin August Johannes
 tl2_name_abbrev: Moebius
 tl2_dates: 1859-1946
-tl2_page_id: 33355618
+tl2_bhl_page_id: 33355618
 author_lsid: 6542-1
 wikidata_id: Q6000689
 ipni_surname: Moebius
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6542-1), [Wikidata](https://www.wikidata.org/wiki/Q6000689). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6542-1) LSID 6542-1, [Wikidata](https://www.wikidata.org/wiki/Q6000689) QID Q6000689
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

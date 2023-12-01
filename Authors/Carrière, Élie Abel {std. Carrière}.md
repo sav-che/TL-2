@@ -6,7 +6,7 @@ tl2_surname: Carrière
 tl2_forenames: Élie Abel
 tl2_name_abbrev: Carrière
 tl2_dates: 1818-1896
-tl2_page_id: 33120590
+tl2_bhl_page_id: 33120590
 author_lsid: 1419-1
 wikidata_id: Q274614
 ipni_surname: Carrière
@@ -25,7 +25,8 @@ ipni_record_modified: 2011-08-03 07:42:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1419-1), [Wikidata](https://www.wikidata.org/wiki/Q274614). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1419-1) LSID 1419-1, [Wikidata](https://www.wikidata.org/wiki/Q274614) QID Q274614
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Carrière, Élie-Abel {std. Carrière} (Suppl.)|second entry]] for this author
 

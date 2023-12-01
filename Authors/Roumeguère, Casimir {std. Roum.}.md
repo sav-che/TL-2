@@ -6,7 +6,7 @@ tl2_surname: Roumeguère
 tl2_forenames: Casimir
 tl2_name_abbrev: Roum.
 tl2_dates: 1828-1892
-tl2_page_id: 33190405
+tl2_bhl_page_id: 33190405
 author_lsid: 25827-1
 wikidata_id: Q5756196
 ipni_surname: Roumeguère
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/page/33190405) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25827-1), [Wikidata](https://www.wikidata.org/wiki/Q5756196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25827-1) LSID 25827-1, [Wikidata](https://www.wikidata.org/wiki/Q5756196) QID Q5756196
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

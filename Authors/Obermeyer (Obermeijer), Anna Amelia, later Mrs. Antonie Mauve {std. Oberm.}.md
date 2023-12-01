@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0946
 tl2_volume: vol3
 tl2_page_printed: 800
-tl2_surname: Obermeyer [Obermeijer]
+tl2_surname: Obermeyer (Obermeijer)
 tl2_forenames: Anna Amelia, later Mrs. Antonie Mauve
 tl2_name_abbrev: Oberm.
 tl2_dates: 1907-x
-tl2_page_id: 33355887
+tl2_bhl_page_id: 33355887
 author_lsid: 12712-1
 wikidata_id: Q4766821
 ipni_surname: Obermeyer
@@ -25,7 +25,8 @@ ipni_record_modified: 2005-01-26 05:58:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33355887) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12712-1), [Wikidata](https://www.wikidata.org/wiki/Q4766821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12712-1) LSID 12712-1, [Wikidata](https://www.wikidata.org/wiki/Q4766821) QID Q4766821
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

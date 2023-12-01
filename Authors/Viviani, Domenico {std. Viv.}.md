@@ -6,7 +6,7 @@ tl2_surname: Viviani
 tl2_forenames: Domenico
 tl2_name_abbrev: Viv.
 tl2_dates: 1772-1840
-tl2_page_id: 33212803
+tl2_bhl_page_id: 33212803
 author_lsid: 28409-1
 wikidata_id: Q2657319
 ipni_surname: Viviani
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:44:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33212803) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/28409-1), [Wikidata](https://www.wikidata.org/wiki/Q2657319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28409-1) LSID 28409-1, [Wikidata](https://www.wikidata.org/wiki/Q2657319) QID Q2657319
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

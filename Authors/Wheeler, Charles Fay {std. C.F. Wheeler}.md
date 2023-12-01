@@ -6,7 +6,7 @@ tl2_surname: Wheeler
 tl2_forenames: Charles Fay
 tl2_name_abbrev: C.F. Wheeler
 tl2_dates: 1842-1910
-tl2_page_id: 33066578
+tl2_bhl_page_id: 33066578
 author_lsid: 11602-1
 wikidata_id: Q21612564
 ipni_surname: Wheeler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33066578) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11602-1), [Wikidata](https://www.wikidata.org/wiki/Q21612564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11602-1) LSID 11602-1, [Wikidata](https://www.wikidata.org/wiki/Q21612564) QID Q21612564
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

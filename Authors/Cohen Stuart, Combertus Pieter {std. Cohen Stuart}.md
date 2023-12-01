@@ -6,7 +6,7 @@ tl2_surname: Cohen Stuart
 tl2_forenames: Combertus Pieter
 tl2_name_abbrev: Cohen Stuart
 tl2_dates: 1889-1945
-tl2_page_id: 33265931
+tl2_bhl_page_id: 33265931
 author_lsid: 1723-1
 wikidata_id: Q5778844
 ipni_surname: Cohen-Stuart
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1723-1), [Wikidata](https://www.wikidata.org/wiki/Q5778844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1723-1) LSID 1723-1, [Wikidata](https://www.wikidata.org/wiki/Q5778844) QID Q5778844
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

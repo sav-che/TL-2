@@ -6,7 +6,7 @@ tl2_surname: Morris
 tl2_forenames: George Edward
 tl2_name_abbrev: G. Morris
 tl2_dates: 1853-1916
-tl2_page_id: 33355682
+tl2_bhl_page_id: 33355682
 author_lsid: 6674-1
 wikidata_id: Q21521756
 ipni_surname: Morris
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33355682) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6674-1), [Wikidata](https://www.wikidata.org/wiki/Q21521756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6674-1) LSID 6674-1, [Wikidata](https://www.wikidata.org/wiki/Q21521756) QID Q21521756
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

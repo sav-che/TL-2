@@ -6,7 +6,7 @@ tl2_surname: Pearson
 tl2_forenames: Arthur Anselm
 tl2_name_abbrev: A. Pearson
 tl2_dates: 1874-1954
-tl2_page_id: 33189601
+tl2_bhl_page_id: 33189601
 author_lsid: 24671-1
 wikidata_id: Q4647487
 ipni_surname: Pearson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33189601) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24671-1), [Wikidata](https://www.wikidata.org/wiki/Q4647487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24671-1) LSID 24671-1, [Wikidata](https://www.wikidata.org/wiki/Q4647487) QID Q4647487
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

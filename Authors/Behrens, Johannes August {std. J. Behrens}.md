@@ -6,7 +6,7 @@ tl2_surname: Behrens
 tl2_forenames: Johannes August
 tl2_name_abbrev: J. Behrens
 tl2_dates: 1864-1940
-tl2_page_id: 33265249
+tl2_bhl_page_id: 33265249
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33265249) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

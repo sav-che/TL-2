@@ -6,7 +6,7 @@ tl2_surname: Friderichsen
 tl2_forenames: Peter Kristian Nicolaj
 tl2_name_abbrev: Friderichsen
 tl2_dates: 1853-1932
-tl2_page_id: 33121009
+tl2_bhl_page_id: 33121009
 author_lsid: 2908-1
 wikidata_id: Q4993042
 ipni_surname: Friderichsen
@@ -24,7 +24,8 @@ ipni_record_modified: 2009-04-06 08:54:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2908-1), [Wikidata](https://www.wikidata.org/wiki/Q4993042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2908-1) LSID 2908-1, [Wikidata](https://www.wikidata.org/wiki/Q4993042) QID Q4993042
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Friderichsen, (Peter) Kristian (Nikolaj) {std. Frid.} (Suppl.)|second entry]] for this author
 

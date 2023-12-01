@@ -6,7 +6,7 @@ tl2_surname: Heldreich
 tl2_forenames: Theodor von
 tl2_name_abbrev: Heldr.
 tl2_dates: 1822-1902
-tl2_page_id: 33068384
+tl2_bhl_page_id: 33068384
 author_lsid: 3803-1
 wikidata_id: Q39008
 ipni_surname: Heldreich
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:43:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3803-1), [Wikidata](https://www.wikidata.org/wiki/Q39008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3803-1) LSID 3803-1, [Wikidata](https://www.wikidata.org/wiki/Q39008) QID Q39008
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

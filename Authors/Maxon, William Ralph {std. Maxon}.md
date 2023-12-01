@@ -6,7 +6,7 @@ tl2_surname: Maxon
 tl2_forenames: William Ralph
 tl2_name_abbrev: Maxon
 tl2_dates: 1877-1948
-tl2_page_id: 33355472
+tl2_bhl_page_id: 33355472
 author_lsid: 6268-1
 wikidata_id: Q8017342
 ipni_surname: Maxon
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33355472) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6268-1), [Wikidata](https://www.wikidata.org/wiki/Q8017342). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6268-1) LSID 6268-1, [Wikidata](https://www.wikidata.org/wiki/Q8017342) QID Q8017342
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Gregory
 tl2_forenames: Eliza Standerwick (née Barnes)
 tl2_name_abbrev: E.S. Gregory
 tl2_dates: 1840-1932
-tl2_page_id: 33258848
+tl2_bhl_page_id: 33258848
 author_lsid: 12518-1
 wikidata_id: Q15807852
 ipni_surname: Gregory
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33258848) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/12518-1), [Wikidata](https://www.wikidata.org/wiki/Q15807852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12518-1) LSID 12518-1, [Wikidata](https://www.wikidata.org/wiki/Q15807852) QID Q15807852
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

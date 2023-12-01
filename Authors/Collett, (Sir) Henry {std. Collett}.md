@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0659
 tl2_volume: vol1
 tl2_page_printed: 526
 tl2_surname: Collett
-tl2_forenames: [Sir] Henry
+tl2_forenames: (Sir) Henry
 tl2_name_abbrev: Collett
 tl2_dates: 1836-1901
-tl2_page_id: 33120657
+tl2_bhl_page_id: 33120657
 author_lsid: 1740-1
 wikidata_id: Q5719708
 ipni_surname: Collett
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33120657) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1740-1), [Wikidata](https://www.wikidata.org/wiki/Q5719708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1740-1) LSID 1740-1, [Wikidata](https://www.wikidata.org/wiki/Q5719708) QID Q5719708
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Collett, Henry {std. Collett} (Suppl.)|second entry]] for this author
 

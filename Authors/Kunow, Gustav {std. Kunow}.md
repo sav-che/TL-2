@@ -6,7 +6,7 @@ tl2_surname: Kunow
 tl2_forenames: Gustav
 tl2_name_abbrev: Kunow
 tl2_dates: 1874-1912
-tl2_page_id: 33068934
+tl2_bhl_page_id: 33068934
 author_lsid: 5138-1
 wikidata_id: Q21518183
 ipni_surname: Kunow
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33068934) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5138-1), [Wikidata](https://www.wikidata.org/wiki/Q21518183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5138-1) LSID 5138-1, [Wikidata](https://www.wikidata.org/wiki/Q21518183) QID Q21518183
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

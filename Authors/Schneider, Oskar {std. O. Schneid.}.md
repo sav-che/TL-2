@@ -6,7 +6,7 @@ tl2_surname: Schneider
 tl2_forenames: Oskar
 tl2_name_abbrev: O. Schneid.
 tl2_dates: 1841-1903
-tl2_page_id: 33333416
+tl2_bhl_page_id: 33333416
 author_lsid: 9197-1
 wikidata_id: Q21608223
 ipni_surname: Schneider
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33333416) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9197-1), [Wikidata](https://www.wikidata.org/wiki/Q21608223). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9197-1) LSID 9197-1, [Wikidata](https://www.wikidata.org/wiki/Q21608223) QID Q21608223
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Chevallier
 tl2_forenames: Louis Pierre Désiré
 tl2_name_abbrev: L. Chevall.
 tl2_dates: 1852-1938
-tl2_page_id: 33265775
+tl2_bhl_page_id: 33265775
 author_lsid: 1587-1
 wikidata_id: Q16593613
 ipni_surname: Chevallier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33265775) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1587-1), [Wikidata](https://www.wikidata.org/wiki/Q16593613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1587-1) LSID 1587-1, [Wikidata](https://www.wikidata.org/wiki/Q16593613) QID Q16593613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

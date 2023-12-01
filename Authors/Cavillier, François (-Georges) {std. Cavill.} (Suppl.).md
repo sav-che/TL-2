@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0437
 tl2_volume: suppl3
 tl2_page_printed: 476
 tl2_surname: Cavillier
-tl2_forenames: François [-Georges]
+tl2_forenames: François (-Georges)
 tl2_name_abbrev: Cavill.
 tl2_dates: 1868-1953
-tl2_page_id: 33266783
+tl2_bhl_page_id: 33266783
 author_lsid: 1468-1
 wikidata_id: Q5548443
 ipni_surname: Cavillier
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266783) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1468-1), [Wikidata](https://www.wikidata.org/wiki/Q5548443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1468-1) LSID 1468-1, [Wikidata](https://www.wikidata.org/wiki/Q5548443) QID Q5548443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cavillier, François Georges {std. Cavill.}|first entry]] for this author
 

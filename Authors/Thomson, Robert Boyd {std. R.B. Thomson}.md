@@ -6,7 +6,7 @@ tl2_surname: Thomson
 tl2_forenames: Robert Boyd
 tl2_name_abbrev: R.B. Thomson
 tl2_dates: 1870-1947
-tl2_page_id: 33212328
+tl2_bhl_page_id: 33212328
 author_lsid: 10619-1
 wikidata_id: Q21610681
 ipni_surname: Thomson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10619-1), [Wikidata](https://www.wikidata.org/wiki/Q21610681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10619-1) LSID 10619-1, [Wikidata](https://www.wikidata.org/wiki/Q21610681) QID Q21610681
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

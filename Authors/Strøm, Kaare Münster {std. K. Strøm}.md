@@ -6,7 +6,7 @@ tl2_surname: Strøm
 tl2_forenames: Kaare Münster
 tl2_name_abbrev: K. Strøm
 tl2_dates: 1902-x
-tl2_page_id: 33212053
+tl2_bhl_page_id: 33212053
 author_lsid: 10222-1
 wikidata_id: Q6343507
 ipni_surname: Strøm
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-11-06 10:00:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33212053) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10222-1), [Wikidata](https://www.wikidata.org/wiki/Q6343507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10222-1) LSID 10222-1, [Wikidata](https://www.wikidata.org/wiki/Q6343507) QID Q6343507
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

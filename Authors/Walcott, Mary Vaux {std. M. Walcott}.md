@@ -6,7 +6,7 @@ tl2_surname: Walcott
 tl2_forenames: Mary Vaux
 tl2_name_abbrev: M. Walcott
 tl2_dates: 1860-1940
-tl2_page_id: 33066368
+tl2_bhl_page_id: 33066368
 author_lsid: 11328-1
 wikidata_id: Q6780882
 ipni_surname: Walcott
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33066368) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11328-1), [Wikidata](https://www.wikidata.org/wiki/Q6780882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11328-1) LSID 11328-1, [Wikidata](https://www.wikidata.org/wiki/Q6780882) QID Q6780882
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

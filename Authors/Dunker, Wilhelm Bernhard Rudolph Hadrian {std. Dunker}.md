@@ -6,7 +6,7 @@ tl2_surname: Dunker
 tl2_forenames: Wilhelm Bernhard Rudolph Hadrian
 tl2_name_abbrev: Dunker
 tl2_dates: 1809-1885
-tl2_page_id: 33120833
+tl2_bhl_page_id: 33120833
 author_lsid: 2379-1
 wikidata_id: Q76155
 ipni_surname: Dunker
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2379-1), [Wikidata](https://www.wikidata.org/wiki/Q76155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2379-1) LSID 2379-1, [Wikidata](https://www.wikidata.org/wiki/Q76155) QID Q76155
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

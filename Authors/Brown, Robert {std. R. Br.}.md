@@ -6,7 +6,7 @@ tl2_surname: Brown
 tl2_forenames: Robert
 tl2_name_abbrev: R. Br.
 tl2_dates: 1773-1858
-tl2_page_id: 33120495
+tl2_bhl_page_id: 33120495
 author_lsid: 1192-1
 wikidata_id: Q155764
 ipni_surname: Brown
@@ -28,7 +28,8 @@ ipni_record_modified: 2017-01-31 17:05:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33120495) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1192-1), [Wikidata](https://www.wikidata.org/wiki/Q155764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1192-1) LSID 1192-1, [Wikidata](https://www.wikidata.org/wiki/Q155764) QID Q155764
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brown, Robert {std. R. Br.} (Suppl.)|second entry]] for this author
 

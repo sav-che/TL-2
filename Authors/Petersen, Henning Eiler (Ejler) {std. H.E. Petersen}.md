@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0217
 tl2_volume: vol4
 tl2_page_printed: 196
 tl2_surname: Petersen
-tl2_forenames: Henning Eiler [Ejler]
+tl2_forenames: Henning Eiler (Ejler)
 tl2_name_abbrev: H.E. Petersen
 tl2_dates: 1877-1946
-tl2_page_id: 33189667
+tl2_bhl_page_id: 33189667
 author_lsid: 24768-1
 wikidata_id: Q5714983
 ipni_surname: Petersen
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33189667) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24768-1), [Wikidata](https://www.wikidata.org/wiki/Q5714983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24768-1) LSID 24768-1, [Wikidata](https://www.wikidata.org/wiki/Q5714983) QID Q5714983
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

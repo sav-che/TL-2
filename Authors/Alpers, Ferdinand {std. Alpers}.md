@@ -6,7 +6,7 @@ tl2_surname: Alpers
 tl2_forenames: Ferdinand
 tl2_name_abbrev: Alpers
 tl2_dates: 1841-1912
-tl2_page_id: 33264813
+tl2_bhl_page_id: 33264813
 author_lsid: 167-1
 wikidata_id: Q18624074
 ipni_surname: Alpers
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33264813) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/167-1), [Wikidata](https://www.wikidata.org/wiki/Q18624074). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/167-1) LSID 167-1, [Wikidata](https://www.wikidata.org/wiki/Q18624074) QID Q18624074
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

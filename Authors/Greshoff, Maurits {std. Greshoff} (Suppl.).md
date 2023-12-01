@@ -6,7 +6,7 @@ tl2_surname: Greshoff
 tl2_forenames: Maurits
 tl2_name_abbrev: Greshoff
 tl2_dates: 1862-1909
-tl2_page_id: 33258852
+tl2_bhl_page_id: 33258852
 author_lsid: 3377-1
 wikidata_id: Q2299629
 ipni_surname: Greshoff
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3377-1), [Wikidata](https://www.wikidata.org/wiki/Q2299629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3377-1) LSID 3377-1, [Wikidata](https://www.wikidata.org/wiki/Q2299629) QID Q2299629
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Greshoff, Maurits {std. Greshoff}|first entry]] for this author
 

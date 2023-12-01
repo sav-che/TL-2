@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0294
 tl2_volume: vol3
 tl2_page_printed: 270
 tl2_surname: Maly
-tl2_forenames: Joseph Karl [Carl]
+tl2_forenames: Joseph Karl (Carl)
 tl2_name_abbrev: Maly
 tl2_dates: 1797-1866
-tl2_page_id: 33355357
+tl2_bhl_page_id: 33355357
 author_lsid: 6044-1
 wikidata_id: Q5937032
 ipni_surname: Maly
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6044-1), [Wikidata](https://www.wikidata.org/wiki/Q5937032). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6044-1) LSID 6044-1, [Wikidata](https://www.wikidata.org/wiki/Q5937032) QID Q5937032
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

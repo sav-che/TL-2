@@ -6,7 +6,7 @@ tl2_surname: Hein
 tl2_forenames: Theodor
 tl2_name_abbrev: T. Hein
 tl2_dates: fl. 1874
-tl2_page_id: 33068381
+tl2_bhl_page_id: 33068381
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Raatz
 tl2_forenames: Georg Victor
 tl2_name_abbrev: Raatz
 tl2_dates: fl. 1937
-tl2_page_id: 33189931
+tl2_bhl_page_id: 33189931
 author_lsid: 8065-1
 wikidata_id: Q36566893
 ipni_surname: Raatz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8065-1), [Wikidata](https://www.wikidata.org/wiki/Q36566893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8065-1) LSID 8065-1, [Wikidata](https://www.wikidata.org/wiki/Q36566893) QID Q36566893
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

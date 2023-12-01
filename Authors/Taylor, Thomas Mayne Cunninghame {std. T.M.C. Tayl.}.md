@@ -6,7 +6,7 @@ tl2_surname: Taylor
 tl2_forenames: Thomas Mayne Cunninghame
 tl2_name_abbrev: T.M.C. Tayl.
 tl2_dates: 1904-1983
-tl2_page_id: 33212234
+tl2_bhl_page_id: 33212234
 author_lsid: 10475-1
 wikidata_id: Q21610330
 ipni_surname: Taylor
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33212234) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10475-1), [Wikidata](https://www.wikidata.org/wiki/Q21610330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10475-1) LSID 10475-1, [Wikidata](https://www.wikidata.org/wiki/Q21610330) QID Q21610330
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

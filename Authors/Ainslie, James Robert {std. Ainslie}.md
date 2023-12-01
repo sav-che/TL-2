@@ -6,7 +6,7 @@ tl2_surname: Ainslie
 tl2_forenames: James Robert
 tl2_name_abbrev: Ainslie
 tl2_dates: 1889-x
-tl2_page_id: 33264742
+tl2_bhl_page_id: 33264742
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33264742) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

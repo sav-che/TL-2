@@ -6,7 +6,7 @@ tl2_surname: Buch
 tl2_forenames: Christian Leopold von, Freiherr von Gelmersdorf etc.
 tl2_name_abbrev: L. v. Buch
 tl2_dates: 1774-1853
-tl2_page_id: 33120518
+tl2_bhl_page_id: 33120518
 author_lsid: 1239-1
 wikidata_id: Q55021352
 ipni_surname: Buch
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33120518) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1240-1), [Wikidata](https://www.wikidata.org/wiki/Q194214). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1240-1) LSID 1240-1, [Wikidata](https://www.wikidata.org/wiki/Q194214) QID Q194214
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Buch, Christian Leopold von {std. Buch} (Suppl.)|second entry]] for this author
 

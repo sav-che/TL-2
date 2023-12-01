@@ -6,7 +6,7 @@ tl2_surname: Lester-Garland
 tl2_forenames: Lester Vallis (né Lester)
 tl2_name_abbrev: Lest.-Garl.
 tl2_dates: 1860-1944
-tl2_page_id: 33069096
+tl2_bhl_page_id: 33069096
 author_lsid: 5511-1
 wikidata_id: Q9021895
 ipni_surname: Lester-Garland
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5511-1), [Wikidata](https://www.wikidata.org/wiki/Q9021895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5511-1) LSID 5511-1, [Wikidata](https://www.wikidata.org/wiki/Q9021895) QID Q9021895
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

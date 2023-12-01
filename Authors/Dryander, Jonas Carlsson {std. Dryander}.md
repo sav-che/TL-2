@@ -6,7 +6,7 @@ tl2_surname: Dryander
 tl2_forenames: Jonas Carlsson
 tl2_name_abbrev: Dryander
 tl2_dates: 1748-1810
-tl2_page_id: 33120817
+tl2_bhl_page_id: 33120817
 author_lsid: 2332-1
 wikidata_id: Q2500507
 ipni_surname: Dryander
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33120817) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2332-1), [Wikidata](https://www.wikidata.org/wiki/Q2500507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2332-1) LSID 2332-1, [Wikidata](https://www.wikidata.org/wiki/Q2500507) QID Q2500507
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_1107
 tl2_volume: vol1
 tl2_page_printed: 891
 tl2_surname: Fristedt
-tl2_forenames: Robert Fredric [Fredrik]
+tl2_forenames: Robert Fredric (Fredrik)
 tl2_name_abbrev: Fristedt
 tl2_dates: 1832-1893
-tl2_page_id: 33121022
+tl2_bhl_page_id: 33121022
 author_lsid: 2922-1
 wikidata_id: Q5745158
 ipni_surname: Fristedt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/page/33121022) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2922-1), [Wikidata](https://www.wikidata.org/wiki/Q5745158). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2922-1) LSID 2922-1, [Wikidata](https://www.wikidata.org/wiki/Q5745158) QID Q5745158
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fristedt, Robert Fredric (Frederic, Fredrik) {std. Fristedt} (Suppl.)|second entry]] for this author
 

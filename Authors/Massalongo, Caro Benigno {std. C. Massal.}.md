@@ -6,7 +6,7 @@ tl2_surname: Massalongo
 tl2_forenames: Caro Benigno
 tl2_name_abbrev: C. Massal.
 tl2_dates: 1852-1928
-tl2_page_id: 33355442
+tl2_bhl_page_id: 33355442
 author_lsid: 6198-1
 wikidata_id: Q16030399
 ipni_surname: Massalongo
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33355442) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6198-1), [Wikidata](https://www.wikidata.org/wiki/Q16030399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6198-1) LSID 6198-1, [Wikidata](https://www.wikidata.org/wiki/Q16030399) QID Q16030399
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

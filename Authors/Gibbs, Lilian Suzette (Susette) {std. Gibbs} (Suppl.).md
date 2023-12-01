@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0158
 tl2_volume: suppl8
 tl2_page_printed: 198
 tl2_surname: Gibbs
-tl2_forenames: Lilian Suzette [Susette]
+tl2_forenames: Lilian Suzette (Susette)
 tl2_name_abbrev: Gibbs
 tl2_dates: 1870-1925
-tl2_page_id: 33258676
+tl2_bhl_page_id: 33258676
 author_lsid: 3128-1
 wikidata_id: Q1153115
 ipni_surname: Gibbs
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33258676) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3128-1), [Wikidata](https://www.wikidata.org/wiki/Q1153115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3128-1) LSID 3128-1, [Wikidata](https://www.wikidata.org/wiki/Q1153115) QID Q1153115
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gibbs, Lilian Suzette {std. Gibbs}|first entry]] for this author
 

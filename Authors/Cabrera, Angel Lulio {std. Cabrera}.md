@@ -6,7 +6,7 @@ tl2_surname: Cabrera
 tl2_forenames: Angel Lulio
 tl2_name_abbrev: Cabrera
 tl2_dates: 1908-x
-tl2_page_id: 33266599
+tl2_bhl_page_id: 33266599
 author_lsid: 1343-1
 wikidata_id: Q1999131
 ipni_surname: Cabrera
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1343-1), [Wikidata](https://www.wikidata.org/wiki/Q1999131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1343-1) LSID 1343-1, [Wikidata](https://www.wikidata.org/wiki/Q1999131) QID Q1999131
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

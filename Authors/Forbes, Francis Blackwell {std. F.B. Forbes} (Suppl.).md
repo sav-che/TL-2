@@ -6,7 +6,7 @@ tl2_surname: Forbes
 tl2_forenames: Francis Blackwell
 tl2_name_abbrev: F.B. Forbes
 tl2_dates: 1839-1908
-tl2_page_id: 33259816
+tl2_bhl_page_id: 33259816
 author_lsid: 2814-1
 wikidata_id: Q4491809
 ipni_surname: Forbes
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33259816) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2814-1), [Wikidata](https://www.wikidata.org/wiki/Q4491809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2814-1) LSID 2814-1, [Wikidata](https://www.wikidata.org/wiki/Q4491809) QID Q4491809
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Forbes, Francis Blackwell {std. F.B. Forbes}|first entry]] for this author
 

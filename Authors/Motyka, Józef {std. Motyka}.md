@@ -6,7 +6,7 @@ tl2_surname: Motyka
 tl2_forenames: Józef
 tl2_name_abbrev: Motyka
 tl2_dates: 1900-x
-tl2_page_id: 33355692
+tl2_bhl_page_id: 33355692
 author_lsid: 23680-1
 wikidata_id: Q17199091
 ipni_surname: Motyka
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33355692) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23680-1), [Wikidata](https://www.wikidata.org/wiki/Q17199091). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23680-1) LSID 23680-1, [Wikidata](https://www.wikidata.org/wiki/Q17199091) QID Q17199091
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

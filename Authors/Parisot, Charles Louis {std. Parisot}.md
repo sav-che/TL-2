@@ -6,7 +6,7 @@ tl2_surname: Parisot
 tl2_forenames: Charles Louis
 tl2_name_abbrev: Parisot
 tl2_dates: 1820-1890
-tl2_page_id: 33189531
+tl2_bhl_page_id: 33189531
 author_lsid: 7338-1
 wikidata_id: Q2423964
 ipni_surname: Parisot
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33189531) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7338-1), [Wikidata](https://www.wikidata.org/wiki/Q2423964). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7338-1) LSID 7338-1, [Wikidata](https://www.wikidata.org/wiki/Q2423964) QID Q2423964
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

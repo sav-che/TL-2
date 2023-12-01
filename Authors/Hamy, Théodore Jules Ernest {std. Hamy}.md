@@ -6,7 +6,7 @@ tl2_surname: Hamy
 tl2_forenames: Théodore Jules Ernest
 tl2_name_abbrev: Hamy
 tl2_dates: 1842-1908
-tl2_page_id: 33068281
+tl2_bhl_page_id: 33068281
 author_lsid: 3605-1
 wikidata_id: Q1356363
 ipni_surname: Hamy
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33068281) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3605-1), [Wikidata](https://www.wikidata.org/wiki/Q1356363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3605-1) LSID 3605-1, [Wikidata](https://www.wikidata.org/wiki/Q1356363) QID Q1356363
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

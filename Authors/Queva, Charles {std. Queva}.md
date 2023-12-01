@@ -6,7 +6,7 @@ tl2_surname: Queva
 tl2_forenames: Charles
 tl2_name_abbrev: Queva
 tl2_dates: fl. 1894
-tl2_page_id: 33189928
+tl2_bhl_page_id: 33189928
 author_lsid: 8054-1
 wikidata_id: Q36529648
 ipni_surname: Queva
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8054-1), [Wikidata](https://www.wikidata.org/wiki/Q36529648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8054-1) LSID 8054-1, [Wikidata](https://www.wikidata.org/wiki/Q36529648) QID Q36529648
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

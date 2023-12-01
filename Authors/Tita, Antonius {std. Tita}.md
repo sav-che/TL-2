@@ -6,7 +6,7 @@ tl2_surname: Tita
 tl2_forenames: Antonius
 tl2_name_abbrev: Tita
 tl2_dates: x-1729
-tl2_page_id: 33212411
+tl2_bhl_page_id: 33212411
 author_lsid: 10692-1
 wikidata_id: Q21610779
 ipni_surname: Tita
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10692-1), [Wikidata](https://www.wikidata.org/wiki/Q21610779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10692-1) LSID 10692-1, [Wikidata](https://www.wikidata.org/wiki/Q21610779) QID Q21610779
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

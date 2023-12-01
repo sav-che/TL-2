@@ -6,7 +6,7 @@ tl2_surname: Lindberg
 tl2_forenames: Sextus Otto
 tl2_name_abbrev: Lindb.
 tl2_dates: 1835-1889
-tl2_page_id: 33355080
+tl2_bhl_page_id: 33355080
 author_lsid: 22368-1
 wikidata_id: Q3302587
 ipni_surname: Lindberg
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:42:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33355080) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22368-1), [Wikidata](https://www.wikidata.org/wiki/Q3302587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22368-1) LSID 22368-1, [Wikidata](https://www.wikidata.org/wiki/Q3302587) QID Q3302587
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Heynhold
 tl2_forenames: Gustav (orig. Heinhold)
 tl2_name_abbrev: Heynh.
 tl2_dates: 1800-ca. 1860
-tl2_page_id: 33068431
+tl2_bhl_page_id: 33068431
 author_lsid: 3926-1
 wikidata_id: Q3081109
 ipni_surname: Heynhold
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33068431) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3926-1), [Wikidata](https://www.wikidata.org/wiki/Q3081109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3926-1) LSID 3926-1, [Wikidata](https://www.wikidata.org/wiki/Q3081109) QID Q3081109
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

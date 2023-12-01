@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0200
 tl2_volume: suppl7
 tl2_page_printed: 298
 tl2_surname: Fontana
-tl2_forenames: Felice [Félix]
+tl2_forenames: Felice (Félix)
 tl2_name_abbrev: Fontana
 tl2_dates: 1730-1805
-tl2_page_id: 33259802
+tl2_bhl_page_id: 33259802
 author_lsid: 13648-1
 wikidata_id: Q55033821
 ipni_surname: Fontana
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33259802) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/13648-1), [Wikidata](https://www.wikidata.org/wiki/Q55033821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13648-1) LSID 13648-1, [Wikidata](https://www.wikidata.org/wiki/Q55033821) QID Q55033821
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

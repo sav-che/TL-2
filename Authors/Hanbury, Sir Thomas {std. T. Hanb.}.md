@@ -6,7 +6,7 @@ tl2_surname: Hanbury
 tl2_forenames: Sir Thomas
 tl2_name_abbrev: T. Hanb.
 tl2_dates: 1832-1907
-tl2_page_id: 33068283
+tl2_bhl_page_id: 33068283
 author_lsid: 12529-1
 wikidata_id: Q169306
 ipni_surname: Hanbury
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33068283) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12529-1), [Wikidata](https://www.wikidata.org/wiki/Q169306). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12529-1) LSID 12529-1, [Wikidata](https://www.wikidata.org/wiki/Q169306) QID Q169306
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Rothschild
 tl2_forenames: Jules
 tl2_name_abbrev: Rothschild
 tl2_dates: 1838-?
-tl2_page_id: 33190401
+tl2_bhl_page_id: 33190401
 author_lsid: 8651-1
 wikidata_id: Q5954623
 ipni_surname: Rothschild
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8651-1), [Wikidata](https://www.wikidata.org/wiki/Q5954623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8651-1) LSID 8651-1, [Wikidata](https://www.wikidata.org/wiki/Q5954623) QID Q5954623
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

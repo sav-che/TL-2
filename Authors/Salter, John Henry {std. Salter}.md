@@ -6,7 +6,7 @@ tl2_surname: Salter
 tl2_forenames: John Henry
 tl2_name_abbrev: Salter
 tl2_dates: 1862-1942
-tl2_page_id: 33333169
+tl2_bhl_page_id: 33333169
 author_lsid: 8854-1
 wikidata_id: Q18810926
 ipni_surname: Salter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33333169) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8854-1), [Wikidata](https://www.wikidata.org/wiki/Q18810926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8854-1) LSID 8854-1, [Wikidata](https://www.wikidata.org/wiki/Q18810926) QID Q18810926
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

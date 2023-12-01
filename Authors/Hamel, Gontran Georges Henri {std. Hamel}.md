@@ -6,7 +6,7 @@ tl2_surname: Hamel
 tl2_forenames: Gontran Georges Henri
 tl2_name_abbrev: Hamel
 tl2_dates: 1883-1944
-tl2_page_id: 33068276
+tl2_bhl_page_id: 33068276
 author_lsid: 3594-1
 wikidata_id: Q5582115
 ipni_surname: Hamel
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3594-1), [Wikidata](https://www.wikidata.org/wiki/Q5582115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3594-1) LSID 3594-1, [Wikidata](https://www.wikidata.org/wiki/Q5582115) QID Q5582115
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

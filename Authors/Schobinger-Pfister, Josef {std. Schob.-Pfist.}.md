@@ -6,7 +6,7 @@ tl2_surname: Schobinger-Pfister
 tl2_forenames: Josef
 tl2_name_abbrev: Schob.-Pfist.
 tl2_dates: 1810-1874
-tl2_page_id: 33333424
+tl2_bhl_page_id: 33333424
 author_lsid: 9208-1
 wikidata_id: Q21608234
 ipni_surname: Schobinger-Pfister
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9208-1), [Wikidata](https://www.wikidata.org/wiki/Q21608234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9208-1) LSID 9208-1, [Wikidata](https://www.wikidata.org/wiki/Q21608234) QID Q21608234
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

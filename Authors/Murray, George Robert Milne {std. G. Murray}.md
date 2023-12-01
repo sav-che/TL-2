@@ -6,7 +6,7 @@ tl2_surname: Murray
 tl2_forenames: George Robert Milne
 tl2_name_abbrev: G. Murray
 tl2_dates: 1858-1911
-tl2_page_id: 33355755
+tl2_bhl_page_id: 33355755
 author_lsid: 6808-1
 wikidata_id: Q2003863
 ipni_surname: Murray
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33355755) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6808-1), [Wikidata](https://www.wikidata.org/wiki/Q2003863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6808-1) LSID 6808-1, [Wikidata](https://www.wikidata.org/wiki/Q2003863) QID Q2003863
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

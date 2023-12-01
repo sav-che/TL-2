@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0592
 tl2_volume: vol6
 tl2_page_printed: 585
 tl2_surname: Ulvinen
-tl2_forenames: [Eero] Arvi
+tl2_forenames: (Eero) Arvi
 tl2_name_abbrev: Ulvinen
 tl2_dates: 1897-x
-tl2_page_id: 33212627
+tl2_bhl_page_id: 33212627
 author_lsid: 12955-1
 wikidata_id: Q21611242
 ipni_surname: Ulvinen
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33212627) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12955-1), [Wikidata](https://www.wikidata.org/wiki/Q21611242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12955-1) LSID 12955-1, [Wikidata](https://www.wikidata.org/wiki/Q21611242) QID Q21611242
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

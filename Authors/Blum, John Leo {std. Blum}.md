@@ -6,7 +6,7 @@ tl2_surname: Blum
 tl2_forenames: John Leo
 tl2_name_abbrev: Blum
 tl2_dates: 1917-x
-tl2_page_id: 33120365
+tl2_bhl_page_id: 33120365
 author_lsid: 871-1
 wikidata_id: Q21506215
 ipni_surname: Blum
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33120365) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/871-1), [Wikidata](https://www.wikidata.org/wiki/Q21506215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/871-1) LSID 871-1, [Wikidata](https://www.wikidata.org/wiki/Q21506215) QID Q21506215
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

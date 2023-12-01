@@ -6,7 +6,7 @@ tl2_surname: Olney
 tl2_forenames: Stephen Thayer
 tl2_name_abbrev: Olney
 tl2_dates: 1812-1878
-tl2_page_id: 33355921
+tl2_bhl_page_id: 33355921
 author_lsid: 7137-1
 wikidata_id: Q4333951
 ipni_surname: Olney
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33355921) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7137-1), [Wikidata](https://www.wikidata.org/wiki/Q4333951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7137-1) LSID 7137-1, [Wikidata](https://www.wikidata.org/wiki/Q4333951) QID Q4333951
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

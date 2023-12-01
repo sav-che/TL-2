@@ -6,7 +6,7 @@ tl2_surname: Porter
 tl2_forenames: Carlos Emilio
 tl2_name_abbrev: C.E. Porter
 tl2_dates: 1868-1942
-tl2_page_id: 33189816
+tl2_bhl_page_id: 33189816
 author_lsid: 7862-1
 wikidata_id: Q21030376
 ipni_surname: Porter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33189816) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7862-1), [Wikidata](https://www.wikidata.org/wiki/Q21030376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7862-1) LSID 7862-1, [Wikidata](https://www.wikidata.org/wiki/Q21030376) QID Q21030376
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

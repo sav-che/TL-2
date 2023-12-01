@@ -6,7 +6,7 @@ tl2_surname: Størmer
 tl2_forenames: Per
 tl2_name_abbrev: Størm.
 tl2_dates: 1907-x
-tl2_page_id: 33212082
+tl2_bhl_page_id: 33212082
 author_lsid: 10157-1
 wikidata_id: Q21609912
 ipni_surname: Størmer
@@ -23,7 +23,8 @@ ipni_record_modified: 2005-04-05 14:56:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33212082) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10157-1), [Wikidata](https://www.wikidata.org/wiki/Q21609912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10157-1) LSID 10157-1, [Wikidata](https://www.wikidata.org/wiki/Q21609912) QID Q21609912
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

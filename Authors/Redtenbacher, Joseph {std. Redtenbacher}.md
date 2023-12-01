@@ -6,7 +6,7 @@ tl2_surname: Redtenbacher
 tl2_forenames: Joseph
 tl2_name_abbrev: Redtenbacher
 tl2_dates: 1810-1870
-tl2_page_id: 33190101
+tl2_bhl_page_id: 33190101
 author_lsid: 8225-1
 wikidata_id: Q89508
 ipni_surname: Redtenbacher
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/page/33190101) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8225-1), [Wikidata](https://www.wikidata.org/wiki/Q89508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8225-1) LSID 8225-1, [Wikidata](https://www.wikidata.org/wiki/Q89508) QID Q89508
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

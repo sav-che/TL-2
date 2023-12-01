@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0337
 tl2_volume: suppl2
 tl2_page_printed: 282
 tl2_surname: Boissieu
-tl2_forenames: [Jean Marie Antoine Gustave] Henri de
+tl2_forenames: (Jean Marie Antoine Gustave) Henri de
 tl2_name_abbrev: H. Boissieu
 tl2_dates: 1871-1912
-tl2_page_id: 33265479
+tl2_bhl_page_id: 33265479
 author_lsid: 915-1
 wikidata_id: Q5894450
 ipni_surname: Boissieu
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265479) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/915-1), [Wikidata](https://www.wikidata.org/wiki/Q5894450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/915-1) LSID 915-1, [Wikidata](https://www.wikidata.org/wiki/Q5894450) QID Q5894450
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boissieu, Henri de {std. H. Boissieu}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Sieurin
 tl2_forenames: Johan Magnus
 tl2_name_abbrev: Sieurin
 tl2_dates: 1813-1846
-tl2_page_id: 33333734
+tl2_bhl_page_id: 33333734
 author_lsid: 9629-1
 wikidata_id: Q21608875
 ipni_surname: Sieurin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9629-1), [Wikidata](https://www.wikidata.org/wiki/Q21608875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9629-1) LSID 9629-1, [Wikidata](https://www.wikidata.org/wiki/Q21608875) QID Q21608875
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

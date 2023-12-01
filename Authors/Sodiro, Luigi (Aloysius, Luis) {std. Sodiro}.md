@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0711
 tl2_volume: vol5
 tl2_page_printed: 713
 tl2_surname: Sodiro
-tl2_forenames: Luigi [Aloysius, Luis]
+tl2_forenames: Luigi (Aloysius, Luis)
 tl2_name_abbrev: Sodiro
 tl2_dates: 1836-1909
-tl2_page_id: 33333852
+tl2_bhl_page_id: 33333852
 author_lsid: 9851-1
 wikidata_id: Q3266829
 ipni_surname: Sodiro
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:37:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33333852) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9851-1), [Wikidata](https://www.wikidata.org/wiki/Q3266829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9851-1) LSID 9851-1, [Wikidata](https://www.wikidata.org/wiki/Q3266829) QID Q3266829
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

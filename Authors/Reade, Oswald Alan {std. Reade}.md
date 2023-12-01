@@ -6,7 +6,7 @@ tl2_surname: Reade
 tl2_forenames: Oswald Alan
 tl2_name_abbrev: Reade
 tl2_dates: 1848-1929
-tl2_page_id: 33190084
+tl2_bhl_page_id: 33190084
 author_lsid: 8204-1
 wikidata_id: Q21607038
 ipni_surname: Reade
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33190084) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8204-1), [Wikidata](https://www.wikidata.org/wiki/Q21607038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8204-1) LSID 8204-1, [Wikidata](https://www.wikidata.org/wiki/Q21607038) QID Q21607038
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

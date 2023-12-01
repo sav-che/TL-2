@@ -6,7 +6,7 @@ tl2_surname: Turquet
 tl2_forenames: Jean
 tl2_name_abbrev: Turquet
 tl2_dates: fl. 1910
-tl2_page_id: 33212593
+tl2_bhl_page_id: 33212593
 author_lsid: 10923-1
 wikidata_id: Q21611073
 ipni_surname: Turquet
@@ -24,7 +24,8 @@ ipni_record_modified: 2007-11-02 09:58:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33212593) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10923-1), [Wikidata](https://www.wikidata.org/wiki/Q21611073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10923-1) LSID 10923-1, [Wikidata](https://www.wikidata.org/wiki/Q21611073) QID Q21611073
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

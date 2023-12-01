@@ -6,7 +6,7 @@ tl2_surname: Wilson
 tl2_forenames: Francis Robert Muter
 tl2_name_abbrev: F. Wils.
 tl2_dates: 1832-1903
-tl2_page_id: 33066692
+tl2_bhl_page_id: 33066692
 author_lsid: 11733-1
 wikidata_id: Q5482813
 ipni_surname: Wilson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33066692) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11733-1), [Wikidata](https://www.wikidata.org/wiki/Q5482813). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11733-1) LSID 11733-1, [Wikidata](https://www.wikidata.org/wiki/Q5482813) QID Q5482813
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

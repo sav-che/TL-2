@@ -6,7 +6,7 @@ tl2_surname: Reider
 tl2_forenames: Jakob Ernst von
 tl2_name_abbrev: Reider
 tl2_dates: x-1853
-tl2_page_id: 33190166
+tl2_bhl_page_id: 33190166
 author_lsid: 8260-1
 wikidata_id: Q6118588
 ipni_surname: Reider
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33190166) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8260-1), [Wikidata](https://www.wikidata.org/wiki/Q6118588). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8260-1) LSID 8260-1, [Wikidata](https://www.wikidata.org/wiki/Q6118588) QID Q6118588
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

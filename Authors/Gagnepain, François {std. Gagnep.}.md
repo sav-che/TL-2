@@ -6,7 +6,7 @@ tl2_surname: Gagnepain
 tl2_forenames: François
 tl2_name_abbrev: Gagnep.
 tl2_dates: 1866-1952
-tl2_page_id: 33121035
+tl2_bhl_page_id: 33121035
 author_lsid: 2978-1
 wikidata_id: Q599122
 ipni_surname: Gagnepain
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33121035) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2978-1), [Wikidata](https://www.wikidata.org/wiki/Q599122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2978-1) LSID 2978-1, [Wikidata](https://www.wikidata.org/wiki/Q599122) QID Q599122
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gagnepain, François {std. Gagnep.} (Suppl.)|second entry]] for this author
 

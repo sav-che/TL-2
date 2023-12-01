@@ -6,7 +6,7 @@ tl2_surname: Neal
 tl2_forenames: Adam
 tl2_name_abbrev: A. Neal
 tl2_dates: fl. 1770's
-tl2_page_id: 33355787
+tl2_bhl_page_id: 33355787
 author_lsid: 6878-1
 wikidata_id: Q33686344
 ipni_surname: Neale
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33355787) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6878-1), [Wikidata](https://www.wikidata.org/wiki/Q33686344). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6878-1) LSID 6878-1, [Wikidata](https://www.wikidata.org/wiki/Q33686344) QID Q33686344
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

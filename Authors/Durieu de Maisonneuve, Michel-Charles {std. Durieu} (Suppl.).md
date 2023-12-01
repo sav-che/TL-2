@@ -6,7 +6,7 @@ tl2_surname: Durieu de Maisonneuve
 tl2_forenames: Michel-Charles
 tl2_name_abbrev: Durieu
 tl2_dates: 1796-1878
-tl2_page_id: 33260186
+tl2_bhl_page_id: 33260186
 author_lsid: 2406-1
 wikidata_id: Q703990
 ipni_surname: Durieu de Maisonneuve
@@ -28,7 +28,8 @@ ipni_record_modified: 2006-09-06 05:14:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33260186) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2406-1), [Wikidata](https://www.wikidata.org/wiki/Q703990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2406-1) LSID 2406-1, [Wikidata](https://www.wikidata.org/wiki/Q703990) QID Q703990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Durieu de Maisonneuve, Michel Charles {std. Durieu}|first entry]] for this author
 

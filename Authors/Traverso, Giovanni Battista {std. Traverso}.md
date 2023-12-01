@@ -6,7 +6,7 @@ tl2_surname: Traverso
 tl2_forenames: Giovanni Battista
 tl2_name_abbrev: Traverso
 tl2_dates: 1878-1955
-tl2_page_id: 33212494
+tl2_bhl_page_id: 33212494
 author_lsid: 10801-1
 wikidata_id: Q3766768
 ipni_surname: Traverso
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33212494) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10801-1), [Wikidata](https://www.wikidata.org/wiki/Q3766768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10801-1) LSID 10801-1, [Wikidata](https://www.wikidata.org/wiki/Q3766768) QID Q3766768
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

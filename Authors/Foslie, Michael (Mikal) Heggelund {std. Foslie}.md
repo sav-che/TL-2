@@ -6,7 +6,7 @@ tl2_surname: Foslie
 tl2_forenames: Michael (Mikal) Heggelund
 tl2_name_abbrev: Foslie
 tl2_dates: 1855-1909
-tl2_page_id: 33120994
+tl2_bhl_page_id: 33120994
 author_lsid: 2844-1
 wikidata_id: Q3290287
 ipni_surname: Foslie
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33120994) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2844-1), [Wikidata](https://www.wikidata.org/wiki/Q3290287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2844-1) LSID 2844-1, [Wikidata](https://www.wikidata.org/wiki/Q3290287) QID Q3290287
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Foslie, Mikal (Mikel, Mikael, Michael) Heggelund {std. Foslie} (Suppl.)|second entry]] for this author
 

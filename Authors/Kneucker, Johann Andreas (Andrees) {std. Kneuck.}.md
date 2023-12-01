@@ -6,7 +6,7 @@ tl2_surname: Kneucker
 tl2_forenames: Johann Andreas (Andrees)
 tl2_name_abbrev: Kneuck.
 tl2_dates: 1862-1946
-tl2_page_id: 33068817
+tl2_bhl_page_id: 33068817
 author_lsid: 4868-1
 wikidata_id: Q6215583
 ipni_surname: Kneucker
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:44:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33068817) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4868-1), [Wikidata](https://www.wikidata.org/wiki/Q6215583). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4868-1) LSID 4868-1, [Wikidata](https://www.wikidata.org/wiki/Q6215583) QID Q6215583
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

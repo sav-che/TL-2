@@ -6,7 +6,7 @@ tl2_surname: Boom
 tl2_forenames: Boudewijn Karel
 tl2_name_abbrev: Boom
 tl2_dates: 1903-1980
-tl2_page_id: 33265521
+tl2_bhl_page_id: 33265521
 author_lsid: 965-1
 wikidata_id: Q5732796
 ipni_surname: Boom
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33265521) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/965-1), [Wikidata](https://www.wikidata.org/wiki/Q5732796). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/965-1) LSID 965-1, [Wikidata](https://www.wikidata.org/wiki/Q5732796) QID Q5732796
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

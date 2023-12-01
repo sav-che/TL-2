@@ -6,7 +6,7 @@ tl2_surname: Newton
 tl2_forenames: Isaac
 tl2_name_abbrev: I. Newton
 tl2_dates: 1840-1906
-tl2_page_id: 33355825
+tl2_bhl_page_id: 33355825
 author_lsid: 6953-1
 wikidata_id: Q5920600
 ipni_surname: Newton
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33355825) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6953-1), [Wikidata](https://www.wikidata.org/wiki/Q5920600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6953-1) LSID 6953-1, [Wikidata](https://www.wikidata.org/wiki/Q5920600) QID Q5920600
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Benoist
 tl2_forenames: Raymond
 tl2_name_abbrev: Benoist
 tl2_dates: 1881-1970
-tl2_page_id: 33265271
+tl2_bhl_page_id: 33265271
 author_lsid: 659-1
 wikidata_id: Q4083881
 ipni_surname: Benoist
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:29:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33265271) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/659-1), [Wikidata](https://www.wikidata.org/wiki/Q4083881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/659-1) LSID 659-1, [Wikidata](https://www.wikidata.org/wiki/Q4083881) QID Q4083881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

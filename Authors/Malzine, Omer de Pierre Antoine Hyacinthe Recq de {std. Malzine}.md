@@ -6,7 +6,7 @@ tl2_surname: Malzine
 tl2_forenames: Omer de Pierre Antoine Hyacinthe Recq de
 tl2_name_abbrev: Malzine
 tl2_dates: 1820-1881
-tl2_page_id: 33355359
+tl2_bhl_page_id: 33355359
 author_lsid: 6050-1
 wikidata_id: Q21519874
 ipni_surname: Malzine
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33355359) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6050-1), [Wikidata](https://www.wikidata.org/wiki/Q21519874). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6050-1) LSID 6050-1, [Wikidata](https://www.wikidata.org/wiki/Q21519874) QID Q21519874
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Cordemoy
 tl2_forenames: Hubert Louis Philippe Eugène Jacob de
 tl2_name_abbrev: H.L. Cordem.
 tl2_dates: 1866-1927
-tl2_page_id: 33266034
+tl2_bhl_page_id: 33266034
 author_lsid: 4373-1
 wikidata_id: Q21509049
 ipni_surname: Cordemoy
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33266034) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/4373-1), [Wikidata](https://www.wikidata.org/wiki/Q21509049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4373-1) LSID 4373-1, [Wikidata](https://www.wikidata.org/wiki/Q21509049) QID Q21509049
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

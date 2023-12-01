@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol1_0666
 tl2_volume: vol1
 tl2_page_printed: 530
-tl2_surname: Commelijn [Commelin]
-tl2_forenames: Caspar[us]
+tl2_surname: Commelijn (Commelin)
+tl2_forenames: Caspar(us)
 tl2_name_abbrev: C. Commelijn
 tl2_dates: 1667/1668-1731
-tl2_page_id: 33120661
+tl2_bhl_page_id: 33120661
 author_lsid: 12386-1
 wikidata_id: Q1047867
 ipni_surname: Commelijn
@@ -24,7 +24,8 @@ ipni_record_modified: 2011-03-09 07:36:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33120661) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12386-1), [Wikidata](https://www.wikidata.org/wiki/Q1047867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12386-1) LSID 12386-1, [Wikidata](https://www.wikidata.org/wiki/Q1047867) QID Q1047867
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

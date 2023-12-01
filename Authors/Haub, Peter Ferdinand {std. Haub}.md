@@ -6,7 +6,7 @@ tl2_surname: Haub
 tl2_forenames: Peter Ferdinand
 tl2_name_abbrev: Haub
 tl2_dates: 1804-1867
-tl2_page_id: 33068342
+tl2_bhl_page_id: 33068342
 author_lsid: 3727-1
 wikidata_id: Q21515579
 ipni_surname: Haub
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3727-1), [Wikidata](https://www.wikidata.org/wiki/Q21515579). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3727-1) LSID 3727-1, [Wikidata](https://www.wikidata.org/wiki/Q21515579) QID Q21515579
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schreber
 tl2_forenames: Johann Christian Daniel von
 tl2_name_abbrev: Schreb.
 tl2_dates: 1739-1810
-tl2_page_id: 33333467
+tl2_bhl_page_id: 33333467
 author_lsid: 9255-1
 wikidata_id: Q162688
 ipni_surname: Schreber
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:26:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33333467) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9255-1), [Wikidata](https://www.wikidata.org/wiki/Q162688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9255-1) LSID 9255-1, [Wikidata](https://www.wikidata.org/wiki/Q162688) QID Q162688
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

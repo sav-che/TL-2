@@ -6,7 +6,7 @@ tl2_surname: Darrah
 tl2_forenames: William Culp
 tl2_name_abbrev: Darrah
 tl2_dates: 1909-1989
-tl2_page_id: 33259122
+tl2_bhl_page_id: 33259122
 author_lsid: 20032292-1
 wikidata_id: Q18738925
 ipni_surname: Darrah
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33259122) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20032292-1), [Wikidata](https://www.wikidata.org/wiki/Q18738925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20032292-1) LSID 20032292-1, [Wikidata](https://www.wikidata.org/wiki/Q18738925) QID Q18738925
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

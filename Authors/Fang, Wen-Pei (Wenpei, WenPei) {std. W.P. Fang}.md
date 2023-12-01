@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0027
 tl2_volume: suppl7
 tl2_page_printed: 34
 tl2_surname: Fang
-tl2_forenames: Wen-Pei [Wenpei, WenPei]
+tl2_forenames: Wen-Pei (Wenpei, WenPei)
 tl2_name_abbrev: W.P. Fang
 tl2_dates: 1899-1983
-tl2_page_id: 33259538
+tl2_bhl_page_id: 33259538
 author_lsid: 2630-1
 wikidata_id: Q7982219
 ipni_surname: Fang
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33259538) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2630-1), [Wikidata](https://www.wikidata.org/wiki/Q7982219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2630-1) LSID 2630-1, [Wikidata](https://www.wikidata.org/wiki/Q7982219) QID Q7982219
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

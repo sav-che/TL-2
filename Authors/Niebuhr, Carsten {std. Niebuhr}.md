@@ -6,7 +6,7 @@ tl2_surname: Niebuhr
 tl2_forenames: Carsten
 tl2_name_abbrev: Niebuhr
 tl2_dates: 1733-1815
-tl2_page_id: 33355833
+tl2_bhl_page_id: 33355833
 author_lsid: 6972-1
 wikidata_id: Q57420
 ipni_surname: Niebuhr
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33355833) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6972-1), [Wikidata](https://www.wikidata.org/wiki/Q57420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6972-1) LSID 6972-1, [Wikidata](https://www.wikidata.org/wiki/Q57420) QID Q57420
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

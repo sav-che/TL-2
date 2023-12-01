@@ -6,7 +6,7 @@ tl2_surname: Neuweiler
 tl2_forenames: Ernst
 tl2_name_abbrev: Neuweiler
 tl2_dates: 1875-?
-tl2_page_id: 33355820
+tl2_bhl_page_id: 33355820
 author_lsid: 24029-1
 wikidata_id: Q21522095
 ipni_surname: Neuweiler
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24029-1), [Wikidata](https://www.wikidata.org/wiki/Q21522095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24029-1) LSID 24029-1, [Wikidata](https://www.wikidata.org/wiki/Q21522095) QID Q21522095
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

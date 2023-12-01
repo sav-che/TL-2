@@ -6,7 +6,7 @@ tl2_surname: Wood
 tl2_forenames: Joseph Garnett
 tl2_name_abbrev: J.G. Wood
 tl2_dates: 1900-1959
-tl2_page_id: 33066780
+tl2_bhl_page_id: 33066780
 author_lsid: 11846-1
 wikidata_id: Q6283368
 ipni_surname: Wood
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33066780) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11846-1), [Wikidata](https://www.wikidata.org/wiki/Q6283368). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11846-1) LSID 11846-1, [Wikidata](https://www.wikidata.org/wiki/Q6283368) QID Q6283368
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

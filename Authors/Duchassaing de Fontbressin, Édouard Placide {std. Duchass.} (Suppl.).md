@@ -6,7 +6,7 @@ tl2_surname: Duchassaing de Fontbressin
 tl2_forenames: Édouard Placide
 tl2_name_abbrev: Duchass.
 tl2_dates: 1818-1873
-tl2_page_id: 33260122
+tl2_bhl_page_id: 33260122
 author_lsid: 2345-1
 wikidata_id: Q3579998
 ipni_surname: Duchassaing de Fontbressin
@@ -24,7 +24,8 @@ ipni_record_modified: 2006-09-15 04:16:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33260122) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2345-1), [Wikidata](https://www.wikidata.org/wiki/Q3579998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2345-1) LSID 2345-1, [Wikidata](https://www.wikidata.org/wiki/Q3579998) QID Q3579998
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Duchassaing de Fontbressin, Èdouard Placide {std. Duchass.}|first entry]] for this author
 

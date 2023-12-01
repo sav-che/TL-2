@@ -6,7 +6,7 @@ tl2_surname: Serrurier
 tl2_forenames: Lindor
 tl2_name_abbrev: Serrurier
 tl2_dates: 1846-1901
-tl2_page_id: 33333662
+tl2_bhl_page_id: 33333662
 author_lsid: 9508-1
 wikidata_id: Q1906999
 ipni_surname: Serrurier
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9508-1), [Wikidata](https://www.wikidata.org/wiki/Q1906999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9508-1) LSID 9508-1, [Wikidata](https://www.wikidata.org/wiki/Q1906999) QID Q1906999
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

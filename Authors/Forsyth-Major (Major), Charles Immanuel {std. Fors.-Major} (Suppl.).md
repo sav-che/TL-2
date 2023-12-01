@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl7_0222
 tl2_volume: suppl7
 tl2_page_printed: 329
-tl2_surname: Forsyth-Major [Major]
+tl2_surname: Forsyth-Major (Major)
 tl2_forenames: Charles Immanuel
 tl2_name_abbrev: Fors.-Major
 tl2_dates: 1843-1923
-tl2_page_id: 33259833
+tl2_bhl_page_id: 33259833
 author_lsid: 2838-1
 wikidata_id: Q116027
 ipni_surname: Forsyth-Major
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2838-1), [Wikidata](https://www.wikidata.org/wiki/Q116027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2838-1) LSID 2838-1, [Wikidata](https://www.wikidata.org/wiki/Q116027) QID Q116027
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Major, Charles Immanuel Forsyth (Forsyth Major) {std. Fors.-Major}|first entry]] for this author
 

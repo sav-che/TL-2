@@ -6,7 +6,7 @@ tl2_surname: Morini
 tl2_forenames: Fausto
 tl2_name_abbrev: Morini
 tl2_dates: 1858-1927
-tl2_page_id: 33355671
+tl2_bhl_page_id: 33355671
 author_lsid: 23639-1
 wikidata_id: Q21521736
 ipni_surname: Morini
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23639-1), [Wikidata](https://www.wikidata.org/wiki/Q21521736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23639-1) LSID 23639-1, [Wikidata](https://www.wikidata.org/wiki/Q21521736) QID Q21521736
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

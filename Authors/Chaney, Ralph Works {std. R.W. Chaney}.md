@@ -6,7 +6,7 @@ tl2_surname: Chaney
 tl2_forenames: Ralph Works
 tl2_name_abbrev: R.W. Chaney
 tl2_dates: 1890-(fl. 1955)
-tl2_page_id: 33265725
+tl2_bhl_page_id: 33265725
 author_lsid: 33975-1
 wikidata_id: Q2129808
 ipni_surname: Chaney
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/33975-1), [Wikidata](https://www.wikidata.org/wiki/Q2129808). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33975-1) LSID 33975-1, [Wikidata](https://www.wikidata.org/wiki/Q2129808) QID Q2129808
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

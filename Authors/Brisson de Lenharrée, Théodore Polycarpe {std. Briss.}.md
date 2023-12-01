@@ -6,31 +6,33 @@ tl2_surname: Brisson de Lenharrée
 tl2_forenames: Théodore Polycarpe
 tl2_name_abbrev: Briss.
 tl2_dates: 1828-post 1891
-tl2_page_id: 33266396
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33266396
+author_lsid: 20002449-1
+wikidata_id: Q21506496
+ipni_surname: Brisson de Lenharrée
+ipni_forenames: Théodore Polycarpe
+ipni_standard_form: T.P.Brisson
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
-
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33266396) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> (!cite) BHL link: this entry starts at (page 89)(https://www.biodiversitylibrary.org/page/33266396) of TL-2 Suppl. III
+> Author links: (IPNI)(https://www.ipni.org/a/20002449-1) LSID 20002449-1, (Wikidata)(https://www.wikidata.org/wiki/Q21506496) QID Q21506496
+> Support pages: ((Abbreviations|abbreviations)), ((Layout key|layout key)), [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Brisson de Lenharrée, Théodore Polycarpe (1828-post 1891), French lichenologist at Chalon-sur-Marne. 
-**Abbreviated name**: *Briss.*
+**Abbreviated name**: *Briss.* \(standard form in IPNI: *T.P.Brisson*\)
 
 #### Herbarium and types
 
-[[Collection PC|PC]](?), further material at [[Collection M|M]], [[Collection WRSL|WRSL]].
+((Collection PC|PC))(?), further material at ((Collection M|M)), ((Collection WRSL|WRSL)).
 
 #### Bibliography and biography
 
@@ -45,7 +47,7 @@ BJI 2: 179; BM 1: 237; CSP 13: 811; GR p. 269; GR, cat p. 61; Jackson p. 161, 28
 **Abbreviated title**: *Lich. Dépt. Marne*.
 
 **Notes**
-*Publ*.: 1875, cover-t.p., p. \[1\]-135, *pl. 1-4* (p.p. col. liths.). *Copy*: G.
+*Publ*.: 1875, cover-t.p., p. \(1\)-135, *pl. 1-4* (p.p. col. liths.). *Copy*: G.
 *Supplément* (*1*): 1876 (n.v.).
 *Supplément 2*: 1879/1880, Mém. Soc. Agric. Commerce Marne, 1879/80: 213-215 (reprint B).
 *Supplément 3*: 1879/1880, id. p. 27-28 (n.v.).
@@ -58,16 +60,16 @@ BJI 2: 179; BM 1: 237; CSP 13: 811; GR p. 269; GR, cat p. 61; Jackson p. 161, 28
 **Abbreviated title**: *Les Lichens*.
 
 **Notes**
-*Publ*.: Aug-Dec 1877 (read 1 and 15 Jul 1877, Bull. Soc. bot. France rd. 22 Feb 1878), p. \[1\]-43, *pl. 1* (uncol. lith.). *Copy*: G. – Also published in Mém. Soc. Agric. Commerce Marne 1877 (n.v.).
-*Supplément*: 1879 (15 Dec 1878, Nat. Nov. Oct (2) 1879), cover-t.p., p. \[45\]-61. *Copy*: G.
+*Publ*.: Aug-Dec 1877 (read 1 and 15 Jul 1877, Bull. Soc. bot. France rd. 22 Feb 1878), p. \(1\)-43, *pl. 1* (uncol. lith.). *Copy*: G. – Also published in Mém. Soc. Agric. Commerce Marne 1877 (n.v.).
+*Supplément*: 1879 (15 Dec 1878, Nat. Nov. Oct (2) 1879), cover-t.p., p. \(45\)-61. *Copy*: G.
 
 ##### n.22.967. Lichens
 
 **Title**
-*Lichens* des environs *de Chateau-Thierry* (Aisne). Le transformisme condamné par les lichens aussi bien que par toutes les autres plantes... \[Mém. Soc. Agricult. Commerce Marne 1879 \[1880\]. Oct.
+*Lichens* des environs *de Chateau-Thierry* (Aisne). Le transformisme condamné par les lichens aussi bien que par toutes les autres plantes... \(Mém. Soc. Agricult. Commerce Marne 1879 \(1880\). Oct.
 
 **Notes**
-*Publ*.: Jan-Mai 1880 (Bot. Zeit. 16 Jul 1880, Nat. Nov. Jun (2) 1880), p. \[177\]-215. *Copy*: B.  – Reprinted and to be cited from Mém. Soc. Agric. Commerce Marne 1879/1880: 177-215, of which p. 213-215 contains the second supplement of the *Lich. Dépt. Marne.*
+*Publ*.: Jan-Mai 1880 (Bot. Zeit. 16 Jul 1880, Nat. Nov. Jun (2) 1880), p. \(177\)-215. *Copy*: B.  – Reprinted and to be cited from Mém. Soc. Agric. Commerce Marne 1879/1880: 177-215, of which p. 213-215 contains the second supplement of the *Lich. Dépt. Marne.*
 *Ref*.: Anon., Bull. Soc. bot. France 27(Bibl.): 114. Aug-Oct 1880 (rev.).
 - N.L., Bot. Zeit. 38: 607. 27 Aug 1880, 39: 67. 28 Jan 1881.
 
@@ -78,7 +80,7 @@ BJI 2: 179; BM 1: 237; CSP 13: 811; GR p. 269; GR, cat p. 61; Jackson p. 161, 28
 **Abbreviated title**: *Classif. régn. vég.*
 
 **Notes**
-*Publ*.: 1882 (read 1 Aug 1881, Nat. Nov. Aug (2) 1882), cover-t.p., p. \[1\]-51. *Copy*: B.
+*Publ*.: 1882 (read 1 Aug 1881, Nat. Nov. Aug (2) 1882), cover-t.p., p. \(1\)-51. *Copy*: B.
 *Ref*.: Anon., Bot. Centralbl. 14(18): 134. 30 Apr-4 Mai 1883 (rev.).
 
 ##### n.22.969. Catalogue des plantes phanérogames du Département de la Marne
@@ -88,7 +90,7 @@ BJI 2: 179; BM 1: 237; CSP 13: 811; GR p. 269; GR, cat p. 61; Jackson p. 161, 28
 **Abbreviated title**: *Catal. pl. phan. Dépt. Marne*.
 
 **Notes**
-*Publ*.: Jun-Aug 1884 (read 29 Mar 1883, Bot. Zeit. 26 Sep 1884, J. Bot. Oct 1884, Nat. Nov. Sep (2) 1884), p. \[i\]-vii, \[9\]-192 \[p. 161-192 *Table méthodique*\]. *Copies*: B, HH, L, MO, NY. – Table méthodique also published separately (Nat. Nov. Oct (1) 1887).
-*Supplément* au catalogue des plantes phanérogames du Département de la Marne: 1885, p. \[1\]-16. *Copies*: B, HH, L, MO, NY.
+*Publ*.: Jun-Aug 1884 (read 29 Mar 1883, Bot. Zeit. 26 Sep 1884, J. Bot. Oct 1884, Nat. Nov. Sep (2) 1884), p. \(i\)-vii, \(9\)-192 \(p. 161-192 *Table méthodique*\). *Copies*: B, HH, L, MO, NY. – Table méthodique also published separately (Nat. Nov. Oct (1) 1887).
+*Supplément* au catalogue des plantes phanérogames du Département de la Marne: 1885, p. \(1\)-16. *Copies*: B, HH, L, MO, NY.
 *Ref*.: BL 2: 179.
 

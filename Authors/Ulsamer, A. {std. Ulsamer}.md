@@ -6,7 +6,7 @@ tl2_surname: Ulsamer
 tl2_forenames: A.
 tl2_name_abbrev: Ulsamer
 tl2_dates: fl. 1895
-tl2_page_id: 33212627
+tl2_bhl_page_id: 33212627
 author_lsid: 10976-1
 wikidata_id: Q47127786
 ipni_surname: Ulsamer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33212627) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10976-1), [Wikidata](https://www.wikidata.org/wiki/Q47127786). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10976-1) LSID 10976-1, [Wikidata](https://www.wikidata.org/wiki/Q47127786) QID Q47127786
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

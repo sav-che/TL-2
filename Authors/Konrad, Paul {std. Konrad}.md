@@ -6,7 +6,7 @@ tl2_surname: Konrad
 tl2_forenames: Paul
 tl2_name_abbrev: Konrad
 tl2_dates: 1877-1948
-tl2_page_id: 33068886
+tl2_bhl_page_id: 33068886
 author_lsid: 4953-1
 wikidata_id: Q16354687
 ipni_surname: Konrad
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33068886) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4953-1), [Wikidata](https://www.wikidata.org/wiki/Q16354687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4953-1) LSID 4953-1, [Wikidata](https://www.wikidata.org/wiki/Q16354687) QID Q16354687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

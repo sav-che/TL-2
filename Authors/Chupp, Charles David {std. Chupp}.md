@@ -6,7 +6,7 @@ tl2_surname: Chupp
 tl2_forenames: Charles David
 tl2_name_abbrev: Chupp
 tl2_dates: 1886-1967
-tl2_page_id: 33265846
+tl2_bhl_page_id: 33265846
 author_lsid: 17252-1
 wikidata_id: Q21508604
 ipni_surname: Chupp
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33265846) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17252-1), [Wikidata](https://www.wikidata.org/wiki/Q21508604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17252-1) LSID 17252-1, [Wikidata](https://www.wikidata.org/wiki/Q21508604) QID Q21508604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

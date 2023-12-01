@@ -6,7 +6,7 @@ tl2_surname: Lignier
 tl2_forenames: Elie Antoine Octave
 tl2_name_abbrev: Lign.
 tl2_dates: 1855-1916
-tl2_page_id: 33355111
+tl2_bhl_page_id: 33355111
 author_lsid: 22342-1
 wikidata_id: Q3587717
 ipni_surname: Lignier
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:51:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33355111) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22342-1), [Wikidata](https://www.wikidata.org/wiki/Q3587717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22342-1) LSID 22342-1, [Wikidata](https://www.wikidata.org/wiki/Q3587717) QID Q3587717
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

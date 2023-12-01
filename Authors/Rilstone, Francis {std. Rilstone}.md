@@ -6,7 +6,7 @@ tl2_surname: Rilstone
 tl2_forenames: Francis
 tl2_name_abbrev: Rilstone
 tl2_dates: 1881-1953
-tl2_page_id: 33190266
+tl2_bhl_page_id: 33190266
 author_lsid: 8400-1
 wikidata_id: Q19001581
 ipni_surname: Rilstone
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:34:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8400-1), [Wikidata](https://www.wikidata.org/wiki/Q19001581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8400-1) LSID 8400-1, [Wikidata](https://www.wikidata.org/wiki/Q19001581) QID Q19001581
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

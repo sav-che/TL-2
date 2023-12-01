@@ -6,7 +6,7 @@ tl2_surname: Stratman
 tl2_forenames: Mary Agatha, sister
 tl2_name_abbrev: Stratman
 tl2_dates: 1894-?
-tl2_page_id: 33212045
+tl2_bhl_page_id: 33212045
 author_lsid: 10202-1
 wikidata_id: Q21609936
 ipni_surname: Stratman
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33212045) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10202-1), [Wikidata](https://www.wikidata.org/wiki/Q21609936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10202-1) LSID 10202-1, [Wikidata](https://www.wikidata.org/wiki/Q21609936) QID Q21609936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

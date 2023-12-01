@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0231
 tl2_volume: vol5
 tl2_page_printed: 250
 tl2_surname: Schmidt
-tl2_forenames: Friedrich [Karl] [Fedor Bogdanovich]
+tl2_forenames: Friedrich (Karl) (Fedor Bogdanovich)
 tl2_name_abbrev: Friedr. Schmidt
 tl2_dates: 1832-1908
-tl2_page_id: 33333389
+tl2_bhl_page_id: 33333389
 author_lsid: 9159-1
 wikidata_id: Q283881
 ipni_surname: Schmidt
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33333389) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9159-1), [Wikidata](https://www.wikidata.org/wiki/Q283881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9159-1) LSID 9159-1, [Wikidata](https://www.wikidata.org/wiki/Q283881) QID Q283881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0160
 tl2_volume: vol6
 tl2_page_printed: 144
 tl2_surname: Szontágh
-tl2_forenames: Nicolaus [Miklós] (Edler von Igló) von
+tl2_forenames: Nicolaus (Miklós) (Edler von Igló) von
 tl2_name_abbrev: Szontágh
 tl2_dates: 1843-1899
-tl2_page_id: 33212186
+tl2_bhl_page_id: 33212186
 author_lsid: 10373-1
 wikidata_id: Q1300034
 ipni_surname: Szontágh
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10373-1), [Wikidata](https://www.wikidata.org/wiki/Q1300034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10373-1) LSID 10373-1, [Wikidata](https://www.wikidata.org/wiki/Q1300034) QID Q1300034
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

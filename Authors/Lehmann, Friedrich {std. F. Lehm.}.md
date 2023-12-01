@@ -6,7 +6,7 @@ tl2_surname: Lehmann
 tl2_forenames: Friedrich
 tl2_name_abbrev: F. Lehm.
 tl2_dates: fl. 1886
-tl2_page_id: 33069061
+tl2_bhl_page_id: 33069061
 author_lsid: 5432-1
 wikidata_id: Q5869592
 ipni_surname: Lehmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2011-02-04 07:08:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5432-1), [Wikidata](https://www.wikidata.org/wiki/Q5869592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5432-1) LSID 5432-1, [Wikidata](https://www.wikidata.org/wiki/Q5869592) QID Q5869592
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

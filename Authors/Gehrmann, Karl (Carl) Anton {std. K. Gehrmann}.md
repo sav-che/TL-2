@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0121
 tl2_volume: suppl8
 tl2_page_printed: 167
 tl2_surname: Gehrmann
-tl2_forenames: Karl [Carl] Anton
+tl2_forenames: Karl (Carl) Anton
 tl2_name_abbrev: K. Gehrmann
 tl2_dates: 1885-1925
-tl2_page_id: 33258645
+tl2_bhl_page_id: 33258645
 author_lsid: 3065-1
 wikidata_id: Q18181291
 ipni_surname: Gehrmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33258645) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3065-1), [Wikidata](https://www.wikidata.org/wiki/Q18181291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3065-1) LSID 3065-1, [Wikidata](https://www.wikidata.org/wiki/Q18181291) QID Q18181291
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

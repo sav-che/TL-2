@@ -6,7 +6,7 @@ tl2_surname: Masclef
 tl2_forenames: Amédée
 tl2_name_abbrev: Masclef
 tl2_dates: 1858-?
-tl2_page_id: 33355434
+tl2_bhl_page_id: 33355434
 author_lsid: 6188-1
 wikidata_id: Q18507759
 ipni_surname: Masclef
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6188-1), [Wikidata](https://www.wikidata.org/wiki/Q18507759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6188-1) LSID 6188-1, [Wikidata](https://www.wikidata.org/wiki/Q18507759) QID Q18507759
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

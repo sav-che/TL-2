@@ -6,7 +6,7 @@ tl2_surname: Holm
 tl2_forenames: Jørgen Tyche (Georg Tycho)
 tl2_name_abbrev: J. Holm
 tl2_dates: 1726-1759
-tl2_page_id: 33068501
+tl2_bhl_page_id: 33068501
 author_lsid: 4047-1
 wikidata_id: Q5810443
 ipni_surname: Holm
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4047-1), [Wikidata](https://www.wikidata.org/wiki/Q5810443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4047-1) LSID 4047-1, [Wikidata](https://www.wikidata.org/wiki/Q5810443) QID Q5810443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

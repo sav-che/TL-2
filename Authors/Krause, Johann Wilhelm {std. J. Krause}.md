@@ -6,7 +6,7 @@ tl2_surname: Krause
 tl2_forenames: Johann Wilhelm
 tl2_name_abbrev: J. Krause
 tl2_dates: 1764-1842
-tl2_page_id: 33068908
+tl2_bhl_page_id: 33068908
 author_lsid: 5044-1
 wikidata_id: Q10307781
 ipni_surname: Krause
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33068908) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5044-1), [Wikidata](https://www.wikidata.org/wiki/Q10307781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5044-1) LSID 5044-1, [Wikidata](https://www.wikidata.org/wiki/Q10307781) QID Q10307781
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

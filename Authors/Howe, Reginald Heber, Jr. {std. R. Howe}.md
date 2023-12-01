@@ -6,7 +6,7 @@ tl2_surname: Howe
 tl2_forenames: Reginald Heber, Jr.
 tl2_name_abbrev: R. Howe
 tl2_dates: 1875-1932
-tl2_page_id: 33068590
+tl2_bhl_page_id: 33068590
 author_lsid: 4161-1
 wikidata_id: Q21339552
 ipni_surname: Howe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33068590) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4161-1), [Wikidata](https://www.wikidata.org/wiki/Q21339552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4161-1) LSID 4161-1, [Wikidata](https://www.wikidata.org/wiki/Q21339552) QID Q21339552
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

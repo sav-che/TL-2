@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: John Donnell
 tl2_name_abbrev: J.D. Sm.
 tl2_dates: 1829-1928
-tl2_page_id: 33333837
+tl2_bhl_page_id: 33333837
 author_lsid: 9806-1
 wikidata_id: Q368277
 ipni_surname: Donnell Smith
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33333837) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9806-1), [Wikidata](https://www.wikidata.org/wiki/Q368277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9806-1) LSID 9806-1, [Wikidata](https://www.wikidata.org/wiki/Q368277) QID Q368277
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hara
 tl2_forenames: Hiroshi
 tl2_name_abbrev: H. Hara
 tl2_dates: 1911-x
-tl2_page_id: 33068292
+tl2_bhl_page_id: 33068292
 author_lsid: 3643-1
 wikidata_id: Q247149
 ipni_surname: Hara
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:31:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3643-1), [Wikidata](https://www.wikidata.org/wiki/Q247149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3643-1) LSID 3643-1, [Wikidata](https://www.wikidata.org/wiki/Q247149) QID Q247149
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

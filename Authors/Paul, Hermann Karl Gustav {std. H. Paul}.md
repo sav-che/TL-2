@@ -6,7 +6,7 @@ tl2_surname: Paul
 tl2_forenames: Hermann Karl Gustav
 tl2_name_abbrev: H. Paul
 tl2_dates: 1876-1964
-tl2_page_id: 33189580
+tl2_bhl_page_id: 33189580
 author_lsid: 7403-1
 wikidata_id: Q21522698
 ipni_surname: Paul
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33189580) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7403-1), [Wikidata](https://www.wikidata.org/wiki/Q21522698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7403-1) LSID 7403-1, [Wikidata](https://www.wikidata.org/wiki/Q21522698) QID Q21522698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

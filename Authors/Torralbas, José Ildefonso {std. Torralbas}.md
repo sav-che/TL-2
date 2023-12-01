@@ -6,7 +6,7 @@ tl2_surname: Torralbas
 tl2_forenames: José Ildefonso
 tl2_name_abbrev: Torralbas
 tl2_dates: 1842-1903
-tl2_page_id: 33212441
+tl2_bhl_page_id: 33212441
 author_lsid: 10748-1
 wikidata_id: Q21610888
 ipni_surname: Torralbas
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33212441) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10748-1), [Wikidata](https://www.wikidata.org/wiki/Q21610888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10748-1) LSID 10748-1, [Wikidata](https://www.wikidata.org/wiki/Q21610888) QID Q21610888
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

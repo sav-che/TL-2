@@ -6,7 +6,7 @@ tl2_surname: Curtis
 tl2_forenames: Moses Ashley
 tl2_name_abbrev: M.A. Curtis
 tl2_dates: 1808-1872
-tl2_page_id: 33120704
+tl2_bhl_page_id: 33120704
 author_lsid: 1925-1
 wikidata_id: Q2601895
 ipni_surname: Curtis
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1925-1), [Wikidata](https://www.wikidata.org/wiki/Q2601895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1925-1) LSID 1925-1, [Wikidata](https://www.wikidata.org/wiki/Q2601895) QID Q2601895
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Curtis, Moses Ashley {std. M.A. Curtis} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Wirtgen
 tl2_forenames: Ferdinand Paul
 tl2_name_abbrev: F. Wirtg.
 tl2_dates: 1848-1924
-tl2_page_id: 33066726
+tl2_bhl_page_id: 33066726
 author_lsid: 11783-1
 wikidata_id: Q2834461
 ipni_surname: Wirtgen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33066726) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11783-1), [Wikidata](https://www.wikidata.org/wiki/Q2834461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11783-1) LSID 11783-1, [Wikidata](https://www.wikidata.org/wiki/Q2834461) QID Q2834461
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

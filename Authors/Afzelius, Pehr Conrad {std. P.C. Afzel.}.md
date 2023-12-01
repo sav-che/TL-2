@@ -6,7 +6,7 @@ tl2_surname: Afzelius
 tl2_forenames: Pehr Conrad
 tl2_name_abbrev: P.C. Afzel.
 tl2_dates: 1817-1850
-tl2_page_id: 33264726
+tl2_bhl_page_id: 33264726
 author_lsid: 82-1
 wikidata_id: Q21504600
 ipni_surname: Afzelius
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33264726) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/82-1), [Wikidata](https://www.wikidata.org/wiki/Q21504600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/82-1) LSID 82-1, [Wikidata](https://www.wikidata.org/wiki/Q21504600) QID Q21504600
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

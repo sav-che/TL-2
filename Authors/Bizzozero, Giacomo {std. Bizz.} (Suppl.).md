@@ -6,7 +6,7 @@ tl2_surname: Bizzozero
 tl2_forenames: Giacomo
 tl2_name_abbrev: Bizz.
 tl2_dates: 1852-1885
-tl2_page_id: 33265381
+tl2_bhl_page_id: 33265381
 author_lsid: 16177-1
 wikidata_id: Q21506156
 ipni_surname: Bizzozero
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33265381) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16177-1), [Wikidata](https://www.wikidata.org/wiki/Q21506156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16177-1) LSID 16177-1, [Wikidata](https://www.wikidata.org/wiki/Q21506156) QID Q21506156
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bizzozero, Giacomo {std. Bizz.}|first entry]] for this author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0100
 tl2_volume: vol6
 tl2_page_printed: 80
 tl2_surname: Sudworth
-tl2_forenames: George [Bishop]
+tl2_forenames: George (Bishop)
 tl2_name_abbrev: Sudw.
 tl2_dates: 1864-1927
-tl2_page_id: 33212122
+tl2_bhl_page_id: 33212122
 author_lsid: 10274-1
 wikidata_id: Q2385317
 ipni_surname: Sudworth
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33212122) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10274-1), [Wikidata](https://www.wikidata.org/wiki/Q2385317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10274-1) LSID 10274-1, [Wikidata](https://www.wikidata.org/wiki/Q2385317) QID Q2385317
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

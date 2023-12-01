@@ -6,7 +6,7 @@ tl2_surname: Murchison
 tl2_forenames: Roderick Impey
 tl2_name_abbrev: Murch.
 tl2_dates: 1792-1871
-tl2_page_id: 33355752
+tl2_bhl_page_id: 33355752
 author_lsid: 6794-1
 wikidata_id: Q361900
 ipni_surname: Murchison
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33355752) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6794-1), [Wikidata](https://www.wikidata.org/wiki/Q361900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6794-1) LSID 6794-1, [Wikidata](https://www.wikidata.org/wiki/Q361900) QID Q361900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

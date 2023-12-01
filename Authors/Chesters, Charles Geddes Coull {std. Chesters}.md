@@ -6,7 +6,7 @@ tl2_surname: Chesters
 tl2_forenames: Charles Geddes Coull
 tl2_name_abbrev: Chesters
 tl2_dates: 1904-x
-tl2_page_id: 33265766
+tl2_bhl_page_id: 33265766
 author_lsid: 17168-1
 wikidata_id: Q21077871
 ipni_surname: Chesters
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17168-1), [Wikidata](https://www.wikidata.org/wiki/Q21077871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17168-1) LSID 17168-1, [Wikidata](https://www.wikidata.org/wiki/Q21077871) QID Q21077871
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Borg
 tl2_forenames: John
 tl2_name_abbrev: Borg
 tl2_dates: 1873-x
-tl2_page_id: 33120411
+tl2_bhl_page_id: 33120411
 author_lsid: 982-1
 wikidata_id: Q1699365
 ipni_surname: Borg
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33120411) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/982-1), [Wikidata](https://www.wikidata.org/wiki/Q1699365). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/982-1) LSID 982-1, [Wikidata](https://www.wikidata.org/wiki/Q1699365) QID Q1699365
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

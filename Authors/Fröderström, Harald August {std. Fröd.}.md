@@ -6,7 +6,7 @@ tl2_surname: Fröderström
 tl2_forenames: Harald August
 tl2_name_abbrev: Fröd.
 tl2_dates: 1876-1944
-tl2_page_id: 33258499
+tl2_bhl_page_id: 33258499
 author_lsid: 12505-1
 wikidata_id: Q5892219
 ipni_surname: Fröderström
@@ -23,7 +23,8 @@ ipni_record_modified: 2012-04-02 09:17:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33258499) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/12505-1), [Wikidata](https://www.wikidata.org/wiki/Q5892219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12505-1) LSID 12505-1, [Wikidata](https://www.wikidata.org/wiki/Q5892219) QID Q5892219
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

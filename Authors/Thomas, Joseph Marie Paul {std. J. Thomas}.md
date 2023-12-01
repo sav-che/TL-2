@@ -6,7 +6,7 @@ tl2_surname: Thomas
 tl2_forenames: Joseph Marie Paul
 tl2_name_abbrev: J. Thomas
 tl2_dates: 1872-?
-tl2_page_id: 33212317
+tl2_bhl_page_id: 33212317
 author_lsid: 10596-1
 wikidata_id: Q21610627
 ipni_surname: Thomas
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33212317) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10596-1), [Wikidata](https://www.wikidata.org/wiki/Q21610627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10596-1) LSID 10596-1, [Wikidata](https://www.wikidata.org/wiki/Q21610627) QID Q21610627
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

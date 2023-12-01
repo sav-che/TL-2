@@ -6,7 +6,7 @@ tl2_surname: Dufft
 tl2_forenames: Adolf
 tl2_name_abbrev: Dufft
 tl2_dates: 1800-1875
-tl2_page_id: 33260136
+tl2_bhl_page_id: 33260136
 author_lsid: 2356-1
 wikidata_id: Q21511008
 ipni_surname: Dufft
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33260136) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2356-1), [Wikidata](https://www.wikidata.org/wiki/Q21511008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2356-1) LSID 2356-1, [Wikidata](https://www.wikidata.org/wiki/Q21511008) QID Q21511008
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dufft, Adolf {std. Dufft}|first entry]] for this author
 

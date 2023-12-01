@@ -6,7 +6,7 @@ tl2_surname: Friesner
 tl2_forenames: Ray Clarence
 tl2_name_abbrev: Friesner
 tl2_dates: 1894-1952
-tl2_page_id: 33258480
+tl2_bhl_page_id: 33258480
 author_lsid: 2920-1
 wikidata_id: Q21513553
 ipni_surname: Friesner
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33258480) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2920-1), [Wikidata](https://www.wikidata.org/wiki/Q21513553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2920-1) LSID 2920-1, [Wikidata](https://www.wikidata.org/wiki/Q21513553) QID Q21513553
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

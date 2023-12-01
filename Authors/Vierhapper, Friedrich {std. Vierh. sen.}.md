@@ -6,7 +6,7 @@ tl2_surname: Vierhapper
 tl2_forenames: Friedrich
 tl2_name_abbrev: Vierh. sen.
 tl2_dates: 1844-1903
-tl2_page_id: 33212772
+tl2_bhl_page_id: 33212772
 author_lsid: 11178-1
 wikidata_id: Q11928581
 ipni_surname: Vierhapper
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33212772) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11178-1), [Wikidata](https://www.wikidata.org/wiki/Q11928581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11178-1) LSID 11178-1, [Wikidata](https://www.wikidata.org/wiki/Q11928581) QID Q11928581
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Heuffel
 tl2_forenames: Johann A.
 tl2_name_abbrev: Heuff.
 tl2_dates: 1800-1857
-tl2_page_id: 33068425
+tl2_bhl_page_id: 33068425
 author_lsid: 3911-1
 wikidata_id: Q1036002
 ipni_surname: Heuffel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33068425) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3911-1), [Wikidata](https://www.wikidata.org/wiki/Q1036002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3911-1) LSID 3911-1, [Wikidata](https://www.wikidata.org/wiki/Q1036002) QID Q1036002
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

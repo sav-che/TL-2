@@ -6,7 +6,7 @@ tl2_surname: Feldmann
 tl2_forenames: Geneviève (née Mazoyer)
 tl2_name_abbrev: Feldm.-Maz.
 tl2_dates: 1910-1994
-tl2_page_id: 33259619
+tl2_bhl_page_id: 33259619
 author_lsid: 33083-1
 wikidata_id: Q21512769
 ipni_surname: Feldmann-Mazoyer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259619) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/33083-1), [Wikidata](https://www.wikidata.org/wiki/Q21512769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33083-1) LSID 33083-1, [Wikidata](https://www.wikidata.org/wiki/Q21512769) QID Q21512769
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

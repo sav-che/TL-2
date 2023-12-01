@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0909
 tl2_volume: vol2
 tl2_page_printed: 764
 tl2_surname: Latourrette
-tl2_forenames: Marc Antione Louis Claret de [Fleurieude]
+tl2_forenames: Marc Antione Louis Claret de (Fleurieude)
 tl2_name_abbrev: Latourr.
 tl2_dates: 1729-1793
-tl2_page_id: 33069006
+tl2_bhl_page_id: 33069006
 author_lsid: 5308-1
 wikidata_id: Q3287779
 ipni_surname: Latourrette
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:53:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33069006) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5308-1), [Wikidata](https://www.wikidata.org/wiki/Q3287779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5308-1) LSID 5308-1, [Wikidata](https://www.wikidata.org/wiki/Q3287779) QID Q3287779
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

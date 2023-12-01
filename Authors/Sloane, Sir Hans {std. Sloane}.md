@@ -6,7 +6,7 @@ tl2_surname: Sloane
 tl2_forenames: Sir Hans
 tl2_name_abbrev: Sloane
 tl2_dates: 1660-1753
-tl2_page_id: 33333784
+tl2_bhl_page_id: 33333784
 author_lsid: 12871-1
 wikidata_id: Q310326
 ipni_surname: Sloane
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33333784) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12871-1), [Wikidata](https://www.wikidata.org/wiki/Q310326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12871-1) LSID 12871-1, [Wikidata](https://www.wikidata.org/wiki/Q310326) QID Q310326
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

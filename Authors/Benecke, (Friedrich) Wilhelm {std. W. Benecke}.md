@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0070
 tl2_volume: suppl2
 tl2_page_printed: 68
 tl2_surname: Benecke
-tl2_forenames: [Friedrich] Wilhelm
+tl2_forenames: (Friedrich) Wilhelm
 tl2_name_abbrev: W. Benecke
 tl2_dates: 1868-1946
-tl2_page_id: 33265265
+tl2_bhl_page_id: 33265265
 author_lsid: 646-1
 wikidata_id: Q5569807
 ipni_surname: Benecke
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33265265) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/646-1), [Wikidata](https://www.wikidata.org/wiki/Q5569807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/646-1) LSID 646-1, [Wikidata](https://www.wikidata.org/wiki/Q5569807) QID Q5569807
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

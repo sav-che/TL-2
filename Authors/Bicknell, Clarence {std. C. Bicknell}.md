@@ -6,7 +6,7 @@ tl2_surname: Bicknell
 tl2_forenames: Clarence
 tl2_name_abbrev: C. Bicknell
 tl2_dates: 1842-1918
-tl2_page_id: 33120342
+tl2_bhl_page_id: 33120342
 author_lsid: 772-1
 wikidata_id: Q890698
 ipni_surname: Bicknell
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33120342) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/772-1), [Wikidata](https://www.wikidata.org/wiki/Q890698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/772-1) LSID 772-1, [Wikidata](https://www.wikidata.org/wiki/Q890698) QID Q890698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bicknell, Clarence {std. C. Bicknell} (Suppl.)|second entry]] for this author
 

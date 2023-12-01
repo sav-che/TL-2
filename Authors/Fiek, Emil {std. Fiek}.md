@@ -6,7 +6,7 @@ tl2_surname: Fiek
 tl2_forenames: Emil
 tl2_name_abbrev: Fiek
 tl2_dates: 1840-1897
-tl2_page_id: 33120959
+tl2_bhl_page_id: 33120959
 author_lsid: 2714-1
 wikidata_id: Q5830772
 ipni_surname: Fiek
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33120959) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2714-1), [Wikidata](https://www.wikidata.org/wiki/Q5830772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2714-1) LSID 2714-1, [Wikidata](https://www.wikidata.org/wiki/Q5830772) QID Q5830772
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fiek, Emil {std. Fiek} (Suppl.)|second entry]] for this author
 

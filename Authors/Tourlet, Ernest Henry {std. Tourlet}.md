@@ -6,7 +6,7 @@ tl2_surname: Tourlet
 tl2_forenames: Ernest Henry
 tl2_name_abbrev: Tourlet
 tl2_dates: 1843-1907
-tl2_page_id: 33212453
+tl2_bhl_page_id: 33212453
 author_lsid: 10762-1
 wikidata_id: Q5836710
 ipni_surname: Tourlet
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33212453) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10762-1), [Wikidata](https://www.wikidata.org/wiki/Q5836710). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10762-1) LSID 10762-1, [Wikidata](https://www.wikidata.org/wiki/Q5836710) QID Q5836710
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

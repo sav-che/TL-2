@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0028
 tl2_volume: vol4
 tl2_page_printed: 20
 tl2_surname: Pallas
-tl2_forenames: Peter [Pyotr] Simon
+tl2_forenames: Peter (Pyotr) Simon
 tl2_name_abbrev: Pall.
 tl2_dates: 1741-1811
-tl2_page_id: 33189495
+tl2_bhl_page_id: 33189495
 author_lsid: 7276-1
 wikidata_id: Q155914
 ipni_surname: Pallas
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:31:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7276-1), [Wikidata](https://www.wikidata.org/wiki/Q155914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7276-1) LSID 7276-1, [Wikidata](https://www.wikidata.org/wiki/Q155914) QID Q155914
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

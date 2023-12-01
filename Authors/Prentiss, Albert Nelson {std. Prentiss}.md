@@ -6,7 +6,7 @@ tl2_surname: Prentiss
 tl2_forenames: Albert Nelson
 tl2_name_abbrev: Prentiss
 tl2_dates: 1836-1896
-tl2_page_id: 33189859
+tl2_bhl_page_id: 33189859
 author_lsid: 7942-1
 wikidata_id: Q21523222
 ipni_surname: Prentiss
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33189859) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7942-1), [Wikidata](https://www.wikidata.org/wiki/Q21523222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7942-1) LSID 7942-1, [Wikidata](https://www.wikidata.org/wiki/Q21523222) QID Q21523222
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

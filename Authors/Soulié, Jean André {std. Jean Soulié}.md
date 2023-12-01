@@ -6,27 +6,32 @@ tl2_surname: Soulié
 tl2_forenames: Jean André
 tl2_name_abbrev: Jean Soulié
 tl2_dates: 1858-1900
-tl2_page_id: 33333895
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33333895
+author_lsid: 9919-1
+wikidata_id: Q3163695
+ipni_surname: Soulié
+ipni_forenames: Jean André
+ipni_standard_form: J.Soulié
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+- China
+- France
+ipni_version: 1.2
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9919-1) LSID 9919-1, [Wikidata](https://www.wikidata.org/wiki/Q3163695) QID Q3163695
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Soulié, Jean André (1858-1900), French roman catholic priest and missionary; to Tibet in the mission at Ta-tsien-lu 1885, in 1891 at Yar-gong (Yerka-lo); enthusiastic botanical and zoological collector; murdered 1905. 
-**Abbreviated name**: *Jean Soulié*
+**Abbreviated name**: *Jean Soulié* \[standard form in IPNI: *J.Soulié*\]
 
 #### Herbarium and types
 

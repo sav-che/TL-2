@@ -6,7 +6,7 @@ tl2_surname: Weismann
 tl2_forenames: August
 tl2_name_abbrev: Weismann
 tl2_dates: 1834-1914
-tl2_page_id: 33066502
+tl2_bhl_page_id: 33066502
 author_lsid: 11520-1
 wikidata_id: Q76465
 ipni_surname: Weismann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11520-1), [Wikidata](https://www.wikidata.org/wiki/Q76465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11520-1) LSID 11520-1, [Wikidata](https://www.wikidata.org/wiki/Q76465) QID Q76465
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Joachim
 tl2_forenames: Leon
 tl2_name_abbrev: Joachim
 tl2_dates: 1873-1945
-tl2_page_id: 33068686
+tl2_bhl_page_id: 33068686
 author_lsid: 4493-1
 wikidata_id: Q21517039
 ipni_surname: Joachim
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4493-1), [Wikidata](https://www.wikidata.org/wiki/Q21517039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4493-1) LSID 4493-1, [Wikidata](https://www.wikidata.org/wiki/Q21517039) QID Q21517039
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

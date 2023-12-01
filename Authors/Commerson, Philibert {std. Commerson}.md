@@ -6,7 +6,7 @@ tl2_surname: Commerson
 tl2_forenames: Philibert
 tl2_name_abbrev: Commerson
 tl2_dates: 1727-1773
-tl2_page_id: 33120663
+tl2_bhl_page_id: 33120663
 author_lsid: 1753-1
 wikidata_id: Q595066
 ipni_surname: Commerson
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33120663) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1753-1), [Wikidata](https://www.wikidata.org/wiki/Q595066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1753-1) LSID 1753-1, [Wikidata](https://www.wikidata.org/wiki/Q595066) QID Q595066
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

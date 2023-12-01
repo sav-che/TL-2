@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0742
 tl2_volume: vol3
 tl2_page_printed: 635
 tl2_surname: Mueller
-tl2_forenames: Jean Baptiste [Baptista]
+tl2_forenames: Jean Baptiste (Baptista)
 tl2_name_abbrev: J.B. Müll
 tl2_dates: 1806-1894
-tl2_page_id: 33355722
+tl2_bhl_page_id: 33355722
 author_lsid: 6736-1
 wikidata_id: Q56651425
 ipni_surname: Müller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33355722) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6736-1), [Wikidata](https://www.wikidata.org/wiki/Q56651425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6736-1) LSID 6736-1, [Wikidata](https://www.wikidata.org/wiki/Q56651425) QID Q56651425
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

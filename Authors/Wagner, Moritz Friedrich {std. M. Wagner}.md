@@ -6,7 +6,7 @@ tl2_surname: Wagner
 tl2_forenames: Moritz Friedrich
 tl2_name_abbrev: M. Wagner
 tl2_dates: 1813-1887
-tl2_page_id: 33066352
+tl2_bhl_page_id: 33066352
 author_lsid: 11306-1
 wikidata_id: Q68757
 ipni_surname: Wagner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33066352) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11306-1), [Wikidata](https://www.wikidata.org/wiki/Q68757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11306-1) LSID 11306-1, [Wikidata](https://www.wikidata.org/wiki/Q68757) QID Q68757
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

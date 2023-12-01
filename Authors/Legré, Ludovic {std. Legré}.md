@@ -6,7 +6,7 @@ tl2_surname: Legré
 tl2_forenames: Ludovic
 tl2_name_abbrev: Legré
 tl2_dates: 1838-1904
-tl2_page_id: 33069059
+tl2_bhl_page_id: 33069059
 author_lsid: 5424-1
 wikidata_id: Q18590031
 ipni_surname: Legré
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5424-1), [Wikidata](https://www.wikidata.org/wiki/Q18590031). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5424-1) LSID 5424-1, [Wikidata](https://www.wikidata.org/wiki/Q18590031) QID Q18590031
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

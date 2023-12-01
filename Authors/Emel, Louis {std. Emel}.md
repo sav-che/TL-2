@@ -6,7 +6,7 @@ tl2_surname: Emel
 tl2_forenames: Louis
 tl2_name_abbrev: Emel
 tl2_dates: fl. 1921
-tl2_page_id: 33260320
+tl2_bhl_page_id: 33260320
 author_lsid: 20001219-1
 wikidata_id: Q36612381
 ipni_surname: Emel
@@ -23,7 +23,8 @@ ipni_record_modified: 2004-09-23 04:13:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33260320) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20001219-1), [Wikidata](https://www.wikidata.org/wiki/Q36612381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20001219-1) LSID 20001219-1, [Wikidata](https://www.wikidata.org/wiki/Q36612381) QID Q36612381
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

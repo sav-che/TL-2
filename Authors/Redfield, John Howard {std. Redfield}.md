@@ -6,7 +6,7 @@ tl2_surname: Redfield
 tl2_forenames: John Howard
 tl2_name_abbrev: Redfield
 tl2_dates: 1815-1895
-tl2_page_id: 33190092
+tl2_bhl_page_id: 33190092
 author_lsid: 8219-1
 wikidata_id: Q19359323
 ipni_surname: Redfield
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:39:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33190092) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8219-1), [Wikidata](https://www.wikidata.org/wiki/Q19359323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8219-1) LSID 8219-1, [Wikidata](https://www.wikidata.org/wiki/Q19359323) QID Q19359323
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

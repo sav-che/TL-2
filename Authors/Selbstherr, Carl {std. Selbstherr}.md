@@ -6,7 +6,7 @@ tl2_surname: Selbstherr
 tl2_forenames: Carl
 tl2_name_abbrev: Selbstherr
 tl2_dates: fl. 1832
-tl2_page_id: 33333634
+tl2_bhl_page_id: 33333634
 author_lsid: 9451-1
 wikidata_id: Q36530691
 ipni_surname: Selbstherr
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9451-1), [Wikidata](https://www.wikidata.org/wiki/Q36530691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9451-1) LSID 9451-1, [Wikidata](https://www.wikidata.org/wiki/Q36530691) QID Q36530691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

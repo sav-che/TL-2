@@ -6,7 +6,7 @@ tl2_surname: Marquis
 tl2_forenames: Alexandre Louis
 tl2_name_abbrev: Marquis
 tl2_dates: 1777-1828
-tl2_page_id: 33355390
+tl2_bhl_page_id: 33355390
 author_lsid: 6126-1
 wikidata_id: Q4281914
 ipni_surname: Marquis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6126-1), [Wikidata](https://www.wikidata.org/wiki/Q4281914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6126-1) LSID 6126-1, [Wikidata](https://www.wikidata.org/wiki/Q4281914) QID Q4281914
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

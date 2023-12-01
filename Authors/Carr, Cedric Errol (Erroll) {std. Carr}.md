@@ -6,7 +6,7 @@ tl2_surname: Carr
 tl2_forenames: Cedric Errol (Erroll)
 tl2_name_abbrev: Carr
 tl2_dates: 1892-1936
-tl2_page_id: 33120590
+tl2_bhl_page_id: 33120590
 author_lsid: 1413-1
 wikidata_id: Q3281323
 ipni_surname: Carr
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1413-1), [Wikidata](https://www.wikidata.org/wiki/Q3281323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1413-1) LSID 1413-1, [Wikidata](https://www.wikidata.org/wiki/Q3281323) QID Q3281323
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

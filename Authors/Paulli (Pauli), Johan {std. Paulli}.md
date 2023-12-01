@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol4_0120
 tl2_volume: vol4
 tl2_page_printed: 113
-tl2_surname: Paulli [Pauli]
+tl2_surname: Paulli (Pauli)
 tl2_forenames: Johan
 tl2_name_abbrev: Paulli
 tl2_dates: 1732-1804
-tl2_page_id: 33189584
+tl2_bhl_page_id: 33189584
 author_lsid: 7409-1
 wikidata_id: Q21522703
 ipni_surname: Paulli
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7409-1), [Wikidata](https://www.wikidata.org/wiki/Q21522703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7409-1) LSID 7409-1, [Wikidata](https://www.wikidata.org/wiki/Q21522703) QID Q21522703
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

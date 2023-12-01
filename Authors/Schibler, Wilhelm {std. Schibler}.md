@@ -6,7 +6,7 @@ tl2_surname: Schibler
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Schibler
 tl2_dates: 1861-1931
-tl2_page_id: 33333284
+tl2_bhl_page_id: 33333284
 author_lsid: 9070-1
 wikidata_id: Q21607900
 ipni_surname: Schibler
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33333284) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9070-1), [Wikidata](https://www.wikidata.org/wiki/Q21607900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9070-1) LSID 9070-1, [Wikidata](https://www.wikidata.org/wiki/Q21607900) QID Q21607900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

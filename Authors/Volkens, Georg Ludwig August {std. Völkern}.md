@@ -6,7 +6,7 @@ tl2_surname: Volkens
 tl2_forenames: Georg Ludwig August
 tl2_name_abbrev: Völkern
 tl2_dates: 1855-1917
-tl2_page_id: 33212820
+tl2_bhl_page_id: 33212820
 author_lsid: 11253-1
 wikidata_id: Q75245
 ipni_surname: Volkens
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33212820) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11253-1), [Wikidata](https://www.wikidata.org/wiki/Q75245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11253-1) LSID 11253-1, [Wikidata](https://www.wikidata.org/wiki/Q75245) QID Q75245
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_1022
 tl2_volume: vol3
 tl2_page_printed: 857
 tl2_surname: Otth
-tl2_forenames: [Carl] Adolph
+tl2_forenames: (Carl) Adolph
 tl2_name_abbrev: Otth
 tl2_dates: 1803-1839
-tl2_page_id: 33355944
+tl2_bhl_page_id: 33355944
 author_lsid: 12717-1
 wikidata_id: Q115917
 ipni_surname: Otth
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12717-1), [Wikidata](https://www.wikidata.org/wiki/Q115917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12717-1) LSID 12717-1, [Wikidata](https://www.wikidata.org/wiki/Q115917) QID Q115917
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

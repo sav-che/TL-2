@@ -6,7 +6,7 @@ tl2_surname: Nott
 tl2_forenames: Charles Palmer
 tl2_name_abbrev: Nott
 tl2_dates: fl. 1896-1900
-tl2_page_id: 33355865
+tl2_bhl_page_id: 33355865
 author_lsid: 7046-1
 wikidata_id: Q5081283
 ipni_surname: Nott
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33355865) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7046-1), [Wikidata](https://www.wikidata.org/wiki/Q5081283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7046-1) LSID 7046-1, [Wikidata](https://www.wikidata.org/wiki/Q5081283) QID Q5081283
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Ackermann
 tl2_forenames: Jacob Fidelis
 tl2_name_abbrev: Ackermann
 tl2_dates: 1765-1815
-tl2_page_id: 33264759
+tl2_bhl_page_id: 33264759
 author_lsid: 40524-1
 wikidata_id: Q98053
 ipni_surname: Ackermann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/40524-1), [Wikidata](https://www.wikidata.org/wiki/Q98053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/40524-1) LSID 40524-1, [Wikidata](https://www.wikidata.org/wiki/Q98053) QID Q98053
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

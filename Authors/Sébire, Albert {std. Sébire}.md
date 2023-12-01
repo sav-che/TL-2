@@ -6,7 +6,7 @@ tl2_surname: Sébire
 tl2_forenames: Albert
 tl2_name_abbrev: Sébire
 tl2_dates: 1863-1936
-tl2_page_id: 33333608
+tl2_bhl_page_id: 33333608
 author_lsid: 9409-1
 wikidata_id: Q21608587
 ipni_surname: Sébire
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33333608) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9409-1), [Wikidata](https://www.wikidata.org/wiki/Q21608587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9409-1) LSID 9409-1, [Wikidata](https://www.wikidata.org/wiki/Q21608587) QID Q21608587
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

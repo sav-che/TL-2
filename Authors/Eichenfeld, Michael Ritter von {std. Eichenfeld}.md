@@ -6,7 +6,7 @@ tl2_surname: Eichenfeld
 tl2_forenames: Michael Ritter von
 tl2_name_abbrev: Eichenfeld
 tl2_dates: 1839-1916
-tl2_page_id: 33260263
+tl2_bhl_page_id: 33260263
 author_lsid: 20016683-1
 wikidata_id: Q21511574
 ipni_surname: Eichenfeld
@@ -22,7 +22,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20016683-1), [Wikidata](https://www.wikidata.org/wiki/Q21511574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20016683-1) LSID 20016683-1, [Wikidata](https://www.wikidata.org/wiki/Q21511574) QID Q21511574
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Risso
 tl2_forenames: Joseph Antoine
 tl2_name_abbrev: Risso
 tl2_dates: 1777-1845
-tl2_page_id: 33190269
+tl2_bhl_page_id: 33190269
 author_lsid: 8409-1
 wikidata_id: Q368330
 ipni_surname: Risso
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:43:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33190269) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8409-1), [Wikidata](https://www.wikidata.org/wiki/Q368330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8409-1) LSID 8409-1, [Wikidata](https://www.wikidata.org/wiki/Q368330) QID Q368330
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

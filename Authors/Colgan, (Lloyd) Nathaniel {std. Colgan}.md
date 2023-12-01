@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0200
 tl2_volume: suppl4
 tl2_page_printed: 266
 tl2_surname: Colgan
-tl2_forenames: [Lloyd] Nathaniel
+tl2_forenames: (Lloyd) Nathaniel
 tl2_name_abbrev: Colgan
 tl2_dates: 1851-1919
-tl2_page_id: 33265943
+tl2_bhl_page_id: 33265943
 author_lsid: 38828-1
 wikidata_id: Q6969547
 ipni_surname: Colgan
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265943) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/38828-1), [Wikidata](https://www.wikidata.org/wiki/Q6969547). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/38828-1) LSID 38828-1, [Wikidata](https://www.wikidata.org/wiki/Q6969547) QID Q6969547
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

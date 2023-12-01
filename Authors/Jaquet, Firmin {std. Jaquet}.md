@@ -6,7 +6,7 @@ tl2_surname: Jaquet
 tl2_forenames: Firmin
 tl2_name_abbrev: Jaquet
 tl2_dates: 1858-1933
-tl2_page_id: 33068667
+tl2_bhl_page_id: 33068667
 author_lsid: 4430-1
 wikidata_id: Q21516938
 ipni_surname: Jaquet
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4430-1), [Wikidata](https://www.wikidata.org/wiki/Q21516938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4430-1) LSID 4430-1, [Wikidata](https://www.wikidata.org/wiki/Q21516938) QID Q21516938
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

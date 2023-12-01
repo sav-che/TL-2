@@ -6,7 +6,7 @@ tl2_surname: Forsström
 tl2_forenames: Johan Eric
 tl2_name_abbrev: Forsström
 tl2_dates: 1775-1824
-tl2_page_id: 33120988
+tl2_bhl_page_id: 33120988
 author_lsid: 2832-1
 wikidata_id: Q6215032
 ipni_surname: Forsström
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33120988) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2832-1), [Wikidata](https://www.wikidata.org/wiki/Q6215032). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2832-1) LSID 2832-1, [Wikidata](https://www.wikidata.org/wiki/Q6215032) QID Q6215032
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

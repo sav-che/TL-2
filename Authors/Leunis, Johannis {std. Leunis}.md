@@ -6,7 +6,7 @@ tl2_surname: Leunis
 tl2_forenames: Johannis
 tl2_name_abbrev: Leunis
 tl2_dates: 1802-1873
-tl2_page_id: 33069104
+tl2_bhl_page_id: 33069104
 author_lsid: 5527-1
 wikidata_id: Q102540
 ipni_surname: Leunis
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33069104) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5527-1), [Wikidata](https://www.wikidata.org/wiki/Q102540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5527-1) LSID 5527-1, [Wikidata](https://www.wikidata.org/wiki/Q102540) QID Q102540
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

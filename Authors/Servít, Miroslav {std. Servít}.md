@@ -6,7 +6,7 @@ tl2_surname: Servít
 tl2_forenames: Miroslav
 tl2_name_abbrev: Servít
 tl2_dates: 1886-1959
-tl2_page_id: 33333663
+tl2_bhl_page_id: 33333663
 author_lsid: 9512-1
 wikidata_id: Q20901815
 ipni_surname: Servít
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33333663) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9512-1), [Wikidata](https://www.wikidata.org/wiki/Q20901815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9512-1) LSID 9512-1, [Wikidata](https://www.wikidata.org/wiki/Q20901815) QID Q20901815
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

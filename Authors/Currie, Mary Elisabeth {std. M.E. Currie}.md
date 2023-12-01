@@ -6,7 +6,7 @@ tl2_surname: Currie
 tl2_forenames: Mary Elisabeth
 tl2_name_abbrev: M.E. Currie
 tl2_dates: 1896-x
-tl2_page_id: 33266190
+tl2_bhl_page_id: 33266190
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33266190) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

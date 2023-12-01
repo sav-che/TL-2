@@ -6,7 +6,7 @@ tl2_surname: Robertson
 tl2_forenames: David
 tl2_name_abbrev: D. Robertson
 tl2_dates: 1806-1896
-tl2_page_id: 33190282
+tl2_bhl_page_id: 33190282
 author_lsid: 8446-1
 wikidata_id: Q537108
 ipni_surname: Robertson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8446-1), [Wikidata](https://www.wikidata.org/wiki/Q537108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8446-1) LSID 8446-1, [Wikidata](https://www.wikidata.org/wiki/Q537108) QID Q537108
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

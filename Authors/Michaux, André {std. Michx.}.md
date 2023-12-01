@@ -6,7 +6,7 @@ tl2_surname: Michaux
 tl2_forenames: André
 tl2_name_abbrev: Michx.
 tl2_dates: 1746-1803
-tl2_page_id: 33355543
+tl2_bhl_page_id: 33355543
 author_lsid: 6431-1
 wikidata_id: Q521848
 ipni_surname: Michaux
@@ -30,7 +30,8 @@ ipni_record_modified: 2013-12-05 15:51:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33355543) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6431-1), [Wikidata](https://www.wikidata.org/wiki/Q521848). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6431-1) LSID 6431-1, [Wikidata](https://www.wikidata.org/wiki/Q521848) QID Q521848
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0311
 tl2_volume: vol5
 tl2_page_printed: 320
 tl2_surname: Schrader
-tl2_forenames: Johann Christian Carl [Karl]
+tl2_forenames: Johann Christian Carl (Karl)
 tl2_name_abbrev: J.C.C. Schrad.
 tl2_dates: 1762-1826
-tl2_page_id: 33333459
+tl2_bhl_page_id: 33333459
 author_lsid: 9248-1
 wikidata_id: Q21608399
 ipni_surname: Schrader
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33333459) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9248-1), [Wikidata](https://www.wikidata.org/wiki/Q21608399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9248-1) LSID 9248-1, [Wikidata](https://www.wikidata.org/wiki/Q21608399) QID Q21608399
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

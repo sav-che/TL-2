@@ -6,7 +6,7 @@ tl2_surname: Oertel
 tl2_forenames: C. Gustav
 tl2_name_abbrev: Oertel
 tl2_dates: 1833-1908
-tl2_page_id: 33355899
+tl2_bhl_page_id: 33355899
 author_lsid: 24258-1
 wikidata_id: Q21522327
 ipni_surname: Oertel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33355899) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24258-1), [Wikidata](https://www.wikidata.org/wiki/Q21522327). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24258-1) LSID 24258-1, [Wikidata](https://www.wikidata.org/wiki/Q21522327) QID Q21522327
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

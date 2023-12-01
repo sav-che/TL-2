@@ -6,7 +6,7 @@ tl2_surname: Saussure
 tl2_forenames: Horace Bénédict de
 tl2_name_abbrev: Saussure
 tl2_dates: 1740-1799
-tl2_page_id: 33333209
+tl2_bhl_page_id: 33333209
 author_lsid: 8959-1
 wikidata_id: Q115525
 ipni_surname: Saussure
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33333209) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8959-1), [Wikidata](https://www.wikidata.org/wiki/Q115525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8959-1) LSID 8959-1, [Wikidata](https://www.wikidata.org/wiki/Q115525) QID Q115525
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

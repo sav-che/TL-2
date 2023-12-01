@@ -6,7 +6,7 @@ tl2_surname: Morse
 tl2_forenames: Elizabeth Eaton
 tl2_name_abbrev: Morse
 tl2_dates: 1864-1955
-tl2_page_id: 33355683
+tl2_bhl_page_id: 33355683
 author_lsid: 23659-1
 wikidata_id: Q21521762
 ipni_surname: Morse
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23659-1), [Wikidata](https://www.wikidata.org/wiki/Q21521762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23659-1) LSID 23659-1, [Wikidata](https://www.wikidata.org/wiki/Q21521762) QID Q21521762
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Windsor
 tl2_forenames: John
 tl2_name_abbrev: Windsor
 tl2_dates: 1787-1868
-tl2_page_id: 33066704
+tl2_bhl_page_id: 33066704
 author_lsid: 11759-1
 wikidata_id: Q21612815
 ipni_surname: Windsor
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33066704) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11759-1), [Wikidata](https://www.wikidata.org/wiki/Q21612815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11759-1) LSID 11759-1, [Wikidata](https://www.wikidata.org/wiki/Q21612815) QID Q21612815
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

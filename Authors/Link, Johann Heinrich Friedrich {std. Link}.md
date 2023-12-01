@@ -6,7 +6,7 @@ tl2_surname: Link
 tl2_forenames: Johann Heinrich Friedrich
 tl2_name_abbrev: Link
 tl2_dates: 1767-1851
-tl2_page_id: 33355152
+tl2_bhl_page_id: 33355152
 author_lsid: 22401-1
 wikidata_id: Q215466
 ipni_surname: Link
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:39:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22401-1), [Wikidata](https://www.wikidata.org/wiki/Q215466). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22401-1) LSID 22401-1, [Wikidata](https://www.wikidata.org/wiki/Q215466) QID Q215466
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

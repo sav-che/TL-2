@@ -6,7 +6,7 @@ tl2_surname: Wesenburg-Lund
 tl2_forenames: Carl Jørgen
 tl2_name_abbrev: Wesenb.-Lund
 tl2_dates: 1867-1955
-tl2_page_id: 33066537
+tl2_bhl_page_id: 33066537
 author_lsid: 11569-1
 wikidata_id: Q21612492
 ipni_surname: Wesenburg-Lund
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33066537) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11569-1), [Wikidata](https://www.wikidata.org/wiki/Q21612492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11569-1) LSID 11569-1, [Wikidata](https://www.wikidata.org/wiki/Q21612492) QID Q21612492
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

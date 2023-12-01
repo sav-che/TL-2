@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0081
 tl2_volume: vol6
 tl2_page_printed: 60
 tl2_surname: Stumpf
-tl2_forenames: [Johann] Georg
+tl2_forenames: (Johann) Georg
 tl2_name_abbrev: Stumpf
 tl2_dates: 1750-1798
-tl2_page_id: 33212064
+tl2_bhl_page_id: 33212064
 author_lsid: 12898-1
 wikidata_id: Q21609979
 ipni_surname: Stumpf
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12898-1), [Wikidata](https://www.wikidata.org/wiki/Q21609979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12898-1) LSID 12898-1, [Wikidata](https://www.wikidata.org/wiki/Q21609979) QID Q21609979
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

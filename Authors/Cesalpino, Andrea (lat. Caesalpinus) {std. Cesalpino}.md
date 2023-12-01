@@ -6,7 +6,7 @@ tl2_surname: Cesalpino
 tl2_forenames: Andrea (lat. Caesalpinus)
 tl2_name_abbrev: Cesalpino
 tl2_dates: 1519-1603
-tl2_page_id: 33120609
+tl2_bhl_page_id: 33120609
 author_lsid: 1483-1
 wikidata_id: Q346523
 ipni_surname: Cesalpino
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33120609) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1483-1), [Wikidata](https://www.wikidata.org/wiki/Q346523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1483-1) LSID 1483-1, [Wikidata](https://www.wikidata.org/wiki/Q346523) QID Q346523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

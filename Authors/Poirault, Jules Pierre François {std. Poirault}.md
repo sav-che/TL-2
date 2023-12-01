@@ -6,7 +6,7 @@ tl2_surname: Poirault
 tl2_forenames: Jules Pierre François
 tl2_name_abbrev: Poirault
 tl2_dates: 1830-1907
-tl2_page_id: 33189790
+tl2_bhl_page_id: 33189790
 author_lsid: 7790-1
 wikidata_id: Q21523072
 ipni_surname: Poirault
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33189790) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7790-1), [Wikidata](https://www.wikidata.org/wiki/Q21523072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7790-1) LSID 7790-1, [Wikidata](https://www.wikidata.org/wiki/Q21523072) QID Q21523072
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

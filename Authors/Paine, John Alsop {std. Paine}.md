@@ -6,7 +6,7 @@ tl2_surname: Paine
 tl2_forenames: John Alsop
 tl2_name_abbrev: Paine
 tl2_dates: 1840-1912
-tl2_page_id: 33189506
+tl2_bhl_page_id: 33189506
 author_lsid: 7253-1
 wikidata_id: Q4348021
 ipni_surname: Paine
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7253-1), [Wikidata](https://www.wikidata.org/wiki/Q4348021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7253-1) LSID 7253-1, [Wikidata](https://www.wikidata.org/wiki/Q4348021) QID Q4348021
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

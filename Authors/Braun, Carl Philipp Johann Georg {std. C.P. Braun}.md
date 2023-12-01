@@ -6,7 +6,7 @@ tl2_surname: Braun
 tl2_forenames: Carl Philipp Johann Georg
 tl2_name_abbrev: C.P. Braun
 tl2_dates: 1870-1935
-tl2_page_id: 33266341
+tl2_bhl_page_id: 33266341
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33266341) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pearl
 tl2_forenames: Raymond
 tl2_name_abbrev: Pearl
 tl2_dates: 1879-1940
-tl2_page_id: 33189600
+tl2_bhl_page_id: 33189600
 author_lsid: 7439-1
 wikidata_id: Q913632
 ipni_surname: Pearl
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33189600) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7439-1), [Wikidata](https://www.wikidata.org/wiki/Q913632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7439-1) LSID 7439-1, [Wikidata](https://www.wikidata.org/wiki/Q913632) QID Q913632
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

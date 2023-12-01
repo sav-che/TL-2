@@ -6,7 +6,7 @@ tl2_surname: Zapalowicz
 tl2_forenames: Hugo
 tl2_name_abbrev: Zapat.
 tl2_dates: 1852-1917
-tl2_page_id: 33066861
+tl2_bhl_page_id: 33066861
 author_lsid: 11990-1
 wikidata_id: Q972643
 ipni_surname: Zapałowicz
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33066861) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11990-1), [Wikidata](https://www.wikidata.org/wiki/Q972643). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11990-1) LSID 11990-1, [Wikidata](https://www.wikidata.org/wiki/Q972643) QID Q972643
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Silvestri
 tl2_forenames: Filippo
 tl2_name_abbrev: F. Silvestri
 tl2_dates: 1873-1949
-tl2_page_id: 33333740
+tl2_bhl_page_id: 33333740
 author_lsid: 9655-1
 wikidata_id: Q2262181
 ipni_surname: Silvestri
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33333740) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9655-1), [Wikidata](https://www.wikidata.org/wiki/Q2262181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9655-1) LSID 9655-1, [Wikidata](https://www.wikidata.org/wiki/Q2262181) QID Q2262181
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

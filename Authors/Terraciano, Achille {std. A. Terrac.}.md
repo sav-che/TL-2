@@ -6,7 +6,7 @@ tl2_surname: Terraciano
 tl2_forenames: Achille
 tl2_name_abbrev: A. Terrac.
 tl2_dates: 1862-1917
-tl2_page_id: 33212265
+tl2_bhl_page_id: 33212265
 author_lsid: 10526-1
 wikidata_id: Q5656588
 ipni_surname: Terracciano
@@ -25,7 +25,8 @@ ipni_record_modified: 2007-01-03 02:24:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10526-1), [Wikidata](https://www.wikidata.org/wiki/Q5656588). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10526-1) LSID 10526-1, [Wikidata](https://www.wikidata.org/wiki/Q5656588) QID Q5656588
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

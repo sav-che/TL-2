@@ -6,7 +6,7 @@ tl2_surname: Engesser
 tl2_forenames: Carl
 tl2_name_abbrev: Engesser
 tl2_dates: fl. 1852
-tl2_page_id: 33120887
+tl2_bhl_page_id: 33120887
 author_lsid: 2541-1
 wikidata_id: Q36524295
 ipni_surname: Engesser
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33120887) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2541-1), [Wikidata](https://www.wikidata.org/wiki/Q36524295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2541-1) LSID 2541-1, [Wikidata](https://www.wikidata.org/wiki/Q36524295) QID Q36524295
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

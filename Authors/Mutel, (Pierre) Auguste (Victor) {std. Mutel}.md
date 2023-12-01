@@ -6,7 +6,7 @@ tl2_surname: Mutel
 tl2_forenames: (Pierre) Auguste (Victor)
 tl2_name_abbrev: Mutel
 tl2_dates: 1795-1847
-tl2_page_id: 33355762
+tl2_bhl_page_id: 33355762
 author_lsid: 6818-1
 wikidata_id: Q4308631
 ipni_surname: Mutel
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33355762) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6818-1), [Wikidata](https://www.wikidata.org/wiki/Q4308631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6818-1) LSID 6818-1, [Wikidata](https://www.wikidata.org/wiki/Q4308631) QID Q4308631
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

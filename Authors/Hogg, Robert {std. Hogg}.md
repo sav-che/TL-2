@@ -6,7 +6,7 @@ tl2_surname: Hogg
 tl2_forenames: Robert
 tl2_name_abbrev: Hogg
 tl2_dates: 1818-1897
-tl2_page_id: 33068493
+tl2_bhl_page_id: 33068493
 author_lsid: 4032-1
 wikidata_id: Q1571904
 ipni_surname: Hogg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33068493) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4032-1), [Wikidata](https://www.wikidata.org/wiki/Q1571904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4032-1) LSID 4032-1, [Wikidata](https://www.wikidata.org/wiki/Q1571904) QID Q1571904
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

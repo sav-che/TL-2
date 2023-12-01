@@ -6,7 +6,7 @@ tl2_surname: Stromeyer
 tl2_forenames: August Adolf Ludwig
 tl2_name_abbrev: A. Stromeyer
 tl2_dates: fl. 1829
-tl2_page_id: 33212056
+tl2_bhl_page_id: 33212056
 author_lsid: 10228-1
 wikidata_id: Q36511627
 ipni_surname: Stromeyer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33212056) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10228-1), [Wikidata](https://www.wikidata.org/wiki/Q36511627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10228-1) LSID 10228-1, [Wikidata](https://www.wikidata.org/wiki/Q36511627) QID Q36511627
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Taupenot
 tl2_forenames: J.M.
 tl2_name_abbrev: Taupenot
 tl2_dates: fl. 1851
-tl2_page_id: 33212224
+tl2_bhl_page_id: 33212224
 author_lsid: 10452-1
 wikidata_id: Q36600434
 ipni_surname: Taupenot
@@ -24,7 +24,8 @@ ipni_record_modified: 2018-08-23 18:16:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33212224) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10452-1), [Wikidata](https://www.wikidata.org/wiki/Q36600434). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10452-1) LSID 10452-1, [Wikidata](https://www.wikidata.org/wiki/Q36600434) QID Q36600434
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

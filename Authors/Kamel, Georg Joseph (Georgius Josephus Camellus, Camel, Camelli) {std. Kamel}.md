@@ -6,7 +6,7 @@ tl2_surname: Kamel
 tl2_forenames: Georg Joseph (Georgius Josephus Camellus, Camel, Camelli)
 tl2_name_abbrev: Kamel
 tl2_dates: 1661-1706
-tl2_page_id: 33068733
+tl2_bhl_page_id: 33068733
 author_lsid: 35176-1
 wikidata_id: Q552049
 ipni_surname: Kamel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33068733) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/35176-1), [Wikidata](https://www.wikidata.org/wiki/Q552049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35176-1) LSID 35176-1, [Wikidata](https://www.wikidata.org/wiki/Q552049) QID Q552049
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

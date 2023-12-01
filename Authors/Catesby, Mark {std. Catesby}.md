@@ -6,7 +6,7 @@ tl2_surname: Catesby
 tl2_forenames: Mark
 tl2_name_abbrev: Catesby
 tl2_dates: 1683-1749
-tl2_page_id: 33120600
+tl2_bhl_page_id: 33120600
 author_lsid: 1457-1
 wikidata_id: Q334914
 ipni_surname: Catesby
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1457-1), [Wikidata](https://www.wikidata.org/wiki/Q334914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1457-1) LSID 1457-1, [Wikidata](https://www.wikidata.org/wiki/Q334914) QID Q334914
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Webb
 tl2_forenames: David Allardice
 tl2_name_abbrev: D. Webb
 tl2_dates: 1912-x
-tl2_page_id: 33066457
+tl2_bhl_page_id: 33066457
 author_lsid: 11453-1
 wikidata_id: Q2313258
 ipni_surname: Webb
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33066457) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11453-1), [Wikidata](https://www.wikidata.org/wiki/Q2313258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11453-1) LSID 11453-1, [Wikidata](https://www.wikidata.org/wiki/Q2313258) QID Q2313258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

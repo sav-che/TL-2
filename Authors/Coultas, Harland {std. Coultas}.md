@@ -6,7 +6,7 @@ tl2_surname: Coultas
 tl2_forenames: Harland
 tl2_name_abbrev: Coultas
 tl2_dates: x-1877
-tl2_page_id: 33266089
+tl2_bhl_page_id: 33266089
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266089) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

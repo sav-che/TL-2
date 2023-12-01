@@ -6,7 +6,7 @@ tl2_surname: McInteer
 tl2_forenames: Berthus Boston
 tl2_name_abbrev: McInteer
 tl2_dates: 1887-1978
-tl2_page_id: 33355311
+tl2_bhl_page_id: 33355311
 author_lsid: 5930-1
 wikidata_id: Q21520248
 ipni_surname: McInteer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33355311) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5930-1), [Wikidata](https://www.wikidata.org/wiki/Q21520248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5930-1) LSID 5930-1, [Wikidata](https://www.wikidata.org/wiki/Q21520248) QID Q21520248
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

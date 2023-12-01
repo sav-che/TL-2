@@ -6,7 +6,7 @@ tl2_surname: Candolle
 tl2_forenames: Augustin Pyramus de
 tl2_name_abbrev: DC
 tl2_dates: 1778-1841
-tl2_page_id: 33120569
+tl2_bhl_page_id: 33120569
 author_lsid: 16855-1
 wikidata_id: Q123057
 ipni_surname: Candolle
@@ -28,7 +28,8 @@ ipni_record_modified: 2009-01-07 07:49:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33120569) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16855-1), [Wikidata](https://www.wikidata.org/wiki/Q123057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16855-1) LSID 16855-1, [Wikidata](https://www.wikidata.org/wiki/Q123057) QID Q123057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Candolle, Augustin Pyramus de {std. DC.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Vaupell
 tl2_forenames: Christian Theodor
 tl2_name_abbrev: Vaupell
 tl2_dates: 1821-1862
-tl2_page_id: 33212725
+tl2_bhl_page_id: 33212725
 author_lsid: 11098-1
 wikidata_id: Q5110243
 ipni_surname: Vaupell
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33212725) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11098-1), [Wikidata](https://www.wikidata.org/wiki/Q5110243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11098-1) LSID 11098-1, [Wikidata](https://www.wikidata.org/wiki/Q5110243) QID Q5110243
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

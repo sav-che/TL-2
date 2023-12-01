@@ -6,7 +6,7 @@ tl2_surname: Ewart
 tl2_forenames: Alfred James
 tl2_name_abbrev: Ewart
 tl2_dates: 1872-1937
-tl2_page_id: 33260425
+tl2_bhl_page_id: 33260425
 author_lsid: 2605-1
 wikidata_id: Q614703
 ipni_surname: Ewart
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33260425) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2605-1), [Wikidata](https://www.wikidata.org/wiki/Q614703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2605-1) LSID 2605-1, [Wikidata](https://www.wikidata.org/wiki/Q614703) QID Q614703
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ewart, Alfred James {std. Ewart}|first entry]] for this author
 

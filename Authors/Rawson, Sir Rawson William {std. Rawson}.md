@@ -6,7 +6,7 @@ tl2_surname: Rawson
 tl2_forenames: Sir Rawson William
 tl2_name_abbrev: Rawson
 tl2_dates: 1812-1899
-tl2_page_id: 33190074
+tl2_bhl_page_id: 33190074
 author_lsid: 8188-1
 wikidata_id: Q4398741
 ipni_surname: Rawson
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:48:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8188-1), [Wikidata](https://www.wikidata.org/wiki/Q4398741). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8188-1) LSID 8188-1, [Wikidata](https://www.wikidata.org/wiki/Q4398741) QID Q4398741
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

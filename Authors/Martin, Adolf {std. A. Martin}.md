@@ -6,7 +6,7 @@ tl2_surname: Martin
 tl2_forenames: Adolf
 tl2_name_abbrev: A. Martin
 tl2_dates: fl. 1851
-tl2_page_id: 33355406
+tl2_bhl_page_id: 33355406
 author_lsid: 6154-1
 wikidata_id: Q47121936
 ipni_surname: Martin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33355406) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6154-1), [Wikidata](https://www.wikidata.org/wiki/Q47121936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6154-1) LSID 6154-1, [Wikidata](https://www.wikidata.org/wiki/Q47121936) QID Q47121936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

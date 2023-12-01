@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl3_0279
 tl2_volume: suppl3
 tl2_page_printed: 291
-tl2_surname: Buysson [Viscount]
+tl2_surname: Buysson (Viscount)
 tl2_forenames: Robert du
 tl2_name_abbrev: Buyss.
 tl2_dates: fl. 1883-1893
-tl2_page_id: 33266598
+tl2_bhl_page_id: 33266598
 author_lsid: 16773-1
 wikidata_id: Q3436756
 ipni_surname: Buysson
@@ -24,7 +24,8 @@ ipni_record_modified: 2010-07-08 11:25:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33266598) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16773-1), [Wikidata](https://www.wikidata.org/wiki/Q3436756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16773-1) LSID 16773-1, [Wikidata](https://www.wikidata.org/wiki/Q3436756) QID Q3436756
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

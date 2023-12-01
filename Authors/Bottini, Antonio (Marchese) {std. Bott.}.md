@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0424
 tl2_volume: suppl2
 tl2_page_printed: 373
 tl2_surname: Bottini
-tl2_forenames: Antonio [Marchese]
+tl2_forenames: Antonio (Marchese)
 tl2_name_abbrev: Bott.
 tl2_dates: 1850-1931
-tl2_page_id: 33265570
+tl2_bhl_page_id: 33265570
 author_lsid: 16385-1
 wikidata_id: Q21506350
 ipni_surname: Bottini
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265570) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16385-1), [Wikidata](https://www.wikidata.org/wiki/Q21506350). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16385-1) LSID 16385-1, [Wikidata](https://www.wikidata.org/wiki/Q21506350) QID Q21506350
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

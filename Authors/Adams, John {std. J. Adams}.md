@@ -6,7 +6,7 @@ tl2_surname: Adams
 tl2_forenames: John
 tl2_name_abbrev: J. Adams
 tl2_dates: 1872-1950
-tl2_page_id: 33264751
+tl2_bhl_page_id: 33264751
 author_lsid: 20002779-1
 wikidata_id: Q10307799
 ipni_surname: Adams
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:45:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33264751) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/20002779-1), [Wikidata](https://www.wikidata.org/wiki/Q10307799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20002779-1) LSID 20002779-1, [Wikidata](https://www.wikidata.org/wiki/Q10307799) QID Q10307799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

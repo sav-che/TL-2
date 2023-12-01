@@ -6,7 +6,7 @@ tl2_surname: Palhinha
 tl2_forenames: Ruy Telles
 tl2_name_abbrev: Palhinha
 tl2_dates: 1871-1957
-tl2_page_id: 33189502
+tl2_bhl_page_id: 33189502
 author_lsid: 7269-1
 wikidata_id: Q2892677
 ipni_surname: Palhinha
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7269-1), [Wikidata](https://www.wikidata.org/wiki/Q2892677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7269-1) LSID 7269-1, [Wikidata](https://www.wikidata.org/wiki/Q2892677) QID Q2892677
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

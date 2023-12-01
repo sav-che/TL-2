@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0079
 tl2_volume: vol5
 tl2_page_printed: 80
 tl2_surname: Sauveur
-tl2_forenames: [Dieudonné] Jean Joseph
+tl2_forenames: (Dieudonné) Jean Joseph
 tl2_name_abbrev: Sauveur
 tl2_dates: 1797-1862
-tl2_page_id: 33333219
+tl2_bhl_page_id: 33333219
 author_lsid: 12814-1
 wikidata_id: Q21607784
 ipni_surname: Sauveur
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33333219) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12814-1), [Wikidata](https://www.wikidata.org/wiki/Q21607784). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12814-1) LSID 12814-1, [Wikidata](https://www.wikidata.org/wiki/Q21607784) QID Q21607784
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

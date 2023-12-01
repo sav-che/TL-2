@@ -6,7 +6,7 @@ tl2_surname: Glück
 tl2_forenames: Christian Maximilian Hugo
 tl2_name_abbrev: Glück
 tl2_dates: 1868-1940
-tl2_page_id: 33121085
+tl2_bhl_page_id: 33121085
 author_lsid: 3201-1
 wikidata_id: Q6410749
 ipni_surname: Glück
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3201-1), [Wikidata](https://www.wikidata.org/wiki/Q6410749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3201-1) LSID 3201-1, [Wikidata](https://www.wikidata.org/wiki/Q6410749) QID Q6410749
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Glück, (Christian Maximilian) Hugo {std. Glück} (Suppl.)|second entry]] for this author
 

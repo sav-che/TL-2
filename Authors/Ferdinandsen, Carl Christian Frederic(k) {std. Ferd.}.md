@@ -6,7 +6,7 @@ tl2_surname: Ferdinandsen
 tl2_forenames: Carl Christian Frederic(k)
 tl2_name_abbrev: Ferd.
 tl2_dates: 1879-1944
-tl2_page_id: 33120956
+tl2_bhl_page_id: 33120956
 author_lsid: 18722-1
 wikidata_id: Q5728130
 ipni_surname: Ferdinandsen
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33120956) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18722-1), [Wikidata](https://www.wikidata.org/wiki/Q5728130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18722-1) LSID 18722-1, [Wikidata](https://www.wikidata.org/wiki/Q5728130) QID Q5728130
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ferdinandsen, Carl Christian Frederi(c)k {std. Ferd.} (Suppl.)|second entry]] for this author
 

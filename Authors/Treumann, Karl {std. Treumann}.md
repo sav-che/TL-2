@@ -6,7 +6,7 @@ tl2_surname: Treumann
 tl2_forenames: Karl
 tl2_name_abbrev: Treumann
 tl2_dates: fl. 1880
-tl2_page_id: 33212516
+tl2_bhl_page_id: 33212516
 author_lsid: 10813-1
 wikidata_id: Q47127611
 ipni_surname: Treumann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10813-1), [Wikidata](https://www.wikidata.org/wiki/Q47127611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10813-1) LSID 10813-1, [Wikidata](https://www.wikidata.org/wiki/Q47127611) QID Q47127611
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

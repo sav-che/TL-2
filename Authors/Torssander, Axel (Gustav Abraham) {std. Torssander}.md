@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0437
 tl2_volume: vol6
 tl2_page_printed: 409
 tl2_surname: Torssander
-tl2_forenames: Axel [Gustav Abraham]
+tl2_forenames: Axel (Gustav Abraham)
 tl2_name_abbrev: Torssander
 tl2_dates: 1843-1905
-tl2_page_id: 33212451
+tl2_bhl_page_id: 33212451
 author_lsid: 12940-1
 wikidata_id: Q20789804
 ipni_surname: Torssander
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33212451) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12940-1), [Wikidata](https://www.wikidata.org/wiki/Q20789804). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12940-1) LSID 12940-1, [Wikidata](https://www.wikidata.org/wiki/Q20789804) QID Q20789804
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

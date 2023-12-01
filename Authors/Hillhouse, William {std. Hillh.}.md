@@ -6,7 +6,7 @@ tl2_surname: Hillhouse
 tl2_forenames: William
 tl2_name_abbrev: Hillh.
 tl2_dates: 1850-1910
-tl2_page_id: 33068448
+tl2_bhl_page_id: 33068448
 author_lsid: 3950-1
 wikidata_id: Q3568702
 ipni_surname: Hillhouse
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3950-1), [Wikidata](https://www.wikidata.org/wiki/Q3568702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3950-1) LSID 3950-1, [Wikidata](https://www.wikidata.org/wiki/Q3568702) QID Q3568702
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

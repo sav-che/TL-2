@@ -6,7 +6,7 @@ tl2_surname: Nylander
 tl2_forenames: William
 tl2_name_abbrev: Nyl.
 tl2_dates: 1822-1899
-tl2_page_id: 33355876
+tl2_bhl_page_id: 33355876
 author_lsid: 24207-1
 wikidata_id: Q932083
 ipni_surname: Nylander
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:33:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33355876) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24207-1), [Wikidata](https://www.wikidata.org/wiki/Q932083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24207-1) LSID 24207-1, [Wikidata](https://www.wikidata.org/wiki/Q932083) QID Q932083
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

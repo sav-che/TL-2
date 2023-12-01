@@ -6,7 +6,7 @@ tl2_surname: Sherard
 tl2_forenames: William
 tl2_name_abbrev: Sherard
 tl2_dates: 1659-1728
-tl2_page_id: 33333698
+tl2_bhl_page_id: 33333698
 author_lsid: 9564-1
 wikidata_id: Q770258
 ipni_surname: Sherard
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33333698) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9564-1), [Wikidata](https://www.wikidata.org/wiki/Q770258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9564-1) LSID 9564-1, [Wikidata](https://www.wikidata.org/wiki/Q770258) QID Q770258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

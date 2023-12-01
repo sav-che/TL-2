@@ -6,7 +6,7 @@ tl2_surname: La Llave
 tl2_forenames: Pablo de
 tl2_name_abbrev: La Llave
 tl2_dates: 1773-1833
-tl2_page_id: 33068970
+tl2_bhl_page_id: 33068970
 author_lsid: 5673-1
 wikidata_id: Q2613638
 ipni_surname: La Llave
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5673-1), [Wikidata](https://www.wikidata.org/wiki/Q2613638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5673-1) LSID 5673-1, [Wikidata](https://www.wikidata.org/wiki/Q2613638) QID Q2613638
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

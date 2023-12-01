@@ -6,7 +6,7 @@ tl2_surname: Samzelius
 tl2_forenames: Abraham
 tl2_name_abbrev: Samzelius
 tl2_dates: 1723-1773
-tl2_page_id: 33333126
+tl2_bhl_page_id: 33333126
 author_lsid: 8870-1
 wikidata_id: Q21607670
 ipni_surname: Samzelius
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33333126) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8870-1), [Wikidata](https://www.wikidata.org/wiki/Q21607670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8870-1) LSID 8870-1, [Wikidata](https://www.wikidata.org/wiki/Q21607670) QID Q21607670
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

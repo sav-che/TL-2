@@ -6,7 +6,7 @@ tl2_surname: Allman
 tl2_forenames: William
 tl2_name_abbrev: Allman
 tl2_dates: 1776-1846
-tl2_page_id: 33264804
+tl2_bhl_page_id: 33264804
 author_lsid: 156-1
 wikidata_id: Q4019921
 ipni_surname: Allman
@@ -24,7 +24,8 @@ ipni_record_modified: 2011-07-25 09:15:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33264804) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/156-1), [Wikidata](https://www.wikidata.org/wiki/Q4019921). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/156-1) LSID 156-1, [Wikidata](https://www.wikidata.org/wiki/Q4019921) QID Q4019921
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Allman, William {std. Allman}|first entry]] for this author
 

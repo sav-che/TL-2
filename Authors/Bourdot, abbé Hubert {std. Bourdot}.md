@@ -6,7 +6,7 @@ tl2_surname: Bourdot
 tl2_forenames: abbé Hubert
 tl2_name_abbrev: Bourd.
 tl2_dates: 1861-1937
-tl2_page_id: 33120425
+tl2_bhl_page_id: 33120425
 author_lsid: 1029-1
 wikidata_id: Q1633081
 ipni_surname: Bourdot
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33120425) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1029-1), [Wikidata](https://www.wikidata.org/wiki/Q1633081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1029-1) LSID 1029-1, [Wikidata](https://www.wikidata.org/wiki/Q1633081) QID Q1633081
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bourdot, Hubert (Chanoine) {std. Bourdot} (Suppl.)|second entry]] for this author
 

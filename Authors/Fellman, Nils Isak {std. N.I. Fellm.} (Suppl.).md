@@ -6,7 +6,7 @@ tl2_surname: Fellman
 tl2_forenames: Nils Isak
 tl2_name_abbrev: N.I. Fellm.
 tl2_dates: 1841-1919
-tl2_page_id: 33259629
+tl2_bhl_page_id: 33259629
 author_lsid: 2676-1
 wikidata_id: Q3450203
 ipni_surname: Fellman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33259629) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2676-1), [Wikidata](https://www.wikidata.org/wiki/Q3450203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2676-1) LSID 2676-1, [Wikidata](https://www.wikidata.org/wiki/Q3450203) QID Q3450203
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fellman, Nils Isak {std. N.I. Fellm.}|first entry]] for this author
 

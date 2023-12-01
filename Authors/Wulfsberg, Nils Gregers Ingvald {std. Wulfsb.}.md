@@ -6,7 +6,7 @@ tl2_surname: Wulfsberg
 tl2_forenames: Nils Gregers Ingvald
 tl2_name_abbrev: Wulfsb.
 tl2_dates: 1847-1888
-tl2_page_id: 33066819
+tl2_bhl_page_id: 33066819
 author_lsid: 11903-1
 wikidata_id: Q16650632
 ipni_surname: Wulfsberg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33066819) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11903-1), [Wikidata](https://www.wikidata.org/wiki/Q16650632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11903-1) LSID 11903-1, [Wikidata](https://www.wikidata.org/wiki/Q16650632) QID Q16650632
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

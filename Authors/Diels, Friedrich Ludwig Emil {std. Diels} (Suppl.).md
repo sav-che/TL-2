@@ -6,7 +6,7 @@ tl2_surname: Diels
 tl2_forenames: Friedrich Ludwig Emil
 tl2_name_abbrev: Diels
 tl2_dates: 1874-1945
-tl2_page_id: 33259343
+tl2_bhl_page_id: 33259343
 author_lsid: 18030-1
 wikidata_id: Q77123
 ipni_surname: Diels
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18030-1), [Wikidata](https://www.wikidata.org/wiki/Q77123). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18030-1) LSID 18030-1, [Wikidata](https://www.wikidata.org/wiki/Q77123) QID Q77123
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Diels, Friedrich Ludwig Emil {std. Diels}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Smeathman
 tl2_forenames: Henry
 tl2_name_abbrev: Smeathman
 tl2_dates: x-1786
-tl2_page_id: 33333796
+tl2_bhl_page_id: 33333796
 author_lsid: 9757-1
 wikidata_id: Q5728421
 ipni_surname: Smeathman
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9757-1), [Wikidata](https://www.wikidata.org/wiki/Q5728421). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9757-1) LSID 9757-1, [Wikidata](https://www.wikidata.org/wiki/Q5728421) QID Q5728421
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

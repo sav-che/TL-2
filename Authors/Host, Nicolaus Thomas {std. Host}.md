@@ -6,7 +6,7 @@ tl2_surname: Host
 tl2_forenames: Nicolaus Thomas
 tl2_name_abbrev: Host
 tl2_dates: 1761-1834
-tl2_page_id: 33068581
+tl2_bhl_page_id: 33068581
 author_lsid: 4132-1
 wikidata_id: Q4500277
 ipni_surname: Host
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33068581) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4132-1), [Wikidata](https://www.wikidata.org/wiki/Q4500277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4132-1) LSID 4132-1, [Wikidata](https://www.wikidata.org/wiki/Q4500277) QID Q4500277
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

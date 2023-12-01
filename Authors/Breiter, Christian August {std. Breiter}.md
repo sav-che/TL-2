@@ -6,7 +6,7 @@ tl2_surname: Breiter
 tl2_forenames: Christian August
 tl2_name_abbrev: Breiter
 tl2_dates: 1776-1840
-tl2_page_id: 33120446
+tl2_bhl_page_id: 33120446
 author_lsid: 1112-1
 wikidata_id: Q21506462
 ipni_surname: Breiter
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1112-1), [Wikidata](https://www.wikidata.org/wiki/Q21506462). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1112-1) LSID 1112-1, [Wikidata](https://www.wikidata.org/wiki/Q21506462) QID Q21506462
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

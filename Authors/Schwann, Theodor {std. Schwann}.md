@@ -6,7 +6,7 @@ tl2_surname: Schwann
 tl2_forenames: Theodor
 tl2_name_abbrev: Schwann
 tl2_dates: 1810-1882
-tl2_page_id: 33333560
+tl2_bhl_page_id: 33333560
 author_lsid: 9351-1
 wikidata_id: Q76745
 ipni_surname: Schwann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33333560) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9351-1), [Wikidata](https://www.wikidata.org/wiki/Q76745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9351-1) LSID 9351-1, [Wikidata](https://www.wikidata.org/wiki/Q76745) QID Q76745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

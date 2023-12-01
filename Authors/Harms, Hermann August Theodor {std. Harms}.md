@@ -6,7 +6,7 @@ tl2_surname: Harms
 tl2_forenames: Hermann August Theodor
 tl2_name_abbrev: Harms
 tl2_dates: 1870-1942
-tl2_page_id: 33068298
+tl2_bhl_page_id: 33068298
 author_lsid: 3667-1
 wikidata_id: Q62415
 ipni_surname: Harms
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33068298) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3667-1), [Wikidata](https://www.wikidata.org/wiki/Q62415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3667-1) LSID 3667-1, [Wikidata](https://www.wikidata.org/wiki/Q62415) QID Q62415
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

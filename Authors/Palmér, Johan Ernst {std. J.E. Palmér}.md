@@ -6,7 +6,7 @@ tl2_surname: Palmér
 tl2_forenames: Johan Ernst
 tl2_name_abbrev: J.E. Palmér
 tl2_dates: 1863-1946
-tl2_page_id: 33189464
+tl2_bhl_page_id: 33189464
 author_lsid: 7285-1
 wikidata_id: Q21522573
 ipni_surname: Palmér
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7285-1), [Wikidata](https://www.wikidata.org/wiki/Q21522573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7285-1) LSID 7285-1, [Wikidata](https://www.wikidata.org/wiki/Q21522573) QID Q21522573
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

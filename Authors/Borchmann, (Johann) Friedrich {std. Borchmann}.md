@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0388
 tl2_volume: suppl2
 tl2_page_printed: 332
 tl2_surname: Borchmann
-tl2_forenames: [Johann] Friedrich
+tl2_forenames: (Johann) Friedrich
 tl2_name_abbrev: Borchmann
 tl2_dates: 1827-1907
-tl2_page_id: 33265529
+tl2_bhl_page_id: 33265529
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265529) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Echeandía
 tl2_forenames: Pedro Gregorio
 tl2_name_abbrev: Echeandía
 tl2_dates: 1749-1817
-tl2_page_id: 33260238
+tl2_bhl_page_id: 33260238
 author_lsid: 20016086-1
 wikidata_id: Q6069008
 ipni_surname: Echeandía
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20016086-1), [Wikidata](https://www.wikidata.org/wiki/Q6069008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20016086-1) LSID 20016086-1, [Wikidata](https://www.wikidata.org/wiki/Q6069008) QID Q6069008
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

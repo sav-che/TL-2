@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0071
 tl2_volume: suppl7
 tl2_page_printed: 108
 tl2_surname: Feistmantel
-tl2_forenames: Carl [Karl, Karel]
+tl2_forenames: Carl (Karl, Karel)
 tl2_name_abbrev: C. Feistm.
 tl2_dates: 1819-1885
-tl2_page_id: 33259612
+tl2_bhl_page_id: 33259612
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259612) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

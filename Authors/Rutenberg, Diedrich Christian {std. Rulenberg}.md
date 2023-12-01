@@ -6,7 +6,7 @@ tl2_surname: Rutenberg
 tl2_forenames: Diedrich Christian
 tl2_name_abbrev: Rulenberg
 tl2_dates: 1851-1878
-tl2_page_id: 33190478
+tl2_bhl_page_id: 33190478
 author_lsid: 8759-1
 wikidata_id: Q15624698
 ipni_surname: Rutenberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33190478) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8759-1), [Wikidata](https://www.wikidata.org/wiki/Q15624698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8759-1) LSID 8759-1, [Wikidata](https://www.wikidata.org/wiki/Q15624698) QID Q15624698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

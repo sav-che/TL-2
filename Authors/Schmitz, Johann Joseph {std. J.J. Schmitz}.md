@@ -6,7 +6,7 @@ tl2_surname: Schmitz
 tl2_forenames: Johann Joseph
 tl2_name_abbrev: J.J. Schmitz
 tl2_dates: 1813-1845
-tl2_page_id: 33333403
+tl2_bhl_page_id: 33333403
 author_lsid: 9175-1
 wikidata_id: Q21608190
 ipni_surname: Schmitz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33333403) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9175-1), [Wikidata](https://www.wikidata.org/wiki/Q21608190). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9175-1) LSID 9175-1, [Wikidata](https://www.wikidata.org/wiki/Q21608190) QID Q21608190
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

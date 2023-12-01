@@ -6,7 +6,7 @@ tl2_surname: Donkin
 tl2_forenames: Arthur Scott
 tl2_name_abbrev: Donkin
 tl2_dates: fl. 1858-1873
-tl2_page_id: 33120803
+tl2_bhl_page_id: 33120803
 author_lsid: 2274-1
 wikidata_id: Q36501058
 ipni_surname: Donkin
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33120803) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2274-1), [Wikidata](https://www.wikidata.org/wiki/Q36501058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2274-1) LSID 2274-1, [Wikidata](https://www.wikidata.org/wiki/Q36501058) QID Q36501058
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

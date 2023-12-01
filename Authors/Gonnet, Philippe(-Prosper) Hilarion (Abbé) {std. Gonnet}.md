@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0222
 tl2_volume: suppl8
 tl2_page_printed: 295
 tl2_surname: Gonnet
-tl2_forenames: Philippe[-Prosper] Hilarion (Abbé)
+tl2_forenames: Philippe(-Prosper) Hilarion (Abbé)
 tl2_name_abbrev: Gonnet
 tl2_dates: 1796-1861
-tl2_page_id: 33258773
+tl2_bhl_page_id: 33258773
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33258773) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

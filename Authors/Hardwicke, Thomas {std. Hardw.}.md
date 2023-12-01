@@ -6,7 +6,7 @@ tl2_surname: Hardwicke
 tl2_forenames: Thomas
 tl2_name_abbrev: Hardw.
 tl2_dates: 1757-1833
-tl2_page_id: 33068294
+tl2_bhl_page_id: 33068294
 author_lsid: 3654-1
 wikidata_id: Q2543258
 ipni_surname: Hardwicke
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:46:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3654-1), [Wikidata](https://www.wikidata.org/wiki/Q2543258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3654-1) LSID 3654-1, [Wikidata](https://www.wikidata.org/wiki/Q2543258) QID Q2543258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

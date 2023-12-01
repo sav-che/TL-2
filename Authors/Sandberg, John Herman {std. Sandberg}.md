@@ -6,7 +6,7 @@ tl2_surname: Sandberg
 tl2_forenames: John Herman
 tl2_name_abbrev: Sandberg
 tl2_dates: 1848-1917
-tl2_page_id: 33333128
+tl2_bhl_page_id: 33333128
 author_lsid: 8880-1
 wikidata_id: Q21607691
 ipni_surname: Sandberg
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33333128) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8880-1), [Wikidata](https://www.wikidata.org/wiki/Q21607691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8880-1) LSID 8880-1, [Wikidata](https://www.wikidata.org/wiki/Q21607691) QID Q21607691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

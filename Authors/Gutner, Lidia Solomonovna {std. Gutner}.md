@@ -6,7 +6,7 @@ tl2_surname: Gutner
 tl2_forenames: Lidia Solomonovna
 tl2_name_abbrev: Gutner
 tl2_dates: 1903-1942
-tl2_page_id: 33258944
+tl2_bhl_page_id: 33258944
 author_lsid: 19786-1
 wikidata_id: Q36613526
 ipni_surname: Gutner
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33258944) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19786-1), [Wikidata](https://www.wikidata.org/wiki/Q36613526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19786-1) LSID 19786-1, [Wikidata](https://www.wikidata.org/wiki/Q36613526) QID Q36613526
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

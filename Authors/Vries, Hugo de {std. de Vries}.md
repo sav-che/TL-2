@@ -6,7 +6,7 @@ tl2_surname: Vries
 tl2_forenames: Hugo de
 tl2_name_abbrev: de Vries
 tl2_dates: 1848-1935
-tl2_page_id: 33212829
+tl2_bhl_page_id: 33212829
 author_lsid: 11273-1
 wikidata_id: Q160192
 ipni_surname: de Vries
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11273-1), [Wikidata](https://www.wikidata.org/wiki/Q160192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11273-1) LSID 11273-1, [Wikidata](https://www.wikidata.org/wiki/Q160192) QID Q160192
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

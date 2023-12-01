@@ -6,7 +6,7 @@ tl2_surname: Thayer
 tl2_forenames: Emma, née Homan
 tl2_name_abbrev: Thayer
 tl2_dates: 1842-1908
-tl2_page_id: 33212278
+tl2_bhl_page_id: 33212278
 author_lsid: 12925-1
 wikidata_id: Q20979248
 ipni_surname: Thayer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12925-1), [Wikidata](https://www.wikidata.org/wiki/Q20979248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12925-1) LSID 12925-1, [Wikidata](https://www.wikidata.org/wiki/Q20979248) QID Q20979248
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

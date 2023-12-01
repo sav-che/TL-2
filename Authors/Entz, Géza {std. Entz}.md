@@ -6,7 +6,7 @@ tl2_surname: Entz
 tl2_forenames: Géza
 tl2_name_abbrev: Entz
 tl2_dates: 1875-1943
-tl2_page_id: 33260367
+tl2_bhl_page_id: 33260367
 author_lsid: 18519-1
 wikidata_id: Q989900
 ipni_surname: Entz
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33260367) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18519-1), [Wikidata](https://www.wikidata.org/wiki/Q989900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18519-1) LSID 18519-1, [Wikidata](https://www.wikidata.org/wiki/Q989900) QID Q989900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

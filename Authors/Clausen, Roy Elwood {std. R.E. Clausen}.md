@@ -6,7 +6,7 @@ tl2_surname: Clausen
 tl2_forenames: Roy Elwood
 tl2_name_abbrev: R.E. Clausen
 tl2_dates: 1891-1956
-tl2_page_id: 33265870
+tl2_bhl_page_id: 33265870
 author_lsid: 1678-1
 wikidata_id: Q21508704
 ipni_surname: Clausen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33265870) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1678-1), [Wikidata](https://www.wikidata.org/wiki/Q21508704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1678-1) LSID 1678-1, [Wikidata](https://www.wikidata.org/wiki/Q21508704) QID Q21508704
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

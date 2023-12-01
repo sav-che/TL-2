@@ -6,7 +6,7 @@ tl2_surname: Barthelat
 tl2_forenames: Gilbert Joseph
 tl2_name_abbrev: Barthelat
 tl2_dates: fl. 1893
-tl2_page_id: 33265070
+tl2_bhl_page_id: 33265070
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265070) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

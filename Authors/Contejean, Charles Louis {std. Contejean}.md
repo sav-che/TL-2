@@ -6,7 +6,7 @@ tl2_surname: Contejean
 tl2_forenames: Charles Louis
 tl2_name_abbrev: Contejean
 tl2_dates: 1824-1907
-tl2_page_id: 33120665
+tl2_bhl_page_id: 33120665
 author_lsid: 1772-1
 wikidata_id: Q2959668
 ipni_surname: Contejean
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33120665) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1772-1), [Wikidata](https://www.wikidata.org/wiki/Q2959668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1772-1) LSID 1772-1, [Wikidata](https://www.wikidata.org/wiki/Q2959668) QID Q2959668
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Contejean, Charles (-Louis) {std. Contejean} (Suppl.)|second entry]] for this author
 

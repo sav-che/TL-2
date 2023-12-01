@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0235
 tl2_volume: vol5
 tl2_page_printed: 252
 tl2_surname: Schmidt
-tl2_forenames: [Ernst] Johannes
+tl2_forenames: (Ernst) Johannes
 tl2_name_abbrev: Johs. Schmidt
 tl2_dates: 1877-1933
-tl2_page_id: 33333391
+tl2_bhl_page_id: 33333391
 author_lsid: 12831-1
 wikidata_id: Q2003752
 ipni_surname: Schmidt
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12831-1), [Wikidata](https://www.wikidata.org/wiki/Q2003752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12831-1) LSID 12831-1, [Wikidata](https://www.wikidata.org/wiki/Q2003752) QID Q2003752
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

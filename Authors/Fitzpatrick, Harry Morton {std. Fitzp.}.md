@@ -6,7 +6,7 @@ tl2_surname: Fitzpatrick
 tl2_forenames: Harry Morton
 tl2_name_abbrev: Fitzp.
 tl2_dates: 1886-1949
-tl2_page_id: 33120973
+tl2_bhl_page_id: 33120973
 author_lsid: 18837-1
 wikidata_id: Q4485145
 ipni_surname: Fitzpatrick
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33120973) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18837-1), [Wikidata](https://www.wikidata.org/wiki/Q4485145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18837-1) LSID 18837-1, [Wikidata](https://www.wikidata.org/wiki/Q4485145) QID Q4485145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fitzpatrick, Harry Morton {std. Fitzp.} (Suppl.)|second entry]] for this author
 

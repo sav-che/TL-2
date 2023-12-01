@@ -6,7 +6,7 @@ tl2_surname: Desvaux
 tl2_forenames: Étienne-Émile
 tl2_name_abbrev: É. Desv.
 tl2_dates: 1830-1854
-tl2_page_id: 33259281
+tl2_bhl_page_id: 33259281
 author_lsid: 2160-1
 wikidata_id: Q3951949
 ipni_surname: Desvaux
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33259281) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2160-1), [Wikidata](https://www.wikidata.org/wiki/Q3951949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2160-1) LSID 2160-1, [Wikidata](https://www.wikidata.org/wiki/Q3951949) QID Q3951949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Fries
 tl2_forenames: Elias Petrus
 tl2_name_abbrev: E.P. Fr.
 tl2_dates: 1834-1858
-tl2_page_id: 33121019
+tl2_bhl_page_id: 33121019
 author_lsid: 2914-1
 wikidata_id: Q21513545
 ipni_surname: Fries
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33121019) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2914-1), [Wikidata](https://www.wikidata.org/wiki/Q21513545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2914-1) LSID 2914-1, [Wikidata](https://www.wikidata.org/wiki/Q21513545) QID Q21513545
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fries, Elias Petrus {std. E.P. Fr.} (Suppl.)|second entry]] for this author
 

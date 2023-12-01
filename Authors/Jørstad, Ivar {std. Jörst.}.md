@@ -6,27 +6,31 @@ tl2_surname: Jørstad
 tl2_forenames: Ivar
 tl2_name_abbrev: Jörst.
 tl2_dates: 1887-1967
-tl2_page_id: 33068687
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33068687
+author_lsid: 4499-1
+wikidata_id: Q11977695
+ipni_surname: Jørstad
+ipni_forenames: Ivar
+ipni_standard_form: Jørst.
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+- Norway
+ipni_version: 1.2
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4499-1) LSID 4499-1, [Wikidata](https://www.wikidata.org/wiki/Q11977695) QID Q11977695
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Jørstad, Ivar (1887-1967), Norwegian mycologist and phytopathologist; studied at Oslo and Madison, Wisc. (M. Se. 1920); from 1920-1957 government mycologist at Oslo; Dr. phil. Oslo 1934. 
-**Abbreviated name**: *Jörst.*
+**Abbreviated name**: *Jörst.* \[standard form in IPNI: *Jørst.*\]
 
 #### Herbarium and types
 

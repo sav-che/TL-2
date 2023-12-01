@@ -6,7 +6,7 @@ tl2_surname: Rich
 tl2_forenames: William Penn
 tl2_name_abbrev: W.P. Rich
 tl2_dates: 1849-1930
-tl2_page_id: 33190229
+tl2_bhl_page_id: 33190229
 author_lsid: 8348-1
 wikidata_id: Q21607180
 ipni_surname: Rich
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33190229) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8348-1), [Wikidata](https://www.wikidata.org/wiki/Q21607180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8348-1) LSID 8348-1, [Wikidata](https://www.wikidata.org/wiki/Q21607180) QID Q21607180
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

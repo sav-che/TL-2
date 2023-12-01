@@ -6,7 +6,7 @@ tl2_surname: Braeucker (Bräucker)
 tl2_forenames: Theodor
 tl2_name_abbrev: Braeucker
 tl2_dates: 1815-1882
-tl2_page_id: 33266312
+tl2_bhl_page_id: 33266312
 author_lsid: 36574-1
 wikidata_id: Q100523
 ipni_surname: Braeucker
@@ -23,7 +23,8 @@ ipni_record_modified: 2005-05-09 11:08:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33266312) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/36574-1), [Wikidata](https://www.wikidata.org/wiki/Q100523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/36574-1) LSID 36574-1, [Wikidata](https://www.wikidata.org/wiki/Q100523) QID Q100523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

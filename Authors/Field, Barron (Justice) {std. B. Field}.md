@@ -6,7 +6,7 @@ tl2_surname: Field
 tl2_forenames: Barron (Justice)
 tl2_name_abbrev: B. Field
 tl2_dates: 1786-1846
-tl2_page_id: 33259680
+tl2_bhl_page_id: 33259680
 author_lsid: 13282-1
 wikidata_id: Q4863806
 ipni_surname: Field
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33259680) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/13282-1), [Wikidata](https://www.wikidata.org/wiki/Q4863806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13282-1) LSID 13282-1, [Wikidata](https://www.wikidata.org/wiki/Q4863806) QID Q4863806
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

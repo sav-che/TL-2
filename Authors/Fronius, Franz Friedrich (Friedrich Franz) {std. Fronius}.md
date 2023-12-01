@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0040
 tl2_volume: suppl8
 tl2_page_printed: 63
 tl2_surname: Fronius
-tl2_forenames: Franz Friedrich [Friedrich Franz]
+tl2_forenames: Franz Friedrich (Friedrich Franz)
 tl2_name_abbrev: Fronius
 tl2_dates: 1829-1886
-tl2_page_id: 33258541
+tl2_bhl_page_id: 33258541
 author_lsid: 20020317-1
 wikidata_id: Q434063
 ipni_surname: Fronius
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20020317-1), [Wikidata](https://www.wikidata.org/wiki/Q434063). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20020317-1) LSID 20020317-1, [Wikidata](https://www.wikidata.org/wiki/Q434063) QID Q434063
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

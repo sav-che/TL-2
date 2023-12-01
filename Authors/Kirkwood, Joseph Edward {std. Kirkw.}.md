@@ -6,7 +6,7 @@ tl2_surname: Kirkwood
 tl2_forenames: Joseph Edward
 tl2_name_abbrev: Kirkw.
 tl2_dates: 1872-1928
-tl2_page_id: 33068794
+tl2_bhl_page_id: 33068794
 author_lsid: 4811-1
 wikidata_id: Q21517546
 ipni_surname: Kirkwood
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4811-1), [Wikidata](https://www.wikidata.org/wiki/Q21517546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4811-1) LSID 4811-1, [Wikidata](https://www.wikidata.org/wiki/Q21517546) QID Q21517546
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

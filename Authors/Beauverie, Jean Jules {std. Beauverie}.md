@@ -6,7 +6,7 @@ tl2_surname: Beauverie
 tl2_forenames: Jean Jules
 tl2_name_abbrev: Beauverie
 tl2_dates: 1874-1938
-tl2_page_id: 33120286
+tl2_bhl_page_id: 33120286
 author_lsid: 15848-1
 wikidata_id: Q3170669
 ipni_surname: Beauverie
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15848-1), [Wikidata](https://www.wikidata.org/wiki/Q3170669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15848-1) LSID 15848-1, [Wikidata](https://www.wikidata.org/wiki/Q3170669) QID Q3170669
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beauverie, Jean (Jules) {std. Beauverie} (Suppl.)|second entry]] for this author
 

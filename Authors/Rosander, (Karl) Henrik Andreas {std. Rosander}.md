@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0904
 tl2_volume: vol4
 tl2_page_printed: 881
 tl2_surname: Rosander
-tl2_forenames: [Karl] Henrik Andreas
+tl2_forenames: (Karl) Henrik Andreas
 tl2_name_abbrev: Rosander
 tl2_dates: 1873-1950
-tl2_page_id: 33190352
+tl2_bhl_page_id: 33190352
 author_lsid: 8580-1
 wikidata_id: Q21607403
 ipni_surname: Rosander
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33190352) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8580-1), [Wikidata](https://www.wikidata.org/wiki/Q21607403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8580-1) LSID 8580-1, [Wikidata](https://www.wikidata.org/wiki/Q21607403) QID Q21607403
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

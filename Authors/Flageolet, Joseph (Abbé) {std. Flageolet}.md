@@ -6,7 +6,7 @@ tl2_surname: Flageolet
 tl2_forenames: Joseph (Abbé)
 tl2_name_abbrev: Flageolet
 tl2_dates: fl. 1889-1919
-tl2_page_id: 33259743
+tl2_bhl_page_id: 33259743
 author_lsid: 34124-1
 wikidata_id: Q36589967
 ipni_surname: Flageolet
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/34124-1), [Wikidata](https://www.wikidata.org/wiki/Q36589967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34124-1) LSID 34124-1, [Wikidata](https://www.wikidata.org/wiki/Q36589967) QID Q36589967
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

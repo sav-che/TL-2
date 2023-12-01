@@ -6,7 +6,7 @@ tl2_surname: Teichmeyer
 tl2_forenames: Hermann Friedrich
 tl2_name_abbrev: Teichmeyer
 tl2_dates: 1685-1744
-tl2_page_id: 33212242
+tl2_bhl_page_id: 33212242
 author_lsid: 10485-1
 wikidata_id: Q75979
 ipni_surname: Teichmeyer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33212242) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10485-1), [Wikidata](https://www.wikidata.org/wiki/Q75979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10485-1) LSID 10485-1, [Wikidata](https://www.wikidata.org/wiki/Q75979) QID Q75979
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

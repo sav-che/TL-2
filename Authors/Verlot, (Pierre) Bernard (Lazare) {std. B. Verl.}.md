@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0688
 tl2_volume: vol6
 tl2_page_printed: 711
 tl2_surname: Verlot
-tl2_forenames: [Pierre] Bernard [Lazare]
+tl2_forenames: (Pierre) Bernard (Lazare)
 tl2_name_abbrev: B. Verl.
 tl2_dates: 1836-1897
-tl2_page_id: 33212753
+tl2_bhl_page_id: 33212753
 author_lsid: 11141-1
 wikidata_id: Q6075510
 ipni_surname: Verlot
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33212753) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11141-1), [Wikidata](https://www.wikidata.org/wiki/Q6075510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11141-1) LSID 11141-1, [Wikidata](https://www.wikidata.org/wiki/Q6075510) QID Q6075510
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

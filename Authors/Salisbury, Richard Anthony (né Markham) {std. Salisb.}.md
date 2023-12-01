@@ -6,7 +6,7 @@ tl2_surname: Salisbury
 tl2_forenames: Richard Anthony (né Markham)
 tl2_name_abbrev: Salisb.
 tl2_dates: 1761-1829
-tl2_page_id: 33333180
+tl2_bhl_page_id: 33333180
 author_lsid: 12809-1
 wikidata_id: Q1358261
 ipni_surname: Salisbury
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33333180) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12809-1), [Wikidata](https://www.wikidata.org/wiki/Q1358261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12809-1) LSID 12809-1, [Wikidata](https://www.wikidata.org/wiki/Q1358261) QID Q1358261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

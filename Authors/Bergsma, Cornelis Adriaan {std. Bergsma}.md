@@ -6,7 +6,7 @@ tl2_surname: Bergsma
 tl2_forenames: Cornelis Adriaan
 tl2_name_abbrev: Bergsma
 tl2_dates: 1798-1859
-tl2_page_id: 33265293
+tl2_bhl_page_id: 33265293
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33265293) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

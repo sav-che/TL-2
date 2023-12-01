@@ -6,7 +6,7 @@ tl2_surname: Ahern
 tl2_forenames: George Patrick
 tl2_name_abbrev: Ahern
 tl2_dates: 1859-1942
-tl2_page_id: 33264735
+tl2_bhl_page_id: 33264735
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Vainio
 tl2_forenames: Edvard August (until 1877 Lang; until 1919 Wainio)
 tl2_name_abbrev: Vain.
 tl2_dates: 1853-1929
-tl2_page_id: 33212678
+tl2_bhl_page_id: 33212678
 author_lsid: 12959-1
 wikidata_id: Q4351122
 ipni_surname: Vainio
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:29:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33212678) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12959-1), [Wikidata](https://www.wikidata.org/wiki/Q4351122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12959-1) LSID 12959-1, [Wikidata](https://www.wikidata.org/wiki/Q4351122) QID Q4351122
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Stange
 tl2_forenames: Johann Carl Thomas
 tl2_name_abbrev: Stange
 tl2_dates: 1792-1854
-tl2_page_id: 33333976
+tl2_bhl_page_id: 33333976
 author_lsid: 10022-1
 wikidata_id: Q21609486
 ipni_surname: Stange
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33333976) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10022-1), [Wikidata](https://www.wikidata.org/wiki/Q21609486). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10022-1) LSID 10022-1, [Wikidata](https://www.wikidata.org/wiki/Q21609486) QID Q21609486
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

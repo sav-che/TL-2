@@ -6,7 +6,7 @@ tl2_surname: Martius
 tl2_forenames: Theodor Wilhelm Christian
 tl2_name_abbrev: T. Mart.
 tl2_dates: 1796-1863
-tl2_page_id: 33355427
+tl2_bhl_page_id: 33355427
 author_lsid: 6179-1
 wikidata_id: Q21520053
 ipni_surname: Martius
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33355427) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6179-1), [Wikidata](https://www.wikidata.org/wiki/Q21520053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6179-1) LSID 6179-1, [Wikidata](https://www.wikidata.org/wiki/Q21520053) QID Q21520053
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

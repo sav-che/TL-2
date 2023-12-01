@@ -6,7 +6,7 @@ tl2_surname: Martindale
 tl2_forenames: Isaac Comly
 tl2_name_abbrev: I.C. Martindale
 tl2_dates: 1842-1893
-tl2_page_id: 33355408
+tl2_bhl_page_id: 33355408
 author_lsid: 22963-1
 wikidata_id: Q21520027
 ipni_surname: Martindale
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22963-1), [Wikidata](https://www.wikidata.org/wiki/Q21520027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22963-1) LSID 22963-1, [Wikidata](https://www.wikidata.org/wiki/Q21520027) QID Q21520027
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

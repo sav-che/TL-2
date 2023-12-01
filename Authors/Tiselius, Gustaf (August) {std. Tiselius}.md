@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0388
 tl2_volume: vol6
 tl2_page_printed: 368
 tl2_surname: Tiselius
-tl2_forenames: Gustaf [August]
+tl2_forenames: Gustaf (August)
 tl2_name_abbrev: Tiselius
 tl2_dates: 1833-1904
-tl2_page_id: 33212410
+tl2_bhl_page_id: 33212410
 author_lsid: 10688-1
 wikidata_id: Q18246582
 ipni_surname: Tiselius
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33212410) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10688-1), [Wikidata](https://www.wikidata.org/wiki/Q18246582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10688-1) LSID 10688-1, [Wikidata](https://www.wikidata.org/wiki/Q18246582) QID Q18246582
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

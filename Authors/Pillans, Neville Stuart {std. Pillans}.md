@@ -6,7 +6,7 @@ tl2_surname: Pillans
 tl2_forenames: Neville Stuart
 tl2_name_abbrev: Pillans
 tl2_dates: 1884-1964
-tl2_page_id: 33189737
+tl2_bhl_page_id: 33189737
 author_lsid: 7703-1
 wikidata_id: Q3338889
 ipni_surname: Pillans
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33189737) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7703-1), [Wikidata](https://www.wikidata.org/wiki/Q3338889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7703-1) LSID 7703-1, [Wikidata](https://www.wikidata.org/wiki/Q3338889) QID Q3338889
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

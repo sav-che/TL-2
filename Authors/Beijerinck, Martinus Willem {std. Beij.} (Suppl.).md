@@ -6,7 +6,7 @@ tl2_surname: Beijerinck
 tl2_forenames: Martinus Willem
 tl2_name_abbrev: Beij.
 tl2_dates: 1851-1931
-tl2_page_id: 33265251
+tl2_bhl_page_id: 33265251
 author_lsid: 15885-1
 wikidata_id: Q25539274
 ipni_surname: Beijerinck
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33265251) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/15885-1), [Wikidata](https://www.wikidata.org/wiki/Q25539274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15885-1) LSID 15885-1, [Wikidata](https://www.wikidata.org/wiki/Q25539274) QID Q25539274
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beijerinck, Martinus Willem {std. Beij.}|first entry]] for this author
 

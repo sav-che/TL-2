@@ -6,7 +6,7 @@ tl2_surname: Capra
 tl2_forenames: Giuseppe
 tl2_name_abbrev: G. Capra
 tl2_dates: fl. 1905
-tl2_page_id: 33266704
+tl2_bhl_page_id: 33266704
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33266704) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

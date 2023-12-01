@@ -6,7 +6,7 @@ tl2_surname: Richter
 tl2_forenames: Karl
 tl2_name_abbrev: K. Richt.
 tl2_dates: 1855-1891
-tl2_page_id: 33190248
+tl2_bhl_page_id: 33190248
 author_lsid: 12771-1
 wikidata_id: Q3193452
 ipni_surname: Richter
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33190248) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12771-1), [Wikidata](https://www.wikidata.org/wiki/Q3193452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12771-1) LSID 12771-1, [Wikidata](https://www.wikidata.org/wiki/Q3193452) QID Q3193452
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

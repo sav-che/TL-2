@@ -6,7 +6,7 @@ tl2_surname: Rodríguez y Femenías
 tl2_forenames: Juan Joaquín
 tl2_name_abbrev: J. Rodríguez
 tl2_dates: 1839-1905
-tl2_page_id: 33190303
+tl2_bhl_page_id: 33190303
 author_lsid: 30175-1
 wikidata_id: Q5950135
 ipni_surname: Rodríguez y Femenías
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33190303) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/30175-1), [Wikidata](https://www.wikidata.org/wiki/Q5950135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30175-1) LSID 30175-1, [Wikidata](https://www.wikidata.org/wiki/Q5950135) QID Q5950135
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

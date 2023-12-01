@@ -6,7 +6,7 @@ tl2_surname: Scepin
 tl2_forenames: Constantin
 tl2_name_abbrev: Scepin
 tl2_dates: 1727-?
-tl2_page_id: 33333236
+tl2_bhl_page_id: 33333236
 author_lsid: 8996-1
 wikidata_id: Q4528721
 ipni_surname: Scepin
@@ -23,7 +23,8 @@ ipni_record_modified: 2010-02-23 07:41:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33333236) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8996-1), [Wikidata](https://www.wikidata.org/wiki/Q4528721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8996-1) LSID 8996-1, [Wikidata](https://www.wikidata.org/wiki/Q4528721) QID Q4528721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

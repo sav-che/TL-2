@@ -6,7 +6,7 @@ tl2_surname: Doerrien
 tl2_forenames: Catharina (Katharina) Helena
 tl2_name_abbrev: Doerr.
 tl2_dates: 1717-1795
-tl2_page_id: 33260015
+tl2_bhl_page_id: 33260015
 author_lsid: 2251-1
 wikidata_id: Q1050781
 ipni_surname: Doerrien
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33260015) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2251-1), [Wikidata](https://www.wikidata.org/wiki/Q1050781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2251-1) LSID 2251-1, [Wikidata](https://www.wikidata.org/wiki/Q1050781) QID Q1050781
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Doerrien, Catherina Helena {std. Doerr.}|first entry]] for this author
 

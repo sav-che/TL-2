@@ -6,7 +6,7 @@ tl2_surname: Garjeanne
 tl2_forenames: Anton Johan Marie
 tl2_name_abbrev: Garjeanne
 tl2_dates: 1875-1965
-tl2_page_id: 33258606
+tl2_bhl_page_id: 33258606
 author_lsid: 20001194-1
 wikidata_id: Q36502007
 ipni_surname: Garjeanne
@@ -23,7 +23,8 @@ ipni_record_modified: 2004-09-23 09:13:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33258606) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20001194-1), [Wikidata](https://www.wikidata.org/wiki/Q36502007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20001194-1) LSID 20001194-1, [Wikidata](https://www.wikidata.org/wiki/Q36502007) QID Q36502007
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

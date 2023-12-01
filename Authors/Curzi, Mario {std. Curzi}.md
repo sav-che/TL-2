@@ -6,7 +6,7 @@ tl2_surname: Curzi
 tl2_forenames: Mario
 tl2_name_abbrev: Curzi
 tl2_dates: 1898-1944
-tl2_page_id: 33266197
+tl2_bhl_page_id: 33266197
 author_lsid: 17600-1
 wikidata_id: Q21392352
 ipni_surname: Curzi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33266197) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17600-1), [Wikidata](https://www.wikidata.org/wiki/Q21392352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17600-1) LSID 17600-1, [Wikidata](https://www.wikidata.org/wiki/Q21392352) QID Q21392352
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

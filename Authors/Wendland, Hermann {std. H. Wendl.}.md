@@ -6,7 +6,7 @@ tl2_surname: Wendland
 tl2_forenames: Hermann
 tl2_name_abbrev: H. Wendl.
 tl2_dates: 1825-1903
-tl2_page_id: 33066521
+tl2_bhl_page_id: 33066521
 author_lsid: 11546-1
 wikidata_id: Q66720
 ipni_surname: Wendland
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33066521) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11546-1), [Wikidata](https://www.wikidata.org/wiki/Q66720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11546-1) LSID 11546-1, [Wikidata](https://www.wikidata.org/wiki/Q66720) QID Q66720
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

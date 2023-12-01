@@ -6,7 +6,7 @@ tl2_surname: Bouloumoy
 tl2_forenames: Louis
 tl2_name_abbrev: Boul.
 tl2_dates: x-1926
-tl2_page_id: 33265584
+tl2_bhl_page_id: 33265584
 author_lsid: 1026-1
 wikidata_id: Q21506363
 ipni_surname: Bouloumoy
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265584) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1026-1), [Wikidata](https://www.wikidata.org/wiki/Q21506363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1026-1) LSID 1026-1, [Wikidata](https://www.wikidata.org/wiki/Q21506363) QID Q21506363
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

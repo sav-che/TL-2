@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0696
 tl2_volume: vol6
 tl2_page_printed: 718
 tl2_surname: Vestergren
-tl2_forenames: [Jacob] Tycho [Conrad]
+tl2_forenames: (Jacob) Tycho (Conrad)
 tl2_name_abbrev: Vestergr.
 tl2_dates: 1875-1930
-tl2_page_id: 33212760
+tl2_bhl_page_id: 33212760
 author_lsid: 11151-1
 wikidata_id: Q19002970
 ipni_surname: Vestergren
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33212760) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11151-1), [Wikidata](https://www.wikidata.org/wiki/Q19002970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11151-1) LSID 11151-1, [Wikidata](https://www.wikidata.org/wiki/Q19002970) QID Q19002970
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

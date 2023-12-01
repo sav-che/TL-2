@@ -6,7 +6,7 @@ tl2_surname: Rambosson
 tl2_forenames: Jean Pierre
 tl2_name_abbrev: Rambosson
 tl2_dates: 1827-1886
-tl2_page_id: 33190041
+tl2_bhl_page_id: 33190041
 author_lsid: 35199-1
 wikidata_id: Q15074313
 ipni_surname: Rambosson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/35199-1), [Wikidata](https://www.wikidata.org/wiki/Q15074313). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35199-1) LSID 35199-1, [Wikidata](https://www.wikidata.org/wiki/Q15074313) QID Q15074313
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

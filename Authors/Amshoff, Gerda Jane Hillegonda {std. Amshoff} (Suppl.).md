@@ -6,7 +6,7 @@ tl2_surname: Amshoff
 tl2_forenames: Gerda Jane Hillegonda
 tl2_name_abbrev: Amshoff
 tl2_dates: 1913-1985
-tl2_page_id: 33264831
+tl2_bhl_page_id: 33264831
 author_lsid: 183-1
 wikidata_id: Q5878463
 ipni_surname: Amshoff
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33264831) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/183-1), [Wikidata](https://www.wikidata.org/wiki/Q5878463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/183-1) LSID 183-1, [Wikidata](https://www.wikidata.org/wiki/Q5878463) QID Q5878463
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Amshoff, Gerda Jane Hillegonda {std. Amshoff}|first entry]] for this author
 

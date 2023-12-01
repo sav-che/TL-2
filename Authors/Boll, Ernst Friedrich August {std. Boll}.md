@@ -6,7 +6,7 @@ tl2_surname: Boll
 tl2_forenames: Ernst Friedrich August
 tl2_name_abbrev: Boll
 tl2_dates: 1817-1868
-tl2_page_id: 33120394
+tl2_bhl_page_id: 33120394
 author_lsid: 929-1
 wikidata_id: Q105708
 ipni_surname: Boll
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33120394) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/929-1), [Wikidata](https://www.wikidata.org/wiki/Q105708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/929-1) LSID 929-1, [Wikidata](https://www.wikidata.org/wiki/Q105708) QID Q105708
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boll, Ernst Friedrich August {std. Boll} (Suppl.)|second entry]] for this author
 

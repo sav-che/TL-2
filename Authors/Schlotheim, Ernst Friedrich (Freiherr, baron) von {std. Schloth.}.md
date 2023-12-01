@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0209
 tl2_volume: vol5
 tl2_page_printed: 226
 tl2_surname: Schlotheim
-tl2_forenames: Ernst Friedrich [Freiherr, baron] von
+tl2_forenames: Ernst Friedrich (Freiherr, baron) von
 tl2_name_abbrev: Schloth.
 tl2_dates: 1764-1832
-tl2_page_id: 33333365
+tl2_bhl_page_id: 33333365
 author_lsid: 9131-1
 wikidata_id: Q215728
 ipni_surname: Schlotheim
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33333365) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9131-1), [Wikidata](https://www.wikidata.org/wiki/Q215728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9131-1) LSID 9131-1, [Wikidata](https://www.wikidata.org/wiki/Q215728) QID Q215728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

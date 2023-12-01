@@ -6,7 +6,7 @@ tl2_surname: Boodle
 tl2_forenames: Leonard Alfred
 tl2_name_abbrev: Boodle
 tl2_dates: 1865-1941
-tl2_page_id: 33265520
+tl2_bhl_page_id: 33265520
 author_lsid: 964-1
 wikidata_id: Q21506301
 ipni_surname: Boodle
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265520) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/964-1), [Wikidata](https://www.wikidata.org/wiki/Q21506301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/964-1) LSID 964-1, [Wikidata](https://www.wikidata.org/wiki/Q21506301) QID Q21506301
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

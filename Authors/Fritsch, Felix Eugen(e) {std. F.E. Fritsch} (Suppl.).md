@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0031
 tl2_volume: suppl8
 tl2_page_printed: 47
 tl2_surname: Fritsch
-tl2_forenames: Felix Eugen[e]
+tl2_forenames: Felix Eugen(e)
 tl2_name_abbrev: F.E. Fritsch
 tl2_dates: 1879-1954
-tl2_page_id: 33258487
+tl2_bhl_page_id: 33258487
 author_lsid: 2923-1
 wikidata_id: Q4011595
 ipni_surname: Fritsch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33258487) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2923-1), [Wikidata](https://www.wikidata.org/wiki/Q4011595). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2923-1) LSID 2923-1, [Wikidata](https://www.wikidata.org/wiki/Q4011595) QID Q4011595
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fritsch, Felix Eugen {std. F.E. Fritsch}|first entry]] for this author
 

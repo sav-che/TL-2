@@ -6,7 +6,7 @@ tl2_surname: Schmidt
 tl2_forenames: Otto Christian
 tl2_name_abbrev: O.C. Schmidt
 tl2_dates: 1900-1951
-tl2_page_id: 33333398
+tl2_bhl_page_id: 33333398
 author_lsid: 9167-1
 wikidata_id: Q6054694
 ipni_surname: Schmidt
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:44:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9167-1), [Wikidata](https://www.wikidata.org/wiki/Q6054694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9167-1) LSID 9167-1, [Wikidata](https://www.wikidata.org/wiki/Q6054694) QID Q6054694
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

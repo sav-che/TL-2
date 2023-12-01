@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0890
 tl2_volume: vol1
 tl2_page_printed: 698
 tl2_surname: Dumortier
-tl2_forenames: Barthélemy Charles Joseph [Count]
+tl2_forenames: Barthélemy Charles Joseph (Count)
 tl2_name_abbrev: Dumort.
 tl2_dates: 1797-1878
-tl2_page_id: 33120829
+tl2_bhl_page_id: 33120829
 author_lsid: 18271-1
 wikidata_id: Q316571
 ipni_surname: Dumortier
@@ -27,7 +27,8 @@ ipni_record_modified: 2010-07-14 09:23:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33120829) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18271-1), [Wikidata](https://www.wikidata.org/wiki/Q316571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18271-1) LSID 18271-1, [Wikidata](https://www.wikidata.org/wiki/Q316571) QID Q316571
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dumortier, Barthélemy Charles Joseph (also du Mortier) {std. Dumort.} (Suppl.)|second entry]] for this author
 

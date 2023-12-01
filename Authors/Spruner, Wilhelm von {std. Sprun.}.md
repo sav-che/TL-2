@@ -6,7 +6,7 @@ tl2_surname: Spruner
 tl2_forenames: Wilhelm von
 tl2_name_abbrev: Sprun.
 tl2_dates: 1805-1874
-tl2_page_id: 33333959
+tl2_bhl_page_id: 33333959
 author_lsid: 9996-1
 wikidata_id: Q6167479
 ipni_surname: Spruner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9996-1), [Wikidata](https://www.wikidata.org/wiki/Q6167479). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9996-1) LSID 9996-1, [Wikidata](https://www.wikidata.org/wiki/Q6167479) QID Q6167479
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

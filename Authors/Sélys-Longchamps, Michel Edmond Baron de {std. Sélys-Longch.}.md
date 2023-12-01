@@ -6,7 +6,7 @@ tl2_surname: Sélys-Longchamps
 tl2_forenames: Michel Edmond Baron de
 tl2_name_abbrev: Sélys-Longch.
 tl2_dates: 1813-1900
-tl2_page_id: 33333640
+tl2_bhl_page_id: 33333640
 author_lsid: 14152-1
 wikidata_id: Q59638
 ipni_surname: Sélys-Longchamps
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33333640) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/14152-1), [Wikidata](https://www.wikidata.org/wiki/Q59638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14152-1) LSID 14152-1, [Wikidata](https://www.wikidata.org/wiki/Q59638) QID Q59638
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

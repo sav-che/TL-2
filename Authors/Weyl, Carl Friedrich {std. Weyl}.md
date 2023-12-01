@@ -6,7 +6,7 @@ tl2_surname: Weyl
 tl2_forenames: Carl Friedrich
 tl2_name_abbrev: Weyl
 tl2_dates: 1792-1872
-tl2_page_id: 33066576
+tl2_bhl_page_id: 33066576
 author_lsid: 11598-1
 wikidata_id: Q21612550
 ipni_surname: Weyl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33066576) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11598-1), [Wikidata](https://www.wikidata.org/wiki/Q21612550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11598-1) LSID 11598-1, [Wikidata](https://www.wikidata.org/wiki/Q21612550) QID Q21612550
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

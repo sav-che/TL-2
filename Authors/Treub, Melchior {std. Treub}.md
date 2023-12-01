@@ -6,7 +6,7 @@ tl2_surname: Treub
 tl2_forenames: Melchior
 tl2_name_abbrev: Treub
 tl2_dates: 1851-1910
-tl2_page_id: 33212511
+tl2_bhl_page_id: 33212511
 author_lsid: 10811-1
 wikidata_id: Q700909
 ipni_surname: Treub
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33212511) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10811-1), [Wikidata](https://www.wikidata.org/wiki/Q700909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10811-1) LSID 10811-1, [Wikidata](https://www.wikidata.org/wiki/Q700909) QID Q700909
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

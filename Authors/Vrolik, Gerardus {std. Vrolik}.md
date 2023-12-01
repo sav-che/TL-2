@@ -6,7 +6,7 @@ tl2_surname: Vrolik
 tl2_forenames: Gerardus
 tl2_name_abbrev: Vrolik
 tl2_dates: 1775-1859
-tl2_page_id: 33212841
+tl2_bhl_page_id: 33212841
 author_lsid: 11276-1
 wikidata_id: Q2104429
 ipni_surname: Vrolik
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33212841) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11276-1), [Wikidata](https://www.wikidata.org/wiki/Q2104429). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11276-1) LSID 11276-1, [Wikidata](https://www.wikidata.org/wiki/Q2104429) QID Q2104429
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

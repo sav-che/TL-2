@@ -6,7 +6,7 @@ tl2_surname: Schube
 tl2_forenames: Theodor
 tl2_name_abbrev: Schube
 tl2_dates: 1860-1934
-tl2_page_id: 33333489
+tl2_bhl_page_id: 33333489
 author_lsid: 9275-1
 wikidata_id: Q2803289
 ipni_surname: Schube
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33333489) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9275-1), [Wikidata](https://www.wikidata.org/wiki/Q2803289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9275-1) LSID 9275-1, [Wikidata](https://www.wikidata.org/wiki/Q2803289) QID Q2803289
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

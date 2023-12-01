@@ -6,7 +6,7 @@ tl2_surname: Bielefeld
 tl2_forenames: Rudolf
 tl2_name_abbrev: Bielef.
 tl2_dates: fl. 1900
-tl2_page_id: 33265356
+tl2_bhl_page_id: 33265356
 author_lsid: 779-1
 wikidata_id: Q21506105
 ipni_surname: Bielefeld
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33265356) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/779-1), [Wikidata](https://www.wikidata.org/wiki/Q21506105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/779-1) LSID 779-1, [Wikidata](https://www.wikidata.org/wiki/Q21506105) QID Q21506105
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bielefeld, Rudolf {std. Bielef.}|first entry]] for this author
 

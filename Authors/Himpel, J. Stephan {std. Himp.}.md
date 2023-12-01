@@ -6,7 +6,7 @@ tl2_surname: Himpel
 tl2_forenames: J. Stephan
 tl2_name_abbrev: Himp.
 tl2_dates: fl. 1891
-tl2_page_id: 33068449
+tl2_bhl_page_id: 33068449
 author_lsid: 34849-1
 wikidata_id: Q36591678
 ipni_surname: Himpel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/34849-1), [Wikidata](https://www.wikidata.org/wiki/Q36591678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34849-1) LSID 34849-1, [Wikidata](https://www.wikidata.org/wiki/Q36591678) QID Q36591678
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hauptfleisch
 tl2_forenames: Paul
 tl2_name_abbrev: Hauptfl.
 tl2_dates: 1861-1906
-tl2_page_id: 33068344
+tl2_bhl_page_id: 33068344
 author_lsid: 3730-1
 wikidata_id: Q20015381
 ipni_surname: Hauptfleisch
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33068344) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3730-1), [Wikidata](https://www.wikidata.org/wiki/Q20015381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3730-1) LSID 3730-1, [Wikidata](https://www.wikidata.org/wiki/Q20015381) QID Q20015381
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dulac
 tl2_forenames: Joseph
 tl2_name_abbrev: Dulac
 tl2_dates: fl. 1867
-tl2_page_id: 33120826
+tl2_bhl_page_id: 33120826
 author_lsid: 2365-1
 wikidata_id: Q3184885
 ipni_surname: Dulac
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33120826) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2365-1), [Wikidata](https://www.wikidata.org/wiki/Q3184885). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2365-1) LSID 2365-1, [Wikidata](https://www.wikidata.org/wiki/Q3184885) QID Q3184885
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

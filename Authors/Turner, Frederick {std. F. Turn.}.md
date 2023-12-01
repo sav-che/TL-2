@@ -6,7 +6,7 @@ tl2_surname: Turner
 tl2_forenames: Frederick
 tl2_name_abbrev: F. Turn.
 tl2_dates: 1852-1939
-tl2_page_id: 33212589
+tl2_bhl_page_id: 33212589
 author_lsid: 10918-1
 wikidata_id: Q5496436
 ipni_surname: Turner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33212589) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10918-1), [Wikidata](https://www.wikidata.org/wiki/Q5496436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10918-1) LSID 10918-1, [Wikidata](https://www.wikidata.org/wiki/Q5496436) QID Q5496436
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

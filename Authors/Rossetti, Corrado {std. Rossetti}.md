@@ -6,7 +6,7 @@ tl2_surname: Rossetti
 tl2_forenames: Corrado
 tl2_name_abbrev: Rossetti
 tl2_dates: 1866-?
-tl2_page_id: 33190374
+tl2_bhl_page_id: 33190374
 author_lsid: 8617-1
 wikidata_id: Q21607432
 ipni_surname: Rossetti
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8617-1), [Wikidata](https://www.wikidata.org/wiki/Q21607432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8617-1) LSID 8617-1, [Wikidata](https://www.wikidata.org/wiki/Q21607432) QID Q21607432
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

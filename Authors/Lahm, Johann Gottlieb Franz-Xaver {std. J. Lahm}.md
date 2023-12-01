@@ -6,7 +6,7 @@ tl2_surname: Lahm
 tl2_forenames: Johann Gottlieb Franz-Xaver
 tl2_name_abbrev: J. Lahm
 tl2_dates: 1811-1888
-tl2_page_id: 33068967
+tl2_bhl_page_id: 33068967
 author_lsid: 21975-1
 wikidata_id: Q21339682
 ipni_surname: Lahm
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21975-1), [Wikidata](https://www.wikidata.org/wiki/Q21339682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21975-1) LSID 21975-1, [Wikidata](https://www.wikidata.org/wiki/Q21339682) QID Q21339682
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Fries
 tl2_forenames: Klas Robert Elias
 tl2_name_abbrev: R.E. Fr.
 tl2_dates: 1876-1966
-tl2_page_id: 33121020
+tl2_bhl_page_id: 33121020
 author_lsid: 2916-1
 wikidata_id: Q15414
 ipni_surname: Fries
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2916-1), [Wikidata](https://www.wikidata.org/wiki/Q15414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2916-1) LSID 2916-1, [Wikidata](https://www.wikidata.org/wiki/Q15414) QID Q15414
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fries, (Klas) Robert Elias {std. R.E. Fr.} (Suppl.)|second entry]] for this author
 

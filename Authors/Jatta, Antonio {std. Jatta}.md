@@ -6,7 +6,7 @@ tl2_surname: Jatta
 tl2_forenames: Antonio
 tl2_name_abbrev: Jatta
 tl2_dates: 1852-1912
-tl2_page_id: 33068668
+tl2_bhl_page_id: 33068668
 author_lsid: 4440-1
 wikidata_id: Q3619721
 ipni_surname: Jatta
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4440-1), [Wikidata](https://www.wikidata.org/wiki/Q3619721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4440-1) LSID 4440-1, [Wikidata](https://www.wikidata.org/wiki/Q3619721) QID Q3619721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

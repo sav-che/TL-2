@@ -6,7 +6,7 @@ tl2_surname: Emmons
 tl2_forenames: Ebenezer
 tl2_name_abbrev: Emmons
 tl2_dates: 1799-1863
-tl2_page_id: 33120877
+tl2_bhl_page_id: 33120877
 author_lsid: 2529-1
 wikidata_id: Q5331679
 ipni_surname: Emmons
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33120877) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2529-1), [Wikidata](https://www.wikidata.org/wiki/Q5331679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2529-1) LSID 2529-1, [Wikidata](https://www.wikidata.org/wiki/Q5331679) QID Q5331679
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Arnold
 tl2_forenames: Ferdinand Christian Gustav (von Eichstätt)
 tl2_name_abbrev: Arnold
 tl2_dates: 1828-1901
-tl2_page_id: 33120196
+tl2_bhl_page_id: 33120196
 author_lsid: 276-1
 wikidata_id: Q2460005
 ipni_surname: Arnold
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33120196) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/276-1), [Wikidata](https://www.wikidata.org/wiki/Q2460005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/276-1) LSID 276-1, [Wikidata](https://www.wikidata.org/wiki/Q2460005) QID Q2460005
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arnold, Ferdinand (Christian Gustav) (von Eichstätt) {std. Arnold} (Suppl.)|second entry]] for this author
 

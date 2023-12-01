@@ -6,7 +6,7 @@ tl2_surname: Dracinschi
 tl2_forenames: Margit
 tl2_name_abbrev: Dracinschi
 tl2_dates: fl. 1926-1932
-tl2_page_id: 33260072
+tl2_bhl_page_id: 33260072
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33260072) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

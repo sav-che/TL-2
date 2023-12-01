@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl1_0299
 tl2_volume: suppl1
 tl2_page_printed: 251
-tl2_surname: Baeza R. [Riquelme]
+tl2_surname: Baeza R. (Riquelme)
 tl2_forenames: Víctor Manuel
 tl2_name_abbrev: Baeza
 tl2_dates: 1886-1944
-tl2_page_id: 33264978
+tl2_bhl_page_id: 33264978
 author_lsid: 31174-1
 wikidata_id: Q21505504
 ipni_surname: Baeza
@@ -25,7 +25,8 @@ ipni_record_modified: 2005-08-23 07:57:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33264978) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31174-1), [Wikidata](https://www.wikidata.org/wiki/Q21505504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31174-1) LSID 31174-1, [Wikidata](https://www.wikidata.org/wiki/Q21505504) QID Q21505504
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

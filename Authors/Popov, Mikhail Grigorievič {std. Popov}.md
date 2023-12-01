@@ -6,7 +6,7 @@ tl2_surname: Popov
 tl2_forenames: Mikhail Grigorievič
 tl2_name_abbrev: Popov
 tl2_dates: 1893-1955
-tl2_page_id: 33189809
+tl2_bhl_page_id: 33189809
 author_lsid: 7848-1
 wikidata_id: Q1990021
 ipni_surname: Popov
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7848-1), [Wikidata](https://www.wikidata.org/wiki/Q1990021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7848-1) LSID 7848-1, [Wikidata](https://www.wikidata.org/wiki/Q1990021) QID Q1990021
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

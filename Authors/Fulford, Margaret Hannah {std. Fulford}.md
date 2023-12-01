@@ -6,7 +6,7 @@ tl2_surname: Fulford
 tl2_forenames: Margaret Hannah
 tl2_name_abbrev: Fulford
 tl2_dates: 1904-1999
-tl2_page_id: 33258554
+tl2_bhl_page_id: 33258554
 author_lsid: 2957-1
 wikidata_id: Q21513629
 ipni_surname: Fulford
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2957-1), [Wikidata](https://www.wikidata.org/wiki/Q21513629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2957-1) LSID 2957-1, [Wikidata](https://www.wikidata.org/wiki/Q21513629) QID Q21513629
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

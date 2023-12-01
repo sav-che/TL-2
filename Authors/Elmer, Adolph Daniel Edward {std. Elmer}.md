@@ -6,7 +6,7 @@ tl2_surname: Elmer
 tl2_forenames: Adolph Daniel Edward
 tl2_name_abbrev: Elmer
 tl2_dates: 1870-1942
-tl2_page_id: 33120875
+tl2_bhl_page_id: 33120875
 author_lsid: 2522-1
 wikidata_id: Q1105726
 ipni_surname: Elmer
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33120875) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2522-1), [Wikidata](https://www.wikidata.org/wiki/Q1105726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2522-1) LSID 2522-1, [Wikidata](https://www.wikidata.org/wiki/Q1105726) QID Q1105726
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Elmer, Adolph Daniel Edward {std. Elmer} (Suppl.)|second entry]] for this author
 

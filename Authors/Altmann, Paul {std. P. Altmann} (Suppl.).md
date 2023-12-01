@@ -6,7 +6,7 @@ tl2_surname: Altmann
 tl2_forenames: Paul
 tl2_name_abbrev: P. Altmann
 tl2_dates: fl. 1886-1895
-tl2_page_id: 33264819
+tl2_bhl_page_id: 33264819
 author_lsid: 173-1
 wikidata_id: Q47112955
 ipni_surname: Altmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33264819) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/173-1), [Wikidata](https://www.wikidata.org/wiki/Q47112955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/173-1) LSID 173-1, [Wikidata](https://www.wikidata.org/wiki/Q47112955) QID Q47112955
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Altmann, Paul {std. P. Altmann}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Baron
 tl2_forenames: P. Alexis
 tl2_name_abbrev: Baron
 tl2_dates: 1754-?
-tl2_page_id: 33120254
+tl2_bhl_page_id: 33120254
 author_lsid: 495-1
 wikidata_id: Q21505699
 ipni_surname: Baron
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/495-1), [Wikidata](https://www.wikidata.org/wiki/Q21505699). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/495-1) LSID 495-1, [Wikidata](https://www.wikidata.org/wiki/Q21505699) QID Q21505699
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

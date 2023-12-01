@@ -6,7 +6,7 @@ tl2_surname: Hervey
 tl2_forenames: Eliphalet Williams
 tl2_name_abbrev: E. Herv.
 tl2_dates: 1834-1925
-tl2_page_id: 33068419
+tl2_bhl_page_id: 33068419
 author_lsid: 3891-1
 wikidata_id: Q21515758
 ipni_surname: Hervey
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3891-1), [Wikidata](https://www.wikidata.org/wiki/Q21515758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3891-1) LSID 3891-1, [Wikidata](https://www.wikidata.org/wiki/Q21515758) QID Q21515758
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

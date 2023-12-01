@@ -6,7 +6,7 @@ tl2_surname: Dickinson
 tl2_forenames: Joseph
 tl2_name_abbrev: Dickinson
 tl2_dates: 1805?-1865
-tl2_page_id: 33120775
+tl2_bhl_page_id: 33120775
 author_lsid: 2191-1
 wikidata_id: Q18576577
 ipni_surname: Dickinson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33120775) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2191-1), [Wikidata](https://www.wikidata.org/wiki/Q18576577). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2191-1) LSID 2191-1, [Wikidata](https://www.wikidata.org/wiki/Q18576577) QID Q18576577
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dickinson, Joseph {std. Dickinson} (Suppl.)|second entry]] for this author
 

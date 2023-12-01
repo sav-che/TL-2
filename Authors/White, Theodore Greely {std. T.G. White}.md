@@ -6,7 +6,7 @@ tl2_surname: White
 tl2_forenames: Theodore Greely
 tl2_name_abbrev: T.G. White
 tl2_dates: 1872-1901
-tl2_page_id: 33066595
+tl2_bhl_page_id: 33066595
 author_lsid: 11623-1
 wikidata_id: Q6145737
 ipni_surname: White
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11623-1), [Wikidata](https://www.wikidata.org/wiki/Q6145737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11623-1) LSID 11623-1, [Wikidata](https://www.wikidata.org/wiki/Q6145737) QID Q6145737
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

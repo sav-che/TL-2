@@ -6,7 +6,7 @@ tl2_surname: Briggs
 tl2_forenames: Thomas Richard Archer
 tl2_name_abbrev: Briggs
 tl2_dates: 1836-1891
-tl2_page_id: 33120457
+tl2_bhl_page_id: 33120457
 author_lsid: 1144-1
 wikidata_id: Q6146095
 ipni_surname: Briggs
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33120457) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1144-1), [Wikidata](https://www.wikidata.org/wiki/Q6146095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1144-1) LSID 1144-1, [Wikidata](https://www.wikidata.org/wiki/Q6146095) QID Q6146095
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Briggs, Thomas Richard Archer {std. Briggs} (Suppl.)|second entry]] for this author
 

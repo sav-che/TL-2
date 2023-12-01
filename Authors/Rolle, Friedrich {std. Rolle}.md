@@ -6,7 +6,7 @@ tl2_surname: Rolle
 tl2_forenames: Friedrich
 tl2_name_abbrev: Rolle
 tl2_dates: 1827-1887
-tl2_page_id: 33190343
+tl2_bhl_page_id: 33190343
 author_lsid: 8554-1
 wikidata_id: Q1347877
 ipni_surname: Rolle
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33190343) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8554-1), [Wikidata](https://www.wikidata.org/wiki/Q1347877). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8554-1) LSID 8554-1, [Wikidata](https://www.wikidata.org/wiki/Q1347877) QID Q1347877
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Němejc
 tl2_forenames: František
 tl2_name_abbrev: F. Němejc
 tl2_dates: 1901-1976
-tl2_page_id: 33355813
+tl2_bhl_page_id: 33355813
 author_lsid: 6911-1
 wikidata_id: Q21522057
 ipni_surname: Němejc
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33355813) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6911-1), [Wikidata](https://www.wikidata.org/wiki/Q21522057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6911-1) LSID 6911-1, [Wikidata](https://www.wikidata.org/wiki/Q21522057) QID Q21522057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

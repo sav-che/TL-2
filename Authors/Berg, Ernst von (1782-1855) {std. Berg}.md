@@ -6,7 +6,7 @@ tl2_surname: Berg
 tl2_forenames: Ernst von (1782-1855)
 tl2_name_abbrev: Berg
 tl2_dates: 1782-1855
-tl2_page_id: 33265280
+tl2_bhl_page_id: 33265280
 author_lsid: 675-1
 wikidata_id: Q20066995
 ipni_surname: Berg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33265280) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/675-1), [Wikidata](https://www.wikidata.org/wiki/Q20066995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/675-1) LSID 675-1, [Wikidata](https://www.wikidata.org/wiki/Q20066995) QID Q20066995
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

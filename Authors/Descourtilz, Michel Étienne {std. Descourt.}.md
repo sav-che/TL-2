@@ -6,7 +6,7 @@ tl2_surname: Descourtilz
 tl2_forenames: Michel Étienne
 tl2_name_abbrev: Descourt.
 tl2_dates: 1775-c. 1835
-tl2_page_id: 33120757
+tl2_bhl_page_id: 33120757
 author_lsid: 2147-1
 wikidata_id: Q5686982
 ipni_surname: Descourtilz
@@ -24,7 +24,8 @@ ipni_record_modified: 2006-06-13 10:36:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33120757) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2147-1), [Wikidata](https://www.wikidata.org/wiki/Q5686982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2147-1) LSID 2147-1, [Wikidata](https://www.wikidata.org/wiki/Q5686982) QID Q5686982
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Descourtilz, Michel Étienne {std. Descourt.} (Suppl.)|second entry]] for this author
 

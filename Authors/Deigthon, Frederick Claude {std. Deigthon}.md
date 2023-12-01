@@ -6,7 +6,7 @@ tl2_surname: Deigthon
 tl2_forenames: Frederick Claude
 tl2_name_abbrev: Deigthon
 tl2_dates: 1903-1992
-tl2_page_id: 33259211
+tl2_bhl_page_id: 33259211
 author_lsid: 17887-1
 wikidata_id: Q21392050
 ipni_surname: Deighton
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259211) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17887-1), [Wikidata](https://www.wikidata.org/wiki/Q21392050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17887-1) LSID 17887-1, [Wikidata](https://www.wikidata.org/wiki/Q21392050) QID Q21392050
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

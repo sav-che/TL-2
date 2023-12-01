@@ -6,7 +6,7 @@ tl2_surname: Mann
 tl2_forenames: Johann Gottlieb
 tl2_name_abbrev: J.G. Mann
 tl2_dates: fl. 1829
-tl2_page_id: 33355366
+tl2_bhl_page_id: 33355366
 author_lsid: 6072-1
 wikidata_id: Q47121831
 ipni_surname: Mann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33355366) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6072-1), [Wikidata](https://www.wikidata.org/wiki/Q47121831). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6072-1) LSID 6072-1, [Wikidata](https://www.wikidata.org/wiki/Q47121831) QID Q47121831
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

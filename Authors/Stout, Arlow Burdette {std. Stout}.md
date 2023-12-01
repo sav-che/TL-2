@@ -6,7 +6,7 @@ tl2_surname: Stout
 tl2_forenames: Arlow Burdette
 tl2_name_abbrev: Stout
 tl2_dates: 1876-1957
-tl2_page_id: 33212033
+tl2_bhl_page_id: 33212033
 author_lsid: 10191-1
 wikidata_id: Q2879263
 ipni_surname: Stout
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10191-1), [Wikidata](https://www.wikidata.org/wiki/Q2879263). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10191-1) LSID 10191-1, [Wikidata](https://www.wikidata.org/wiki/Q2879263) QID Q2879263
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

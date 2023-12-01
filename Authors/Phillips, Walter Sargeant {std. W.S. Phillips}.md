@@ -6,7 +6,7 @@ tl2_surname: Phillips
 tl2_forenames: Walter Sargeant
 tl2_name_abbrev: W.S. Phillips
 tl2_dates: 1905-1975
-tl2_page_id: 33189715
+tl2_bhl_page_id: 33189715
 author_lsid: 7648-1
 wikidata_id: Q21522962
 ipni_surname: Phillips
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33189715) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7648-1), [Wikidata](https://www.wikidata.org/wiki/Q21522962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7648-1) LSID 7648-1, [Wikidata](https://www.wikidata.org/wiki/Q21522962) QID Q21522962
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

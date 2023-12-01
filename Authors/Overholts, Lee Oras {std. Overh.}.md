@@ -6,7 +6,7 @@ tl2_surname: Overholts
 tl2_forenames: Lee Oras
 tl2_name_abbrev: Overh.
 tl2_dates: 1890-1946
-tl2_page_id: 33355953
+tl2_bhl_page_id: 33355953
 author_lsid: 24434-1
 wikidata_id: Q4330678
 ipni_surname: Overholts
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33355953) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24434-1), [Wikidata](https://www.wikidata.org/wiki/Q4330678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24434-1) LSID 24434-1, [Wikidata](https://www.wikidata.org/wiki/Q4330678) QID Q4330678
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

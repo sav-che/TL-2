@@ -6,7 +6,7 @@ tl2_surname: Krause
 tl2_forenames: Christian Ludwig
 tl2_name_abbrev: C. Krause
 tl2_dates: fl. 1753
-tl2_page_id: 33068907
+tl2_bhl_page_id: 33068907
 author_lsid: 5038-1
 wikidata_id: Q21517900
 ipni_surname: Krause
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5038-1), [Wikidata](https://www.wikidata.org/wiki/Q21517900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5038-1) LSID 5038-1, [Wikidata](https://www.wikidata.org/wiki/Q21517900) QID Q21517900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

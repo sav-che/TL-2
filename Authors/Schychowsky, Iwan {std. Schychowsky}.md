@@ -6,7 +6,7 @@ tl2_surname: Schychowsky
 tl2_forenames: Iwan
 tl2_name_abbrev: Schychowsky
 tl2_dates: fl. 1832
-tl2_page_id: 33333591
+tl2_bhl_page_id: 33333591
 author_lsid: 9381-1
 wikidata_id: Q4524659
 ipni_surname: Schychowsky
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9381-1), [Wikidata](https://www.wikidata.org/wiki/Q4524659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9381-1) LSID 9381-1, [Wikidata](https://www.wikidata.org/wiki/Q4524659) QID Q4524659
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

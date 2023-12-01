@@ -6,7 +6,7 @@ tl2_surname: Strong
 tl2_forenames: Asa B.
 tl2_name_abbrev: A. Strong
 tl2_dates: fl. 1850
-tl2_page_id: 33212057
+tl2_bhl_page_id: 33212057
 author_lsid: 10232-1
 wikidata_id: Q36511637
 ipni_surname: Strong
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33212057) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10232-1), [Wikidata](https://www.wikidata.org/wiki/Q36511637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10232-1) LSID 10232-1, [Wikidata](https://www.wikidata.org/wiki/Q36511637) QID Q36511637
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

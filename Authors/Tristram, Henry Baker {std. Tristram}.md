@@ -6,7 +6,7 @@ tl2_surname: Tristram
 tl2_forenames: Henry Baker
 tl2_name_abbrev: Tristram
 tl2_dates: 1822-1906
-tl2_page_id: 33212541
+tl2_bhl_page_id: 33212541
 author_lsid: 10832-1
 wikidata_id: Q1345157
 ipni_surname: Tristram
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:48:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33212541) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10832-1), [Wikidata](https://www.wikidata.org/wiki/Q1345157). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10832-1) LSID 10832-1, [Wikidata](https://www.wikidata.org/wiki/Q1345157) QID Q1345157
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

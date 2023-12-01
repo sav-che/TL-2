@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0059
 tl2_volume: suppl7
 tl2_page_printed: 77
 tl2_surname: Faye
-tl2_forenames: [Antoine Honoré] Léon
+tl2_forenames: (Antoine Honoré) Léon
 tl2_name_abbrev: Faye
 tl2_dates: 1810-1855
-tl2_page_id: 33259581
+tl2_bhl_page_id: 33259581
 author_lsid: 2654-1
 wikidata_id: Q21512703
 ipni_surname: Faye
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2654-1), [Wikidata](https://www.wikidata.org/wiki/Q21512703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2654-1) LSID 2654-1, [Wikidata](https://www.wikidata.org/wiki/Q21512703) QID Q21512703
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

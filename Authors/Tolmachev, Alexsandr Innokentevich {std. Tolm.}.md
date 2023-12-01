@@ -6,7 +6,7 @@ tl2_surname: Tolmachev
 tl2_forenames: Alexsandr Innokentevich
 tl2_name_abbrev: Tolm.
 tl2_dates: 1903-1979
-tl2_page_id: 33212428
+tl2_bhl_page_id: 33212428
 author_lsid: 12938-1
 wikidata_id: Q1976970
 ipni_surname: Tolmatchew
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:27:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33212428) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12938-1), [Wikidata](https://www.wikidata.org/wiki/Q1976970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12938-1) LSID 12938-1, [Wikidata](https://www.wikidata.org/wiki/Q1976970) QID Q1976970
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

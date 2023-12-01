@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0189
 tl2_volume: vol6
 tl2_page_printed: 162
 tl2_surname: Tangl
-tl2_forenames: Eduard [Josef]
+tl2_forenames: Eduard (Josef)
 tl2_name_abbrev: Tangl
 tl2_dates: 1848-1905
-tl2_page_id: 33212204
+tl2_bhl_page_id: 33212204
 author_lsid: 12915-1
 wikidata_id: Q21610182
 ipni_surname: Tangl
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33212204) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12915-1), [Wikidata](https://www.wikidata.org/wiki/Q21610182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12915-1) LSID 12915-1, [Wikidata](https://www.wikidata.org/wiki/Q21610182) QID Q21610182
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

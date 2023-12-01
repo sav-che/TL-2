@@ -6,7 +6,7 @@ tl2_surname: Berchtold
 tl2_forenames: Friedrich, Graf von, Freiherr von Ungarschütz (Uherčic)
 tl2_name_abbrev: Bercht.
 tl2_dates: 1781-1876
-tl2_page_id: 33265278
+tl2_bhl_page_id: 33265278
 author_lsid: 671-1
 wikidata_id: Q940150
 ipni_surname: Berchtold
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265278) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/671-1), [Wikidata](https://www.wikidata.org/wiki/Q940150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/671-1) LSID 671-1, [Wikidata](https://www.wikidata.org/wiki/Q940150) QID Q940150
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz {std. Bercht.}|first entry]] for this author
 

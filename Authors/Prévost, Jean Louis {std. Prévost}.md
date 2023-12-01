@@ -6,7 +6,7 @@ tl2_surname: Prévost
 tl2_forenames: Jean Louis
 tl2_name_abbrev: Prévost
 tl2_dates: fl. 1760-1810
-tl2_page_id: 33189869
+tl2_bhl_page_id: 33189869
 author_lsid: 7952-1
 wikidata_id: Q47124701
 ipni_surname: Prévost
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33189869) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7952-1), [Wikidata](https://www.wikidata.org/wiki/Q47124701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7952-1) LSID 7952-1, [Wikidata](https://www.wikidata.org/wiki/Q47124701) QID Q47124701
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

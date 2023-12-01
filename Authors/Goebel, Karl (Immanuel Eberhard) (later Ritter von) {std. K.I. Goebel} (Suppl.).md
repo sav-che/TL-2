@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0199
 tl2_volume: suppl8
 tl2_page_printed: 261
 tl2_surname: Goebel
-tl2_forenames: Karl [Immanuel Eberhard] (later Ritter von)
+tl2_forenames: Karl (Immanuel Eberhard) (later Ritter von)
 tl2_name_abbrev: K.I. Goebel
 tl2_dates: 1855-1932
-tl2_page_id: 33258739
+tl2_bhl_page_id: 33258739
 author_lsid: 3221-1
 wikidata_id: Q62756
 ipni_surname: Goebel
@@ -26,7 +26,8 @@ ipni_record_modified: 2009-11-10 15:00:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33258739) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3221-1), [Wikidata](https://www.wikidata.org/wiki/Q62756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3221-1) LSID 3221-1, [Wikidata](https://www.wikidata.org/wiki/Q62756) QID Q62756
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Goebel, Karl Immanuel Eberhard (later Ritter von) {std. K.I. Goebel}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Hall
 tl2_forenames: Franklin Wilson
 tl2_name_abbrev: F. Hall
 tl2_dates: 1852-1888
-tl2_page_id: 33068260
+tl2_bhl_page_id: 33068260
 author_lsid: 3570-1
 wikidata_id: Q21514524
 ipni_surname: Hall
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33068260) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3570-1), [Wikidata](https://www.wikidata.org/wiki/Q21514524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3570-1) LSID 3570-1, [Wikidata](https://www.wikidata.org/wiki/Q21514524) QID Q21514524
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

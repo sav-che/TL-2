@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0164
 tl2_volume: suppl7
 tl2_page_printed: 240
 tl2_surname: Flahault
-tl2_forenames: Charles [Henri Marie]
+tl2_forenames: Charles (Henri Marie)
 tl2_name_abbrev: Flahault
 tl2_dates: 1852-1935
-tl2_page_id: 33259744
+tl2_bhl_page_id: 33259744
 author_lsid: 2769-1
 wikidata_id: Q1064374
 ipni_surname: Flahault
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259744) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2769-1), [Wikidata](https://www.wikidata.org/wiki/Q1064374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2769-1) LSID 2769-1, [Wikidata](https://www.wikidata.org/wiki/Q1064374) QID Q1064374
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Flahault, Charles Henri Marie {std. Flahault}|first entry]] for this author
 

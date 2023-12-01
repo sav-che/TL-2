@@ -6,7 +6,7 @@ tl2_surname: Brefeld
 tl2_forenames: Julius Oscar
 tl2_name_abbrev: Bref.
 tl2_dates: 1839-1925
-tl2_page_id: 33266354
+tl2_bhl_page_id: 33266354
 author_lsid: 1106-1
 wikidata_id: Q65173
 ipni_surname: Brefeld
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33266354) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1106-1), [Wikidata](https://www.wikidata.org/wiki/Q65173). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1106-1) LSID 1106-1, [Wikidata](https://www.wikidata.org/wiki/Q65173) QID Q65173
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brefeld, Julius Oscar {std. Bref.}|first entry]] for this author
 

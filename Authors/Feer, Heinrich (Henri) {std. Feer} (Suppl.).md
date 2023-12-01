@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0069
 tl2_volume: suppl7
 tl2_page_printed: 107
 tl2_surname: Feer
-tl2_forenames: Heinrich [Henri]
+tl2_forenames: Heinrich (Henri)
 tl2_name_abbrev: Feer
 tl2_dates: 1857-1892
-tl2_page_id: 33259611
+tl2_bhl_page_id: 33259611
 author_lsid: 2670-1
 wikidata_id: Q4482907
 ipni_surname: Feer
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33259611) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2670-1), [Wikidata](https://www.wikidata.org/wiki/Q4482907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2670-1) LSID 2670-1, [Wikidata](https://www.wikidata.org/wiki/Q4482907) QID Q4482907
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Feer, Heinrich (Henri) {std. Feer}|first entry]] for this author
 

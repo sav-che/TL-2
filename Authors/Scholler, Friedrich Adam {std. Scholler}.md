@@ -6,7 +6,7 @@ tl2_surname: Scholler
 tl2_forenames: Friedrich Adam
 tl2_name_abbrev: Scholler
 tl2_dates: 1718-1795
-tl2_page_id: 33333433
+tl2_bhl_page_id: 33333433
 author_lsid: 9226-1
 wikidata_id: Q3087686
 ipni_surname: Scholler
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9226-1), [Wikidata](https://www.wikidata.org/wiki/Q3087686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9226-1) LSID 9226-1, [Wikidata](https://www.wikidata.org/wiki/Q3087686) QID Q3087686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

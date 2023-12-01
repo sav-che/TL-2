@@ -6,7 +6,7 @@ tl2_surname: Buchholz
 tl2_forenames: John Theodore
 tl2_name_abbrev: J. Buchholz
 tl2_dates: 1888-1951
-tl2_page_id: 33266502
+tl2_bhl_page_id: 33266502
 author_lsid: 1250-1
 wikidata_id: Q302925
 ipni_surname: Buchholz
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1250-1), [Wikidata](https://www.wikidata.org/wiki/Q302925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1250-1) LSID 1250-1, [Wikidata](https://www.wikidata.org/wiki/Q302925) QID Q302925
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hering
 tl2_forenames: Constantijn J.
 tl2_name_abbrev: Hering
 tl2_dates: 1800-1880
-tl2_page_id: 33068412
+tl2_bhl_page_id: 33068412
 author_lsid: 3872-1
 wikidata_id: Q76495
 ipni_surname: Hering
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33068412) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3872-1), [Wikidata](https://www.wikidata.org/wiki/Q76495). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3872-1) LSID 3872-1, [Wikidata](https://www.wikidata.org/wiki/Q76495) QID Q76495
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

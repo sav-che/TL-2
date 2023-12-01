@@ -6,7 +6,7 @@ tl2_surname: Caffin
 tl2_forenames: Jacques-François
 tl2_name_abbrev: Caffin
 tl2_dates: 1778-1854
-tl2_page_id: 33266605
+tl2_bhl_page_id: 33266605
 author_lsid: 1348-1
 wikidata_id: Q21506819
 ipni_surname: Caffin
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33266605) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1348-1), [Wikidata](https://www.wikidata.org/wiki/Q21506819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1348-1) LSID 1348-1, [Wikidata](https://www.wikidata.org/wiki/Q21506819) QID Q21506819
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Caffin, Jacques François {std. Caffin}|first entry]] for this author
 

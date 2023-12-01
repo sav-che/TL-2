@@ -6,7 +6,7 @@ tl2_surname: Laffon
 tl2_forenames: J. C.
 tl2_name_abbrev: Laffon
 tl2_dates: fl. 1848
-tl2_page_id: 33068961
+tl2_bhl_page_id: 33068961
 author_lsid: 5202-1
 wikidata_id: Q21518296
 ipni_surname: Laffon
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5202-1), [Wikidata](https://www.wikidata.org/wiki/Q21518296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5202-1) LSID 5202-1, [Wikidata](https://www.wikidata.org/wiki/Q21518296) QID Q21518296
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

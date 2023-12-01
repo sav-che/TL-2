@@ -6,7 +6,7 @@ tl2_surname: Cortés
 tl2_forenames: Santiago
 tl2_name_abbrev: Cortés
 tl2_dates: 1854-1924
-tl2_page_id: 33266060
+tl2_bhl_page_id: 33266060
 author_lsid: 1816-1
 wikidata_id: Q20014256
 ipni_surname: Cortés
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-09-17 22:27:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33266060) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1816-1), [Wikidata](https://www.wikidata.org/wiki/Q20014256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1816-1) LSID 1816-1, [Wikidata](https://www.wikidata.org/wiki/Q20014256) QID Q20014256
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

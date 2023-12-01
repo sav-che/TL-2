@@ -6,7 +6,7 @@ tl2_surname: Benson
 tl2_forenames: Gilbert Thereon
 tl2_name_abbrev: G.T. Benson
 tl2_dates: 1896-1928
-tl2_page_id: 33265273
+tl2_bhl_page_id: 33265273
 author_lsid: 663-1
 wikidata_id: Q6439388
 ipni_surname: Benson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/663-1), [Wikidata](https://www.wikidata.org/wiki/Q6439388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/663-1) LSID 663-1, [Wikidata](https://www.wikidata.org/wiki/Q6439388) QID Q6439388
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

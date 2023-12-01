@@ -6,7 +6,7 @@ tl2_surname: Brandis
 tl2_forenames: Sir Dietrich
 tl2_name_abbrev: Brandis
 tl2_dates: 1824-1907
-tl2_page_id: 33120435
+tl2_bhl_page_id: 33120435
 author_lsid: 1076-1
 wikidata_id: Q71069
 ipni_surname: Brandis
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33120435) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1076-1), [Wikidata](https://www.wikidata.org/wiki/Q71069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1076-1) LSID 1076-1, [Wikidata](https://www.wikidata.org/wiki/Q71069) QID Q71069
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brandis, (Sir) Dietrich {std. Brandis} (Suppl.)|second entry]] for this author
 

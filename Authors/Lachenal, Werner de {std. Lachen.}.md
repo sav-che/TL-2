@@ -6,7 +6,7 @@ tl2_surname: Lachenal
 tl2_forenames: Werner de
 tl2_name_abbrev: Lachen.
 tl2_dates: 1736-1800
-tl2_page_id: 33068956
+tl2_bhl_page_id: 33068956
 author_lsid: 5182-1
 wikidata_id: Q21518266
 ipni_surname: Lachenal
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5182-1), [Wikidata](https://www.wikidata.org/wiki/Q21518266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5182-1) LSID 5182-1, [Wikidata](https://www.wikidata.org/wiki/Q21518266) QID Q21518266
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

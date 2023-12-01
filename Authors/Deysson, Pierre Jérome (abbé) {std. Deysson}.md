@@ -6,7 +6,7 @@ tl2_surname: Deysson
 tl2_forenames: Pierre Jérome (abbé)
 tl2_name_abbrev: Deysson
 tl2_dates: fl. 1899
-tl2_page_id: 33259329
+tl2_bhl_page_id: 33259329
 author_lsid: 35824-1
 wikidata_id: Q5928586
 ipni_surname: Deysson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/35824-1), [Wikidata](https://www.wikidata.org/wiki/Q5928586). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35824-1) LSID 35824-1, [Wikidata](https://www.wikidata.org/wiki/Q5928586) QID Q5928586
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

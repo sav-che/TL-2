@@ -6,7 +6,7 @@ tl2_surname: Bubela
 tl2_forenames: Jan
 tl2_name_abbrev: Bubela
 tl2_dates: 1855-1889
-tl2_page_id: 33266487
+tl2_bhl_page_id: 33266487
 author_lsid: 20014011-2
 wikidata_id: Q36587384
 ipni_surname: Bubela
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/20014011-2), [Wikidata](https://www.wikidata.org/wiki/Q36587384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20014011-2) LSID 20014011-2, [Wikidata](https://www.wikidata.org/wiki/Q36587384) QID Q36587384
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

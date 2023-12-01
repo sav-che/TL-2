@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0056
 tl2_volume: suppl8
 tl2_page_printed: 76
 tl2_surname: Fukuyama
-tl2_forenames: Noriaki [Nuruyuki]
+tl2_forenames: Noriaki (Nuruyuki)
 tl2_name_abbrev: Fukuy.
 tl2_dates: 1912-1946
-tl2_page_id: 33258554
+tl2_bhl_page_id: 33258554
 author_lsid: 2956-1
 wikidata_id: Q2035489
 ipni_surname: Fukuyama
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2956-1), [Wikidata](https://www.wikidata.org/wiki/Q2035489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2956-1) LSID 2956-1, [Wikidata](https://www.wikidata.org/wiki/Q2035489) QID Q2035489
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

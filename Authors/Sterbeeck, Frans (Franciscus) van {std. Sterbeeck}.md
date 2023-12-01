@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0904
 tl2_volume: vol5
 tl2_page_printed: 896
 tl2_surname: Sterbeeck
-tl2_forenames: Frans [Franciscus] van
+tl2_forenames: Frans (Franciscus) van
 tl2_name_abbrev: Sterbeeck
 tl2_dates: 1630-1693
-tl2_page_id: 33334035
+tl2_bhl_page_id: 33334035
 author_lsid: 10110-1
 wikidata_id: Q1442333
 ipni_surname: Van Sterbeeck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/page/33334035) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10110-1), [Wikidata](https://www.wikidata.org/wiki/Q1442333). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10110-1) LSID 10110-1, [Wikidata](https://www.wikidata.org/wiki/Q1442333) QID Q1442333
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

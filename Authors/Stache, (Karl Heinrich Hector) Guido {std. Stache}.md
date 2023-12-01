@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0820
 tl2_volume: vol5
 tl2_page_printed: 823
 tl2_surname: Stache
-tl2_forenames: [Karl Heinrich Hector] Guido
+tl2_forenames: (Karl Heinrich Hector) Guido
 tl2_name_abbrev: Stache
 tl2_dates: 1833-1921
-tl2_page_id: 33333962
+tl2_bhl_page_id: 33333962
 author_lsid: 12881-1
 wikidata_id: Q1553673
 ipni_surname: Stache
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:45:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33333962) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12881-1), [Wikidata](https://www.wikidata.org/wiki/Q1553673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12881-1) LSID 12881-1, [Wikidata](https://www.wikidata.org/wiki/Q1553673) QID Q1553673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

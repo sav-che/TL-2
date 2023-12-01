@@ -6,7 +6,7 @@ tl2_surname: Andrews
 tl2_forenames: Luman
 tl2_name_abbrev: L. Andr.
 tl2_dates: 1839-1921
-tl2_page_id: 33264854
+tl2_bhl_page_id: 33264854
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33264854) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

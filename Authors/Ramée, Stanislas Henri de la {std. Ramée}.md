@@ -6,7 +6,7 @@ tl2_surname: Ramée
 tl2_forenames: Stanislas Henri de la
 tl2_name_abbrev: Ramée
 tl2_dates: 1747-1803
-tl2_page_id: 33190041
+tl2_bhl_page_id: 33190041
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

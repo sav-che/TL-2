@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl1_0092
 tl2_volume: suppl1
 tl2_page_printed: 69
-tl2_surname: Allemão [e Cysneiro]
+tl2_surname: Allemão (e Cysneiro)
 tl2_forenames: Francisco Freire
 tl2_name_abbrev: Allemão
 tl2_dates: 1797-1874
-tl2_page_id: 33264796
+tl2_bhl_page_id: 33264796
 author_lsid: 145-1
 wikidata_id: Q2049407
 ipni_surname: Allemão e Cysneiro
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33264796) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/145-1), [Wikidata](https://www.wikidata.org/wiki/Q2049407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/145-1) LSID 145-1, [Wikidata](https://www.wikidata.org/wiki/Q2049407) QID Q2049407
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Allemão e Cysneiro, Francisco Freire {std. Allemão}|first entry]] for this author
 

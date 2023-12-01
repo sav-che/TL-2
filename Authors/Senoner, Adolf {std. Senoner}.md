@@ -6,7 +6,7 @@ tl2_surname: Senoner
 tl2_forenames: Adolf
 tl2_name_abbrev: Senoner
 tl2_dates: 1806-1895
-tl2_page_id: 33333651
+tl2_bhl_page_id: 33333651
 author_lsid: 14154-1
 wikidata_id: Q21608673
 ipni_surname: Senoner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/14154-1), [Wikidata](https://www.wikidata.org/wiki/Q21608673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14154-1) LSID 14154-1, [Wikidata](https://www.wikidata.org/wiki/Q21608673) QID Q21608673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

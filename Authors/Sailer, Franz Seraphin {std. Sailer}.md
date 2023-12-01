@@ -6,7 +6,7 @@ tl2_surname: Sailer
 tl2_forenames: Franz Seraphin
 tl2_name_abbrev: Sailer
 tl2_dates: 1792-1847
-tl2_page_id: 33190531
+tl2_bhl_page_id: 33190531
 author_lsid: 8819-1
 wikidata_id: Q21607617
 ipni_surname: Sailer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1060](https://www.biodiversitylibrary.org/page/33190531) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8819-1), [Wikidata](https://www.wikidata.org/wiki/Q21607617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8819-1) LSID 8819-1, [Wikidata](https://www.wikidata.org/wiki/Q21607617) QID Q21607617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

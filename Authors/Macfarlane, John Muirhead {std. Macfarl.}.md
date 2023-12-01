@@ -6,7 +6,7 @@ tl2_surname: Macfarlane
 tl2_forenames: John Muirhead
 tl2_name_abbrev: Macfarl.
 tl2_dates: 1855-1943
-tl2_page_id: 33355306
+tl2_bhl_page_id: 33355306
 author_lsid: 5915-1
 wikidata_id: Q1701169
 ipni_surname: Macfarlane
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:48:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33355306) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5915-1), [Wikidata](https://www.wikidata.org/wiki/Q1701169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5915-1) LSID 5915-1, [Wikidata](https://www.wikidata.org/wiki/Q1701169) QID Q1701169
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

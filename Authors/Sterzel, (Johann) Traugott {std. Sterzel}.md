@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0913
 tl2_volume: vol5
 tl2_page_printed: 906
 tl2_surname: Sterzel
-tl2_forenames: [Johann] Traugott
+tl2_forenames: (Johann) Traugott
 tl2_name_abbrev: Sterzel
 tl2_dates: 1841-1914
-tl2_page_id: 33334045
+tl2_bhl_page_id: 33334045
 author_lsid: 12889-1
 wikidata_id: Q1696404
 ipni_surname: Sterzel
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/page/33334045) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12889-1), [Wikidata](https://www.wikidata.org/wiki/Q1696404). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12889-1) LSID 12889-1, [Wikidata](https://www.wikidata.org/wiki/Q1696404) QID Q1696404
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

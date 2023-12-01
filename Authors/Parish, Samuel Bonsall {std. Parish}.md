@@ -6,7 +6,7 @@ tl2_surname: Parish
 tl2_forenames: Samuel Bonsall
 tl2_name_abbrev: Parish
 tl2_dates: 1838-1928
-tl2_page_id: 33189530
+tl2_bhl_page_id: 33189530
 author_lsid: 7337-1
 wikidata_id: Q5487180
 ipni_surname: Parish
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33189530) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7337-1), [Wikidata](https://www.wikidata.org/wiki/Q5487180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7337-1) LSID 7337-1, [Wikidata](https://www.wikidata.org/wiki/Q5487180) QID Q5487180
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

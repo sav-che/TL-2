@@ -6,7 +6,7 @@ tl2_surname: Brandt
 tl2_forenames: Max
 tl2_name_abbrev: M. Brandt
 tl2_dates: 1884-1914
-tl2_page_id: 33266323
+tl2_bhl_page_id: 33266323
 author_lsid: 1079-1
 wikidata_id: Q21506429
 ipni_surname: Brandt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1079-1), [Wikidata](https://www.wikidata.org/wiki/Q21506429). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1079-1) LSID 1079-1, [Wikidata](https://www.wikidata.org/wiki/Q21506429) QID Q21506429
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

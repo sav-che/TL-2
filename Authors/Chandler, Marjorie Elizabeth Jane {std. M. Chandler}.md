@@ -6,7 +6,7 @@ tl2_surname: Chandler
 tl2_forenames: Marjorie Elizabeth Jane
 tl2_name_abbrev: M. Chandler
 tl2_dates: 1897-x
-tl2_page_id: 33265725
+tl2_bhl_page_id: 33265725
 author_lsid: 1509-1
 wikidata_id: Q6455787
 ipni_surname: Chandler
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1509-1), [Wikidata](https://www.wikidata.org/wiki/Q6455787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1509-1) LSID 1509-1, [Wikidata](https://www.wikidata.org/wiki/Q6455787) QID Q6455787
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

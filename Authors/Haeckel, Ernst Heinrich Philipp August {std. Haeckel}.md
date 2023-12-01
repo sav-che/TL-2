@@ -6,7 +6,7 @@ tl2_surname: Haeckel
 tl2_forenames: Ernst Heinrich Philipp August
 tl2_name_abbrev: Haeckel
 tl2_dates: 1834-1919
-tl2_page_id: 33068246
+tl2_bhl_page_id: 33068246
 author_lsid: 3530-1
 wikidata_id: Q48246
 ipni_surname: Haeckel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33068246) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3530-1), [Wikidata](https://www.wikidata.org/wiki/Q48246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3530-1) LSID 3530-1, [Wikidata](https://www.wikidata.org/wiki/Q48246) QID Q48246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

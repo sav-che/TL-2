@@ -6,7 +6,7 @@ tl2_surname: Archer
 tl2_forenames: William
 tl2_name_abbrev: W. Archer
 tl2_dates: 1830-1897
-tl2_page_id: 33120189
+tl2_bhl_page_id: 33120189
 author_lsid: 254-1
 wikidata_id: Q10426833
 ipni_surname: Archer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33120189) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/254-1), [Wikidata](https://www.wikidata.org/wiki/Q10426833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/254-1) LSID 254-1, [Wikidata](https://www.wikidata.org/wiki/Q10426833) QID Q10426833
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Archer, William (of Dublin) {std. W. Archer} (Suppl.)|second entry]] for this author
 

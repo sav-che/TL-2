@@ -6,7 +6,7 @@ tl2_surname: Miers
 tl2_forenames: John
 tl2_name_abbrev: Miers
 tl2_dates: 1789-1879
-tl2_page_id: 33355558
+tl2_bhl_page_id: 33355558
 author_lsid: 6452-1
 wikidata_id: Q575253
 ipni_surname: Miers
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:27:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33355558) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6452-1), [Wikidata](https://www.wikidata.org/wiki/Q575253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6452-1) LSID 6452-1, [Wikidata](https://www.wikidata.org/wiki/Q575253) QID Q575253
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

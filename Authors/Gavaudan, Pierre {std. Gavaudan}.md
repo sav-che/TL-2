@@ -6,7 +6,7 @@ tl2_surname: Gavaudan
 tl2_forenames: Pierre
 tl2_name_abbrev: Gavaudan
 tl2_dates: 1905-1985
-tl2_page_id: 33258632
+tl2_bhl_page_id: 33258632
 author_lsid: 29266-1
 wikidata_id: Q3385180
 ipni_surname: Gavaudan
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33258632) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/29266-1), [Wikidata](https://www.wikidata.org/wiki/Q3385180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29266-1) LSID 29266-1, [Wikidata](https://www.wikidata.org/wiki/Q3385180) QID Q3385180
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

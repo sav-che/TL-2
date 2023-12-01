@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0171
 tl2_volume: vol5
 tl2_page_printed: 165
 tl2_surname: Schimper
-tl2_forenames: Karl [Carl] Friedrich
+tl2_forenames: Karl (Carl) Friedrich
 tl2_name_abbrev: K.F. Schimp.
 tl2_dates: 1803-1867
-tl2_page_id: 33333304
+tl2_bhl_page_id: 33333304
 author_lsid: 26277-1
 wikidata_id: Q65402
 ipni_surname: Schimper
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33333304) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26277-1), [Wikidata](https://www.wikidata.org/wiki/Q65402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26277-1) LSID 26277-1, [Wikidata](https://www.wikidata.org/wiki/Q65402) QID Q65402
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Fothergill
 tl2_forenames: John
 tl2_name_abbrev: Fothergill
 tl2_dates: 1712-1780
-tl2_page_id: 33120995
+tl2_bhl_page_id: 33120995
 author_lsid: 2849-1
 wikidata_id: Q1232397
 ipni_surname: Fothergill
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2849-1), [Wikidata](https://www.wikidata.org/wiki/Q1232397). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2849-1) LSID 2849-1, [Wikidata](https://www.wikidata.org/wiki/Q1232397) QID Q1232397
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

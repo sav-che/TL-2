@@ -6,7 +6,7 @@ tl2_surname: Price
 tl2_forenames: Sarah
 tl2_name_abbrev: S. Price
 tl2_dates: fl. 1864
-tl2_page_id: 33189870
+tl2_bhl_page_id: 33189870
 author_lsid: 31990-1
 wikidata_id: Q47124707
 ipni_surname: Price
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33189870) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/31990-1), [Wikidata](https://www.wikidata.org/wiki/Q47124707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31990-1) LSID 31990-1, [Wikidata](https://www.wikidata.org/wiki/Q47124707) QID Q47124707
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

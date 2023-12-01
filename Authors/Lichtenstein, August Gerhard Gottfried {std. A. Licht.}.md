@@ -6,7 +6,7 @@ tl2_surname: Lichtenstein
 tl2_forenames: August Gerhard Gottfried
 tl2_name_abbrev: A. Licht.
 tl2_dates: 1780(?)-1851
-tl2_page_id: 33355119
+tl2_bhl_page_id: 33355119
 author_lsid: 5564-1
 wikidata_id: Q21519027
 ipni_surname: Lichtenstein
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33355119) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5564-1), [Wikidata](https://www.wikidata.org/wiki/Q21519027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5564-1) LSID 5564-1, [Wikidata](https://www.wikidata.org/wiki/Q21519027) QID Q21519027
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

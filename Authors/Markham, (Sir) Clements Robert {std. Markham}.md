@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0340
 tl2_volume: vol3
 tl2_page_printed: 298
 tl2_surname: Markham
-tl2_forenames: [Sir] Clements Robert
+tl2_forenames: (Sir) Clements Robert
 tl2_name_abbrev: Markham
 tl2_dates: 1830-1916
-tl2_page_id: 33355385
+tl2_bhl_page_id: 33355385
 author_lsid: 12674-1
 wikidata_id: Q507802
 ipni_surname: Markham
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33355385) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12674-1), [Wikidata](https://www.wikidata.org/wiki/Q507802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12674-1) LSID 12674-1, [Wikidata](https://www.wikidata.org/wiki/Q507802) QID Q507802
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

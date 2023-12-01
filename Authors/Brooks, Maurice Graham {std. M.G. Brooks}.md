@@ -6,7 +6,7 @@ tl2_surname: Brooks
 tl2_forenames: Maurice Graham
 tl2_name_abbrev: M.G. Brooks
 tl2_dates: 1900-x
-tl2_page_id: 33266430
+tl2_bhl_page_id: 33266430
 author_lsid: 14622-1
 wikidata_id: Q6792916
 ipni_surname: Brooks
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/14622-1), [Wikidata](https://www.wikidata.org/wiki/Q6792916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14622-1) LSID 14622-1, [Wikidata](https://www.wikidata.org/wiki/Q6792916) QID Q6792916
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

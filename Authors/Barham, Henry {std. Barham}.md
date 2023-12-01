@@ -6,7 +6,7 @@ tl2_surname: Barham
 tl2_forenames: Henry
 tl2_name_abbrev: Barham
 tl2_dates: 1670-1726
-tl2_page_id: 33120252
+tl2_bhl_page_id: 33120252
 author_lsid: 476-1
 wikidata_id: Q5717782
 ipni_surname: Barham
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/476-1), [Wikidata](https://www.wikidata.org/wiki/Q5717782). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/476-1) LSID 476-1, [Wikidata](https://www.wikidata.org/wiki/Q5717782) QID Q5717782
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Barham, Henry {std. Barham} (Suppl.)|second entry]] for this author
 

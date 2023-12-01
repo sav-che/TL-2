@@ -6,7 +6,7 @@ tl2_surname: Lodder
 tl2_forenames: Jacomina
 tl2_name_abbrev: Lodder
 tl2_dates: 1905-x
-tl2_page_id: 33355219
+tl2_bhl_page_id: 33355219
 author_lsid: 22481-1
 wikidata_id: Q21519408
 ipni_surname: Lodder
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33355219) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22481-1), [Wikidata](https://www.wikidata.org/wiki/Q21519408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22481-1) LSID 22481-1, [Wikidata](https://www.wikidata.org/wiki/Q21519408) QID Q21519408
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bobrov
 tl2_forenames: Eugenii Grigorevich
 tl2_name_abbrev: Bobrov
 tl2_dates: 1902-1983
-tl2_page_id: 33265436
+tl2_bhl_page_id: 33265436
 author_lsid: 880-1
 wikidata_id: Q4088747
 ipni_surname: Bobrov
@@ -25,7 +25,8 @@ ipni_record_modified: 2009-11-24 14:04:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33265436) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/880-1), [Wikidata](https://www.wikidata.org/wiki/Q4088747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/880-1) LSID 880-1, [Wikidata](https://www.wikidata.org/wiki/Q4088747) QID Q4088747
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

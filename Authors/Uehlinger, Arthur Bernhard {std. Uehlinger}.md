@@ -6,7 +6,7 @@ tl2_surname: Uehlinger
 tl2_forenames: Arthur Bernhard
 tl2_name_abbrev: Uehlinger
 tl2_dates: 1896-x
-tl2_page_id: 33212606
+tl2_bhl_page_id: 33212606
 author_lsid: 10953-1
 wikidata_id: Q21611167
 ipni_surname: Uehlinger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33212606) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10953-1), [Wikidata](https://www.wikidata.org/wiki/Q21611167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10953-1) LSID 10953-1, [Wikidata](https://www.wikidata.org/wiki/Q21611167) QID Q21611167
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

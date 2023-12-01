@@ -6,7 +6,7 @@ tl2_surname: Schmidlin
 tl2_forenames: Eduard
 tl2_name_abbrev: Schmidlin
 tl2_dates: 1808?-1890
-tl2_page_id: 33333380
+tl2_bhl_page_id: 33333380
 author_lsid: 9150-1
 wikidata_id: Q15457716
 ipni_surname: Schmidlin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33333380) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9150-1), [Wikidata](https://www.wikidata.org/wiki/Q15457716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9150-1) LSID 9150-1, [Wikidata](https://www.wikidata.org/wiki/Q15457716) QID Q15457716
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

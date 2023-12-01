@@ -6,7 +6,7 @@ tl2_surname: Sommer
 tl2_forenames: Gustav
 tl2_name_abbrev: Sommer
 tl2_dates: fl. 1886
-tl2_page_id: 33333875
+tl2_bhl_page_id: 33333875
 author_lsid: 9883-1
 wikidata_id: Q33693934
 ipni_surname: Sommer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33333875) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9883-1), [Wikidata](https://www.wikidata.org/wiki/Q33693934). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9883-1) LSID 9883-1, [Wikidata](https://www.wikidata.org/wiki/Q33693934) QID Q33693934
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

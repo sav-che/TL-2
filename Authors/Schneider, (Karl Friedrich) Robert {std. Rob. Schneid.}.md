@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0267
 tl2_volume: vol5
 tl2_page_printed: 275
 tl2_surname: Schneider
-tl2_forenames: [Karl Friedrich] Robert
+tl2_forenames: (Karl Friedrich) Robert
 tl2_name_abbrev: Rob. Schneid.
 tl2_dates: 1798-1872
-tl2_page_id: 33333414
+tl2_bhl_page_id: 33333414
 author_lsid: 12836-1
 wikidata_id: Q5958261
 ipni_surname: Schneider
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12836-1), [Wikidata](https://www.wikidata.org/wiki/Q5958261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12836-1) LSID 12836-1, [Wikidata](https://www.wikidata.org/wiki/Q5958261) QID Q5958261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

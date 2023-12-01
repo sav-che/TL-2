@@ -6,7 +6,7 @@ tl2_surname: Lindemann
 tl2_forenames: Emanuel von
 tl2_name_abbrev: Em. Lindem.
 tl2_dates: 1795-1845
-tl2_page_id: 33355090
+tl2_bhl_page_id: 33355090
 author_lsid: 5611-1
 wikidata_id: Q21519148
 ipni_surname: Lindemann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33355090) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5611-1), [Wikidata](https://www.wikidata.org/wiki/Q21519148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5611-1) LSID 5611-1, [Wikidata](https://www.wikidata.org/wiki/Q21519148) QID Q21519148
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

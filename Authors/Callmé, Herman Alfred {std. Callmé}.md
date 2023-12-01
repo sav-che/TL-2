@@ -6,7 +6,7 @@ tl2_surname: Callmé
 tl2_forenames: Herman Alfred
 tl2_name_abbrev: Callmé
 tl2_dates: 1860-1889
-tl2_page_id: 33266623
+tl2_bhl_page_id: 33266623
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33266623) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

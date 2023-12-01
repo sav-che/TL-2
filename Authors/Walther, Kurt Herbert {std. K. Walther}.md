@@ -6,7 +6,7 @@ tl2_surname: Walther
 tl2_forenames: Kurt Herbert
 tl2_name_abbrev: K. Walther
 tl2_dates: 1910-x
-tl2_page_id: 33066393
+tl2_bhl_page_id: 33066393
 author_lsid: 11373-1
 wikidata_id: Q21612117
 ipni_surname: Walther
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33066393) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11373-1), [Wikidata](https://www.wikidata.org/wiki/Q21612117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11373-1) LSID 11373-1, [Wikidata](https://www.wikidata.org/wiki/Q21612117) QID Q21612117
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Ferchl
 tl2_forenames: Johann
 tl2_name_abbrev: Ferchl
 tl2_dates: 1810-1878
-tl2_page_id: 33259640
+tl2_bhl_page_id: 33259640
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33259640) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

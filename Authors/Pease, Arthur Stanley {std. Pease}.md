@@ -6,7 +6,7 @@ tl2_surname: Pease
 tl2_forenames: Arthur Stanley
 tl2_name_abbrev: Pease
 tl2_dates: 1881-1964
-tl2_page_id: 33189605
+tl2_bhl_page_id: 33189605
 author_lsid: 7446-1
 wikidata_id: Q711591
 ipni_surname: Pease
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33189605) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7446-1), [Wikidata](https://www.wikidata.org/wiki/Q711591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7446-1) LSID 7446-1, [Wikidata](https://www.wikidata.org/wiki/Q711591) QID Q711591
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

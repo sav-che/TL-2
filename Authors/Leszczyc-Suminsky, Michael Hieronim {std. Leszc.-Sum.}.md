@@ -6,7 +6,7 @@ tl2_surname: Leszczyc-Suminsky
 tl2_forenames: Michael Hieronim
 tl2_name_abbrev: Leszc.-Sum.
 tl2_dates: 1820-1898
-tl2_page_id: 33069098
+tl2_bhl_page_id: 33069098
 author_lsid: 5514-1
 wikidata_id: Q5593947
 ipni_surname: Leszczyc-Sumińsky
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33069098) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5514-1), [Wikidata](https://www.wikidata.org/wiki/Q5593947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5514-1) LSID 5514-1, [Wikidata](https://www.wikidata.org/wiki/Q5593947) QID Q5593947
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

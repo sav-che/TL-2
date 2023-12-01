@@ -6,7 +6,7 @@ tl2_surname: Tennent
 tl2_forenames: James Emerson
 tl2_name_abbrev: Tennent
 tl2_dates: 1804-1869
-tl2_page_id: 33212253
+tl2_bhl_page_id: 33212253
 author_lsid: 10506-1
 wikidata_id: Q3161065
 ipni_surname: Tennent
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33212253) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10506-1), [Wikidata](https://www.wikidata.org/wiki/Q3161065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10506-1) LSID 10506-1, [Wikidata](https://www.wikidata.org/wiki/Q3161065) QID Q3161065
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

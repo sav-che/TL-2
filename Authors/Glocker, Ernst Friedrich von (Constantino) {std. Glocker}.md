@@ -6,7 +6,7 @@ tl2_surname: Glocker
 tl2_forenames: Ernst Friedrich von (Constantino)
 tl2_name_abbrev: Glocker
 tl2_dates: 1793-1858
-tl2_page_id: 33121084
+tl2_bhl_page_id: 33121084
 author_lsid: 3196-1
 wikidata_id: Q74474
 ipni_surname: Glocker
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3196-1), [Wikidata](https://www.wikidata.org/wiki/Q74474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3196-1) LSID 3196-1, [Wikidata](https://www.wikidata.org/wiki/Q74474) QID Q74474
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

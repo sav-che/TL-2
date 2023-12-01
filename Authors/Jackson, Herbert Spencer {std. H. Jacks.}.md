@@ -6,7 +6,7 @@ tl2_surname: Jackson
 tl2_forenames: Herbert Spencer
 tl2_name_abbrev: H. Jacks.
 tl2_dates: 1833-1951
-tl2_page_id: 33068641
+tl2_bhl_page_id: 33068641
 author_lsid: 20812-1
 wikidata_id: Q4160112
 ipni_surname: Jackson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33068641) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/20812-1), [Wikidata](https://www.wikidata.org/wiki/Q4160112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20812-1) LSID 20812-1, [Wikidata](https://www.wikidata.org/wiki/Q4160112) QID Q4160112
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

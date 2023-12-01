@@ -6,7 +6,7 @@ tl2_surname: Trattinnick
 tl2_forenames: Leopold
 tl2_name_abbrev: Tratt.
 tl2_dates: 1764-1849
-tl2_page_id: 33212478
+tl2_bhl_page_id: 33212478
 author_lsid: 10793-1
 wikidata_id: Q698461
 ipni_surname: Trattinnick
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33212478) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10793-1), [Wikidata](https://www.wikidata.org/wiki/Q698461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10793-1) LSID 10793-1, [Wikidata](https://www.wikidata.org/wiki/Q698461) QID Q698461
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

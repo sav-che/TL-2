@@ -6,7 +6,7 @@ tl2_surname: Salt
 tl2_forenames: Henry
 tl2_name_abbrev: Salt
 tl2_dates: 1780-1827
-tl2_page_id: 33333170
+tl2_bhl_page_id: 33333170
 author_lsid: 8852-1
 wikidata_id: Q733780
 ipni_surname: Salt
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33333170) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8852-1), [Wikidata](https://www.wikidata.org/wiki/Q733780). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8852-1) LSID 8852-1, [Wikidata](https://www.wikidata.org/wiki/Q733780) QID Q733780
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

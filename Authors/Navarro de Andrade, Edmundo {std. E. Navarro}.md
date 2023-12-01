@@ -6,7 +6,7 @@ tl2_surname: Navarro de Andrade
 tl2_forenames: Edmundo
 tl2_name_abbrev: E. Navarro
 tl2_dates: 1881-1941
-tl2_page_id: 33355785
+tl2_bhl_page_id: 33355785
 author_lsid: 206-1
 wikidata_id: Q47123309
 ipni_surname: Navarro
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/206-1), [Wikidata](https://www.wikidata.org/wiki/Q47123309). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/206-1) LSID 206-1, [Wikidata](https://www.wikidata.org/wiki/Q47123309) QID Q47123309
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

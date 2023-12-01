@@ -6,7 +6,7 @@ tl2_surname: Scheutz
 tl2_forenames: Nils Johan Wilhelm
 tl2_name_abbrev: Scheutz
 tl2_dates: 1836-1889
-tl2_page_id: 33333283
+tl2_bhl_page_id: 33333283
 author_lsid: 9066-1
 wikidata_id: Q21607896
 ipni_surname: Scheutz
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33333283) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9066-1), [Wikidata](https://www.wikidata.org/wiki/Q21607896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9066-1) LSID 9066-1, [Wikidata](https://www.wikidata.org/wiki/Q21607896) QID Q21607896
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

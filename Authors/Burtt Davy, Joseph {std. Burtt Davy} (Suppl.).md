@@ -6,7 +6,7 @@ tl2_surname: Burtt Davy
 tl2_forenames: Joseph
 tl2_name_abbrev: Burtt Davy
 tl2_dates: 1870-1940
-tl2_page_id: 33266578
+tl2_bhl_page_id: 33266578
 author_lsid: 2039-1
 wikidata_id: Q513218
 ipni_surname: Burtt Davy
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33266578) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/2039-1), [Wikidata](https://www.wikidata.org/wiki/Q513218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2039-1) LSID 2039-1, [Wikidata](https://www.wikidata.org/wiki/Q513218) QID Q513218
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Davy, Joseph Burtt {std. Burtt Davy}|first entry]] for this author
 

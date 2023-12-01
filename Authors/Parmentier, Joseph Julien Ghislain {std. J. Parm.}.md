@@ -6,7 +6,7 @@ tl2_surname: Parmentier
 tl2_forenames: Joseph Julien Ghislain
 tl2_name_abbrev: J. Parm.
 tl2_dates: 1755-1852
-tl2_page_id: 33189543
+tl2_bhl_page_id: 33189543
 author_lsid: 7358-1
 wikidata_id: Q14275001
 ipni_surname: Parmentier
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7358-1), [Wikidata](https://www.wikidata.org/wiki/Q14275001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7358-1) LSID 7358-1, [Wikidata](https://www.wikidata.org/wiki/Q14275001) QID Q14275001
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

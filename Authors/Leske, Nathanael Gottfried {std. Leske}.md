@@ -6,7 +6,7 @@ tl2_surname: Leske
 tl2_forenames: Nathanael Gottfried
 tl2_name_abbrev: Leske
 tl2_dates: 1751-1786
-tl2_page_id: 33069090
+tl2_bhl_page_id: 33069090
 author_lsid: 5504-1
 wikidata_id: Q71752
 ipni_surname: Leske
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5504-1), [Wikidata](https://www.wikidata.org/wiki/Q71752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5504-1) LSID 5504-1, [Wikidata](https://www.wikidata.org/wiki/Q71752) QID Q71752
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

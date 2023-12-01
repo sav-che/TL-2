@@ -6,7 +6,7 @@ tl2_surname: Hasse
 tl2_forenames: Hermann Edward
 tl2_name_abbrev: Hasse
 tl2_dates: 1836-1915
-tl2_page_id: 33068334
+tl2_bhl_page_id: 33068334
 author_lsid: 3715-1
 wikidata_id: Q18349258
 ipni_surname: Hasse
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3715-1), [Wikidata](https://www.wikidata.org/wiki/Q18349258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3715-1) LSID 3715-1, [Wikidata](https://www.wikidata.org/wiki/Q18349258) QID Q18349258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

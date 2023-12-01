@@ -6,7 +6,7 @@ tl2_surname: Bagnall
 tl2_forenames: James Eustace
 tl2_name_abbrev: Bagn.
 tl2_dates: 1830-1918
-tl2_page_id: 33264979
+tl2_bhl_page_id: 33264979
 author_lsid: 31179-1
 wikidata_id: Q9010691
 ipni_surname: Bagnall
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33264979) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31179-1), [Wikidata](https://www.wikidata.org/wiki/Q9010691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31179-1) LSID 31179-1, [Wikidata](https://www.wikidata.org/wiki/Q9010691) QID Q9010691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bagnall, James Eustace {std. Bagn.}|first entry]] for this author
 

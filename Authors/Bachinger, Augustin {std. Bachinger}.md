@@ -6,7 +6,7 @@ tl2_surname: Bachinger
 tl2_forenames: Augustin
 tl2_name_abbrev: Bachinger
 tl2_dates: fl. 1887-1904
-tl2_page_id: 33264958
+tl2_bhl_page_id: 33264958
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33264958) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

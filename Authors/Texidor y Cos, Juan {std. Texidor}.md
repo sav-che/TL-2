@@ -6,7 +6,7 @@ tl2_surname: Texidor y Cos
 tl2_forenames: Juan
 tl2_name_abbrev: Texidor
 tl2_dates: 1836-1885
-tl2_page_id: 33212272
+tl2_bhl_page_id: 33212272
 author_lsid: 10537-1
 wikidata_id: Q5952669
 ipni_surname: Texidor y Cos
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10537-1), [Wikidata](https://www.wikidata.org/wiki/Q5952669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10537-1) LSID 10537-1, [Wikidata](https://www.wikidata.org/wiki/Q5952669) QID Q5952669
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

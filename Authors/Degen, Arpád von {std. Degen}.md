@@ -6,7 +6,7 @@ tl2_surname: Degen
 tl2_forenames: Arpád von
 tl2_name_abbrev: Degen
 tl2_dates: 1866-1934
-tl2_page_id: 33120741
+tl2_bhl_page_id: 33120741
 author_lsid: 2079-1
 wikidata_id: Q840188
 ipni_surname: Degen
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2079-1), [Wikidata](https://www.wikidata.org/wiki/Q840188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2079-1) LSID 2079-1, [Wikidata](https://www.wikidata.org/wiki/Q840188) QID Q840188
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Degen, Árpád von Felsöhagy {std. Degen} (Suppl.)|second entry]] for this author
 

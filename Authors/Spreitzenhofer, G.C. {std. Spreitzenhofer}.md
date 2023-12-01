@@ -6,7 +6,7 @@ tl2_surname: Spreitzenhofer
 tl2_forenames: G.C.
 tl2_name_abbrev: Spreitzenhofer
 tl2_dates: 1835-1883
-tl2_page_id: 33333942
+tl2_bhl_page_id: 33333942
 author_lsid: 9989-1
 wikidata_id: Q21609353
 ipni_surname: Spreitzenhofer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33333942) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9989-1), [Wikidata](https://www.wikidata.org/wiki/Q21609353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9989-1) LSID 9989-1, [Wikidata](https://www.wikidata.org/wiki/Q21609353) QID Q21609353
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

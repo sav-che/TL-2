@@ -6,7 +6,7 @@ tl2_surname: Popenoe
 tl2_forenames: Frederick Wilson (called Wilson Popenoe)
 tl2_name_abbrev: Popenoe
 tl2_dates: 1892-1975
-tl2_page_id: 33189809
+tl2_bhl_page_id: 33189809
 author_lsid: 7843-1
 wikidata_id: Q5869109
 ipni_surname: Popenoe
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7843-1), [Wikidata](https://www.wikidata.org/wiki/Q5869109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7843-1) LSID 7843-1, [Wikidata](https://www.wikidata.org/wiki/Q5869109) QID Q5869109
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

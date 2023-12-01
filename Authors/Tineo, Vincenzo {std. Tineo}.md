@@ -6,7 +6,7 @@ tl2_surname: Tineo
 tl2_forenames: Vincenzo
 tl2_name_abbrev: Tineo
 tl2_dates: 1791-1856
-tl2_page_id: 33212407
+tl2_bhl_page_id: 33212407
 author_lsid: 10683-1
 wikidata_id: Q615184
 ipni_surname: Tineo
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33212407) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10683-1), [Wikidata](https://www.wikidata.org/wiki/Q615184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10683-1) LSID 10683-1, [Wikidata](https://www.wikidata.org/wiki/Q615184) QID Q615184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lemcke
 tl2_forenames: Alfred Max Bernhard
 tl2_name_abbrev: Lemcke
 tl2_dates: 1864-?
-tl2_page_id: 33069081
+tl2_bhl_page_id: 33069081
 author_lsid: 5461-1
 wikidata_id: Q21518622
 ipni_surname: Lemcke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33069081) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5461-1), [Wikidata](https://www.wikidata.org/wiki/Q21518622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5461-1) LSID 5461-1, [Wikidata](https://www.wikidata.org/wiki/Q21518622) QID Q21518622
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

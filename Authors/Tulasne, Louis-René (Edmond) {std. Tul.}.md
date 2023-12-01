@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0538
 tl2_volume: vol6
 tl2_page_printed: 530
 tl2_surname: Tulasne
-tl2_forenames: Louis-René [Edmond]
+tl2_forenames: Louis-René (Edmond)
 tl2_name_abbrev: Tul.
 tl2_dates: 1815-1885
-tl2_page_id: 33212572
+tl2_bhl_page_id: 33212572
 author_lsid: 10899-1
 wikidata_id: Q918803
 ipni_surname: Tulasne
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33212572) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10899-1), [Wikidata](https://www.wikidata.org/wiki/Q918803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10899-1) LSID 10899-1, [Wikidata](https://www.wikidata.org/wiki/Q918803) QID Q918803
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

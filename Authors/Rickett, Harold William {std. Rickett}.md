@@ -6,7 +6,7 @@ tl2_surname: Rickett
 tl2_forenames: Harold William
 tl2_name_abbrev: Rickett
 tl2_dates: 1896-x
-tl2_page_id: 33190253
+tl2_bhl_page_id: 33190253
 author_lsid: 8377-1
 wikidata_id: Q16574083
 ipni_surname: Rickett
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33190253) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8377-1), [Wikidata](https://www.wikidata.org/wiki/Q16574083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8377-1) LSID 8377-1, [Wikidata](https://www.wikidata.org/wiki/Q16574083) QID Q16574083
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

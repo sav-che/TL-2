@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0208
 tl2_volume: suppl8
 tl2_page_printed: 277
-tl2_surname: Goidanich [Goidànich]
+tl2_surname: Goidanich (Goidànich)
 tl2_forenames: Gabriele
 tl2_name_abbrev: Goid.
 tl2_dates: 1912-1999
-tl2_page_id: 33258755
+tl2_bhl_page_id: 33258755
 author_lsid: 19433-1
 wikidata_id: Q21393076
 ipni_surname: Goidànich
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33258755) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19433-1), [Wikidata](https://www.wikidata.org/wiki/Q21393076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19433-1) LSID 19433-1, [Wikidata](https://www.wikidata.org/wiki/Q21393076) QID Q21393076
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0400
 tl2_volume: vol7
 tl2_page_printed: 445
 tl2_surname: Woods
-tl2_forenames: Julian Edmund Tenison [Tenison-Woods]
+tl2_forenames: Julian Edmund Tenison (Tenison-Woods)
 tl2_name_abbrev: Ten.-Woods
 tl2_dates: 1832-1889
-tl2_page_id: 33066785
+tl2_bhl_page_id: 33066785
 author_lsid: 10504-1
 wikidata_id: Q970015
 ipni_surname: Tenison-Woods
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:36:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33066785) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/10504-1), [Wikidata](https://www.wikidata.org/wiki/Q970015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10504-1) LSID 10504-1, [Wikidata](https://www.wikidata.org/wiki/Q970015) QID Q970015
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pernitzsch
 tl2_forenames: Heinrich
 tl2_name_abbrev: Pernitzsch
 tl2_dates: fl. 1825
-tl2_page_id: 33189640
+tl2_bhl_page_id: 33189640
 author_lsid: 7526-1
 wikidata_id: Q36577392
 ipni_surname: Pernitzsch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7526-1), [Wikidata](https://www.wikidata.org/wiki/Q36577392). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7526-1) LSID 7526-1, [Wikidata](https://www.wikidata.org/wiki/Q36577392) QID Q36577392
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

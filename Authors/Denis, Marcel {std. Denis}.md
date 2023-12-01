@@ -6,7 +6,7 @@ tl2_surname: Denis
 tl2_forenames: Marcel
 tl2_name_abbrev: Denis
 tl2_dates: 1897-1929
-tl2_page_id: 33259249
+tl2_bhl_page_id: 33259249
 author_lsid: 2127-1
 wikidata_id: Q5995459
 ipni_surname: Denis
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33259249) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2127-1), [Wikidata](https://www.wikidata.org/wiki/Q5995459). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2127-1) LSID 2127-1, [Wikidata](https://www.wikidata.org/wiki/Q5995459) QID Q5995459
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

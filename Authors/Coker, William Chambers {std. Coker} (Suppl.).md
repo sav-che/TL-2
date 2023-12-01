@@ -6,7 +6,7 @@ tl2_surname: Coker
 tl2_forenames: William Chambers
 tl2_name_abbrev: Coker
 tl2_dates: 1872-1953
-tl2_page_id: 33265938
+tl2_bhl_page_id: 33265938
 author_lsid: 1727-1
 wikidata_id: Q2331087
 ipni_surname: Coker
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33265938) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1727-1), [Wikidata](https://www.wikidata.org/wiki/Q2331087). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1727-1) LSID 1727-1, [Wikidata](https://www.wikidata.org/wiki/Q2331087) QID Q2331087
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Coker, William Chambers {std. Coker}|first entry]] for this author
 

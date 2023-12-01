@@ -6,7 +6,7 @@ tl2_surname: Rudolph
 tl2_forenames: Ludwig
 tl2_name_abbrev: L. Rudolph
 tl2_dates: ca. 1813-1896
-tl2_page_id: 33190444
+tl2_bhl_page_id: 33190444
 author_lsid: 8712-1
 wikidata_id: Q21607524
 ipni_surname: Rudolph
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33190444) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8712-1), [Wikidata](https://www.wikidata.org/wiki/Q21607524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8712-1) LSID 8712-1, [Wikidata](https://www.wikidata.org/wiki/Q21607524) QID Q21607524
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

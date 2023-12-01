@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0575
 tl2_volume: vol5
 tl2_page_printed: 586
 tl2_surname: Siebold
-tl2_forenames: Philipp Franz [Balthasar] von
+tl2_forenames: Philipp Franz (Balthasar) von
 tl2_name_abbrev: Siebold
 tl2_dates: 1796-1866
-tl2_page_id: 33333725
+tl2_bhl_page_id: 33333725
 author_lsid: 9616-1
 wikidata_id: Q77140
 ipni_surname: Siebold
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33333725) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9616-1), [Wikidata](https://www.wikidata.org/wiki/Q77140). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9616-1) LSID 9616-1, [Wikidata](https://www.wikidata.org/wiki/Q77140) QID Q77140
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

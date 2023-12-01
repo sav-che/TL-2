@@ -6,7 +6,7 @@ tl2_surname: Stevens
 tl2_forenames: George Thomas
 tl2_name_abbrev: G. Stevens
 tl2_dates: 1832-1921
-tl2_page_id: 33334056
+tl2_bhl_page_id: 33334056
 author_lsid: 10127-1
 wikidata_id: Q21609838
 ipni_surname: Stevens
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10127-1), [Wikidata](https://www.wikidata.org/wiki/Q21609838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10127-1) LSID 10127-1, [Wikidata](https://www.wikidata.org/wiki/Q21609838) QID Q21609838
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

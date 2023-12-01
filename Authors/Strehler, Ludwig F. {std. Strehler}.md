@@ -6,7 +6,7 @@ tl2_surname: Strehler
 tl2_forenames: Ludwig F.
 tl2_name_abbrev: Strehler
 tl2_dates: fl. 1841
-tl2_page_id: 33212049
+tl2_bhl_page_id: 33212049
 author_lsid: 10211-1
 wikidata_id: Q36617486
 ipni_surname: Strehler
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10211-1), [Wikidata](https://www.wikidata.org/wiki/Q36617486). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10211-1) LSID 10211-1, [Wikidata](https://www.wikidata.org/wiki/Q36617486) QID Q36617486
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

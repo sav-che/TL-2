@@ -6,7 +6,7 @@ tl2_surname: Parry
 tl2_forenames: William Edward
 tl2_name_abbrev: W. Parry
 tl2_dates: 1790-1855
-tl2_page_id: 33189552
+tl2_bhl_page_id: 33189552
 author_lsid: 12723-1
 wikidata_id: Q437310
 ipni_surname: Parry
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33189552) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12723-1), [Wikidata](https://www.wikidata.org/wiki/Q437310). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12723-1) LSID 12723-1, [Wikidata](https://www.wikidata.org/wiki/Q437310) QID Q437310
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

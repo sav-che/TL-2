@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0145
 tl2_volume: vol5
 tl2_page_printed: 134
 tl2_surname: Schenk
-tl2_forenames: [Joseph] August [von]
+tl2_forenames: (Joseph) August (von)
 tl2_name_abbrev: Schenk
 tl2_dates: 1815-1891
-tl2_page_id: 33333273
+tl2_bhl_page_id: 33333273
 author_lsid: 9056-1
 wikidata_id: Q90825
 ipni_surname: Schenk
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33333273) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9056-1), [Wikidata](https://www.wikidata.org/wiki/Q90825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9056-1) LSID 9056-1, [Wikidata](https://www.wikidata.org/wiki/Q90825) QID Q90825
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

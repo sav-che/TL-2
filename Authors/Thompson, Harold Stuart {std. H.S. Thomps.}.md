@@ -6,7 +6,7 @@ tl2_surname: Thompson
 tl2_forenames: Harold Stuart
 tl2_name_abbrev: H.S. Thomps.
 tl2_dates: 1870-1940
-tl2_page_id: 33212322
+tl2_bhl_page_id: 33212322
 author_lsid: 10604-1
 wikidata_id: Q14944034
 ipni_surname: Thompson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33212322) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10604-1), [Wikidata](https://www.wikidata.org/wiki/Q14944034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10604-1) LSID 10604-1, [Wikidata](https://www.wikidata.org/wiki/Q14944034) QID Q14944034
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

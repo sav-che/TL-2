@@ -6,7 +6,7 @@ tl2_surname: Schöpfer
 tl2_forenames: Franz Xaver
 tl2_name_abbrev: Schöpfer
 tl2_dates: 1777-1855
-tl2_page_id: 33333432
+tl2_bhl_page_id: 33333432
 author_lsid: 9223-1
 wikidata_id: Q21608321
 ipni_surname: Schöpfer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9223-1), [Wikidata](https://www.wikidata.org/wiki/Q21608321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9223-1) LSID 9223-1, [Wikidata](https://www.wikidata.org/wiki/Q21608321) QID Q21608321
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

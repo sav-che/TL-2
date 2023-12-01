@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0310
 tl2_volume: suppl8
 tl2_page_printed: 429
-tl2_surname: Grunow [Grunov]
+tl2_surname: Grunow (Grunov)
 tl2_forenames: Albert
 tl2_name_abbrev: Grunow
 tl2_dates: 1826-1914
-tl2_page_id: 33258907
+tl2_bhl_page_id: 33258907
 author_lsid: 29387-1
 wikidata_id: Q15437983
 ipni_surname: Grunow
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33258907) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/29387-1), [Wikidata](https://www.wikidata.org/wiki/Q15437983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29387-1) LSID 29387-1, [Wikidata](https://www.wikidata.org/wiki/Q15437983) QID Q15437983
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Grunov, Albert {std. Grunow}|first entry]] for this author
 

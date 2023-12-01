@@ -6,7 +6,7 @@ tl2_surname: Muschler
 tl2_forenames: Reinhold Reno Conrad
 tl2_name_abbrev: Muschl.
 tl2_dates: 1883-1957
-tl2_page_id: 33355761
+tl2_bhl_page_id: 33355761
 author_lsid: 6814-1
 wikidata_id: Q71831
 ipni_surname: Muschler
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:54:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33355761) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6814-1), [Wikidata](https://www.wikidata.org/wiki/Q71831). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6814-1) LSID 6814-1, [Wikidata](https://www.wikidata.org/wiki/Q71831) QID Q71831
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dugand
 tl2_forenames: Armando
 tl2_name_abbrev: Dugand
 tl2_dates: 1906-1971
-tl2_page_id: 33260139
+tl2_bhl_page_id: 33260139
 author_lsid: 2360-1
 wikidata_id: Q4792754
 ipni_surname: Dugand
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33260139) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2360-1), [Wikidata](https://www.wikidata.org/wiki/Q4792754). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2360-1) LSID 2360-1, [Wikidata](https://www.wikidata.org/wiki/Q4792754) QID Q4792754
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

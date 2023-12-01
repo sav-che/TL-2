@@ -6,7 +6,7 @@ tl2_surname: Johnson
 tl2_forenames: Thomas
 tl2_name_abbrev: T. Johns.
 tl2_dates: 1863-1954
-tl2_page_id: 33068691
+tl2_bhl_page_id: 33068691
 author_lsid: 4516-1
 wikidata_id: Q3525263
 ipni_surname: Johnson
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4516-1), [Wikidata](https://www.wikidata.org/wiki/Q3525263). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4516-1) LSID 4516-1, [Wikidata](https://www.wikidata.org/wiki/Q3525263) QID Q3525263
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Weigelt
 tl2_forenames: Christoph
 tl2_name_abbrev: Weigelt
 tl2_dates: x-1828
-tl2_page_id: 33066490
+tl2_bhl_page_id: 33066490
 author_lsid: 11498-1
 wikidata_id: Q21612383
 ipni_surname: Weigelt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33066490) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11498-1), [Wikidata](https://www.wikidata.org/wiki/Q21612383). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11498-1) LSID 11498-1, [Wikidata](https://www.wikidata.org/wiki/Q21612383) QID Q21612383
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

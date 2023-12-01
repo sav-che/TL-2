@@ -6,7 +6,7 @@ tl2_surname: Parvela
 tl2_forenames: August Armas
 tl2_name_abbrev: Parvela
 tl2_dates: 1885-1953
-tl2_page_id: 33189555
+tl2_bhl_page_id: 33189555
 author_lsid: 7373-1
 wikidata_id: Q21522663
 ipni_surname: Parvela
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7373-1), [Wikidata](https://www.wikidata.org/wiki/Q21522663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7373-1) LSID 7373-1, [Wikidata](https://www.wikidata.org/wiki/Q21522663) QID Q21522663
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

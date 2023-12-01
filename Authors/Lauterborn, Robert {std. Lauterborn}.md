@@ -6,7 +6,7 @@ tl2_surname: Lauterborn
 tl2_forenames: Robert
 tl2_name_abbrev: Lauterborn
 tl2_dates: 1869-1952
-tl2_page_id: 33069012
+tl2_bhl_page_id: 33069012
 author_lsid: 5330-1
 wikidata_id: Q101029
 ipni_surname: Lauterborn
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5330-1), [Wikidata](https://www.wikidata.org/wiki/Q101029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5330-1) LSID 5330-1, [Wikidata](https://www.wikidata.org/wiki/Q101029) QID Q101029
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

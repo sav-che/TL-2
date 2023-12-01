@@ -6,7 +6,7 @@ tl2_surname: Kny
 tl2_forenames: Carl Ignaz Leopold
 tl2_name_abbrev: Kny
 tl2_dates: 1841-1916
-tl2_page_id: 33068828
+tl2_bhl_page_id: 33068828
 author_lsid: 4887-1
 wikidata_id: Q4224659
 ipni_surname: Kny
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33068828) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4887-1), [Wikidata](https://www.wikidata.org/wiki/Q4224659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4887-1) LSID 4887-1, [Wikidata](https://www.wikidata.org/wiki/Q4224659) QID Q4224659
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

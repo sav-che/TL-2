@@ -6,7 +6,7 @@ tl2_surname: Rambert
 tl2_forenames: Eugène
 tl2_name_abbrev: Rambert
 tl2_dates: 1810-1886
-tl2_page_id: 33190040
+tl2_bhl_page_id: 33190040
 author_lsid: 8120-1
 wikidata_id: Q3060130
 ipni_surname: Rambert
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8120-1), [Wikidata](https://www.wikidata.org/wiki/Q3060130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8120-1) LSID 8120-1, [Wikidata](https://www.wikidata.org/wiki/Q3060130) QID Q3060130
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

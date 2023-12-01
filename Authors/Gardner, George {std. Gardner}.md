@@ -6,7 +6,7 @@ tl2_surname: Gardner
 tl2_forenames: George
 tl2_name_abbrev: Gardner
 tl2_dates: 1812-1849
-tl2_page_id: 33121046
+tl2_bhl_page_id: 33121046
 author_lsid: 3026-1
 wikidata_id: Q2404423
 ipni_surname: Gardner
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:49:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33121046) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3026-1), [Wikidata](https://www.wikidata.org/wiki/Q2404423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3026-1) LSID 3026-1, [Wikidata](https://www.wikidata.org/wiki/Q2404423) QID Q2404423
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

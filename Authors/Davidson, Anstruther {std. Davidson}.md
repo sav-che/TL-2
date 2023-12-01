@@ -6,7 +6,7 @@ tl2_surname: Davidson
 tl2_forenames: Anstruther
 tl2_name_abbrev: Davidson
 tl2_dates: 1860-1932
-tl2_page_id: 33259143
+tl2_bhl_page_id: 33259143
 author_lsid: 2019-1
 wikidata_id: Q5696688
 ipni_surname: Davidson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33259143) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2019-1), [Wikidata](https://www.wikidata.org/wiki/Q5696688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2019-1) LSID 2019-1, [Wikidata](https://www.wikidata.org/wiki/Q5696688) QID Q5696688
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

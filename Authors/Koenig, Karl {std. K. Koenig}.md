@@ -6,7 +6,7 @@ tl2_surname: Koenig
 tl2_forenames: Karl
 tl2_name_abbrev: K. Koenig
 tl2_dates: fl. 1841
-tl2_page_id: 33068843
+tl2_bhl_page_id: 33068843
 author_lsid: 35179-1
 wikidata_id: Q47120347
 ipni_surname: Koenig
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33068843) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/35179-1), [Wikidata](https://www.wikidata.org/wiki/Q47120347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35179-1) LSID 35179-1, [Wikidata](https://www.wikidata.org/wiki/Q47120347) QID Q47120347
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

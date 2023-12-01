@@ -6,7 +6,7 @@ tl2_surname: Drayton
 tl2_forenames: John
 tl2_name_abbrev: J. Drayton
 tl2_dates: 1767-1822
-tl2_page_id: 33260078
+tl2_bhl_page_id: 33260078
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

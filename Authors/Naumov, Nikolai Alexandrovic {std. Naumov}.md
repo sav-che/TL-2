@@ -6,7 +6,7 @@ tl2_surname: Naumov
 tl2_forenames: Nikolai Alexandrovic
 tl2_name_abbrev: Naumov
 tl2_dates: 1888-1959
-tl2_page_id: 33355785
+tl2_bhl_page_id: 33355785
 author_lsid: 23944-1
 wikidata_id: Q4314370
 ipni_surname: Naumov
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23944-1), [Wikidata](https://www.wikidata.org/wiki/Q4314370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23944-1) LSID 23944-1, [Wikidata](https://www.wikidata.org/wiki/Q4314370) QID Q4314370
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

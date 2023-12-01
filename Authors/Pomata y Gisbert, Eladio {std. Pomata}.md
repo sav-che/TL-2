@@ -6,7 +6,7 @@ tl2_surname: Pomata y Gisbert
 tl2_forenames: Eladio
 tl2_name_abbrev: Pomata
 tl2_dates: fl. 1880
-tl2_page_id: 33189804
+tl2_bhl_page_id: 33189804
 author_lsid: 7822-1
 wikidata_id: Q36548857
 ipni_surname: Pomata y Gisbert
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7822-1), [Wikidata](https://www.wikidata.org/wiki/Q36548857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7822-1) LSID 7822-1, [Wikidata](https://www.wikidata.org/wiki/Q36548857) QID Q36548857
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

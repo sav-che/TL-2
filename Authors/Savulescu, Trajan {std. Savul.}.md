@@ -6,7 +6,7 @@ tl2_surname: Savulescu
 tl2_forenames: Trajan
 tl2_name_abbrev: Savul.
 tl2_dates: 1889-1963
-tl2_page_id: 33333230
+tl2_bhl_page_id: 33333230
 author_lsid: 8980-1
 wikidata_id: Q1323451
 ipni_surname: Săvulescu
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:27:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33333230) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8980-1), [Wikidata](https://www.wikidata.org/wiki/Q1323451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8980-1) LSID 8980-1, [Wikidata](https://www.wikidata.org/wiki/Q1323451) QID Q1323451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Moll
 tl2_forenames: Karl Maria Ehrenbert, Freiherr von
 tl2_name_abbrev: K. Moll
 tl2_dates: 1760-1838
-tl2_page_id: 33355641
+tl2_bhl_page_id: 33355641
 author_lsid: 6580-1
 wikidata_id: Q913253
 ipni_surname: Moll
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6580-1), [Wikidata](https://www.wikidata.org/wiki/Q913253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6580-1) LSID 6580-1, [Wikidata](https://www.wikidata.org/wiki/Q913253) QID Q913253
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

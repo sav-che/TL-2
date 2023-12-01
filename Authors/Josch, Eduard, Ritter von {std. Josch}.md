@@ -6,7 +6,7 @@ tl2_surname: Josch
 tl2_forenames: Eduard, Ritter von
 tl2_name_abbrev: Josch
 tl2_dates: 1799-1874
-tl2_page_id: 33068705
+tl2_bhl_page_id: 33068705
 author_lsid: 4555-1
 wikidata_id: Q21517146
 ipni_surname: Josch
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4555-1), [Wikidata](https://www.wikidata.org/wiki/Q21517146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4555-1) LSID 4555-1, [Wikidata](https://www.wikidata.org/wiki/Q21517146) QID Q21517146
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

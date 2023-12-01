@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0277
 tl2_volume: vol6
 tl2_page_printed: 236
 tl2_surname: Thays
-tl2_forenames: Carlos [baptized Charles]
+tl2_forenames: Carlos (baptized Charles)
 tl2_name_abbrev: Thays
 tl2_dates: 1849-1934
-tl2_page_id: 33212278
+tl2_bhl_page_id: 33212278
 author_lsid: 10545-1
 wikidata_id: Q866729
 ipni_surname: Thays
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10545-1), [Wikidata](https://www.wikidata.org/wiki/Q866729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10545-1) LSID 10545-1, [Wikidata](https://www.wikidata.org/wiki/Q866729) QID Q866729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bayer
 tl2_forenames: Edvin
 tl2_name_abbrev: E. Bayer
 tl2_dates: 1862-1927
-tl2_page_id: 33265123
+tl2_bhl_page_id: 33265123
 author_lsid: 565-1
 wikidata_id: Q11875020
 ipni_surname: Bayer
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/565-1), [Wikidata](https://www.wikidata.org/wiki/Q11875020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/565-1) LSID 565-1, [Wikidata](https://www.wikidata.org/wiki/Q11875020) QID Q11875020
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bayer, Edvin {std. E. Bayer}|first entry]] for this author
 

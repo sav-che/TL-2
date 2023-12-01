@@ -6,7 +6,7 @@ tl2_surname: Bertram
 tl2_forenames: Ferdinand Wilhelm Werner
 tl2_name_abbrev: Bertram
 tl2_dates: 1835-1899
-tl2_page_id: 33265325
+tl2_bhl_page_id: 33265325
 author_lsid: 726-1
 wikidata_id: Q1751035
 ipni_surname: Bertram
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33265325) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/726-1), [Wikidata](https://www.wikidata.org/wiki/Q1751035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/726-1) LSID 726-1, [Wikidata](https://www.wikidata.org/wiki/Q1751035) QID Q1751035
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,27 +6,30 @@ tl2_surname: Höppner
 tl2_forenames: Hans
 tl2_name_abbrev: Hóppner
 tl2_dates: 1873-post 1934
-tl2_page_id: 33068475
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33068475
+author_lsid: 4005-1
+wikidata_id: Q1580388
+ipni_surname: Höppner
+ipni_forenames: Hans
+ipni_standard_form: Höppner
+ipni_dates: 1873-1946
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2009-10-05 07:01:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4005-1) LSID 4005-1, [Wikidata](https://www.wikidata.org/wiki/Q1580388) QID Q1580388
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Höppner, Hans (1873-post 1934). German botanist. 
-**Abbreviated name**: *Hóppner*
+**Abbreviated name**: *Hóppner* \[standard form in IPNI: *Höppner*\]
 
 #### Herbarium and types
 

@@ -6,7 +6,7 @@ tl2_surname: Townsend
 tl2_forenames: Frederick
 tl2_name_abbrev: Townsend
 tl2_dates: 1822-1905
-tl2_page_id: 33212461
+tl2_bhl_page_id: 33212461
 author_lsid: 10773-1
 wikidata_id: Q19002723
 ipni_surname: Townsend
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33212461) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10773-1), [Wikidata](https://www.wikidata.org/wiki/Q19002723). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10773-1) LSID 10773-1, [Wikidata](https://www.wikidata.org/wiki/Q19002723) QID Q19002723
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

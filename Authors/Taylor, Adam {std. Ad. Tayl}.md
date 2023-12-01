@@ -6,7 +6,7 @@ tl2_surname: Taylor
 tl2_forenames: Adam
 tl2_name_abbrev: Ad. Tayl
 tl2_dates: fl. 1769
-tl2_page_id: 33212228
+tl2_bhl_page_id: 33212228
 author_lsid: 10460-1
 wikidata_id: Q47127244
 ipni_surname: Taylor
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33212228) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10460-1), [Wikidata](https://www.wikidata.org/wiki/Q47127244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10460-1) LSID 10460-1, [Wikidata](https://www.wikidata.org/wiki/Q47127244) QID Q47127244
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

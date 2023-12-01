@@ -6,7 +6,7 @@ tl2_surname: Fosberg
 tl2_forenames: Francis Raymond (Ray)
 tl2_name_abbrev: Fosberg
 tl2_dates: 1908-1993
-tl2_page_id: 33259842
+tl2_bhl_page_id: 33259842
 author_lsid: 18913-1
 wikidata_id: Q4492095
 ipni_surname: Fosberg
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:54:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259842) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18913-1), [Wikidata](https://www.wikidata.org/wiki/Q4492095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18913-1) LSID 18913-1, [Wikidata](https://www.wikidata.org/wiki/Q4492095) QID Q4492095
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Jenman
 tl2_forenames: George Samuel
 tl2_name_abbrev: Jenm.
 tl2_dates: 1845-1902
-tl2_page_id: 33068678
+tl2_bhl_page_id: 33068678
 author_lsid: 4468-1
 wikidata_id: Q3101893
 ipni_surname: Jenman
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:33:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4468-1), [Wikidata](https://www.wikidata.org/wiki/Q3101893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4468-1) LSID 4468-1, [Wikidata](https://www.wikidata.org/wiki/Q3101893) QID Q3101893
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

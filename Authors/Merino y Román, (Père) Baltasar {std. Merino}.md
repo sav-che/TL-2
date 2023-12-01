@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0504
 tl2_volume: vol3
 tl2_page_printed: 423
 tl2_surname: Merino y Román
-tl2_forenames: [Père] Baltasar
+tl2_forenames: (Père) Baltasar
 tl2_name_abbrev: Merino
 tl2_dates: 1845-1917
-tl2_page_id: 33355510
+tl2_bhl_page_id: 33355510
 author_lsid: 6370-1
 wikidata_id: Q8240970
 ipni_surname: Merino
@@ -25,7 +25,8 @@ ipni_record_modified: 2010-08-11 14:53:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33355510) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6370-1), [Wikidata](https://www.wikidata.org/wiki/Q8240970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6370-1) LSID 6370-1, [Wikidata](https://www.wikidata.org/wiki/Q8240970) QID Q8240970
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

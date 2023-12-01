@@ -6,7 +6,7 @@ tl2_surname: Ridley
 tl2_forenames: Henry Nicholas
 tl2_name_abbrev: Ridl.
 tl2_dates: 1855-1956
-tl2_page_id: 33190257
+tl2_bhl_page_id: 33190257
 author_lsid: 8381-1
 wikidata_id: Q733709
 ipni_surname: Ridley
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:54:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33190257) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8381-1), [Wikidata](https://www.wikidata.org/wiki/Q733709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8381-1) LSID 8381-1, [Wikidata](https://www.wikidata.org/wiki/Q733709) QID Q733709
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

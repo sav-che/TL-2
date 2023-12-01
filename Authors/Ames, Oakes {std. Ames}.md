@@ -6,7 +6,7 @@ tl2_surname: Ames
 tl2_forenames: Oakes
 tl2_name_abbrev: Ames
 tl2_dates: 1874-1950
-tl2_page_id: 33120172
+tl2_bhl_page_id: 33120172
 author_lsid: 179-1
 wikidata_id: Q1669326
 ipni_surname: Ames
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33120172) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/179-1), [Wikidata](https://www.wikidata.org/wiki/Q1669326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/179-1) LSID 179-1, [Wikidata](https://www.wikidata.org/wiki/Q1669326) QID Q1669326
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ames, Oakes {std. Ames} (Suppl.)|second entry]] for this author
 

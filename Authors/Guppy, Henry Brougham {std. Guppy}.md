@@ -6,7 +6,7 @@ tl2_surname: Guppy
 tl2_forenames: Henry Brougham
 tl2_name_abbrev: Guppy
 tl2_dates: 1854-1926
-tl2_page_id: 33258939
+tl2_bhl_page_id: 33258939
 author_lsid: 37855-1
 wikidata_id: Q3132667
 ipni_surname: Guppy
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33258939) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/37855-1), [Wikidata](https://www.wikidata.org/wiki/Q3132667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/37855-1) LSID 37855-1, [Wikidata](https://www.wikidata.org/wiki/Q3132667) QID Q3132667
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

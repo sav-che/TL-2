@@ -6,7 +6,7 @@ tl2_surname: Brunner von Wattenwyl
 tl2_forenames: Carl (Karl)
 tl2_name_abbrev: Brunner
 tl2_dates: 1823-1914
-tl2_page_id: 33120515
+tl2_bhl_page_id: 33120515
 author_lsid: 1230-1
 wikidata_id: Q116662
 ipni_surname: Brunner von Wattenwyl
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33120515) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1230-1), [Wikidata](https://www.wikidata.org/wiki/Q116662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1230-1) LSID 1230-1, [Wikidata](https://www.wikidata.org/wiki/Q116662) QID Q116662
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

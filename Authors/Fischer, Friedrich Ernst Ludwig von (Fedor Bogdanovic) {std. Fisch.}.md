@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Friedrich Ernst Ludwig von (Fedor Bogdanovic)
 tl2_name_abbrev: Fisch.
 tl2_dates: 1782-1854
-tl2_page_id: 33120966
+tl2_bhl_page_id: 33120966
 author_lsid: 2744-1
 wikidata_id: Q64109
 ipni_surname: Fischer
@@ -24,7 +24,8 @@ ipni_record_modified: 2016-11-26 00:36:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33120966) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2744-1), [Wikidata](https://www.wikidata.org/wiki/Q64109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2744-1) LSID 2744-1, [Wikidata](https://www.wikidata.org/wiki/Q64109) QID Q64109
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

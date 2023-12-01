@@ -6,7 +6,7 @@ tl2_surname: Jolyclerc
 tl2_forenames: Nicolas-Marie-Thérèse
 tl2_name_abbrev: Jolycl.
 tl2_dates: 1746-1817
-tl2_page_id: 33068695
+tl2_bhl_page_id: 33068695
 author_lsid: 21041-1
 wikidata_id: Q3340570
 ipni_surname: Jolyclerc
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33068695) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21041-1), [Wikidata](https://www.wikidata.org/wiki/Q3340570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21041-1) LSID 21041-1, [Wikidata](https://www.wikidata.org/wiki/Q3340570) QID Q3340570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

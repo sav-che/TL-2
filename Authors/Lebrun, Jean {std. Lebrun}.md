@@ -6,7 +6,7 @@ tl2_surname: Lebrun
 tl2_forenames: Jean
 tl2_name_abbrev: Lebrun
 tl2_dates: 1906-x
-tl2_page_id: 33069022
+tl2_bhl_page_id: 33069022
 author_lsid: 5380-1
 wikidata_id: Q13408541
 ipni_surname: Lebrun
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33069022) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5380-1), [Wikidata](https://www.wikidata.org/wiki/Q13408541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5380-1) LSID 5380-1, [Wikidata](https://www.wikidata.org/wiki/Q13408541) QID Q13408541
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

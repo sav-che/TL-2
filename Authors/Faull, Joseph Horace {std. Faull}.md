@@ -6,7 +6,7 @@ tl2_surname: Faull
 tl2_forenames: Joseph Horace
 tl2_name_abbrev: Faull
 tl2_dates: 1870-1961
-tl2_page_id: 33259569
+tl2_bhl_page_id: 33259569
 author_lsid: 2645-1
 wikidata_id: Q21512673
 ipni_surname: Faull
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:27:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33259569) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2645-1), [Wikidata](https://www.wikidata.org/wiki/Q21512673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2645-1) LSID 2645-1, [Wikidata](https://www.wikidata.org/wiki/Q21512673) QID Q21512673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

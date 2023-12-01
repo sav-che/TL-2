@@ -6,7 +6,7 @@ tl2_surname: Borrer
 tl2_forenames: William
 tl2_name_abbrev: Borrer
 tl2_dates: 1781-1862
-tl2_page_id: 33265557
+tl2_bhl_page_id: 33265557
 author_lsid: 16359-1
 wikidata_id: Q3568447
 ipni_surname: Borrer
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33265557) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16359-1), [Wikidata](https://www.wikidata.org/wiki/Q3568447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16359-1) LSID 16359-1, [Wikidata](https://www.wikidata.org/wiki/Q3568447) QID Q3568447
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

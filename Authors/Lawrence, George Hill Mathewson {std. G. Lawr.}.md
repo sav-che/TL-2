@@ -6,7 +6,7 @@ tl2_surname: Lawrence
 tl2_forenames: George Hill Mathewson
 tl2_name_abbrev: G. Lawr.
 tl2_dates: 1910-1978
-tl2_page_id: 33069015
+tl2_bhl_page_id: 33069015
 author_lsid: 5346-1
 wikidata_id: Q5877863
 ipni_surname: Lawrence
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5346-1), [Wikidata](https://www.wikidata.org/wiki/Q5877863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5346-1) LSID 5346-1, [Wikidata](https://www.wikidata.org/wiki/Q5877863) QID Q5877863
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Voigt
 tl2_forenames: Friedrich Siegmund
 tl2_name_abbrev: F. Voigt
 tl2_dates: 1781-1850
-tl2_page_id: 33212817
+tl2_bhl_page_id: 33212817
 author_lsid: 12978-1
 wikidata_id: Q5869623
 ipni_surname: Voigt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33212817) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12978-1), [Wikidata](https://www.wikidata.org/wiki/Q5869623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12978-1) LSID 12978-1, [Wikidata](https://www.wikidata.org/wiki/Q5869623) QID Q5869623
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kükenthal
 tl2_forenames: Georg
 tl2_name_abbrev: Kükenth.
 tl2_dates: 1864-1955
-tl2_page_id: 33068926
+tl2_bhl_page_id: 33068926
 author_lsid: 5109-1
 wikidata_id: Q75987
 ipni_surname: Kükenthal
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5109-1), [Wikidata](https://www.wikidata.org/wiki/Q75987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5109-1) LSID 5109-1, [Wikidata](https://www.wikidata.org/wiki/Q75987) QID Q75987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Arcangeli
 tl2_forenames: Giovanni
 tl2_name_abbrev: Arcang.
 tl2_dates: 1840-1921
-tl2_page_id: 33120188
+tl2_bhl_page_id: 33120188
 author_lsid: 252-1
 wikidata_id: Q1372712
 ipni_surname: Arcangeli
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33120188) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/252-1), [Wikidata](https://www.wikidata.org/wiki/Q1372712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/252-1) LSID 252-1, [Wikidata](https://www.wikidata.org/wiki/Q1372712) QID Q1372712
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arcangeli, Giovanni {std. Arcang.} (Suppl.)|second entry]] for this author
 

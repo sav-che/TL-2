@@ -6,7 +6,7 @@ tl2_surname: Morris
 tl2_forenames: Patrick Francis
 tl2_name_abbrev: P. Morris
 tl2_dates: 1896-1974
-tl2_page_id: 33355683
+tl2_bhl_page_id: 33355683
 author_lsid: 6677-1
 wikidata_id: Q21388626
 ipni_surname: Morris
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6677-1), [Wikidata](https://www.wikidata.org/wiki/Q21388626). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6677-1) LSID 6677-1, [Wikidata](https://www.wikidata.org/wiki/Q21388626) QID Q21388626
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

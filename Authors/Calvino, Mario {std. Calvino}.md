@@ -6,7 +6,7 @@ tl2_surname: Calvino
 tl2_forenames: Mario
 tl2_name_abbrev: Calvino
 tl2_dates: 1875-x
-tl2_page_id: 33266625
+tl2_bhl_page_id: 33266625
 author_lsid: 16825-1
 wikidata_id: Q17141891
 ipni_surname: Calvino
@@ -27,7 +27,8 @@ ipni_record_modified: 2018-02-28 15:25:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33266625) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16825-1), [Wikidata](https://www.wikidata.org/wiki/Q17141891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16825-1) LSID 16825-1, [Wikidata](https://www.wikidata.org/wiki/Q17141891) QID Q17141891
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Thornber
 tl2_forenames: John James
 tl2_name_abbrev: Thornb.
 tl2_dates: 1872-1962
-tl2_page_id: 33212334
+tl2_bhl_page_id: 33212334
 author_lsid: 10629-1
 wikidata_id: Q5933374
 ipni_surname: Thornber
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10629-1), [Wikidata](https://www.wikidata.org/wiki/Q5933374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10629-1) LSID 10629-1, [Wikidata](https://www.wikidata.org/wiki/Q5933374) QID Q5933374
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

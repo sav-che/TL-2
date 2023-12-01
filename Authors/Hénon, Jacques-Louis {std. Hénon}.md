@@ -6,7 +6,7 @@ tl2_surname: Hénon
 tl2_forenames: Jacques-Louis
 tl2_name_abbrev: Hénon
 tl2_dates: 1802-1872
-tl2_page_id: 33068401
+tl2_bhl_page_id: 33068401
 author_lsid: 3843-1
 wikidata_id: Q3157992
 ipni_surname: Hénon
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3843-1), [Wikidata](https://www.wikidata.org/wiki/Q3157992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3843-1) LSID 3843-1, [Wikidata](https://www.wikidata.org/wiki/Q3157992) QID Q3157992
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

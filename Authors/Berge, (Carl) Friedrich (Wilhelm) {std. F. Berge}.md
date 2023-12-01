@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0096
 tl2_volume: suppl2
 tl2_page_printed: 86
 tl2_surname: Berge
-tl2_forenames: [Carl] Friedrich [Wilhelm]
+tl2_forenames: (Carl) Friedrich (Wilhelm)
 tl2_name_abbrev: F. Berge
 tl2_dates: 1811-1883
-tl2_page_id: 33265283
+tl2_bhl_page_id: 33265283
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33265283) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

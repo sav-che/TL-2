@@ -6,7 +6,7 @@ tl2_surname: Benjamin
 tl2_forenames: Ludwig
 tl2_name_abbrev: L. Benjamin
 tl2_dates: 1825-1848
-tl2_page_id: 33120302
+tl2_bhl_page_id: 33120302
 author_lsid: 650-1
 wikidata_id: Q11925769
 ipni_surname: Benjamin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33120302) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/650-1), [Wikidata](https://www.wikidata.org/wiki/Q11925769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/650-1) LSID 650-1, [Wikidata](https://www.wikidata.org/wiki/Q11925769) QID Q11925769
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

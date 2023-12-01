@@ -6,7 +6,7 @@ tl2_surname: Jussieu
 tl2_forenames: Bernard de
 tl2_name_abbrev: B. Juss.
 tl2_dates: 1699-1777
-tl2_page_id: 33068721
+tl2_bhl_page_id: 33068721
 author_lsid: 4597-1
 wikidata_id: Q432734
 ipni_surname: Jussieu
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33068721) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4597-1), [Wikidata](https://www.wikidata.org/wiki/Q432734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4597-1) LSID 4597-1, [Wikidata](https://www.wikidata.org/wiki/Q432734) QID Q432734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

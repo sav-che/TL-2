@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0327
 tl2_volume: vol5
 tl2_page_printed: 337
 tl2_surname: Schroeder
-tl2_forenames: Alfred [Oskar Julius]
+tl2_forenames: Alfred (Oskar Julius)
 tl2_name_abbrev: A. Schroed.
 tl2_dates: 1873-?
-tl2_page_id: 33333476
+tl2_bhl_page_id: 33333476
 author_lsid: 12844-1
 wikidata_id: Q21608450
 ipni_surname: Schroeder
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33333476) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12844-1), [Wikidata](https://www.wikidata.org/wiki/Q21608450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12844-1) LSID 12844-1, [Wikidata](https://www.wikidata.org/wiki/Q21608450) QID Q21608450
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

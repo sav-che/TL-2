@@ -6,7 +6,7 @@ tl2_surname: Palmer
 tl2_forenames: Frédéric T.
 tl2_name_abbrev: F. Palmer
 tl2_dates: fl. 1867
-tl2_page_id: 33189463
+tl2_bhl_page_id: 33189463
 author_lsid: 7284-1
 wikidata_id: Q36556414
 ipni_surname: Palmer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33189463) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7284-1), [Wikidata](https://www.wikidata.org/wiki/Q36556414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7284-1) LSID 7284-1, [Wikidata](https://www.wikidata.org/wiki/Q36556414) QID Q36556414
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

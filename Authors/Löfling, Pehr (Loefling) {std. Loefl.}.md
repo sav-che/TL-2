@@ -6,7 +6,7 @@ tl2_surname: Löfling
 tl2_forenames: Pehr (Loefling)
 tl2_name_abbrev: Loefl.
 tl2_dates: 1729-1756
-tl2_page_id: 33355225
+tl2_bhl_page_id: 33355225
 author_lsid: 5696-1
 wikidata_id: Q714748
 ipni_surname: Loefling
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33355225) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5696-1), [Wikidata](https://www.wikidata.org/wiki/Q714748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5696-1) LSID 5696-1, [Wikidata](https://www.wikidata.org/wiki/Q714748) QID Q714748
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Grey
 tl2_forenames: Charles Hervey (Lt.-Col.) (né Hoare)
 tl2_name_abbrev: Grey
 tl2_dates: 1875-1955
-tl2_page_id: 33258861
+tl2_bhl_page_id: 33258861
 author_lsid: 3382-1
 wikidata_id: Q5764898
 ipni_surname: Grey
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33258861) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3382-1), [Wikidata](https://www.wikidata.org/wiki/Q5764898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3382-1) LSID 3382-1, [Wikidata](https://www.wikidata.org/wiki/Q5764898) QID Q5764898
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

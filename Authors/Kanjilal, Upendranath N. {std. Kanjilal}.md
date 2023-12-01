@@ -6,7 +6,7 @@ tl2_surname: Kanjilal
 tl2_forenames: Upendranath N.
 tl2_name_abbrev: Kanjilal
 tl2_dates: 1859-1928
-tl2_page_id: 33068738
+tl2_bhl_page_id: 33068738
 author_lsid: 4638-1
 wikidata_id: Q21517270
 ipni_surname: Kanjilal
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4638-1), [Wikidata](https://www.wikidata.org/wiki/Q21517270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4638-1) LSID 4638-1, [Wikidata](https://www.wikidata.org/wiki/Q21517270) QID Q21517270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

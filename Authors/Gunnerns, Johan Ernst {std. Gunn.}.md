@@ -6,7 +6,7 @@ tl2_surname: Gunnerns
 tl2_forenames: Johan Ernst
 tl2_name_abbrev: Gunn.
 tl2_dates: 1718-1773
-tl2_page_id: 33121155
+tl2_bhl_page_id: 33121155
 author_lsid: 3484-1
 wikidata_id: Q703279
 ipni_surname: Gunnerus
@@ -27,7 +27,8 @@ ipni_record_modified: 2010-04-14 08:00:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33121155) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3484-1), [Wikidata](https://www.wikidata.org/wiki/Q703279). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3484-1) LSID 3484-1, [Wikidata](https://www.wikidata.org/wiki/Q703279) QID Q703279
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

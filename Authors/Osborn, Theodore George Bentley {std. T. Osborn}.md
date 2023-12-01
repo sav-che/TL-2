@@ -6,7 +6,7 @@ tl2_surname: Osborn
 tl2_forenames: Theodore George Bentley
 tl2_name_abbrev: T. Osborn
 tl2_dates: 1887-1973
-tl2_page_id: 33355940
+tl2_bhl_page_id: 33355940
 author_lsid: 7181-1
 wikidata_id: Q7781936
 ipni_surname: Osborn
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7181-1), [Wikidata](https://www.wikidata.org/wiki/Q7781936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7181-1) LSID 7181-1, [Wikidata](https://www.wikidata.org/wiki/Q7781936) QID Q7781936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

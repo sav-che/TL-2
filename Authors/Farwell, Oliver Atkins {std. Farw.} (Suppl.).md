@@ -6,7 +6,7 @@ tl2_surname: Farwell
 tl2_forenames: Oliver Atkins
 tl2_name_abbrev: Farw.
 tl2_dates: 1867-1944
-tl2_page_id: 33259556
+tl2_bhl_page_id: 33259556
 author_lsid: 2639-1
 wikidata_id: Q4481339
 ipni_surname: Farwell
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259556) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2639-1), [Wikidata](https://www.wikidata.org/wiki/Q4481339). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2639-1) LSID 2639-1, [Wikidata](https://www.wikidata.org/wiki/Q4481339) QID Q4481339
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Farwell, Oliver Atkins {std. Farw.}|first entry]] for this author
 

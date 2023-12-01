@@ -6,7 +6,7 @@ tl2_surname: Pascal
 tl2_forenames: Diego Baldassare
 tl2_name_abbrev: Pascal
 tl2_dates: 1768-1812
-tl2_page_id: 33189555
+tl2_bhl_page_id: 33189555
 author_lsid: 7374-1
 wikidata_id: Q21522664
 ipni_surname: Pascal
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7374-1), [Wikidata](https://www.wikidata.org/wiki/Q21522664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7374-1) LSID 7374-1, [Wikidata](https://www.wikidata.org/wiki/Q21522664) QID Q21522664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

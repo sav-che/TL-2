@@ -6,7 +6,7 @@ tl2_surname: L'Héritier de Brutelle
 tl2_forenames: Charles-Louis
 tl2_name_abbrev: L'Hér.
 tl2_dates: 1746-1800
-tl2_page_id: 33355126
+tl2_bhl_page_id: 33355126
 author_lsid: 12652-1
 wikidata_id: Q465834
 ipni_surname: L'Héritier de Brutelle
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33355126) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12652-1), [Wikidata](https://www.wikidata.org/wiki/Q465834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12652-1) LSID 12652-1, [Wikidata](https://www.wikidata.org/wiki/Q465834) QID Q465834
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

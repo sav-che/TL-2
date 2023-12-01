@@ -6,7 +6,7 @@ tl2_surname: Strobl
 tl2_forenames: Gabriel
 tl2_name_abbrev: Strobl
 tl2_dates: 1846-1925
-tl2_page_id: 33212050
+tl2_bhl_page_id: 33212050
 author_lsid: 10221-1
 wikidata_id: Q872700
 ipni_surname: Strobl
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33212050) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10221-1), [Wikidata](https://www.wikidata.org/wiki/Q872700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10221-1) LSID 10221-1, [Wikidata](https://www.wikidata.org/wiki/Q872700) QID Q872700
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

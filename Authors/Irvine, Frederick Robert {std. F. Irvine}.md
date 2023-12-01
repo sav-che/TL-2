@@ -6,7 +6,7 @@ tl2_surname: Irvine
 tl2_forenames: Frederick Robert
 tl2_name_abbrev: F. Irvine
 tl2_dates: 1898-1962
-tl2_page_id: 33068630
+tl2_bhl_page_id: 33068630
 author_lsid: 4310-1
 wikidata_id: Q21516783
 ipni_surname: Irvine
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33068630) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4310-1), [Wikidata](https://www.wikidata.org/wiki/Q21516783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4310-1) LSID 4310-1, [Wikidata](https://www.wikidata.org/wiki/Q21516783) QID Q21516783
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

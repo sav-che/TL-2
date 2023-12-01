@@ -6,7 +6,7 @@ tl2_surname: Allorge
 tl2_forenames: Valentine, née Sélitsky
 tl2_name_abbrev: V. Allorge
 tl2_dates: 1888-x
-tl2_page_id: 33120167
+tl2_bhl_page_id: 33120167
 author_lsid: 12324-1
 wikidata_id: Q10388891
 ipni_surname: Allorge
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33120167) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12324-1), [Wikidata](https://www.wikidata.org/wiki/Q10388891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12324-1) LSID 12324-1, [Wikidata](https://www.wikidata.org/wiki/Q10388891) QID Q10388891
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Allorge, Valentine (Valia), née Selitzky {std. V. Allorge} (Suppl.)|second entry]] for this author
 

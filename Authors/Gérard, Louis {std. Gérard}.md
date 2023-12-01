@@ -6,7 +6,7 @@ tl2_surname: Gérard
 tl2_forenames: Louis
 tl2_name_abbrev: Gérard
 tl2_dates: 1733-1819
-tl2_page_id: 33121065
+tl2_bhl_page_id: 33121065
 author_lsid: 3099-1
 wikidata_id: Q3262134
 ipni_surname: Gérard
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/page/33121065) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3099-1), [Wikidata](https://www.wikidata.org/wiki/Q3262134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3099-1) LSID 3099-1, [Wikidata](https://www.wikidata.org/wiki/Q3262134) QID Q3262134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: St. Brody
 tl2_forenames: Gustavus A. Ornano
 tl2_name_abbrev: St. Brody
 tl2_dates: 1828-1901
-tl2_page_id: 33190533
+tl2_bhl_page_id: 33190533
 author_lsid: 8822-1
 wikidata_id: Q21609411
 ipni_surname: St.Brody
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1062](https://www.biodiversitylibrary.org/page/33190533) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8822-1), [Wikidata](https://www.wikidata.org/wiki/Q21609411). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8822-1) LSID 8822-1, [Wikidata](https://www.wikidata.org/wiki/Q21609411) QID Q21609411
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0088
 tl2_volume: vol7
 tl2_page_printed: 93
 tl2_surname: Wartmann
-tl2_forenames: [Friedrich] Bernhard
+tl2_forenames: (Friedrich) Bernhard
 tl2_name_abbrev: Wartm.
 tl2_dates: 1830-1902
-tl2_page_id: 33066433
+tl2_bhl_page_id: 33066433
 author_lsid: 11418-1
 wikidata_id: Q1458423
 ipni_surname: Wartmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33066433) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11418-1), [Wikidata](https://www.wikidata.org/wiki/Q1458423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11418-1) LSID 11418-1, [Wikidata](https://www.wikidata.org/wiki/Q1458423) QID Q1458423
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

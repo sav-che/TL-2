@@ -6,7 +6,7 @@ tl2_surname: Marnac
 tl2_forenames: Émile
 tl2_name_abbrev: Marnac
 tl2_dates: 1853-1929
-tl2_page_id: 33355388
+tl2_bhl_page_id: 33355388
 author_lsid: 6118-1
 wikidata_id: Q6174236
 ipni_surname: Marnac
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33355388) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6118-1), [Wikidata](https://www.wikidata.org/wiki/Q6174236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6118-1) LSID 6118-1, [Wikidata](https://www.wikidata.org/wiki/Q6174236) QID Q6174236
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

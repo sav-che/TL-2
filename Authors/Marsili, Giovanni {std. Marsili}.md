@@ -6,7 +6,7 @@ tl2_surname: Marsili
 tl2_forenames: Giovanni
 tl2_name_abbrev: Marsili
 tl2_dates: 1727-1794
-tl2_page_id: 33355398
+tl2_bhl_page_id: 33355398
 author_lsid: 6141-1
 wikidata_id: Q3767693
 ipni_surname: Marsili
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6141-1), [Wikidata](https://www.wikidata.org/wiki/Q3767693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6141-1) LSID 6141-1, [Wikidata](https://www.wikidata.org/wiki/Q3767693) QID Q3767693
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

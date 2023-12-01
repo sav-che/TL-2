@@ -6,7 +6,7 @@ tl2_surname: Richon
 tl2_forenames: Charles Édouard
 tl2_name_abbrev: Richon
 tl2_dates: 1820-1893
-tl2_page_id: 33190244
+tl2_bhl_page_id: 33190244
 author_lsid: 8364-1
 wikidata_id: Q21607192
 ipni_surname: Richon
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8364-1), [Wikidata](https://www.wikidata.org/wiki/Q21607192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8364-1) LSID 8364-1, [Wikidata](https://www.wikidata.org/wiki/Q21607192) QID Q21607192
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

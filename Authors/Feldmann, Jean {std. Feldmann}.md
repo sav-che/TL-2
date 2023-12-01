@@ -6,7 +6,7 @@ tl2_surname: Feldmann
 tl2_forenames: Jean
 tl2_name_abbrev: Feldmann
 tl2_dates: 1905-1978
-tl2_page_id: 33259620
+tl2_bhl_page_id: 33259620
 author_lsid: 33082-1
 wikidata_id: Q21512765
 ipni_surname: Feldmann
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259620) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/33082-1), [Wikidata](https://www.wikidata.org/wiki/Q21512765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33082-1) LSID 33082-1, [Wikidata](https://www.wikidata.org/wiki/Q21512765) QID Q21512765
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

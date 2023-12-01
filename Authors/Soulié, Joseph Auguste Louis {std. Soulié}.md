@@ -6,7 +6,7 @@ tl2_surname: Soulié
 tl2_forenames: Joseph Auguste Louis
 tl2_name_abbrev: Soulié
 tl2_dates: 1868-1930
-tl2_page_id: 33333896
+tl2_bhl_page_id: 33333896
 author_lsid: 9920-1
 wikidata_id: Q21609236
 ipni_surname: Soulié
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9920-1), [Wikidata](https://www.wikidata.org/wiki/Q21609236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9920-1) LSID 9920-1, [Wikidata](https://www.wikidata.org/wiki/Q21609236) QID Q21609236
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

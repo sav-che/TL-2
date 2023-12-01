@@ -6,7 +6,7 @@ tl2_surname: Cajander
 tl2_forenames: Aimo Kaarlo
 tl2_name_abbrev: Cajander
 tl2_dates: 1879-1943
-tl2_page_id: 33266611
+tl2_bhl_page_id: 33266611
 author_lsid: 1352-1
 wikidata_id: Q319444
 ipni_surname: Cajander
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33266611) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1352-1), [Wikidata](https://www.wikidata.org/wiki/Q319444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1352-1) LSID 1352-1, [Wikidata](https://www.wikidata.org/wiki/Q319444) QID Q319444
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

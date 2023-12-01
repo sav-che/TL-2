@@ -6,7 +6,7 @@ tl2_surname: Gauthier-Lièvre
 tl2_forenames: (Mme.) Lucienne Emilienne (née Lièvre)
 tl2_name_abbrev: Gauthier-Lièvre
 tl2_dates: 1897-1992
-tl2_page_id: 33258630
+tl2_bhl_page_id: 33258630
 author_lsid: 29265-1
 wikidata_id: Q21513831
 ipni_surname: Gauthier-Lièvre
@@ -25,7 +25,8 @@ ipni_record_modified: 2009-03-04 10:06:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33258630) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/29265-1), [Wikidata](https://www.wikidata.org/wiki/Q21513831). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29265-1) LSID 29265-1, [Wikidata](https://www.wikidata.org/wiki/Q21513831) QID Q21513831
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

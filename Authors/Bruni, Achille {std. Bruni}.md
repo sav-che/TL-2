@@ -6,7 +6,7 @@ tl2_surname: Bruni
 tl2_forenames: Achille
 tl2_name_abbrev: Bruni
 tl2_dates: 1817-1881
-tl2_page_id: 33266469
+tl2_bhl_page_id: 33266469
 author_lsid: 34864-1
 wikidata_id: Q21506576
 ipni_surname: Bruni
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33266469) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/34864-1), [Wikidata](https://www.wikidata.org/wiki/Q21506576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34864-1) LSID 34864-1, [Wikidata](https://www.wikidata.org/wiki/Q21506576) QID Q21506576
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

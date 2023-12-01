@@ -6,7 +6,7 @@ tl2_surname: Charpentier
 tl2_forenames: Jean G. F. de
 tl2_name_abbrev: Charpentier
 tl2_dates: 1786-1855
-tl2_page_id: 33120617
+tl2_bhl_page_id: 33120617
 author_lsid: 1539-1
 wikidata_id: Q68023
 ipni_surname: Charpentier
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1539-1), [Wikidata](https://www.wikidata.org/wiki/Q68023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1539-1) LSID 1539-1, [Wikidata](https://www.wikidata.org/wiki/Q68023) QID Q68023
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

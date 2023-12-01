@@ -6,7 +6,7 @@ tl2_surname: Collins
 tl2_forenames: Ernest Jacob
 tl2_name_abbrev: E.J. Collins
 tl2_dates: 1877-1939
-tl2_page_id: 33265948
+tl2_bhl_page_id: 33265948
 author_lsid: 13388-1
 wikidata_id: Q47115700
 ipni_surname: Collins
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265948) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13388-1), [Wikidata](https://www.wikidata.org/wiki/Q47115700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13388-1) LSID 13388-1, [Wikidata](https://www.wikidata.org/wiki/Q47115700) QID Q47115700
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

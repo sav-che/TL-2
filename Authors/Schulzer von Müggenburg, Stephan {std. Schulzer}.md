@@ -6,7 +6,7 @@ tl2_surname: Schulzer von Müggenburg
 tl2_forenames: Stephan
 tl2_name_abbrev: Schulzer
 tl2_dates: 1802-1892
-tl2_page_id: 33333535
+tl2_bhl_page_id: 33333535
 author_lsid: 26409-1
 wikidata_id: Q4527644
 ipni_surname: Schulzer von Müggenburg
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-12-15 07:13:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33333535) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26409-1), [Wikidata](https://www.wikidata.org/wiki/Q4527644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26409-1) LSID 26409-1, [Wikidata](https://www.wikidata.org/wiki/Q4527644) QID Q4527644
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

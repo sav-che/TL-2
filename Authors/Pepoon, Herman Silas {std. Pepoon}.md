@@ -6,7 +6,7 @@ tl2_surname: Pepoon
 tl2_forenames: Herman Silas
 tl2_name_abbrev: Pepoon
 tl2_dates: 1860-1941
-tl2_page_id: 33189630
+tl2_bhl_page_id: 33189630
 author_lsid: 7498-1
 wikidata_id: Q15996488
 ipni_surname: Pepoon
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33189630) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7498-1), [Wikidata](https://www.wikidata.org/wiki/Q15996488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7498-1) LSID 7498-1, [Wikidata](https://www.wikidata.org/wiki/Q15996488) QID Q15996488
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

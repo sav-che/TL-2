@@ -6,7 +6,7 @@ tl2_surname: Schweinitz
 tl2_forenames: Lewis David von
 tl2_name_abbrev: Schwein.
 tl2_dates: 1780-1835
-tl2_page_id: 33333576
+tl2_bhl_page_id: 33333576
 author_lsid: 9368-1
 wikidata_id: Q1822110
 ipni_surname: Schweinitz
@@ -26,7 +26,8 @@ ipni_record_modified: 2016-02-15 00:41:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33333576) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9368-1), [Wikidata](https://www.wikidata.org/wiki/Q1822110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9368-1) LSID 9368-1, [Wikidata](https://www.wikidata.org/wiki/Q1822110) QID Q1822110
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0091
 tl2_volume: vol5
 tl2_page_printed: 90
 tl2_surname: Savigny
-tl2_forenames: [Marie] Jules César [Lelorgne de]
+tl2_forenames: (Marie) Jules César (Lelorgne de)
 tl2_name_abbrev: Savigny
 tl2_dates: 1777-1851
-tl2_page_id: 33333229
+tl2_bhl_page_id: 33333229
 author_lsid: 8978-1
 wikidata_id: Q637766
 ipni_surname: Savigny
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33333229) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8978-1), [Wikidata](https://www.wikidata.org/wiki/Q637766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8978-1) LSID 8978-1, [Wikidata](https://www.wikidata.org/wiki/Q637766) QID Q637766
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

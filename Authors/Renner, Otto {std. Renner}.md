@@ -6,7 +6,7 @@ tl2_surname: Renner
 tl2_forenames: Otto
 tl2_name_abbrev: Renner
 tl2_dates: 1883-1960
-tl2_page_id: 33190202
+tl2_bhl_page_id: 33190202
 author_lsid: 8293-1
 wikidata_id: Q70672
 ipni_surname: Renner
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:42:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33190202) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8293-1), [Wikidata](https://www.wikidata.org/wiki/Q70672). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8293-1) LSID 8293-1, [Wikidata](https://www.wikidata.org/wiki/Q70672) QID Q70672
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

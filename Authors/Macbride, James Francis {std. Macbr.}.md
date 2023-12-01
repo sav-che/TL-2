@@ -6,7 +6,7 @@ tl2_surname: Macbride
 tl2_forenames: James Francis
 tl2_name_abbrev: Macbr.
 tl2_dates: 1892-1976
-tl2_page_id: 33355297
+tl2_bhl_page_id: 33355297
 author_lsid: 5889-1
 wikidata_id: Q3046674
 ipni_surname: Macbride
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33355297) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5889-1), [Wikidata](https://www.wikidata.org/wiki/Q3046674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5889-1) LSID 5889-1, [Wikidata](https://www.wikidata.org/wiki/Q3046674) QID Q3046674
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Seeliger
 tl2_forenames: Rudolf
 tl2_name_abbrev: Seeliger
 tl2_dates: 1889-1943
-tl2_page_id: 33333612
+tl2_bhl_page_id: 33333612
 author_lsid: 9415-1
 wikidata_id: Q21608600
 ipni_surname: Seeliger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33333612) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9415-1), [Wikidata](https://www.wikidata.org/wiki/Q21608600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9415-1) LSID 9415-1, [Wikidata](https://www.wikidata.org/wiki/Q21608600) QID Q21608600
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Blanford
 tl2_forenames: Henry Francis
 tl2_name_abbrev: Blanf.
 tl2_dates: 1834-1893
-tl2_page_id: 33265400
+tl2_bhl_page_id: 33265400
 author_lsid: 850-1
 wikidata_id: Q4088004
 ipni_surname: Blanford
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265400) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/850-1), [Wikidata](https://www.wikidata.org/wiki/Q4088004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/850-1) LSID 850-1, [Wikidata](https://www.wikidata.org/wiki/Q4088004) QID Q4088004
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

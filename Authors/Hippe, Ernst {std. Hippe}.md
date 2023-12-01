@@ -6,7 +6,7 @@ tl2_surname: Hippe
 tl2_forenames: Ernst
 tl2_name_abbrev: Hippe
 tl2_dates: fl. 1878
-tl2_page_id: 33068452
+tl2_bhl_page_id: 33068452
 author_lsid: 34850-1
 wikidata_id: Q36545931
 ipni_surname: Hippe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/34850-1), [Wikidata](https://www.wikidata.org/wiki/Q36545931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34850-1) LSID 34850-1, [Wikidata](https://www.wikidata.org/wiki/Q36545931) QID Q36545931
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

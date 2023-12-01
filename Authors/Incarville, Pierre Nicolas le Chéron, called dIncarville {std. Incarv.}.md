@@ -6,7 +6,7 @@ tl2_surname: Incarville
 tl2_forenames: Pierre Nicolas le Chéron, called dIncarville
 tl2_name_abbrev: Incarv.
 tl2_dates: 1706-1757
-tl2_page_id: 33068626
+tl2_bhl_page_id: 33068626
 author_lsid: 4291-1
 wikidata_id: Q3386443
 ipni_surname: Incarville
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4291-1), [Wikidata](https://www.wikidata.org/wiki/Q3386443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4291-1) LSID 4291-1, [Wikidata](https://www.wikidata.org/wiki/Q3386443) QID Q3386443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

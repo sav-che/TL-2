@@ -6,7 +6,7 @@ tl2_surname: Maerter
 tl2_forenames: Franz Joseph
 tl2_name_abbrev: Maerter
 tl2_dates: 1753-1827
-tl2_page_id: 33355327
+tl2_bhl_page_id: 33355327
 author_lsid: 35185-1
 wikidata_id: Q21519759
 ipni_surname: Maerter
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35185-1), [Wikidata](https://www.wikidata.org/wiki/Q21519759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35185-1) LSID 35185-1, [Wikidata](https://www.wikidata.org/wiki/Q21519759) QID Q21519759
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

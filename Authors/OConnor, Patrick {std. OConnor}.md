@@ -6,7 +6,7 @@ tl2_surname: O'Connor
 tl2_forenames: Patrick
 tl2_name_abbrev: O'Connor
 tl2_dates: 1889-1969
-tl2_page_id: 33355890
+tl2_bhl_page_id: 33355890
 author_lsid: 7083-1
 wikidata_id: Q21522296
 ipni_surname: O'Connor
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7083-1), [Wikidata](https://www.wikidata.org/wiki/Q21522296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7083-1) LSID 7083-1, [Wikidata](https://www.wikidata.org/wiki/Q21522296) QID Q21522296
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

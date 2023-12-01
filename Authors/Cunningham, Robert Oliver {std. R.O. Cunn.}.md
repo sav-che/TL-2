@@ -6,7 +6,7 @@ tl2_surname: Cunningham
 tl2_forenames: Robert Oliver
 tl2_name_abbrev: R.O. Cunn.
 tl2_dates: 1841-1918
-tl2_page_id: 33266187
+tl2_bhl_page_id: 33266187
 author_lsid: 35756-1
 wikidata_id: Q7348142
 ipni_surname: Cunningham
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33266187) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/35756-1), [Wikidata](https://www.wikidata.org/wiki/Q7348142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35756-1) LSID 35756-1, [Wikidata](https://www.wikidata.org/wiki/Q7348142) QID Q7348142
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

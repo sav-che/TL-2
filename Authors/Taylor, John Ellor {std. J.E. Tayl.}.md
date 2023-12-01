@@ -6,7 +6,7 @@ tl2_surname: Taylor
 tl2_forenames: John Ellor
 tl2_name_abbrev: J.E. Tayl.
 tl2_dates: 1837-1895
-tl2_page_id: 33212230
+tl2_bhl_page_id: 33212230
 author_lsid: 10465-1
 wikidata_id: Q6231692
 ipni_surname: Taylor
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33212230) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10465-1), [Wikidata](https://www.wikidata.org/wiki/Q6231692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10465-1) LSID 10465-1, [Wikidata](https://www.wikidata.org/wiki/Q6231692) QID Q6231692
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

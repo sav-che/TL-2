@@ -6,7 +6,7 @@ tl2_surname: Anderson
 tl2_forenames: Charles Lewis
 tl2_name_abbrev: C.L. Anderson
 tl2_dates: 1827-1910
-tl2_page_id: 33264834
+tl2_bhl_page_id: 33264834
 author_lsid: 188-1
 wikidata_id: Q6409941
 ipni_surname: Anderson
@@ -24,7 +24,8 @@ ipni_record_modified: 2007-09-27 13:49:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33264834) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/188-1), [Wikidata](https://www.wikidata.org/wiki/Q6409941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/188-1) LSID 188-1, [Wikidata](https://www.wikidata.org/wiki/Q6409941) QID Q6409941
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Anderson, Charles Lewis {std. C.L. Anderson}|first entry]] for this author
 

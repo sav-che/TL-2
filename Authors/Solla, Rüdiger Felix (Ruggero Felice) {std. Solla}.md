@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0724
 tl2_volume: vol5
 tl2_page_printed: 728
 tl2_surname: Solla
-tl2_forenames: Rüdiger Felix [Ruggero Felice]
+tl2_forenames: Rüdiger Felix (Ruggero Felice)
 tl2_name_abbrev: Solla
 tl2_dates: 1859-?
-tl2_page_id: 33333867
+tl2_bhl_page_id: 33333867
 author_lsid: 9877-1
 wikidata_id: Q21609190
 ipni_surname: Solla
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33333867) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9877-1), [Wikidata](https://www.wikidata.org/wiki/Q21609190). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9877-1) LSID 9877-1, [Wikidata](https://www.wikidata.org/wiki/Q21609190) QID Q21609190
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

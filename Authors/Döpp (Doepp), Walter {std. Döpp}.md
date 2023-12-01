@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl6_0021
 tl2_volume: suppl6
 tl2_page_printed: 22
-tl2_surname: Döpp [Doepp]
+tl2_surname: Döpp (Doepp)
 tl2_forenames: Walter
 tl2_name_abbrev: Döpp
 tl2_dates: 1901-1963
-tl2_page_id: 33260010
+tl2_bhl_page_id: 33260010
 author_lsid: 34385-1
 wikidata_id: Q16508920
 ipni_surname: Döpp
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/34385-1), [Wikidata](https://www.wikidata.org/wiki/Q16508920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34385-1) LSID 34385-1, [Wikidata](https://www.wikidata.org/wiki/Q16508920) QID Q16508920
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

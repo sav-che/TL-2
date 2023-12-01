@@ -6,7 +6,7 @@ tl2_surname: Pereboom
 tl2_forenames: Cornells
 tl2_name_abbrev: C. Pereb.
 tl2_dates: fl. 1788
-tl2_page_id: 33189633
+tl2_bhl_page_id: 33189633
 author_lsid: 7503-1
 wikidata_id: Q36529126
 ipni_surname: Pereboom
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33189633) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7503-1), [Wikidata](https://www.wikidata.org/wiki/Q36529126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7503-1) LSID 7503-1, [Wikidata](https://www.wikidata.org/wiki/Q36529126) QID Q36529126
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

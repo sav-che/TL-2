@@ -6,7 +6,7 @@ tl2_surname: Knight
 tl2_forenames: Joseph
 tl2_name_abbrev: J. Knight
 tl2_dates: c. 1777-1855
-tl2_page_id: 33068819
+tl2_bhl_page_id: 33068819
 author_lsid: 4871-1
 wikidata_id: Q6284642
 ipni_surname: Knight
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33068819) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4871-1), [Wikidata](https://www.wikidata.org/wiki/Q6284642). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4871-1) LSID 4871-1, [Wikidata](https://www.wikidata.org/wiki/Q6284642) QID Q6284642
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

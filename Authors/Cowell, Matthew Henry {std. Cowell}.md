@@ -6,7 +6,7 @@ tl2_surname: Cowell
 tl2_forenames: Matthew Henry
 tl2_name_abbrev: Cowell
 tl2_dates: fl. 1830-1840
-tl2_page_id: 33266112
+tl2_bhl_page_id: 33266112
 author_lsid: 13471-1
 wikidata_id: Q36622674
 ipni_surname: Cowell
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33266112) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13471-1), [Wikidata](https://www.wikidata.org/wiki/Q36622674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13471-1) LSID 13471-1, [Wikidata](https://www.wikidata.org/wiki/Q36622674) QID Q36622674
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

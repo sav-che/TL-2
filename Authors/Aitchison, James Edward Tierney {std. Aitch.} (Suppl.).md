@@ -6,7 +6,7 @@ tl2_surname: Aitchison
 tl2_forenames: James Edward Tierney
 tl2_name_abbrev: Aitch.
 tl2_dates: 1836-1898
-tl2_page_id: 33264744
+tl2_bhl_page_id: 33264744
 author_lsid: 108-1
 wikidata_id: Q1680330
 ipni_surname: Aitchison
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33264744) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/108-1), [Wikidata](https://www.wikidata.org/wiki/Q1680330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/108-1) LSID 108-1, [Wikidata](https://www.wikidata.org/wiki/Q1680330) QID Q1680330
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Aitchison, James Edward Tierney {std. Aitch.}|first entry]] for this author
 

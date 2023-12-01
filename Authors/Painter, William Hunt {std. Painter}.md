@@ -6,7 +6,7 @@ tl2_surname: Painter
 tl2_forenames: William Hunt
 tl2_name_abbrev: Painter
 tl2_dates: 1835-1910
-tl2_page_id: 33189506
+tl2_bhl_page_id: 33189506
 author_lsid: 7256-1
 wikidata_id: Q2073273
 ipni_surname: Painter
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7256-1), [Wikidata](https://www.wikidata.org/wiki/Q2073273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7256-1) LSID 7256-1, [Wikidata](https://www.wikidata.org/wiki/Q2073273) QID Q2073273
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

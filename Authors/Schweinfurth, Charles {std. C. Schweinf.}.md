@@ -6,7 +6,7 @@ tl2_surname: Schweinfurth
 tl2_forenames: Charles
 tl2_name_abbrev: C. Schweinf.
 tl2_dates: 1890-1970
-tl2_page_id: 33333569
+tl2_bhl_page_id: 33333569
 author_lsid: 9366-1
 wikidata_id: Q3609344
 ipni_surname: Schweinfurth
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33333569) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9366-1), [Wikidata](https://www.wikidata.org/wiki/Q3609344). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9366-1) LSID 9366-1, [Wikidata](https://www.wikidata.org/wiki/Q3609344) QID Q3609344
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dummer (formerly Dümmer)
 tl2_forenames: Richard Arnold
 tl2_name_abbrev: Dummer
 tl2_dates: 1887-1922
-tl2_page_id: 33260148
+tl2_bhl_page_id: 33260148
 author_lsid: 2370-1
 wikidata_id: Q3430474
 ipni_surname: Dümmer
@@ -23,7 +23,8 @@ ipni_record_modified: 2007-11-26 09:26:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33260148) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2370-1), [Wikidata](https://www.wikidata.org/wiki/Q3430474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2370-1) LSID 2370-1, [Wikidata](https://www.wikidata.org/wiki/Q3430474) QID Q3430474
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dümmer, Richard Arnold {std. Dummer}|first entry]] for this author
 

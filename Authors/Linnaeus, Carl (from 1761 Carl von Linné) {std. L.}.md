@@ -6,7 +6,7 @@ tl2_surname: Linnaeus
 tl2_forenames: Carl (from 1761 Carl von Linné)
 tl2_name_abbrev: L.
 tl2_dates: 1707-1778
-tl2_page_id: 33355158
+tl2_bhl_page_id: 33355158
 author_lsid: 12653-1
 wikidata_id: Q1043
 ipni_surname: Linnaeus
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:27:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33355158) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12653-1), [Wikidata](https://www.wikidata.org/wiki/Q1043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12653-1) LSID 12653-1, [Wikidata](https://www.wikidata.org/wiki/Q1043) QID Q1043
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

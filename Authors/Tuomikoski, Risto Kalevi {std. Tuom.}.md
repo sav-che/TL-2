@@ -6,7 +6,7 @@ tl2_surname: Tuomikoski
 tl2_forenames: Risto Kalevi
 tl2_name_abbrev: Tuom.
 tl2_dates: 1911-x
-tl2_page_id: 33212578
+tl2_bhl_page_id: 33212578
 author_lsid: 27982-1
 wikidata_id: Q11890938
 ipni_surname: Tuomikoski
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33212578) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27982-1), [Wikidata](https://www.wikidata.org/wiki/Q11890938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27982-1) LSID 27982-1, [Wikidata](https://www.wikidata.org/wiki/Q11890938) QID Q11890938
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

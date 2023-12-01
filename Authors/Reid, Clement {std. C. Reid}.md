@@ -6,7 +6,7 @@ tl2_surname: Reid
 tl2_forenames: Clement
 tl2_name_abbrev: C. Reid
 tl2_dates: 1853-1916
-tl2_page_id: 33190165
+tl2_bhl_page_id: 33190165
 author_lsid: 8259-1
 wikidata_id: Q2247267
 ipni_surname: Reid
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/page/33190165) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8259-1), [Wikidata](https://www.wikidata.org/wiki/Q2247267). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8259-1) LSID 8259-1, [Wikidata](https://www.wikidata.org/wiki/Q2247267) QID Q2247267
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

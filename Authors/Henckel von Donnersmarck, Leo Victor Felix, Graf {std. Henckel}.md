@@ -6,7 +6,7 @@ tl2_surname: Henckel von Donnersmarck
 tl2_forenames: Leo Victor Felix, Graf
 tl2_name_abbrev: Henckel
 tl2_dates: 1785-1861
-tl2_page_id: 33068395
+tl2_bhl_page_id: 33068395
 author_lsid: 12540-1
 wikidata_id: Q21515690
 ipni_surname: Henckel von Donnersmarck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33068395) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12540-1), [Wikidata](https://www.wikidata.org/wiki/Q21515690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12540-1) LSID 12540-1, [Wikidata](https://www.wikidata.org/wiki/Q21515690) QID Q21515690
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

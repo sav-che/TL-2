@@ -6,7 +6,7 @@ tl2_surname: Mayr
 tl2_forenames: Johann
 tl2_name_abbrev: J. Mayr
 tl2_dates: fl. 1797
-tl2_page_id: 33355477
+tl2_bhl_page_id: 33355477
 author_lsid: 6280-1
 wikidata_id: Q47122254
 ipni_surname: Mayr
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6280-1), [Wikidata](https://www.wikidata.org/wiki/Q47122254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6280-1) LSID 6280-1, [Wikidata](https://www.wikidata.org/wiki/Q47122254) QID Q47122254
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

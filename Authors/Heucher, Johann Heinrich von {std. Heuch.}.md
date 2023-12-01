@@ -6,7 +6,7 @@ tl2_surname: Heucher
 tl2_forenames: Johann Heinrich von
 tl2_name_abbrev: Heuch.
 tl2_dates: 1677-1747
-tl2_page_id: 33068425
+tl2_bhl_page_id: 33068425
 author_lsid: 3910-1
 wikidata_id: Q1694540
 ipni_surname: Heucher
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33068425) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3910-1), [Wikidata](https://www.wikidata.org/wiki/Q1694540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3910-1) LSID 3910-1, [Wikidata](https://www.wikidata.org/wiki/Q1694540) QID Q1694540
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

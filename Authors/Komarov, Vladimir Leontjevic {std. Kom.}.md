@@ -6,7 +6,7 @@ tl2_surname: Komarov
 tl2_forenames: Vladimir Leontjevic
 tl2_name_abbrev: Kom.
 tl2_dates: 1869-1945
-tl2_page_id: 33068853
+tl2_bhl_page_id: 33068853
 author_lsid: 4948-1
 wikidata_id: Q1319463
 ipni_surname: Komarov
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:34:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33068853) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4948-1), [Wikidata](https://www.wikidata.org/wiki/Q1319463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4948-1) LSID 4948-1, [Wikidata](https://www.wikidata.org/wiki/Q1319463) QID Q1319463
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

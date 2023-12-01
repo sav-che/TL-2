@@ -6,7 +6,7 @@ tl2_surname: Lett
 tl2_forenames: Henry William
 tl2_name_abbrev: Lett
 tl2_dates: 1836-1920
-tl2_page_id: 33069100
+tl2_bhl_page_id: 33069100
 author_lsid: 22270-1
 wikidata_id: Q16999734
 ipni_surname: Lett
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22270-1), [Wikidata](https://www.wikidata.org/wiki/Q16999734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22270-1) LSID 22270-1, [Wikidata](https://www.wikidata.org/wiki/Q16999734) QID Q16999734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

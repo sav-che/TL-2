@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0219
 tl2_volume: suppl8
 tl2_page_printed: 291
-tl2_surname: Gómez de la Maza [y Jiménez]
+tl2_surname: Gómez de la Maza (y Jiménez)
 tl2_forenames: Manuel
 tl2_name_abbrev: M. Gómez
 tl2_dates: 1867-1916
-tl2_page_id: 33258769
+tl2_bhl_page_id: 33258769
 author_lsid: 3255-1
 wikidata_id: Q3286846
 ipni_surname: Gómez de la Maza y Jiménez
@@ -23,7 +23,8 @@ ipni_record_modified: 2010-07-29 14:44:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33258769) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3255-1), [Wikidata](https://www.wikidata.org/wiki/Q3286846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3255-1) LSID 3255-1, [Wikidata](https://www.wikidata.org/wiki/Q3286846) QID Q3286846
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

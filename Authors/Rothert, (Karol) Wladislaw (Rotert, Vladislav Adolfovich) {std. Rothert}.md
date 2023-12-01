@@ -6,7 +6,7 @@ tl2_surname: Rothert
 tl2_forenames: (Karol) Wladislaw (Rotert, Vladislav Adolfovich)
 tl2_name_abbrev: Rothert
 tl2_dates: 1863-1916
-tl2_page_id: 33190394
+tl2_bhl_page_id: 33190394
 author_lsid: 8644-1
 wikidata_id: Q9382253
 ipni_surname: Rothert
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8644-1), [Wikidata](https://www.wikidata.org/wiki/Q9382253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8644-1) LSID 8644-1, [Wikidata](https://www.wikidata.org/wiki/Q9382253) QID Q9382253
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

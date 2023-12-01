@@ -6,7 +6,7 @@ tl2_surname: Bennett
 tl2_forenames: Alfred William
 tl2_name_abbrev: A.W. Benn.
 tl2_dates: 1833-1902
-tl2_page_id: 33265267
+tl2_bhl_page_id: 33265267
 author_lsid: 15946-1
 wikidata_id: Q2635041
 ipni_surname: Bennett
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33265267) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/15946-1), [Wikidata](https://www.wikidata.org/wiki/Q2635041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15946-1) LSID 15946-1, [Wikidata](https://www.wikidata.org/wiki/Q2635041) QID Q2635041
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bennett, Alfred William {std. A.W. Benn.}|first entry]] for this author
 

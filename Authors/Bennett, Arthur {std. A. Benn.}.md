@@ -6,7 +6,7 @@ tl2_surname: Bennett
 tl2_forenames: Arthur
 tl2_name_abbrev: A. Benn.
 tl2_dates: 1843-1929
-tl2_page_id: 33265269
+tl2_bhl_page_id: 33265269
 author_lsid: 655-1
 wikidata_id: Q5706955
 ipni_surname: Bennett
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33265269) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/655-1), [Wikidata](https://www.wikidata.org/wiki/Q5706955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/655-1) LSID 655-1, [Wikidata](https://www.wikidata.org/wiki/Q5706955) QID Q5706955
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

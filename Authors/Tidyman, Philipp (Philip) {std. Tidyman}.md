@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0371
 tl2_volume: vol6
 tl2_page_printed: 345
 tl2_surname: Tidyman
-tl2_forenames: Philipp [Philip]
+tl2_forenames: Philipp (Philip)
 tl2_name_abbrev: Tidyman
 tl2_dates: x-1850
-tl2_page_id: 33212387
+tl2_bhl_page_id: 33212387
 author_lsid: 10657-1
 wikidata_id: Q21610724
 ipni_surname: Tidyman
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33212387) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10657-1), [Wikidata](https://www.wikidata.org/wiki/Q21610724). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10657-1) LSID 10657-1, [Wikidata](https://www.wikidata.org/wiki/Q21610724) QID Q21610724
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Reyger
 tl2_forenames: Gottfried
 tl2_name_abbrev: Reyger
 tl2_dates: 1704-1788
-tl2_page_id: 33190220
+tl2_bhl_page_id: 33190220
 author_lsid: 8325-1
 wikidata_id: Q610570
 ipni_surname: Reyger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33190220) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8325-1), [Wikidata](https://www.wikidata.org/wiki/Q610570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8325-1) LSID 8325-1, [Wikidata](https://www.wikidata.org/wiki/Q610570) QID Q610570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

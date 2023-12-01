@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0473
 tl2_volume: vol5
 tl2_page_printed: 493
 tl2_surname: Seidlitz
-tl2_forenames: Nicolai [Karl Samuel] von
+tl2_forenames: Nicolai (Karl Samuel) von
 tl2_name_abbrev: Seidlitz
 tl2_dates: 1831-1907
-tl2_page_id: 33333632
+tl2_bhl_page_id: 33333632
 author_lsid: 9443-1
 wikidata_id: Q4190175
 ipni_surname: Seidlitz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9443-1), [Wikidata](https://www.wikidata.org/wiki/Q4190175). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9443-1) LSID 9443-1, [Wikidata](https://www.wikidata.org/wiki/Q4190175) QID Q4190175
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

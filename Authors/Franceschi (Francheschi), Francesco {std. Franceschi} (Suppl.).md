@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0243
 tl2_volume: suppl7
 tl2_page_printed: 371
 tl2_surname: Fenzi
-tl2_forenames: Franceschi [Francheschi], Francesco
+tl2_forenames: Franceschi (Francheschi), Francesco
 tl2_name_abbrev: 
 tl2_dates: 1843-1924
-tl2_page_id: 33259875
+tl2_bhl_page_id: 33259875
 author_lsid: 13542-1
 wikidata_id: Q5864759
 ipni_surname: Franceschi
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33259875) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/13542-1), [Wikidata](https://www.wikidata.org/wiki/Q5864759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13542-1) LSID 13542-1, [Wikidata](https://www.wikidata.org/wiki/Q5864759) QID Q5864759
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fenzi, Emanuele Orazio (Emanuelino) {std. Franceschi}|first entry]] for this author
 

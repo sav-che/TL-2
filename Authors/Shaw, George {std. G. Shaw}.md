@@ -6,7 +6,7 @@ tl2_surname: Shaw
 tl2_forenames: George
 tl2_name_abbrev: G. Shaw
 tl2_dates: 1751-1813
-tl2_page_id: 33333690
+tl2_bhl_page_id: 33333690
 author_lsid: 9549-1
 wikidata_id: Q311097
 ipni_surname: Shaw
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9549-1), [Wikidata](https://www.wikidata.org/wiki/Q311097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9549-1) LSID 9549-1, [Wikidata](https://www.wikidata.org/wiki/Q311097) QID Q311097
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Curtis
 tl2_forenames: John Thomas
 tl2_name_abbrev: J.T. Curtis
 tl2_dates: 1913-1961
-tl2_page_id: 33266191
+tl2_bhl_page_id: 33266191
 author_lsid: 1924-1
 wikidata_id: Q6260545
 ipni_surname: Curtis
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33266191) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1924-1), [Wikidata](https://www.wikidata.org/wiki/Q6260545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1924-1) LSID 1924-1, [Wikidata](https://www.wikidata.org/wiki/Q6260545) QID Q6260545
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

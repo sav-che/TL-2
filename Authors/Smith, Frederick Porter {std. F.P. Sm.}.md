@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Frederick Porter
 tl2_name_abbrev: F.P. Sm.
 tl2_dates: 1833-1888
-tl2_page_id: 33333810
+tl2_bhl_page_id: 33333810
 author_lsid: 9791-1
 wikidata_id: Q5869085
 ipni_surname: Smith
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9791-1), [Wikidata](https://www.wikidata.org/wiki/Q5869085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9791-1) LSID 9791-1, [Wikidata](https://www.wikidata.org/wiki/Q5869085) QID Q5869085
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

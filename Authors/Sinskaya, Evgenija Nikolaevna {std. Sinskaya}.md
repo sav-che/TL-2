@@ -6,7 +6,7 @@ tl2_surname: Sinskaya
 tl2_forenames: Evgenija Nikolaevna
 tl2_name_abbrev: Sinskaya
 tl2_dates: 1889-1965
-tl2_page_id: 33333757
+tl2_bhl_page_id: 33333757
 author_lsid: 12868-1
 wikidata_id: Q4420417
 ipni_surname: Sinskaya
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33333757) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12868-1), [Wikidata](https://www.wikidata.org/wiki/Q4420417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12868-1) LSID 12868-1, [Wikidata](https://www.wikidata.org/wiki/Q4420417) QID Q4420417
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

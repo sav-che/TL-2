@@ -6,7 +6,7 @@ tl2_surname: Crozals
 tl2_forenames: André de
 tl2_name_abbrev: Croz.
 tl2_dates: 1861-1932
-tl2_page_id: 33266160
+tl2_bhl_page_id: 33266160
 author_lsid: 17552-1
 wikidata_id: Q3616488
 ipni_surname: Crozals
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33266160) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17552-1), [Wikidata](https://www.wikidata.org/wiki/Q3616488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17552-1) LSID 17552-1, [Wikidata](https://www.wikidata.org/wiki/Q3616488) QID Q3616488
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Crozals, André de {std. Croz.}|first entry]] for this author
 

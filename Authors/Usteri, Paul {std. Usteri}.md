@@ -6,7 +6,7 @@ tl2_surname: Usteri
 tl2_forenames: Paul
 tl2_name_abbrev: Usteri
 tl2_dates: 1768-1831
-tl2_page_id: 33212665
+tl2_bhl_page_id: 33212665
 author_lsid: 11005-1
 wikidata_id: Q116119
 ipni_surname: Usteri
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33212665) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11005-1), [Wikidata](https://www.wikidata.org/wiki/Q116119). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11005-1) LSID 11005-1, [Wikidata](https://www.wikidata.org/wiki/Q116119) QID Q116119
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

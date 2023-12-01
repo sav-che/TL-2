@@ -6,7 +6,7 @@ tl2_surname: Lassimonne
 tl2_forenames: Simon Etienne
 tl2_name_abbrev: Lassim.
 tl2_dates: fl. 1932
-tl2_page_id: 33069005
+tl2_bhl_page_id: 33069005
 author_lsid: 5304-1
 wikidata_id: Q36678468
 ipni_surname: Lassimonne
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5304-1), [Wikidata](https://www.wikidata.org/wiki/Q36678468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5304-1) LSID 5304-1, [Wikidata](https://www.wikidata.org/wiki/Q36678468) QID Q36678468
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

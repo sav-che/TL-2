@@ -6,7 +6,7 @@ tl2_surname: Whetzel
 tl2_forenames: Herbert Hice
 tl2_name_abbrev: Whetzel
 tl2_dates: 1877-1944
-tl2_page_id: 33066585
+tl2_bhl_page_id: 33066585
 author_lsid: 11610-1
 wikidata_id: Q4479843
 ipni_surname: Whetzel
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:27:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33066585) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11610-1), [Wikidata](https://www.wikidata.org/wiki/Q4479843). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11610-1) LSID 11610-1, [Wikidata](https://www.wikidata.org/wiki/Q4479843) QID Q4479843
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

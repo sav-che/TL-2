@@ -6,7 +6,7 @@ tl2_surname: Standley
 tl2_forenames: Paul Carpenter
 tl2_name_abbrev: Standl.
 tl2_dates: 1884-1963
-tl2_page_id: 33333970
+tl2_bhl_page_id: 33333970
 author_lsid: 10019-1
 wikidata_id: Q1333160
 ipni_surname: Standley
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:36:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33333970) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10019-1), [Wikidata](https://www.wikidata.org/wiki/Q1333160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10019-1) LSID 10019-1, [Wikidata](https://www.wikidata.org/wiki/Q1333160) QID Q1333160
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

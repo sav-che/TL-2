@@ -6,7 +6,7 @@ tl2_surname: Klett
 tl2_forenames: Gustav Theodor
 tl2_name_abbrev: Klett
 tl2_dates: x-1827
-tl2_page_id: 33068807
+tl2_bhl_page_id: 33068807
 author_lsid: 4843-1
 wikidata_id: Q5889397
 ipni_surname: Klett
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33068807) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4843-1), [Wikidata](https://www.wikidata.org/wiki/Q5889397). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4843-1) LSID 4843-1, [Wikidata](https://www.wikidata.org/wiki/Q5889397) QID Q5889397
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

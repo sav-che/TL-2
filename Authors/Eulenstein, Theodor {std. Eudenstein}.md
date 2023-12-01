@@ -6,7 +6,7 @@ tl2_surname: Eulenstein
 tl2_forenames: Theodor
 tl2_name_abbrev: Eudenstein
 tl2_dates: x-1875
-tl2_page_id: 33120936
+tl2_bhl_page_id: 33120936
 author_lsid: 2587-1
 wikidata_id: Q21512422
 ipni_surname: Eulenstein
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33120936) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2587-1), [Wikidata](https://www.wikidata.org/wiki/Q21512422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2587-1) LSID 2587-1, [Wikidata](https://www.wikidata.org/wiki/Q21512422) QID Q21512422
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

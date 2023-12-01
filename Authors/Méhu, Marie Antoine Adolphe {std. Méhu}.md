@@ -6,7 +6,7 @@ tl2_surname: Méhu
 tl2_forenames: Marie Antoine Adolphe
 tl2_name_abbrev: Méhu
 tl2_dates: 1840-1881
-tl2_page_id: 33355487
+tl2_bhl_page_id: 33355487
 author_lsid: 6310-1
 wikidata_id: Q21520326
 ipni_surname: Méhu
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6310-1), [Wikidata](https://www.wikidata.org/wiki/Q21520326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6310-1) LSID 6310-1, [Wikidata](https://www.wikidata.org/wiki/Q21520326) QID Q21520326
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

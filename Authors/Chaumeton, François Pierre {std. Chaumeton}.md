@@ -6,7 +6,7 @@ tl2_surname: Chaumeton
 tl2_forenames: François Pierre
 tl2_name_abbrev: Chaumeton
 tl2_dates: 1775-1819
-tl2_page_id: 33120620
+tl2_bhl_page_id: 33120620
 author_lsid: 1557-1
 wikidata_id: Q3083641
 ipni_surname: Chaumeton
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33120620) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1557-1), [Wikidata](https://www.wikidata.org/wiki/Q3083641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1557-1) LSID 1557-1, [Wikidata](https://www.wikidata.org/wiki/Q3083641) QID Q3083641
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

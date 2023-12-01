@@ -6,7 +6,7 @@ tl2_surname: Dansereau
 tl2_forenames: Pierre Mackay
 tl2_name_abbrev: Dans.
 tl2_dates: 1911-x
-tl2_page_id: 33259108
+tl2_bhl_page_id: 33259108
 author_lsid: 1993-1
 wikidata_id: Q531618
 ipni_surname: Dansereau
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33259108) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1993-1), [Wikidata](https://www.wikidata.org/wiki/Q531618). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1993-1) LSID 1993-1, [Wikidata](https://www.wikidata.org/wiki/Q531618) QID Q531618
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

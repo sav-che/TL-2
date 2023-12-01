@@ -6,7 +6,7 @@ tl2_surname: Shepherd
 tl2_forenames: Thomas
 tl2_name_abbrev: Th. Sheph.
 tl2_dates: 1779-1835
-tl2_page_id: 33333698
+tl2_bhl_page_id: 33333698
 author_lsid: 9563-1
 wikidata_id: Q21608785
 ipni_surname: Shepherd
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33333698) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9563-1), [Wikidata](https://www.wikidata.org/wiki/Q21608785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9563-1) LSID 9563-1, [Wikidata](https://www.wikidata.org/wiki/Q21608785) QID Q21608785
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

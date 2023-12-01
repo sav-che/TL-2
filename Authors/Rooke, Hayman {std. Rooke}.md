@@ -6,7 +6,7 @@ tl2_surname: Rooke
 tl2_forenames: Hayman
 tl2_name_abbrev: Rooke
 tl2_dates: c. 1722-1806
-tl2_page_id: 33190349
+tl2_bhl_page_id: 33190349
 author_lsid: 8574-1
 wikidata_id: Q5686963
 ipni_surname: Rooke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33190349) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8574-1), [Wikidata](https://www.wikidata.org/wiki/Q5686963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8574-1) LSID 8574-1, [Wikidata](https://www.wikidata.org/wiki/Q5686963) QID Q5686963
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

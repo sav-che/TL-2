@@ -6,7 +6,7 @@ tl2_surname: Godfery
 tl2_forenames: Masters John (Col.)
 tl2_name_abbrev: Godfery
 tl2_dates: 1856-1945
-tl2_page_id: 33258730
+tl2_bhl_page_id: 33258730
 author_lsid: 3215-1
 wikidata_id: Q527777
 ipni_surname: Godfery
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33258730) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3215-1), [Wikidata](https://www.wikidata.org/wiki/Q527777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3215-1) LSID 3215-1, [Wikidata](https://www.wikidata.org/wiki/Q527777) QID Q527777
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

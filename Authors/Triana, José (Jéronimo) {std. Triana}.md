@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0491
 tl2_volume: vol6
 tl2_page_printed: 486
 tl2_surname: Triana
-tl2_forenames: José [Jéronimo]
+tl2_forenames: José (Jéronimo)
 tl2_name_abbrev: Triana
 tl2_dates: 1834-1890
-tl2_page_id: 33212528
+tl2_bhl_page_id: 33212528
 author_lsid: 10818-1
 wikidata_id: Q2495258
 ipni_surname: Triana
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33212528) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10818-1), [Wikidata](https://www.wikidata.org/wiki/Q2495258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10818-1) LSID 10818-1, [Wikidata](https://www.wikidata.org/wiki/Q2495258) QID Q2495258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

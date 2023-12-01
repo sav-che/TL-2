@@ -6,7 +6,7 @@ tl2_surname: Lillo
 tl2_forenames: Miguel
 tl2_name_abbrev: Lillo
 tl2_dates: 1861-1931
-tl2_page_id: 33355109
+tl2_bhl_page_id: 33355109
 author_lsid: 5589-1
 wikidata_id: Q2259136
 ipni_surname: Lillo
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33355109) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5589-1), [Wikidata](https://www.wikidata.org/wiki/Q2259136). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5589-1) LSID 5589-1, [Wikidata](https://www.wikidata.org/wiki/Q2259136) QID Q2259136
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

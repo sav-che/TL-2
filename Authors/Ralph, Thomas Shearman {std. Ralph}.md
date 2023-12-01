@@ -6,7 +6,7 @@ tl2_surname: Ralph
 tl2_forenames: Thomas Shearman
 tl2_name_abbrev: Ralph
 tl2_dates: 1813-1891
-tl2_page_id: 33190039
+tl2_bhl_page_id: 33190039
 author_lsid: 8112-1
 wikidata_id: Q21606908
 ipni_surname: Ralph
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8112-1), [Wikidata](https://www.wikidata.org/wiki/Q21606908). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8112-1) LSID 8112-1, [Wikidata](https://www.wikidata.org/wiki/Q21606908) QID Q21606908
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

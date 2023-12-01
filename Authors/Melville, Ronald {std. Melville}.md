@@ -6,7 +6,7 @@ tl2_surname: Melville
 tl2_forenames: Ronald
 tl2_name_abbrev: Melville
 tl2_dates: 1903-x
-tl2_page_id: 33355498
+tl2_bhl_page_id: 33355498
 author_lsid: 6340-1
 wikidata_id: Q7365114
 ipni_surname: Melville
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6340-1), [Wikidata](https://www.wikidata.org/wiki/Q7365114). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6340-1) LSID 6340-1, [Wikidata](https://www.wikidata.org/wiki/Q7365114) QID Q7365114
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

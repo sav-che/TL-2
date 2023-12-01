@@ -6,7 +6,7 @@ tl2_surname: Shimek
 tl2_forenames: Bohumil
 tl2_name_abbrev: Shimek
 tl2_dates: 1861-1937
-tl2_page_id: 33333702
+tl2_bhl_page_id: 33333702
 author_lsid: 9576-1
 wikidata_id: Q4938244
 ipni_surname: Shimek
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9576-1), [Wikidata](https://www.wikidata.org/wiki/Q4938244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9576-1) LSID 9576-1, [Wikidata](https://www.wikidata.org/wiki/Q4938244) QID Q4938244
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

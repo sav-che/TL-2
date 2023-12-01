@@ -6,7 +6,7 @@ tl2_surname: Poulsen
 tl2_forenames: Viggo Albert
 tl2_name_abbrev: Poulsen
 tl2_dates: 1855-1919
-tl2_page_id: 33189837
+tl2_bhl_page_id: 33189837
 author_lsid: 7900-1
 wikidata_id: Q18910686
 ipni_surname: Poulsen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33189837) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7900-1), [Wikidata](https://www.wikidata.org/wiki/Q18910686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7900-1) LSID 7900-1, [Wikidata](https://www.wikidata.org/wiki/Q18910686) QID Q18910686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

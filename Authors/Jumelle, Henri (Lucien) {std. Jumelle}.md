@@ -6,7 +6,7 @@ tl2_surname: Jumelle
 tl2_forenames: Henri (Lucien)
 tl2_name_abbrev: Jumelle
 tl2_dates: 1866-1935
-tl2_page_id: 33068710
+tl2_bhl_page_id: 33068710
 author_lsid: 4575-1
 wikidata_id: Q4182034
 ipni_surname: Jumelle
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4575-1), [Wikidata](https://www.wikidata.org/wiki/Q4182034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4575-1) LSID 4575-1, [Wikidata](https://www.wikidata.org/wiki/Q4182034) QID Q4182034
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

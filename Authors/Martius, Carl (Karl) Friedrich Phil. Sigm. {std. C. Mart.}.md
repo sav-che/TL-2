@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0387
 tl2_volume: vol3
 tl2_page_printed: 339
 tl2_surname: Martius
-tl2_forenames: Carl [Karl] Friedrich Phil. Sigm.
+tl2_forenames: Carl (Karl) Friedrich Phil. Sigm.
 tl2_name_abbrev: C. Mart.
 tl2_dates: 1829-1899
-tl2_page_id: 33355426
+tl2_bhl_page_id: 33355426
 author_lsid: 22978-1
 wikidata_id: Q5749288
 ipni_surname: Martius
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33355426) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22978-1), [Wikidata](https://www.wikidata.org/wiki/Q5749288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22978-1) LSID 22978-1, [Wikidata](https://www.wikidata.org/wiki/Q5749288) QID Q5749288
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0192
 tl2_volume: suppl7
 tl2_page_printed: 291
 tl2_surname: Folgner
-tl2_forenames: Victor [Viktor] Alfred Oswald
+tl2_forenames: Victor (Viktor) Alfred Oswald
 tl2_name_abbrev: Folgner
 tl2_dates: 1861-1927
-tl2_page_id: 33259795
+tl2_bhl_page_id: 33259795
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259795) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

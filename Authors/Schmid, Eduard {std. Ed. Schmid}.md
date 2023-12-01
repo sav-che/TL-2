@@ -6,7 +6,7 @@ tl2_surname: Schmid
 tl2_forenames: Eduard
 tl2_name_abbrev: Ed. Schmid
 tl2_dates: fl. 1906
-tl2_page_id: 33333374
+tl2_bhl_page_id: 33333374
 author_lsid: 9141-1
 wikidata_id: Q47125742
 ipni_surname: Schmid
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9141-1), [Wikidata](https://www.wikidata.org/wiki/Q47125742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9141-1) LSID 9141-1, [Wikidata](https://www.wikidata.org/wiki/Q47125742) QID Q47125742
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

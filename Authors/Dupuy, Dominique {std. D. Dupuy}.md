@@ -6,7 +6,7 @@ tl2_surname: Dupuy
 tl2_forenames: Dominique
 tl2_name_abbrev: D. Dupuy
 tl2_dates: 1812-1885
-tl2_page_id: 33260165
+tl2_bhl_page_id: 33260165
 author_lsid: 14940-1
 wikidata_id: Q5291126
 ipni_surname: Dupuy
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33260165) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/14940-1), [Wikidata](https://www.wikidata.org/wiki/Q5291126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14940-1) LSID 14940-1, [Wikidata](https://www.wikidata.org/wiki/Q5291126) QID Q5291126
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

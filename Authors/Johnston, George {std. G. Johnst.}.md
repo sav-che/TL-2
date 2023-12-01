@@ -6,7 +6,7 @@ tl2_surname: Johnston
 tl2_forenames: George
 tl2_name_abbrev: G. Johnst.
 tl2_dates: 1797-1855
-tl2_page_id: 33068692
+tl2_bhl_page_id: 33068692
 author_lsid: 4518-1
 wikidata_id: Q3101670
 ipni_surname: Johnston
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4518-1), [Wikidata](https://www.wikidata.org/wiki/Q3101670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4518-1) LSID 4518-1, [Wikidata](https://www.wikidata.org/wiki/Q3101670) QID Q3101670
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

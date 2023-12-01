@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0236
 tl2_volume: vol2
 tl2_page_printed: 194
 tl2_surname: Hiesey
-tl2_forenames: William McKinley [until 5 Feb 1935 Heusi, W.M.]
+tl2_forenames: William McKinley (until 5 Feb 1935 Heusi, W.M.)
 tl2_name_abbrev: Hiesey
 tl2_dates: 1903-x
-tl2_page_id: 33068436
+tl2_bhl_page_id: 33068436
 author_lsid: 12549-1
 wikidata_id: Q8012318
 ipni_surname: Hiesey
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33068436) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12549-1), [Wikidata](https://www.wikidata.org/wiki/Q8012318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12549-1) LSID 12549-1, [Wikidata](https://www.wikidata.org/wiki/Q8012318) QID Q8012318
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

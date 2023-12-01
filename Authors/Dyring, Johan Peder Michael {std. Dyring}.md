@@ -6,7 +6,7 @@ tl2_surname: Dyring
 tl2_forenames: Johan Peder Michael
 tl2_name_abbrev: Dyring
 tl2_dates: 1849-1930
-tl2_page_id: 33260218
+tl2_bhl_page_id: 33260218
 author_lsid: 2434-1
 wikidata_id: Q21511264
 ipni_surname: Dyring
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33260218) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2434-1), [Wikidata](https://www.wikidata.org/wiki/Q21511264). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2434-1) LSID 2434-1, [Wikidata](https://www.wikidata.org/wiki/Q21511264) QID Q21511264
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

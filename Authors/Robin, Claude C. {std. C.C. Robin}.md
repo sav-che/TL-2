@@ -6,7 +6,7 @@ tl2_surname: Robin
 tl2_forenames: Claude C.
 tl2_name_abbrev: C.C. Robin
 tl2_dates: 1750-?
-tl2_page_id: 33190283
+tl2_bhl_page_id: 33190283
 author_lsid: 8451-1
 wikidata_id: Q21607287
 ipni_surname: Robin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8451-1), [Wikidata](https://www.wikidata.org/wiki/Q21607287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8451-1) LSID 8451-1, [Wikidata](https://www.wikidata.org/wiki/Q21607287) QID Q21607287
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

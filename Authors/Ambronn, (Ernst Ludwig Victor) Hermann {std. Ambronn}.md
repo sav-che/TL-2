@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0124
 tl2_volume: suppl1
 tl2_page_printed: 96
 tl2_surname: Ambronn
-tl2_forenames: [Ernst Ludwig Victor] Hermann
+tl2_forenames: (Ernst Ludwig Victor) Hermann
 tl2_name_abbrev: Ambronn
 tl2_dates: 1856-1927
-tl2_page_id: 33264823
+tl2_bhl_page_id: 33264823
 author_lsid: 32246-1
 wikidata_id: Q109679
 ipni_surname: Ambronn
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33264823) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/32246-1), [Wikidata](https://www.wikidata.org/wiki/Q109679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32246-1) LSID 32246-1, [Wikidata](https://www.wikidata.org/wiki/Q109679) QID Q109679
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

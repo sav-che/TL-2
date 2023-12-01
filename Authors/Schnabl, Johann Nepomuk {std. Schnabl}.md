@@ -6,7 +6,7 @@ tl2_surname: Schnabl
 tl2_forenames: Johann Nepomuk
 tl2_name_abbrev: Schnabl
 tl2_dates: 1853-1899
-tl2_page_id: 33333405
+tl2_bhl_page_id: 33333405
 author_lsid: 9182-1
 wikidata_id: Q21608197
 ipni_surname: Schnabl
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33333405) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9182-1), [Wikidata](https://www.wikidata.org/wiki/Q21608197). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9182-1) LSID 9182-1, [Wikidata](https://www.wikidata.org/wiki/Q21608197) QID Q21608197
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

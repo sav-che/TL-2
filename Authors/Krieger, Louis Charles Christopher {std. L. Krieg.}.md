@@ -6,7 +6,7 @@ tl2_surname: Krieger
 tl2_forenames: Louis Charles Christopher
 tl2_name_abbrev: L. Krieg.
 tl2_dates: 1873-1940
-tl2_page_id: 33068916
+tl2_bhl_page_id: 33068916
 author_lsid: 5065-1
 wikidata_id: Q15030481
 ipni_surname: Krieger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5065-1), [Wikidata](https://www.wikidata.org/wiki/Q15030481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5065-1) LSID 5065-1, [Wikidata](https://www.wikidata.org/wiki/Q15030481) QID Q15030481
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

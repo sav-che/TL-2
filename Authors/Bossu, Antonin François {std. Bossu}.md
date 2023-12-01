@@ -6,7 +6,7 @@ tl2_surname: Bossu
 tl2_forenames: Antonin François
 tl2_name_abbrev: Bossu
 tl2_dates: 1809-1897
-tl2_page_id: 33265569
+tl2_bhl_page_id: 33265569
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265569) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

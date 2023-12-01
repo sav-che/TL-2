@@ -6,7 +6,7 @@ tl2_surname: Savicz
 tl2_forenames: Vsevolod Pavlovicz
 tl2_name_abbrev: V. Savicz
 tl2_dates: 1885-1972
-tl2_page_id: 33333229
+tl2_bhl_page_id: 33333229
 author_lsid: 26188-1
 wikidata_id: Q4404104
 ipni_surname: Savicz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33333229) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26188-1), [Wikidata](https://www.wikidata.org/wiki/Q4404104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26188-1) LSID 26188-1, [Wikidata](https://www.wikidata.org/wiki/Q4404104) QID Q4404104
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

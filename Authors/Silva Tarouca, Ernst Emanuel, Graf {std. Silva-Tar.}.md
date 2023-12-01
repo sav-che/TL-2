@@ -6,7 +6,7 @@ tl2_surname: Silva Tarouca
 tl2_forenames: Ernst Emanuel, Graf
 tl2_name_abbrev: Silva-Tar.
 tl2_dates: 1860-1936
-tl2_page_id: 33333738
+tl2_bhl_page_id: 33333738
 author_lsid: 9648-1
 wikidata_id: Q87769
 ipni_surname: Silva Tarouca
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33333738) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9648-1), [Wikidata](https://www.wikidata.org/wiki/Q87769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9648-1) LSID 9648-1, [Wikidata](https://www.wikidata.org/wiki/Q87769) QID Q87769
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

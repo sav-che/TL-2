@@ -6,7 +6,7 @@ tl2_surname: Shope
 tl2_forenames: Paul Franklin
 tl2_name_abbrev: Shope
 tl2_dates: 1894-x
-tl2_page_id: 33333707
+tl2_bhl_page_id: 33333707
 author_lsid: 26691-1
 wikidata_id: Q21608820
 ipni_surname: Shope
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26691-1), [Wikidata](https://www.wikidata.org/wiki/Q21608820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26691-1) LSID 26691-1, [Wikidata](https://www.wikidata.org/wiki/Q21608820) QID Q21608820
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

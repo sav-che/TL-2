@@ -6,7 +6,7 @@ tl2_surname: Fürnrohr
 tl2_forenames: Heinrich
 tl2_name_abbrev: H. Fürnr.
 tl2_dates: 1841/2-1918
-tl2_page_id: 33121028
+tl2_bhl_page_id: 33121028
 author_lsid: 2953-1
 wikidata_id: Q21513644
 ipni_surname: Fürnrohr
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2953-1), [Wikidata](https://www.wikidata.org/wiki/Q21513644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2953-1) LSID 2953-1, [Wikidata](https://www.wikidata.org/wiki/Q21513644) QID Q21513644
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 Fürnrohr, Heinrich (1841/2-1918), German physician and botanist at Regensburg, son of A. E. Fürnrohr. 
 **Abbreviated name**: *H. Fürnr.* \[standard form in IPNI: *H.Fürnr.*\]

@@ -6,7 +6,7 @@ tl2_surname: Lundell
 tl2_forenames: Seth
 tl2_name_abbrev: S. Lundell
 tl2_dates: 1892-1966
-tl2_page_id: 33355282
+tl2_bhl_page_id: 33355282
 author_lsid: 22620-1
 wikidata_id: Q4269433
 ipni_surname: Lundell
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33355282) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22620-1), [Wikidata](https://www.wikidata.org/wiki/Q4269433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22620-1) LSID 22620-1, [Wikidata](https://www.wikidata.org/wiki/Q4269433) QID Q4269433
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

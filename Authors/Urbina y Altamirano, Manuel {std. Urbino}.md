@@ -6,7 +6,7 @@ tl2_surname: Urbina y Altamirano
 tl2_forenames: Manuel
 tl2_name_abbrev: Urbino
 tl2_dates: 1843-1906
-tl2_page_id: 33212661
+tl2_bhl_page_id: 33212661
 author_lsid: 10996-1
 wikidata_id: Q5994491
 ipni_surname: Urbina y Altamirano
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10996-1), [Wikidata](https://www.wikidata.org/wiki/Q5994491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10996-1) LSID 10996-1, [Wikidata](https://www.wikidata.org/wiki/Q5994491) QID Q5994491
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

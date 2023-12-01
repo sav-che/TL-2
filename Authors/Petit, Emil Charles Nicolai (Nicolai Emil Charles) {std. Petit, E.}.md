@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0225
 tl2_volume: vol4
 tl2_page_printed: 200
 tl2_surname: Petit
-tl2_forenames: Emil Charles Nicolai [Nicolai Emil Charles]
+tl2_forenames: Emil Charles Nicolai (Nicolai Emil Charles)
 tl2_name_abbrev: Petit, E.
 tl2_dates: 1817-1893
-tl2_page_id: 33189671
+tl2_bhl_page_id: 33189671
 author_lsid: 7579-1
 wikidata_id: Q21522893
 ipni_surname: Petit
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7579-1), [Wikidata](https://www.wikidata.org/wiki/Q21522893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7579-1) LSID 7579-1, [Wikidata](https://www.wikidata.org/wiki/Q21522893) QID Q21522893
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

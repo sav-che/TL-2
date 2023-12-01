@@ -6,7 +6,7 @@ tl2_surname: Baldinger
 tl2_forenames: Ernst Gottfried
 tl2_name_abbrev: Baldinger
 tl2_dates: 1738-1804
-tl2_page_id: 33120240
+tl2_bhl_page_id: 33120240
 author_lsid: 419-1
 wikidata_id: Q214752
 ipni_surname: Baldinger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33120240) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/419-1), [Wikidata](https://www.wikidata.org/wiki/Q214752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/419-1) LSID 419-1, [Wikidata](https://www.wikidata.org/wiki/Q214752) QID Q214752
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baldinger, Ernst Gottfried {std. Baldinger} (Suppl.)|second entry]] for this author
 

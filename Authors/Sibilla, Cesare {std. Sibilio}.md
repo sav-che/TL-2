@@ -6,7 +6,7 @@ tl2_surname: Sibilla
 tl2_forenames: Cesare
 tl2_name_abbrev: Sibilio
 tl2_dates: 1895-x
-tl2_page_id: 33333715
+tl2_bhl_page_id: 33333715
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33333715) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wood
 tl2_forenames: Thomas Fanning
 tl2_name_abbrev: T.F. Wood
 tl2_dates: 1841-1892
-tl2_page_id: 33066781
+tl2_bhl_page_id: 33066781
 author_lsid: 11848-1
 wikidata_id: Q21612960
 ipni_surname: Wood
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33066781) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11848-1), [Wikidata](https://www.wikidata.org/wiki/Q21612960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11848-1) LSID 11848-1, [Wikidata](https://www.wikidata.org/wiki/Q21612960) QID Q21612960
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

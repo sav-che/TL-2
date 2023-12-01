@@ -6,7 +6,7 @@ tl2_surname: Stearns
 tl2_forenames: Elmer
 tl2_name_abbrev: Stearns
 tl2_dates: fl. 1912
-tl2_page_id: 33333992
+tl2_bhl_page_id: 33333992
 author_lsid: 10045-1
 wikidata_id: Q36550609
 ipni_surname: Stearns
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33333992) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10045-1), [Wikidata](https://www.wikidata.org/wiki/Q36550609). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10045-1) LSID 10045-1, [Wikidata](https://www.wikidata.org/wiki/Q36550609) QID Q36550609
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

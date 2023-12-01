@@ -6,7 +6,7 @@ tl2_surname: Hamilton
 tl2_forenames: Arthur
 tl2_name_abbrev: A. Ham.
 tl2_dates: fl. 1832
-tl2_page_id: 33068276
+tl2_bhl_page_id: 33068276
 author_lsid: 3597-1
 wikidata_id: Q5659555
 ipni_surname: Hamilton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3597-1), [Wikidata](https://www.wikidata.org/wiki/Q5659555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3597-1) LSID 3597-1, [Wikidata](https://www.wikidata.org/wiki/Q5659555) QID Q5659555
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

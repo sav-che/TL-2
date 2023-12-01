@@ -6,7 +6,7 @@ tl2_surname: Frere
 tl2_forenames: Bartle Henry Temple (Sir)
 tl2_name_abbrev: Frere
 tl2_dates: 1862-1953
-tl2_page_id: 33259913
+tl2_bhl_page_id: 33259913
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33259913) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

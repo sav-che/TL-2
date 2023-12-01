@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol6_0094
 tl2_volume: vol6
 tl2_page_printed: 75
-tl2_surname: Succow [Suckow]
+tl2_surname: Succow (Suckow)
 tl2_forenames: Friedrich Wilhelm Ludwig
 tl2_name_abbrev: Succow
 tl2_dates: 1770-1838
-tl2_page_id: 33212117
+tl2_bhl_page_id: 33212117
 author_lsid: 10270-1
 wikidata_id: Q110871
 ipni_surname: Suckow
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10270-1), [Wikidata](https://www.wikidata.org/wiki/Q110871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10270-1) LSID 10270-1, [Wikidata](https://www.wikidata.org/wiki/Q110871) QID Q110871
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

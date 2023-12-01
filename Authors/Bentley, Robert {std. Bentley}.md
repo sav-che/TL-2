@@ -6,7 +6,7 @@ tl2_surname: Bentley
 tl2_forenames: Robert
 tl2_name_abbrev: Bentley
 tl2_dates: 1821-1893
-tl2_page_id: 33120312
+tl2_bhl_page_id: 33120312
 author_lsid: 666-1
 wikidata_id: Q2635211
 ipni_surname: Bentley
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33120312) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/666-1), [Wikidata](https://www.wikidata.org/wiki/Q2635211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/666-1) LSID 666-1, [Wikidata](https://www.wikidata.org/wiki/Q2635211) QID Q2635211
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bentley, Robert {std. Bentley} (Suppl.)|second entry]] for this author
 

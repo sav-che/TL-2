@@ -6,7 +6,7 @@ tl2_surname: Stoltz
 tl2_forenames: Jean Louis
 tl2_name_abbrev: Stoltz
 tl2_dates: 1804-1896
-tl2_page_id: 33212074
+tl2_bhl_page_id: 33212074
 author_lsid: 10174-1
 wikidata_id: Q21609891
 ipni_surname: Stoltz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10174-1), [Wikidata](https://www.wikidata.org/wiki/Q21609891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10174-1) LSID 10174-1, [Wikidata](https://www.wikidata.org/wiki/Q21609891) QID Q21609891
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

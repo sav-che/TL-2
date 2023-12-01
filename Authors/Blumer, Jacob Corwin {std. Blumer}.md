@@ -6,7 +6,7 @@ tl2_surname: Blumer
 tl2_forenames: Jacob Corwin
 tl2_name_abbrev: Blumer
 tl2_dates: 1872-1948
-tl2_page_id: 33265427
+tl2_bhl_page_id: 33265427
 author_lsid: 875-1
 wikidata_id: Q21506217
 ipni_surname: Blumer
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265427) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/875-1), [Wikidata](https://www.wikidata.org/wiki/Q21506217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/875-1) LSID 875-1, [Wikidata](https://www.wikidata.org/wiki/Q21506217) QID Q21506217
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

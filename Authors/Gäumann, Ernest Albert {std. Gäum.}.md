@@ -6,7 +6,7 @@ tl2_surname: Gäumann
 tl2_forenames: Ernest Albert
 tl2_name_abbrev: Gäum.
 tl2_dates: 1893-1963
-tl2_page_id: 33121034
+tl2_bhl_page_id: 33121034
 author_lsid: 19197-1
 wikidata_id: Q125144
 ipni_surname: Gäumann
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33121034) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19197-1), [Wikidata](https://www.wikidata.org/wiki/Q125144). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19197-1) LSID 19197-1, [Wikidata](https://www.wikidata.org/wiki/Q125144) QID Q125144
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gäumann, Ernst Albert {std. Gäum.} (Suppl.)|second entry]] for this author
 

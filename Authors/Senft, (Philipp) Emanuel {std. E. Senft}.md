@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0495
 tl2_volume: vol5
 tl2_page_printed: 507
 tl2_surname: Senft
-tl2_forenames: [Philipp] Emanuel
+tl2_forenames: (Philipp) Emanuel
 tl2_name_abbrev: E. Senft
 tl2_dates: 1870-1922
-tl2_page_id: 33333646
+tl2_bhl_page_id: 33333646
 author_lsid: 9481-1
 wikidata_id: Q1334765
 ipni_surname: Senft
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9481-1), [Wikidata](https://www.wikidata.org/wiki/Q1334765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9481-1) LSID 9481-1, [Wikidata](https://www.wikidata.org/wiki/Q1334765) QID Q1334765
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

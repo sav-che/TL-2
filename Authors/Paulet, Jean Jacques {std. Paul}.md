@@ -6,7 +6,7 @@ tl2_surname: Paulet
 tl2_forenames: Jean Jacques
 tl2_name_abbrev: Paul
 tl2_dates: 1740-1826
-tl2_page_id: 33189581
+tl2_bhl_page_id: 33189581
 author_lsid: 24632-1
 wikidata_id: Q2331561
 ipni_surname: Paulet
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33189581) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24632-1), [Wikidata](https://www.wikidata.org/wiki/Q2331561). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24632-1) LSID 24632-1, [Wikidata](https://www.wikidata.org/wiki/Q2331561) QID Q2331561
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

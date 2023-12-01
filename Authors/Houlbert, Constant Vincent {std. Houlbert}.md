@@ -6,7 +6,7 @@ tl2_surname: Houlbert
 tl2_forenames: Constant Vincent
 tl2_name_abbrev: Houlbert
 tl2_dates: 1857-1947
-tl2_page_id: 33068583
+tl2_bhl_page_id: 33068583
 author_lsid: 4140-1
 wikidata_id: Q5163640
 ipni_surname: Houlbert
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4140-1), [Wikidata](https://www.wikidata.org/wiki/Q5163640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4140-1) LSID 4140-1, [Wikidata](https://www.wikidata.org/wiki/Q5163640) QID Q5163640
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

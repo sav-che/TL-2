@@ -6,7 +6,7 @@ tl2_surname: Schwartz
 tl2_forenames: Oskar
 tl2_name_abbrev: O. Schwartz
 tl2_dates: 1901-1945
-tl2_page_id: 33333562
+tl2_bhl_page_id: 33333562
 author_lsid: 9354-1
 wikidata_id: Q19001899
 ipni_surname: Schwartz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9354-1), [Wikidata](https://www.wikidata.org/wiki/Q19001899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9354-1) LSID 9354-1, [Wikidata](https://www.wikidata.org/wiki/Q19001899) QID Q19001899
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

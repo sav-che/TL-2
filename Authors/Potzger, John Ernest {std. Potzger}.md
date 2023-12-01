@@ -6,7 +6,7 @@ tl2_surname: Potzger
 tl2_forenames: John Ernest
 tl2_name_abbrev: Potzger
 tl2_dates: 1886-1955
-tl2_page_id: 33189836
+tl2_bhl_page_id: 33189836
 author_lsid: 7896-1
 wikidata_id: Q21523153
 ipni_surname: Potzger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7896-1), [Wikidata](https://www.wikidata.org/wiki/Q21523153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7896-1) LSID 7896-1, [Wikidata](https://www.wikidata.org/wiki/Q21523153) QID Q21523153
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

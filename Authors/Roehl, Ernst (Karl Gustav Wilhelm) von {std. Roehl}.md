@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0846
 tl2_volume: vol4
 tl2_page_printed: 836
 tl2_surname: Roehl
-tl2_forenames: Ernst [Karl Gustav Wilhelm] von
+tl2_forenames: Ernst (Karl Gustav Wilhelm) von
 tl2_name_abbrev: Roehl
 tl2_dates: 1825-1881
-tl2_page_id: 33190307
+tl2_bhl_page_id: 33190307
 author_lsid: 12780-1
 wikidata_id: Q18193718
 ipni_surname: Roehl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33190307) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12780-1), [Wikidata](https://www.wikidata.org/wiki/Q18193718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12780-1) LSID 12780-1, [Wikidata](https://www.wikidata.org/wiki/Q18193718) QID Q18193718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

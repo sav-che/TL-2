@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0347
 tl2_volume: vol7
 tl2_page_printed: 391
 tl2_surname: Wislizenus
-tl2_forenames: Friedrich [later Frederick] Adolph
+tl2_forenames: Friedrich (later Frederick) Adolph
 tl2_name_abbrev: Wisl
 tl2_dates: 1810-1889
-tl2_page_id: 33066731
+tl2_bhl_page_id: 33066731
 author_lsid: 13022-1
 wikidata_id: Q1458035
 ipni_surname: Wislizenus
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:37:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33066731) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13022-1), [Wikidata](https://www.wikidata.org/wiki/Q1458035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13022-1) LSID 13022-1, [Wikidata](https://www.wikidata.org/wiki/Q1458035) QID Q1458035
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

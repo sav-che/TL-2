@@ -6,7 +6,7 @@ tl2_surname: Lingelsheim
 tl2_forenames: Alexander von
 tl2_name_abbrev: Lingelsh.
 tl2_dates: 1874-1937
-tl2_page_id: 33355152
+tl2_bhl_page_id: 33355152
 author_lsid: 5631-1
 wikidata_id: Q5666258
 ipni_surname: Lingelsheim
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5631-1), [Wikidata](https://www.wikidata.org/wiki/Q5666258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5631-1) LSID 5631-1, [Wikidata](https://www.wikidata.org/wiki/Q5666258) QID Q5666258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

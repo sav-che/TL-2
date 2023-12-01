@@ -6,7 +6,7 @@ tl2_surname: Voigt
 tl2_forenames: Albert
 tl2_name_abbrev: Alb. Voigt
 tl2_dates: 1858-?
-tl2_page_id: 33212816
+tl2_bhl_page_id: 33212816
 author_lsid: 11244-1
 wikidata_id: Q21611852
 ipni_surname: Voigt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11244-1), [Wikidata](https://www.wikidata.org/wiki/Q21611852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11244-1) LSID 11244-1, [Wikidata](https://www.wikidata.org/wiki/Q21611852) QID Q21611852
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bruinsma
 tl2_forenames: Vitus
 tl2_name_abbrev: V. Bruinsma
 tl2_dates: fl. 1906
-tl2_page_id: 33266464
+tl2_bhl_page_id: 33266464
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

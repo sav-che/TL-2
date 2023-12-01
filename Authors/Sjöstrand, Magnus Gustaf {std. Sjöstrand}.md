@@ -6,7 +6,7 @@ tl2_surname: Sjöstrand
 tl2_forenames: Magnus Gustaf
 tl2_name_abbrev: Sjöstrand
 tl2_dates: 1807-1880
-tl2_page_id: 33333762
+tl2_bhl_page_id: 33333762
 author_lsid: 9708-1
 wikidata_id: Q21609004
 ipni_surname: Sjöstrand
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9708-1), [Wikidata](https://www.wikidata.org/wiki/Q21609004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9708-1) LSID 9708-1, [Wikidata](https://www.wikidata.org/wiki/Q21609004) QID Q21609004
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Notcutt
 tl2_forenames: William Lowndes
 tl2_name_abbrev: Notcutt
 tl2_dates: 1819-1868
-tl2_page_id: 33355864
+tl2_bhl_page_id: 33355864
 author_lsid: 7044-1
 wikidata_id: Q6167673
 ipni_surname: Notcutt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7044-1), [Wikidata](https://www.wikidata.org/wiki/Q6167673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7044-1) LSID 7044-1, [Wikidata](https://www.wikidata.org/wiki/Q6167673) QID Q6167673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Berkhout
 tl2_forenames: Christine Marie
 tl2_name_abbrev: Berkhout
 tl2_dates: 1893-1932
-tl2_page_id: 33120327
+tl2_bhl_page_id: 33120327
 author_lsid: 15998-1
 wikidata_id: Q1966045
 ipni_surname: Berkhout
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33120327) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15998-1), [Wikidata](https://www.wikidata.org/wiki/Q1966045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15998-1) LSID 15998-1, [Wikidata](https://www.wikidata.org/wiki/Q1966045) QID Q1966045
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

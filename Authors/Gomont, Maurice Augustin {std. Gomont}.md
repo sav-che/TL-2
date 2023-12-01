@@ -6,7 +6,7 @@ tl2_surname: Gomont
 tl2_forenames: Maurice Augustin
 tl2_name_abbrev: Gomont
 tl2_dates: 1839-1909
-tl2_page_id: 33121101
+tl2_bhl_page_id: 33121101
 author_lsid: 3257-1
 wikidata_id: Q39020268
 ipni_surname: Gomont
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 970](https://www.biodiversitylibrary.org/page/33121101) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3257-1), [Wikidata](https://www.wikidata.org/wiki/Q39020268). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3257-1) LSID 3257-1, [Wikidata](https://www.wikidata.org/wiki/Q39020268) QID Q39020268
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gomont, Maurice Augustin {std. Gomont} (Suppl.)|second entry]] for this author
 

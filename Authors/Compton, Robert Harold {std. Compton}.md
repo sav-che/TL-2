@@ -6,7 +6,7 @@ tl2_surname: Compton
 tl2_forenames: Robert Harold
 tl2_name_abbrev: Compton
 tl2_dates: 1886-1979
-tl2_page_id: 33265968
+tl2_bhl_page_id: 33265968
 author_lsid: 1757-1
 wikidata_id: Q4230109
 ipni_surname: Compton
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:36:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33265968) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1757-1), [Wikidata](https://www.wikidata.org/wiki/Q4230109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1757-1) LSID 1757-1, [Wikidata](https://www.wikidata.org/wiki/Q4230109) QID Q4230109
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

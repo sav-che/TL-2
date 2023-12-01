@@ -6,7 +6,7 @@ tl2_surname: Wisniewski
 tl2_forenames: Tadeusz
 tl2_name_abbrev: Wisn.
 tl2_dates: 1905-1943
-tl2_page_id: 33066732
+tl2_bhl_page_id: 33066732
 author_lsid: 11789-1
 wikidata_id: Q21612865
 ipni_surname: Wiśniewski
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33066732) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11789-1), [Wikidata](https://www.wikidata.org/wiki/Q21612865). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11789-1) LSID 11789-1, [Wikidata](https://www.wikidata.org/wiki/Q21612865) QID Q21612865
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

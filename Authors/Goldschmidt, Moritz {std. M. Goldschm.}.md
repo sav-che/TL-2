@@ -6,7 +6,7 @@ tl2_surname: Goldschmidt
 tl2_forenames: Moritz
 tl2_name_abbrev: M. Goldschm.
 tl2_dates: 1863-1916
-tl2_page_id: 33258762
+tl2_bhl_page_id: 33258762
 author_lsid: 14708-1
 wikidata_id: Q1947922
 ipni_surname: Goldschmidt
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33258762) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/14708-1), [Wikidata](https://www.wikidata.org/wiki/Q1947922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14708-1) LSID 14708-1, [Wikidata](https://www.wikidata.org/wiki/Q1947922) QID Q1947922
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

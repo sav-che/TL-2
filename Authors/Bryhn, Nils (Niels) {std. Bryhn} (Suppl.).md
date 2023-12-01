@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0172
 tl2_volume: suppl3
 tl2_page_printed: 169
 tl2_surname: Bryhn
-tl2_forenames: Nils [Niels]
+tl2_forenames: Nils (Niels)
 tl2_name_abbrev: Bryhn
 tl2_dates: 1854-1916
-tl2_page_id: 33266476
+tl2_bhl_page_id: 33266476
 author_lsid: 1236-1
 wikidata_id: Q5588809
 ipni_surname: Bryhn
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:28:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1236-1), [Wikidata](https://www.wikidata.org/wiki/Q5588809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1236-1) LSID 1236-1, [Wikidata](https://www.wikidata.org/wiki/Q5588809) QID Q5588809
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bryhn, Nils {std. Bryhn}|first entry]] for this author
 

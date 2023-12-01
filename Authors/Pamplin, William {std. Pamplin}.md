@@ -6,7 +6,7 @@ tl2_surname: Pamplin
 tl2_forenames: William
 tl2_name_abbrev: Pamplin
 tl2_dates: 1806-1899
-tl2_page_id: 33189473
+tl2_bhl_page_id: 33189473
 author_lsid: 7299-1
 wikidata_id: Q20734693
 ipni_surname: Pamplin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33189473) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7299-1), [Wikidata](https://www.wikidata.org/wiki/Q20734693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7299-1) LSID 7299-1, [Wikidata](https://www.wikidata.org/wiki/Q20734693) QID Q20734693
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Symington
 tl2_forenames: Colin Fraser
 tl2_name_abbrev: Symington
 tl2_dates: 1905-1943
-tl2_page_id: 33212180
+tl2_bhl_page_id: 33212180
 author_lsid: 10356-1
 wikidata_id: Q21341260
 ipni_surname: Symington
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:38:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10356-1), [Wikidata](https://www.wikidata.org/wiki/Q21341260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10356-1) LSID 10356-1, [Wikidata](https://www.wikidata.org/wiki/Q21341260) QID Q21341260
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

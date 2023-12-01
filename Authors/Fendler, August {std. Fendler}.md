@@ -6,7 +6,7 @@ tl2_surname: Fendler
 tl2_forenames: August
 tl2_name_abbrev: Fendler
 tl2_dates: 1813-1883
-tl2_page_id: 33120953
+tl2_bhl_page_id: 33120953
 author_lsid: 2679-1
 wikidata_id: Q216437
 ipni_surname: Fendler
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2679-1), [Wikidata](https://www.wikidata.org/wiki/Q216437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2679-1) LSID 2679-1, [Wikidata](https://www.wikidata.org/wiki/Q216437) QID Q216437
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

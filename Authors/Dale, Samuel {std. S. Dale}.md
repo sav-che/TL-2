@@ -6,7 +6,7 @@ tl2_surname: Dale
 tl2_forenames: Samuel
 tl2_name_abbrev: Dale
 tl2_dates: 1659-1739
-tl2_page_id: 33120721
+tl2_bhl_page_id: 33120721
 author_lsid: 1962-1
 wikidata_id: Q1538175
 ipni_surname: Dale
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1962-1), [Wikidata](https://www.wikidata.org/wiki/Q1538175). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1962-1) LSID 1962-1, [Wikidata](https://www.wikidata.org/wiki/Q1538175) QID Q1538175
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

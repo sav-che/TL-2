@@ -6,7 +6,7 @@ tl2_surname: Harris
 tl2_forenames: Wilson P(ark)
 tl2_name_abbrev: W. Harris
 tl2_dates: fl. 1904
-tl2_page_id: 33068301
+tl2_bhl_page_id: 33068301
 author_lsid: 3680-1
 wikidata_id: Q21515523
 ipni_surname: Harris
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33068301) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3680-1), [Wikidata](https://www.wikidata.org/wiki/Q21515523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3680-1) LSID 3680-1, [Wikidata](https://www.wikidata.org/wiki/Q21515523) QID Q21515523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

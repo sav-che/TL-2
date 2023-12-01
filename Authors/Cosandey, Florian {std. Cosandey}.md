@@ -6,7 +6,7 @@ tl2_surname: Cosandey
 tl2_forenames: Florian
 tl2_name_abbrev: Cosandey
 tl2_dates: 1897-x
-tl2_page_id: 33266064
+tl2_bhl_page_id: 33266064
 author_lsid: 32817-1
 wikidata_id: Q3074178
 ipni_surname: Cosandey
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32817-1), [Wikidata](https://www.wikidata.org/wiki/Q3074178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32817-1) LSID 32817-1, [Wikidata](https://www.wikidata.org/wiki/Q3074178) QID Q3074178
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

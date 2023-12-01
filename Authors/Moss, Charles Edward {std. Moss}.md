@@ -6,7 +6,7 @@ tl2_surname: Moss
 tl2_forenames: Charles Edward
 tl2_name_abbrev: Moss
 tl2_dates: 1870-1930
-tl2_page_id: 33355688
+tl2_bhl_page_id: 33355688
 author_lsid: 6698-1
 wikidata_id: Q5077291
 ipni_surname: Moss
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6698-1), [Wikidata](https://www.wikidata.org/wiki/Q5077291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6698-1) LSID 6698-1, [Wikidata](https://www.wikidata.org/wiki/Q5077291) QID Q5077291
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

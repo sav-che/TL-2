@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0654
 tl2_volume: vol2
 tl2_page_printed: 548
 tl2_surname: Kirchner
-tl2_forenames: [Emil Otto] Oskar
+tl2_forenames: (Emil Otto) Oskar
 tl2_name_abbrev: Kirchn.
 tl2_dates: 1851-1925
-tl2_page_id: 33068790
+tl2_bhl_page_id: 33068790
 author_lsid: 4804-1
 wikidata_id: Q104617
 ipni_surname: Kirchner
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33068790) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4804-1), [Wikidata](https://www.wikidata.org/wiki/Q104617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4804-1) LSID 4804-1, [Wikidata](https://www.wikidata.org/wiki/Q104617) QID Q104617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

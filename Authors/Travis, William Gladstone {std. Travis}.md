@@ -6,7 +6,7 @@ tl2_surname: Travis
 tl2_forenames: William Gladstone
 tl2_name_abbrev: Travis
 tl2_dates: 1877-1958
-tl2_page_id: 33212496
+tl2_bhl_page_id: 33212496
 author_lsid: 27892-1
 wikidata_id: Q21388474
 ipni_surname: Travis
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:48:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33212496) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27892-1), [Wikidata](https://www.wikidata.org/wiki/Q21388474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27892-1) LSID 27892-1, [Wikidata](https://www.wikidata.org/wiki/Q21388474) QID Q21388474
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

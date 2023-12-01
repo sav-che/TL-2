@@ -6,7 +6,7 @@ tl2_surname: Boerhaave
 tl2_forenames: Herman
 tl2_name_abbrev: Boerh.
 tl2_dates: 1668-1739
-tl2_page_id: 33120381
+tl2_bhl_page_id: 33120381
 author_lsid: 34740-1
 wikidata_id: Q313093
 ipni_surname: Boerhaave
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33120381) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/34740-1), [Wikidata](https://www.wikidata.org/wiki/Q313093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34740-1) LSID 34740-1, [Wikidata](https://www.wikidata.org/wiki/Q313093) QID Q313093
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

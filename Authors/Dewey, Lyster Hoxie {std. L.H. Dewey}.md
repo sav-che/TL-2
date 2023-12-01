@@ -6,7 +6,7 @@ tl2_surname: Dewey
 tl2_forenames: Lyster Hoxie
 tl2_name_abbrev: L.H. Dewey
 tl2_dates: 1865-1944
-tl2_page_id: 33259302
+tl2_bhl_page_id: 33259302
 author_lsid: 2178-1
 wikidata_id: Q577009
 ipni_surname: Dewey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259302) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2178-1), [Wikidata](https://www.wikidata.org/wiki/Q577009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2178-1) LSID 2178-1, [Wikidata](https://www.wikidata.org/wiki/Q577009) QID Q577009
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

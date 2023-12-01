@@ -6,7 +6,7 @@ tl2_surname: Miller
 tl2_forenames: Samuel A.
 tl2_name_abbrev: S. Mill.
 tl2_dates: 1837-1897
-tl2_page_id: 33355587
+tl2_bhl_page_id: 33355587
 author_lsid: 6487-1
 wikidata_id: Q20753166
 ipni_surname: Miller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33355587) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6487-1), [Wikidata](https://www.wikidata.org/wiki/Q20753166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6487-1) LSID 6487-1, [Wikidata](https://www.wikidata.org/wiki/Q20753166) QID Q20753166
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lehmann
 tl2_forenames: Johann Georg Christian
 tl2_name_abbrev: Lehm.
 tl2_dates: 1792-1860
-tl2_page_id: 33069061
+tl2_bhl_page_id: 33069061
 author_lsid: 5434-1
 wikidata_id: Q62981
 ipni_surname: Lehmann
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:49:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5434-1), [Wikidata](https://www.wikidata.org/wiki/Q62981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5434-1) LSID 5434-1, [Wikidata](https://www.wikidata.org/wiki/Q62981) QID Q62981
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

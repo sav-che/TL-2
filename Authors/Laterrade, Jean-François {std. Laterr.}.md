@@ -6,7 +6,7 @@ tl2_surname: Laterrade
 tl2_forenames: Jean-François
 tl2_name_abbrev: Laterr.
 tl2_dates: 1784-1858
-tl2_page_id: 33069005
+tl2_bhl_page_id: 33069005
 author_lsid: 5307-1
 wikidata_id: Q10988842
 ipni_surname: Laterrade
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5307-1), [Wikidata](https://www.wikidata.org/wiki/Q10988842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5307-1) LSID 5307-1, [Wikidata](https://www.wikidata.org/wiki/Q10988842) QID Q10988842
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

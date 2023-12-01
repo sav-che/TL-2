@@ -6,7 +6,7 @@ tl2_surname: Schütt
 tl2_forenames: Bruno
 tl2_name_abbrev: B. Schütt
 tl2_dates: 1876-1956
-tl2_page_id: 33333501
+tl2_bhl_page_id: 33333501
 author_lsid: 9282-1
 wikidata_id: Q9667736
 ipni_surname: Schütt
@@ -23,7 +23,8 @@ ipni_record_modified: 2017-11-16 13:29:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9282-1), [Wikidata](https://www.wikidata.org/wiki/Q9667736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9282-1) LSID 9282-1, [Wikidata](https://www.wikidata.org/wiki/Q9667736) QID Q9667736
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

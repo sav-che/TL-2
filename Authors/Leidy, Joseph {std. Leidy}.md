@@ -6,7 +6,7 @@ tl2_surname: Leidy
 tl2_forenames: Joseph
 tl2_name_abbrev: Leidy
 tl2_dates: 1823-1891
-tl2_page_id: 33069068
+tl2_bhl_page_id: 33069068
 author_lsid: 22209-1
 wikidata_id: Q461250
 ipni_surname: Leidy
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33069068) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22209-1), [Wikidata](https://www.wikidata.org/wiki/Q461250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22209-1) LSID 22209-1, [Wikidata](https://www.wikidata.org/wiki/Q461250) QID Q461250
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

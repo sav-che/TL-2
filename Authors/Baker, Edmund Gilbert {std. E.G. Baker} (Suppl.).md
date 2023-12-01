@@ -6,7 +6,7 @@ tl2_surname: Baker
 tl2_forenames: Edmund Gilbert
 tl2_name_abbrev: E.G. Baker
 tl2_dates: 1864-1949
-tl2_page_id: 33265002
+tl2_bhl_page_id: 33265002
 author_lsid: 404-1
 wikidata_id: Q4081202
 ipni_surname: Baker
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265002) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/404-1), [Wikidata](https://www.wikidata.org/wiki/Q4081202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/404-1) LSID 404-1, [Wikidata](https://www.wikidata.org/wiki/Q4081202) QID Q4081202
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baker, Edmund Gilbert {std. E.G. Baker}|first entry]] for this author
 

@@ -6,27 +6,31 @@ tl2_surname: Vaccari
 tl2_forenames: Antonio
 tl2_name_abbrev: A. Vacc
 tl2_dates: 1867-?
-tl2_page_id: 33212667
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33212667
+author_lsid: 11015-1
+wikidata_id: Q21611307
+ipni_surname: Vaccari
+ipni_forenames: Antonio
+ipni_standard_form: A.Vacc.
+ipni_dates: 1868-
+ipni_taxon_scope:
+- Botany
+- Bryophytes
+- Spermatophytes
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33212667) of TL-2 Vol. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11015-1) LSID 11015-1, [Wikidata](https://www.wikidata.org/wiki/Q21611307) QID Q21611307
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Vaccari, Antonio (1867-?), Italian botanist and naval physician; ultimately at Modena. 
-**Abbreviated name**: *A. Vacc*
+**Abbreviated name**: *A. Vacc* \[standard form in IPNI: *A.Vacc.*\]
 
 #### Herbarium and types
 

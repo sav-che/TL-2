@@ -6,7 +6,7 @@ tl2_surname: Rönn
 tl2_forenames: Hans Ludwig Karl
 tl2_name_abbrev: Rönn
 tl2_dates: 1886-?
-tl2_page_id: 33190321
+tl2_bhl_page_id: 33190321
 author_lsid: 8509-1
 wikidata_id: Q21607391
 ipni_surname: Rönn
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33190321) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8509-1), [Wikidata](https://www.wikidata.org/wiki/Q21607391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8509-1) LSID 8509-1, [Wikidata](https://www.wikidata.org/wiki/Q21607391) QID Q21607391
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

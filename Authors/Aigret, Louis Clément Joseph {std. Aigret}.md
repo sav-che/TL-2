@@ -6,7 +6,7 @@ tl2_surname: Aigret
 tl2_forenames: Louis Clément Joseph
 tl2_name_abbrev: Aigret
 tl2_dates: 1856-1921
-tl2_page_id: 33120155
+tl2_bhl_page_id: 33120155
 author_lsid: 105-1
 wikidata_id: Q10319910
 ipni_surname: Aigret
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33120155) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/105-1), [Wikidata](https://www.wikidata.org/wiki/Q10319910). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/105-1) LSID 105-1, [Wikidata](https://www.wikidata.org/wiki/Q10319910) QID Q10319910
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Aigret, (Louis) Clément (Joseph) {std. Aigret} (Suppl.)|second entry]] for this author
 

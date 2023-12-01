@@ -6,7 +6,7 @@ tl2_surname: Chaubard
 tl2_forenames: Louis Athanase (Anastase)
 tl2_name_abbrev: Chaub.
 tl2_dates: 1781-1854
-tl2_page_id: 33120619
+tl2_bhl_page_id: 33120619
 author_lsid: 17111-1
 wikidata_id: Q2355627
 ipni_surname: Chaubard
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:39:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33120619) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17111-1), [Wikidata](https://www.wikidata.org/wiki/Q2355627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17111-1) LSID 17111-1, [Wikidata](https://www.wikidata.org/wiki/Q2355627) QID Q2355627
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Suksdorf
 tl2_forenames: Wilhelm Nikolaus
 tl2_name_abbrev: Suksd.
 tl2_dates: 1850-1932
-tl2_page_id: 33212127
+tl2_bhl_page_id: 33212127
 author_lsid: 10288-1
 wikidata_id: Q3700186
 ipni_surname: Suksdorf
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10288-1), [Wikidata](https://www.wikidata.org/wiki/Q3700186). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10288-1) LSID 10288-1, [Wikidata](https://www.wikidata.org/wiki/Q3700186) QID Q3700186
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

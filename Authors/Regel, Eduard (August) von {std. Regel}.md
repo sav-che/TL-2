@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0662
 tl2_volume: vol4
 tl2_page_printed: 638
 tl2_surname: Regel
-tl2_forenames: Eduard [August] von
+tl2_forenames: Eduard (August) von
 tl2_name_abbrev: Regel
 tl2_dates: 1815-1892
-tl2_page_id: 33190109
+tl2_bhl_page_id: 33190109
 author_lsid: 8237-1
 wikidata_id: Q62989
 ipni_surname: Regel
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:49:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33190109) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8237-1), [Wikidata](https://www.wikidata.org/wiki/Q62989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8237-1) LSID 8237-1, [Wikidata](https://www.wikidata.org/wiki/Q62989) QID Q62989
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

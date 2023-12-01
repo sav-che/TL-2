@@ -6,7 +6,7 @@ tl2_surname: Parkinson
 tl2_forenames: Sydney
 tl2_name_abbrev: S. Parkinson
 tl2_dates: 1745-1771
-tl2_page_id: 33189534
+tl2_bhl_page_id: 33189534
 author_lsid: 7350-1
 wikidata_id: Q530787
 ipni_surname: Parkinson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33189534) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7350-1), [Wikidata](https://www.wikidata.org/wiki/Q530787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7350-1) LSID 7350-1, [Wikidata](https://www.wikidata.org/wiki/Q530787) QID Q530787
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

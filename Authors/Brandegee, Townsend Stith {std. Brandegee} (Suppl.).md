@@ -6,7 +6,7 @@ tl2_surname: Brandegee
 tl2_forenames: Townsend Stith
 tl2_name_abbrev: Brandegee
 tl2_dates: 1843-1925
-tl2_page_id: 33266317
+tl2_bhl_page_id: 33266317
 author_lsid: 1071-1
 wikidata_id: Q1002345
 ipni_surname: Brandegee
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33266317) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1071-1), [Wikidata](https://www.wikidata.org/wiki/Q1002345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1071-1) LSID 1071-1, [Wikidata](https://www.wikidata.org/wiki/Q1002345) QID Q1002345
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brandegee, Townsend Stith {std. Brandegee}|first entry]] for this author
 

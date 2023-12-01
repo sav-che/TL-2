@@ -6,7 +6,7 @@ tl2_surname: Soulsby
 tl2_forenames: Basil Harrington
 tl2_name_abbrev: Soulsby
 tl2_dates: 1864-1933
-tl2_page_id: 33333896
+tl2_bhl_page_id: 33333896
 author_lsid: 9921-1
 wikidata_id: Q2886799
 ipni_surname: Soulsby
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9921-1), [Wikidata](https://www.wikidata.org/wiki/Q2886799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9921-1) LSID 9921-1, [Wikidata](https://www.wikidata.org/wiki/Q2886799) QID Q2886799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

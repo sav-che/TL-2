@@ -6,7 +6,7 @@ tl2_surname: Range
 tl2_forenames: Paul Theodor
 tl2_name_abbrev: Range
 tl2_dates: 1879-1952
-tl2_page_id: 33190048
+tl2_bhl_page_id: 33190048
 author_lsid: 8136-1
 wikidata_id: Q21337932
 ipni_surname: Range
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8136-1), [Wikidata](https://www.wikidata.org/wiki/Q21337932). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8136-1) LSID 8136-1, [Wikidata](https://www.wikidata.org/wiki/Q21337932) QID Q21337932
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

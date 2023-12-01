@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl1_0149
 tl2_volume: suppl1
 tl2_page_printed: 118
-tl2_surname: Andrä [Andrae]
+tl2_surname: Andrä (Andrae)
 tl2_forenames: Carl Justus
 tl2_name_abbrev: Andrä
 tl2_dates: 1816-1885
-tl2_page_id: 33264845
+tl2_bhl_page_id: 33264845
 author_lsid: 12325-1
 wikidata_id: Q16487134
 ipni_surname: Andrae
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33264845) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/12325-1), [Wikidata](https://www.wikidata.org/wiki/Q16487134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12325-1) LSID 12325-1, [Wikidata](https://www.wikidata.org/wiki/Q16487134) QID Q16487134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Andrae, Carl Justus {std. Andrae}|first entry]] for this author
 

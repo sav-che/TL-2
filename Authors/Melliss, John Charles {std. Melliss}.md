@@ -6,7 +6,7 @@ tl2_surname: Melliss
 tl2_forenames: John Charles
 tl2_name_abbrev: Melliss
 tl2_dates: fl. 1863-1872
-tl2_page_id: 33355497
+tl2_bhl_page_id: 33355497
 author_lsid: 23243-1
 wikidata_id: Q1699596
 ipni_surname: Melliss
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23243-1), [Wikidata](https://www.wikidata.org/wiki/Q1699596). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23243-1) LSID 23243-1, [Wikidata](https://www.wikidata.org/wiki/Q1699596) QID Q1699596
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

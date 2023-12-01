@@ -6,7 +6,7 @@ tl2_surname: Mueller
 tl2_forenames: Anton
 tl2_name_abbrev: A. Muell.
 tl2_dates: 1798-1864
-tl2_page_id: 33355701
+tl2_bhl_page_id: 33355701
 author_lsid: 6729-1
 wikidata_id: Q21521832
 ipni_surname: Mueller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33355701) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6729-1), [Wikidata](https://www.wikidata.org/wiki/Q21521832). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6729-1) LSID 6729-1, [Wikidata](https://www.wikidata.org/wiki/Q21521832) QID Q21521832
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

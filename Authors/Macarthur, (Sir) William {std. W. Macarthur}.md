@@ -6,7 +6,7 @@ tl2_surname: Macarthur
 tl2_forenames: (Sir) William
 tl2_name_abbrev: W. Macarthur
 tl2_dates: 1800-1882
-tl2_page_id: 33355296
+tl2_bhl_page_id: 33355296
 author_lsid: 5886-1
 wikidata_id: Q8014978
 ipni_surname: Macarthur
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33355296) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5886-1), [Wikidata](https://www.wikidata.org/wiki/Q8014978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5886-1) LSID 5886-1, [Wikidata](https://www.wikidata.org/wiki/Q8014978) QID Q8014978
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

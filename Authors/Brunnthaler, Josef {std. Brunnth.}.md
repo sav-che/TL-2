@@ -6,7 +6,7 @@ tl2_surname: Brunnthaler
 tl2_forenames: Josef
 tl2_name_abbrev: Brunnthaler
 tl2_dates: 1871-1914
-tl2_page_id: 33120516
+tl2_bhl_page_id: 33120516
 author_lsid: 1231-1
 wikidata_id: Q6279727
 ipni_surname: Brunnthaler
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1231-1), [Wikidata](https://www.wikidata.org/wiki/Q6279727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1231-1) LSID 1231-1, [Wikidata](https://www.wikidata.org/wiki/Q6279727) QID Q6279727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brunnthaler, Josef {std. Brunnth.} (Suppl.)|second entry]] for this author
 

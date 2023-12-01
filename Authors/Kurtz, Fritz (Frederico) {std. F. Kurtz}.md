@@ -6,7 +6,7 @@ tl2_surname: Kurtz
 tl2_forenames: Fritz (Frederico)
 tl2_name_abbrev: F.Kurtz
 tl2_dates: 1854-1920
-tl2_page_id: 33068947
+tl2_bhl_page_id: 33068947
 author_lsid: 12635-1
 wikidata_id: Q5441024
 ipni_surname: Kurtz
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12635-1), [Wikidata](https://www.wikidata.org/wiki/Q5441024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12635-1) LSID 12635-1, [Wikidata](https://www.wikidata.org/wiki/Q5441024) QID Q5441024
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

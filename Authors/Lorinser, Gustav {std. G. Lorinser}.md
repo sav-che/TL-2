@@ -6,7 +6,7 @@ tl2_surname: Lorinser
 tl2_forenames: Gustav
 tl2_name_abbrev: G. Lorinser
 tl2_dates: 1811-1863
-tl2_page_id: 33355250
+tl2_bhl_page_id: 33355250
 author_lsid: 5760-1
 wikidata_id: Q1028890
 ipni_surname: Lorinser
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33355250) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5760-1), [Wikidata](https://www.wikidata.org/wiki/Q1028890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5760-1) LSID 5760-1, [Wikidata](https://www.wikidata.org/wiki/Q1028890) QID Q1028890
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

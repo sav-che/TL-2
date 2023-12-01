@@ -6,7 +6,7 @@ tl2_surname: Allamand
 tl2_forenames: Jean Frédéric François Louis
 tl2_name_abbrev: Allam.
 tl2_dates: 1735, 1736 (baptized) – c. 1803
-tl2_page_id: 33264794
+tl2_bhl_page_id: 33264794
 author_lsid: 139-1
 wikidata_id: Q115721
 ipni_surname: Allamand
@@ -24,7 +24,8 @@ ipni_record_modified: 2018-05-20 00:12:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/139-1), [Wikidata](https://www.wikidata.org/wiki/Q115721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/139-1) LSID 139-1, [Wikidata](https://www.wikidata.org/wiki/Q115721) QID Q115721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Allamand, Frédéric {std. Allam.}|first entry]] for this author
 

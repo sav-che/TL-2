@@ -6,7 +6,7 @@ tl2_surname: Baxter
 tl2_forenames: Edgar Martin
 tl2_name_abbrev: E.M. Baxter
 tl2_dates: 1903-1967
-tl2_page_id: 33265120
+tl2_bhl_page_id: 33265120
 author_lsid: 563-1
 wikidata_id: Q5817706
 ipni_surname: Baxter
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265120) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/563-1), [Wikidata](https://www.wikidata.org/wiki/Q5817706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/563-1) LSID 563-1, [Wikidata](https://www.wikidata.org/wiki/Q5817706) QID Q5817706
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wagener
 tl2_forenames: Philipp Christian
 tl2_name_abbrev: Wagener
 tl2_dates: fl. 1798
-tl2_page_id: 33066309
+tl2_bhl_page_id: 33066309
 author_lsid: 11296-1
 wikidata_id: Q33697967
 ipni_surname: Wagener
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33066309) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11296-1), [Wikidata](https://www.wikidata.org/wiki/Q33697967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11296-1) LSID 11296-1, [Wikidata](https://www.wikidata.org/wiki/Q33697967) QID Q33697967
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Jaroscz
 tl2_forenames: Franz Eduard Felix
 tl2_name_abbrev: Jaroscz
 tl2_dates: 1799-?
-tl2_page_id: 33068668
+tl2_bhl_page_id: 33068668
 author_lsid: 4435-1
 wikidata_id: Q21516950
 ipni_surname: Jaroscz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4435-1), [Wikidata](https://www.wikidata.org/wiki/Q21516950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4435-1) LSID 4435-1, [Wikidata](https://www.wikidata.org/wiki/Q21516950) QID Q21516950
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

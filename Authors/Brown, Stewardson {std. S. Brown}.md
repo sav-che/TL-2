@@ -6,7 +6,7 @@ tl2_surname: Brown
 tl2_forenames: Stewardson
 tl2_name_abbrev: S. Brown
 tl2_dates: 1867-1921
-tl2_page_id: 33120501
+tl2_bhl_page_id: 33120501
 author_lsid: 1198-1
 wikidata_id: Q6134299
 ipni_surname: Brown
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33120501) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1198-1), [Wikidata](https://www.wikidata.org/wiki/Q6134299). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1198-1) LSID 1198-1, [Wikidata](https://www.wikidata.org/wiki/Q6134299) QID Q6134299
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl6_0417
 tl2_volume: suppl6
 tl2_page_printed: 412
-tl2_surname: Espinosa [-Bustos]
+tl2_surname: Espinosa (-Bustos)
 tl2_forenames: Marcial R.
 tl2_name_abbrev: Espinosa
 tl2_dates: 1874-1959
-tl2_page_id: 33260400
+tl2_bhl_page_id: 33260400
 author_lsid: 18565-1
 wikidata_id: Q5996128
 ipni_surname: Espinosa Bustos
@@ -27,7 +27,8 @@ ipni_record_modified: 2006-12-12 08:54:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33260400) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18565-1), [Wikidata](https://www.wikidata.org/wiki/Q5996128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18565-1) LSID 18565-1, [Wikidata](https://www.wikidata.org/wiki/Q5996128) QID Q5996128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

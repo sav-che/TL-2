@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Eduard
 tl2_name_abbrev: Ed. Fischer
 tl2_dates: 1861-1939
-tl2_page_id: 33259709
+tl2_bhl_page_id: 33259709
 author_lsid: 2743-1
 wikidata_id: Q115780
 ipni_surname: Fischer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33259709) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2743-1), [Wikidata](https://www.wikidata.org/wiki/Q115780). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2743-1) LSID 2743-1, [Wikidata](https://www.wikidata.org/wiki/Q115780) QID Q115780
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fischer, Eduard {std. E. Fisch.}|first entry]] for this author
 

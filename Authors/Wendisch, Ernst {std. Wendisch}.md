@@ -6,7 +6,7 @@ tl2_surname: Wendisch
 tl2_forenames: Ernst
 tl2_name_abbrev: Wendisch
 tl2_dates: fl. 1892-1905
-tl2_page_id: 33066520
+tl2_bhl_page_id: 33066520
 author_lsid: 11545-1
 wikidata_id: Q36551500
 ipni_surname: Wendisch
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33066520) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11545-1), [Wikidata](https://www.wikidata.org/wiki/Q36551500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11545-1) LSID 11545-1, [Wikidata](https://www.wikidata.org/wiki/Q36551500) QID Q36551500
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

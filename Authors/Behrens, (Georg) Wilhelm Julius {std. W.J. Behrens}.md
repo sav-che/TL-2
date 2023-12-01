@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0048
 tl2_volume: suppl2
 tl2_page_printed: 53
 tl2_surname: Behrens
-tl2_forenames: [Georg] Wilhelm Julius
+tl2_forenames: (Georg) Wilhelm Julius
 tl2_name_abbrev: W.J. Behrens
 tl2_dates: 1854-1903
-tl2_page_id: 33265250
+tl2_bhl_page_id: 33265250
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33265250) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

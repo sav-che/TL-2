@@ -6,7 +6,7 @@ tl2_surname: Romell
 tl2_forenames: Lars
 tl2_name_abbrev: Romell
 tl2_dates: 1854-1927
-tl2_page_id: 33190347
+tl2_bhl_page_id: 33190347
 author_lsid: 8566-1
 wikidata_id: Q6077779
 ipni_surname: Romell
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33190347) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8566-1), [Wikidata](https://www.wikidata.org/wiki/Q6077779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8566-1) LSID 8566-1, [Wikidata](https://www.wikidata.org/wiki/Q6077779) QID Q6077779
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

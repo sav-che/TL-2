@@ -6,7 +6,7 @@ tl2_surname: Forssell
 tl2_forenames: Karl Bror Jacob
 tl2_name_abbrev: Forssell
 tl2_dates: 1856-1898
-tl2_page_id: 33120986
+tl2_bhl_page_id: 33120986
 author_lsid: 18904-1
 wikidata_id: Q5737641
 ipni_surname: Forssell
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18904-1), [Wikidata](https://www.wikidata.org/wiki/Q5737641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18904-1) LSID 18904-1, [Wikidata](https://www.wikidata.org/wiki/Q5737641) QID Q5737641
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Forssell, Karl (Carl) Bror Jakob {std. Forssell} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Hitchcock
 tl2_forenames: Albert Spear (né Jennings)
 tl2_name_abbrev: Hitchc
 tl2_dates: 1865-1935
-tl2_page_id: 33068454
+tl2_bhl_page_id: 33068454
 author_lsid: 12552-1
 wikidata_id: Q2063155
 ipni_surname: Hitchcock
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33068454) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12552-1), [Wikidata](https://www.wikidata.org/wiki/Q2063155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12552-1) LSID 12552-1, [Wikidata](https://www.wikidata.org/wiki/Q2063155) QID Q2063155
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

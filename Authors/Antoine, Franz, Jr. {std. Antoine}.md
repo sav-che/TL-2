@@ -6,7 +6,7 @@ tl2_surname: Antoine
 tl2_forenames: Franz, Jr.
 tl2_name_abbrev: Antoine
 tl2_dates: 1815-1886
-tl2_page_id: 33120185
+tl2_bhl_page_id: 33120185
 author_lsid: 236-1
 wikidata_id: Q113282
 ipni_surname: Antoine
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33120185) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/236-1), [Wikidata](https://www.wikidata.org/wiki/Q113282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/236-1) LSID 236-1, [Wikidata](https://www.wikidata.org/wiki/Q113282) QID Q113282
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Antoine, Franz Jr. {std. Antoine} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Pierce
 tl2_forenames: Newton Barris
 tl2_name_abbrev: N. Pierce
 tl2_dates: 1856-1916
-tl2_page_id: 33189729
+tl2_bhl_page_id: 33189729
 author_lsid: 24855-1
 wikidata_id: Q21522996
 ipni_surname: Pierce
@@ -24,7 +24,8 @@ ipni_record_modified: 2014-06-16 15:41:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24855-1), [Wikidata](https://www.wikidata.org/wiki/Q21522996). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24855-1) LSID 24855-1, [Wikidata](https://www.wikidata.org/wiki/Q21522996) QID Q21522996
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Don
 tl2_forenames: George (1798-1856)
 tl2_name_abbrev: G. Don
 tl2_dates: 1798-1856
-tl2_page_id: 33120800
+tl2_bhl_page_id: 33120800
 author_lsid: 2268-1
 wikidata_id: Q1381245
 ipni_surname: Don
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33120800) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2268-1), [Wikidata](https://www.wikidata.org/wiki/Q1381245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2268-1) LSID 2268-1, [Wikidata](https://www.wikidata.org/wiki/Q1381245) QID Q1381245
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Don, George {std. G. Don} (Suppl.)|second entry]] for this author
 

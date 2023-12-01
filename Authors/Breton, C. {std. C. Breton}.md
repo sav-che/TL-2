@@ -6,7 +6,7 @@ tl2_surname: Breton
 tl2_forenames: C.
 tl2_name_abbrev: C. Breton
 tl2_dates: fl. 1890-1900
-tl2_page_id: 33266376
+tl2_bhl_page_id: 33266376
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33266376) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

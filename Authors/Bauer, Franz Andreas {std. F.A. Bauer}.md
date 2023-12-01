@@ -6,7 +6,7 @@ tl2_surname: Bauer
 tl2_forenames: Franz Andreas
 tl2_name_abbrev: F.A. Bauer
 tl2_dates: 1758-1840
-tl2_page_id: 33120277
+tl2_bhl_page_id: 33120277
 author_lsid: 552-1
 wikidata_id: Q938823
 ipni_surname: Bauer
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33120277) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/552-1), [Wikidata](https://www.wikidata.org/wiki/Q938823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/552-1) LSID 552-1, [Wikidata](https://www.wikidata.org/wiki/Q938823) QID Q938823
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bauer, Franz Andreas {std. F.A. Bauer} (Suppl.)|second entry]] for this author
 

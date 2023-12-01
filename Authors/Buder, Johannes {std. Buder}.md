@@ -6,7 +6,7 @@ tl2_surname: Buder
 tl2_forenames: Johannes
 tl2_name_abbrev: Buder
 tl2_dates: 1884-1966
-tl2_page_id: 33266512
+tl2_bhl_page_id: 33266512
 author_lsid: 32580-1
 wikidata_id: Q99587
 ipni_surname: Buder
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/32580-1), [Wikidata](https://www.wikidata.org/wiki/Q99587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32580-1) LSID 32580-1, [Wikidata](https://www.wikidata.org/wiki/Q99587) QID Q99587
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

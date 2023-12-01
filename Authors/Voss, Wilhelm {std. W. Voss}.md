@@ -6,7 +6,7 @@ tl2_surname: Voss
 tl2_forenames: Wilhelm
 tl2_name_abbrev: W. Voss
 tl2_dates: 1849-1895
-tl2_page_id: 33212826
+tl2_bhl_page_id: 33212826
 author_lsid: 11270-1
 wikidata_id: Q21611900
 ipni_surname: Voss
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33212826) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11270-1), [Wikidata](https://www.wikidata.org/wiki/Q21611900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11270-1) LSID 11270-1, [Wikidata](https://www.wikidata.org/wiki/Q21611900) QID Q21611900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

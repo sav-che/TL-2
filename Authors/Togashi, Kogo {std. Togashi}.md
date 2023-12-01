@@ -6,7 +6,7 @@ tl2_surname: Togashi
 tl2_forenames: Kogo
 tl2_name_abbrev: Togashi
 tl2_dates: 1895-1952
-tl2_page_id: 33212426
+tl2_bhl_page_id: 33212426
 author_lsid: 10712-1
 wikidata_id: Q21610822
 ipni_surname: Togashi
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10712-1), [Wikidata](https://www.wikidata.org/wiki/Q21610822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10712-1) LSID 10712-1, [Wikidata](https://www.wikidata.org/wiki/Q21610822) QID Q21610822
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

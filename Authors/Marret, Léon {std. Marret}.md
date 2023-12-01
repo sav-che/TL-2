@@ -6,7 +6,7 @@ tl2_surname: Marret
 tl2_forenames: Léon
 tl2_name_abbrev: Marret
 tl2_dates: fl. 1900-1929
-tl2_page_id: 33355391
+tl2_bhl_page_id: 33355391
 author_lsid: 6128-1
 wikidata_id: Q36615337
 ipni_surname: Marret
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33355391) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6128-1), [Wikidata](https://www.wikidata.org/wiki/Q36615337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6128-1) LSID 6128-1, [Wikidata](https://www.wikidata.org/wiki/Q36615337) QID Q36615337
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

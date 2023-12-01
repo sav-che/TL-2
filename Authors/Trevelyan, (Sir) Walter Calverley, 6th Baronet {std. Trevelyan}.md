@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0486
 tl2_volume: vol6
 tl2_page_printed: 474
 tl2_surname: Trevelyan
-tl2_forenames: [Sir] Walter Calverley, 6th Baronet
+tl2_forenames: (Sir) Walter Calverley, 6th Baronet
 tl2_name_abbrev: Trevelyan
 tl2_dates: 1797-1879
-tl2_page_id: 33212516
+tl2_bhl_page_id: 33212516
 author_lsid: 12946-1
 wikidata_id: Q7964493
 ipni_surname: Trevelyan
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12946-1), [Wikidata](https://www.wikidata.org/wiki/Q7964493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12946-1) LSID 12946-1, [Wikidata](https://www.wikidata.org/wiki/Q7964493) QID Q7964493
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

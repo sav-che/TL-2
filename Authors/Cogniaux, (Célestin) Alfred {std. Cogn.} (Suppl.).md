@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0188
 tl2_volume: suppl4
 tl2_page_printed: 248
 tl2_surname: Cogniaux
-tl2_forenames: [Célestin] Alfred
+tl2_forenames: (Célestin) Alfred
 tl2_name_abbrev: Cogn.
 tl2_dates: 1841-1916
-tl2_page_id: 33265925
+tl2_bhl_page_id: 33265925
 author_lsid: 1722-1
 wikidata_id: Q655719
 ipni_surname: Cogniaux
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-08-11 09:48:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33265925) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1722-1), [Wikidata](https://www.wikidata.org/wiki/Q655719). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1722-1) LSID 1722-1, [Wikidata](https://www.wikidata.org/wiki/Q655719) QID Q655719
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cogniaux, Célestin Alfred {std. Cogn.}|first entry]] for this author
 

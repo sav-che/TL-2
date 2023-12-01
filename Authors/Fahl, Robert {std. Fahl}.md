@@ -6,7 +6,7 @@ tl2_surname: Fahl
 tl2_forenames: Robert
 tl2_name_abbrev: Fahl
 tl2_dates: 1878-x
-tl2_page_id: 33259519
+tl2_bhl_page_id: 33259519
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33259519) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

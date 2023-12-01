@@ -6,7 +6,7 @@ tl2_surname: Müller
 tl2_forenames: E. G. Otto
 tl2_name_abbrev: E.G.O. Müll.
 tl2_dates: 1857-?
-tl2_page_id: 33355702
+tl2_bhl_page_id: 33355702
 author_lsid: 6731-1
 wikidata_id: Q21521862
 ipni_surname: Müller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33355702) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6731-1), [Wikidata](https://www.wikidata.org/wiki/Q21521862). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6731-1) LSID 6731-1, [Wikidata](https://www.wikidata.org/wiki/Q21521862) QID Q21521862
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

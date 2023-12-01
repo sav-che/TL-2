@@ -6,7 +6,7 @@ tl2_surname: Dinsmore
 tl2_forenames: John Edward
 tl2_name_abbrev: Dinsm.
 tl2_dates: 1862-1951
-tl2_page_id: 33259392
+tl2_bhl_page_id: 33259392
 author_lsid: 2223-1
 wikidata_id: Q20389757
 ipni_surname: Dinsmore
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33259392) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2223-1), [Wikidata](https://www.wikidata.org/wiki/Q20389757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2223-1) LSID 2223-1, [Wikidata](https://www.wikidata.org/wiki/Q20389757) QID Q20389757
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

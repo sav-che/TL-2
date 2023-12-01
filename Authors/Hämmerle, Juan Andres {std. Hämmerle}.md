@@ -6,7 +6,7 @@ tl2_surname: Hämmerle
 tl2_forenames: Juan Andres
 tl2_name_abbrev: Hämmerle
 tl2_dates: 1876-1930
-tl2_page_id: 33068248
+tl2_bhl_page_id: 33068248
 author_lsid: 3534-1
 wikidata_id: Q21514599
 ipni_surname: Hämmerle
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3534-1), [Wikidata](https://www.wikidata.org/wiki/Q21514599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3534-1) LSID 3534-1, [Wikidata](https://www.wikidata.org/wiki/Q21514599) QID Q21514599
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

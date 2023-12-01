@@ -6,7 +6,7 @@ tl2_surname: Gloxin
 tl2_forenames: Benjamin Peter
 tl2_name_abbrev: Gloxin
 tl2_dates: fl. 1785
-tl2_page_id: 33121085
+tl2_bhl_page_id: 33121085
 author_lsid: 3200-1
 wikidata_id: Q86273
 ipni_surname: Gloxin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3200-1), [Wikidata](https://www.wikidata.org/wiki/Q86273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3200-1) LSID 3200-1, [Wikidata](https://www.wikidata.org/wiki/Q86273) QID Q86273
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

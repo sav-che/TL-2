@@ -6,7 +6,7 @@ tl2_surname: Krauss
 tl2_forenames: Johan Carl
 tl2_name_abbrev: J. Krauss
 tl2_dates: 1759-1826
-tl2_page_id: 33068911
+tl2_bhl_page_id: 33068911
 author_lsid: 5049-1
 wikidata_id: Q18986337
 ipni_surname: Krauss
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5049-1), [Wikidata](https://www.wikidata.org/wiki/Q18986337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5049-1) LSID 5049-1, [Wikidata](https://www.wikidata.org/wiki/Q18986337) QID Q18986337
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

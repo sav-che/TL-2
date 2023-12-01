@@ -6,7 +6,7 @@ tl2_surname: Plowright
 tl2_forenames: Charles Bagge
 tl2_name_abbrev: Plowr.
 tl2_dates: 1849-1910
-tl2_page_id: 33189768
+tl2_bhl_page_id: 33189768
 author_lsid: 24920-1
 wikidata_id: Q5075359
 ipni_surname: Plowright
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24920-1), [Wikidata](https://www.wikidata.org/wiki/Q5075359). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24920-1) LSID 24920-1, [Wikidata](https://www.wikidata.org/wiki/Q5075359) QID Q5075359
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

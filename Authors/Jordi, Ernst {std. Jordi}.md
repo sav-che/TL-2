@@ -6,7 +6,7 @@ tl2_surname: Jordi
 tl2_forenames: Ernst
 tl2_name_abbrev: Jordi
 tl2_dates: 1899-1933
-tl2_page_id: 33068705
+tl2_bhl_page_id: 33068705
 author_lsid: 4553-1
 wikidata_id: Q21517139
 ipni_surname: Jordi
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4553-1), [Wikidata](https://www.wikidata.org/wiki/Q21517139). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4553-1) LSID 4553-1, [Wikidata](https://www.wikidata.org/wiki/Q21517139) QID Q21517139
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0323
 tl2_volume: vol3
 tl2_page_printed: 286
 tl2_surname: Marcgrave
-tl2_forenames: Georg [Marggraf, Marcgraf, Marcgravius]
+tl2_forenames: Georg (Marggraf, Marcgraf, Marcgravius)
 tl2_name_abbrev: Marcgr.
 tl2_dates: 1610-1644
-tl2_page_id: 33355373
+tl2_bhl_page_id: 33355373
 author_lsid: 6086-1
 wikidata_id: Q64016
 ipni_surname: Marcgrave
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33355373) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6086-1), [Wikidata](https://www.wikidata.org/wiki/Q64016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6086-1) LSID 6086-1, [Wikidata](https://www.wikidata.org/wiki/Q64016) QID Q64016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

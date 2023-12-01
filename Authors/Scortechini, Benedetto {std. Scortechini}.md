@@ -6,7 +6,7 @@ tl2_surname: Scortechini
 tl2_forenames: Benedetto
 tl2_name_abbrev: Scortechini
 tl2_dates: 1845-1886
-tl2_page_id: 33333595
+tl2_bhl_page_id: 33333595
 author_lsid: 9386-1
 wikidata_id: Q5725585
 ipni_surname: Scortechini
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33333595) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9386-1), [Wikidata](https://www.wikidata.org/wiki/Q5725585). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9386-1) LSID 9386-1, [Wikidata](https://www.wikidata.org/wiki/Q5725585) QID Q5725585
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

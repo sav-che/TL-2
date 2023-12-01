@@ -6,7 +6,7 @@ tl2_surname: Quesné
 tl2_forenames: François Alexandre
 tl2_name_abbrev: Quesné
 tl2_dates: 1742-1820
-tl2_page_id: 33189927
+tl2_bhl_page_id: 33189927
 author_lsid: 8052-1
 wikidata_id: Q21606806
 ipni_surname: Quesné
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8052-1), [Wikidata](https://www.wikidata.org/wiki/Q21606806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8052-1) LSID 8052-1, [Wikidata](https://www.wikidata.org/wiki/Q21606806) QID Q21606806
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

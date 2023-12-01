@@ -6,7 +6,7 @@ tl2_surname: Thom
 tl2_forenames: Charles
 tl2_name_abbrev: Thom
 tl2_dates: 1872-1956
-tl2_page_id: 33212310
+tl2_bhl_page_id: 33212310
 author_lsid: 27673-1
 wikidata_id: Q2960311
 ipni_surname: Thom
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33212310) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27673-1), [Wikidata](https://www.wikidata.org/wiki/Q2960311). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27673-1) LSID 27673-1, [Wikidata](https://www.wikidata.org/wiki/Q2960311) QID Q2960311
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

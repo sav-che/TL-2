@@ -6,7 +6,7 @@ tl2_surname: Lippmaa
 tl2_forenames: Teodor (until 1924 Lipman)
 tl2_name_abbrev: Lippmaa
 tl2_dates: 1892-1943
-tl2_page_id: 33355203
+tl2_bhl_page_id: 33355203
 author_lsid: 12654-1
 wikidata_id: Q3736167
 ipni_surname: Lippmaa
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33355203) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12654-1), [Wikidata](https://www.wikidata.org/wiki/Q3736167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12654-1) LSID 12654-1, [Wikidata](https://www.wikidata.org/wiki/Q3736167) QID Q3736167
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

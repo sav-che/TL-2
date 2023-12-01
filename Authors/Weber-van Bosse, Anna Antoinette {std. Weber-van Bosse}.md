@@ -6,7 +6,7 @@ tl2_surname: Weber-van Bosse
 tl2_forenames: Anna Antoinette
 tl2_name_abbrev: Weber-van Bosse
 tl2_dates: 1852-1942
-tl2_page_id: 33066471
+tl2_bhl_page_id: 33066471
 author_lsid: 11476-1
 wikidata_id: Q1940785
 ipni_surname: Weber-van Bosse
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33066471) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11476-1), [Wikidata](https://www.wikidata.org/wiki/Q1940785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11476-1) LSID 11476-1, [Wikidata](https://www.wikidata.org/wiki/Q1940785) QID Q1940785
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

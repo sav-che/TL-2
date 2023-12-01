@@ -6,7 +6,7 @@ tl2_surname: Pickett
 tl2_forenames: Fermen Layton
 tl2_name_abbrev: Pickett
 tl2_dates: 1881-1940
-tl2_page_id: 33189726
+tl2_bhl_page_id: 33189726
 author_lsid: 7674-1
 wikidata_id: Q2404921
 ipni_surname: Pickett
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33189726) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7674-1), [Wikidata](https://www.wikidata.org/wiki/Q2404921). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7674-1) LSID 7674-1, [Wikidata](https://www.wikidata.org/wiki/Q2404921) QID Q2404921
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

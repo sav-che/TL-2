@@ -6,7 +6,7 @@ tl2_surname: Cramer
 tl2_forenames: Carl Eduard
 tl2_name_abbrev: C.E. Cramer
 tl2_dates: 1832-1901
-tl2_page_id: 33266119
+tl2_bhl_page_id: 33266119
 author_lsid: 1860-1
 wikidata_id: Q2624664
 ipni_surname: Cramer
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266119) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1860-1), [Wikidata](https://www.wikidata.org/wiki/Q2624664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1860-1) LSID 1860-1, [Wikidata](https://www.wikidata.org/wiki/Q2624664) QID Q2624664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cramer, Carl Eduard {std. C.E. Cramer}|first entry]] for this author
 

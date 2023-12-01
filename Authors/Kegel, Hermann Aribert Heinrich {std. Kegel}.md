@@ -6,7 +6,7 @@ tl2_surname: Kegel
 tl2_forenames: Hermann Aribert Heinrich
 tl2_name_abbrev: Kegel
 tl2_dates: 1819-1856
-tl2_page_id: 33068755
+tl2_bhl_page_id: 33068755
 author_lsid: 4696-1
 wikidata_id: Q21517387
 ipni_surname: Kegel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4696-1), [Wikidata](https://www.wikidata.org/wiki/Q21517387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4696-1) LSID 4696-1, [Wikidata](https://www.wikidata.org/wiki/Q21517387) QID Q21517387
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

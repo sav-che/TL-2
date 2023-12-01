@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0005
 tl2_volume: suppl7
 tl2_page_printed: 8
 tl2_surname: Fabricius
-tl2_forenames: Philipp Conrad [Konrad]
+tl2_forenames: Philipp Conrad (Konrad)
 tl2_name_abbrev: Fabr.
 tl2_dates: 1714-1774
-tl2_page_id: 33259512
+tl2_bhl_page_id: 33259512
 author_lsid: 2614-1
 wikidata_id: Q3817423
 ipni_surname: Fabricius
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33259512) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2614-1), [Wikidata](https://www.wikidata.org/wiki/Q3817423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2614-1) LSID 2614-1, [Wikidata](https://www.wikidata.org/wiki/Q3817423) QID Q3817423
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fabricius, Philipp Conrad {std. Fabr.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Chamberlain
 tl2_forenames: Charles Joseph
 tl2_name_abbrev: Chamb.
 tl2_dates: 1863-1943
-tl2_page_id: 33265719
+tl2_bhl_page_id: 33265719
 author_lsid: 13908-1
 wikidata_id: Q5079608
 ipni_surname: Chamberlain
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265719) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13908-1), [Wikidata](https://www.wikidata.org/wiki/Q5079608). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13908-1) LSID 13908-1, [Wikidata](https://www.wikidata.org/wiki/Q5079608) QID Q5079608
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

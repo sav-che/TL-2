@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0032
 tl2_volume: suppl8
 tl2_page_printed: 52
 tl2_surname: Fritsch
-tl2_forenames: Karl [Carl]
+tl2_forenames: Karl (Carl)
 tl2_name_abbrev: Fritsch
 tl2_dates: 1864-1934
-tl2_page_id: 33258492
+tl2_bhl_page_id: 33258492
 author_lsid: 2924-1
 wikidata_id: Q78835
 ipni_surname: Fritsch
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33258492) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2924-1), [Wikidata](https://www.wikidata.org/wiki/Q78835). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2924-1) LSID 2924-1, [Wikidata](https://www.wikidata.org/wiki/Q78835) QID Q78835
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fritsch, Karl, Jr. {std. Fritsch}|first entry]] for this author
 

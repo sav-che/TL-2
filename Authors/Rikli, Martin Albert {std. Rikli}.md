@@ -6,7 +6,7 @@ tl2_surname: Rikli
 tl2_forenames: Martin Albert
 tl2_name_abbrev: Rikli
 tl2_dates: 1868-1951
-tl2_page_id: 33190263
+tl2_bhl_page_id: 33190263
 author_lsid: 8396-1
 wikidata_id: Q6002235
 ipni_surname: Rikli
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33190263) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8396-1), [Wikidata](https://www.wikidata.org/wiki/Q6002235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8396-1) LSID 8396-1, [Wikidata](https://www.wikidata.org/wiki/Q6002235) QID Q6002235
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

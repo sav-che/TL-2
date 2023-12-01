@@ -6,7 +6,7 @@ tl2_surname: Munting
 tl2_forenames: Abraham
 tl2_name_abbrev: Munting
 tl2_dates: 1626-1683
-tl2_page_id: 33355748
+tl2_bhl_page_id: 33355748
 author_lsid: 6786-1
 wikidata_id: Q330422
 ipni_surname: Munting
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33355748) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6786-1), [Wikidata](https://www.wikidata.org/wiki/Q330422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6786-1) LSID 6786-1, [Wikidata](https://www.wikidata.org/wiki/Q330422) QID Q330422
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

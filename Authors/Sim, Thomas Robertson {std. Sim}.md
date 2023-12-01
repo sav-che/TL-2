@@ -6,7 +6,7 @@ tl2_surname: Sim
 tl2_forenames: Thomas Robertson
 tl2_name_abbrev: Sim
 tl2_dates: 1856-1938
-tl2_page_id: 33333741
+tl2_bhl_page_id: 33333741
 author_lsid: 26761-1
 wikidata_id: Q7793599
 ipni_surname: Sim
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:34:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26761-1), [Wikidata](https://www.wikidata.org/wiki/Q7793599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26761-1) LSID 26761-1, [Wikidata](https://www.wikidata.org/wiki/Q7793599) QID Q7793599
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

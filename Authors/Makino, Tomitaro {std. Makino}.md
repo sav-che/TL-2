@@ -6,7 +6,7 @@ tl2_surname: Makino
 tl2_forenames: Tomitaro
 tl2_name_abbrev: Makino
 tl2_dates: 1862-1957
-tl2_page_id: 33355348
+tl2_bhl_page_id: 33355348
 author_lsid: 6013-1
 wikidata_id: Q729955
 ipni_surname: Makino
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33355348) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6013-1), [Wikidata](https://www.wikidata.org/wiki/Q729955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6013-1) LSID 6013-1, [Wikidata](https://www.wikidata.org/wiki/Q729955) QID Q729955
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

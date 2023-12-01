@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0443
 tl2_volume: vol5
 tl2_page_printed: 468
 tl2_surname: Sebeòk
-tl2_forenames: Alexander [Sándor], de Szent-Miklòs
+tl2_forenames: Alexander (Sándor), de Szent-Miklòs
 tl2_name_abbrev: Sebeòk
 tl2_dates: fl. 1981
-tl2_page_id: 33333607
+tl2_bhl_page_id: 33333607
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33333607) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

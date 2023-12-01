@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0122
 tl2_volume: suppl4
 tl2_page_printed: 170
 tl2_surname: Church
-tl2_forenames: Arthur Henry [Harry]
+tl2_forenames: Arthur Henry (Harry)
 tl2_name_abbrev: Church
 tl2_dates: 1865-1937
-tl2_page_id: 33265847
+tl2_bhl_page_id: 33265847
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33265847) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wooster
 tl2_forenames: David
 tl2_name_abbrev: Wooster
 tl2_dates: ca. 1824-1888
-tl2_page_id: 33066792
+tl2_bhl_page_id: 33066792
 author_lsid: 12445-1
 wikidata_id: Q21513419
 ipni_surname: Wooster
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33066792) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12445-1), [Wikidata](https://www.wikidata.org/wiki/Q21513419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12445-1) LSID 12445-1, [Wikidata](https://www.wikidata.org/wiki/Q21513419) QID Q21513419
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

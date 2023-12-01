@@ -6,7 +6,7 @@ tl2_surname: Passerini
 tl2_forenames: Giovanni
 tl2_name_abbrev: Pass.
 tl2_dates: 1816-1893
-tl2_page_id: 33189562
+tl2_bhl_page_id: 33189562
 author_lsid: 24590-1
 wikidata_id: Q2084039
 ipni_surname: Passerini
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:40:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33189562) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24590-1), [Wikidata](https://www.wikidata.org/wiki/Q2084039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24590-1) LSID 24590-1, [Wikidata](https://www.wikidata.org/wiki/Q2084039) QID Q2084039
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0039
 tl2_volume: vol2
 tl2_page_printed: 32
 tl2_surname: Hallier
-tl2_forenames: Hans [Johannes] Gottfried
+tl2_forenames: Hans (Johannes) Gottfried
 tl2_name_abbrev: H. Hallier
 tl2_dates: 1868-1932
-tl2_page_id: 33068274
+tl2_bhl_page_id: 33068274
 author_lsid: 13068-1
 wikidata_id: Q75908
 ipni_surname: Hallier
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:32:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33068274) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/13068-1), [Wikidata](https://www.wikidata.org/wiki/Q75908). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13068-1) LSID 13068-1, [Wikidata](https://www.wikidata.org/wiki/Q75908) QID Q75908
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

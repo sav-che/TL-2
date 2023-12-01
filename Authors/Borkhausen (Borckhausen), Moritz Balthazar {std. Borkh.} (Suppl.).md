@@ -6,7 +6,7 @@ tl2_surname: Borkhausen (Borckhausen)
 tl2_forenames: Moritz Balthazar
 tl2_name_abbrev: Borkh.
 tl2_dates: 1760-1806
-tl2_page_id: 33265537
+tl2_bhl_page_id: 33265537
 author_lsid: 16350-1
 wikidata_id: Q63324
 ipni_surname: Borkhausen
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265537) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16350-1), [Wikidata](https://www.wikidata.org/wiki/Q63324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16350-1) LSID 16350-1, [Wikidata](https://www.wikidata.org/wiki/Q63324) QID Q63324
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Borkhausen, Moriz Balthasar {std. Borkh.}|first entry]] for this author
 

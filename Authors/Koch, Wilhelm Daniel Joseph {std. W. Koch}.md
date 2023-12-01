@@ -6,7 +6,7 @@ tl2_surname: Koch
 tl2_forenames: Wilhelm Daniel Joseph
 tl2_name_abbrev: W. Koch
 tl2_dates: 1771-1849
-tl2_page_id: 33068833
+tl2_bhl_page_id: 33068833
 author_lsid: 21570-1
 wikidata_id: Q63388
 ipni_surname: Koch
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:39:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33068833) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21570-1), [Wikidata](https://www.wikidata.org/wiki/Q63388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21570-1) LSID 21570-1, [Wikidata](https://www.wikidata.org/wiki/Q63388) QID Q63388
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

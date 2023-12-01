@@ -6,7 +6,7 @@ tl2_surname: Krüger
 tl2_forenames: Ernst
 tl2_name_abbrev: E. Krüger
 tl2_dates: 1860-1942
-tl2_page_id: 33068922
+tl2_bhl_page_id: 33068922
 author_lsid: 5082-1
 wikidata_id: Q21517959
 ipni_surname: Krüger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5082-1), [Wikidata](https://www.wikidata.org/wiki/Q21517959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5082-1) LSID 5082-1, [Wikidata](https://www.wikidata.org/wiki/Q21517959) QID Q21517959
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

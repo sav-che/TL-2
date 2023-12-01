@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0721
 tl2_volume: vol6
 tl2_page_printed: 739
 tl2_surname: Villars
-tl2_forenames: Dominique [until 1785 Villar]
+tl2_forenames: Dominique (until 1785 Villar)
 tl2_name_abbrev: Vill.
 tl2_dates: 1745-1814
-tl2_page_id: 33212781
+tl2_bhl_page_id: 33212781
 author_lsid: 28378-1
 wikidata_id: Q680612
 ipni_surname: Villars
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33212781) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/28378-1), [Wikidata](https://www.wikidata.org/wiki/Q680612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28378-1) LSID 28378-1, [Wikidata](https://www.wikidata.org/wiki/Q680612) QID Q680612
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

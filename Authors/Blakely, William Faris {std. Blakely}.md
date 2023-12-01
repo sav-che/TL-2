@@ -6,7 +6,7 @@ tl2_surname: Blakely
 tl2_forenames: William Faris
 tl2_name_abbrev: Blakely
 tl2_dates: 1875-1941
-tl2_page_id: 33265393
+tl2_bhl_page_id: 33265393
 author_lsid: 840-1
 wikidata_id: Q8005619
 ipni_surname: Blakely
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33265393) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/840-1), [Wikidata](https://www.wikidata.org/wiki/Q8005619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/840-1) LSID 840-1, [Wikidata](https://www.wikidata.org/wiki/Q8005619) QID Q8005619
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Filarszky
 tl2_forenames: Nándor (a.k.a. Ferdinand)
 tl2_name_abbrev: Fil.
 tl2_dates: 1858-1941
-tl2_page_id: 33259685
+tl2_bhl_page_id: 33259685
 author_lsid: 2725-1
 wikidata_id: Q979863
 ipni_surname: Filarszky
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259685) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2725-1), [Wikidata](https://www.wikidata.org/wiki/Q979863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2725-1) LSID 2725-1, [Wikidata](https://www.wikidata.org/wiki/Q979863) QID Q979863
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Filarszky, Nandor {std. Fil.}|first entry]] for this author
 

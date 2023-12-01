@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0104
 tl2_volume: vol2
 tl2_page_printed: 90
 tl2_surname: Harz
-tl2_forenames: Carl [Karl] Otto
+tl2_forenames: Carl (Karl) Otto
 tl2_name_abbrev: C. Harz
 tl2_dates: 1842-1906
-tl2_page_id: 33068332
+tl2_bhl_page_id: 33068332
 author_lsid: 3708-1
 wikidata_id: Q104943
 ipni_surname: Harz
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3708-1), [Wikidata](https://www.wikidata.org/wiki/Q104943). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3708-1) LSID 3708-1, [Wikidata](https://www.wikidata.org/wiki/Q104943) QID Q104943
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

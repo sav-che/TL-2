@@ -6,7 +6,7 @@ tl2_surname: Meylan
 tl2_forenames: Charles
 tl2_name_abbrev: Meyl.
 tl2_dates: 1868-1941
-tl2_page_id: 33355537
+tl2_bhl_page_id: 33355537
 author_lsid: 23332-1
 wikidata_id: Q16027649
 ipni_surname: Meylan
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23332-1), [Wikidata](https://www.wikidata.org/wiki/Q16027649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23332-1) LSID 23332-1, [Wikidata](https://www.wikidata.org/wiki/Q16027649) QID Q16027649
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

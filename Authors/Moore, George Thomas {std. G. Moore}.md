@@ -6,7 +6,7 @@ tl2_surname: Moore
 tl2_forenames: George Thomas
 tl2_name_abbrev: G. Moore
 tl2_dates: 1871-1956
-tl2_page_id: 33355656
+tl2_bhl_page_id: 33355656
 author_lsid: 6617-1
 wikidata_id: Q929387
 ipni_surname: Moore
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33355656) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6617-1), [Wikidata](https://www.wikidata.org/wiki/Q929387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6617-1) LSID 6617-1, [Wikidata](https://www.wikidata.org/wiki/Q929387) QID Q929387
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

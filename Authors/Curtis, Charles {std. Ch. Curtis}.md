@@ -6,7 +6,7 @@ tl2_surname: Curtis
 tl2_forenames: Charles
 tl2_name_abbrev: Ch. Curtis
 tl2_dates: 1853-1928
-tl2_page_id: 33266191
+tl2_bhl_page_id: 33266191
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33266191) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

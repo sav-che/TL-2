@@ -6,7 +6,7 @@ tl2_surname: Norén
 tl2_forenames: Carl Otto Gustaf
 tl2_name_abbrev: Norén
 tl2_dates: 1876-1914
-tl2_page_id: 33355857
+tl2_bhl_page_id: 33355857
 author_lsid: 7031-1
 wikidata_id: Q21522229
 ipni_surname: Norén
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7031-1), [Wikidata](https://www.wikidata.org/wiki/Q21522229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7031-1) LSID 7031-1, [Wikidata](https://www.wikidata.org/wiki/Q21522229) QID Q21522229
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

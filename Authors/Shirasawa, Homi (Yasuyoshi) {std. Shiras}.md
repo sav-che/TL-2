@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0550
 tl2_volume: vol5
 tl2_page_printed: 566
 tl2_surname: Shirasawa
-tl2_forenames: Homi [Yasuyoshi]
+tl2_forenames: Homi (Yasuyoshi)
 tl2_name_abbrev: Shiras
 tl2_dates: 1868-1947
-tl2_page_id: 33333705
+tl2_bhl_page_id: 33333705
 author_lsid: 9583-1
 wikidata_id: Q2279316
 ipni_surname: Shirasawa
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9583-1), [Wikidata](https://www.wikidata.org/wiki/Q2279316). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9583-1) LSID 9583-1, [Wikidata](https://www.wikidata.org/wiki/Q2279316) QID Q2279316
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

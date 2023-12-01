@@ -6,7 +6,7 @@ tl2_surname: Jaeger
 tl2_forenames: Edmund Carroll
 tl2_name_abbrev: E. Jaeg.
 tl2_dates: 1877-x
-tl2_page_id: 33068657
+tl2_bhl_page_id: 33068657
 author_lsid: 4392-1
 wikidata_id: Q5339583
 ipni_surname: Jaeger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33068657) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4392-1), [Wikidata](https://www.wikidata.org/wiki/Q5339583). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4392-1) LSID 4392-1, [Wikidata](https://www.wikidata.org/wiki/Q5339583) QID Q5339583
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

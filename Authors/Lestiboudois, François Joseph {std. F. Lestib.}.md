@@ -6,7 +6,7 @@ tl2_surname: Lestiboudois
 tl2_forenames: François Joseph
 tl2_name_abbrev: F. Lestib.
 tl2_dates: x-1815
-tl2_page_id: 33069096
+tl2_bhl_page_id: 33069096
 author_lsid: 5512-1
 wikidata_id: Q2109488
 ipni_surname: Lestiboudois
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5512-1), [Wikidata](https://www.wikidata.org/wiki/Q2109488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5512-1) LSID 5512-1, [Wikidata](https://www.wikidata.org/wiki/Q2109488) QID Q2109488
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

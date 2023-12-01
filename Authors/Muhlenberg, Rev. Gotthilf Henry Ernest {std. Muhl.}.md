@@ -6,7 +6,7 @@ tl2_surname: Muhlenberg
 tl2_forenames: Rev. Gotthilf Henry Ernest
 tl2_name_abbrev: Muhl.
 tl2_dates: 1753-1815
-tl2_page_id: 33355742
+tl2_bhl_page_id: 33355742
 author_lsid: 6756-1
 wikidata_id: Q588256
 ipni_surname: Muhlenberg
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33355742) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6756-1), [Wikidata](https://www.wikidata.org/wiki/Q588256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6756-1) LSID 6756-1, [Wikidata](https://www.wikidata.org/wiki/Q588256) QID Q588256
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

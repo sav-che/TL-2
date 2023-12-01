@@ -6,7 +6,7 @@ tl2_surname: Jovet
 tl2_forenames: Paul Albert
 tl2_name_abbrev: Jovet
 tl2_dates: 1896-x
-tl2_page_id: 33068706
+tl2_bhl_page_id: 33068706
 author_lsid: 4565-1
 wikidata_id: Q21517160
 ipni_surname: Jovet
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4565-1), [Wikidata](https://www.wikidata.org/wiki/Q21517160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4565-1) LSID 4565-1, [Wikidata](https://www.wikidata.org/wiki/Q21517160) QID Q21517160
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

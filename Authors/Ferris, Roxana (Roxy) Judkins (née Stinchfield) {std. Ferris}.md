@@ -6,7 +6,7 @@ tl2_surname: Ferris
 tl2_forenames: Roxana (Roxy) Judkins (née Stinchfield)
 tl2_name_abbrev: Ferris
 tl2_dates: 1895-1978
-tl2_page_id: 33259669
+tl2_bhl_page_id: 33259669
 author_lsid: 12498-1
 wikidata_id: Q7372334
 ipni_surname: Ferris
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259669) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/12498-1), [Wikidata](https://www.wikidata.org/wiki/Q7372334). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12498-1) LSID 12498-1, [Wikidata](https://www.wikidata.org/wiki/Q7372334) QID Q7372334
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Palouzier
 tl2_forenames: Émile
 tl2_name_abbrev: Palouz.
 tl2_dates: fl. 1891
-tl2_page_id: 33189468
+tl2_bhl_page_id: 33189468
 author_lsid: 7293-1
 wikidata_id: Q47123987
 ipni_surname: Palouzier
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7293-1), [Wikidata](https://www.wikidata.org/wiki/Q47123987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7293-1) LSID 7293-1, [Wikidata](https://www.wikidata.org/wiki/Q47123987) QID Q47123987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

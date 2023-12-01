@@ -6,7 +6,7 @@ tl2_surname: Bonato
 tl2_forenames: Giuseppe Antonio
 tl2_name_abbrev: Bonato
 tl2_dates: 1753-1836
-tl2_page_id: 33265505
+tl2_bhl_page_id: 33265505
 author_lsid: 946-1
 wikidata_id: Q21506276
 ipni_surname: Bonato
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265505) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/946-1), [Wikidata](https://www.wikidata.org/wiki/Q21506276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/946-1) LSID 946-1, [Wikidata](https://www.wikidata.org/wiki/Q21506276) QID Q21506276
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bonato, Giuseppe Antonio {std. Bonato}|first entry]] for this author
 

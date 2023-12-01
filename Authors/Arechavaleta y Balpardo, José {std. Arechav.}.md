@@ -6,7 +6,7 @@ tl2_surname: Arechavaleta y Balpardo
 tl2_forenames: José
 tl2_name_abbrev: Arechav.
 tl2_dates: 1838-1912
-tl2_page_id: 33120191
+tl2_bhl_page_id: 33120191
 author_lsid: 259-1
 wikidata_id: Q724785
 ipni_surname: Arechavaleta
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/259-1), [Wikidata](https://www.wikidata.org/wiki/Q724785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/259-1) LSID 259-1, [Wikidata](https://www.wikidata.org/wiki/Q724785) QID Q724785
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arechavaleta y Balpardo, José {std. Arechav.} (Suppl.)|second entry]] for this author
 

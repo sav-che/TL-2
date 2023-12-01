@@ -6,7 +6,7 @@ tl2_surname: Wawra
 tl2_forenames: Heinrich, Ritter von Fernsee
 tl2_name_abbrev: Wawra
 tl2_dates: 1831-1887
-tl2_page_id: 33066451
+tl2_bhl_page_id: 33066451
 author_lsid: 11447-1
 wikidata_id: Q79184
 ipni_surname: Wawra
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33066451) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11447-1), [Wikidata](https://www.wikidata.org/wiki/Q79184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11447-1) LSID 11447-1, [Wikidata](https://www.wikidata.org/wiki/Q79184) QID Q79184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

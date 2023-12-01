@@ -6,7 +6,7 @@ tl2_surname: Ritgen
 tl2_forenames: Ferdinand August Maria Franz von
 tl2_name_abbrev: Ritgen
 tl2_dates: 1787-1837
-tl2_page_id: 33190271
+tl2_bhl_page_id: 33190271
 author_lsid: 8411-1
 wikidata_id: Q86309
 ipni_surname: Ritgen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33190271) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8411-1), [Wikidata](https://www.wikidata.org/wiki/Q86309). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8411-1) LSID 8411-1, [Wikidata](https://www.wikidata.org/wiki/Q86309) QID Q86309
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

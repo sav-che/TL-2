@@ -6,7 +6,7 @@ tl2_surname: Eysenhardt
 tl2_forenames: Carl (Karl) Wilhelm
 tl2_name_abbrev: Eysenh.
 tl2_dates: 1794-1825
-tl2_page_id: 33260439
+tl2_bhl_page_id: 33260439
 author_lsid: 2610-1
 wikidata_id: Q21338512
 ipni_surname: Eysenhardt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33260439) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2610-1), [Wikidata](https://www.wikidata.org/wiki/Q21338512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2610-1) LSID 2610-1, [Wikidata](https://www.wikidata.org/wiki/Q21338512) QID Q21338512
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

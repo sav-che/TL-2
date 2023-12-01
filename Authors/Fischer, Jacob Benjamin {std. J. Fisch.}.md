@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Jacob Benjamin
 tl2_name_abbrev: J. Fisch.
 tl2_dates: 1730-1793
-tl2_page_id: 33120968
+tl2_bhl_page_id: 33120968
 author_lsid: 2748-1
 wikidata_id: Q10981088
 ipni_surname: Fischer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33120968) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2748-1), [Wikidata](https://www.wikidata.org/wiki/Q10981088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2748-1) LSID 2748-1, [Wikidata](https://www.wikidata.org/wiki/Q10981088) QID Q10981088
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

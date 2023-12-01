@@ -6,7 +6,7 @@ tl2_surname: Bolle
 tl2_forenames: Friedrich Franz August Albrecht
 tl2_name_abbrev: F. Bolle
 tl2_dates: 1905-x
-tl2_page_id: 33265492
+tl2_bhl_page_id: 33265492
 author_lsid: 932-1
 wikidata_id: Q89085
 ipni_surname: Bolle
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33265492) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/932-1), [Wikidata](https://www.wikidata.org/wiki/Q89085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/932-1) LSID 932-1, [Wikidata](https://www.wikidata.org/wiki/Q89085) QID Q89085
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

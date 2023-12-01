@@ -6,7 +6,7 @@ tl2_surname: Emmert
 tl2_forenames: Friedrich
 tl2_name_abbrev: Emmert
 tl2_dates: x-1868
-tl2_page_id: 33120876
+tl2_bhl_page_id: 33120876
 author_lsid: 34747-1
 wikidata_id: Q21512062
 ipni_surname: Emmert
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33120876) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/34747-1), [Wikidata](https://www.wikidata.org/wiki/Q21512062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34747-1) LSID 34747-1, [Wikidata](https://www.wikidata.org/wiki/Q21512062) QID Q21512062
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

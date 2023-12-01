@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0222
 tl2_volume: vol4
 tl2_page_printed: 199
 tl2_surname: Petersen
-tl2_forenames: [Lorents Christian] Severin
+tl2_forenames: (Lorents Christian) Severin
 tl2_name_abbrev: S. Petersen
 tl2_dates: 1840-1929
-tl2_page_id: 33189670
+tl2_bhl_page_id: 33189670
 author_lsid: 7574-1
 wikidata_id: Q21522881
 ipni_surname: Petersen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33189670) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7574-1), [Wikidata](https://www.wikidata.org/wiki/Q21522881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7574-1) LSID 7574-1, [Wikidata](https://www.wikidata.org/wiki/Q21522881) QID Q21522881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

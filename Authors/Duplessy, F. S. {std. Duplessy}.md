@@ -6,7 +6,7 @@ tl2_surname: Duplessy
 tl2_forenames: F. S.
 tl2_name_abbrev: Duplessy
 tl2_dates: fl. 1800
-tl2_page_id: 33120837
+tl2_bhl_page_id: 33120837
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33120837) of TL-2 Vol. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

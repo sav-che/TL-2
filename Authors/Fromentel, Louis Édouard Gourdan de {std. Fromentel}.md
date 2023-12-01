@@ -6,7 +6,7 @@ tl2_surname: Fromentel
 tl2_forenames: Louis Édouard Gourdan de
 tl2_name_abbrev: Fromentel
 tl2_dates: 1824-x
-tl2_page_id: 33121024
+tl2_bhl_page_id: 33121024
 author_lsid: 2935-1
 wikidata_id: Q3263602
 ipni_surname: Fromentel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33121024) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2935-1), [Wikidata](https://www.wikidata.org/wiki/Q3263602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2935-1) LSID 2935-1, [Wikidata](https://www.wikidata.org/wiki/Q3263602) QID Q3263602
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

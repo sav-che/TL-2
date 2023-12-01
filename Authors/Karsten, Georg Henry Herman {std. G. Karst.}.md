@@ -6,7 +6,7 @@ tl2_surname: Karsten
 tl2_forenames: Georg Henry Herman
 tl2_name_abbrev: G. Karst.
 tl2_dates: 1863-1937
-tl2_page_id: 33068741
+tl2_bhl_page_id: 33068741
 author_lsid: 4657-1
 wikidata_id: Q96783
 ipni_surname: Karsten
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33068741) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4657-1), [Wikidata](https://www.wikidata.org/wiki/Q96783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4657-1) LSID 4657-1, [Wikidata](https://www.wikidata.org/wiki/Q96783) QID Q96783
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

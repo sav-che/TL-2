@@ -6,7 +6,7 @@ tl2_surname: Rach
 tl2_forenames: Louis Theodor
 tl2_name_abbrev: Rach
 tl2_dates: 1821-1859
-tl2_page_id: 33189944
+tl2_bhl_page_id: 33189944
 author_lsid: 12250-1
 wikidata_id: Q5981499
 ipni_surname: Rach
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12250-1), [Wikidata](https://www.wikidata.org/wiki/Q5981499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12250-1) LSID 12250-1, [Wikidata](https://www.wikidata.org/wiki/Q5981499) QID Q5981499
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

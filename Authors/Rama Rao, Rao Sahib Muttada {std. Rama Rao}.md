@@ -6,7 +6,7 @@ tl2_surname: Rama Rao
 tl2_forenames: Rao Sahib Muttada
 tl2_name_abbrev: Rama Rao
 tl2_dates: 1865-?
-tl2_page_id: 33190040
+tl2_bhl_page_id: 33190040
 author_lsid: 8116-1
 wikidata_id: Q21606909
 ipni_surname: Rama Rao
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8116-1), [Wikidata](https://www.wikidata.org/wiki/Q21606909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8116-1) LSID 8116-1, [Wikidata](https://www.wikidata.org/wiki/Q21606909) QID Q21606909
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

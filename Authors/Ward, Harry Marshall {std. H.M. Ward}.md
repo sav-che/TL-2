@@ -6,7 +6,7 @@ tl2_surname: Ward
 tl2_forenames: Harry Marshall
 tl2_name_abbrev: H.M. Ward
 tl2_dates: 1854-1906
-tl2_page_id: 33066405
+tl2_bhl_page_id: 33066405
 author_lsid: 11405-1
 wikidata_id: Q727999
 ipni_surname: Ward
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33066405) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11405-1), [Wikidata](https://www.wikidata.org/wiki/Q727999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11405-1) LSID 11405-1, [Wikidata](https://www.wikidata.org/wiki/Q727999) QID Q727999
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

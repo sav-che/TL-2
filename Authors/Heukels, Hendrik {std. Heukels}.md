@@ -6,7 +6,7 @@ tl2_surname: Heukels
 tl2_forenames: Hendrik
 tl2_name_abbrev: Heukels
 tl2_dates: 1854-1936
-tl2_page_id: 33068427
+tl2_bhl_page_id: 33068427
 author_lsid: 3912-1
 wikidata_id: Q13724262
 ipni_surname: Heukels
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:27:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33068427) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3912-1), [Wikidata](https://www.wikidata.org/wiki/Q13724262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3912-1) LSID 3912-1, [Wikidata](https://www.wikidata.org/wiki/Q13724262) QID Q13724262
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

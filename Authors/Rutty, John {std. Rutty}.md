@@ -6,7 +6,7 @@ tl2_surname: Rutty
 tl2_forenames: John
 tl2_name_abbrev: Rutty
 tl2_dates: 1697-1775
-tl2_page_id: 33190482
+tl2_bhl_page_id: 33190482
 author_lsid: 8764-1
 wikidata_id: Q6256064
 ipni_surname: Rutty
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8764-1), [Wikidata](https://www.wikidata.org/wiki/Q6256064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8764-1) LSID 8764-1, [Wikidata](https://www.wikidata.org/wiki/Q6256064) QID Q6256064
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

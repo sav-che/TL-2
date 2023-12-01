@@ -6,7 +6,7 @@ tl2_surname: Kützing
 tl2_forenames: Friedrich Traugott (Kuetzing)
 tl2_name_abbrev: Kütz.
 tl2_dates: 1807-1893
-tl2_page_id: 33068926
+tl2_bhl_page_id: 33068926
 author_lsid: 5113-1
 wikidata_id: Q72181
 ipni_surname: Kützing
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5113-1), [Wikidata](https://www.wikidata.org/wiki/Q72181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5113-1) LSID 5113-1, [Wikidata](https://www.wikidata.org/wiki/Q72181) QID Q72181
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

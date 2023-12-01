@@ -6,7 +6,7 @@ tl2_surname: Gruner
 tl2_forenames: Leopold Fedorovich
 tl2_name_abbrev: L. Gruner
 tl2_dates: 1839-x
-tl2_page_id: 33258906
+tl2_bhl_page_id: 33258906
 author_lsid: 19699-1
 wikidata_id: Q5973427
 ipni_surname: Gruner
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-07-27 15:53:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33258906) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19699-1), [Wikidata](https://www.wikidata.org/wiki/Q5973427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19699-1) LSID 19699-1, [Wikidata](https://www.wikidata.org/wiki/Q5973427) QID Q5973427
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

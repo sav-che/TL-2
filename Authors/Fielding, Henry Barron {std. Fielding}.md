@@ -6,7 +6,7 @@ tl2_surname: Fielding
 tl2_forenames: Henry Barron
 tl2_name_abbrev: Fielding
 tl2_dates: 1805-1851
-tl2_page_id: 33120960
+tl2_bhl_page_id: 33120960
 author_lsid: 2718-1
 wikidata_id: Q5718388
 ipni_surname: Fielding
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2718-1), [Wikidata](https://www.wikidata.org/wiki/Q5718388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2718-1) LSID 2718-1, [Wikidata](https://www.wikidata.org/wiki/Q5718388) QID Q5718388
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

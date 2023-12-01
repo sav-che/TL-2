@@ -6,7 +6,7 @@ tl2_surname: Babcock
 tl2_forenames: Ernest Brown
 tl2_name_abbrev: Babc.
 tl2_dates: 1877-1954
-tl2_page_id: 33264950
+tl2_bhl_page_id: 33264950
 author_lsid: 357-1
 wikidata_id: Q514668
 ipni_surname: Babcock
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33264950) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/357-1), [Wikidata](https://www.wikidata.org/wiki/Q514668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/357-1) LSID 357-1, [Wikidata](https://www.wikidata.org/wiki/Q514668) QID Q514668
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

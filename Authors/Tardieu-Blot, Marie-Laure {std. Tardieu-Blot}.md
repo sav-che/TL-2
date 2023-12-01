@@ -6,7 +6,7 @@ tl2_surname: Tardieu-Blot
 tl2_forenames: Marie-Laure
 tl2_name_abbrev: Tardieu-Blot
 tl2_dates: 1902-x
-tl2_page_id: 33212208
+tl2_bhl_page_id: 33212208
 author_lsid: 12916-1
 wikidata_id: Q5998167
 ipni_surname: Tardieu
@@ -24,7 +24,8 @@ ipni_record_modified: 2014-07-03 13:54:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33212208) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12916-1), [Wikidata](https://www.wikidata.org/wiki/Q5998167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12916-1) LSID 12916-1, [Wikidata](https://www.wikidata.org/wiki/Q5998167) QID Q5998167
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

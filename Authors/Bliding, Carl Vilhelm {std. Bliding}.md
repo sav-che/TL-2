@@ -6,7 +6,7 @@ tl2_surname: Bliding
 tl2_forenames: Carl Vilhelm
 tl2_name_abbrev: Bliding
 tl2_dates: 1891-x
-tl2_page_id: 33265410
+tl2_bhl_page_id: 33265410
 author_lsid: 32461-1
 wikidata_id: Q21506192
 ipni_surname: Bliding
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33265410) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32461-1), [Wikidata](https://www.wikidata.org/wiki/Q21506192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32461-1) LSID 32461-1, [Wikidata](https://www.wikidata.org/wiki/Q21506192) QID Q21506192
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

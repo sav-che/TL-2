@@ -6,7 +6,7 @@ tl2_surname: Rothman
 tl2_forenames: Georg (Göran)
 tl2_name_abbrev: Rothman
 tl2_dates: 1739-1778
-tl2_page_id: 33190396
+tl2_bhl_page_id: 33190396
 author_lsid: 8647-1
 wikidata_id: Q924540
 ipni_surname: Rothman
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33190396) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8647-1), [Wikidata](https://www.wikidata.org/wiki/Q924540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8647-1) LSID 8647-1, [Wikidata](https://www.wikidata.org/wiki/Q924540) QID Q924540
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

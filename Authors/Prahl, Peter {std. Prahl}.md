@@ -6,7 +6,7 @@ tl2_surname: Prahl
 tl2_forenames: Peter
 tl2_name_abbrev: Prahl
 tl2_dates: 1843-1911
-tl2_page_id: 33189846
+tl2_bhl_page_id: 33189846
 author_lsid: 25047-1
 wikidata_id: Q6073468
 ipni_surname: Prahl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33189846) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25047-1), [Wikidata](https://www.wikidata.org/wiki/Q6073468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25047-1) LSID 25047-1, [Wikidata](https://www.wikidata.org/wiki/Q6073468) QID Q6073468
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Munro
 tl2_forenames: Sir William
 tl2_name_abbrev: Munro
 tl2_dates: 1818-1880
-tl2_page_id: 33355747
+tl2_bhl_page_id: 33355747
 author_lsid: 6784-1
 wikidata_id: Q2004878
 ipni_surname: Munro
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:29:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33355747) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6784-1), [Wikidata](https://www.wikidata.org/wiki/Q2004878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6784-1) LSID 6784-1, [Wikidata](https://www.wikidata.org/wiki/Q2004878) QID Q2004878
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

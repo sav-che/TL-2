@@ -6,7 +6,7 @@ tl2_surname: Uildriks
 tl2_forenames: Frederike Johanna van
 tl2_name_abbrev: Uildriks
 tl2_dates: fl. 1898
-tl2_page_id: 33212608
+tl2_bhl_page_id: 33212608
 author_lsid: 10961-1
 wikidata_id: Q36558231
 ipni_surname: Uildriks
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33212608) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10961-1), [Wikidata](https://www.wikidata.org/wiki/Q36558231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10961-1) LSID 10961-1, [Wikidata](https://www.wikidata.org/wiki/Q36558231) QID Q36558231
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

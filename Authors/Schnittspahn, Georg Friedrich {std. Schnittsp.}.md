@@ -6,7 +6,7 @@ tl2_surname: Schnittspahn
 tl2_forenames: Georg Friedrich
 tl2_name_abbrev: Schnittsp.
 tl2_dates: 1810-1865
-tl2_page_id: 33333417
+tl2_bhl_page_id: 33333417
 author_lsid: 9204-1
 wikidata_id: Q13377580
 ipni_surname: Schnittspahn
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9204-1), [Wikidata](https://www.wikidata.org/wiki/Q13377580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9204-1) LSID 9204-1, [Wikidata](https://www.wikidata.org/wiki/Q13377580) QID Q13377580
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

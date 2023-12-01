@@ -6,7 +6,7 @@ tl2_surname: Stearns
 tl2_forenames: Wilfrid Alden
 tl2_name_abbrev: W. Stearns
 tl2_dates: 1852-1909
-tl2_page_id: 33333992
+tl2_bhl_page_id: 33333992
 author_lsid: 10047-1
 wikidata_id: Q3569321
 ipni_surname: Stearns
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33333992) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10047-1), [Wikidata](https://www.wikidata.org/wiki/Q3569321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10047-1) LSID 10047-1, [Wikidata](https://www.wikidata.org/wiki/Q3569321) QID Q3569321
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

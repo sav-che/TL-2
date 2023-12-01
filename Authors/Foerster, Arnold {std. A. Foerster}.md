@@ -6,7 +6,7 @@ tl2_surname: Foerster
 tl2_forenames: Arnold
 tl2_name_abbrev: A. Foerster
 tl2_dates: 1810-1884
-tl2_page_id: 33120981
+tl2_bhl_page_id: 33120981
 author_lsid: 2800-1
 wikidata_id: Q895467
 ipni_surname: Foerster
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2800-1), [Wikidata](https://www.wikidata.org/wiki/Q895467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2800-1) LSID 2800-1, [Wikidata](https://www.wikidata.org/wiki/Q895467) QID Q895467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Foerster (later Förster), Arnold {std. A. Foerster} (Suppl.)|second entry]] for this author
 

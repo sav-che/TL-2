@@ -6,7 +6,7 @@ tl2_surname: Braune
 tl2_forenames: Franz Anton Alexander von
 tl2_name_abbrev: F. Braune
 tl2_dates: 1766-1853
-tl2_page_id: 33120442
+tl2_bhl_page_id: 33120442
 author_lsid: 1091-1
 wikidata_id: Q1446043
 ipni_surname: Braune
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33120442) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1091-1), [Wikidata](https://www.wikidata.org/wiki/Q1446043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1091-1) LSID 1091-1, [Wikidata](https://www.wikidata.org/wiki/Q1446043) QID Q1446043
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

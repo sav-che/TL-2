@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0149
 tl2_volume: suppl4
 tl2_page_printed: 189
 tl2_surname: Claus
-tl2_forenames: Karl [Carl] Ernst
+tl2_forenames: Karl (Carl) Ernst
 tl2_name_abbrev: Claus
 tl2_dates: 1796-1864
-tl2_page_id: 33265866
+tl2_bhl_page_id: 33265866
 author_lsid: 1674-1
 wikidata_id: Q554178
 ipni_surname: Claus
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33265866) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1674-1), [Wikidata](https://www.wikidata.org/wiki/Q554178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1674-1) LSID 1674-1, [Wikidata](https://www.wikidata.org/wiki/Q554178) QID Q554178
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wittrock
 tl2_forenames: Veit Brecher
 tl2_name_abbrev: Wittr.
 tl2_dates: 1839-1914
-tl2_page_id: 33066746
+tl2_bhl_page_id: 33066746
 author_lsid: 11800-1
 wikidata_id: Q640838
 ipni_surname: Wittrock
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33066746) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11800-1), [Wikidata](https://www.wikidata.org/wiki/Q640838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11800-1) LSID 11800-1, [Wikidata](https://www.wikidata.org/wiki/Q640838) QID Q640838
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

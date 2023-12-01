@@ -6,7 +6,7 @@ tl2_surname: Gutbier
 tl2_forenames: Christian August von
 tl2_name_abbrev: Gutbier
 tl2_dates: 1798-1866
-tl2_page_id: 33121157
+tl2_bhl_page_id: 33121157
 author_lsid: 3498-1
 wikidata_id: Q21514424
 ipni_surname: Gutbier
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/page/33121157) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3498-1), [Wikidata](https://www.wikidata.org/wiki/Q21514424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3498-1) LSID 3498-1, [Wikidata](https://www.wikidata.org/wiki/Q21514424) QID Q21514424
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

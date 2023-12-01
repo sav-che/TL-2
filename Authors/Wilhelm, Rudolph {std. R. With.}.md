@@ -6,7 +6,7 @@ tl2_surname: Wilhelm
 tl2_forenames: Rudolph
 tl2_name_abbrev: R. With.
 tl2_dates: 1857-?
-tl2_page_id: 33066635
+tl2_bhl_page_id: 33066635
 author_lsid: 11686-1
 wikidata_id: Q21612703
 ipni_surname: Wilhelm
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11686-1), [Wikidata](https://www.wikidata.org/wiki/Q21612703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11686-1) LSID 11686-1, [Wikidata](https://www.wikidata.org/wiki/Q21612703) QID Q21612703
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

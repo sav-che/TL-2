@@ -6,7 +6,7 @@ tl2_surname: Pulle
 tl2_forenames: August Adriaan
 tl2_name_abbrev: Pulle
 tl2_dates: 1878-1955
-tl2_page_id: 33189896
+tl2_bhl_page_id: 33189896
 author_lsid: 8019-1
 wikidata_id: Q1100833
 ipni_surname: Pulle
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8019-1), [Wikidata](https://www.wikidata.org/wiki/Q1100833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8019-1) LSID 8019-1, [Wikidata](https://www.wikidata.org/wiki/Q1100833) QID Q1100833
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

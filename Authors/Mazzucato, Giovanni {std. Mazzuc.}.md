@@ -6,7 +6,7 @@ tl2_surname: Mazzucato
 tl2_forenames: Giovanni
 tl2_name_abbrev: Mazzuc.
 tl2_dates: 1787-1814
-tl2_page_id: 33355479
+tl2_bhl_page_id: 33355479
 author_lsid: 6289-1
 wikidata_id: Q3767723
 ipni_surname: Mazzucato
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33355479) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6289-1), [Wikidata](https://www.wikidata.org/wiki/Q3767723). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6289-1) LSID 6289-1, [Wikidata](https://www.wikidata.org/wiki/Q3767723) QID Q3767723
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

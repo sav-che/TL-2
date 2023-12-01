@@ -6,7 +6,7 @@ tl2_surname: Boyer
 tl2_forenames: Léon
 tl2_name_abbrev: Boyer
 tl2_dates: fl. 1890
-tl2_page_id: 33120429
+tl2_bhl_page_id: 33120429
 author_lsid: 1050-1
 wikidata_id: Q47114571
 ipni_surname: Boyer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33120429) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1050-1), [Wikidata](https://www.wikidata.org/wiki/Q47114571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1050-1) LSID 1050-1, [Wikidata](https://www.wikidata.org/wiki/Q47114571) QID Q47114571
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

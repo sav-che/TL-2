@@ -6,7 +6,7 @@ tl2_surname: Gay
 tl2_forenames: Hippolyte
 tl2_name_abbrev: H. Gay
 tl2_dates: fl. 1882-1909
-tl2_page_id: 33258634
+tl2_bhl_page_id: 33258634
 author_lsid: 20004619-1
 wikidata_id: Q36573048
 ipni_surname: Gay
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33258634) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20004619-1), [Wikidata](https://www.wikidata.org/wiki/Q36573048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20004619-1) LSID 20004619-1, [Wikidata](https://www.wikidata.org/wiki/Q36573048) QID Q36573048
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

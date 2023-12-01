@@ -6,7 +6,7 @@ tl2_surname: Lyman
 tl2_forenames: George Richard
 tl2_name_abbrev: Lyman
 tl2_dates: 1871-1926
-tl2_page_id: 33355287
+tl2_bhl_page_id: 33355287
 author_lsid: 22652-1
 wikidata_id: Q21519685
 ipni_surname: Lyman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33355287) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22652-1), [Wikidata](https://www.wikidata.org/wiki/Q21519685). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22652-1) LSID 22652-1, [Wikidata](https://www.wikidata.org/wiki/Q21519685) QID Q21519685
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

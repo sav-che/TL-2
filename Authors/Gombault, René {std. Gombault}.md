@@ -6,7 +6,7 @@ tl2_surname: Gombault
 tl2_forenames: René
 tl2_name_abbrev: Gombault
 tl2_dates: 1871-1971
-tl2_page_id: 33258764
+tl2_bhl_page_id: 33258764
 author_lsid: 3248-1
 wikidata_id: Q6105714
 ipni_surname: Gombault
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3248-1), [Wikidata](https://www.wikidata.org/wiki/Q6105714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3248-1) LSID 3248-1, [Wikidata](https://www.wikidata.org/wiki/Q6105714) QID Q6105714
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

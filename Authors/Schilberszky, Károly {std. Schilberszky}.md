@@ -6,7 +6,7 @@ tl2_surname: Schilberszky
 tl2_forenames: Károly
 tl2_name_abbrev: Schilberszky
 tl2_dates: 1863-1935
-tl2_page_id: 33333296
+tl2_bhl_page_id: 33333296
 author_lsid: 9079-1
 wikidata_id: Q21607955
 ipni_surname: Schilberszky
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33333296) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9079-1), [Wikidata](https://www.wikidata.org/wiki/Q21607955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9079-1) LSID 9079-1, [Wikidata](https://www.wikidata.org/wiki/Q21607955) QID Q21607955
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

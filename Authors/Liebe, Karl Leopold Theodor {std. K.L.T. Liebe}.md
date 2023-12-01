@@ -6,7 +6,7 @@ tl2_surname: Liebe
 tl2_forenames: Karl Leopold Theodor
 tl2_name_abbrev: K.L.T. Liebe
 tl2_dates: 1828-1894
-tl2_page_id: 33355116
+tl2_bhl_page_id: 33355116
 author_lsid: 5574-1
 wikidata_id: Q123167
 ipni_surname: Liebe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33355116) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5574-1), [Wikidata](https://www.wikidata.org/wiki/Q123167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5574-1) LSID 5574-1, [Wikidata](https://www.wikidata.org/wiki/Q123167) QID Q123167
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

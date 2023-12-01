@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_1089
 tl2_volume: vol4
 tl2_page_printed: 1079
 tl2_surname: Saint-Yves
-tl2_forenames: Alfred [Marie Augustine]
+tl2_forenames: Alfred (Marie Augustine)
 tl2_name_abbrev: Saint-Yves
 tl2_dates: 1855-1933
-tl2_page_id: 33190550
+tl2_bhl_page_id: 33190550
 author_lsid: 8835-1
 wikidata_id: Q5667443
 ipni_surname: Saint-Yves
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1079](https://www.biodiversitylibrary.org/page/33190550) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8835-1), [Wikidata](https://www.wikidata.org/wiki/Q5667443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8835-1) LSID 8835-1, [Wikidata](https://www.wikidata.org/wiki/Q5667443) QID Q5667443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

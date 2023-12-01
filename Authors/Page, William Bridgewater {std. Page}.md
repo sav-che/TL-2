@@ -6,7 +6,7 @@ tl2_surname: Page
 tl2_forenames: William Bridgewater
 tl2_name_abbrev: Page
 tl2_dates: 1790-1871
-tl2_page_id: 33189510
+tl2_bhl_page_id: 33189510
 author_lsid: 7245-1
 wikidata_id: Q21522526
 ipni_surname: Page
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33189510) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7245-1), [Wikidata](https://www.wikidata.org/wiki/Q21522526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7245-1) LSID 7245-1, [Wikidata](https://www.wikidata.org/wiki/Q21522526) QID Q21522526
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

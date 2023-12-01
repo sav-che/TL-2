@@ -6,7 +6,7 @@ tl2_surname: Guépin
 tl2_forenames: Jean Pierre
 tl2_name_abbrev: Guépin
 tl2_dates: 1779-1858
-tl2_page_id: 33121150
+tl2_bhl_page_id: 33121150
 author_lsid: 3449-1
 wikidata_id: Q5928824
 ipni_surname: Guépin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3449-1), [Wikidata](https://www.wikidata.org/wiki/Q5928824). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3449-1) LSID 3449-1, [Wikidata](https://www.wikidata.org/wiki/Q5928824) QID Q5928824
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0590
 tl2_volume: vol2
 tl2_page_printed: 502
 tl2_surname: Karsten
-tl2_forenames: Petter [Peter] Adolf
+tl2_forenames: Petter (Peter) Adolf
 tl2_name_abbrev: P. Karst.
 tl2_dates: 1834-1917
-tl2_page_id: 33068744
+tl2_bhl_page_id: 33068744
 author_lsid: 4659-1
 wikidata_id: Q931826
 ipni_surname: Karsten
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33068744) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4659-1), [Wikidata](https://www.wikidata.org/wiki/Q931826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4659-1) LSID 4659-1, [Wikidata](https://www.wikidata.org/wiki/Q931826) QID Q931826
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

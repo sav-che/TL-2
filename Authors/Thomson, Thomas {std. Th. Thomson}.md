@@ -6,7 +6,7 @@ tl2_surname: Thomson
 tl2_forenames: Thomas
 tl2_name_abbrev: Th. Thomson
 tl2_dates: 1817-1878
-tl2_page_id: 33212329
+tl2_bhl_page_id: 33212329
 author_lsid: 10621-1
 wikidata_id: Q2427703
 ipni_surname: Thomson
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:43:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33212329) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10621-1), [Wikidata](https://www.wikidata.org/wiki/Q2427703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10621-1) LSID 10621-1, [Wikidata](https://www.wikidata.org/wiki/Q2427703) QID Q2427703
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Comère
 tl2_forenames: Joseph
 tl2_name_abbrev: Comère
 tl2_dates: 1854-1932
-tl2_page_id: 33265961
+tl2_bhl_page_id: 33265961
 author_lsid: 32788-1
 wikidata_id: Q21508909
 ipni_surname: Comère
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32788-1), [Wikidata](https://www.wikidata.org/wiki/Q21508909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32788-1) LSID 32788-1, [Wikidata](https://www.wikidata.org/wiki/Q21508909) QID Q21508909
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

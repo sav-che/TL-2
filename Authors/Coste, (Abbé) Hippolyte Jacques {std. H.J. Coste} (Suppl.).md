@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0317
 tl2_volume: suppl4
 tl2_page_printed: 399
 tl2_surname: Coste
-tl2_forenames: [Abbé] Hippolyte Jacques
+tl2_forenames: (Abbé) Hippolyte Jacques
 tl2_name_abbrev: H.J. Coste
 tl2_dates: 1858-1924
-tl2_page_id: 33266076
+tl2_bhl_page_id: 33266076
 author_lsid: 1828-1
 wikidata_id: Q616064
 ipni_surname: Coste
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33266076) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1828-1), [Wikidata](https://www.wikidata.org/wiki/Q616064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1828-1) LSID 1828-1, [Wikidata](https://www.wikidata.org/wiki/Q616064) QID Q616064
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Coste, (Abbé) Hippolyte Jacques {std. H.J. Coste}|first entry]] for this author
 

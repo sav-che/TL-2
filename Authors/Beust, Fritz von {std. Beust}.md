@@ -6,7 +6,7 @@ tl2_surname: Beust
 tl2_forenames: Fritz von
 tl2_name_abbrev: Beust
 tl2_dates: 1856-1908
-tl2_page_id: 33265346
+tl2_bhl_page_id: 33265346
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33265346) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

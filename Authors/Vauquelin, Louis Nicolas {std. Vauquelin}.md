@@ -6,7 +6,7 @@ tl2_surname: Vauquelin
 tl2_forenames: Louis Nicolas
 tl2_name_abbrev: Vauquelin
 tl2_dates: 1763-1829
-tl2_page_id: 33212726
+tl2_bhl_page_id: 33212726
 author_lsid: 11099-1
 wikidata_id: Q333438
 ipni_surname: Vauquelin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33212726) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11099-1), [Wikidata](https://www.wikidata.org/wiki/Q333438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11099-1) LSID 11099-1, [Wikidata](https://www.wikidata.org/wiki/Q333438) QID Q333438
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

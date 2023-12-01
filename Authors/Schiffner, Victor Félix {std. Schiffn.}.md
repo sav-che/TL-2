@@ -6,7 +6,7 @@ tl2_surname: Schiffner
 tl2_forenames: Victor Félix
 tl2_name_abbrev: Schiffn.
 tl2_dates: 1862-1944
-tl2_page_id: 33333288
+tl2_bhl_page_id: 33333288
 author_lsid: 26265-1
 wikidata_id: Q15995987
 ipni_surname: Schiffner
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:49:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33333288) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26265-1), [Wikidata](https://www.wikidata.org/wiki/Q15995987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26265-1) LSID 26265-1, [Wikidata](https://www.wikidata.org/wiki/Q15995987) QID Q15995987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

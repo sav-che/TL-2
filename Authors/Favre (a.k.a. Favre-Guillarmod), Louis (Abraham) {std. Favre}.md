@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0056
 tl2_volume: suppl7
 tl2_page_printed: 74
 tl2_surname: Favre (a.k.a. Favre-Guillarmod)
-tl2_forenames: Louis [Abraham]
+tl2_forenames: Louis (Abraham)
 tl2_name_abbrev: Favre
 tl2_dates: 1822-1904
-tl2_page_id: 33259578
+tl2_bhl_page_id: 33259578
 author_lsid: 2651-1
 wikidata_id: Q3261883
 ipni_surname: Favre
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33259578) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2651-1), [Wikidata](https://www.wikidata.org/wiki/Q3261883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2651-1) LSID 2651-1, [Wikidata](https://www.wikidata.org/wiki/Q3261883) QID Q3261883
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

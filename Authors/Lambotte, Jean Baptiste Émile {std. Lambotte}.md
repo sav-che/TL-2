@@ -6,7 +6,7 @@ tl2_surname: Lambotte
 tl2_forenames: Jean Baptiste Émile
 tl2_name_abbrev: Lambotte
 tl2_dates: 1832-1905
-tl2_page_id: 33068980
+tl2_bhl_page_id: 33068980
 author_lsid: 5236-1
 wikidata_id: Q17361894
 ipni_surname: Lambotte
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5236-1), [Wikidata](https://www.wikidata.org/wiki/Q17361894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5236-1) LSID 5236-1, [Wikidata](https://www.wikidata.org/wiki/Q17361894) QID Q17361894
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

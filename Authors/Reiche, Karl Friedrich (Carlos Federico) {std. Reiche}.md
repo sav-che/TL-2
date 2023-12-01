@@ -6,7 +6,7 @@ tl2_surname: Reiche
 tl2_forenames: Karl Friedrich (Carlos Federico)
 tl2_name_abbrev: Reiche
 tl2_dates: 1860-1929
-tl2_page_id: 33190132
+tl2_bhl_page_id: 33190132
 author_lsid: 8249-1
 wikidata_id: Q77134
 ipni_surname: Reiche
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33190132) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8249-1), [Wikidata](https://www.wikidata.org/wiki/Q77134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8249-1) LSID 8249-1, [Wikidata](https://www.wikidata.org/wiki/Q77134) QID Q77134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

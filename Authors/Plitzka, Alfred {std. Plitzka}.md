@@ -6,7 +6,7 @@ tl2_surname: Plitzka
 tl2_forenames: Alfred
 tl2_name_abbrev: Plitzka
 tl2_dates: 1861-?
-tl2_page_id: 33189768
+tl2_bhl_page_id: 33189768
 author_lsid: 7758-1
 wikidata_id: Q21606749
 ipni_surname: Plitzka
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7758-1), [Wikidata](https://www.wikidata.org/wiki/Q21606749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7758-1) LSID 7758-1, [Wikidata](https://www.wikidata.org/wiki/Q21606749) QID Q21606749
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

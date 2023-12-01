@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0437
 tl2_volume: vol5
 tl2_page_printed: 463
 tl2_surname: Scriba
-tl2_forenames: Julius [Karl]
+tl2_forenames: Julius (Karl)
 tl2_name_abbrev: J. Scriba
 tl2_dates: 1848-1905
-tl2_page_id: 33333602
+tl2_bhl_page_id: 33333602
 author_lsid: 12857-1
 wikidata_id: Q67734
 ipni_surname: Scriba
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33333602) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12857-1), [Wikidata](https://www.wikidata.org/wiki/Q67734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12857-1) LSID 12857-1, [Wikidata](https://www.wikidata.org/wiki/Q67734) QID Q67734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

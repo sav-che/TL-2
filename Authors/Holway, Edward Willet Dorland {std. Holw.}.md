@@ -6,7 +6,7 @@ tl2_surname: Holway
 tl2_forenames: Edward Willet Dorland
 tl2_name_abbrev: Holw.
 tl2_dates: 1853-1923
-tl2_page_id: 33068506
+tl2_bhl_page_id: 33068506
 author_lsid: 4066-1
 wikidata_id: Q16509052
 ipni_surname: Holway
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33068506) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4066-1), [Wikidata](https://www.wikidata.org/wiki/Q16509052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4066-1) LSID 4066-1, [Wikidata](https://www.wikidata.org/wiki/Q16509052) QID Q16509052
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

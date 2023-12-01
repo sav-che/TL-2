@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0312
 tl2_volume: vol3
 tl2_page_printed: 280
 tl2_surname: Mann
-tl2_forenames: Wenzeslaus [Wenzel] Blasius
+tl2_forenames: Wenzeslaus (Wenzel) Blasius
 tl2_name_abbrev: W. Mann
 tl2_dates: 1799-1839
-tl2_page_id: 33355367
+tl2_bhl_page_id: 33355367
 author_lsid: 6074-1
 wikidata_id: Q21519906
 ipni_surname: Mann
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33355367) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6074-1), [Wikidata](https://www.wikidata.org/wiki/Q21519906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6074-1) LSID 6074-1, [Wikidata](https://www.wikidata.org/wiki/Q21519906) QID Q21519906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Tagliabile
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Tagliabue
 tl2_dates: fl. 1816
-tl2_page_id: 33212193
+tl2_bhl_page_id: 33212193
 author_lsid: 10386-1
 wikidata_id: Q18225041
 ipni_surname: Tagliabue
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10386-1), [Wikidata](https://www.wikidata.org/wiki/Q18225041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10386-1) LSID 10386-1, [Wikidata](https://www.wikidata.org/wiki/Q18225041) QID Q18225041
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

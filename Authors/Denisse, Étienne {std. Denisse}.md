@@ -6,7 +6,7 @@ tl2_surname: Denisse
 tl2_forenames: Étienne
 tl2_name_abbrev: Denisse
 tl2_dates: fl. 1843-1846
-tl2_page_id: 33120752
+tl2_bhl_page_id: 33120752
 author_lsid: 2128-1
 wikidata_id: Q6174362
 ipni_surname: Denisse
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2128-1), [Wikidata](https://www.wikidata.org/wiki/Q6174362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2128-1) LSID 2128-1, [Wikidata](https://www.wikidata.org/wiki/Q6174362) QID Q6174362
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

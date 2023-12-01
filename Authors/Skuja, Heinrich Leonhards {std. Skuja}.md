@@ -6,7 +6,7 @@ tl2_surname: Skuja
 tl2_forenames: Heinrich Leonhards
 tl2_name_abbrev: Skuja
 tl2_dates: 1892-1972
-tl2_page_id: 33333779
+tl2_bhl_page_id: 33333779
 author_lsid: 9726-1
 wikidata_id: Q4422784
 ipni_surname: Skuja
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 640](https://www.biodiversitylibrary.org/page/33333779) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9726-1), [Wikidata](https://www.wikidata.org/wiki/Q4422784). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9726-1) LSID 9726-1, [Wikidata](https://www.wikidata.org/wiki/Q4422784) QID Q4422784
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

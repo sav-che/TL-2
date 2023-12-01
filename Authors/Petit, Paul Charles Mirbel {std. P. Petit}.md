@@ -6,7 +6,7 @@ tl2_surname: Petit
 tl2_forenames: Paul Charles Mirbel
 tl2_name_abbrev: P. Petit
 tl2_dates: 1834-1913
-tl2_page_id: 33189671
+tl2_bhl_page_id: 33189671
 author_lsid: 7582-1
 wikidata_id: Q21522896
 ipni_surname: Petit
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7582-1), [Wikidata](https://www.wikidata.org/wiki/Q21522896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7582-1) LSID 7582-1, [Wikidata](https://www.wikidata.org/wiki/Q21522896) QID Q21522896
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

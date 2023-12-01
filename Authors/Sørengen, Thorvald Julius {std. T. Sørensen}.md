@@ -6,7 +6,7 @@ tl2_surname: Sørengen
 tl2_forenames: Thorvald Julius
 tl2_name_abbrev: T. Sørensen
 tl2_dates: 1902-1973
-tl2_page_id: 33333858
+tl2_bhl_page_id: 33333858
 author_lsid: 13105-1
 wikidata_id: Q7796792
 ipni_surname: Sørensen
@@ -23,7 +23,8 @@ ipni_record_modified: 2007-05-30 02:25:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/13105-1), [Wikidata](https://www.wikidata.org/wiki/Q7796792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13105-1) LSID 13105-1, [Wikidata](https://www.wikidata.org/wiki/Q7796792) QID Q7796792
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

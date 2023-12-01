@@ -6,7 +6,7 @@ tl2_surname: Dietrich
 tl2_forenames: David Nathanael Friedrich
 tl2_name_abbrev: D. Dietr.
 tl2_dates: 1799-1888
-tl2_page_id: 33120782
+tl2_bhl_page_id: 33120782
 author_lsid: 2207-1
 wikidata_id: Q73233
 ipni_surname: Dietrich
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33120782) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2207-1), [Wikidata](https://www.wikidata.org/wiki/Q73233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2207-1) LSID 2207-1, [Wikidata](https://www.wikidata.org/wiki/Q73233) QID Q73233
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dietrich, David Nathanael Friedrich {std. D. Dietr.} (Suppl.)|second entry]] for this author
 

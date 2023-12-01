@@ -6,7 +6,7 @@ tl2_surname: Spanoghe
 tl2_forenames: Johan Baptist
 tl2_name_abbrev: Spanoghe
 tl2_dates: 1798-1838
-tl2_page_id: 33333912
+tl2_bhl_page_id: 33333912
 author_lsid: 9950-1
 wikidata_id: Q5932839
 ipni_surname: Spanoghe
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9950-1), [Wikidata](https://www.wikidata.org/wiki/Q5932839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9950-1) LSID 9950-1, [Wikidata](https://www.wikidata.org/wiki/Q5932839) QID Q5932839
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

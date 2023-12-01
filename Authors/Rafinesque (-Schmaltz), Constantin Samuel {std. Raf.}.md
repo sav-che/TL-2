@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol4_0564
 tl2_volume: vol4
 tl2_page_printed: 549
-tl2_surname: Rafinesque [-Schmaltz]
+tl2_surname: Rafinesque (-Schmaltz)
 tl2_forenames: Constantin Samuel
 tl2_name_abbrev: Raf.
 tl2_dates: 1783-1840
-tl2_page_id: 33190020
+tl2_bhl_page_id: 33190020
 author_lsid: 8096-1
 wikidata_id: Q364857
 ipni_surname: Rafinesque
@@ -30,7 +30,8 @@ ipni_record_modified: 2009-10-16 07:49:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33190020) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8096-1), [Wikidata](https://www.wikidata.org/wiki/Q364857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8096-1) LSID 8096-1, [Wikidata](https://www.wikidata.org/wiki/Q364857) QID Q364857
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

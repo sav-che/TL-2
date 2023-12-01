@@ -6,7 +6,7 @@ tl2_surname: McCormick
 tl2_forenames: Robert
 tl2_name_abbrev: McCormick
 tl2_dates: 1800-1890
-tl2_page_id: 33355302
+tl2_bhl_page_id: 33355302
 author_lsid: 5904-1
 wikidata_id: Q2005497
 ipni_surname: McCormick
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5904-1), [Wikidata](https://www.wikidata.org/wiki/Q2005497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5904-1) LSID 5904-1, [Wikidata](https://www.wikidata.org/wiki/Q2005497) QID Q2005497
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

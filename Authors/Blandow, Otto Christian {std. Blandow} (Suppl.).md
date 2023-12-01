@@ -6,7 +6,7 @@ tl2_surname: Blandow
 tl2_forenames: Otto Christian
 tl2_name_abbrev: Blandow
 tl2_dates: 1778-1810
-tl2_page_id: 33265400
+tl2_bhl_page_id: 33265400
 author_lsid: 16205-1
 wikidata_id: Q12330543
 ipni_surname: Blandow
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265400) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16205-1), [Wikidata](https://www.wikidata.org/wiki/Q12330543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16205-1) LSID 16205-1, [Wikidata](https://www.wikidata.org/wiki/Q12330543) QID Q12330543
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blandow, Otto Christian {std. Blandow}|first entry]] for this author
 

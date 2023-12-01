@@ -6,7 +6,7 @@ tl2_surname: Molendo
 tl2_forenames: Ludwig
 tl2_name_abbrev: Molendo
 tl2_dates: 1833-1902
-tl2_page_id: 33355634
+tl2_bhl_page_id: 33355634
 author_lsid: 23533-1
 wikidata_id: Q21521617
 ipni_surname: Molendo
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33355634) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23533-1), [Wikidata](https://www.wikidata.org/wiki/Q21521617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23533-1) LSID 23533-1, [Wikidata](https://www.wikidata.org/wiki/Q21521617) QID Q21521617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

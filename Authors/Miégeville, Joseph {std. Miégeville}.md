@@ -6,7 +6,7 @@ tl2_surname: Miégeville
 tl2_forenames: Joseph
 tl2_name_abbrev: Miégeville
 tl2_dates: 1819-1901
-tl2_page_id: 33355557
+tl2_bhl_page_id: 33355557
 author_lsid: 6450-1
 wikidata_id: Q4292867
 ipni_surname: Miégeville
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6450-1), [Wikidata](https://www.wikidata.org/wiki/Q4292867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6450-1) LSID 6450-1, [Wikidata](https://www.wikidata.org/wiki/Q4292867) QID Q4292867
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

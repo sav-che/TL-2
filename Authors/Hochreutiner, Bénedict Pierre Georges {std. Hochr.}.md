@@ -6,7 +6,7 @@ tl2_surname: Hochreutiner
 tl2_forenames: Bénedict Pierre Georges
 tl2_name_abbrev: Hochr.
 tl2_dates: 1873-1959
-tl2_page_id: 33068461
+tl2_bhl_page_id: 33068461
 author_lsid: 3982-1
 wikidata_id: Q4332701
 ipni_surname: Hochreutiner
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:27:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3982-1), [Wikidata](https://www.wikidata.org/wiki/Q4332701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3982-1) LSID 3982-1, [Wikidata](https://www.wikidata.org/wiki/Q4332701) QID Q4332701
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

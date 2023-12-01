@@ -6,7 +6,7 @@ tl2_surname: Rand
 tl2_forenames: Isaac
 tl2_name_abbrev: I. Rand
 tl2_dates: x-1743
-tl2_page_id: 33190047
+tl2_bhl_page_id: 33190047
 author_lsid: 8133-1
 wikidata_id: Q1363211
 ipni_surname: Rand
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33190047) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8133-1), [Wikidata](https://www.wikidata.org/wiki/Q1363211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8133-1) LSID 8133-1, [Wikidata](https://www.wikidata.org/wiki/Q1363211) QID Q1363211
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

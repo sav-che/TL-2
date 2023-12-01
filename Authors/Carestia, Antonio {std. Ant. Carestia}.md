@@ -6,7 +6,7 @@ tl2_surname: Carestia
 tl2_forenames: Antonio
 tl2_name_abbrev: Ant. Carestia
 tl2_dates: 1825-1908
-tl2_page_id: 33266719
+tl2_bhl_page_id: 33266719
 author_lsid: 14308-1
 wikidata_id: Q1111111
 ipni_surname: Carestia
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/14308-1), [Wikidata](https://www.wikidata.org/wiki/Q1111111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14308-1) LSID 14308-1, [Wikidata](https://www.wikidata.org/wiki/Q1111111) QID Q1111111
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

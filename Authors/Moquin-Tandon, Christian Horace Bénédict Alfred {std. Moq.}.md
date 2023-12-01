@@ -6,7 +6,7 @@ tl2_surname: Moquin-Tandon
 tl2_forenames: Christian Horace Bénédict Alfred
 tl2_name_abbrev: Moq.
 tl2_dates: 1804-1863
-tl2_page_id: 33355660
+tl2_bhl_page_id: 33355660
 author_lsid: 6624-1
 wikidata_id: Q55068622
 ipni_surname: Moquin-Tandon
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33355660) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6624-1), [Wikidata](https://www.wikidata.org/wiki/Q55068622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6624-1) LSID 6624-1, [Wikidata](https://www.wikidata.org/wiki/Q55068622) QID Q55068622
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

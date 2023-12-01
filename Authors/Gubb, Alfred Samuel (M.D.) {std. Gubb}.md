@@ -6,7 +6,7 @@ tl2_surname: Gubb
 tl2_forenames: Alfred Samuel (M.D.)
 tl2_name_abbrev: Gubb
 tl2_dates: 1857-x
-tl2_page_id: 33258912
+tl2_bhl_page_id: 33258912
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33258912) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

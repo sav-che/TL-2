@@ -6,7 +6,7 @@ tl2_surname: Deinboll
 tl2_forenames: Peter Vogelius
 tl2_name_abbrev: Deinboll
 tl2_dates: 1783-1874
-tl2_page_id: 33120742
+tl2_bhl_page_id: 33120742
 author_lsid: 2083-1
 wikidata_id: Q4566426
 ipni_surname: Deinboll
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33120742) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2083-1), [Wikidata](https://www.wikidata.org/wiki/Q4566426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2083-1) LSID 2083-1, [Wikidata](https://www.wikidata.org/wiki/Q4566426) QID Q4566426
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0731
 tl2_volume: vol6
 tl2_page_printed: 750
 tl2_surname: Vinson
-tl2_forenames: [Jean François Dominique] Emile
+tl2_forenames: (Jean François Dominique) Emile
 tl2_name_abbrev: Vinson
 tl2_dates: fl. 1855-1870
-tl2_page_id: 33212792
+tl2_bhl_page_id: 33212792
 author_lsid: 12973-1
 wikidata_id: Q5928709
 ipni_surname: Vinson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33212792) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12973-1), [Wikidata](https://www.wikidata.org/wiki/Q5928709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12973-1) LSID 12973-1, [Wikidata](https://www.wikidata.org/wiki/Q5928709) QID Q5928709
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

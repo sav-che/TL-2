@@ -6,7 +6,7 @@ tl2_surname: Anders
 tl2_forenames: Joseph
 tl2_name_abbrev: Anders
 tl2_dates: 1863-1936
-tl2_page_id: 33120174
+tl2_bhl_page_id: 33120174
 author_lsid: 185-1
 wikidata_id: Q14912090
 ipni_surname: Anders
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33120174) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/185-1), [Wikidata](https://www.wikidata.org/wiki/Q14912090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/185-1) LSID 185-1, [Wikidata](https://www.wikidata.org/wiki/Q14912090) QID Q14912090
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Anders, Josef {std. Anders} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Edgerton
 tl2_forenames: Claude Wilbur
 tl2_name_abbrev: Edgerton
 tl2_dates: 1880-1965
-tl2_page_id: 33260245
+tl2_bhl_page_id: 33260245
 author_lsid: 18364-1
 wikidata_id: Q18715892
 ipni_surname: Edgerton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18364-1), [Wikidata](https://www.wikidata.org/wiki/Q18715892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18364-1) LSID 18364-1, [Wikidata](https://www.wikidata.org/wiki/Q18715892) QID Q18715892
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0849
 tl2_volume: vol3
 tl2_page_printed: 728
 tl2_surname: Nestler
-tl2_forenames: Chrétien Géofroy [Christian Géofroy]
+tl2_forenames: Chrétien Géofroy (Christian Géofroy)
 tl2_name_abbrev: Nestl.
 tl2_dates: 1778-1832
-tl2_page_id: 33355815
+tl2_bhl_page_id: 33355815
 author_lsid: 24019-1
 wikidata_id: Q123200
 ipni_surname: Nestler
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:25:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33355815) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24019-1), [Wikidata](https://www.wikidata.org/wiki/Q123200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24019-1) LSID 24019-1, [Wikidata](https://www.wikidata.org/wiki/Q123200) QID Q123200
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

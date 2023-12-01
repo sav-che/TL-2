@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0040
 tl2_volume: suppl4
 tl2_page_printed: 49
 tl2_surname: Chapman
-tl2_forenames: Alvin [Alvan] Wentworth
+tl2_forenames: Alvin (Alvan) Wentworth
 tl2_name_abbrev: Chapm.
 tl2_dates: 1809-1899
-tl2_page_id: 33265726
+tl2_bhl_page_id: 33265726
 author_lsid: 1530-1
 wikidata_id: Q448279
 ipni_surname: Chapman
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265726) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1530-1), [Wikidata](https://www.wikidata.org/wiki/Q448279). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1530-1) LSID 1530-1, [Wikidata](https://www.wikidata.org/wiki/Q448279) QID Q448279
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Chapman, Alvan Wentworth {std. Chapm.}|first entry]] for this author
 

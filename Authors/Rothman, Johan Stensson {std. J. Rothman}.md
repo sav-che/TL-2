@@ -6,7 +6,7 @@ tl2_surname: Rothman
 tl2_forenames: Johan Stensson
 tl2_name_abbrev: J. Rothman
 tl2_dates: 1684-1763
-tl2_page_id: 33190397
+tl2_bhl_page_id: 33190397
 author_lsid: 8648-1
 wikidata_id: Q365301
 ipni_surname: Rothman
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33190397) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8648-1), [Wikidata](https://www.wikidata.org/wiki/Q365301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8648-1) LSID 8648-1, [Wikidata](https://www.wikidata.org/wiki/Q365301) QID Q365301
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

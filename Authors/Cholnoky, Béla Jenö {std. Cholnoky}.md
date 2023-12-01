@@ -6,7 +6,7 @@ tl2_surname: Cholnoky
 tl2_forenames: Béla Jenö
 tl2_name_abbrev: Cholnoky
 tl2_dates: 1899-1972
-tl2_page_id: 33265810
+tl2_bhl_page_id: 33265810
 author_lsid: 32731-1
 wikidata_id: Q21508499
 ipni_surname: Cholnoky
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33265810) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32731-1), [Wikidata](https://www.wikidata.org/wiki/Q21508499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32731-1) LSID 32731-1, [Wikidata](https://www.wikidata.org/wiki/Q21508499) QID Q21508499
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Mangenot
 tl2_forenames: C.
 tl2_name_abbrev: C. Mangenot
 tl2_dates: fl. 1883
-tl2_page_id: 33355362
+tl2_bhl_page_id: 33355362
 author_lsid: 6062-1
 wikidata_id: Q36527123
 ipni_surname: Mangenot
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6062-1), [Wikidata](https://www.wikidata.org/wiki/Q36527123). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6062-1) LSID 6062-1, [Wikidata](https://www.wikidata.org/wiki/Q36527123) QID Q36527123
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

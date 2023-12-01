@@ -6,7 +6,7 @@ tl2_surname: Medelius
 tl2_forenames: Sigfrid Olof
 tl2_name_abbrev: Medelius
 tl2_dates: 1878-1930
-tl2_page_id: 33355480
+tl2_bhl_page_id: 33355480
 author_lsid: 6293-1
 wikidata_id: Q21520307
 ipni_surname: Medelius
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6293-1), [Wikidata](https://www.wikidata.org/wiki/Q21520307). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6293-1) LSID 6293-1, [Wikidata](https://www.wikidata.org/wiki/Q21520307) QID Q21520307
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

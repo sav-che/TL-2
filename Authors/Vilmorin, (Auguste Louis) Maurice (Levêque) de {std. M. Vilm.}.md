@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0725
 tl2_volume: vol6
 tl2_page_printed: 745
 tl2_surname: Vilmorin
-tl2_forenames: [Auguste Louis] Maurice [Levêque] de
+tl2_forenames: (Auguste Louis) Maurice (Levêque) de
 tl2_name_abbrev: M. Vilm.
 tl2_dates: 1849-1918
-tl2_page_id: 33212787
+tl2_bhl_page_id: 33212787
 author_lsid: 11199-1
 wikidata_id: Q4111351
 ipni_surname: Vilmorin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33212787) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11199-1), [Wikidata](https://www.wikidata.org/wiki/Q4111351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11199-1) LSID 11199-1, [Wikidata](https://www.wikidata.org/wiki/Q4111351) QID Q4111351
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

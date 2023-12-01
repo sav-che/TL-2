@@ -6,7 +6,7 @@ tl2_surname: Spitzel
 tl2_forenames: Anton von
 tl2_name_abbrev: Spitzel
 tl2_dates: 1807-1853
-tl2_page_id: 33333932
+tl2_bhl_page_id: 33333932
 author_lsid: 9976-1
 wikidata_id: Q5697514
 ipni_surname: Spitzel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9976-1), [Wikidata](https://www.wikidata.org/wiki/Q5697514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9976-1) LSID 9976-1, [Wikidata](https://www.wikidata.org/wiki/Q5697514) QID Q5697514
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

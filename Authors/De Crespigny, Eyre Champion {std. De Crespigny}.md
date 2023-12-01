@@ -6,7 +6,7 @@ tl2_surname: De Crespigny
 tl2_forenames: Eyre Champion
 tl2_name_abbrev: De Crespigny
 tl2_dates: 1821-1895
-tl2_page_id: 33259188
+tl2_bhl_page_id: 33259188
 author_lsid: 20043183-1
 wikidata_id: Q66659241
 ipni_surname: De Crespigny
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259188) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20043183-1), [Wikidata](https://www.wikidata.org/wiki/Q66659241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20043183-1) LSID 20043183-1, [Wikidata](https://www.wikidata.org/wiki/Q66659241) QID Q66659241
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

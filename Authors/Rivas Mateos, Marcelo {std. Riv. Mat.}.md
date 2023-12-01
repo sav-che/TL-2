@@ -6,7 +6,7 @@ tl2_surname: Rivas Mateos
 tl2_forenames: Marcelo
 tl2_name_abbrev: Riv. Mat.
 tl2_dates: 1875-1931
-tl2_page_id: 33190275
+tl2_bhl_page_id: 33190275
 author_lsid: 8424-1
 wikidata_id: Q5995915
 ipni_surname: Rivas Mateos
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8424-1), [Wikidata](https://www.wikidata.org/wiki/Q5995915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8424-1) LSID 8424-1, [Wikidata](https://www.wikidata.org/wiki/Q5995915) QID Q5995915
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

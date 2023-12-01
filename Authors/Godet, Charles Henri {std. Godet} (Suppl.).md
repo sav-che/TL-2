@@ -6,7 +6,7 @@ tl2_surname: Godet
 tl2_forenames: Charles Henri
 tl2_name_abbrev: Godet
 tl2_dates: 1797-1879
-tl2_page_id: 33258729
+tl2_bhl_page_id: 33258729
 author_lsid: 3214-1
 wikidata_id: Q5764884
 ipni_surname: Godet
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:26:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33258729) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3214-1), [Wikidata](https://www.wikidata.org/wiki/Q5764884). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3214-1) LSID 3214-1, [Wikidata](https://www.wikidata.org/wiki/Q5764884) QID Q5764884
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Godet, Charles Henri {std. Godet}|first entry]] for this author
 

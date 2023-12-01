@@ -6,7 +6,7 @@ tl2_surname: Northrop
 tl2_forenames: Alice Belle (née Rich; Alice R(ich) Northrop)
 tl2_name_abbrev: Northr.
 tl2_dates: 1864-1922
-tl2_page_id: 33355862
+tl2_bhl_page_id: 33355862
 author_lsid: 12710-1
 wikidata_id: Q5398241
 ipni_surname: Northrop
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33355862) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12710-1), [Wikidata](https://www.wikidata.org/wiki/Q5398241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12710-1) LSID 12710-1, [Wikidata](https://www.wikidata.org/wiki/Q5398241) QID Q5398241
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

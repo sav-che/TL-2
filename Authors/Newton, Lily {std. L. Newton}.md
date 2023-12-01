@@ -6,7 +6,7 @@ tl2_surname: Newton (née Batten)
 tl2_forenames: Lily
 tl2_name_abbrev: L. Newton
 tl2_dates: 
-tl2_page_id: 33355826
+tl2_bhl_page_id: 33355826
 author_lsid: 13093-1
 wikidata_id: Q21522120
 ipni_surname: Newton
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/13093-1), [Wikidata](https://www.wikidata.org/wiki/Q21522120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13093-1) LSID 13093-1, [Wikidata](https://www.wikidata.org/wiki/Q21522120) QID Q21522120
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Batten, Lily {std. L. Newton} (Suppl.)|second entry]] for this author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl7_0242
 tl2_volume: suppl7
 tl2_page_printed: 369
-tl2_surname: Francé [Franzé]
-tl2_forenames: Raoul [Rudolf, Reszö] Heinrich
+tl2_surname: Francé (Franzé)
+tl2_forenames: Raoul (Rudolf, Reszö) Heinrich
 tl2_name_abbrev: Francé
 tl2_dates: 1874-1943
-tl2_page_id: 33259873
+tl2_bhl_page_id: 33259873
 author_lsid: 2867-1
 wikidata_id: Q88918
 ipni_surname: Francé
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2867-1), [Wikidata](https://www.wikidata.org/wiki/Q88918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2867-1) LSID 2867-1, [Wikidata](https://www.wikidata.org/wiki/Q88918) QID Q88918
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Francé, Raoul Heinrich (Franzé, Reszö) {std. Francé}|first entry]] for this author
 

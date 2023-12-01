@@ -6,7 +6,7 @@ tl2_surname: Suter
 tl2_forenames: Johann Rudolf
 tl2_name_abbrev: Suter
 tl2_dates: 1766-1827
-tl2_page_id: 33212144
+tl2_bhl_page_id: 33212144
 author_lsid: 10309-1
 wikidata_id: Q4194762
 ipni_surname: Suter
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33212144) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10309-1), [Wikidata](https://www.wikidata.org/wiki/Q4194762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10309-1) LSID 10309-1, [Wikidata](https://www.wikidata.org/wiki/Q4194762) QID Q4194762
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

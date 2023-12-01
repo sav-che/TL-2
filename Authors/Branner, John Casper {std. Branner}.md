@@ -6,7 +6,7 @@ tl2_surname: Branner
 tl2_forenames: John Casper
 tl2_name_abbrev: Branner
 tl2_dates: 1850-1922
-tl2_page_id: 33266327
+tl2_bhl_page_id: 33266327
 author_lsid: 38059-1
 wikidata_id: Q5933144
 ipni_surname: Branner
@@ -24,7 +24,8 @@ ipni_record_modified: 2017-02-23 11:48:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33266327) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/38059-1), [Wikidata](https://www.wikidata.org/wiki/Q5933144). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/38059-1) LSID 38059-1, [Wikidata](https://www.wikidata.org/wiki/Q5933144) QID Q5933144
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

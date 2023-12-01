@@ -6,7 +6,7 @@ tl2_surname: Hampe
 tl2_forenames: Georg Ernst Ludwig
 tl2_name_abbrev: Hampe
 tl2_dates: 1795-1880
-tl2_page_id: 33068279
+tl2_bhl_page_id: 33068279
 author_lsid: 3604-1
 wikidata_id: Q64025
 ipni_surname: Hampe
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33068279) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3604-1), [Wikidata](https://www.wikidata.org/wiki/Q64025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3604-1) LSID 3604-1, [Wikidata](https://www.wikidata.org/wiki/Q64025) QID Q64025
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

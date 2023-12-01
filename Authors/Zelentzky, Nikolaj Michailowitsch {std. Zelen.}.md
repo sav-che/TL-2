@@ -6,7 +6,7 @@ tl2_surname: Zelentzky
 tl2_forenames: Nikolaj Michailowitsch
 tl2_name_abbrev: Zelen.
 tl2_dates: 1859-1923
-tl2_page_id: 33066866
+tl2_bhl_page_id: 33066866
 author_lsid: 12005-1
 wikidata_id: Q16611872
 ipni_surname: Zelenetzky
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33066866) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12005-1), [Wikidata](https://www.wikidata.org/wiki/Q16611872). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12005-1) LSID 12005-1, [Wikidata](https://www.wikidata.org/wiki/Q16611872) QID Q16611872
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

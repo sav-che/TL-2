@@ -6,7 +6,7 @@ tl2_surname: Long
 tl2_forenames: William Henry
 tl2_name_abbrev: W.H. Long
 tl2_dates: 1867-1947
-tl2_page_id: 33355240
+tl2_bhl_page_id: 33355240
 author_lsid: 22513-1
 wikidata_id: Q8012083
 ipni_surname: Long
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22513-1), [Wikidata](https://www.wikidata.org/wiki/Q8012083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22513-1) LSID 22513-1, [Wikidata](https://www.wikidata.org/wiki/Q8012083) QID Q8012083
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

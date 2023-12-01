@@ -6,7 +6,7 @@ tl2_surname: Quaintance
 tl2_forenames: Altus Lacy
 tl2_name_abbrev: Quaintance
 tl2_dates: 1870-1958
-tl2_page_id: 33189922
+tl2_bhl_page_id: 33189922
 author_lsid: 8042-1
 wikidata_id: Q2363566
 ipni_surname: Quaintance
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8042-1), [Wikidata](https://www.wikidata.org/wiki/Q2363566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8042-1) LSID 8042-1, [Wikidata](https://www.wikidata.org/wiki/Q2363566) QID Q2363566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

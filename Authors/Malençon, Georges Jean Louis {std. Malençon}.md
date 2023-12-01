@@ -6,7 +6,7 @@ tl2_surname: Malençon
 tl2_forenames: Georges Jean Louis
 tl2_name_abbrev: Malençon
 tl2_dates: 1898-x
-tl2_page_id: 33355351
+tl2_bhl_page_id: 33355351
 author_lsid: 22811-1
 wikidata_id: Q4277650
 ipni_surname: Malençon
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22811-1), [Wikidata](https://www.wikidata.org/wiki/Q4277650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22811-1) LSID 22811-1, [Wikidata](https://www.wikidata.org/wiki/Q4277650) QID Q4277650
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Castellani
 tl2_forenames: Ettore
 tl2_name_abbrev: E. Castell.
 tl2_dates: 1909-?
-tl2_page_id: 33266761
+tl2_bhl_page_id: 33266761
 author_lsid: 16977-1
 wikidata_id: Q21509345
 ipni_surname: Castellani
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33266761) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16977-1), [Wikidata](https://www.wikidata.org/wiki/Q21509345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16977-1) LSID 16977-1, [Wikidata](https://www.wikidata.org/wiki/Q21509345) QID Q21509345
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

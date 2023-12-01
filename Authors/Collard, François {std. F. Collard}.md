@@ -6,7 +6,7 @@ tl2_surname: Collard
 tl2_forenames: François
 tl2_name_abbrev: F. Collard
 tl2_dates: b. 1826
-tl2_page_id: 33265946
+tl2_bhl_page_id: 33265946
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33265946) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

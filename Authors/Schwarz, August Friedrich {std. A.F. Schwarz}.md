@@ -6,7 +6,7 @@ tl2_surname: Schwarz
 tl2_forenames: August Friedrich
 tl2_name_abbrev: A.F. Schwarz
 tl2_dates: 1852-1915
-tl2_page_id: 33333562
+tl2_bhl_page_id: 33333562
 author_lsid: 9355-1
 wikidata_id: Q17310399
 ipni_surname: Schwarz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9355-1), [Wikidata](https://www.wikidata.org/wiki/Q17310399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9355-1) LSID 9355-1, [Wikidata](https://www.wikidata.org/wiki/Q17310399) QID Q17310399
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

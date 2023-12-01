@@ -6,7 +6,7 @@ tl2_surname: Nitzsch
 tl2_forenames: Christian Ludwig
 tl2_name_abbrev: Nitzsch
 tl2_dates: 1782-1837
-tl2_page_id: 33355843
+tl2_bhl_page_id: 33355843
 author_lsid: 7004-1
 wikidata_id: Q63822
 ipni_surname: Nitzsch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7004-1), [Wikidata](https://www.wikidata.org/wiki/Q63822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7004-1) LSID 7004-1, [Wikidata](https://www.wikidata.org/wiki/Q63822) QID Q63822
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

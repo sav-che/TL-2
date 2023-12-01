@@ -6,27 +6,30 @@ tl2_surname: Schönach
 tl2_forenames: Hugo
 tl2_name_abbrev: H. Schönach
 tl2_dates: 1847-?
-tl2_page_id: 33333424
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33333424
+author_lsid: 9213-1
+wikidata_id: Q21608289
+ipni_surname: Schönach
+ipni_forenames: Hugo
+ipni_standard_form: Schönach
+ipni_dates: 1847-
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2010-09-21 12:23:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9213-1) LSID 9213-1, [Wikidata](https://www.wikidata.org/wiki/Q21608289) QID Q21608289
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Schönach, Hugo (1847-?), Austrian botanist; high school teacher at Brunek (until 1880) and Feldkirch, Vorarlberg (1881-1908); later in retirement in Innsbruck. 
-**Abbreviated name**: *H. Schönach*
+**Abbreviated name**: *H. Schönach* \[standard form in IPNI: *Schönach*\]
 
 #### Herbarium and types
 

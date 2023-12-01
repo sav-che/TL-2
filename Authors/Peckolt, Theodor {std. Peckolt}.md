@@ -6,7 +6,7 @@ tl2_surname: Peckolt
 tl2_forenames: Theodor
 tl2_name_abbrev: Peckolt
 tl2_dates: 1822-1912
-tl2_page_id: 33189614
+tl2_bhl_page_id: 33189614
 author_lsid: 12728-1
 wikidata_id: Q3523676
 ipni_surname: Peckolt
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33189614) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12728-1), [Wikidata](https://www.wikidata.org/wiki/Q3523676). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12728-1) LSID 12728-1, [Wikidata](https://www.wikidata.org/wiki/Q3523676) QID Q3523676
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Palustre
 tl2_forenames: Palustre
 tl2_name_abbrev: Palustre
 tl2_dates: fl. 1840
-tl2_page_id: 33189469
+tl2_bhl_page_id: 33189469
 author_lsid: 7295-1
 wikidata_id: Q47123991
 ipni_surname: Palustre
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7295-1), [Wikidata](https://www.wikidata.org/wiki/Q47123991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7295-1) LSID 7295-1, [Wikidata](https://www.wikidata.org/wiki/Q47123991) QID Q47123991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

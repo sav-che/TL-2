@@ -6,7 +6,7 @@ tl2_surname: Engler
 tl2_forenames: Heinrich Gustav Adolf
 tl2_name_abbrev: Engl.
 tl2_dates: 1844-1930
-tl2_page_id: 33120888
+tl2_bhl_page_id: 33120888
 author_lsid: 18509-1
 wikidata_id: Q60718
 ipni_surname: Engler
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33120888) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18509-1), [Wikidata](https://www.wikidata.org/wiki/Q60718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18509-1) LSID 18509-1, [Wikidata](https://www.wikidata.org/wiki/Q60718) QID Q60718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Engler, Heinrich Gustav Adolf {std. Engl.} (Suppl.)|second entry]] for this author
 

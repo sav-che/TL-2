@@ -6,7 +6,7 @@ tl2_surname: Schinne
 tl2_forenames: Isaac Evert Cornells van
 tl2_name_abbrev: Schinne
 tl2_dates: 1741-1819
-tl2_page_id: 33333313
+tl2_bhl_page_id: 33333313
 author_lsid: 9096-1
 wikidata_id: Q21607976
 ipni_surname: Schinne
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9096-1), [Wikidata](https://www.wikidata.org/wiki/Q21607976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9096-1) LSID 9096-1, [Wikidata](https://www.wikidata.org/wiki/Q21607976) QID Q21607976
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

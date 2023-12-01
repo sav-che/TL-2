@@ -6,7 +6,7 @@ tl2_surname: Schneider
 tl2_forenames: Wilhelm Gottlieb
 tl2_name_abbrev: W.G. Schneid.
 tl2_dates: 1814-1889
-tl2_page_id: 33333417
+tl2_bhl_page_id: 33333417
 author_lsid: 9200-1
 wikidata_id: Q3568233
 ipni_surname: Schneider
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9200-1), [Wikidata](https://www.wikidata.org/wiki/Q3568233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9200-1) LSID 9200-1, [Wikidata](https://www.wikidata.org/wiki/Q3568233) QID Q3568233
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

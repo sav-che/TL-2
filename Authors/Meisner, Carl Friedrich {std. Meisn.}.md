@@ -6,7 +6,7 @@ tl2_surname: Meisner
 tl2_forenames: Carl Friedrich
 tl2_name_abbrev: Meisn.
 tl2_dates: 1800-1874
-tl2_page_id: 33355492
+tl2_bhl_page_id: 33355492
 author_lsid: 12678-1
 wikidata_id: Q115909
 ipni_surname: Meisner
@@ -24,7 +24,8 @@ ipni_record_modified: 2016-04-28 14:48:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33355492) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12678-1), [Wikidata](https://www.wikidata.org/wiki/Q115909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12678-1) LSID 12678-1, [Wikidata](https://www.wikidata.org/wiki/Q115909) QID Q115909
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

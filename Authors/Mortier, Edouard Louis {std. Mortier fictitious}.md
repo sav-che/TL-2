@@ -6,7 +6,7 @@ tl2_surname: Mortier
 tl2_forenames: Edouard Louis
 tl2_name_abbrev: 
 tl2_dates: 1801-1852
-tl2_page_id: 33355685
+tl2_bhl_page_id: 33355685
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33355685) of TL-2 Vol. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

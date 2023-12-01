@@ -6,7 +6,7 @@ tl2_surname: Riva
 tl2_forenames: Domenico
 tl2_name_abbrev: Riva
 tl2_dates: ca. 1856-1895
-tl2_page_id: 33190275
+tl2_bhl_page_id: 33190275
 author_lsid: 8421-1
 wikidata_id: Q21607246
 ipni_surname: Riva
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8421-1), [Wikidata](https://www.wikidata.org/wiki/Q21607246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8421-1) LSID 8421-1, [Wikidata](https://www.wikidata.org/wiki/Q21607246) QID Q21607246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

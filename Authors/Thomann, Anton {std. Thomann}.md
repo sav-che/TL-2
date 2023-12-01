@@ -6,7 +6,7 @@ tl2_surname: Thomann
 tl2_forenames: Anton
 tl2_name_abbrev: Thomann
 tl2_dates: fl. 1859
-tl2_page_id: 33212312
+tl2_bhl_page_id: 33212312
 author_lsid: 10584-1
 wikidata_id: Q47127396
 ipni_surname: Thomann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10584-1), [Wikidata](https://www.wikidata.org/wiki/Q47127396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10584-1) LSID 10584-1, [Wikidata](https://www.wikidata.org/wiki/Q47127396) QID Q47127396
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

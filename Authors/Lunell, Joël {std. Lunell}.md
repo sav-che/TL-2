@@ -6,7 +6,7 @@ tl2_surname: Lunell
 tl2_forenames: Joël
 tl2_name_abbrev: Lunell
 tl2_dates: 1851-1920
-tl2_page_id: 33355285
+tl2_bhl_page_id: 33355285
 author_lsid: 5848-1
 wikidata_id: Q3019197
 ipni_surname: Lunell
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:38:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5848-1), [Wikidata](https://www.wikidata.org/wiki/Q3019197). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5848-1) LSID 5848-1, [Wikidata](https://www.wikidata.org/wiki/Q3019197) QID Q3019197
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

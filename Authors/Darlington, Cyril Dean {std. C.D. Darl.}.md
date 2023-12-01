@@ -6,7 +6,7 @@ tl2_surname: Darlington
 tl2_forenames: Cyril Dean
 tl2_name_abbrev: C.D. Darl.
 tl2_dates: 1903-x
-tl2_page_id: 33259116
+tl2_bhl_page_id: 33259116
 author_lsid: 13642-1
 wikidata_id: Q1148597
 ipni_surname: Darlington
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33259116) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/13642-1), [Wikidata](https://www.wikidata.org/wiki/Q1148597). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13642-1) LSID 13642-1, [Wikidata](https://www.wikidata.org/wiki/Q1148597) QID Q1148597
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

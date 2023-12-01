@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0849
 tl2_volume: vol4
 tl2_page_printed: 841
 tl2_surname: Roemer
-tl2_forenames: [Friedrich] Adolph
+tl2_forenames: (Friedrich) Adolph
 tl2_name_abbrev: A. Roem.
 tl2_dates: 1809-1869
-tl2_page_id: 33190312
+tl2_bhl_page_id: 33190312
 author_lsid: 12782-1
 wikidata_id: Q73601
 ipni_surname: Roemer
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12782-1), [Wikidata](https://www.wikidata.org/wiki/Q73601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12782-1) LSID 12782-1, [Wikidata](https://www.wikidata.org/wiki/Q73601) QID Q73601
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

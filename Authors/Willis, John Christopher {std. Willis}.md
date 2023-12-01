@@ -6,7 +6,7 @@ tl2_surname: Willis
 tl2_forenames: John Christopher
 tl2_name_abbrev: Willis
 tl2_dates: 1868-1958
-tl2_page_id: 33066671
+tl2_bhl_page_id: 33066671
 author_lsid: 11719-1
 wikidata_id: Q2916692
 ipni_surname: Willis
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11719-1), [Wikidata](https://www.wikidata.org/wiki/Q2916692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11719-1) LSID 11719-1, [Wikidata](https://www.wikidata.org/wiki/Q2916692) QID Q2916692
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lorenz
 tl2_forenames: B.
 tl2_name_abbrev: B. Lorenz
 tl2_dates: fl. 1894
-tl2_page_id: 33355247
+tl2_bhl_page_id: 33355247
 author_lsid: 5752-1
 wikidata_id: Q47121556
 ipni_surname: Lorenz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5752-1), [Wikidata](https://www.wikidata.org/wiki/Q47121556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5752-1) LSID 5752-1, [Wikidata](https://www.wikidata.org/wiki/Q47121556) QID Q47121556
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Krause
 tl2_forenames: Ernst Hans Ludwig
 tl2_name_abbrev: E.H.L. Krause
 tl2_dates: 1859-1942
-tl2_page_id: 33068907
+tl2_bhl_page_id: 33068907
 author_lsid: 5041-1
 wikidata_id: Q3057351
 ipni_surname: Krause
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5041-1), [Wikidata](https://www.wikidata.org/wiki/Q3057351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5041-1) LSID 5041-1, [Wikidata](https://www.wikidata.org/wiki/Q3057351) QID Q3057351
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

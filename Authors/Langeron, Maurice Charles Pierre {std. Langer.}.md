@@ -6,7 +6,7 @@ tl2_surname: Langeron
 tl2_forenames: Maurice Charles Pierre
 tl2_name_abbrev: Langer.
 tl2_dates: 1874-1950
-tl2_page_id: 33068992
+tl2_bhl_page_id: 33068992
 author_lsid: 22049-1
 wikidata_id: Q2879861
 ipni_surname: Langeron
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22049-1), [Wikidata](https://www.wikidata.org/wiki/Q2879861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22049-1) LSID 22049-1, [Wikidata](https://www.wikidata.org/wiki/Q2879861) QID Q2879861
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

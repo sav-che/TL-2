@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0522
 tl2_volume: vol5
 tl2_page_printed: 543
 tl2_surname: Seymour
-tl2_forenames: Arthur [Bliss]
+tl2_forenames: Arthur (Bliss)
 tl2_name_abbrev: Seym.
 tl2_dates: 1859-1933
-tl2_page_id: 33333682
+tl2_bhl_page_id: 33333682
 author_lsid: 12861-1
 wikidata_id: Q21533963
 ipni_surname: Seymour
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33333682) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12861-1), [Wikidata](https://www.wikidata.org/wiki/Q21533963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12861-1) LSID 12861-1, [Wikidata](https://www.wikidata.org/wiki/Q21533963) QID Q21533963
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

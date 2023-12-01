@@ -6,7 +6,7 @@ tl2_surname: Bachmann
 tl2_forenames: Hans
 tl2_name_abbrev: H. Bachm.
 tl2_dates: 1866-1940
-tl2_page_id: 33264962
+tl2_bhl_page_id: 33264962
 author_lsid: 32323-1
 wikidata_id: Q1578536
 ipni_surname: Bachmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33264962) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/32323-1), [Wikidata](https://www.wikidata.org/wiki/Q1578536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32323-1) LSID 32323-1, [Wikidata](https://www.wikidata.org/wiki/Q1578536) QID Q1578536
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

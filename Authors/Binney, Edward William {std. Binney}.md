@@ -6,7 +6,7 @@ tl2_surname: Binney
 tl2_forenames: Edward William
 tl2_name_abbrev: Binney
 tl2_dates: 1812-1881
-tl2_page_id: 33120348
+tl2_bhl_page_id: 33120348
 author_lsid: 796-1
 wikidata_id: Q3298684
 ipni_surname: Binney
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33120348) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/796-1), [Wikidata](https://www.wikidata.org/wiki/Q3298684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/796-1) LSID 796-1, [Wikidata](https://www.wikidata.org/wiki/Q3298684) QID Q3298684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Binney, Edward William {std. Binney} (Suppl.)|second entry]] for this author
 

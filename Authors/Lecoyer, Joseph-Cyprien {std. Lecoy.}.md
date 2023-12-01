@@ -6,7 +6,7 @@ tl2_surname: Lecoyer
 tl2_forenames: Joseph-Cyprien
 tl2_name_abbrev: Lecoy.
 tl2_dates: 1835-1899
-tl2_page_id: 33069047
+tl2_bhl_page_id: 33069047
 author_lsid: 5392-1
 wikidata_id: Q21518528
 ipni_surname: Lecoyer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33069047) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5392-1), [Wikidata](https://www.wikidata.org/wiki/Q21518528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5392-1) LSID 5392-1, [Wikidata](https://www.wikidata.org/wiki/Q21518528) QID Q21518528
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

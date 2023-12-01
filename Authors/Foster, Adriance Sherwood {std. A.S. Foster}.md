@@ -6,7 +6,7 @@ tl2_surname: Foster
 tl2_forenames: Adriance Sherwood
 tl2_name_abbrev: A.S. Foster
 tl2_dates: 1901-1973
-tl2_page_id: 33259855
+tl2_bhl_page_id: 33259855
 author_lsid: 2845-1
 wikidata_id: Q4492105
 ipni_surname: Foster
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259855) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2845-1), [Wikidata](https://www.wikidata.org/wiki/Q4492105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2845-1) LSID 2845-1, [Wikidata](https://www.wikidata.org/wiki/Q4492105) QID Q4492105
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bjurzon
 tl2_forenames: Jonas
 tl2_name_abbrev: Bjurzon
 tl2_dates: 1810-1882
-tl2_page_id: 33265382
+tl2_bhl_page_id: 33265382
 author_lsid: 20016878-1
 wikidata_id: Q921572
 ipni_surname: Bjurzon
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/20016878-1), [Wikidata](https://www.wikidata.org/wiki/Q921572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20016878-1) LSID 20016878-1, [Wikidata](https://www.wikidata.org/wiki/Q921572) QID Q921572
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

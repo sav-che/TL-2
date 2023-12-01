@@ -6,7 +6,7 @@ tl2_surname: Verdoorn
 tl2_forenames: Frans
 tl2_name_abbrev: Verd.
 tl2_dates: 1906-1984
-tl2_page_id: 33212746
+tl2_bhl_page_id: 33212746
 author_lsid: 11133-1
 wikidata_id: Q5657736
 ipni_surname: Verdoorn
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:49:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33212746) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11133-1), [Wikidata](https://www.wikidata.org/wiki/Q5657736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11133-1) LSID 11133-1, [Wikidata](https://www.wikidata.org/wiki/Q5657736) QID Q5657736
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

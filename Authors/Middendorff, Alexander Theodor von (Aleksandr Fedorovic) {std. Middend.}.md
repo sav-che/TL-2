@@ -6,7 +6,7 @@ tl2_surname: Middendorff
 tl2_forenames: Alexander Theodor von (Aleksandr Fedorovic Middendorf)
 tl2_name_abbrev: Middend.
 tl2_dates: 1815-1894
-tl2_page_id: 33355556
+tl2_bhl_page_id: 33355556
 author_lsid: 6445-1
 wikidata_id: Q461620
 ipni_surname: Middendorff
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33355556) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6445-1), [Wikidata](https://www.wikidata.org/wiki/Q461620). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6445-1) LSID 6445-1, [Wikidata](https://www.wikidata.org/wiki/Q461620) QID Q461620
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

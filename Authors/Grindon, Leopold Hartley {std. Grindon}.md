@@ -6,7 +6,7 @@ tl2_surname: Grindon
 tl2_forenames: Leopold Hartley
 tl2_name_abbrev: Grindon
 tl2_dates: 1818-1904
-tl2_page_id: 33121138
+tl2_bhl_page_id: 33121138
 author_lsid: 3392-1
 wikidata_id: Q15994471
 ipni_surname: Grindon
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3392-1), [Wikidata](https://www.wikidata.org/wiki/Q15994471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3392-1) LSID 3392-1, [Wikidata](https://www.wikidata.org/wiki/Q15994471) QID Q15994471
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

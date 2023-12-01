@@ -6,7 +6,7 @@ tl2_surname: Featherman
 tl2_forenames: Americus
 tl2_name_abbrev: Featherm.
 tl2_dates: 1822-1891, or later
-tl2_page_id: 33259583
+tl2_bhl_page_id: 33259583
 author_lsid: 13402-1
 wikidata_id: Q21512731
 ipni_surname: Featherman
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:43:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33259583) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/13402-1), [Wikidata](https://www.wikidata.org/wiki/Q21512731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13402-1) LSID 13402-1, [Wikidata](https://www.wikidata.org/wiki/Q21512731) QID Q21512731
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

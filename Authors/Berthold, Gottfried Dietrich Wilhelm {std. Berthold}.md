@@ -6,7 +6,7 @@ tl2_surname: Berthold
 tl2_forenames: Gottfried Dietrich Wilhelm
 tl2_name_abbrev: Berthold
 tl2_dates: 1854-1937
-tl2_page_id: 33120333
+tl2_bhl_page_id: 33120333
 author_lsid: 16037-1
 wikidata_id: Q98149
 ipni_surname: Berthold
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16037-1), [Wikidata](https://www.wikidata.org/wiki/Q98149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16037-1) LSID 16037-1, [Wikidata](https://www.wikidata.org/wiki/Q98149) QID Q98149
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Berthold, Gottfried Dietrich Wilhelm {std. Berthold} (Suppl.)|second entry]] for this author
 

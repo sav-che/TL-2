@@ -6,7 +6,7 @@ tl2_surname: Rion
 tl2_forenames: Alphonse
 tl2_name_abbrev: Rion
 tl2_dates: 1809-1856
-tl2_page_id: 33190268
+tl2_bhl_page_id: 33190268
 author_lsid: 8404-1
 wikidata_id: Q21607233
 ipni_surname: Rion
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8404-1), [Wikidata](https://www.wikidata.org/wiki/Q21607233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8404-1) LSID 8404-1, [Wikidata](https://www.wikidata.org/wiki/Q21607233) QID Q21607233
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

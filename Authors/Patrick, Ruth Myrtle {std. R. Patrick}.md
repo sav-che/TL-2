@@ -6,7 +6,7 @@ tl2_surname: Patrick
 tl2_forenames: Ruth Myrtle
 tl2_name_abbrev: R. Patrick
 tl2_dates: 1907-x
-tl2_page_id: 33189574
+tl2_bhl_page_id: 33189574
 author_lsid: 7389-1
 wikidata_id: Q513586
 ipni_surname: Patrick
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33189574) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7389-1), [Wikidata](https://www.wikidata.org/wiki/Q513586). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7389-1) LSID 7389-1, [Wikidata](https://www.wikidata.org/wiki/Q513586) QID Q513586
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

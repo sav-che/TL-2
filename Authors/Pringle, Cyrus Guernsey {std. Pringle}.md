@@ -6,7 +6,7 @@ tl2_surname: Pringle
 tl2_forenames: Cyrus Guernsey
 tl2_name_abbrev: Pringle
 tl2_dates: 1838-1911
-tl2_page_id: 33189872
+tl2_bhl_page_id: 33189872
 author_lsid: 25097-1
 wikidata_id: Q3009492
 ipni_surname: Pringle
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:47:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33189872) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25097-1), [Wikidata](https://www.wikidata.org/wiki/Q3009492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25097-1) LSID 25097-1, [Wikidata](https://www.wikidata.org/wiki/Q3009492) QID Q3009492
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

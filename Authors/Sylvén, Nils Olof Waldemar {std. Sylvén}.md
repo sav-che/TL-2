@@ -6,7 +6,7 @@ tl2_surname: Sylvén
 tl2_forenames: Nils Olof Waldemar
 tl2_name_abbrev: Sylvén
 tl2_dates: 1880-1969
-tl2_page_id: 33212178
+tl2_bhl_page_id: 33212178
 author_lsid: 10352-1
 wikidata_id: Q6200510
 ipni_surname: Sylvén
@@ -24,7 +24,8 @@ ipni_record_modified: 2011-04-04 14:17:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33212178) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10352-1), [Wikidata](https://www.wikidata.org/wiki/Q6200510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10352-1) LSID 10352-1, [Wikidata](https://www.wikidata.org/wiki/Q6200510) QID Q6200510
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

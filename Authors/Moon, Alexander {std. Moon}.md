@@ -6,7 +6,7 @@ tl2_surname: Moon
 tl2_forenames: Alexander
 tl2_name_abbrev: Moon
 tl2_dates: x-1825
-tl2_page_id: 33355653
+tl2_bhl_page_id: 33355653
 author_lsid: 6610-1
 wikidata_id: Q5666212
 ipni_surname: Moon
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:44:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33355653) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6610-1), [Wikidata](https://www.wikidata.org/wiki/Q5666212). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6610-1) LSID 6610-1, [Wikidata](https://www.wikidata.org/wiki/Q5666212) QID Q5666212
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

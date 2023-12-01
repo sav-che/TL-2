@@ -6,7 +6,7 @@ tl2_surname: Neuman
 tl2_forenames: Julius John
 tl2_name_abbrev: J. Neuman
 tl2_dates: fl. 1914
-tl2_page_id: 33355817
+tl2_bhl_page_id: 33355817
 author_lsid: 24026-1
 wikidata_id: Q36595934
 ipni_surname: Neuman
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24026-1), [Wikidata](https://www.wikidata.org/wiki/Q36595934). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24026-1) LSID 24026-1, [Wikidata](https://www.wikidata.org/wiki/Q36595934) QID Q36595934
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

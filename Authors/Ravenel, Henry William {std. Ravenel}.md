@@ -6,7 +6,7 @@ tl2_surname: Ravenel
 tl2_forenames: Henry William
 tl2_name_abbrev: Ravenel
 tl2_dates: 1814-1887
-tl2_page_id: 33190068
+tl2_bhl_page_id: 33190068
 author_lsid: 8179-1
 wikidata_id: Q3127757
 ipni_surname: Ravenel
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:27:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33190068) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8179-1), [Wikidata](https://www.wikidata.org/wiki/Q3127757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8179-1) LSID 8179-1, [Wikidata](https://www.wikidata.org/wiki/Q3127757) QID Q3127757
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

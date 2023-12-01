@@ -6,27 +6,30 @@ tl2_surname: Starbäck
 tl2_forenames: Karl
 tl2_name_abbrev: Starb.
 tl2_dates: 1863-1931
-tl2_page_id: 33333982
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33333982
+author_lsid: 27139-1
+wikidata_id: Q6187218
+ipni_surname: Starbäck
+ipni_forenames: Karl
+ipni_standard_form: Starbäck
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33333982) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27139-1) LSID 27139-1, [Wikidata](https://www.wikidata.org/wiki/Q6187218) QID Q6187218
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Starbäck, Karl (1863-1931), Swedish botanist and politician; Dr. phil. Uppsala 1894; lecturer in botany Uppsala 1895-1896; high school teacher for natural history and chemistry at Gävle 1902-1928; member of the Swedish Parliament 1902-1914 and 1921-1924; pioneer of the Swedish nature protection movement (golden medal 1923). 
-**Abbreviated name**: *Starb.*
+**Abbreviated name**: *Starb.* \[standard form in IPNI: *Starbäck*\]
 
 #### Herbarium and types
 

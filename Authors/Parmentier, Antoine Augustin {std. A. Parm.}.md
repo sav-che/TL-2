@@ -6,7 +6,7 @@ tl2_surname: Parmentier
 tl2_forenames: Antoine Augustin
 tl2_name_abbrev: A. Parm.
 tl2_dates: 1737-1813
-tl2_page_id: 33189543
+tl2_bhl_page_id: 33189543
 author_lsid: 7356-1
 wikidata_id: Q360312
 ipni_surname: Parmentier
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7356-1), [Wikidata](https://www.wikidata.org/wiki/Q360312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7356-1) LSID 7356-1, [Wikidata](https://www.wikidata.org/wiki/Q360312) QID Q360312
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

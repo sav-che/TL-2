@@ -6,27 +6,31 @@ tl2_surname: Bernard
 tl2_forenames: Noël
 tl2_name_abbrev: N. Bernard
 tl2_dates: 1874-1911
-tl2_page_id: 33265304
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33265304
+author_lsid: 20000844-1
+wikidata_id: Q3345776
+ipni_surname: Bernard
+ipni_forenames: Noël
+ipni_standard_form: N.Bernard
+ipni_dates: fl. 1914
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+- France
+ipni_version: 1.1.1.1
+ipni_record_created: 2004-09-23 04:11:27.0
+ipni_record_modified: 2011-11-03 08:08:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33265304) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20000844-1) LSID 20000844-1, [Wikidata](https://www.wikidata.org/wiki/Q3345776) QID Q3345776
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Bernard, Noël (1874-1911), French botanist, originally at Caen, from 1909 lecturer ("Maître de Conférences") at the Faculté des Sciences at Poitiers. 
-**Abbreviated name**: *N. Bernard*
+**Abbreviated name**: *N. Bernard* \[standard form in IPNI: *N.Bernard*\]
 
 #### Herbarium and types
 

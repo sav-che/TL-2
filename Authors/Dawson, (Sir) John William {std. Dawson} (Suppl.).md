@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0126
 tl2_volume: suppl5
 tl2_page_printed: 113
 tl2_surname: Dawson
-tl2_forenames: [Sir] John William
+tl2_forenames: (Sir) John William
 tl2_name_abbrev: Dawson
 tl2_dates: 1820-1899
-tl2_page_id: 33259159
+tl2_bhl_page_id: 33259159
 author_lsid: 2042-1
 wikidata_id: Q1702168
 ipni_surname: Dawson
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33259159) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2042-1), [Wikidata](https://www.wikidata.org/wiki/Q1702168). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2042-1) LSID 2042-1, [Wikidata](https://www.wikidata.org/wiki/Q1702168) QID Q1702168
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dawson, (Sir) John William {std. Dawson}|first entry]] for this author
 

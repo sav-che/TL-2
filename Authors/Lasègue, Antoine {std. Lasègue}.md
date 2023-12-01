@@ -6,7 +6,7 @@ tl2_surname: Lasègue
 tl2_forenames: Antoine
 tl2_name_abbrev: Lasègue
 tl2_dates: 1793-1873
-tl2_page_id: 33069004
+tl2_bhl_page_id: 33069004
 author_lsid: 5301-1
 wikidata_id: Q5697409
 ipni_surname: Lasègue
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33069004) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5301-1), [Wikidata](https://www.wikidata.org/wiki/Q5697409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5301-1) LSID 5301-1, [Wikidata](https://www.wikidata.org/wiki/Q5697409) QID Q5697409
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

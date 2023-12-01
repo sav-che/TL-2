@@ -6,7 +6,7 @@ tl2_surname: Sawada
 tl2_forenames: Kaneyoshi (Kenkichi)
 tl2_name_abbrev: Sawada
 tl2_dates: fl. 1920
-tl2_page_id: 33333231
+tl2_bhl_page_id: 33333231
 author_lsid: 26195-1
 wikidata_id: Q21607805
 ipni_surname: Sawada
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33333231) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26195-1), [Wikidata](https://www.wikidata.org/wiki/Q21607805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26195-1) LSID 26195-1, [Wikidata](https://www.wikidata.org/wiki/Q21607805) QID Q21607805
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0104
 tl2_volume: vol5
 tl2_page_printed: 98
 tl2_surname: Schaarschmidt
-tl2_forenames: Julius (after 1886 Gyula [von] Istvánffi de Csík Madéfalva)
+tl2_forenames: Julius (after 1886 Gyula (von) Istvánffi de Csík Madéfalva)
 tl2_name_abbrev: Schaarschmidt
 tl2_dates: 1860-1930
-tl2_page_id: 33333237
+tl2_bhl_page_id: 33333237
 author_lsid: 12574-1
 wikidata_id: Q21516807
 ipni_surname: Istvanfy de Csík Madéfalva
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12574-1), [Wikidata](https://www.wikidata.org/wiki/Q21516807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12574-1) LSID 12574-1, [Wikidata](https://www.wikidata.org/wiki/Q21516807) QID Q21516807
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Istvánffi de Csík Madéfalva, Gyula, until 1886 Julius Schaarschmidt {std. Istv.}|first entry]] for this author
 

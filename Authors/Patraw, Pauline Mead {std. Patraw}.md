@@ -6,7 +6,7 @@ tl2_surname: Patraw
 tl2_forenames: Pauline Mead
 tl2_name_abbrev: Patraw
 tl2_dates: fl. 1936
-tl2_page_id: 33189574
+tl2_bhl_page_id: 33189574
 author_lsid: 7388-1
 wikidata_id: Q23071326
 ipni_surname: Patraw
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33189574) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7388-1), [Wikidata](https://www.wikidata.org/wiki/Q23071326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7388-1) LSID 7388-1, [Wikidata](https://www.wikidata.org/wiki/Q23071326) QID Q23071326
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

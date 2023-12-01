@@ -6,7 +6,7 @@ tl2_surname: Ortmann
 tl2_forenames: Arnold Edward
 tl2_name_abbrev: Arn. Ortmann
 tl2_dates: 1863-1927
-tl2_page_id: 33355937
+tl2_bhl_page_id: 33355937
 author_lsid: 7174-1
 wikidata_id: Q2863354
 ipni_surname: Ortmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33355937) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7174-1), [Wikidata](https://www.wikidata.org/wiki/Q2863354). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7174-1) LSID 7174-1, [Wikidata](https://www.wikidata.org/wiki/Q2863354) QID Q2863354
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

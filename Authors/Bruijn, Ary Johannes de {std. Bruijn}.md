@@ -6,7 +6,7 @@ tl2_surname: Bruijn
 tl2_forenames: Ary Johannes de
 tl2_name_abbrev: Bruijn
 tl2_dates: 1811-1895
-tl2_page_id: 33266463
+tl2_bhl_page_id: 33266463
 author_lsid: 1217-1
 wikidata_id: Q21509980
 ipni_surname: de Bruijn
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33266463) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1217-1), [Wikidata](https://www.wikidata.org/wiki/Q21509980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1217-1) LSID 1217-1, [Wikidata](https://www.wikidata.org/wiki/Q21509980) QID Q21509980
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wuensche
 tl2_forenames: Johann Georg
 tl2_name_abbrev: J. Wuensche
 tl2_dates: fl. 1804
-tl2_page_id: 33066810
+tl2_bhl_page_id: 33066810
 author_lsid: 11895-1
 wikidata_id: Q36601915
 ipni_surname: Wuensche
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33066810) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11895-1), [Wikidata](https://www.wikidata.org/wiki/Q36601915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11895-1) LSID 11895-1, [Wikidata](https://www.wikidata.org/wiki/Q36601915) QID Q36601915
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

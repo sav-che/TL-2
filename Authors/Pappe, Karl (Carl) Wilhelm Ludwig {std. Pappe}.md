@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0065
 tl2_volume: vol4
 tl2_page_printed: 53
 tl2_surname: Pappe
-tl2_forenames: Karl [Carl] Wilhelm Ludwig
+tl2_forenames: Karl (Carl) Wilhelm Ludwig
 tl2_name_abbrev: Pappe
 tl2_dates: 1803-1862
-tl2_page_id: 33189486
+tl2_bhl_page_id: 33189486
 author_lsid: 7326-1
 wikidata_id: Q2339471
 ipni_surname: Pappe
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33189486) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7326-1), [Wikidata](https://www.wikidata.org/wiki/Q2339471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7326-1) LSID 7326-1, [Wikidata](https://www.wikidata.org/wiki/Q2339471) QID Q2339471
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

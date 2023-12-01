@@ -6,7 +6,7 @@ tl2_surname: Sallent y Gotés
 tl2_forenames: Angel
 tl2_name_abbrev: Sallent
 tl2_dates: 1857-1934
-tl2_page_id: 33333177
+tl2_bhl_page_id: 33333177
 author_lsid: 8845-1
 wikidata_id: Q21607648
 ipni_surname: Sallent y Gotés
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33333177) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8845-1), [Wikidata](https://www.wikidata.org/wiki/Q21607648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8845-1) LSID 8845-1, [Wikidata](https://www.wikidata.org/wiki/Q21607648) QID Q21607648
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

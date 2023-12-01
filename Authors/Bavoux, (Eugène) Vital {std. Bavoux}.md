@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0453
 tl2_volume: suppl1
 tl2_page_printed: 393
 tl2_surname: Bavoux
-tl2_forenames: [Eugène] Vital
+tl2_forenames: (Eugène) Vital
 tl2_name_abbrev: Bavoux
 tl2_dates: 1821-1909
-tl2_page_id: 33265120
+tl2_bhl_page_id: 33265120
 author_lsid: 37975-1
 wikidata_id: Q21505810
 ipni_surname: Bavoux
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265120) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/37975-1), [Wikidata](https://www.wikidata.org/wiki/Q21505810). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/37975-1) LSID 37975-1, [Wikidata](https://www.wikidata.org/wiki/Q21505810) QID Q21505810
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

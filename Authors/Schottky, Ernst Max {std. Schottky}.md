@@ -6,7 +6,7 @@ tl2_surname: Schottky
 tl2_forenames: Ernst Max
 tl2_name_abbrev: Schottky
 tl2_dates: 1888-1915
-tl2_page_id: 33333447
+tl2_bhl_page_id: 33333447
 author_lsid: 9241-1
 wikidata_id: Q6169076
 ipni_surname: Schottky
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33333447) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9241-1), [Wikidata](https://www.wikidata.org/wiki/Q6169076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9241-1) LSID 9241-1, [Wikidata](https://www.wikidata.org/wiki/Q6169076) QID Q6169076
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

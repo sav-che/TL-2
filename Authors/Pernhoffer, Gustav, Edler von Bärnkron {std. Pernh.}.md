@@ -6,7 +6,7 @@ tl2_surname: Pernhoffer
 tl2_forenames: Gustav, Edler von Bärnkron
 tl2_name_abbrev: Pernh.
 tl2_dates: ca. 1830-1899
-tl2_page_id: 33189640
+tl2_bhl_page_id: 33189640
 author_lsid: 7525-1
 wikidata_id: Q21522834
 ipni_surname: Pernhoffer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7525-1), [Wikidata](https://www.wikidata.org/wiki/Q21522834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7525-1) LSID 7525-1, [Wikidata](https://www.wikidata.org/wiki/Q21522834) QID Q21522834
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

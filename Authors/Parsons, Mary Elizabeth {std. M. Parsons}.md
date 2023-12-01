@@ -6,7 +6,7 @@ tl2_surname: Parsons
 tl2_forenames: Mary Elizabeth
 tl2_name_abbrev: M. Parsons
 tl2_dates: 1859-1947
-tl2_page_id: 33189554
+tl2_bhl_page_id: 33189554
 author_lsid: 7370-1
 wikidata_id: Q21522660
 ipni_surname: Parsons
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7370-1), [Wikidata](https://www.wikidata.org/wiki/Q21522660). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7370-1) LSID 7370-1, [Wikidata](https://www.wikidata.org/wiki/Q21522660) QID Q21522660
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

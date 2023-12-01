@@ -6,7 +6,7 @@ tl2_surname: Lickleder
 tl2_forenames: Max
 tl2_name_abbrev: Lickl.
 tl2_dates: 1826-1893
-tl2_page_id: 33355118
+tl2_bhl_page_id: 33355118
 author_lsid: 5568-1
 wikidata_id: Q21519038
 ipni_surname: Lickleder
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33355118) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5568-1), [Wikidata](https://www.wikidata.org/wiki/Q21519038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5568-1) LSID 5568-1, [Wikidata](https://www.wikidata.org/wiki/Q21519038) QID Q21519038
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

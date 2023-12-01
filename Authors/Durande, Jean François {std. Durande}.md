@@ -6,7 +6,7 @@ tl2_surname: Durande
 tl2_forenames: Jean François
 tl2_name_abbrev: Durande
 tl2_dates: 1732-1794
-tl2_page_id: 33120841
+tl2_bhl_page_id: 33120841
 author_lsid: 2402-1
 wikidata_id: Q2459271
 ipni_surname: Durande
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33120841) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2402-1), [Wikidata](https://www.wikidata.org/wiki/Q2459271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2402-1) LSID 2402-1, [Wikidata](https://www.wikidata.org/wiki/Q2459271) QID Q2459271
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lefébure
 tl2_forenames: Louis F. Henri
 tl2_name_abbrev: Leféb.
 tl2_dates: 1754-1839
-tl2_page_id: 33069055
+tl2_bhl_page_id: 33069055
 author_lsid: 5413-1
 wikidata_id: Q21518567
 ipni_surname: Lefébure
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33069055) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5413-1), [Wikidata](https://www.wikidata.org/wiki/Q21518567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5413-1) LSID 5413-1, [Wikidata](https://www.wikidata.org/wiki/Q21518567) QID Q21518567
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

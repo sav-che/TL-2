@@ -6,7 +6,7 @@ tl2_surname: Ricasoli
 tl2_forenames: Vincenzo, barone
 tl2_name_abbrev: Ricasoli
 tl2_dates: 1814-1891
-tl2_page_id: 33190227
+tl2_bhl_page_id: 33190227
 author_lsid: 8339-1
 wikidata_id: Q4013477
 ipni_surname: Ricasoli
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33190227) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8339-1), [Wikidata](https://www.wikidata.org/wiki/Q4013477). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8339-1) LSID 8339-1, [Wikidata](https://www.wikidata.org/wiki/Q4013477) QID Q4013477
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

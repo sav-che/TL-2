@@ -6,7 +6,7 @@ tl2_surname: Nordhagen
 tl2_forenames: Rolf
 tl2_name_abbrev: Nordh.
 tl2_dates: 1894-1979
-tl2_page_id: 33355853
+tl2_bhl_page_id: 33355853
 author_lsid: 7028-1
 wikidata_id: Q1843500
 ipni_surname: Nordhagen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33355853) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7028-1), [Wikidata](https://www.wikidata.org/wiki/Q1843500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7028-1) LSID 7028-1, [Wikidata](https://www.wikidata.org/wiki/Q1843500) QID Q1843500
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

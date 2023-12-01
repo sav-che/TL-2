@@ -6,7 +6,7 @@ tl2_surname: Chevallier
 tl2_forenames: François Fulgis
 tl2_name_abbrev: Chevall.
 tl2_dates: 1796-1840
-tl2_page_id: 33265774
+tl2_bhl_page_id: 33265774
 author_lsid: 1586-1
 wikidata_id: Q2701338
 ipni_surname: Chevallier
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265774) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1586-1), [Wikidata](https://www.wikidata.org/wiki/Q2701338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1586-1) LSID 1586-1, [Wikidata](https://www.wikidata.org/wiki/Q2701338) QID Q2701338
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Chevallier, François Fulgis {std. Chevall.}|first entry]] for this author
 

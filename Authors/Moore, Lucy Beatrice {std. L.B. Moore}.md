@@ -6,7 +6,7 @@ tl2_surname: Moore
 tl2_forenames: Lucy Beatrice
 tl2_name_abbrev: L.B. Moore
 tl2_dates: 1906-x
-tl2_page_id: 33355657
+tl2_bhl_page_id: 33355657
 author_lsid: 6620-1
 wikidata_id: Q5982398
 ipni_surname: Moore
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6620-1), [Wikidata](https://www.wikidata.org/wiki/Q5982398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6620-1) LSID 6620-1, [Wikidata](https://www.wikidata.org/wiki/Q5982398) QID Q5982398
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

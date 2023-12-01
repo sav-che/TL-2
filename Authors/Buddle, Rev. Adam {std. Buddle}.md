@@ -6,7 +6,7 @@ tl2_surname: Buddle
 tl2_forenames: Rev. Adam
 tl2_name_abbrev: Buddle
 tl2_dates: c. 1660-1715
-tl2_page_id: 33120529
+tl2_bhl_page_id: 33120529
 author_lsid: 1262-1
 wikidata_id: Q3774295
 ipni_surname: Buddle
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1262-1), [Wikidata](https://www.wikidata.org/wiki/Q3774295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1262-1) LSID 1262-1, [Wikidata](https://www.wikidata.org/wiki/Q3774295) QID Q3774295
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

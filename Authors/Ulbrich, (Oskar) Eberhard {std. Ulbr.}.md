@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0582
 tl2_volume: vol6
 tl2_page_printed: 571
 tl2_surname: Ulbrich
-tl2_forenames: [Oskar] Eberhard
+tl2_forenames: (Oskar) Eberhard
 tl2_name_abbrev: Ulbr.
 tl2_dates: 1879-1952
-tl2_page_id: 33212613
+tl2_bhl_page_id: 33212613
 author_lsid: 10967-1
 wikidata_id: Q74592
 ipni_surname: Ulbrich
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33212613) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10967-1), [Wikidata](https://www.wikidata.org/wiki/Q74592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10967-1) LSID 10967-1, [Wikidata](https://www.wikidata.org/wiki/Q74592) QID Q74592
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

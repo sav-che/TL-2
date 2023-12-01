@@ -6,7 +6,7 @@ tl2_surname: Pandé
 tl2_forenames: S.K.
 tl2_name_abbrev: Pandé
 tl2_dates: 1899-1960
-tl2_page_id: 33189477
+tl2_bhl_page_id: 33189477
 author_lsid: 24504-1
 wikidata_id: Q21522594
 ipni_surname: Pandé
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33189477) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24504-1), [Wikidata](https://www.wikidata.org/wiki/Q21522594). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24504-1) LSID 24504-1, [Wikidata](https://www.wikidata.org/wiki/Q21522594) QID Q21522594
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

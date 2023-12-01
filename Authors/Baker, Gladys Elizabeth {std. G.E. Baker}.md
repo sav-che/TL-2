@@ -6,7 +6,7 @@ tl2_surname: Baker
 tl2_forenames: Gladys Elizabeth
 tl2_name_abbrev: G.E. Baker
 tl2_dates: 1908-x
-tl2_page_id: 33265004
+tl2_bhl_page_id: 33265004
 author_lsid: 31218-1
 wikidata_id: Q16017686
 ipni_surname: Baker
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31218-1), [Wikidata](https://www.wikidata.org/wiki/Q16017686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31218-1) LSID 31218-1, [Wikidata](https://www.wikidata.org/wiki/Q16017686) QID Q16017686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

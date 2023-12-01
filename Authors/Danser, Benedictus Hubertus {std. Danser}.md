@@ -6,7 +6,7 @@ tl2_surname: Danser
 tl2_forenames: Benedictus Hubertus
 tl2_name_abbrev: Danser
 tl2_dates: 1891-1943
-tl2_page_id: 33120728
+tl2_bhl_page_id: 33120728
 author_lsid: 1992-1
 wikidata_id: Q434331
 ipni_surname: Danser
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33120728) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1992-1), [Wikidata](https://www.wikidata.org/wiki/Q434331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1992-1) LSID 1992-1, [Wikidata](https://www.wikidata.org/wiki/Q434331) QID Q434331
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Danser, Benedictus Hubertus {std. Danser} (Suppl.)|second entry]] for this author
 

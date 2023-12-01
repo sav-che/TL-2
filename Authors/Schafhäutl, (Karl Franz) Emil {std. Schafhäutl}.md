@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0122
 tl2_volume: vol5
 tl2_page_printed: 114
 tl2_surname: Schafhäutl
-tl2_forenames: [Karl Franz] Emil
+tl2_forenames: (Karl Franz) Emil
 tl2_name_abbrev: Schafhäutl
 tl2_dates: 1803-1890
-tl2_page_id: 33333253
+tl2_bhl_page_id: 33333253
 author_lsid: 12822-1
 wikidata_id: Q73167
 ipni_surname: Schafhäutl
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12822-1), [Wikidata](https://www.wikidata.org/wiki/Q73167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12822-1) LSID 12822-1, [Wikidata](https://www.wikidata.org/wiki/Q73167) QID Q73167
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

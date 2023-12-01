@@ -6,7 +6,7 @@ tl2_surname: Robert
 tl2_forenames: Nicolas
 tl2_name_abbrev: N. Robert
 tl2_dates: 1610-1684
-tl2_page_id: 33190281
+tl2_bhl_page_id: 33190281
 author_lsid: 8442-1
 wikidata_id: Q3340748
 ipni_surname: Robert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8442-1), [Wikidata](https://www.wikidata.org/wiki/Q3340748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8442-1) LSID 8442-1, [Wikidata](https://www.wikidata.org/wiki/Q3340748) QID Q3340748
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

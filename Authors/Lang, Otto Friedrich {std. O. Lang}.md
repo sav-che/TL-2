@@ -6,7 +6,7 @@ tl2_surname: Lang
 tl2_forenames: Otto Friedrich
 tl2_name_abbrev: O. Lang
 tl2_dates: 1817-1847
-tl2_page_id: 33068987
+tl2_bhl_page_id: 33068987
 author_lsid: 5257-1
 wikidata_id: Q13462742
 ipni_surname: Lang
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5257-1), [Wikidata](https://www.wikidata.org/wiki/Q13462742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5257-1) LSID 5257-1, [Wikidata](https://www.wikidata.org/wiki/Q13462742) QID Q13462742
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

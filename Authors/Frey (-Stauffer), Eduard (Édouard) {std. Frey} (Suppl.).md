@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0001
 tl2_volume: suppl8
 tl2_page_printed: 2
-tl2_surname: Frey [-Stauffer]
-tl2_forenames: Eduard [Édouard]
+tl2_surname: Frey (-Stauffer)
+tl2_forenames: Eduard (Édouard)
 tl2_name_abbrev: Frey
 tl2_dates: 1888-1974
-tl2_page_id: 33258524
+tl2_bhl_page_id: 33258524
 author_lsid: 18977-1
 wikidata_id: Q5818904
 ipni_surname: Frey
@@ -24,7 +24,8 @@ ipni_record_modified: 2018-03-22 15:37:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33258524) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/18977-1), [Wikidata](https://www.wikidata.org/wiki/Q5818904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18977-1) LSID 18977-1, [Wikidata](https://www.wikidata.org/wiki/Q5818904) QID Q5818904
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Frey, Eduard (-Stauffer) {std. Frey}|first entry]] for this author
 

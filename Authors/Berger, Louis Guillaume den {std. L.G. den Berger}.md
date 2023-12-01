@@ -6,7 +6,7 @@ tl2_surname: Berger
 tl2_forenames: Louis Guillaume den
 tl2_name_abbrev: L.G. den Berger
 tl2_dates: 1881-1945
-tl2_page_id: 33265287
+tl2_bhl_page_id: 33265287
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33265287) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

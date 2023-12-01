@@ -6,7 +6,7 @@ tl2_surname: Dickinson
 tl2_forenames: Carola Ivena
 tl2_name_abbrev: C.I. Dickinson
 tl2_dates: fl. 1934
-tl2_page_id: 33259333
+tl2_bhl_page_id: 33259333
 author_lsid: 32927-1
 wikidata_id: Q21510355
 ipni_surname: Dickinson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/32927-1), [Wikidata](https://www.wikidata.org/wiki/Q21510355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32927-1) LSID 32927-1, [Wikidata](https://www.wikidata.org/wiki/Q21510355) QID Q21510355
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

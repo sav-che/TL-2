@@ -6,7 +6,7 @@ tl2_surname: Miyabe
 tl2_forenames: Kingo
 tl2_name_abbrev: Miyabe
 tl2_dates: 1860-1951
-tl2_page_id: 33355614
+tl2_bhl_page_id: 33355614
 author_lsid: 6531-1
 wikidata_id: Q11455300
 ipni_surname: Miyabe
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:50:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33355614) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6531-1), [Wikidata](https://www.wikidata.org/wiki/Q11455300). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6531-1) LSID 6531-1, [Wikidata](https://www.wikidata.org/wiki/Q11455300) QID Q11455300
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

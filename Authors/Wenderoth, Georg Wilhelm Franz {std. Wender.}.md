@@ -6,7 +6,7 @@ tl2_surname: Wenderoth
 tl2_forenames: Georg Wilhelm Franz
 tl2_name_abbrev: Wender.
 tl2_dates: 1774-1861
-tl2_page_id: 33066518
+tl2_bhl_page_id: 33066518
 author_lsid: 11544-1
 wikidata_id: Q90018
 ipni_surname: Wenderoth
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33066518) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11544-1), [Wikidata](https://www.wikidata.org/wiki/Q90018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11544-1) LSID 11544-1, [Wikidata](https://www.wikidata.org/wiki/Q90018) QID Q90018
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

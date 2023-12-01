@@ -6,7 +6,7 @@ tl2_surname: Banister
 tl2_forenames: John
 tl2_name_abbrev: Banister
 tl2_dates: 1650-1692
-tl2_page_id: 33120245
+tl2_bhl_page_id: 33120245
 author_lsid: 446-1
 wikidata_id: Q1375875
 ipni_surname: Banister
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/446-1), [Wikidata](https://www.wikidata.org/wiki/Q1375875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/446-1) LSID 446-1, [Wikidata](https://www.wikidata.org/wiki/Q1375875) QID Q1375875
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

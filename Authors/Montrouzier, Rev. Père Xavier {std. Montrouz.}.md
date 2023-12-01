@@ -6,7 +6,7 @@ tl2_surname: Montrouzier
 tl2_forenames: Rev. Père Xavier
 tl2_name_abbrev: Montrouz.
 tl2_dates: 1820-1897
-tl2_page_id: 33355652
+tl2_bhl_page_id: 33355652
 author_lsid: 6606-1
 wikidata_id: Q743935
 ipni_surname: Montrouzier
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33355652) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6606-1), [Wikidata](https://www.wikidata.org/wiki/Q743935). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6606-1) LSID 6606-1, [Wikidata](https://www.wikidata.org/wiki/Q743935) QID Q743935
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Jared Gage
 tl2_name_abbrev: J.G. Sm.
 tl2_dates: 1866-1925
-tl2_page_id: 33333830
+tl2_bhl_page_id: 33333830
 author_lsid: 9803-1
 wikidata_id: Q4424865
 ipni_surname: Smith
@@ -25,7 +25,8 @@ ipni_record_modified: 2015-11-18 17:48:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33333830) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9803-1), [Wikidata](https://www.wikidata.org/wiki/Q4424865). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9803-1) LSID 9803-1, [Wikidata](https://www.wikidata.org/wiki/Q4424865) QID Q4424865
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bartram
 tl2_forenames: William
 tl2_name_abbrev: W. Bartram
 tl2_dates: 1739-1823
-tl2_page_id: 33120263
+tl2_bhl_page_id: 33120263
 author_lsid: 520-1
 wikidata_id: Q18243
 ipni_surname: Bartram
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33120263) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/520-1), [Wikidata](https://www.wikidata.org/wiki/Q18243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/520-1) LSID 520-1, [Wikidata](https://www.wikidata.org/wiki/Q18243) QID Q18243
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bartram, William {std. W. Bartram} (Suppl.)|second entry]] for this author
 

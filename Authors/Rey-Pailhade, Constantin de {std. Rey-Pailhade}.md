@@ -6,7 +6,7 @@ tl2_surname: Rey-Pailhade
 tl2_forenames: Constantin de
 tl2_name_abbrev: Rey-Pailhade
 tl2_dates: 1844-1930
-tl2_page_id: 33190219
+tl2_bhl_page_id: 33190219
 author_lsid: 8329-1
 wikidata_id: Q21607141
 ipni_surname: Rey-Pailhade
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33190219) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8329-1), [Wikidata](https://www.wikidata.org/wiki/Q21607141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8329-1) LSID 8329-1, [Wikidata](https://www.wikidata.org/wiki/Q21607141) QID Q21607141
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

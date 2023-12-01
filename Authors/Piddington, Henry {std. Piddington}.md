@@ -6,7 +6,7 @@ tl2_surname: Piddington
 tl2_forenames: Henry
 tl2_name_abbrev: Piddington
 tl2_dates: 1797-1858
-tl2_page_id: 33189728
+tl2_bhl_page_id: 33189728
 author_lsid: 7677-1
 wikidata_id: Q3133011
 ipni_surname: Piddington
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7677-1), [Wikidata](https://www.wikidata.org/wiki/Q3133011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7677-1) LSID 7677-1, [Wikidata](https://www.wikidata.org/wiki/Q3133011) QID Q3133011
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

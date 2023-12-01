@@ -6,7 +6,7 @@ tl2_surname: Jackson
 tl2_forenames: George
 tl2_name_abbrev: G. Jacks.
 tl2_dates: c. 1780-1811
-tl2_page_id: 33068641
+tl2_bhl_page_id: 33068641
 author_lsid: 4364-1
 wikidata_id: Q4160115
 ipni_surname: Jackson
@@ -24,7 +24,8 @@ ipni_record_modified: 2014-12-17 10:27:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33068641) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4364-1), [Wikidata](https://www.wikidata.org/wiki/Q4160115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4364-1) LSID 4364-1, [Wikidata](https://www.wikidata.org/wiki/Q4160115) QID Q4160115
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

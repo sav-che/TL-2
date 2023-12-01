@@ -6,7 +6,7 @@ tl2_surname: Hirn
 tl2_forenames: Karl Engelbrecht
 tl2_name_abbrev: Hirn
 tl2_dates: 1872-1907
-tl2_page_id: 33068453
+tl2_bhl_page_id: 33068453
 author_lsid: 3966-1
 wikidata_id: Q11870128
 ipni_surname: Hirn
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33068453) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3966-1), [Wikidata](https://www.wikidata.org/wiki/Q11870128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3966-1) LSID 3966-1, [Wikidata](https://www.wikidata.org/wiki/Q11870128) QID Q11870128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

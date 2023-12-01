@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0161
 tl2_volume: vol7
 tl2_page_printed: 170
 tl2_surname: Weisse
-tl2_forenames: Arthur [Friedrich Hermann]
+tl2_forenames: Arthur (Friedrich Hermann)
 tl2_name_abbrev: Weisse
 tl2_dates: 1861-1939
-tl2_page_id: 33066510
+tl2_bhl_page_id: 33066510
 author_lsid: 13001-1
 wikidata_id: Q21033895
 ipni_surname: Weisse
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33066510) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13001-1), [Wikidata](https://www.wikidata.org/wiki/Q21033895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13001-1) LSID 13001-1, [Wikidata](https://www.wikidata.org/wiki/Q21033895) QID Q21033895
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

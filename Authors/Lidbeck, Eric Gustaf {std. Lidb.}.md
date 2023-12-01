@@ -6,7 +6,7 @@ tl2_surname: Lidbeck
 tl2_forenames: Eric Gustaf
 tl2_name_abbrev: Lidb.
 tl2_dates: 1724-1803
-tl2_page_id: 33355117
+tl2_bhl_page_id: 33355117
 author_lsid: 5572-1
 wikidata_id: Q1353945
 ipni_surname: Lidbeck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33355117) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5572-1), [Wikidata](https://www.wikidata.org/wiki/Q1353945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5572-1) LSID 5572-1, [Wikidata](https://www.wikidata.org/wiki/Q1353945) QID Q1353945
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

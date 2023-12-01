@@ -6,7 +6,7 @@ tl2_surname: Feuillée
 tl2_forenames: Louis Éconches (Père)
 tl2_name_abbrev: Feuillée
 tl2_dates: 1660-1732
-tl2_page_id: 33259673
+tl2_bhl_page_id: 33259673
 author_lsid: 2707-1
 wikidata_id: Q1871688
 ipni_surname: Feuillée
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33259673) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2707-1), [Wikidata](https://www.wikidata.org/wiki/Q1871688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2707-1) LSID 2707-1, [Wikidata](https://www.wikidata.org/wiki/Q1871688) QID Q1871688
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Feuillée, Louis Éconches {std. Feuillée}|first entry]] for this author
 

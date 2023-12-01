@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0254
 tl2_volume: vol7
 tl2_page_printed: 276
 tl2_surname: Wiggers
-tl2_forenames: [Heinrich] August [Ludwig]
+tl2_forenames: (Heinrich) August (Ludwig)
 tl2_name_abbrev: A. Wigg.
 tl2_dates: 1803-1880
-tl2_page_id: 33066616
+tl2_bhl_page_id: 33066616
 author_lsid: 13014-1
 wikidata_id: Q3129473
 ipni_surname: Wiggers
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33066616) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13014-1), [Wikidata](https://www.wikidata.org/wiki/Q3129473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13014-1) LSID 13014-1, [Wikidata](https://www.wikidata.org/wiki/Q3129473) QID Q3129473
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

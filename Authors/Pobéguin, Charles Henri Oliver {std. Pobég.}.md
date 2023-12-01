@@ -6,7 +6,7 @@ tl2_surname: Pobéguin
 tl2_forenames: Charles Henri Oliver
 tl2_name_abbrev: Pobég.
 tl2_dates: 1856-1951
-tl2_page_id: 33189775
+tl2_bhl_page_id: 33189775
 author_lsid: 7770-1
 wikidata_id: Q8343509
 ipni_surname: Pobéguin
@@ -23,7 +23,8 @@ ipni_record_modified: 2006-06-13 05:18:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7770-1), [Wikidata](https://www.wikidata.org/wiki/Q8343509). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7770-1) LSID 7770-1, [Wikidata](https://www.wikidata.org/wiki/Q8343509) QID Q8343509
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

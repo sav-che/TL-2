@@ -6,7 +6,7 @@ tl2_surname: Nelmes
 tl2_forenames: Ernest
 tl2_name_abbrev: Nelmes
 tl2_dates: 1895-1959
-tl2_page_id: 33355809
+tl2_bhl_page_id: 33355809
 author_lsid: 6902-1
 wikidata_id: Q18987018
 ipni_surname: Nelmes
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6902-1), [Wikidata](https://www.wikidata.org/wiki/Q18987018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6902-1) LSID 6902-1, [Wikidata](https://www.wikidata.org/wiki/Q18987018) QID Q18987018
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

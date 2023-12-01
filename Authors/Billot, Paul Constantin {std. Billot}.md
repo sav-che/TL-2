@@ -6,7 +6,7 @@ tl2_surname: Billot
 tl2_forenames: Paul Constantin
 tl2_name_abbrev: Billot
 tl2_dates: 1796-1863
-tl2_page_id: 33120346
+tl2_bhl_page_id: 33120346
 author_lsid: 793-1
 wikidata_id: Q7149945
 ipni_surname: Billot
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/793-1), [Wikidata](https://www.wikidata.org/wiki/Q7149945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/793-1) LSID 793-1, [Wikidata](https://www.wikidata.org/wiki/Q7149945) QID Q7149945
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Billot, Paul Constantin {std. Billot} (Suppl.)|second entry]] for this author
 

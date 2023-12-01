@@ -6,7 +6,7 @@ tl2_surname: Mattirolo
 tl2_forenames: Oreste
 tl2_name_abbrev: Mattir.
 tl2_dates: 1856-1947
-tl2_page_id: 33355459
+tl2_bhl_page_id: 33355459
 author_lsid: 23068-1
 wikidata_id: Q3885561
 ipni_surname: Mattirolo
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33355459) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23068-1), [Wikidata](https://www.wikidata.org/wiki/Q3885561). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23068-1) LSID 23068-1, [Wikidata](https://www.wikidata.org/wiki/Q3885561) QID Q3885561
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0071
 tl2_volume: vol1
 tl2_page_printed: 49
 tl2_surname: Andreánsky
-tl2_forenames: Gábor (Gabriel) [Baron]
+tl2_forenames: Gábor (Gabriel) (Baron)
 tl2_name_abbrev: Andreanszky
 tl2_dates: 1895-1967
-tl2_page_id: 33120180
+tl2_bhl_page_id: 33120180
 author_lsid: 12327-1
 wikidata_id: Q278294
 ipni_surname: Andreánszky
@@ -25,7 +25,8 @@ ipni_record_modified: 2007-11-28 08:15:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12327-1), [Wikidata](https://www.wikidata.org/wiki/Q278294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12327-1) LSID 12327-1, [Wikidata](https://www.wikidata.org/wiki/Q278294) QID Q278294
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

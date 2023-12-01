@@ -6,7 +6,7 @@ tl2_surname: Goodman
 tl2_forenames: George Jones
 tl2_name_abbrev: Goodman
 tl2_dates: 1904-1999
-tl2_page_id: 33258783
+tl2_bhl_page_id: 33258783
 author_lsid: 3270-1
 wikidata_id: Q21390111
 ipni_surname: Goodman
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33258783) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3270-1), [Wikidata](https://www.wikidata.org/wiki/Q21390111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3270-1) LSID 3270-1, [Wikidata](https://www.wikidata.org/wiki/Q21390111) QID Q21390111
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

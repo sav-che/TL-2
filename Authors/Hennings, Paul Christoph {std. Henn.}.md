@@ -6,7 +6,7 @@ tl2_surname: Hennings
 tl2_forenames: Paul Christoph
 tl2_name_abbrev: Henn.
 tl2_dates: 1841-1908
-tl2_page_id: 33068399
+tl2_bhl_page_id: 33068399
 author_lsid: 3842-1
 wikidata_id: Q4497246
 ipni_surname: Hennings
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:54:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3842-1), [Wikidata](https://www.wikidata.org/wiki/Q4497246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3842-1) LSID 3842-1, [Wikidata](https://www.wikidata.org/wiki/Q4497246) QID Q4497246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

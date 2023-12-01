@@ -6,7 +6,7 @@ tl2_surname: Robinson
 tl2_forenames: James Fraser
 tl2_name_abbrev: J.F. Robinson
 tl2_dates: 1857-1927
-tl2_page_id: 33190287
+tl2_bhl_page_id: 33190287
 author_lsid: 8458-1
 wikidata_id: Q21607289
 ipni_surname: Robinson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33190287) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8458-1), [Wikidata](https://www.wikidata.org/wiki/Q21607289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8458-1) LSID 8458-1, [Wikidata](https://www.wikidata.org/wiki/Q21607289) QID Q21607289
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

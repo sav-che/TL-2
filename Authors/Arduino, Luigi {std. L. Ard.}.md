@@ -6,7 +6,7 @@ tl2_surname: Arduino
 tl2_forenames: Luigi
 tl2_name_abbrev: L. Ard.
 tl2_dates: 1759-1834
-tl2_page_id: 33264878
+tl2_bhl_page_id: 33264878
 author_lsid: 257-1
 wikidata_id: Q1876090
 ipni_surname: Arduino
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/257-1), [Wikidata](https://www.wikidata.org/wiki/Q1876090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/257-1) LSID 257-1, [Wikidata](https://www.wikidata.org/wiki/Q1876090) QID Q1876090
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

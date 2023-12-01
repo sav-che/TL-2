@@ -6,7 +6,7 @@ tl2_surname: Piso
 tl2_forenames: Willem
 tl2_name_abbrev: Piso
 tl2_dates: ca. 1611-1678
-tl2_page_id: 33189747
+tl2_bhl_page_id: 33189747
 author_lsid: 7729-1
 wikidata_id: Q1385325
 ipni_surname: Piso
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7729-1), [Wikidata](https://www.wikidata.org/wiki/Q1385325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7729-1) LSID 7729-1, [Wikidata](https://www.wikidata.org/wiki/Q1385325) QID Q1385325
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

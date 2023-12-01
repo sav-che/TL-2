@@ -6,7 +6,7 @@ tl2_surname: Young
 tl2_forenames: William of Kirkcaldy
 tl2_name_abbrev: W. Young, Kirkc.
 tl2_dates: 1865-1947
-tl2_page_id: 33066834
+tl2_bhl_page_id: 33066834
 author_lsid: 13036-1
 wikidata_id: Q21613323
 ipni_surname: Young (of Kirkcaldy)
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33066834) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13036-1), [Wikidata](https://www.wikidata.org/wiki/Q21613323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13036-1) LSID 13036-1, [Wikidata](https://www.wikidata.org/wiki/Q21613323) QID Q21613323
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Goor
 tl2_forenames: Andreas Cornelis Joseph van
 tl2_name_abbrev: Goor
 tl2_dates: 1881-1925
-tl2_page_id: 33258786
+tl2_bhl_page_id: 33258786
 author_lsid: 3273-1
 wikidata_id: Q21514128
 ipni_surname: Goor
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33258786) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3273-1), [Wikidata](https://www.wikidata.org/wiki/Q21514128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3273-1) LSID 3273-1, [Wikidata](https://www.wikidata.org/wiki/Q21514128) QID Q21514128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Goor, Andreas Cornelis Joseph van {std. Goor}|first entry]] for this author
 

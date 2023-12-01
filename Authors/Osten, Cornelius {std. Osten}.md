@@ -6,7 +6,7 @@ tl2_surname: Osten
 tl2_forenames: Cornelius
 tl2_name_abbrev: Osten
 tl2_dates: 1863-1936
-tl2_page_id: 33355940
+tl2_bhl_page_id: 33355940
 author_lsid: 7188-1
 wikidata_id: Q13592594
 ipni_surname: Osten
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7188-1), [Wikidata](https://www.wikidata.org/wiki/Q13592594). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7188-1) LSID 7188-1, [Wikidata](https://www.wikidata.org/wiki/Q13592594) QID Q13592594
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dittweiler
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Dittw.
 tl2_dates: fl. 1847
-tl2_page_id: 33259405
+tl2_bhl_page_id: 33259405
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33259405) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

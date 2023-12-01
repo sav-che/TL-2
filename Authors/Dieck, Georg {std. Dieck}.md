@@ -6,7 +6,7 @@ tl2_surname: Dieck
 tl2_forenames: Georg
 tl2_name_abbrev: Dieck
 tl2_dates: 1847-1925
-tl2_page_id: 33259339
+tl2_bhl_page_id: 33259339
 author_lsid: 2197-1
 wikidata_id: Q96299
 ipni_surname: Dieck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33259339) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2197-1), [Wikidata](https://www.wikidata.org/wiki/Q96299). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2197-1) LSID 2197-1, [Wikidata](https://www.wikidata.org/wiki/Q96299) QID Q96299
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

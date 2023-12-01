@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0752
 tl2_volume: vol3
 tl2_page_printed: 649
 tl2_surname: Müller
-tl2_forenames: [Georg Ferdinand] Otto [Otto]
+tl2_forenames: (Georg Ferdinand) Otto (Otto)
 tl2_name_abbrev: O. Müll.
 tl2_dates: 1837-1917
-tl2_page_id: 33355736
+tl2_bhl_page_id: 33355736
 author_lsid: 6747-1
 wikidata_id: Q21516275
 ipni_surname: Müller
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6747-1), [Wikidata](https://www.wikidata.org/wiki/Q21516275). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6747-1) LSID 6747-1, [Wikidata](https://www.wikidata.org/wiki/Q21516275) QID Q21516275
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

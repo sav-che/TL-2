@@ -6,7 +6,7 @@ tl2_surname: Raper
 tl2_forenames: Kenneth Bryan
 tl2_name_abbrev: Raper
 tl2_dates: 1908-x
-tl2_page_id: 33190050
+tl2_bhl_page_id: 33190050
 author_lsid: 8143-1
 wikidata_id: Q1738840
 ipni_surname: Raper
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8143-1), [Wikidata](https://www.wikidata.org/wiki/Q1738840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8143-1) LSID 8143-1, [Wikidata](https://www.wikidata.org/wiki/Q1738840) QID Q1738840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

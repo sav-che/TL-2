@@ -6,7 +6,7 @@ tl2_surname: Neuberger
 tl2_forenames: Joseph
 tl2_name_abbrev: Neuberger
 tl2_dates: 1854-1924
-tl2_page_id: 33355817
+tl2_bhl_page_id: 33355817
 author_lsid: 6922-1
 wikidata_id: Q21393598
 ipni_surname: Neuberger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6922-1), [Wikidata](https://www.wikidata.org/wiki/Q21393598). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6922-1) LSID 6922-1, [Wikidata](https://www.wikidata.org/wiki/Q21393598) QID Q21393598
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

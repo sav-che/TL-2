@@ -6,7 +6,7 @@ tl2_surname: Sageret
 tl2_forenames: Augustin
 tl2_name_abbrev: Sageret
 tl2_dates: 1763-1851
-tl2_page_id: 33190523
+tl2_bhl_page_id: 33190523
 author_lsid: 8807-1
 wikidata_id: Q2871651
 ipni_surname: Sageret
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1052](https://www.biodiversitylibrary.org/page/33190523) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8807-1), [Wikidata](https://www.wikidata.org/wiki/Q2871651). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8807-1) LSID 8807-1, [Wikidata](https://www.wikidata.org/wiki/Q2871651) QID Q2871651
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

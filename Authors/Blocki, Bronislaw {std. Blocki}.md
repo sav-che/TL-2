@@ -6,7 +6,7 @@ tl2_surname: Blocki
 tl2_forenames: Bronislaw
 tl2_name_abbrev: Blocki
 tl2_dates: 1854-1919
-tl2_page_id: 33265414
+tl2_bhl_page_id: 33265414
 author_lsid: 858-1
 wikidata_id: Q21393487
 ipni_surname: Błocki
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33265414) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/858-1), [Wikidata](https://www.wikidata.org/wiki/Q21393487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/858-1) LSID 858-1, [Wikidata](https://www.wikidata.org/wiki/Q21393487) QID Q21393487
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

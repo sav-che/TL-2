@@ -6,7 +6,7 @@ tl2_surname: Johnson
 tl2_forenames: Charles
 tl2_name_abbrev: C. Johns.
 tl2_dates: 1791-1880
-tl2_page_id: 33068690
+tl2_bhl_page_id: 33068690
 author_lsid: 4509-1
 wikidata_id: Q16866780
 ipni_surname: Johnson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33068690) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4509-1), [Wikidata](https://www.wikidata.org/wiki/Q16866780). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4509-1) LSID 4509-1, [Wikidata](https://www.wikidata.org/wiki/Q16866780) QID Q16866780
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Préaubert
 tl2_forenames: Ernest
 tl2_name_abbrev: Préub.
 tl2_dates: 1852-1933
-tl2_page_id: 33189855
+tl2_bhl_page_id: 33189855
 author_lsid: 7934-1
 wikidata_id: Q21523203
 ipni_surname: Préaubert
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33189855) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7934-1), [Wikidata](https://www.wikidata.org/wiki/Q21523203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7934-1) LSID 7934-1, [Wikidata](https://www.wikidata.org/wiki/Q21523203) QID Q21523203
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

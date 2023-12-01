@@ -6,7 +6,7 @@ tl2_surname: Déhérain
 tl2_forenames: Pierre Paul
 tl2_name_abbrev: Déhérain
 tl2_dates: 1830-1902
-tl2_page_id: 33259209
+tl2_bhl_page_id: 33259209
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33259209) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

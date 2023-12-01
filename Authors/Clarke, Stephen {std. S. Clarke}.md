@@ -6,7 +6,7 @@ tl2_surname: Clarke
 tl2_forenames: Stephen
 tl2_name_abbrev: S. Clarke
 tl2_dates: fl. 1820-1825
-tl2_page_id: 33265864
+tl2_bhl_page_id: 33265864
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33265864) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

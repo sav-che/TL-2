@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0008
 tl2_volume: suppl4
 tl2_page_printed: 19
 tl2_surname: Celan
-tl2_forenames: Maria [Marie]
+tl2_forenames: Maria (Marie)
 tl2_name_abbrev: Celan
 tl2_dates: fl. 1935-1938
-tl2_page_id: 33265696
+tl2_bhl_page_id: 33265696
 author_lsid: 32662-1
 wikidata_id: Q36621916
 ipni_surname: Celan
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32662-1), [Wikidata](https://www.wikidata.org/wiki/Q36621916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32662-1) LSID 32662-1, [Wikidata](https://www.wikidata.org/wiki/Q36621916) QID Q36621916
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

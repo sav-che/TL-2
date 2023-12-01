@@ -6,7 +6,7 @@ tl2_surname: Linton
 tl2_forenames: Rev. William Richardson
 tl2_name_abbrev: W.R. Linton
 tl2_dates: 1850-1908
-tl2_page_id: 33355201
+tl2_bhl_page_id: 33355201
 author_lsid: 5640-1
 wikidata_id: Q2415371
 ipni_surname: Linton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5640-1), [Wikidata](https://www.wikidata.org/wiki/Q2415371). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5640-1) LSID 5640-1, [Wikidata](https://www.wikidata.org/wiki/Q2415371) QID Q2415371
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

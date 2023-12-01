@@ -6,7 +6,7 @@ tl2_surname: Tominz
 tl2_forenames: Raimondo
 tl2_name_abbrev: Tominz
 tl2_dates: fl. 1879
-tl2_page_id: 33212431
+tl2_bhl_page_id: 33212431
 author_lsid: 10728-1
 wikidata_id: Q3929609
 ipni_surname: Tominz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10728-1), [Wikidata](https://www.wikidata.org/wiki/Q3929609). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10728-1) LSID 10728-1, [Wikidata](https://www.wikidata.org/wiki/Q3929609) QID Q3929609
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

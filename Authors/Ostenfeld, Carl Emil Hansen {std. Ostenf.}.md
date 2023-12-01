@@ -6,7 +6,7 @@ tl2_surname: Ostenfeld
 tl2_forenames: Carl Emil Hansen
 tl2_name_abbrev: Ostenf.
 tl2_dates: 1873-1931
-tl2_page_id: 33355941
+tl2_bhl_page_id: 33355941
 author_lsid: 24407-1
 wikidata_id: Q2981163
 ipni_surname: Ostenfeld
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:53:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33355941) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24407-1), [Wikidata](https://www.wikidata.org/wiki/Q2981163). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24407-1) LSID 24407-1, [Wikidata](https://www.wikidata.org/wiki/Q2981163) QID Q2981163
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

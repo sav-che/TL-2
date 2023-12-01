@@ -6,7 +6,7 @@ tl2_surname: Sherrin
 tl2_forenames: William Robert
 tl2_name_abbrev: Sherrin
 tl2_dates: 1871-1955
-tl2_page_id: 33333701
+tl2_bhl_page_id: 33333701
 author_lsid: 9567-1
 wikidata_id: Q21608793
 ipni_surname: Sherrin
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33333701) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9567-1), [Wikidata](https://www.wikidata.org/wiki/Q21608793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9567-1) LSID 9567-1, [Wikidata](https://www.wikidata.org/wiki/Q21608793) QID Q21608793
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

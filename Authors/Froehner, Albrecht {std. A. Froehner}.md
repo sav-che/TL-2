@@ -6,7 +6,7 @@ tl2_surname: Froehner
 tl2_forenames: Albrecht
 tl2_name_abbrev: A. Froehner
 tl2_dates: fl. 1896-1898
-tl2_page_id: 33258539
+tl2_bhl_page_id: 33258539
 author_lsid: 2931-1
 wikidata_id: Q5663847
 ipni_surname: Froehner
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2931-1), [Wikidata](https://www.wikidata.org/wiki/Q5663847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2931-1) LSID 2931-1, [Wikidata](https://www.wikidata.org/wiki/Q5663847) QID Q5663847
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

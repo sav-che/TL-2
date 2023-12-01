@@ -6,7 +6,7 @@ tl2_surname: Hazslinszky von Hazslin
 tl2_forenames: Friedrich August (Frigyes Ágost)
 tl2_name_abbrev: Hazsl.
 tl2_dates: 1818-1896
-tl2_page_id: 33068356
+tl2_bhl_page_id: 33068356
 author_lsid: 3757-1
 wikidata_id: Q1034588
 ipni_surname: Hazslinszky von Hazslin
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:34:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3757-1), [Wikidata](https://www.wikidata.org/wiki/Q1034588). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3757-1) LSID 3757-1, [Wikidata](https://www.wikidata.org/wiki/Q1034588) QID Q1034588
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

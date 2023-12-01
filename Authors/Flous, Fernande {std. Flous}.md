@@ -6,7 +6,7 @@ tl2_surname: Flous
 tl2_forenames: Fernande
 tl2_name_abbrev: Flous
 tl2_dates: 1908-1941
-tl2_page_id: 33259775
+tl2_bhl_page_id: 33259775
 author_lsid: 2793-1
 wikidata_id: Q5859097
 ipni_surname: Flous
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33259775) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2793-1), [Wikidata](https://www.wikidata.org/wiki/Q5859097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2793-1) LSID 2793-1, [Wikidata](https://www.wikidata.org/wiki/Q5859097) QID Q5859097
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

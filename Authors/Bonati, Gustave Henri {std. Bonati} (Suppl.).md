@@ -6,7 +6,7 @@ tl2_surname: Bonati
 tl2_forenames: Gustave Henri
 tl2_name_abbrev: Bonati
 tl2_dates: 1873-1927
-tl2_page_id: 33265504
+tl2_bhl_page_id: 33265504
 author_lsid: 945-1
 wikidata_id: Q3121211
 ipni_surname: Bonati
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265504) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/945-1), [Wikidata](https://www.wikidata.org/wiki/Q3121211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/945-1) LSID 945-1, [Wikidata](https://www.wikidata.org/wiki/Q3121211) QID Q3121211
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bonati, Gustave Henri {std. Bonati}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Seeland
 tl2_forenames: Hermann
 tl2_name_abbrev: Seeland
 tl2_dates: 1868-1954
-tl2_page_id: 33333612
+tl2_bhl_page_id: 33333612
 author_lsid: 9414-1
 wikidata_id: Q21393618
 ipni_surname: Seeland
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33333612) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9414-1), [Wikidata](https://www.wikidata.org/wiki/Q21393618). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9414-1) LSID 9414-1, [Wikidata](https://www.wikidata.org/wiki/Q21393618) QID Q21393618
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

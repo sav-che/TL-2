@@ -6,7 +6,7 @@ tl2_surname: Mennega
 tl2_forenames: Alberta Maria Wilhelmina
 tl2_name_abbrev: Mennega
 tl2_dates: 1912-x
-tl2_page_id: 33355503
+tl2_bhl_page_id: 33355503
 author_lsid: 6357-1
 wikidata_id: Q2332473
 ipni_surname: Mennega
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6357-1), [Wikidata](https://www.wikidata.org/wiki/Q2332473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6357-1) LSID 6357-1, [Wikidata](https://www.wikidata.org/wiki/Q2332473) QID Q2332473
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

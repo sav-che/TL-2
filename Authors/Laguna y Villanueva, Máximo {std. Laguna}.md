@@ -6,7 +6,7 @@ tl2_surname: Laguna y Villanueva
 tl2_forenames: Máximo
 tl2_name_abbrev: Laguna
 tl2_dates: 1826-1902
-tl2_page_id: 33068967
+tl2_bhl_page_id: 33068967
 author_lsid: 5211-1
 wikidata_id: Q4889495
 ipni_surname: Laguna y Villanueva
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5211-1), [Wikidata](https://www.wikidata.org/wiki/Q4889495). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5211-1) LSID 5211-1, [Wikidata](https://www.wikidata.org/wiki/Q4889495) QID Q4889495
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

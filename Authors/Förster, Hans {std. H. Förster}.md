@@ -6,7 +6,7 @@ tl2_surname: Förster
 tl2_forenames: Hans
 tl2_name_abbrev: H. Förster
 tl2_dates: 1896-1971
-tl2_page_id: 33259792
+tl2_bhl_page_id: 33259792
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33259792) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

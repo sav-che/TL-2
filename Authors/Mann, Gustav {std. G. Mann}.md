@@ -6,7 +6,7 @@ tl2_surname: Mann
 tl2_forenames: Gustav
 tl2_name_abbrev: G. Mann
 tl2_dates: 1836-1916
-tl2_page_id: 33355364
+tl2_bhl_page_id: 33355364
 author_lsid: 6070-1
 wikidata_id: Q70799
 ipni_surname: Mann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6070-1), [Wikidata](https://www.wikidata.org/wiki/Q70799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6070-1) LSID 6070-1, [Wikidata](https://www.wikidata.org/wiki/Q70799) QID Q70799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

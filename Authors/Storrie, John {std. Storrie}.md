@@ -6,7 +6,7 @@ tl2_surname: Storrie
 tl2_forenames: John
 tl2_name_abbrev: Storrie
 tl2_dates: 1843-1901
-tl2_page_id: 33212066
+tl2_bhl_page_id: 33212066
 author_lsid: 10189-1
 wikidata_id: Q21609913
 ipni_surname: Storrie
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33212066) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10189-1), [Wikidata](https://www.wikidata.org/wiki/Q21609913). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10189-1) LSID 10189-1, [Wikidata](https://www.wikidata.org/wiki/Q21609913) QID Q21609913
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

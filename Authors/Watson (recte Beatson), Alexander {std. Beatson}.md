@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol7_0097
 tl2_volume: vol7
 tl2_page_printed: 97
-tl2_surname: Watson [recte: Beatson]
+tl2_surname: Watson (recte: Beatson)
 tl2_forenames: Alexander
 tl2_name_abbrev: Beatson
 tl2_dates: 1759-1833
-tl2_page_id: 33066437
+tl2_bhl_page_id: 33066437
 author_lsid: 584-1
 wikidata_id: Q2641792
 ipni_surname: Beatson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33066437) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/584-1), [Wikidata](https://www.wikidata.org/wiki/Q2641792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/584-1) LSID 584-1, [Wikidata](https://www.wikidata.org/wiki/Q2641792) QID Q2641792
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beatson, Alexander {std. Beatson}|first entry]] for this author
 

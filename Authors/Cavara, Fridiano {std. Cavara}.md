@@ -6,7 +6,7 @@ tl2_surname: Cavara
 tl2_forenames: Fridiano
 tl2_name_abbrev: Cavara
 tl2_dates: 1857-1929
-tl2_page_id: 33120605
+tl2_bhl_page_id: 33120605
 author_lsid: 1466-1
 wikidata_id: Q4206900
 ipni_surname: Cavara
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33120605) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1466-1), [Wikidata](https://www.wikidata.org/wiki/Q4206900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1466-1) LSID 1466-1, [Wikidata](https://www.wikidata.org/wiki/Q4206900) QID Q4206900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cavara, Fridiano {std. Cavara} (Suppl.)|second entry]] for this author
 

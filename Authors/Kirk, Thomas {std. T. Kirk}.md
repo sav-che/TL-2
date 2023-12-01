@@ -6,7 +6,7 @@ tl2_surname: Kirk
 tl2_forenames: Thomas
 tl2_name_abbrev: T. Kirk
 tl2_dates: 1828-1898
-tl2_page_id: 33068793
+tl2_bhl_page_id: 33068793
 author_lsid: 4809-1
 wikidata_id: Q930525
 ipni_surname: Kirk
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:27:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33068793) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4809-1), [Wikidata](https://www.wikidata.org/wiki/Q930525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4809-1) LSID 4809-1, [Wikidata](https://www.wikidata.org/wiki/Q930525) QID Q930525
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

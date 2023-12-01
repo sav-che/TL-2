@@ -6,7 +6,7 @@ tl2_surname: Burchell
 tl2_forenames: William John
 tl2_name_abbrev: Burch.
 tl2_dates: 1781-1863
-tl2_page_id: 33120540
+tl2_bhl_page_id: 33120540
 author_lsid: 1291-1
 wikidata_id: Q1397207
 ipni_surname: Burchell
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1291-1), [Wikidata](https://www.wikidata.org/wiki/Q1397207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1291-1) LSID 1291-1, [Wikidata](https://www.wikidata.org/wiki/Q1397207) QID Q1397207
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Burchell, William John {std. Burch.} (Suppl.)|second entry]] for this author
 

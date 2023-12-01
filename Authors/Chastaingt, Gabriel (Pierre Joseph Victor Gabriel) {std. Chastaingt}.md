@@ -6,7 +6,7 @@ tl2_surname: Chastaingt
 tl2_forenames: Gabriel (Pierre Joseph Victor Gabriel)
 tl2_name_abbrev: Chastaingt
 tl2_dates: 1831-1892
-tl2_page_id: 33265739
+tl2_bhl_page_id: 33265739
 author_lsid: 40377-1
 wikidata_id: Q21508271
 ipni_surname: Chastaingt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33265739) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/40377-1), [Wikidata](https://www.wikidata.org/wiki/Q21508271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/40377-1) LSID 40377-1, [Wikidata](https://www.wikidata.org/wiki/Q21508271) QID Q21508271
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

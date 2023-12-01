@@ -6,7 +6,7 @@ tl2_surname: Calwer
 tl2_forenames: Carl Gustav
 tl2_name_abbrev: Calwer
 tl2_dates: 1821-1873
-tl2_page_id: 33120557
+tl2_bhl_page_id: 33120557
 author_lsid: 1365-1
 wikidata_id: Q78413
 ipni_surname: Calwer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1365-1), [Wikidata](https://www.wikidata.org/wiki/Q78413). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1365-1) LSID 1365-1, [Wikidata](https://www.wikidata.org/wiki/Q78413) QID Q78413
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Calwer, Carl Gustav {std. Calwer} (Suppl.)|second entry]] for this author
 

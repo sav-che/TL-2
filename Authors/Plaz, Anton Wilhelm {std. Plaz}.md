@@ -6,7 +6,7 @@ tl2_surname: Plaz
 tl2_forenames: Anton Wilhelm
 tl2_name_abbrev: Plaz
 tl2_dates: 1708-1784
-tl2_page_id: 33189763
+tl2_bhl_page_id: 33189763
 author_lsid: 7750-1
 wikidata_id: Q595496
 ipni_surname: Plaz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33189763) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7750-1), [Wikidata](https://www.wikidata.org/wiki/Q595496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7750-1) LSID 7750-1, [Wikidata](https://www.wikidata.org/wiki/Q595496) QID Q595496
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

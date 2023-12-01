@@ -6,7 +6,7 @@ tl2_surname: Lademann
 tl2_forenames: Johann Matthias Friedrich
 tl2_name_abbrev: Lademann
 tl2_dates: 1760-1810
-tl2_page_id: 33068960
+tl2_bhl_page_id: 33068960
 author_lsid: 5195-1
 wikidata_id: Q21518281
 ipni_surname: Lademann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33068960) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5195-1), [Wikidata](https://www.wikidata.org/wiki/Q21518281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5195-1) LSID 5195-1, [Wikidata](https://www.wikidata.org/wiki/Q21518281) QID Q21518281
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

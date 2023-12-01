@@ -6,7 +6,7 @@ tl2_surname: Cypers von Landrecy
 tl2_forenames: Viktor
 tl2_name_abbrev: Cypers
 tl2_dates: 1857-1930
-tl2_page_id: 33266204
+tl2_bhl_page_id: 33266204
 author_lsid: 22024-1
 wikidata_id: Q21509684
 ipni_surname: Cypers von Landrecy
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33266204) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/22024-1), [Wikidata](https://www.wikidata.org/wiki/Q21509684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22024-1) LSID 22024-1, [Wikidata](https://www.wikidata.org/wiki/Q21509684) QID Q21509684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

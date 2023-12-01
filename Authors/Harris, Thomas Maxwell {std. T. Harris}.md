@@ -6,7 +6,7 @@ tl2_surname: Harris
 tl2_forenames: Thomas Maxwell
 tl2_name_abbrev: T. Harris
 tl2_dates: 1903-x
-tl2_page_id: 33068300
+tl2_bhl_page_id: 33068300
 author_lsid: 19991-1
 wikidata_id: Q3525403
 ipni_surname: Harris
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:46:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33068300) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/19991-1), [Wikidata](https://www.wikidata.org/wiki/Q3525403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19991-1) LSID 19991-1, [Wikidata](https://www.wikidata.org/wiki/Q3525403) QID Q3525403
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pammel
 tl2_forenames: Louis Hermann
 tl2_name_abbrev: Pammel
 tl2_dates: 1862-1931
-tl2_page_id: 33189469
+tl2_bhl_page_id: 33189469
 author_lsid: 24493-1
 wikidata_id: Q5981485
 ipni_surname: Pammel
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24493-1), [Wikidata](https://www.wikidata.org/wiki/Q5981485). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24493-1) LSID 24493-1, [Wikidata](https://www.wikidata.org/wiki/Q5981485) QID Q5981485
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

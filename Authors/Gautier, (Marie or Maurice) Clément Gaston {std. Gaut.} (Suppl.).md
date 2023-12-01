@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0106
 tl2_volume: suppl8
 tl2_page_printed: 153
 tl2_surname: Gautier
-tl2_forenames: [Marie or Maurice] Clément Gaston
+tl2_forenames: (Marie or Maurice) Clément Gaston
 tl2_name_abbrev: Gaut.
 tl2_dates: 1841-1911
-tl2_page_id: 33258631
+tl2_bhl_page_id: 33258631
 author_lsid: 3053-1
 wikidata_id: Q9029048
 ipni_surname: Gautier
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33258631) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3053-1), [Wikidata](https://www.wikidata.org/wiki/Q9029048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3053-1) LSID 3053-1, [Wikidata](https://www.wikidata.org/wiki/Q9029048) QID Q9029048
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gautier, Marie Clément Gaston {std. Gaut.}|first entry]] for this author
 

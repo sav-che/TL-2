@@ -6,7 +6,7 @@ tl2_surname: Dodge
 tl2_forenames: Raynal
 tl2_name_abbrev: R. Dodge
 tl2_dates: 1844-1918
-tl2_page_id: 33260007
+tl2_bhl_page_id: 33260007
 author_lsid: 14670-1
 wikidata_id: Q18911129
 ipni_surname: Dodge
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/14670-1), [Wikidata](https://www.wikidata.org/wiki/Q18911129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14670-1) LSID 14670-1, [Wikidata](https://www.wikidata.org/wiki/Q18911129) QID Q18911129
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

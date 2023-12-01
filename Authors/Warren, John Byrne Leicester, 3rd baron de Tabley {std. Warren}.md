@@ -6,7 +6,7 @@ tl2_surname: Warren
 tl2_forenames: John Byrne Leicester, 3rd baron de Tabley
 tl2_name_abbrev: Warren
 tl2_dates: 1835-1895
-tl2_page_id: 33066431
+tl2_bhl_page_id: 33066431
 author_lsid: 11416-1
 wikidata_id: Q6263085
 ipni_surname: Warren
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33066431) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11416-1), [Wikidata](https://www.wikidata.org/wiki/Q6263085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11416-1) LSID 11416-1, [Wikidata](https://www.wikidata.org/wiki/Q6263085) QID Q6263085
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

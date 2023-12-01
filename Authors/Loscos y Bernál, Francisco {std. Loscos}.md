@@ -6,7 +6,7 @@ tl2_surname: Loscos y Bernál
 tl2_forenames: Francisco
 tl2_name_abbrev: Loscos
 tl2_dates: 1823-1886
-tl2_page_id: 33355251
+tl2_bhl_page_id: 33355251
 author_lsid: 5766-1
 wikidata_id: Q3573578
 ipni_surname: Loscos y Bernal
@@ -24,7 +24,8 @@ ipni_record_modified: 2007-10-05 10:25:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5766-1), [Wikidata](https://www.wikidata.org/wiki/Q3573578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5766-1) LSID 5766-1, [Wikidata](https://www.wikidata.org/wiki/Q3573578) QID Q3573578
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

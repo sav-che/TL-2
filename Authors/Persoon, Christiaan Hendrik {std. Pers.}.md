@@ -6,7 +6,7 @@ tl2_surname: Persoon
 tl2_forenames: Christiaan Hendrik
 tl2_name_abbrev: Pers.
 tl2_dates: 1761/1762-1836
-tl2_page_id: 33189649
+tl2_bhl_page_id: 33189649
 author_lsid: 24750-1
 wikidata_id: Q346451
 ipni_surname: Persoon
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:51:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33189649) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24750-1), [Wikidata](https://www.wikidata.org/wiki/Q346451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24750-1) LSID 24750-1, [Wikidata](https://www.wikidata.org/wiki/Q346451) QID Q346451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

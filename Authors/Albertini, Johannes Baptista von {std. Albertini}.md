@@ -6,7 +6,7 @@ tl2_surname: Albertini
 tl2_forenames: Johannes Baptista von
 tl2_name_abbrev: Albertini
 tl2_dates: 1769-1831
-tl2_page_id: 33120158
+tl2_bhl_page_id: 33120158
 author_lsid: 123-1
 wikidata_id: Q62241
 ipni_surname: Albertini
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33120158) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/123-1), [Wikidata](https://www.wikidata.org/wiki/Q62241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/123-1) LSID 123-1, [Wikidata](https://www.wikidata.org/wiki/Q62241) QID Q62241
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Albertini, Johann Baptist von {std. Albertini} (Suppl.)|second entry]] for this author
 

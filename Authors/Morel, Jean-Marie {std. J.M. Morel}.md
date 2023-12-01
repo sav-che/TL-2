@@ -6,7 +6,7 @@ tl2_surname: Morel
 tl2_forenames: Jean-Marie
 tl2_name_abbrev: J.M. Morel
 tl2_dates: 1728-1810
-tl2_page_id: 33355664
+tl2_bhl_page_id: 33355664
 author_lsid: 6643-1
 wikidata_id: Q1535197
 ipni_surname: Morel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6643-1), [Wikidata](https://www.wikidata.org/wiki/Q1535197). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6643-1) LSID 6643-1, [Wikidata](https://www.wikidata.org/wiki/Q1535197) QID Q1535197
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Mertens
 tl2_forenames: Karl (Carl) Heinrich
 tl2_name_abbrev: K. Mert.
 tl2_dates: 1796-1830
-tl2_page_id: 33355518
+tl2_bhl_page_id: 33355518
 author_lsid: 6379-1
 wikidata_id: Q1731499
 ipni_surname: Mertens
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33355518) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6379-1), [Wikidata](https://www.wikidata.org/wiki/Q1731499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6379-1) LSID 6379-1, [Wikidata](https://www.wikidata.org/wiki/Q1731499) QID Q1731499
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

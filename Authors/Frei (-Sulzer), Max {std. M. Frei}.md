@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl7_0269
 tl2_volume: suppl7
 tl2_page_printed: 400
-tl2_surname: Frei [-Sulzer]
+tl2_surname: Frei (-Sulzer)
 tl2_forenames: Max
 tl2_name_abbrev: M. Frei
 tl2_dates: 1913-1983
-tl2_page_id: 33259904
+tl2_bhl_page_id: 33259904
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33259904) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

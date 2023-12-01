@@ -6,7 +6,7 @@ tl2_surname: Melsheimer
 tl2_forenames: Marcellus
 tl2_name_abbrev: Melsheimer
 tl2_dates: 1827-1920
-tl2_page_id: 33355497
+tl2_bhl_page_id: 33355497
 author_lsid: 6337-1
 wikidata_id: Q21520352
 ipni_surname: Melsheimer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6337-1), [Wikidata](https://www.wikidata.org/wiki/Q21520352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6337-1) LSID 6337-1, [Wikidata](https://www.wikidata.org/wiki/Q21520352) QID Q21520352
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

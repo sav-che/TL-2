@@ -6,7 +6,7 @@ tl2_surname: Ruttner
 tl2_forenames: Franz
 tl2_name_abbrev: Ruttner
 tl2_dates: 1882-1961
-tl2_page_id: 33190482
+tl2_bhl_page_id: 33190482
 author_lsid: 8763-1
 wikidata_id: Q105508
 ipni_surname: Ruttner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8763-1), [Wikidata](https://www.wikidata.org/wiki/Q105508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8763-1) LSID 8763-1, [Wikidata](https://www.wikidata.org/wiki/Q105508) QID Q105508
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

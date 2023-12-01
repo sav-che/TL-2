@@ -6,7 +6,7 @@ tl2_surname: Blanchard
 tl2_forenames: Frank Nelson
 tl2_name_abbrev: F.N. Blanch.
 tl2_dates: 1888-1937
-tl2_page_id: 33265397
+tl2_bhl_page_id: 33265397
 author_lsid: 32454-1
 wikidata_id: Q3082748
 ipni_surname: Blanchard
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265397) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32454-1), [Wikidata](https://www.wikidata.org/wiki/Q3082748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32454-1) LSID 32454-1, [Wikidata](https://www.wikidata.org/wiki/Q3082748) QID Q3082748
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

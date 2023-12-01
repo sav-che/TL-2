@@ -6,7 +6,7 @@ tl2_surname: Gams
 tl2_forenames: Helmut
 tl2_name_abbrev: Gams
 tl2_dates: 1893-1976
-tl2_page_id: 33258592
+tl2_bhl_page_id: 33258592
 author_lsid: 19117-1
 wikidata_id: Q86513
 ipni_surname: Gams
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:53:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33258592) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19117-1), [Wikidata](https://www.wikidata.org/wiki/Q86513). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19117-1) LSID 19117-1, [Wikidata](https://www.wikidata.org/wiki/Q86513) QID Q86513
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

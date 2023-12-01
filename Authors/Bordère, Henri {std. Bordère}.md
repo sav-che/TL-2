@@ -6,7 +6,7 @@ tl2_surname: Bordère
 tl2_forenames: Henri
 tl2_name_abbrev: Bordère
 tl2_dates: 1825-1889
-tl2_page_id: 33265529
+tl2_bhl_page_id: 33265529
 author_lsid: 979-1
 wikidata_id: Q5894403
 ipni_surname: Bordère
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265529) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/979-1), [Wikidata](https://www.wikidata.org/wiki/Q5894403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/979-1) LSID 979-1, [Wikidata](https://www.wikidata.org/wiki/Q5894403) QID Q5894403
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

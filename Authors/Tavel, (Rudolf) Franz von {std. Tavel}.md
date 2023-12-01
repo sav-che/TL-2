@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0220
 tl2_volume: vol6
 tl2_page_printed: 185
 tl2_surname: Tavel
-tl2_forenames: [Rudolf] Franz von
+tl2_forenames: (Rudolf) Franz von
 tl2_name_abbrev: Tavel
 tl2_dates: 1863-1941
-tl2_page_id: 33212227
+tl2_bhl_page_id: 33212227
 author_lsid: 12920-1
 wikidata_id: Q21610280
 ipni_surname: Tavel
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:28:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12920-1), [Wikidata](https://www.wikidata.org/wiki/Q21610280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12920-1) LSID 12920-1, [Wikidata](https://www.wikidata.org/wiki/Q21610280) QID Q21610280
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

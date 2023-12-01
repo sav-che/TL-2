@@ -6,7 +6,7 @@ tl2_surname: Emerson
 tl2_forenames: Rollins Adams
 tl2_name_abbrev: R.A. Emers.
 tl2_dates: 1873-1947
-tl2_page_id: 33260322
+tl2_bhl_page_id: 33260322
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33260322) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

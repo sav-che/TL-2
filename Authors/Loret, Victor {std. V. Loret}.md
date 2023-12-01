@@ -6,7 +6,7 @@ tl2_surname: Loret
 tl2_forenames: Victor
 tl2_name_abbrev: V. Loret
 tl2_dates: 1859-?
-tl2_page_id: 33355248
+tl2_bhl_page_id: 33355248
 author_lsid: 5755-1
 wikidata_id: Q552436
 ipni_surname: Loret
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33355248) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5755-1), [Wikidata](https://www.wikidata.org/wiki/Q552436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5755-1) LSID 5755-1, [Wikidata](https://www.wikidata.org/wiki/Q552436) QID Q552436
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

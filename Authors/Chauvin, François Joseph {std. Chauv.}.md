@@ -6,7 +6,7 @@ tl2_surname: Chauvin
 tl2_forenames: François Joseph
 tl2_name_abbrev: Chauv.
 tl2_dates: 1797-1859
-tl2_page_id: 33120621
+tl2_bhl_page_id: 33120621
 author_lsid: 1558-1
 wikidata_id: Q21508289
 ipni_surname: Chauvin
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:44:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1558-1), [Wikidata](https://www.wikidata.org/wiki/Q21508289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1558-1) LSID 1558-1, [Wikidata](https://www.wikidata.org/wiki/Q21508289) QID Q21508289
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

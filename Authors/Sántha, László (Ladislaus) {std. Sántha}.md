@@ -6,7 +6,7 @@ tl2_surname: Sántha
 tl2_forenames: László (Ladislaus)
 tl2_name_abbrev: Sántha
 tl2_dates: 1886-1954
-tl2_page_id: 33333142
+tl2_bhl_page_id: 33333142
 author_lsid: 8904-1
 wikidata_id: Q21516332
 ipni_surname: Sántha
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33333142) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8904-1), [Wikidata](https://www.wikidata.org/wiki/Q21516332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8904-1) LSID 8904-1, [Wikidata](https://www.wikidata.org/wiki/Q21516332) QID Q21516332
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

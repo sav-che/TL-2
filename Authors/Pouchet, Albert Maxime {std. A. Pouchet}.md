@@ -6,7 +6,7 @@ tl2_surname: Pouchet
 tl2_forenames: Albert Maxime
 tl2_name_abbrev: A. Pouchet
 tl2_dates: 1880-1965
-tl2_page_id: 33189836
+tl2_bhl_page_id: 33189836
 author_lsid: 7898-1
 wikidata_id: Q5662647
 ipni_surname: Pouchet
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7898-1), [Wikidata](https://www.wikidata.org/wiki/Q5662647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7898-1) LSID 7898-1, [Wikidata](https://www.wikidata.org/wiki/Q5662647) QID Q5662647
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

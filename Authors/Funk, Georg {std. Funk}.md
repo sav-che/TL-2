@@ -6,7 +6,7 @@ tl2_surname: Funk
 tl2_forenames: Georg
 tl2_name_abbrev: Funk
 tl2_dates: 1886-1958
-tl2_page_id: 33258556
+tl2_bhl_page_id: 33258556
 author_lsid: 33166-1
 wikidata_id: Q21513638
 ipni_surname: Funk
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33258556) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/33166-1), [Wikidata](https://www.wikidata.org/wiki/Q21513638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33166-1) LSID 33166-1, [Wikidata](https://www.wikidata.org/wiki/Q21513638) QID Q21513638
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Forsskål
 tl2_forenames: Pehr (Peter)
 tl2_name_abbrev: Forssk.
 tl2_dates: 1732-1763
-tl2_page_id: 33120986
+tl2_bhl_page_id: 33120986
 author_lsid: 12502-1
 wikidata_id: Q27684
 ipni_surname: Forsskål
@@ -27,7 +27,8 @@ ipni_record_modified: 2011-04-05 14:13:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12502-1), [Wikidata](https://www.wikidata.org/wiki/Q27684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12502-1) LSID 12502-1, [Wikidata](https://www.wikidata.org/wiki/Q27684) QID Q27684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Forsskål (Forsskåhl, Forskål), Pehr (Per, Peter, ...) {std. Forssk.} (Suppl.)|second entry]] for this author
 

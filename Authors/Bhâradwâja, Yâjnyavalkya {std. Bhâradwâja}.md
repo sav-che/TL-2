@@ -6,7 +6,7 @@ tl2_surname: Bhâradwâja
 tl2_forenames: Yâjnyavalkya
 tl2_name_abbrev: Bhâradwâja
 tl2_dates: 1895-1963
-tl2_page_id: 33265351
+tl2_bhl_page_id: 33265351
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33265351) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

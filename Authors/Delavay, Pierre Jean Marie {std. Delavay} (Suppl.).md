@@ -6,7 +6,7 @@ tl2_surname: Delavay
 tl2_forenames: Pierre Jean Marie
 tl2_name_abbrev: Delavay
 tl2_dates: 1834-1895
-tl2_page_id: 33259219
+tl2_bhl_page_id: 33259219
 author_lsid: 2098-1
 wikidata_id: Q2005076
 ipni_surname: Delavay
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2098-1), [Wikidata](https://www.wikidata.org/wiki/Q2005076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2098-1) LSID 2098-1, [Wikidata](https://www.wikidata.org/wiki/Q2005076) QID Q2005076
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Delavay, (Père) Pierre Jean Marie {std. Delavay}|first entry]] for this author
 

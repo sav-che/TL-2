@@ -6,7 +6,7 @@ tl2_surname: Keller
 tl2_forenames: Gottfried
 tl2_name_abbrev: G. Keller
 tl2_dates: 1873-1945
-tl2_page_id: 33068756
+tl2_bhl_page_id: 33068756
 author_lsid: 4705-1
 wikidata_id: Q1252447
 ipni_surname: Keller
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4705-1), [Wikidata](https://www.wikidata.org/wiki/Q1252447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4705-1) LSID 4705-1, [Wikidata](https://www.wikidata.org/wiki/Q1252447) QID Q1252447
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

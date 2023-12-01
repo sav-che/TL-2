@@ -6,7 +6,7 @@ tl2_surname: Comes
 tl2_forenames: Orazio
 tl2_name_abbrev: Comes
 tl2_dates: 1848-1923
-tl2_page_id: 33265963
+tl2_bhl_page_id: 33265963
 author_lsid: 13921-1
 wikidata_id: Q3884907
 ipni_surname: Comes
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265963) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13921-1), [Wikidata](https://www.wikidata.org/wiki/Q3884907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13921-1) LSID 13921-1, [Wikidata](https://www.wikidata.org/wiki/Q3884907) QID Q3884907
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

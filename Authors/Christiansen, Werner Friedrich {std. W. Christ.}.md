@@ -6,7 +6,7 @@ tl2_surname: Christiansen
 tl2_forenames: Werner Friedrich
 tl2_name_abbrev: W. Christ.
 tl2_dates: 1900-?
-tl2_page_id: 33265841
+tl2_bhl_page_id: 33265841
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265841) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

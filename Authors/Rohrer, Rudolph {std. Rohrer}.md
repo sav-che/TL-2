@@ -6,7 +6,7 @@ tl2_surname: Rohrer
 tl2_forenames: Rudolph
 tl2_name_abbrev: Rohrer
 tl2_dates: 1805-1839
-tl2_page_id: 33190337
+tl2_bhl_page_id: 33190337
 author_lsid: 8539-1
 wikidata_id: Q21034870
 ipni_surname: Rohrer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33190337) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8539-1), [Wikidata](https://www.wikidata.org/wiki/Q21034870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8539-1) LSID 8539-1, [Wikidata](https://www.wikidata.org/wiki/Q21034870) QID Q21034870
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

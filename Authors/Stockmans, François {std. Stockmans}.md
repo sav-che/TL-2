@@ -6,7 +6,7 @@ tl2_surname: Stockmans
 tl2_forenames: François
 tl2_name_abbrev: Stockmans
 tl2_dates: 1904-x
-tl2_page_id: 33212084
+tl2_bhl_page_id: 33212084
 author_lsid: 10152-1
 wikidata_id: Q3085859
 ipni_surname: Stockmans
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10152-1), [Wikidata](https://www.wikidata.org/wiki/Q3085859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10152-1) LSID 10152-1, [Wikidata](https://www.wikidata.org/wiki/Q3085859) QID Q3085859
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

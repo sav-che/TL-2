@@ -6,7 +6,7 @@ tl2_surname: Hedrick
 tl2_forenames: Joyce (Mrs Volney Kurt Jones)
 tl2_name_abbrev: J. Hedrick
 tl2_dates: 1897-x
-tl2_page_id: 33068361
+tl2_bhl_page_id: 33068361
 author_lsid: 20124-1
 wikidata_id: Q21339460
 ipni_surname: Hedrick
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/20124-1), [Wikidata](https://www.wikidata.org/wiki/Q21339460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20124-1) LSID 20124-1, [Wikidata](https://www.wikidata.org/wiki/Q21339460) QID Q21339460
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

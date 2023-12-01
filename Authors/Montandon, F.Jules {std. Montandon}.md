@@ -6,7 +6,7 @@ tl2_surname: Montandon
 tl2_forenames: F.Jules
 tl2_name_abbrev: Montandon
 tl2_dates: fl. 1856
-tl2_page_id: 33355651
+tl2_bhl_page_id: 33355651
 author_lsid: 6600-1
 wikidata_id: Q21390171
 ipni_surname: Montandon
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33355651) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6600-1), [Wikidata](https://www.wikidata.org/wiki/Q21390171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6600-1) LSID 6600-1, [Wikidata](https://www.wikidata.org/wiki/Q21390171) QID Q21390171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

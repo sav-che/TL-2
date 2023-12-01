@@ -6,7 +6,7 @@ tl2_surname: Hoffmann
 tl2_forenames: Johan Frederik
 tl2_name_abbrev: J.F. Hoffm.
 tl2_dates: 1823-1841
-tl2_page_id: 33068486
+tl2_bhl_page_id: 33068486
 author_lsid: 34852-1
 wikidata_id: Q21515923
 ipni_surname: Hoffmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/34852-1), [Wikidata](https://www.wikidata.org/wiki/Q21515923). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34852-1) LSID 34852-1, [Wikidata](https://www.wikidata.org/wiki/Q21515923) QID Q21515923
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Vincens
 tl2_forenames: François
 tl2_name_abbrev: Vincens
 tl2_dates: 1880-1925
-tl2_page_id: 33212790
+tl2_bhl_page_id: 33212790
 author_lsid: 28383-1
 wikidata_id: Q21611775
 ipni_surname: Vincens
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/28383-1), [Wikidata](https://www.wikidata.org/wiki/Q21611775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28383-1) LSID 28383-1, [Wikidata](https://www.wikidata.org/wiki/Q21611775) QID Q21611775
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

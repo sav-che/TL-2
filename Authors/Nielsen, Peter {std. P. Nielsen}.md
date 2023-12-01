@@ -6,7 +6,7 @@ tl2_surname: Nielsen
 tl2_forenames: Peter
 tl2_name_abbrev: P. Nielsen
 tl2_dates: 1829-1897
-tl2_page_id: 33355837
+tl2_bhl_page_id: 33355837
 author_lsid: 12233-1
 wikidata_id: Q4993222
 ipni_surname: Nielsen
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:43:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12233-1), [Wikidata](https://www.wikidata.org/wiki/Q4993222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12233-1) LSID 12233-1, [Wikidata](https://www.wikidata.org/wiki/Q4993222) QID Q4993222
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

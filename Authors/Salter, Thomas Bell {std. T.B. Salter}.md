@@ -6,7 +6,7 @@ tl2_surname: Salter
 tl2_forenames: Thomas Bell
 tl2_name_abbrev: T.B. Salter
 tl2_dates: 1814-1858
-tl2_page_id: 33333168
+tl2_bhl_page_id: 33333168
 author_lsid: 638-1
 wikidata_id: Q19001652
 ipni_surname: Salter
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/638-1), [Wikidata](https://www.wikidata.org/wiki/Q19001652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/638-1) LSID 638-1, [Wikidata](https://www.wikidata.org/wiki/Q19001652) QID Q19001652
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

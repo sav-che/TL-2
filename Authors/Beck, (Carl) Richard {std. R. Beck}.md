@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0208
 tl2_volume: vol1
 tl2_page_printed: 160
 tl2_surname: Beck
-tl2_forenames: [Carl] Richard
+tl2_forenames: (Carl) Richard
 tl2_name_abbrev: R. Beck
 tl2_dates: 1858-1919
-tl2_page_id: 33120291
+tl2_bhl_page_id: 33120291
 author_lsid: 34328-1
 wikidata_id: Q2149046
 ipni_surname: Beck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33120291) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/34328-1), [Wikidata](https://www.wikidata.org/wiki/Q2149046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34328-1) LSID 34328-1, [Wikidata](https://www.wikidata.org/wiki/Q2149046) QID Q2149046
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

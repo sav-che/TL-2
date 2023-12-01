@@ -6,7 +6,7 @@ tl2_surname: Bensemann
 tl2_forenames: Hermann
 tl2_name_abbrev: Bensemann
 tl2_dates: 1858-?
-tl2_page_id: 33120303
+tl2_bhl_page_id: 33120303
 author_lsid: 660-1
 wikidata_id: Q21505965
 ipni_surname: Bensemann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33120303) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/660-1), [Wikidata](https://www.wikidata.org/wiki/Q21505965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/660-1) LSID 660-1, [Wikidata](https://www.wikidata.org/wiki/Q21505965) QID Q21505965
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bensemann, Hermann {std. Bensemann} (Suppl.)|second entry]] for this author
 

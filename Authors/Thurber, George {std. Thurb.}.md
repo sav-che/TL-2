@@ -6,7 +6,7 @@ tl2_surname: Thurber
 tl2_forenames: George
 tl2_name_abbrev: Thurb.
 tl2_dates: 1821-1890
-tl2_page_id: 33212376
+tl2_bhl_page_id: 33212376
 author_lsid: 10647-1
 wikidata_id: Q5877950
 ipni_surname: Thurber
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33212376) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10647-1), [Wikidata](https://www.wikidata.org/wiki/Q5877950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10647-1) LSID 10647-1, [Wikidata](https://www.wikidata.org/wiki/Q5877950) QID Q5877950
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

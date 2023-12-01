@@ -6,7 +6,7 @@ tl2_surname: Seier
 tl2_forenames: Eduard Georg
 tl2_name_abbrev: Seler
 tl2_dates: 1849-1922
-tl2_page_id: 33333636
+tl2_bhl_page_id: 33333636
 author_lsid: 9454-1
 wikidata_id: Q68705
 ipni_surname: Seler
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33333636) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9454-1), [Wikidata](https://www.wikidata.org/wiki/Q68705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9454-1) LSID 9454-1, [Wikidata](https://www.wikidata.org/wiki/Q68705) QID Q68705
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

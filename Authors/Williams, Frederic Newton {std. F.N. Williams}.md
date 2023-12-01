@@ -6,7 +6,7 @@ tl2_surname: Williams
 tl2_forenames: Frederic Newton
 tl2_name_abbrev: F.N. Williams
 tl2_dates: 1862-1923
-tl2_page_id: 33066656
+tl2_bhl_page_id: 33066656
 author_lsid: 11701-1
 wikidata_id: Q1452959
 ipni_surname: Williams
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33066656) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11701-1), [Wikidata](https://www.wikidata.org/wiki/Q1452959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11701-1) LSID 11701-1, [Wikidata](https://www.wikidata.org/wiki/Q1452959) QID Q1452959
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

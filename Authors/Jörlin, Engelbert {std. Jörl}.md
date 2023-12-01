@@ -6,27 +6,30 @@ tl2_surname: Jörlin
 tl2_forenames: Engelbert
 tl2_name_abbrev: Jörl
 tl2_dates: 1733-1810
-tl2_page_id: 33068687
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33068687
+author_lsid: 4498-1
+wikidata_id: Q5896385
+ipni_surname: Jörlin
+ipni_forenames: Engelbert
+ipni_standard_form: Jörl.
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4498-1) LSID 4498-1, [Wikidata](https://www.wikidata.org/wiki/Q5896385) QID Q5896385
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Jörlin, Engelbert (1733-1810), Swedish botanist; pupil of Linnaeus; docent in natural history at Lund (1769); adjunct ib. (1781); ultimately rector of a school in Göteborg (1784). 
-**Abbreviated name**: *Jörl*
+**Abbreviated name**: *Jörl* \[standard form in IPNI: *Jörl.*\]
 
 #### Herbarium and types
 

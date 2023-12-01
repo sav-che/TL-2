@@ -6,7 +6,7 @@ tl2_surname: Saldanha da Gama
 tl2_forenames: José de
 tl2_name_abbrev: Saldanha
 tl2_dates: 1839-1905
-tl2_page_id: 33333182
+tl2_bhl_page_id: 33333182
 author_lsid: 8840-1
 wikidata_id: Q21390159
 ipni_surname: Saldanha da Gama
@@ -24,7 +24,8 @@ ipni_record_modified: 2019-01-08 12:41:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33333182) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8840-1), [Wikidata](https://www.wikidata.org/wiki/Q21390159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8840-1) LSID 8840-1, [Wikidata](https://www.wikidata.org/wiki/Q21390159) QID Q21390159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

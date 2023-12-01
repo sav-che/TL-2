@@ -6,7 +6,7 @@ tl2_surname: Hanin
 tl2_forenames: L.
 tl2_name_abbrev: Hanin
 tl2_dates: fl. 1800
-tl2_page_id: 33068287
+tl2_bhl_page_id: 33068287
 author_lsid: 3619-1
 wikidata_id: Q18753610
 ipni_surname: Hanin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-07-25 18:46:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3619-1), [Wikidata](https://www.wikidata.org/wiki/Q18753610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3619-1) LSID 3619-1, [Wikidata](https://www.wikidata.org/wiki/Q18753610) QID Q18753610
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

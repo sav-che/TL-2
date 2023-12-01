@@ -6,7 +6,7 @@ tl2_surname: Louis-Marie
 tl2_forenames: Père (Louis Lalonde)
 tl2_name_abbrev: Louis-Marie
 tl2_dates: 1896-1978
-tl2_page_id: 33355259
+tl2_bhl_page_id: 33355259
 author_lsid: 5225-1
 wikidata_id: Q5981449
 ipni_surname: Louis-Marie
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33355259) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5225-1), [Wikidata](https://www.wikidata.org/wiki/Q5981449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5225-1) LSID 5225-1, [Wikidata](https://www.wikidata.org/wiki/Q5981449) QID Q5981449
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Snyder
 tl2_forenames: Leon Carlton
 tl2_name_abbrev: Snyder
 tl2_dates: 1908-x
-tl2_page_id: 33333851
+tl2_bhl_page_id: 33333851
 author_lsid: 26965-1
 wikidata_id: Q14954619
 ipni_surname: Snyder
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26965-1), [Wikidata](https://www.wikidata.org/wiki/Q14954619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26965-1) LSID 26965-1, [Wikidata](https://www.wikidata.org/wiki/Q14954619) QID Q14954619
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

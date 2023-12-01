@@ -6,7 +6,7 @@ tl2_surname: Cléonique-Joseph
 tl2_forenames: Frère (Julian Bablee)
 tl2_name_abbrev: Cléonique-Joseph
 tl2_dates: 1886-?
-tl2_page_id: 33265888
+tl2_bhl_page_id: 33265888
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265888) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

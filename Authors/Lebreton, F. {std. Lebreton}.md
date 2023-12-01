@@ -6,7 +6,7 @@ tl2_surname: Lebreton
 tl2_forenames: F.
 tl2_name_abbrev: Lebreton
 tl2_dates: fl. 1787
-tl2_page_id: 33069021
+tl2_bhl_page_id: 33069021
 author_lsid: 5379-1
 wikidata_id: Q36555386
 ipni_surname: Lebreton
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5379-1), [Wikidata](https://www.wikidata.org/wiki/Q36555386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5379-1) LSID 5379-1, [Wikidata](https://www.wikidata.org/wiki/Q36555386) QID Q36555386
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

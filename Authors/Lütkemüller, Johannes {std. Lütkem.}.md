@@ -6,7 +6,7 @@ tl2_surname: Lütkemüller
 tl2_forenames: Johannes
 tl2_name_abbrev: Lütkem.
 tl2_dates: 1850-1913
-tl2_page_id: 33355277
+tl2_bhl_page_id: 33355277
 author_lsid: 5823-1
 wikidata_id: Q21339210
 ipni_surname: Lütkemüller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33355277) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5823-1), [Wikidata](https://www.wikidata.org/wiki/Q21339210). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5823-1) LSID 5823-1, [Wikidata](https://www.wikidata.org/wiki/Q21339210) QID Q21339210
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

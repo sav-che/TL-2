@@ -6,7 +6,7 @@ tl2_surname: Lowe
 tl2_forenames: Richard Thomas
 tl2_name_abbrev: R. Lowe
 tl2_dates: 1802-1874
-tl2_page_id: 33355265
+tl2_bhl_page_id: 33355265
 author_lsid: 5787-1
 wikidata_id: Q938919
 ipni_surname: Lowe
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33355265) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5787-1), [Wikidata](https://www.wikidata.org/wiki/Q938919). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5787-1) LSID 5787-1, [Wikidata](https://www.wikidata.org/wiki/Q938919) QID Q938919
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

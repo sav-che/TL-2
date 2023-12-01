@@ -6,7 +6,7 @@ tl2_surname: Magnol
 tl2_forenames: Pierre
 tl2_name_abbrev: Magnol
 tl2_dates: 1638-1715
-tl2_page_id: 33355330
+tl2_bhl_page_id: 33355330
 author_lsid: 5982-1
 wikidata_id: Q522664
 ipni_surname: Magnol
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33355330) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5982-1), [Wikidata](https://www.wikidata.org/wiki/Q522664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5982-1) LSID 5982-1, [Wikidata](https://www.wikidata.org/wiki/Q522664) QID Q522664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

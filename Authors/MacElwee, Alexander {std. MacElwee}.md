@@ -6,7 +6,7 @@ tl2_surname: MacElwee
 tl2_forenames: Alexander
 tl2_name_abbrev: MacElwee
 tl2_dates: 1869-1923
-tl2_page_id: 33355305
+tl2_bhl_page_id: 33355305
 author_lsid: 5913-1
 wikidata_id: Q21519717
 ipni_surname: MacElwee
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5913-1), [Wikidata](https://www.wikidata.org/wiki/Q21519717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5913-1) LSID 5913-1, [Wikidata](https://www.wikidata.org/wiki/Q21519717) QID Q21519717
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Jussieu
 tl2_forenames: Antoine Laurent de
 tl2_name_abbrev: Juss.
 tl2_dates: 1748-1836
-tl2_page_id: 33068719
+tl2_bhl_page_id: 33068719
 author_lsid: 4596-1
 wikidata_id: Q223963
 ipni_surname: Jussieu
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:54:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33068719) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4596-1), [Wikidata](https://www.wikidata.org/wiki/Q223963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4596-1) LSID 4596-1, [Wikidata](https://www.wikidata.org/wiki/Q223963) QID Q223963
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

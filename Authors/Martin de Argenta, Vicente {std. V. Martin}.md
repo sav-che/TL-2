@@ -6,7 +6,7 @@ tl2_surname: Martin de Argenta
 tl2_forenames: Vicente
 tl2_name_abbrev: V. Martin
 tl2_dates: fl. 1862
-tl2_page_id: 33355408
+tl2_bhl_page_id: 33355408
 author_lsid: 6162-1
 wikidata_id: Q36696915
 ipni_surname: Martin de Argenta
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6162-1), [Wikidata](https://www.wikidata.org/wiki/Q36696915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6162-1) LSID 6162-1, [Wikidata](https://www.wikidata.org/wiki/Q36696915) QID Q36696915
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

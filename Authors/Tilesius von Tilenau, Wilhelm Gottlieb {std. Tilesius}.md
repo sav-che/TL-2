@@ -6,7 +6,7 @@ tl2_surname: Tilesius von Tilenau
 tl2_forenames: Wilhelm Gottlieb
 tl2_name_abbrev: Tilesius
 tl2_dates: 1769-1857
-tl2_page_id: 33212395
+tl2_bhl_page_id: 33212395
 author_lsid: 10667-1
 wikidata_id: Q55073307
 ipni_surname: Tilesius von Tilenau
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33212395) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10667-1), [Wikidata](https://www.wikidata.org/wiki/Q55073307). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10667-1) LSID 10667-1, [Wikidata](https://www.wikidata.org/wiki/Q55073307) QID Q55073307
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

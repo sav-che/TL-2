@@ -6,7 +6,7 @@ tl2_surname: Rand
 tl2_forenames: Eduard Sprague
 tl2_name_abbrev: E.S. Rand
 tl2_dates: 1834-1897
-tl2_page_id: 33190046
+tl2_bhl_page_id: 33190046
 author_lsid: 8132-1
 wikidata_id: Q3048678
 ipni_surname: Rand
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8132-1), [Wikidata](https://www.wikidata.org/wiki/Q3048678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8132-1) LSID 8132-1, [Wikidata](https://www.wikidata.org/wiki/Q3048678) QID Q3048678
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

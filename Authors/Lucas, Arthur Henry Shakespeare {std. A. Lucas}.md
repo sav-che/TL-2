@@ -6,7 +6,7 @@ tl2_surname: Lucas
 tl2_forenames: Arthur Henry Shakespeare
 tl2_name_abbrev: A. Lucas
 tl2_dates: 1853-1936
-tl2_page_id: 33355267
+tl2_bhl_page_id: 33355267
 author_lsid: 5794-1
 wikidata_id: Q2865141
 ipni_surname: Lucas
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33355267) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5794-1), [Wikidata](https://www.wikidata.org/wiki/Q2865141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5794-1) LSID 5794-1, [Wikidata](https://www.wikidata.org/wiki/Q2865141) QID Q2865141
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

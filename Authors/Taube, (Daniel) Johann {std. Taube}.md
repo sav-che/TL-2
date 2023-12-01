@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0211
 tl2_volume: vol6
 tl2_page_printed: 178
 tl2_surname: Taube
-tl2_forenames: [Daniel] Johann
+tl2_forenames: (Daniel) Johann
 tl2_name_abbrev: Taube
 tl2_dates: 1727-1799
-tl2_page_id: 33212220
+tl2_bhl_page_id: 33212220
 author_lsid: 12918-1
 wikidata_id: Q16027742
 ipni_surname: Taube
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33212220) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12918-1), [Wikidata](https://www.wikidata.org/wiki/Q16027742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12918-1) LSID 12918-1, [Wikidata](https://www.wikidata.org/wiki/Q16027742) QID Q16027742
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

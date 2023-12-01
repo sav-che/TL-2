@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_1238
 tl2_volume: vol1
 tl2_page_printed: 981
 tl2_surname: Grantzow
-tl2_forenames: Carl [Karl]
+tl2_forenames: Carl (Karl)
 tl2_name_abbrev: Grantzow
 tl2_dates: x-1894
-tl2_page_id: 33121112
+tl2_bhl_page_id: 33121112
 author_lsid: 3337-1
 wikidata_id: Q21514211
 ipni_surname: Grantzow
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33121112) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3337-1), [Wikidata](https://www.wikidata.org/wiki/Q21514211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3337-1) LSID 3337-1, [Wikidata](https://www.wikidata.org/wiki/Q21514211) QID Q21514211
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

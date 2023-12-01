@@ -6,7 +6,7 @@ tl2_surname: Paley
 tl2_forenames: Frederick Apthorp
 tl2_name_abbrev: Paley
 tl2_dates: 1815-1888
-tl2_page_id: 33189503
+tl2_bhl_page_id: 33189503
 author_lsid: 7267-1
 wikidata_id: Q5497260
 ipni_surname: Paley
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7267-1), [Wikidata](https://www.wikidata.org/wiki/Q5497260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7267-1) LSID 7267-1, [Wikidata](https://www.wikidata.org/wiki/Q5497260) QID Q5497260
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

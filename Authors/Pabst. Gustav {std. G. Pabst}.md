@@ -6,7 +6,7 @@ tl2_surname: Pabst. Gustav
 tl2_forenames: Pabst. Gustav
 tl2_name_abbrev: G. Pabst
 tl2_dates: x-1911
-tl2_page_id: 33189514
+tl2_bhl_page_id: 33189514
 author_lsid: 7229-1
 wikidata_id: Q21522498
 ipni_surname: Pabst
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7229-1), [Wikidata](https://www.wikidata.org/wiki/Q21522498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7229-1) LSID 7229-1, [Wikidata](https://www.wikidata.org/wiki/Q21522498) QID Q21522498
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

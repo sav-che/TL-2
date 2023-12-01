@@ -6,7 +6,7 @@ tl2_surname: Ravaud
 tl2_forenames: Louis Célestine Mure, abbé
 tl2_name_abbrev: Ravaud
 tl2_dates: 1822-1898
-tl2_page_id: 33190067
+tl2_bhl_page_id: 33190067
 author_lsid: 8176-1
 wikidata_id: Q21607007
 ipni_surname: Ravaud
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33190067) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8176-1), [Wikidata](https://www.wikidata.org/wiki/Q21607007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8176-1) LSID 8176-1, [Wikidata](https://www.wikidata.org/wiki/Q21607007) QID Q21607007
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

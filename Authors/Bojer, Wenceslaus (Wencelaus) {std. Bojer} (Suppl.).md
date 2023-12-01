@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0341
 tl2_volume: suppl2
 tl2_page_printed: 287
 tl2_surname: Bojer
-tl2_forenames: Wenceslaus [Wencelaus]
+tl2_forenames: Wenceslaus (Wencelaus)
 tl2_name_abbrev: Bojer
 tl2_dates: 1797-1856
-tl2_page_id: 33265484
+tl2_bhl_page_id: 33265484
 author_lsid: 921-1
 wikidata_id: Q637799
 ipni_surname: Bojer
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:42:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33265484) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/921-1), [Wikidata](https://www.wikidata.org/wiki/Q637799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/921-1) LSID 921-1, [Wikidata](https://www.wikidata.org/wiki/Q637799) QID Q637799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bojer, Wenceslas (Wenzel) {std. Bojer}|first entry]] for this author
 

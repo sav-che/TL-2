@@ -6,7 +6,7 @@ tl2_surname: Trier
 tl2_forenames: Georg
 tl2_name_abbrev: Trier
 tl2_dates: 1884-1944
-tl2_page_id: 33212531
+tl2_bhl_page_id: 33212531
 author_lsid: 10821-1
 wikidata_id: Q21610954
 ipni_surname: Trier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10821-1), [Wikidata](https://www.wikidata.org/wiki/Q21610954). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10821-1) LSID 10821-1, [Wikidata](https://www.wikidata.org/wiki/Q21610954) QID Q21610954
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

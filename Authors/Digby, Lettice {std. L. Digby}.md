@@ -6,7 +6,7 @@ tl2_surname: Digby
 tl2_forenames: Lettice
 tl2_name_abbrev: L. Digby
 tl2_dates: fl. 1905-1919
-tl2_page_id: 33259384
+tl2_bhl_page_id: 33259384
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259384) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

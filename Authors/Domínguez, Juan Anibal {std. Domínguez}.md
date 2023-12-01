@@ -6,7 +6,7 @@ tl2_surname: Domínguez
 tl2_forenames: Juan Anibal
 tl2_name_abbrev: Domínguez
 tl2_dates: 1876-1946
-tl2_page_id: 33260033
+tl2_bhl_page_id: 33260033
 author_lsid: 18130-1
 wikidata_id: Q5947524
 ipni_surname: Domínguez
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33260033) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18130-1), [Wikidata](https://www.wikidata.org/wiki/Q5947524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18130-1) LSID 18130-1, [Wikidata](https://www.wikidata.org/wiki/Q5947524) QID Q5947524
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

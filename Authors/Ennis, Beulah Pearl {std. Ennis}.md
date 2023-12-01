@@ -6,7 +6,7 @@ tl2_surname: Ennis
 tl2_forenames: Beulah Pearl
 tl2_name_abbrev: Ennis
 tl2_dates: 1894-x
-tl2_page_id: 33260367
+tl2_bhl_page_id: 33260367
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33260367) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

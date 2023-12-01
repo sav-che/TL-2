@@ -6,7 +6,7 @@ tl2_surname: Lönnrot
 tl2_forenames: Elias
 tl2_name_abbrev: Lönnrot
 tl2_dates: 1802-1884
-tl2_page_id: 33355227
+tl2_bhl_page_id: 33355227
 author_lsid: 5700-1
 wikidata_id: Q153159
 ipni_surname: Lönnrot
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33355227) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5700-1), [Wikidata](https://www.wikidata.org/wiki/Q153159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5700-1) LSID 5700-1, [Wikidata](https://www.wikidata.org/wiki/Q153159) QID Q153159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

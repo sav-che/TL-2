@@ -6,7 +6,7 @@ tl2_surname: Klein
 tl2_forenames: Jakob Theodor
 tl2_name_abbrev: Klein
 tl2_dates: 1685-1759
-tl2_page_id: 33068806
+tl2_bhl_page_id: 33068806
 author_lsid: 4835-1
 wikidata_id: Q65219
 ipni_surname: Klein
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33068806) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4835-1), [Wikidata](https://www.wikidata.org/wiki/Q65219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4835-1) LSID 4835-1, [Wikidata](https://www.wikidata.org/wiki/Q65219) QID Q65219
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

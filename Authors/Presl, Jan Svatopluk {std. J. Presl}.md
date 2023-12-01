@@ -6,7 +6,7 @@ tl2_surname: Presl
 tl2_forenames: Jan Svatopluk
 tl2_name_abbrev: J. Presl
 tl2_dates: 1791-1849
-tl2_page_id: 33189860
+tl2_bhl_page_id: 33189860
 author_lsid: 7947-1
 wikidata_id: Q379593
 ipni_surname: Presl
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33189860) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7947-1), [Wikidata](https://www.wikidata.org/wiki/Q379593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7947-1) LSID 7947-1, [Wikidata](https://www.wikidata.org/wiki/Q379593) QID Q379593
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

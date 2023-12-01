@@ -6,7 +6,7 @@ tl2_surname: Noroña
 tl2_forenames: Francisco (Noronha, François; also err. Fernando)
 tl2_name_abbrev: Noroña
 tl2_dates: ca. 1748-1788
-tl2_page_id: 33355860
+tl2_bhl_page_id: 33355860
 author_lsid: 7038-1
 wikidata_id: Q332408
 ipni_surname: Noroña
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7038-1), [Wikidata](https://www.wikidata.org/wiki/Q332408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7038-1) LSID 7038-1, [Wikidata](https://www.wikidata.org/wiki/Q332408) QID Q332408
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

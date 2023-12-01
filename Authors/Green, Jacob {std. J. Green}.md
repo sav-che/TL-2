@@ -6,7 +6,7 @@ tl2_surname: Green
 tl2_forenames: Jacob
 tl2_name_abbrev: J. Green
 tl2_dates: 1790-1841
-tl2_page_id: 33258831
+tl2_bhl_page_id: 33258831
 author_lsid: 20016486-2
 wikidata_id: Q3157544
 ipni_surname: Green
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33258831) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20016486-2), [Wikidata](https://www.wikidata.org/wiki/Q3157544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20016486-2) LSID 20016486-2, [Wikidata](https://www.wikidata.org/wiki/Q3157544) QID Q3157544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

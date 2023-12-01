@@ -6,7 +6,7 @@ tl2_surname: Jones
 tl2_forenames: Rev. John Pike
 tl2_name_abbrev: J.P. Jones
 tl2_dates: 1790-1857
-tl2_page_id: 33068697
+tl2_bhl_page_id: 33068697
 author_lsid: 4536-1
 wikidata_id: Q18671903
 ipni_surname: Jones
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33068697) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4536-1), [Wikidata](https://www.wikidata.org/wiki/Q18671903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4536-1) LSID 4536-1, [Wikidata](https://www.wikidata.org/wiki/Q18671903) QID Q18671903
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

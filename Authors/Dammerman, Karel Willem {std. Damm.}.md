@@ -6,7 +6,7 @@ tl2_surname: Dammerman
 tl2_forenames: Karel Willem
 tl2_name_abbrev: Damm.
 tl2_dates: 1885-1951
-tl2_page_id: 33259088
+tl2_bhl_page_id: 33259088
 author_lsid: 1976-1
 wikidata_id: Q2541651
 ipni_surname: Dammerman
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33259088) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1976-1), [Wikidata](https://www.wikidata.org/wiki/Q2541651). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1976-1) LSID 1976-1, [Wikidata](https://www.wikidata.org/wiki/Q2541651) QID Q2541651
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dulfer
 tl2_forenames: Hans
 tl2_name_abbrev: Dulfer
 tl2_dates: 1900-1975
-tl2_page_id: 33260146
+tl2_bhl_page_id: 33260146
 author_lsid: 2366-1
 wikidata_id: Q21511032
 ipni_surname: Dulfer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2366-1), [Wikidata](https://www.wikidata.org/wiki/Q21511032). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2366-1) LSID 2366-1, [Wikidata](https://www.wikidata.org/wiki/Q21511032) QID Q21511032
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

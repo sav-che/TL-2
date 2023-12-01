@@ -6,7 +6,7 @@ tl2_surname: Almquist
 tl2_forenames: Erik Gustaf
 tl2_name_abbrev: E.G. Almq.
 tl2_dates: 1892-1974
-tl2_page_id: 33264809
+tl2_bhl_page_id: 33264809
 author_lsid: 164-1
 wikidata_id: Q5547529
 ipni_surname: Almquist
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33264809) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/164-1), [Wikidata](https://www.wikidata.org/wiki/Q5547529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/164-1) LSID 164-1, [Wikidata](https://www.wikidata.org/wiki/Q5547529) QID Q5547529
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

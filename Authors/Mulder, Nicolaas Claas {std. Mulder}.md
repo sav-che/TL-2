@@ -6,7 +6,7 @@ tl2_surname: Mulder
 tl2_forenames: Nicolaas Claas
 tl2_name_abbrev: Mulder
 tl2_dates: 1796-1867
-tl2_page_id: 33355745
+tl2_bhl_page_id: 33355745
 author_lsid: 6764-1
 wikidata_id: Q13135033
 ipni_surname: Mulder
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33355745) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6764-1), [Wikidata](https://www.wikidata.org/wiki/Q13135033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6764-1) LSID 6764-1, [Wikidata](https://www.wikidata.org/wiki/Q13135033) QID Q13135033
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kachler
 tl2_forenames: Johann
 tl2_name_abbrev: Kachl.
 tl2_dates: 1782-1863, or later
-tl2_page_id: 33068725
+tl2_bhl_page_id: 33068725
 author_lsid: 4610-1
 wikidata_id: Q21517205
 ipni_surname: Kachler
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33068725) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4610-1), [Wikidata](https://www.wikidata.org/wiki/Q21517205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4610-1) LSID 4610-1, [Wikidata](https://www.wikidata.org/wiki/Q21517205) QID Q21517205
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

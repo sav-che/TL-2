@@ -6,7 +6,7 @@ tl2_surname: Bolus
 tl2_forenames: Harry
 tl2_name_abbrev: H. Bolus
 tl2_dates: 1834-1911
-tl2_page_id: 33120397
+tl2_bhl_page_id: 33120397
 author_lsid: 938-1
 wikidata_id: Q4091070
 ipni_surname: Bolus
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33120397) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/938-1), [Wikidata](https://www.wikidata.org/wiki/Q4091070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/938-1) LSID 938-1, [Wikidata](https://www.wikidata.org/wiki/Q4091070) QID Q4091070
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bolus, Harry {std. Bolus} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Parlatore
 tl2_forenames: Filippo
 tl2_name_abbrev: Parl.
 tl2_dates: 1816-1877
-tl2_page_id: 33189537
+tl2_bhl_page_id: 33189537
 author_lsid: 7355-1
 wikidata_id: Q751200
 ipni_surname: Parlatore
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33189537) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7355-1), [Wikidata](https://www.wikidata.org/wiki/Q751200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7355-1) LSID 7355-1, [Wikidata](https://www.wikidata.org/wiki/Q751200) QID Q751200
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

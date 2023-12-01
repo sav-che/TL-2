@@ -6,7 +6,7 @@ tl2_surname: Shirai
 tl2_forenames: Mitsutaro (Kotaro)
 tl2_name_abbrev: Shirai
 tl2_dates: 1863-1962
-tl2_page_id: 33333705
+tl2_bhl_page_id: 33333705
 author_lsid: 9582-1
 wikidata_id: Q5926602
 ipni_surname: Shirai
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9582-1), [Wikidata](https://www.wikidata.org/wiki/Q5926602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9582-1) LSID 9582-1, [Wikidata](https://www.wikidata.org/wiki/Q5926602) QID Q5926602
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

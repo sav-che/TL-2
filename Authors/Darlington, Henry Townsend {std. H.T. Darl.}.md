@@ -6,7 +6,7 @@ tl2_surname: Darlington
 tl2_forenames: Henry Townsend
 tl2_name_abbrev: H.T. Darl.
 tl2_dates: 1875-1964
-tl2_page_id: 33259118
+tl2_bhl_page_id: 33259118
 author_lsid: 17699-1
 wikidata_id: Q21509803
 ipni_surname: Darlington
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259118) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17699-1), [Wikidata](https://www.wikidata.org/wiki/Q21509803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17699-1) LSID 17699-1, [Wikidata](https://www.wikidata.org/wiki/Q21509803) QID Q21509803
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

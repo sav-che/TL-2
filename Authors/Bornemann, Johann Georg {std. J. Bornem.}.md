@@ -6,7 +6,7 @@ tl2_surname: Bornemann
 tl2_forenames: Johann Georg
 tl2_name_abbrev: J. Bornemann
 tl2_dates: 1831-1896
-tl2_page_id: 33120412
+tl2_bhl_page_id: 33120412
 author_lsid: 991-1
 wikidata_id: Q1693783
 ipni_surname: Bornemann
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/991-1), [Wikidata](https://www.wikidata.org/wiki/Q1693783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/991-1) LSID 991-1, [Wikidata](https://www.wikidata.org/wiki/Q1693783) QID Q1693783
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bornemann, Johann Georg {std. J. Bornem.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Clausen
 tl2_forenames: Robert Theodore
 tl2_name_abbrev: R.T. Clausen
 tl2_dates: 1911-1981
-tl2_page_id: 33265872
+tl2_bhl_page_id: 33265872
 author_lsid: 1677-1
 wikidata_id: Q6109537
 ipni_surname: Clausen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1677-1), [Wikidata](https://www.wikidata.org/wiki/Q6109537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1677-1) LSID 1677-1, [Wikidata](https://www.wikidata.org/wiki/Q6109537) QID Q6109537
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

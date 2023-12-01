@@ -6,7 +6,7 @@ tl2_surname: Heydrich
 tl2_forenames: Franz
 tl2_name_abbrev: Heydr.
 tl2_dates: x-1911
-tl2_page_id: 33068429
+tl2_bhl_page_id: 33068429
 author_lsid: 3919-1
 wikidata_id: Q21515776
 ipni_surname: Heydrich
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33068429) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3919-1), [Wikidata](https://www.wikidata.org/wiki/Q21515776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3919-1) LSID 3919-1, [Wikidata](https://www.wikidata.org/wiki/Q21515776) QID Q21515776
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

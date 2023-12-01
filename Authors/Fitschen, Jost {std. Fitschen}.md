@@ -6,7 +6,7 @@ tl2_surname: Fitschen
 tl2_forenames: Jost
 tl2_name_abbrev: Fitschen
 tl2_dates: 1869-1947
-tl2_page_id: 33259730
+tl2_bhl_page_id: 33259730
 author_lsid: 2761-1
 wikidata_id: Q123099
 ipni_surname: Fitschen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33259730) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2761-1), [Wikidata](https://www.wikidata.org/wiki/Q123099). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2761-1) LSID 2761-1, [Wikidata](https://www.wikidata.org/wiki/Q123099) QID Q123099
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

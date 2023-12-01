@@ -6,7 +6,7 @@ tl2_surname: Berro
 tl2_forenames: Mariano B.
 tl2_name_abbrev: Berro
 tl2_dates: x-1922
-tl2_page_id: 33265310
+tl2_bhl_page_id: 33265310
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265310) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

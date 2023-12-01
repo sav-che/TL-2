@@ -6,7 +6,7 @@ tl2_surname: Suffren
 tl2_forenames: François Palamède, Marquis de
 tl2_name_abbrev: Suffren
 tl2_dates: 1753-1824
-tl2_page_id: 33212125
+tl2_bhl_page_id: 33212125
 author_lsid: 10277-1
 wikidata_id: Q19360145
 ipni_surname: Suffren
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33212125) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10277-1), [Wikidata](https://www.wikidata.org/wiki/Q19360145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10277-1) LSID 10277-1, [Wikidata](https://www.wikidata.org/wiki/Q19360145) QID Q19360145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

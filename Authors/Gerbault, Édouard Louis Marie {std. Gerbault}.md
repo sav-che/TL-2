@@ -6,7 +6,7 @@ tl2_surname: Gerbault
 tl2_forenames: Édouard Louis Marie
 tl2_name_abbrev: Gerbault
 tl2_dates: 1866-1923
-tl2_page_id: 33258666
+tl2_bhl_page_id: 33258666
 author_lsid: 39991-1
 wikidata_id: Q21513919
 ipni_surname: Gerbault
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33258666) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/39991-1), [Wikidata](https://www.wikidata.org/wiki/Q21513919). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/39991-1) LSID 39991-1, [Wikidata](https://www.wikidata.org/wiki/Q21513919) QID Q21513919
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

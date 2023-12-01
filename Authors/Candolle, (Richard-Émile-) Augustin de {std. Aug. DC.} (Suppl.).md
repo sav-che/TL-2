@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0344
 tl2_volume: suppl3
 tl2_page_printed: 389
 tl2_surname: Candolle
-tl2_forenames: [Richard-Émile-] Augustin de
+tl2_forenames: (Richard-Émile-) Augustin de
 tl2_name_abbrev: Aug. DC.
 tl2_dates: 1868-1920
-tl2_page_id: 33266696
+tl2_bhl_page_id: 33266696
 author_lsid: 2067-1
 wikidata_id: Q3431395
 ipni_surname: Candolle
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33266696) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/2067-1), [Wikidata](https://www.wikidata.org/wiki/Q3431395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2067-1) LSID 2067-1, [Wikidata](https://www.wikidata.org/wiki/Q3431395) QID Q3431395
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Candolle, Richard Émile Augustin de {std. Aug. DC.}|first entry]] for this author
 

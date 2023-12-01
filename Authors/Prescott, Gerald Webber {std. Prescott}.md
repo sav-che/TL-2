@@ -6,7 +6,7 @@ tl2_surname: Prescott
 tl2_forenames: Gerald Webber
 tl2_name_abbrev: Prescott
 tl2_dates: 1899-x
-tl2_page_id: 33189859
+tl2_bhl_page_id: 33189859
 author_lsid: 7944-1
 wikidata_id: Q21523224
 ipni_surname: Prescott
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33189859) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7944-1), [Wikidata](https://www.wikidata.org/wiki/Q21523224). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7944-1) LSID 7944-1, [Wikidata](https://www.wikidata.org/wiki/Q21523224) QID Q21523224
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

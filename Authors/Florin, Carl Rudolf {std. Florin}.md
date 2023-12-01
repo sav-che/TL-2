@@ -6,7 +6,7 @@ tl2_surname: Florin
 tl2_forenames: Carl Rudolf
 tl2_name_abbrev: Florin
 tl2_dates: 1894-1965
-tl2_page_id: 33120979
+tl2_bhl_page_id: 33120979
 author_lsid: 2790-1
 wikidata_id: Q2938999
 ipni_surname: Florin
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2790-1), [Wikidata](https://www.wikidata.org/wiki/Q2938999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2790-1) LSID 2790-1, [Wikidata](https://www.wikidata.org/wiki/Q2938999) QID Q2938999
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Florin, Carl (Karl) Rudolf (Rudolph) {std. Florin} (Suppl.)|second entry]] for this author
 

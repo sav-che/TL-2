@@ -6,7 +6,7 @@ tl2_surname: Mouton-Fontenille de la Clotte
 tl2_forenames: Marie Jacques Philippe
 tl2_name_abbrev: Mouton-Font.
 tl2_dates: 1769-1837
-tl2_page_id: 33355697
+tl2_bhl_page_id: 33355697
 author_lsid: 6717-1
 wikidata_id: Q3292585
 ipni_surname: Mouton-Fontenille de la Clotte
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33355697) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6717-1), [Wikidata](https://www.wikidata.org/wiki/Q3292585). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6717-1) LSID 6717-1, [Wikidata](https://www.wikidata.org/wiki/Q3292585) QID Q3292585
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

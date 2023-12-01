@@ -6,7 +6,7 @@ tl2_surname: Bell
 tl2_forenames: Hugh Philip
 tl2_name_abbrev: H.P. Bell
 tl2_dates: 1889-x
-tl2_page_id: 33265260
+tl2_bhl_page_id: 33265260
 author_lsid: 15899-1
 wikidata_id: Q21505912
 ipni_surname: Bell
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/15899-1), [Wikidata](https://www.wikidata.org/wiki/Q21505912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15899-1) LSID 15899-1, [Wikidata](https://www.wikidata.org/wiki/Q21505912) QID Q21505912
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

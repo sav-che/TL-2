@@ -6,7 +6,7 @@ tl2_surname: Demerson
 tl2_forenames: L.
 tl2_name_abbrev: Demerson
 tl2_dates: 17..-18..
-tl2_page_id: 33259243
+tl2_bhl_page_id: 33259243
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

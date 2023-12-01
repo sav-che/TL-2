@@ -6,7 +6,7 @@ tl2_surname: Fryer
 tl2_forenames: Alfred
 tl2_name_abbrev: Fryer
 tl2_dates: 1826-1912
-tl2_page_id: 33121025
+tl2_bhl_page_id: 33121025
 author_lsid: 19019-1
 wikidata_id: Q4722695
 ipni_surname: Fryer
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19019-1), [Wikidata](https://www.wikidata.org/wiki/Q4722695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19019-1) LSID 19019-1, [Wikidata](https://www.wikidata.org/wiki/Q4722695) QID Q4722695
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fryer, Alfred {std. Fryer} (Suppl.)|second entry]] for this author
 

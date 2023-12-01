@@ -6,7 +6,7 @@ tl2_surname: Rainer
 tl2_forenames: Moriz (Moritz) von und zu Haarbach
 tl2_name_abbrev: Rainer
 tl2_dates: 1793-1847
-tl2_page_id: 33190036
+tl2_bhl_page_id: 33190036
 author_lsid: 12756-1
 wikidata_id: Q21606852
 ipni_surname: Rainer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33190036) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12756-1), [Wikidata](https://www.wikidata.org/wiki/Q21606852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12756-1) LSID 12756-1, [Wikidata](https://www.wikidata.org/wiki/Q21606852) QID Q21606852
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

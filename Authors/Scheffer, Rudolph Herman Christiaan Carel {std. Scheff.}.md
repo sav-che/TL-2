@@ -6,7 +6,7 @@ tl2_surname: Scheffer
 tl2_forenames: Rudolph Herman Christiaan Carel
 tl2_name_abbrev: Scheff.
 tl2_dates: 1844-1880
-tl2_page_id: 33333262
+tl2_bhl_page_id: 33333262
 author_lsid: 9034-1
 wikidata_id: Q2120467
 ipni_surname: Scheffer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33333262) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9034-1), [Wikidata](https://www.wikidata.org/wiki/Q2120467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9034-1) LSID 9034-1, [Wikidata](https://www.wikidata.org/wiki/Q2120467) QID Q2120467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

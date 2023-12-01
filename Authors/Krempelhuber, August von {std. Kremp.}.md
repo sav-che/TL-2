@@ -6,7 +6,7 @@ tl2_surname: Krempelhuber
 tl2_forenames: August von
 tl2_name_abbrev: Kremp.
 tl2_dates: 1813-1882
-tl2_page_id: 33068913
+tl2_bhl_page_id: 33068913
 author_lsid: 5057-1
 wikidata_id: Q4820864
 ipni_surname: Krempelhuber
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33068913) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5057-1), [Wikidata](https://www.wikidata.org/wiki/Q4820864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5057-1) LSID 5057-1, [Wikidata](https://www.wikidata.org/wiki/Q4820864) QID Q4820864
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

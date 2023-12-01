@@ -6,7 +6,7 @@ tl2_surname: Eyma
 tl2_forenames: Pierre Joseph
 tl2_name_abbrev: Eyma
 tl2_dates: 1903-1945
-tl2_page_id: 33120939
+tl2_bhl_page_id: 33120939
 author_lsid: 2609-1
 wikidata_id: Q7192284
 ipni_surname: Eyma
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33120939) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2609-1), [Wikidata](https://www.wikidata.org/wiki/Q7192284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2609-1) LSID 2609-1, [Wikidata](https://www.wikidata.org/wiki/Q7192284) QID Q7192284
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Eyma, Pierre Joseph {std. Eyma} (Suppl.)|second entry]] for this author
 

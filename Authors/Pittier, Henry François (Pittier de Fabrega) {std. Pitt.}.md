@@ -6,7 +6,7 @@ tl2_surname: Pittier
 tl2_forenames: Henry François (Pittier de Fabrega)
 tl2_name_abbrev: Pitt.
 tl2_dates: 1857-1950
-tl2_page_id: 33189750
+tl2_bhl_page_id: 33189750
 author_lsid: 31430-1
 wikidata_id: Q116003
 ipni_surname: Pittier
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:31:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33189750) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/31430-1), [Wikidata](https://www.wikidata.org/wiki/Q116003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31430-1) LSID 31430-1, [Wikidata](https://www.wikidata.org/wiki/Q116003) QID Q116003
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Boott
 tl2_forenames: Francis M. B.
 tl2_name_abbrev: Boott
 tl2_dates: 1792-1863
-tl2_page_id: 33120408
+tl2_bhl_page_id: 33120408
 author_lsid: 972-1
 wikidata_id: Q4100323
 ipni_surname: Boott
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33120408) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/972-1), [Wikidata](https://www.wikidata.org/wiki/Q4100323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/972-1) LSID 972-1, [Wikidata](https://www.wikidata.org/wiki/Q4100323) QID Q4100323
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boott, Francis {std. Boott} (Suppl.)|second entry]] for this author
 

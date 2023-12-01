@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0647
 tl2_volume: vol6
 tl2_page_printed: 663
 tl2_surname: Vandevelde
-tl2_forenames: Albert [Jacob Josef]
+tl2_forenames: Albert (Jacob Josef)
 tl2_name_abbrev: Vandevelde
 tl2_dates: 1871-?
-tl2_page_id: 33212705
+tl2_bhl_page_id: 33212705
 author_lsid: 12963-1
 wikidata_id: Q21611453
 ipni_surname: Vandevelde
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33212705) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12963-1), [Wikidata](https://www.wikidata.org/wiki/Q21611453). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12963-1) LSID 12963-1, [Wikidata](https://www.wikidata.org/wiki/Q21611453) QID Q21611453
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

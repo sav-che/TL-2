@@ -6,7 +6,7 @@ tl2_surname: Siegfried
 tl2_forenames: Hans
 tl2_name_abbrev: Siegfr.
 tl2_dates: 1837-1903
-tl2_page_id: 33333732
+tl2_bhl_page_id: 33333732
 author_lsid: 9621-1
 wikidata_id: Q21608861
 ipni_surname: Siegfried
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33333732) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9621-1), [Wikidata](https://www.wikidata.org/wiki/Q21608861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9621-1) LSID 9621-1, [Wikidata](https://www.wikidata.org/wiki/Q21608861) QID Q21608861
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

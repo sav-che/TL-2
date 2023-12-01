@@ -6,7 +6,7 @@ tl2_surname: Harshberger
 tl2_forenames: John William Cleghorn
 tl2_name_abbrev: Harshb.
 tl2_dates: 1869-1929
-tl2_page_id: 33068301
+tl2_bhl_page_id: 33068301
 author_lsid: 3682-1
 wikidata_id: Q1570981
 ipni_surname: Harshberger
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33068301) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3682-1), [Wikidata](https://www.wikidata.org/wiki/Q1570981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3682-1) LSID 3682-1, [Wikidata](https://www.wikidata.org/wiki/Q1570981) QID Q1570981
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

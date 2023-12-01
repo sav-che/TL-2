@@ -6,7 +6,7 @@ tl2_surname: Blasdale
 tl2_forenames: Walter Charles
 tl2_name_abbrev: Blasdale
 tl2_dates: 1871-1960
-tl2_page_id: 33265404
+tl2_bhl_page_id: 33265404
 author_lsid: 16207-1
 wikidata_id: Q21506184
 ipni_surname: Blasdale
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:37:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16207-1), [Wikidata](https://www.wikidata.org/wiki/Q21506184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16207-1) LSID 16207-1, [Wikidata](https://www.wikidata.org/wiki/Q21506184) QID Q21506184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

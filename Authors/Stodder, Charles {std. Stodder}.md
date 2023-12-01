@@ -6,7 +6,7 @@ tl2_surname: Stodder
 tl2_forenames: Charles
 tl2_name_abbrev: Stodder
 tl2_dates: 1808-1883
-tl2_page_id: 33212083
+tl2_bhl_page_id: 33212083
 author_lsid: 10156-1
 wikidata_id: Q21609876
 ipni_surname: Stodder
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33212083) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10156-1), [Wikidata](https://www.wikidata.org/wiki/Q21609876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10156-1) LSID 10156-1, [Wikidata](https://www.wikidata.org/wiki/Q21609876) QID Q21609876
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

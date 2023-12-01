@@ -6,7 +6,7 @@ tl2_surname: Schöpf
 tl2_forenames: Johann David
 tl2_name_abbrev: Schöpf
 tl2_dates: 1752-1800
-tl2_page_id: 33333431
+tl2_bhl_page_id: 33333431
 author_lsid: 9222-1
 wikidata_id: Q67201
 ipni_surname: Schöpf
@@ -23,7 +23,8 @@ ipni_record_modified: 2005-08-26 09:23:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33333431) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9222-1), [Wikidata](https://www.wikidata.org/wiki/Q67201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9222-1) LSID 9222-1, [Wikidata](https://www.wikidata.org/wiki/Q67201) QID Q67201
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

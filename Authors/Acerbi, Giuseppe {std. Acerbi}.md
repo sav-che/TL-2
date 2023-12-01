@@ -6,7 +6,7 @@ tl2_surname: Acerbi
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Acerbi
 tl2_dates: 1773-1846
-tl2_page_id: 33264762
+tl2_bhl_page_id: 33264762
 author_lsid: 20016134-2
 wikidata_id: Q55007624
 ipni_surname: Acerbi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33264762) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/20016134-2), [Wikidata](https://www.wikidata.org/wiki/Q55007624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20016134-2) LSID 20016134-2, [Wikidata](https://www.wikidata.org/wiki/Q55007624) QID Q55007624
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

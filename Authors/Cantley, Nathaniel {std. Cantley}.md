@@ -6,7 +6,7 @@ tl2_surname: Cantley
 tl2_forenames: Nathaniel
 tl2_name_abbrev: Cantley
 tl2_dates: x-1888
-tl2_page_id: 33266699
+tl2_bhl_page_id: 33266699
 author_lsid: 13904-1
 wikidata_id: Q21390352
 ipni_surname: Cantley
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:44:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33266699) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/13904-1), [Wikidata](https://www.wikidata.org/wiki/Q21390352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13904-1) LSID 13904-1, [Wikidata](https://www.wikidata.org/wiki/Q21390352) QID Q21390352
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

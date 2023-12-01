@@ -6,7 +6,7 @@ tl2_surname: Heister
 tl2_forenames: Lorenz
 tl2_name_abbrev: Heist.
 tl2_dates: 1683-1758
-tl2_page_id: 33068383
+tl2_bhl_page_id: 33068383
 author_lsid: 3800-1
 wikidata_id: Q63829
 ipni_surname: Heister
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33068383) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3800-1), [Wikidata](https://www.wikidata.org/wiki/Q63829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3800-1) LSID 3800-1, [Wikidata](https://www.wikidata.org/wiki/Q63829) QID Q63829
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Skutch
 tl2_forenames: Alexander Frank
 tl2_name_abbrev: Skutch
 tl2_dates: 1904-x
-tl2_page_id: 33333780
+tl2_bhl_page_id: 33333780
 author_lsid: 9728-1
 wikidata_id: Q2833117
 ipni_surname: Skutch
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9728-1), [Wikidata](https://www.wikidata.org/wiki/Q2833117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9728-1) LSID 9728-1, [Wikidata](https://www.wikidata.org/wiki/Q2833117) QID Q2833117
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

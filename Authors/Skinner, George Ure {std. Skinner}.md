@@ -6,7 +6,7 @@ tl2_surname: Skinner
 tl2_forenames: George Ure
 tl2_name_abbrev: Skinner
 tl2_dates: 1804-1867
-tl2_page_id: 33333765
+tl2_bhl_page_id: 33333765
 author_lsid: 9717-1
 wikidata_id: Q2839762
 ipni_surname: Skinner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33333765) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9717-1), [Wikidata](https://www.wikidata.org/wiki/Q2839762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9717-1) LSID 9717-1, [Wikidata](https://www.wikidata.org/wiki/Q2839762) QID Q2839762
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

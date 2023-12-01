@@ -6,7 +6,7 @@ tl2_surname: Cooke
 tl2_forenames: Mordecai Cubitt
 tl2_name_abbrev: Cooke
 tl2_dates: 1825-1914
-tl2_page_id: 33120667
+tl2_bhl_page_id: 33120667
 author_lsid: 1783-1
 wikidata_id: Q2351239
 ipni_surname: Cooke
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33120667) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1783-1), [Wikidata](https://www.wikidata.org/wiki/Q2351239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1783-1) LSID 1783-1, [Wikidata](https://www.wikidata.org/wiki/Q2351239) QID Q2351239
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cooke, Mordecai Cubitt {std. Cooke} (Suppl.)|second entry]] for this author
 

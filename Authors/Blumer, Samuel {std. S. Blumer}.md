@@ -6,7 +6,7 @@ tl2_surname: Blumer
 tl2_forenames: Samuel
 tl2_name_abbrev: S. Blumer
 tl2_dates: fl. 1920-1967
-tl2_page_id: 33265428
+tl2_bhl_page_id: 33265428
 author_lsid: 16233-1
 wikidata_id: Q36673052
 ipni_surname: Blumer
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265428) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16233-1), [Wikidata](https://www.wikidata.org/wiki/Q36673052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16233-1) LSID 16233-1, [Wikidata](https://www.wikidata.org/wiki/Q36673052) QID Q36673052
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

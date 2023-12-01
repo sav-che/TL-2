@@ -6,7 +6,7 @@ tl2_surname: Johnson
 tl2_forenames: William
 tl2_name_abbrev: W. Johns.
 tl2_dates: 1844-1919
-tl2_page_id: 33068692
+tl2_bhl_page_id: 33068692
 author_lsid: 4517-1
 wikidata_id: Q21516164
 ipni_surname: Johnson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4517-1), [Wikidata](https://www.wikidata.org/wiki/Q21516164). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4517-1) LSID 4517-1, [Wikidata](https://www.wikidata.org/wiki/Q21516164) QID Q21516164
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

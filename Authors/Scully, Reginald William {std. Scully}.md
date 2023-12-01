@@ -6,7 +6,7 @@ tl2_surname: Scully
 tl2_forenames: Reginald William
 tl2_name_abbrev: Scully
 tl2_dates: 1858-1935
-tl2_page_id: 33333603
+tl2_bhl_page_id: 33333603
 author_lsid: 9398-1
 wikidata_id: Q21608576
 ipni_surname: Scully
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9398-1), [Wikidata](https://www.wikidata.org/wiki/Q21608576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9398-1) LSID 9398-1, [Wikidata](https://www.wikidata.org/wiki/Q21608576) QID Q21608576
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

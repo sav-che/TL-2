@@ -6,7 +6,7 @@ tl2_surname: Blakeslee
 tl2_forenames: Albert Francis
 tl2_name_abbrev: Blakeslee
 tl2_dates: 1874-1954
-tl2_page_id: 33120359
+tl2_bhl_page_id: 33120359
 author_lsid: 841-1
 wikidata_id: Q728749
 ipni_surname: Blakeslee
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/841-1), [Wikidata](https://www.wikidata.org/wiki/Q728749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/841-1) LSID 841-1, [Wikidata](https://www.wikidata.org/wiki/Q728749) QID Q728749
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blakeslee, Albert Francis {std. Blakeslee} (Suppl.)|second entry]] for this author
 

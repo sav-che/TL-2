@@ -6,7 +6,7 @@ tl2_surname: Ledermüller
 tl2_forenames: Martin Frobenius
 tl2_name_abbrev: Lederm.
 tl2_dates: 1719-1769
-tl2_page_id: 33069050
+tl2_bhl_page_id: 33069050
 author_lsid: 5395-1
 wikidata_id: Q6002262
 ipni_surname: Ledermüller
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33069050) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5395-1), [Wikidata](https://www.wikidata.org/wiki/Q6002262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5395-1) LSID 5395-1, [Wikidata](https://www.wikidata.org/wiki/Q6002262) QID Q6002262
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

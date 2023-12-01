@@ -6,7 +6,7 @@ tl2_surname: Danguy
 tl2_forenames: Paul Auguste
 tl2_name_abbrev: Danguy
 tl2_dates: 1862-1942
-tl2_page_id: 33259097
+tl2_bhl_page_id: 33259097
 author_lsid: 1984-1
 wikidata_id: Q18670396
 ipni_surname: Danguy
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33259097) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1984-1), [Wikidata](https://www.wikidata.org/wiki/Q18670396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1984-1) LSID 1984-1, [Wikidata](https://www.wikidata.org/wiki/Q18670396) QID Q18670396
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Danguy, Paul Auguste {std. Danguy}|first entry]] for this author
 

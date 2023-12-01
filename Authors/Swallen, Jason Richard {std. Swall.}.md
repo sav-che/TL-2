@@ -6,7 +6,7 @@ tl2_surname: Swallen
 tl2_forenames: Jason Richard
 tl2_name_abbrev: Swall.
 tl2_dates: 1903-x
-tl2_page_id: 33212154
+tl2_bhl_page_id: 33212154
 author_lsid: 10331-1
 wikidata_id: Q2370200
 ipni_surname: Swallen
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33212154) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10331-1), [Wikidata](https://www.wikidata.org/wiki/Q2370200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10331-1) LSID 10331-1, [Wikidata](https://www.wikidata.org/wiki/Q2370200) QID Q2370200
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

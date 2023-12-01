@@ -6,7 +6,7 @@ tl2_surname: Béguinot
 tl2_forenames: Augusto
 tl2_name_abbrev: Béguinot
 tl2_dates: 1875-1940
-tl2_page_id: 33120296
+tl2_bhl_page_id: 33120296
 author_lsid: 615-1
 wikidata_id: Q4080467
 ipni_surname: Béguinot
@@ -25,7 +25,8 @@ ipni_record_modified: 2011-06-16 08:29:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33120296) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/615-1), [Wikidata](https://www.wikidata.org/wiki/Q4080467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/615-1) LSID 615-1, [Wikidata](https://www.wikidata.org/wiki/Q4080467) QID Q4080467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Béguinot, Augusto {std. Bég.} (Suppl.)|second entry]] for this author
 

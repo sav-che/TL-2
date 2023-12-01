@@ -6,7 +6,7 @@ tl2_surname: Kobuski
 tl2_forenames: Clarence Emmeren
 tl2_name_abbrev: Kobuski
 tl2_dates: 1900-1963
-tl2_page_id: 33068829
+tl2_bhl_page_id: 33068829
 author_lsid: 4893-1
 wikidata_id: Q4225225
 ipni_surname: Kobuski
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4893-1), [Wikidata](https://www.wikidata.org/wiki/Q4225225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4893-1) LSID 4893-1, [Wikidata](https://www.wikidata.org/wiki/Q4225225) QID Q4225225
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

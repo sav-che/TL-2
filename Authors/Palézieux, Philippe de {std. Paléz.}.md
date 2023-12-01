@@ -6,7 +6,7 @@ tl2_surname: Palézieux
 tl2_forenames: Philippe de
 tl2_name_abbrev: Paléz.
 tl2_dates: 1871-1957
-tl2_page_id: 33189502
+tl2_bhl_page_id: 33189502
 author_lsid: 7268-1
 wikidata_id: Q9059089
 ipni_surname: Palezieux
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7268-1), [Wikidata](https://www.wikidata.org/wiki/Q9059089). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7268-1) LSID 7268-1, [Wikidata](https://www.wikidata.org/wiki/Q9059089) QID Q9059089
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

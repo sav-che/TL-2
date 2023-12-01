@@ -6,7 +6,7 @@ tl2_surname: Diercke
 tl2_forenames: Carl
 tl2_name_abbrev: Diercke
 tl2_dates: 1842-?
-tl2_page_id: 33259364
+tl2_bhl_page_id: 33259364
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33259364) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

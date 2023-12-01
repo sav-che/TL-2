@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0254
 tl2_volume: suppl7
 tl2_page_printed: 389
 tl2_surname: Franz
-tl2_forenames: Erich [Friedrich Curt]
+tl2_forenames: Erich (Friedrich Curt)
 tl2_name_abbrev: E. Franz
 tl2_dates: 1884-x
-tl2_page_id: 33259893
+tl2_bhl_page_id: 33259893
 author_lsid: 34930-1
 wikidata_id: Q22976026
 ipni_surname: Franz
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33259893) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/34930-1), [Wikidata](https://www.wikidata.org/wiki/Q22976026). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34930-1) LSID 34930-1, [Wikidata](https://www.wikidata.org/wiki/Q22976026) QID Q22976026
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Destrée
 tl2_forenames: Caroline Élisa
 tl2_name_abbrev: E. Bommer
 tl2_dates: 1832-1910
-tl2_page_id: 33259279
+tl2_bhl_page_id: 33259279
 author_lsid: 16313-1
 wikidata_id: Q5361352
 ipni_surname: Bommer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/16313-1), [Wikidata](https://www.wikidata.org/wiki/Q5361352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16313-1) LSID 16313-1, [Wikidata](https://www.wikidata.org/wiki/Q5361352) QID Q5361352
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bommer, (Mme) Elisa Caroline, née Destrée {std. E. Bommer}|first entry]] for this author
 

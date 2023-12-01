@@ -6,7 +6,7 @@ tl2_surname: Bischoff
 tl2_forenames: Gottlieb Wilhelm
 tl2_name_abbrev: Bisch.
 tl2_dates: 1797-1854
-tl2_page_id: 33265372
+tl2_bhl_page_id: 33265372
 author_lsid: 16158-1
 wikidata_id: Q68493
 ipni_surname: Bischoff
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33265372) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16158-1), [Wikidata](https://www.wikidata.org/wiki/Q68493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16158-1) LSID 16158-1, [Wikidata](https://www.wikidata.org/wiki/Q68493) QID Q68493
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bischoff, Gottlieb Wilhelm {std. Bisch.}|first entry]] for this author
 

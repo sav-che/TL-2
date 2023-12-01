@@ -6,7 +6,7 @@ tl2_surname: Olsson-Seffer
 tl2_forenames: Pehr Hjalmar (until 1903 P. H. Olsson)
 tl2_name_abbrev: Olsson-Seffer
 tl2_dates: 1873-1911
-tl2_page_id: 33355922
+tl2_bhl_page_id: 33355922
 author_lsid: 12716-1
 wikidata_id: Q16945419
 ipni_surname: Olsson-Seffer
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:37:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33355922) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12716-1), [Wikidata](https://www.wikidata.org/wiki/Q16945419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12716-1) LSID 12716-1, [Wikidata](https://www.wikidata.org/wiki/Q16945419) QID Q16945419
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

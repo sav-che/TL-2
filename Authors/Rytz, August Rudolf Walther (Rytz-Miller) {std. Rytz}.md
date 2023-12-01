@@ -6,7 +6,7 @@ tl2_surname: Rytz
 tl2_forenames: August Rudolf Walther (Rytz-Miller)
 tl2_name_abbrev: Rytz
 tl2_dates: 1882-1966
-tl2_page_id: 33190491
+tl2_bhl_page_id: 33190491
 author_lsid: 8773-1
 wikidata_id: Q2547407
 ipni_surname: Rytz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33190491) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8773-1), [Wikidata](https://www.wikidata.org/wiki/Q2547407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8773-1) LSID 8773-1, [Wikidata](https://www.wikidata.org/wiki/Q2547407) QID Q2547407
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

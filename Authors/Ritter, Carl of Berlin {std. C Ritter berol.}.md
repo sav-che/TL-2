@@ -6,7 +6,7 @@ tl2_surname: Ritter
 tl2_forenames: Carl of Berlin
 tl2_name_abbrev: C Ritter berol.
 tl2_dates: 1779-1859
-tl2_page_id: 33190272
+tl2_bhl_page_id: 33190272
 author_lsid: 8413-1
 wikidata_id: Q29297
 ipni_surname: Ritter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33190272) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8413-1), [Wikidata](https://www.wikidata.org/wiki/Q29297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8413-1) LSID 8413-1, [Wikidata](https://www.wikidata.org/wiki/Q29297) QID Q29297
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

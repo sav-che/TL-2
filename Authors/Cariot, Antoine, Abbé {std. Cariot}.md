@@ -6,7 +6,7 @@ tl2_surname: Cariot
 tl2_forenames: Antoine, Abbé
 tl2_name_abbrev: Cariot
 tl2_dates: 1820-1883
-tl2_page_id: 33120587
+tl2_bhl_page_id: 33120587
 author_lsid: 1402-1
 wikidata_id: Q5697398
 ipni_surname: Cariot
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33120587) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1402-1), [Wikidata](https://www.wikidata.org/wiki/Q5697398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1402-1) LSID 1402-1, [Wikidata](https://www.wikidata.org/wiki/Q5697398) QID Q5697398
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cariot, Antoine {std. Cariot} (Suppl.)|second entry]] for this author
 

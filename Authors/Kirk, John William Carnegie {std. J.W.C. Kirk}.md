@@ -6,7 +6,7 @@ tl2_surname: Kirk
 tl2_forenames: John William Carnegie
 tl2_name_abbrev: J.W.C. Kirk
 tl2_dates: 1878-1962
-tl2_page_id: 33068793
+tl2_bhl_page_id: 33068793
 author_lsid: 4808-1
 wikidata_id: Q21517540
 ipni_surname: Kirk
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33068793) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4808-1), [Wikidata](https://www.wikidata.org/wiki/Q21517540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4808-1) LSID 4808-1, [Wikidata](https://www.wikidata.org/wiki/Q21517540) QID Q21517540
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

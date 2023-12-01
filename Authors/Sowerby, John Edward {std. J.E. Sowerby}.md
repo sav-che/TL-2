@@ -6,7 +6,7 @@ tl2_surname: Sowerby
 tl2_forenames: John Edward
 tl2_name_abbrev: J.E. Sowerby
 tl2_dates: 1825-1870
-tl2_page_id: 33333902
+tl2_bhl_page_id: 33333902
 author_lsid: 9935-1
 wikidata_id: Q5933203
 ipni_surname: Sowerby
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33333902) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9935-1), [Wikidata](https://www.wikidata.org/wiki/Q5933203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9935-1) LSID 9935-1, [Wikidata](https://www.wikidata.org/wiki/Q5933203) QID Q5933203
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

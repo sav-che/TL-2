@@ -6,7 +6,7 @@ tl2_surname: Hoppe
 tl2_forenames: David Heinrich
 tl2_name_abbrev: Hoppe
 tl2_dates: 1760-1846
-tl2_page_id: 33068546
+tl2_bhl_page_id: 33068546
 author_lsid: 4099-1
 wikidata_id: Q66205
 ipni_surname: Hoppe
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:42:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33068546) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4099-1), [Wikidata](https://www.wikidata.org/wiki/Q66205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4099-1) LSID 4099-1, [Wikidata](https://www.wikidata.org/wiki/Q66205) QID Q66205
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

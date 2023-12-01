@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0328
 tl2_volume: suppl8
 tl2_page_printed: 447
 tl2_surname: Guillaumin
-tl2_forenames: André [Louis Joseph Edmond Armand]
+tl2_forenames: André (Louis Joseph Edmond Armand)
 tl2_name_abbrev: Guillaumin
 tl2_dates: 1885-1974
-tl2_page_id: 33258925
+tl2_bhl_page_id: 33258925
 author_lsid: 3465-1
 wikidata_id: Q2847911
 ipni_surname: Guillaumin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33258925) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3465-1), [Wikidata](https://www.wikidata.org/wiki/Q2847911). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3465-1) LSID 3465-1, [Wikidata](https://www.wikidata.org/wiki/Q2847911) QID Q2847911
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Guillaumin, André {std. Guillaumin}|first entry]] for this author
 

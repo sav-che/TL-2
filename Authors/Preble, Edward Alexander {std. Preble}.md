@@ -6,7 +6,7 @@ tl2_surname: Preble
 tl2_forenames: Edward Alexander
 tl2_name_abbrev: Preble
 tl2_dates: 1871-1957
-tl2_page_id: 33189856
+tl2_bhl_page_id: 33189856
 author_lsid: 7935-1
 wikidata_id: Q3048430
 ipni_surname: Preble
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7935-1), [Wikidata](https://www.wikidata.org/wiki/Q3048430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7935-1) LSID 7935-1, [Wikidata](https://www.wikidata.org/wiki/Q3048430) QID Q3048430
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

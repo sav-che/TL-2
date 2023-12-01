@@ -6,7 +6,7 @@ tl2_surname: Dörfler
 tl2_forenames: Ignaz
 tl2_name_abbrev: Dörfl.
 tl2_dates: 1866-1950
-tl2_page_id: 33260011
+tl2_bhl_page_id: 33260011
 author_lsid: 12411-1
 wikidata_id: Q4172636
 ipni_surname: Dörfler
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33260011) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/12411-1), [Wikidata](https://www.wikidata.org/wiki/Q4172636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12411-1) LSID 12411-1, [Wikidata](https://www.wikidata.org/wiki/Q4172636) QID Q4172636
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dörfler, Ignaz {std. Dörfl.}|first entry]] for this author
 

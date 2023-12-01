@@ -6,7 +6,7 @@ tl2_surname: Duchesne
 tl2_forenames: Antoine Nicolas
 tl2_name_abbrev: Duchesne
 tl2_dates: 1747-1827
-tl2_page_id: 33120820
+tl2_bhl_page_id: 33120820
 author_lsid: 2346-1
 wikidata_id: Q586815
 ipni_surname: Duchesne
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33120820) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2346-1), [Wikidata](https://www.wikidata.org/wiki/Q586815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2346-1) LSID 2346-1, [Wikidata](https://www.wikidata.org/wiki/Q586815) QID Q586815
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

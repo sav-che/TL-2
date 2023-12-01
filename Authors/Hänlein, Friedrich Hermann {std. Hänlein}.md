@@ -6,7 +6,7 @@ tl2_surname: Hänlein
 tl2_forenames: Friedrich Hermann
 tl2_name_abbrev: Hänlein
 tl2_dates: 1851-?
-tl2_page_id: 33068250
+tl2_bhl_page_id: 33068250
 author_lsid: 3536-1
 wikidata_id: Q21514616
 ipni_surname: Hänlein
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33068250) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3536-1), [Wikidata](https://www.wikidata.org/wiki/Q21514616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3536-1) LSID 3536-1, [Wikidata](https://www.wikidata.org/wiki/Q21514616) QID Q21514616
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

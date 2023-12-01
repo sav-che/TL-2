@@ -6,7 +6,7 @@ tl2_surname: Linden
 tl2_forenames: Lucien
 tl2_name_abbrev: L. Linden
 tl2_dates: 1851-1940
-tl2_page_id: 33355095
+tl2_bhl_page_id: 33355095
 author_lsid: 5613-1
 wikidata_id: Q3246790
 ipni_surname: Linden
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5613-1), [Wikidata](https://www.wikidata.org/wiki/Q3246790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5613-1) LSID 5613-1, [Wikidata](https://www.wikidata.org/wiki/Q3246790) QID Q3246790
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hildt
 tl2_forenames: Johann Adolph
 tl2_name_abbrev: Hildt
 tl2_dates: x-1805
-tl2_page_id: 33068438
+tl2_bhl_page_id: 33068438
 author_lsid: 3940-1
 wikidata_id: Q21515807
 ipni_surname: Hildt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33068438) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3940-1), [Wikidata](https://www.wikidata.org/wiki/Q21515807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3940-1) LSID 3940-1, [Wikidata](https://www.wikidata.org/wiki/Q21515807) QID Q21515807
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

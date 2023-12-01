@@ -6,7 +6,7 @@ tl2_surname: Aubriot
 tl2_forenames: L. J.
 tl2_name_abbrev: Aubriot
 tl2_dates: fl. 1885
-tl2_page_id: 33120211
+tl2_bhl_page_id: 33120211
 author_lsid: 329-1
 wikidata_id: Q36610870
 ipni_surname: Aubriot
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33120211) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/329-1), [Wikidata](https://www.wikidata.org/wiki/Q36610870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/329-1) LSID 329-1, [Wikidata](https://www.wikidata.org/wiki/Q36610870) QID Q36610870
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

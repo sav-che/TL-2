@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0675
 tl2_volume: vol4
 tl2_page_printed: 665
 tl2_surname: Reichenbach
-tl2_forenames: Carl [Karl] Ludwig [Freiherr] von
+tl2_forenames: Carl (Karl) Ludwig (Freiherr) von
 tl2_name_abbrev: C. Rchb.
 tl2_dates: 1788-1869
-tl2_page_id: 33190136
+tl2_bhl_page_id: 33190136
 author_lsid: 8252-1
 wikidata_id: Q61147
 ipni_surname: Reichenbach
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33190136) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8252-1), [Wikidata](https://www.wikidata.org/wiki/Q61147). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8252-1) LSID 8252-1, [Wikidata](https://www.wikidata.org/wiki/Q61147) QID Q61147
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

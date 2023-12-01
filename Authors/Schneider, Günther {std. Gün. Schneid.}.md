@@ -6,7 +6,7 @@ tl2_surname: Schneider
 tl2_forenames: Günther
 tl2_name_abbrev: Gün. Schneid.
 tl2_dates: 1904-x
-tl2_page_id: 33333413
+tl2_bhl_page_id: 33333413
 author_lsid: 9194-1
 wikidata_id: Q21608221
 ipni_surname: Schneider
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33333413) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9194-1), [Wikidata](https://www.wikidata.org/wiki/Q21608221). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9194-1) LSID 9194-1, [Wikidata](https://www.wikidata.org/wiki/Q21608221) QID Q21608221
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

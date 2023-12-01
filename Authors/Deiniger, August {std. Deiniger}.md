@@ -6,7 +6,7 @@ tl2_surname: Deiniger
 tl2_forenames: August
 tl2_name_abbrev: Deiniger
 tl2_dates: fl. 1873
-tl2_page_id: 33259212
+tl2_bhl_page_id: 33259212
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

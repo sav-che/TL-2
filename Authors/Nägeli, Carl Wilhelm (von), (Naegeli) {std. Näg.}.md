@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0799
 tl2_volume: vol3
 tl2_page_printed: 681
 tl2_surname: Nägeli
-tl2_forenames: Carl Wilhelm [von], [Naegeli]
+tl2_forenames: Carl Wilhelm (von), (Naegeli)
 tl2_name_abbrev: Näg.
 tl2_dates: 1817-1891
-tl2_page_id: 33355768
+tl2_bhl_page_id: 33355768
 author_lsid: 12703-1
 wikidata_id: Q123876
 ipni_surname: Nägeli
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12703-1), [Wikidata](https://www.wikidata.org/wiki/Q123876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12703-1) LSID 12703-1, [Wikidata](https://www.wikidata.org/wiki/Q123876) QID Q123876
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

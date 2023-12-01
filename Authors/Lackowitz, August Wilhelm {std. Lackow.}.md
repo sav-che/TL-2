@@ -6,7 +6,7 @@ tl2_surname: Lackowitz
 tl2_forenames: August Wilhelm
 tl2_name_abbrev: Lackow.
 tl2_dates: 1836-1916
-tl2_page_id: 33068958
+tl2_bhl_page_id: 33068958
 author_lsid: 5187-1
 wikidata_id: Q21518274
 ipni_surname: Lackowitz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33068958) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5187-1), [Wikidata](https://www.wikidata.org/wiki/Q21518274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5187-1) LSID 5187-1, [Wikidata](https://www.wikidata.org/wiki/Q21518274) QID Q21518274
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0298
 tl2_volume: suppl5
 tl2_page_printed: 284
 tl2_surname: Dibbern
-tl2_forenames: Hermann [Friedrich Wilhelm]
+tl2_forenames: Hermann (Friedrich Wilhelm)
 tl2_name_abbrev: Dibbern
 tl2_dates: 1870-19?
-tl2_page_id: 33259330
+tl2_bhl_page_id: 33259330
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33259330) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

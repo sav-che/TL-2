@@ -6,7 +6,7 @@ tl2_surname: Phoebus
 tl2_forenames: Philipp
 tl2_name_abbrev: Phoebus
 tl2_dates: 1804-1880
-tl2_page_id: 33189717
+tl2_bhl_page_id: 33189717
 author_lsid: 24826-1
 wikidata_id: Q214239
 ipni_surname: Phoebus
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33189717) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24826-1), [Wikidata](https://www.wikidata.org/wiki/Q214239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24826-1) LSID 24826-1, [Wikidata](https://www.wikidata.org/wiki/Q214239) QID Q214239
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

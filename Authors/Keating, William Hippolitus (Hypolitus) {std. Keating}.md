@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0599
 tl2_volume: vol2
 tl2_page_printed: 511
 tl2_surname: Keating
-tl2_forenames: William Hippolitus [Hypolitus]
+tl2_forenames: William Hippolitus (Hypolitus)
 tl2_name_abbrev: Keating
 tl2_dates: 1799-1840
-tl2_page_id: 33068753
+tl2_bhl_page_id: 33068753
 author_lsid: 4691-1
 wikidata_id: Q3568756
 ipni_surname: Keating
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33068753) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4691-1), [Wikidata](https://www.wikidata.org/wiki/Q3568756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4691-1) LSID 4691-1, [Wikidata](https://www.wikidata.org/wiki/Q3568756) QID Q3568756
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

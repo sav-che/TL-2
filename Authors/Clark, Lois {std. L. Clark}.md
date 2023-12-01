@@ -6,7 +6,7 @@ tl2_surname: Clark
 tl2_forenames: Lois
 tl2_name_abbrev: L. Clark
 tl2_dates: 1884-1967
-tl2_page_id: 33265858
+tl2_bhl_page_id: 33265858
 author_lsid: 17287-1
 wikidata_id: Q21508666
 ipni_surname: Clark
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17287-1), [Wikidata](https://www.wikidata.org/wiki/Q21508666). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17287-1) LSID 17287-1, [Wikidata](https://www.wikidata.org/wiki/Q21508666) QID Q21508666
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

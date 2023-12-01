@@ -6,7 +6,7 @@ tl2_surname: Peragallo
 tl2_forenames: Maurice
 tl2_name_abbrev: M. Perag.
 tl2_dates: 1853-?
-tl2_page_id: 33189632
+tl2_bhl_page_id: 33189632
 author_lsid: 7499-1
 wikidata_id: Q21522801
 ipni_surname: Peragallo
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33189632) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7499-1), [Wikidata](https://www.wikidata.org/wiki/Q21522801). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7499-1) LSID 7499-1, [Wikidata](https://www.wikidata.org/wiki/Q21522801) QID Q21522801
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

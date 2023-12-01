@@ -6,7 +6,7 @@ tl2_surname: Backhouse
 tl2_forenames: James
 tl2_name_abbrev: Backhouse
 tl2_dates: 1794-1869
-tl2_page_id: 33120219
+tl2_bhl_page_id: 33120219
 author_lsid: 370-1
 wikidata_id: Q2587046
 ipni_surname: Backhouse
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33120219) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/370-1), [Wikidata](https://www.wikidata.org/wiki/Q2587046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/370-1) LSID 370-1, [Wikidata](https://www.wikidata.org/wiki/Q2587046) QID Q2587046
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Backhouse, James Sr. {std. Backhouse} (Suppl.)|second entry]] for this author
 

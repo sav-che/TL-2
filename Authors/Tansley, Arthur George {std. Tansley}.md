@@ -6,7 +6,7 @@ tl2_surname: Tansley
 tl2_forenames: Arthur George
 tl2_name_abbrev: Tansley
 tl2_dates: 1871-1955
-tl2_page_id: 33212205
+tl2_bhl_page_id: 33212205
 author_lsid: 10421-1
 wikidata_id: Q450514
 ipni_surname: Tansley
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33212205) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10421-1), [Wikidata](https://www.wikidata.org/wiki/Q450514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10421-1) LSID 10421-1, [Wikidata](https://www.wikidata.org/wiki/Q450514) QID Q450514
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

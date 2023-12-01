@@ -6,7 +6,7 @@ tl2_surname: Steinvorth
 tl2_forenames: Heinrich
 tl2_name_abbrev: Steinvorth
 tl2_dates: 1817-1905
-tl2_page_id: 33334019
+tl2_bhl_page_id: 33334019
 author_lsid: 10085-1
 wikidata_id: Q21609742
 ipni_surname: Steinvorth
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33334019) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10085-1), [Wikidata](https://www.wikidata.org/wiki/Q21609742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10085-1) LSID 10085-1, [Wikidata](https://www.wikidata.org/wiki/Q21609742) QID Q21609742
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

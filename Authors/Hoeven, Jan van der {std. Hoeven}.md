@@ -6,7 +6,7 @@ tl2_surname: Hoeven
 tl2_forenames: Jan van der
 tl2_name_abbrev: Hoeven
 tl2_dates: 1801-1868
-tl2_page_id: 33068476
+tl2_bhl_page_id: 33068476
 author_lsid: 4007-1
 wikidata_id: Q322636
 ipni_surname: Hoeven
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33068476) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4007-1), [Wikidata](https://www.wikidata.org/wiki/Q322636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4007-1) LSID 4007-1, [Wikidata](https://www.wikidata.org/wiki/Q322636) QID Q322636
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Meinecke
 tl2_forenames: Johann Ludwig Georg
 tl2_name_abbrev: Meinecke
 tl2_dates: 1721-1823
-tl2_page_id: 33355490
+tl2_bhl_page_id: 33355490
 author_lsid: 6318-1
 wikidata_id: Q21520332
 ipni_surname: Meinecke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6318-1), [Wikidata](https://www.wikidata.org/wiki/Q21520332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6318-1) LSID 6318-1, [Wikidata](https://www.wikidata.org/wiki/Q21520332) QID Q21520332
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

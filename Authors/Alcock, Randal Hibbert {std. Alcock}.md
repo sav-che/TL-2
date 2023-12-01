@@ -6,7 +6,7 @@ tl2_surname: Alcock
 tl2_forenames: Randal Hibbert
 tl2_name_abbrev: Alcock
 tl2_dates: 1833-1885
-tl2_page_id: 33264791
+tl2_bhl_page_id: 33264791
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33264791) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

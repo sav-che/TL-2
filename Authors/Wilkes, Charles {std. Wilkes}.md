@@ -6,7 +6,7 @@ tl2_surname: Wilkes
 tl2_forenames: Charles
 tl2_name_abbrev: Wilkes
 tl2_dates: 1798-1877
-tl2_page_id: 33066635
+tl2_bhl_page_id: 33066635
 author_lsid: 11688-1
 wikidata_id: Q119329
 ipni_surname: Wilkes
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11688-1), [Wikidata](https://www.wikidata.org/wiki/Q119329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11688-1) LSID 11688-1, [Wikidata](https://www.wikidata.org/wiki/Q119329) QID Q119329
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

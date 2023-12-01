@@ -6,7 +6,7 @@ tl2_surname: Langman
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: Langm.
 tl2_dates: fl. 1841
-tl2_page_id: 33068993
+tl2_bhl_page_id: 33068993
 author_lsid: 5270-1
 wikidata_id: Q36592962
 ipni_surname: Langman
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5270-1), [Wikidata](https://www.wikidata.org/wiki/Q36592962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5270-1) LSID 5270-1, [Wikidata](https://www.wikidata.org/wiki/Q36592962) QID Q36592962
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

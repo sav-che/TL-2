@@ -6,7 +6,7 @@ tl2_surname: Wakker
 tl2_forenames: Jan Hendrik
 tl2_name_abbrev: Wakk.
 tl2_dates: 1859-1927
-tl2_page_id: 33066366
+tl2_bhl_page_id: 33066366
 author_lsid: 28498-1
 wikidata_id: Q21612020
 ipni_surname: Wakker
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33066366) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/28498-1), [Wikidata](https://www.wikidata.org/wiki/Q21612020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28498-1) LSID 28498-1, [Wikidata](https://www.wikidata.org/wiki/Q21612020) QID Q21612020
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

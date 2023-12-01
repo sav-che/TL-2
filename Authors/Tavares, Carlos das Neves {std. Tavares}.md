@@ -6,7 +6,7 @@ tl2_surname: Tavares
 tl2_forenames: Carlos das Neves
 tl2_name_abbrev: Tavares
 tl2_dates: 1914-1972
-tl2_page_id: 33212226
+tl2_bhl_page_id: 33212226
 author_lsid: 27558-1
 wikidata_id: Q21387836
 ipni_surname: Tavares
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33212226) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27558-1), [Wikidata](https://www.wikidata.org/wiki/Q21387836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27558-1) LSID 27558-1, [Wikidata](https://www.wikidata.org/wiki/Q21387836) QID Q21387836
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

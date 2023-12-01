@@ -6,7 +6,7 @@ tl2_surname: Reum
 tl2_forenames: Johann Adam
 tl2_name_abbrev: Reum
 tl2_dates: 1780-1839
-tl2_page_id: 33190209
+tl2_bhl_page_id: 33190209
 author_lsid: 8307-1
 wikidata_id: Q15429452
 ipni_surname: Reum
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33190209) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8307-1), [Wikidata](https://www.wikidata.org/wiki/Q15429452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8307-1) LSID 8307-1, [Wikidata](https://www.wikidata.org/wiki/Q15429452) QID Q15429452
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

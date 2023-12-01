@@ -6,7 +6,7 @@ tl2_surname: Boros
 tl2_forenames: Ádám
 tl2_name_abbrev: Boros
 tl2_dates: 1900-1973
-tl2_page_id: 33265555
+tl2_bhl_page_id: 33265555
 author_lsid: 994-1
 wikidata_id: Q835208
 ipni_surname: Boros
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33265555) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/994-1), [Wikidata](https://www.wikidata.org/wiki/Q835208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/994-1) LSID 994-1, [Wikidata](https://www.wikidata.org/wiki/Q835208) QID Q835208
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Boldingh
 tl2_forenames: Isaäc
 tl2_name_abbrev: Bold.
 tl2_dates: 1879-1938
-tl2_page_id: 33265486
+tl2_bhl_page_id: 33265486
 author_lsid: 926-1
 wikidata_id: Q5921048
 ipni_surname: Boldingh
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265486) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/926-1), [Wikidata](https://www.wikidata.org/wiki/Q5921048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/926-1) LSID 926-1, [Wikidata](https://www.wikidata.org/wiki/Q5921048) QID Q5921048
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boldingh, Isaac {std. Bold.}|first entry]] for this author
 

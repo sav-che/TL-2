@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0390
 tl2_volume: vol6
 tl2_page_printed: 369
 tl2_surname: Tison
-tl2_forenames: [Eugène] Édouard [Augustin]
+tl2_forenames: (Eugène) Édouard (Augustin)
 tl2_name_abbrev: Tison
 tl2_dates: 1842-?
-tl2_page_id: 33212411
+tl2_bhl_page_id: 33212411
 author_lsid: 12935-1
 wikidata_id: Q21610776
 ipni_surname: Tison
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12935-1), [Wikidata](https://www.wikidata.org/wiki/Q21610776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12935-1) LSID 12935-1, [Wikidata](https://www.wikidata.org/wiki/Q21610776) QID Q21610776
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

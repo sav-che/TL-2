@@ -6,7 +6,7 @@ tl2_surname: Renier
 tl2_forenames: Armand-Marie-Vincent-Joseph
 tl2_name_abbrev: Renier
 tl2_dates: 1876-1951
-tl2_page_id: 33190202
+tl2_bhl_page_id: 33190202
 author_lsid: 8291-1
 wikidata_id: Q5704383
 ipni_surname: Renier
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33190202) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8291-1), [Wikidata](https://www.wikidata.org/wiki/Q5704383). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8291-1) LSID 8291-1, [Wikidata](https://www.wikidata.org/wiki/Q5704383) QID Q5704383
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

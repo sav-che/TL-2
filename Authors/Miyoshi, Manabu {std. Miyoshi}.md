@@ -6,7 +6,7 @@ tl2_surname: Miyoshi
 tl2_forenames: Manabu
 tl2_name_abbrev: Miyoshi
 tl2_dates: 1861-1939
-tl2_page_id: 33355615
+tl2_bhl_page_id: 33355615
 author_lsid: 23494-1
 wikidata_id: Q11354871
 ipni_surname: Miyoshi
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:37:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33355615) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23494-1), [Wikidata](https://www.wikidata.org/wiki/Q11354871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23494-1) LSID 23494-1, [Wikidata](https://www.wikidata.org/wiki/Q11354871) QID Q11354871
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

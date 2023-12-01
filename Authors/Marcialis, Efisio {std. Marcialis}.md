@@ -6,7 +6,7 @@ tl2_surname: Marcialis
 tl2_forenames: Efisio
 tl2_name_abbrev: Marcialis
 tl2_dates: fl. 1889
-tl2_page_id: 33355378
+tl2_bhl_page_id: 33355378
 author_lsid: 6094-1
 wikidata_id: Q36547612
 ipni_surname: Marcialis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6094-1), [Wikidata](https://www.wikidata.org/wiki/Q36547612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6094-1) LSID 6094-1, [Wikidata](https://www.wikidata.org/wiki/Q36547612) QID Q36547612
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

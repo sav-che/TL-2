@@ -6,7 +6,7 @@ tl2_surname: Chow
 tl2_forenames: Chung Hwang
 tl2_name_abbrev: C.H. Chow
 tl2_dates: fl. 1934-1936
-tl2_page_id: 33265819
+tl2_bhl_page_id: 33265819
 author_lsid: 17221-1
 wikidata_id: Q21508528
 ipni_surname: Chow
@@ -23,7 +23,8 @@ ipni_record_modified: 2010-12-09 08:03:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17221-1), [Wikidata](https://www.wikidata.org/wiki/Q21508528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17221-1) LSID 17221-1, [Wikidata](https://www.wikidata.org/wiki/Q21508528) QID Q21508528
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

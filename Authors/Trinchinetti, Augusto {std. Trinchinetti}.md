@@ -6,7 +6,7 @@ tl2_surname: Trinchinetti
 tl2_forenames: Augusto
 tl2_name_abbrev: Trinchinetti
 tl2_dates: 1813-1847
-tl2_page_id: 33212535
+tl2_bhl_page_id: 33212535
 author_lsid: 10826-1
 wikidata_id: Q21610958
 ipni_surname: Trinchinetti
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33212535) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10826-1), [Wikidata](https://www.wikidata.org/wiki/Q21610958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10826-1) LSID 10826-1, [Wikidata](https://www.wikidata.org/wiki/Q21610958) QID Q21610958
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

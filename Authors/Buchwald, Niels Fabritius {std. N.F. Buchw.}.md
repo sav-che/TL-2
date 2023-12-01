@@ -6,7 +6,7 @@ tl2_surname: Buchwald
 tl2_forenames: Niels Fabritius
 tl2_name_abbrev: N.F. Buchw.
 tl2_dates: 1898-x
-tl2_page_id: 33266507
+tl2_bhl_page_id: 33266507
 author_lsid: 16667-1
 wikidata_id: Q19842613
 ipni_surname: Buchwald
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33266507) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16667-1), [Wikidata](https://www.wikidata.org/wiki/Q19842613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16667-1) LSID 16667-1, [Wikidata](https://www.wikidata.org/wiki/Q19842613) QID Q19842613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

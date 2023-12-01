@@ -6,7 +6,7 @@ tl2_surname: Andrews
 tl2_forenames: Albert Le Roy
 tl2_name_abbrev: A.L. Andr.
 tl2_dates: 1878-1961
-tl2_page_id: 33264851
+tl2_bhl_page_id: 33264851
 author_lsid: 30891-1
 wikidata_id: Q18590757
 ipni_surname: Andrews
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33264851) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30891-1), [Wikidata](https://www.wikidata.org/wiki/Q18590757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30891-1) LSID 30891-1, [Wikidata](https://www.wikidata.org/wiki/Q18590757) QID Q18590757
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

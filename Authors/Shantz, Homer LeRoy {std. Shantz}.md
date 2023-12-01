@@ -6,7 +6,7 @@ tl2_surname: Shantz
 tl2_forenames: Homer LeRoy
 tl2_name_abbrev: Shantz
 tl2_dates: 1876-1958
-tl2_page_id: 33333689
+tl2_bhl_page_id: 33333689
 author_lsid: 9539-1
 wikidata_id: Q5890115
 ipni_surname: Shantz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33333689) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9539-1), [Wikidata](https://www.wikidata.org/wiki/Q5890115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9539-1) LSID 9539-1, [Wikidata](https://www.wikidata.org/wiki/Q5890115) QID Q5890115
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

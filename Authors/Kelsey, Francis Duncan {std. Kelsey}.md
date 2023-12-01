@@ -6,7 +6,7 @@ tl2_surname: Kelsey
 tl2_forenames: Francis Duncan
 tl2_name_abbrev: Kelsey
 tl2_dates: 1849-1905
-tl2_page_id: 33068762
+tl2_bhl_page_id: 33068762
 author_lsid: 4717-1
 wikidata_id: Q21517418
 ipni_surname: Kelsey
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4717-1), [Wikidata](https://www.wikidata.org/wiki/Q21517418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4717-1) LSID 4717-1, [Wikidata](https://www.wikidata.org/wiki/Q21517418) QID Q21517418
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

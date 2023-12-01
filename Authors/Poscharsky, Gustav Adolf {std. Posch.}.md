@@ -6,7 +6,7 @@ tl2_surname: Poscharsky
 tl2_forenames: Gustav Adolf
 tl2_name_abbrev: Posch.
 tl2_dates: 1832-1915
-tl2_page_id: 33189819
+tl2_bhl_page_id: 33189819
 author_lsid: 7871-1
 wikidata_id: Q19921906
 ipni_surname: Poscharsky
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33189819) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7871-1), [Wikidata](https://www.wikidata.org/wiki/Q19921906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7871-1) LSID 7871-1, [Wikidata](https://www.wikidata.org/wiki/Q19921906) QID Q19921906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

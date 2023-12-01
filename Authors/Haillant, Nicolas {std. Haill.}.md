@@ -6,7 +6,7 @@ tl2_surname: Haillant
 tl2_forenames: Nicolas
 tl2_name_abbrev: Haill.
 tl2_dates: fl. 1886
-tl2_page_id: 33068257
+tl2_bhl_page_id: 33068257
 author_lsid: 3558-1
 wikidata_id: Q36641731
 ipni_surname: Haillant
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3558-1), [Wikidata](https://www.wikidata.org/wiki/Q36641731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3558-1) LSID 3558-1, [Wikidata](https://www.wikidata.org/wiki/Q36641731) QID Q36641731
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

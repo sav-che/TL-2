@@ -6,7 +6,7 @@ tl2_surname: Geinitz
 tl2_forenames: Hanns Bruno
 tl2_name_abbrev: Geinitz
 tl2_dates: 1814-1900
-tl2_page_id: 33121060
+tl2_bhl_page_id: 33121060
 author_lsid: 3070-1
 wikidata_id: Q86176
 ipni_surname: Geinitz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3070-1), [Wikidata](https://www.wikidata.org/wiki/Q86176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3070-1) LSID 3070-1, [Wikidata](https://www.wikidata.org/wiki/Q86176) QID Q86176
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

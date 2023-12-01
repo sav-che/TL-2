@@ -6,7 +6,7 @@ tl2_surname: Faure
 tl2_forenames: Alphonse
 tl2_name_abbrev: Faure
 tl2_dates: 1865-1958
-tl2_page_id: 33259572
+tl2_bhl_page_id: 33259572
 author_lsid: 35512-1
 wikidata_id: Q2839791
 ipni_surname: Faure
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33259572) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/35512-1), [Wikidata](https://www.wikidata.org/wiki/Q2839791). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35512-1) LSID 35512-1, [Wikidata](https://www.wikidata.org/wiki/Q2839791) QID Q2839791
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

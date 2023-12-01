@@ -6,7 +6,7 @@ tl2_surname: Tournon
 tl2_forenames: Dominique Jérôme
 tl2_name_abbrev: Tournon
 tl2_dates: 1758-post 1827
-tl2_page_id: 33212457
+tl2_bhl_page_id: 33212457
 author_lsid: 10765-1
 wikidata_id: Q21610903
 ipni_surname: Tournon
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33212457) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10765-1), [Wikidata](https://www.wikidata.org/wiki/Q21610903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10765-1) LSID 10765-1, [Wikidata](https://www.wikidata.org/wiki/Q21610903) QID Q21610903
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

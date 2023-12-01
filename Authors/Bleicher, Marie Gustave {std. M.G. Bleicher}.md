@@ -6,7 +6,7 @@ tl2_surname: Bleicher
 tl2_forenames: Marie Gustave
 tl2_name_abbrev: M.G. Bleicher
 tl2_dates: 1838-1901
-tl2_page_id: 33120364
+tl2_bhl_page_id: 33120364
 author_lsid: 856-1
 wikidata_id: Q3121096
 ipni_surname: Bleicher
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33120364) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/856-1), [Wikidata](https://www.wikidata.org/wiki/Q3121096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/856-1) LSID 856-1, [Wikidata](https://www.wikidata.org/wiki/Q3121096) QID Q3121096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

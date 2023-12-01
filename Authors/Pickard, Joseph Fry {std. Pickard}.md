@@ -6,7 +6,7 @@ tl2_surname: Pickard
 tl2_forenames: Joseph Fry
 tl2_name_abbrev: Pickard
 tl2_dates: 1876-1943
-tl2_page_id: 33189724
+tl2_bhl_page_id: 33189724
 author_lsid: 7670-1
 wikidata_id: Q21522982
 ipni_surname: Pickard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7670-1), [Wikidata](https://www.wikidata.org/wiki/Q21522982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7670-1) LSID 7670-1, [Wikidata](https://www.wikidata.org/wiki/Q21522982) QID Q21522982
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

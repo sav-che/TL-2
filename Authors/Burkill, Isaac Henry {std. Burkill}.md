@@ -6,7 +6,7 @@ tl2_surname: Burkill
 tl2_forenames: Isaac Henry
 tl2_name_abbrev: Burkill
 tl2_dates: 1870-1965
-tl2_page_id: 33120543
+tl2_bhl_page_id: 33120543
 author_lsid: 1304-1
 wikidata_id: Q4084920
 ipni_surname: Burkill
@@ -27,7 +27,8 @@ ipni_record_modified: 2006-07-25 11:33:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1304-1), [Wikidata](https://www.wikidata.org/wiki/Q4084920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1304-1) LSID 1304-1, [Wikidata](https://www.wikidata.org/wiki/Q4084920) QID Q4084920
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Burkill, Isaac Henri {std. Burkill} (Suppl.)|second entry]] for this author
 

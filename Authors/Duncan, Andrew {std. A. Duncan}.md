@@ -6,7 +6,7 @@ tl2_surname: Duncan
 tl2_forenames: Andrew
 tl2_name_abbrev: A. Duncan
 tl2_dates: 1773-1832
-tl2_page_id: 33120832
+tl2_bhl_page_id: 33120832
 author_lsid: 2375-1
 wikidata_id: Q21511051
 ipni_surname: Duncan
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33120832) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2375-1), [Wikidata](https://www.wikidata.org/wiki/Q21511051). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2375-1) LSID 2375-1, [Wikidata](https://www.wikidata.org/wiki/Q21511051) QID Q21511051
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Duncan, Andrew {std. A. Duncan} (Suppl.)|second entry]] for this author
 

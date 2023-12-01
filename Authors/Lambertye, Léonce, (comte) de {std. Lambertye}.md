@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0868
 tl2_volume: vol2
 tl2_page_printed: 738
 tl2_surname: Lambertye
-tl2_forenames: Léonce, [comte] de
+tl2_forenames: Léonce, (comte) de
 tl2_name_abbrev: Lambertye
 tl2_dates: 1810-1877
-tl2_page_id: 33068980
+tl2_bhl_page_id: 33068980
 author_lsid: 5234-1
 wikidata_id: Q3271632
 ipni_surname: Lambertye
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5234-1), [Wikidata](https://www.wikidata.org/wiki/Q3271632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5234-1) LSID 5234-1, [Wikidata](https://www.wikidata.org/wiki/Q3271632) QID Q3271632
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

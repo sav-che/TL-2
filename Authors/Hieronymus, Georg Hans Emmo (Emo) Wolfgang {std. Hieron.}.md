@@ -6,7 +6,7 @@ tl2_surname: Hieronymus
 tl2_forenames: Georg Hans Emmo (Emo) Wolfgang
 tl2_name_abbrev: Hieron.
 tl2_dates: 1846-1921
-tl2_page_id: 33068435
+tl2_bhl_page_id: 33068435
 author_lsid: 3933-1
 wikidata_id: Q3047331
 ipni_surname: Hieronymus
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:29:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33068435) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3933-1), [Wikidata](https://www.wikidata.org/wiki/Q3047331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3933-1) LSID 3933-1, [Wikidata](https://www.wikidata.org/wiki/Q3047331) QID Q3047331
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

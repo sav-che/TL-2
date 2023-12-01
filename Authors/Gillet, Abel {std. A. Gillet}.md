@@ -6,7 +6,7 @@ tl2_surname: Gillet
 tl2_forenames: Abel
 tl2_name_abbrev: A. Gillet
 tl2_dates: 1857-1927
-tl2_page_id: 33258697
+tl2_bhl_page_id: 33258697
 author_lsid: 19342-1
 wikidata_id: Q21339920
 ipni_surname: Gillet
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33258697) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19342-1), [Wikidata](https://www.wikidata.org/wiki/Q21339920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19342-1) LSID 19342-1, [Wikidata](https://www.wikidata.org/wiki/Q21339920) QID Q21339920
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

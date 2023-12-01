@@ -6,7 +6,7 @@ tl2_surname: Blanc
 tl2_forenames: Louis
 tl2_name_abbrev: Louis Blanc
 tl2_dates: fl. 1898-1910
-tl2_page_id: 33265396
+tl2_bhl_page_id: 33265396
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33265396) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

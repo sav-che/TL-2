@@ -6,7 +6,7 @@ tl2_surname: Chevalier
 tl2_forenames: Auguste Jean Baptiste
 tl2_name_abbrev: A. Chev.
 tl2_dates: 1873-1956
-tl2_page_id: 33120624
+tl2_bhl_page_id: 33120624
 author_lsid: 1584-1
 wikidata_id: Q766644
 ipni_surname: Chevalier
@@ -25,7 +25,8 @@ ipni_record_modified: 2004-09-16 06:14:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33120624) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1584-1), [Wikidata](https://www.wikidata.org/wiki/Q766644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1584-1) LSID 1584-1, [Wikidata](https://www.wikidata.org/wiki/Q766644) QID Q766644
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Chevalier, Auguste Jean Baptiste {std. A. Chev.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Westermaier
 tl2_forenames: Maximilian
 tl2_name_abbrev: Westerm.
 tl2_dates: 1852-1903
-tl2_page_id: 33066553
+tl2_bhl_page_id: 33066553
 author_lsid: 11589-1
 wikidata_id: Q15296208
 ipni_surname: Westermaier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33066553) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11589-1), [Wikidata](https://www.wikidata.org/wiki/Q15296208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11589-1) LSID 11589-1, [Wikidata](https://www.wikidata.org/wiki/Q15296208) QID Q15296208
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

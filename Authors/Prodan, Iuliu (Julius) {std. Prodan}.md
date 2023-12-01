@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0497
 tl2_volume: vol4
 tl2_page_printed: 415
 tl2_surname: Prodan
-tl2_forenames: Iuliu [Julius]
+tl2_forenames: Iuliu (Julius)
 tl2_name_abbrev: Prodan
 tl2_dates: 1875-1959
-tl2_page_id: 33189886
+tl2_bhl_page_id: 33189886
 author_lsid: 7985-1
 wikidata_id: Q9010119
 ipni_surname: Prodan
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7985-1), [Wikidata](https://www.wikidata.org/wiki/Q9010119). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7985-1) LSID 7985-1, [Wikidata](https://www.wikidata.org/wiki/Q9010119) QID Q9010119
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Radian
 tl2_forenames: Simion Stefan
 tl2_name_abbrev: Radian
 tl2_dates: 1871-1958
-tl2_page_id: 33190011
+tl2_bhl_page_id: 33190011
 author_lsid: 8082-1
 wikidata_id: Q21606829
 ipni_surname: Radian
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8082-1), [Wikidata](https://www.wikidata.org/wiki/Q21606829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8082-1) LSID 8082-1, [Wikidata](https://www.wikidata.org/wiki/Q21606829) QID Q21606829
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

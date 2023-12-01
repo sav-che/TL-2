@@ -6,7 +6,7 @@ tl2_surname: Wesmael
 tl2_forenames: Alfred
 tl2_name_abbrev: Wesm.
 tl2_dates: 1832-1905
-tl2_page_id: 33066539
+tl2_bhl_page_id: 33066539
 author_lsid: 11570-1
 wikidata_id: Q2835524
 ipni_surname: Wesmael
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33066539) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11570-1), [Wikidata](https://www.wikidata.org/wiki/Q2835524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11570-1) LSID 11570-1, [Wikidata](https://www.wikidata.org/wiki/Q2835524) QID Q2835524
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

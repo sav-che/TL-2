@@ -6,7 +6,7 @@ tl2_surname: Parsons
 tl2_forenames: Thomas Henry
 tl2_name_abbrev: T Parsons
 tl2_dates: fl. 1926
-tl2_page_id: 33189554
+tl2_bhl_page_id: 33189554
 author_lsid: 7371-1
 wikidata_id: Q36690630
 ipni_surname: Parsons
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7371-1), [Wikidata](https://www.wikidata.org/wiki/Q36690630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7371-1) LSID 7371-1, [Wikidata](https://www.wikidata.org/wiki/Q36690630) QID Q36690630
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

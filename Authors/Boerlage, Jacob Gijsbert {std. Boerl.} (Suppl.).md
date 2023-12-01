@@ -6,7 +6,7 @@ tl2_surname: Boerlage
 tl2_forenames: Jacob Gijsbert
 tl2_name_abbrev: Boerl.
 tl2_dates: 1849-1900
-tl2_page_id: 33265463
+tl2_bhl_page_id: 33265463
 author_lsid: 903-1
 wikidata_id: Q5924432
 ipni_surname: Boerlage
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265463) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/903-1), [Wikidata](https://www.wikidata.org/wiki/Q5924432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/903-1) LSID 903-1, [Wikidata](https://www.wikidata.org/wiki/Q5924432) QID Q5924432
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boerlage, Jacob Gijsbert {std. Boerl.}|first entry]] for this author
 

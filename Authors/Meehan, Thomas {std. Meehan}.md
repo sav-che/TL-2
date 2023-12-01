@@ -6,7 +6,7 @@ tl2_surname: Meehan
 tl2_forenames: Thomas
 tl2_name_abbrev: Meehan
 tl2_dates: 1826-1901
-tl2_page_id: 33355484
+tl2_bhl_page_id: 33355484
 author_lsid: 6301-1
 wikidata_id: Q8213940
 ipni_surname: Meehan
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33355484) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6301-1), [Wikidata](https://www.wikidata.org/wiki/Q8213940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6301-1) LSID 6301-1, [Wikidata](https://www.wikidata.org/wiki/Q8213940) QID Q8213940
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

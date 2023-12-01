@@ -6,7 +6,7 @@ tl2_surname: Arnaud
 tl2_forenames: Gabriel
 tl2_name_abbrev: G. Arnaud
 tl2_dates: 1882-1957
-tl2_page_id: 33264887
+tl2_bhl_page_id: 33264887
 author_lsid: 272-1
 wikidata_id: Q21338864
 ipni_surname: Arnaud
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33264887) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/272-1), [Wikidata](https://www.wikidata.org/wiki/Q21338864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/272-1) LSID 272-1, [Wikidata](https://www.wikidata.org/wiki/Q21338864) QID Q21338864
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arnaud, Gabriel {std. G. Arnaud}|first entry]] for this author
 

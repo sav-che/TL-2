@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0218
 tl2_volume: vol5
 tl2_page_printed: 235
 tl2_surname: Schmid
-tl2_forenames: [Schmid-Gams] Emil
+tl2_forenames: (Schmid-Gams) Emil
 tl2_name_abbrev: Em. Schmid
 tl2_dates: 1891-x
-tl2_page_id: 33333374
+tl2_bhl_page_id: 33333374
 author_lsid: 9142-1
 wikidata_id: Q1336815
 ipni_surname: Schmid
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9142-1), [Wikidata](https://www.wikidata.org/wiki/Q1336815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9142-1) LSID 9142-1, [Wikidata](https://www.wikidata.org/wiki/Q1336815) QID Q1336815
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

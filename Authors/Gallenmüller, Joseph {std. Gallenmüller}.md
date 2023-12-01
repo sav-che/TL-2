@@ -6,7 +6,7 @@ tl2_surname: Gallenmüller
 tl2_forenames: Joseph
 tl2_name_abbrev: Gallenmüller
 tl2_dates: fl. 1876
-tl2_page_id: 33121037
+tl2_bhl_page_id: 33121037
 author_lsid: 2995-1
 wikidata_id: Q36590308
 ipni_surname: Gallenmüller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/page/33121037) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2995-1), [Wikidata](https://www.wikidata.org/wiki/Q36590308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2995-1) LSID 2995-1, [Wikidata](https://www.wikidata.org/wiki/Q36590308) QID Q36590308
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

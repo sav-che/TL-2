@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0159
 tl2_volume: vol7
 tl2_page_printed: 168
 tl2_surname: Weiss
-tl2_forenames: [Joseph Gustav] Adolf
+tl2_forenames: (Joseph Gustav) Adolf
 tl2_name_abbrev: G.A. Weiss
 tl2_dates: 1837-1894
-tl2_page_id: 33066508
+tl2_bhl_page_id: 33066508
 author_lsid: 13000-1
 wikidata_id: Q21612405
 ipni_surname: Weiss
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33066508) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13000-1), [Wikidata](https://www.wikidata.org/wiki/Q21612405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13000-1) LSID 13000-1, [Wikidata](https://www.wikidata.org/wiki/Q21612405) QID Q21612405
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

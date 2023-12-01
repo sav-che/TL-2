@@ -6,7 +6,7 @@ tl2_surname: Svensson
 tl2_forenames: Harry Gustaf
 tl2_name_abbrev: H.G. Svens.
 tl2_dates: 1894-1959
-tl2_page_id: 33212152
+tl2_bhl_page_id: 33212152
 author_lsid: 35144-1
 wikidata_id: Q21610081
 ipni_surname: Svensson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33212152) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/35144-1), [Wikidata](https://www.wikidata.org/wiki/Q21610081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35144-1) LSID 35144-1, [Wikidata](https://www.wikidata.org/wiki/Q21610081) QID Q21610081
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

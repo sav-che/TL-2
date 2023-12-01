@@ -6,7 +6,7 @@ tl2_surname: Duncan
 tl2_forenames: Peter Martin
 tl2_name_abbrev: P. Duncan
 tl2_dates: 1824-1891
-tl2_page_id: 33120833
+tl2_bhl_page_id: 33120833
 author_lsid: 2376-1
 wikidata_id: Q953473
 ipni_surname: Duncan
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2376-1), [Wikidata](https://www.wikidata.org/wiki/Q953473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2376-1) LSID 2376-1, [Wikidata](https://www.wikidata.org/wiki/Q953473) QID Q953473
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

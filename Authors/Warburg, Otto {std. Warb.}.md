@@ -6,7 +6,7 @@ tl2_surname: Warburg
 tl2_forenames: Otto
 tl2_name_abbrev: Warb.
 tl2_dates: 1859-1938
-tl2_page_id: 33066399
+tl2_bhl_page_id: 33066399
 author_lsid: 11402-1
 wikidata_id: Q62822
 ipni_surname: Warburg
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33066399) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11402-1), [Wikidata](https://www.wikidata.org/wiki/Q62822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11402-1) LSID 11402-1, [Wikidata](https://www.wikidata.org/wiki/Q62822) QID Q62822
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

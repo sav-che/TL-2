@@ -6,7 +6,7 @@ tl2_surname: Burgess
 tl2_forenames: Henry W.
 tl2_name_abbrev: Burgess
 tl2_dates: fl. 1827-1833
-tl2_page_id: 33120543
+tl2_bhl_page_id: 33120543
 author_lsid: 1299-1
 wikidata_id: Q47114847
 ipni_surname: Burgess
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1299-1), [Wikidata](https://www.wikidata.org/wiki/Q47114847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1299-1) LSID 1299-1, [Wikidata](https://www.wikidata.org/wiki/Q47114847) QID Q47114847
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

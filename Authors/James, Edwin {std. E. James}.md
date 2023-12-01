@@ -6,7 +6,7 @@ tl2_surname: James
 tl2_forenames: Edwin
 tl2_name_abbrev: E. James
 tl2_dates: 1797-1861
-tl2_page_id: 33068660
+tl2_bhl_page_id: 33068660
 author_lsid: 4410-1
 wikidata_id: Q4160073
 ipni_surname: James
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33068660) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4410-1), [Wikidata](https://www.wikidata.org/wiki/Q4160073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4410-1) LSID 4410-1, [Wikidata](https://www.wikidata.org/wiki/Q4160073) QID Q4160073
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

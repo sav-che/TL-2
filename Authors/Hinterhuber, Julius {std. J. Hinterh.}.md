@@ -6,7 +6,7 @@ tl2_surname: Hinterhuber
 tl2_forenames: Julius
 tl2_name_abbrev: J. Hinterh.
 tl2_dates: 1810-1880
-tl2_page_id: 33068450
+tl2_bhl_page_id: 33068450
 author_lsid: 3961-1
 wikidata_id: Q21393390
 ipni_surname: Hinterhuber
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33068450) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3961-1), [Wikidata](https://www.wikidata.org/wiki/Q21393390). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3961-1) LSID 3961-1, [Wikidata](https://www.wikidata.org/wiki/Q21393390) QID Q21393390
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

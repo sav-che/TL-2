@@ -6,7 +6,7 @@ tl2_surname: Pestalozzi
 tl2_forenames: Anton
 tl2_name_abbrev: Pestal.
 tl2_dates: fl. 1890
-tl2_page_id: 33189657
+tl2_bhl_page_id: 33189657
 author_lsid: 7557-1
 wikidata_id: Q5923862
 ipni_surname: Pestalozzi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33189657) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7557-1), [Wikidata](https://www.wikidata.org/wiki/Q5923862). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7557-1) LSID 7557-1, [Wikidata](https://www.wikidata.org/wiki/Q5923862) QID Q5923862
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

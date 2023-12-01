@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Henry (fl. 1810)
 tl2_name_abbrev: He. Sm.
 tl2_dates: fl. 1810
-tl2_page_id: 33333814
+tl2_bhl_page_id: 33333814
 author_lsid: 9798-1
 wikidata_id: Q21609111
 ipni_surname: Smith
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9798-1), [Wikidata](https://www.wikidata.org/wiki/Q21609111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9798-1) LSID 9798-1, [Wikidata](https://www.wikidata.org/wiki/Q21609111) QID Q21609111
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

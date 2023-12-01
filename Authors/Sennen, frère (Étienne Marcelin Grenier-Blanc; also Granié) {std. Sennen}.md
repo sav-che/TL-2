@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0499
 tl2_volume: vol5
 tl2_page_printed: 509
 tl2_surname: Sennen
-tl2_forenames: frère [Étienne Marcelin Grenier-Blanc; also Granié]
+tl2_forenames: frère (Étienne Marcelin Grenier-Blanc; also Granié)
 tl2_name_abbrev: Sennen
 tl2_dates: 1861-1937
-tl2_page_id: 33333648
+tl2_bhl_page_id: 33333648
 author_lsid: 9488-1
 wikidata_id: Q4147990
 ipni_surname: Sennen
@@ -24,7 +24,8 @@ ipni_record_modified: 2014-04-04 11:56:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33333648) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9488-1), [Wikidata](https://www.wikidata.org/wiki/Q4147990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9488-1) LSID 9488-1, [Wikidata](https://www.wikidata.org/wiki/Q4147990) QID Q4147990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

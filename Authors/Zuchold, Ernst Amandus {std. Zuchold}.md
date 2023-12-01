@@ -6,7 +6,7 @@ tl2_surname: Zuchold
 tl2_forenames: Ernst Amandus
 tl2_name_abbrev: Zuchold
 tl2_dates: x-1867
-tl2_page_id: 33066902
+tl2_bhl_page_id: 33066902
 author_lsid: 12070-1
 wikidata_id: Q21613727
 ipni_surname: Zuchold
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12070-1), [Wikidata](https://www.wikidata.org/wiki/Q21613727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12070-1) LSID 12070-1, [Wikidata](https://www.wikidata.org/wiki/Q21613727) QID Q21613727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

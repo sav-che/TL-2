@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0275
 tl2_volume: suppl5
 tl2_page_printed: 237
 tl2_surname: Detmer
-tl2_forenames: Wilhelm [Alexander]
+tl2_forenames: Wilhelm (Alexander)
 tl2_name_abbrev: Detmer
 tl2_dates: 1850-1930
-tl2_page_id: 33259283
+tl2_bhl_page_id: 33259283
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33259283) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

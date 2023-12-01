@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0945
 tl2_volume: vol2
 tl2_page_printed: 782
 tl2_surname: Leconte
-tl2_forenames: Major John [Eatton]
+tl2_forenames: Major John (Eatton)
 tl2_name_abbrev: Leconte
 tl2_dates: 1784-1860
-tl2_page_id: 33069024
+tl2_bhl_page_id: 33069024
 author_lsid: 5390-1
 wikidata_id: Q1376182
 ipni_surname: Leconte
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33069024) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5390-1), [Wikidata](https://www.wikidata.org/wiki/Q1376182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5390-1) LSID 5390-1, [Wikidata](https://www.wikidata.org/wiki/Q1376182) QID Q1376182
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

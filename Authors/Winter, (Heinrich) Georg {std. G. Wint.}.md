@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0336
 tl2_volume: vol7
 tl2_page_printed: 380
 tl2_surname: Winter
-tl2_forenames: [Heinrich] Georg
+tl2_forenames: (Heinrich) Georg
 tl2_name_abbrev: G. Wint.
 tl2_dates: 1848-1887
-tl2_page_id: 33066720
+tl2_bhl_page_id: 33066720
 author_lsid: 28843-1
 wikidata_id: Q4111929
 ipni_surname: Winter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/28843-1), [Wikidata](https://www.wikidata.org/wiki/Q4111929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28843-1) LSID 28843-1, [Wikidata](https://www.wikidata.org/wiki/Q4111929) QID Q4111929
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

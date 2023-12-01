@@ -6,7 +6,7 @@ tl2_surname: Bremekamp
 tl2_forenames: Cornelis Elisa Bertus
 tl2_name_abbrev: Bremek.
 tl2_dates: 1888-x
-tl2_page_id: 33120446
+tl2_bhl_page_id: 33120446
 author_lsid: 1115-1
 wikidata_id: Q5171231
 ipni_surname: Bremekamp
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1115-1), [Wikidata](https://www.wikidata.org/wiki/Q5171231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1115-1) LSID 1115-1, [Wikidata](https://www.wikidata.org/wiki/Q5171231) QID Q5171231
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bremekamp, Cornelius Elisa Bertus {std. Bremek.} (Suppl.)|second entry]] for this author
 

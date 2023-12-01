@@ -6,7 +6,7 @@ tl2_surname: Sperry
 tl2_forenames: Omer Edison
 tl2_name_abbrev: Sperry
 tl2_dates: 1902-1975
-tl2_page_id: 33333927
+tl2_bhl_page_id: 33333927
 author_lsid: 9963-1
 wikidata_id: Q21609283
 ipni_surname: Sperry
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9963-1), [Wikidata](https://www.wikidata.org/wiki/Q21609283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9963-1) LSID 9963-1, [Wikidata](https://www.wikidata.org/wiki/Q21609283) QID Q21609283
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

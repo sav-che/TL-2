@@ -6,7 +6,7 @@ tl2_surname: Camus
 tl2_forenames: Aimée (Antoinette)
 tl2_name_abbrev: A. Camus
 tl2_dates: 1879-1965
-tl2_page_id: 33266644
+tl2_bhl_page_id: 33266644
 author_lsid: 1381-1
 wikidata_id: Q272128
 ipni_surname: Camus
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1381-1), [Wikidata](https://www.wikidata.org/wiki/Q272128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1381-1) LSID 1381-1, [Wikidata](https://www.wikidata.org/wiki/Q272128) QID Q272128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Camus, Aimée Antoinette {std. A. Camus}|first entry]] for this author
 

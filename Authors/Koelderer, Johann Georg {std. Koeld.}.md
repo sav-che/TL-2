@@ -6,7 +6,7 @@ tl2_surname: Koelderer
 tl2_forenames: Johann Georg
 tl2_name_abbrev: Koeld.
 tl2_dates: fl. 1747
-tl2_page_id: 33068839
+tl2_bhl_page_id: 33068839
 author_lsid: 4915-1
 wikidata_id: Q36592569
 ipni_surname: Koelderer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4915-1), [Wikidata](https://www.wikidata.org/wiki/Q36592569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4915-1) LSID 4915-1, [Wikidata](https://www.wikidata.org/wiki/Q36592569) QID Q36592569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

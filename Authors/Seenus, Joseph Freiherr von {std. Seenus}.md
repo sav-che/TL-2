@@ -6,7 +6,7 @@ tl2_surname: Seenus
 tl2_forenames: Joseph Freiherr von
 tl2_name_abbrev: Seenus
 tl2_dates: fl. 1805
-tl2_page_id: 33333621
+tl2_bhl_page_id: 33333621
 author_lsid: 9420-1
 wikidata_id: Q19001937
 ipni_surname: Seenus
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33333621) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9420-1), [Wikidata](https://www.wikidata.org/wiki/Q19001937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9420-1) LSID 9420-1, [Wikidata](https://www.wikidata.org/wiki/Q19001937) QID Q19001937
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

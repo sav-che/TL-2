@@ -6,7 +6,7 @@ tl2_surname: Lefroy
 tl2_forenames: Sir John Henry
 tl2_name_abbrev: Lefr.
 tl2_dates: 1817-1890
-tl2_page_id: 33069056
+tl2_bhl_page_id: 33069056
 author_lsid: 12641-1
 wikidata_id: Q6238868
 ipni_surname: Lefroy
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:46:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33069056) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12641-1), [Wikidata](https://www.wikidata.org/wiki/Q6238868). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12641-1) LSID 12641-1, [Wikidata](https://www.wikidata.org/wiki/Q6238868) QID Q6238868
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

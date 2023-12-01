@@ -6,7 +6,7 @@ tl2_surname: Wilson
 tl2_forenames: Ernest Henry
 tl2_name_abbrev: E. Wils.
 tl2_dates: 1876-1930
-tl2_page_id: 33066690
+tl2_bhl_page_id: 33066690
 author_lsid: 11732-1
 wikidata_id: Q1356381
 ipni_surname: Wilson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33066690) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11732-1), [Wikidata](https://www.wikidata.org/wiki/Q1356381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11732-1) LSID 11732-1, [Wikidata](https://www.wikidata.org/wiki/Q1356381) QID Q1356381
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

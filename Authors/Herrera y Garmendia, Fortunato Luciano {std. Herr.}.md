@@ -6,7 +6,7 @@ tl2_surname: Herrera y Garmendia
 tl2_forenames: Fortunato Luciano
 tl2_name_abbrev: Herr.
 tl2_dates: 1875-1945
-tl2_page_id: 33068417
+tl2_bhl_page_id: 33068417
 author_lsid: 3885-1
 wikidata_id: Q5561447
 ipni_surname: Herrera y Garmendia
@@ -24,7 +24,8 @@ ipni_record_modified: 2016-01-20 16:20:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33068417) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3885-1), [Wikidata](https://www.wikidata.org/wiki/Q5561447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3885-1) LSID 3885-1, [Wikidata](https://www.wikidata.org/wiki/Q5561447) QID Q5561447
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

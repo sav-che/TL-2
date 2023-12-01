@@ -6,7 +6,7 @@ tl2_surname: Sehlmeyer
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: Sehlm.
 tl2_dates: 1788-1856
-tl2_page_id: 33333628
+tl2_bhl_page_id: 33333628
 author_lsid: 9429-1
 wikidata_id: Q21608620
 ipni_surname: Sehlmeyer
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33333628) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9429-1), [Wikidata](https://www.wikidata.org/wiki/Q21608620). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9429-1) LSID 9429-1, [Wikidata](https://www.wikidata.org/wiki/Q21608620) QID Q21608620
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

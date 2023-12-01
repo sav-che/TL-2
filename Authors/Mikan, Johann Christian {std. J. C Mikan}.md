@@ -6,7 +6,7 @@ tl2_surname: Mikan
 tl2_forenames: Johann Christian
 tl2_name_abbrev: J. C Mikan
 tl2_dates: 1769-1844
-tl2_page_id: 33355568
+tl2_bhl_page_id: 33355568
 author_lsid: 6459-1
 wikidata_id: Q4292977
 ipni_surname: Mikan
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33355568) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6459-1), [Wikidata](https://www.wikidata.org/wiki/Q4292977). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6459-1) LSID 6459-1, [Wikidata](https://www.wikidata.org/wiki/Q4292977) QID Q4292977
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

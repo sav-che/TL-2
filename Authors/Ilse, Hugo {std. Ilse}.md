@@ -6,7 +6,7 @@ tl2_surname: Ilse
 tl2_forenames: Hugo
 tl2_name_abbrev: Ilse
 tl2_dates: 1835-1900
-tl2_page_id: 33068625
+tl2_bhl_page_id: 33068625
 author_lsid: 4285-1
 wikidata_id: Q11710261
 ipni_surname: Ilse
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33068625) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4285-1), [Wikidata](https://www.wikidata.org/wiki/Q11710261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4285-1) LSID 4285-1, [Wikidata](https://www.wikidata.org/wiki/Q11710261) QID Q11710261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

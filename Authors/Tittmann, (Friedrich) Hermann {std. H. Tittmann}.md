@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0396
 tl2_volume: vol6
 tl2_page_printed: 371
 tl2_surname: Tittmann
-tl2_forenames: [Friedrich] Hermann
+tl2_forenames: (Friedrich) Hermann
 tl2_name_abbrev: H. Tittmann
 tl2_dates: 1863-?
-tl2_page_id: 33212413
+tl2_bhl_page_id: 33212413
 author_lsid: 12936-1
 wikidata_id: Q21610789
 ipni_surname: Tittmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33212413) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12936-1), [Wikidata](https://www.wikidata.org/wiki/Q21610789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12936-1) LSID 12936-1, [Wikidata](https://www.wikidata.org/wiki/Q21610789) QID Q21610789
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

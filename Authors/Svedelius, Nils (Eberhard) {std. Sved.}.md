@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0126
 tl2_volume: vol6
 tl2_page_printed: 106
 tl2_surname: Svedelius
-tl2_forenames: Nils [Eberhard]
+tl2_forenames: Nils (Eberhard)
 tl2_name_abbrev: Sved.
 tl2_dates: 1873-1960
-tl2_page_id: 33212148
+tl2_bhl_page_id: 33212148
 author_lsid: 12907-1
 wikidata_id: Q6197774
 ipni_surname: Svedelius
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33212148) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12907-1), [Wikidata](https://www.wikidata.org/wiki/Q6197774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12907-1) LSID 12907-1, [Wikidata](https://www.wikidata.org/wiki/Q6197774) QID Q6197774
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

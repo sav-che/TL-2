@@ -6,27 +6,30 @@ tl2_surname: Lützow
 tl2_forenames: G.
 tl2_name_abbrev: G. Lützow
 tl2_dates: fl. 1895
-tl2_page_id: 33355278
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33355278
+author_lsid: 5825-1
+wikidata_id: Q36564992
+ipni_surname: Lützow
+ipni_forenames: G.
+ipni_standard_form: Lützow
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Bryophytes
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33355278) of TL-2 Vol. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5825-1) LSID 5825-1, [Wikidata](https://www.wikidata.org/wiki/Q36564992) QID Q36564992
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Lützow, G. (*fl*. 1895), German bryologist. 
-**Abbreviated name**: *G. Lützow*
+**Abbreviated name**: *G. Lützow* \[standard form in IPNI: *Lützow*\]
 
 #### Herbarium and types
 

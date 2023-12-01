@@ -6,7 +6,7 @@ tl2_surname: Krieger
 tl2_forenames: Karl Wilhelm
 tl2_name_abbrev: K. Krieg.
 tl2_dates: 1848-1921
-tl2_page_id: 33068916
+tl2_bhl_page_id: 33068916
 author_lsid: 5064-1
 wikidata_id: Q21517929
 ipni_surname: Krieger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5064-1), [Wikidata](https://www.wikidata.org/wiki/Q21517929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5064-1) LSID 5064-1, [Wikidata](https://www.wikidata.org/wiki/Q21517929) QID Q21517929
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

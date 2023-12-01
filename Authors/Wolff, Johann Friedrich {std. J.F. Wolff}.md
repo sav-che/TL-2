@@ -6,7 +6,7 @@ tl2_surname: Wolff
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: J.F. Wolff
 tl2_dates: 1778-1806
-tl2_page_id: 33066763
+tl2_bhl_page_id: 33066763
 author_lsid: 13529-1
 wikidata_id: Q111396
 ipni_surname: Wolff
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33066763) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13529-1), [Wikidata](https://www.wikidata.org/wiki/Q111396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13529-1) LSID 13529-1, [Wikidata](https://www.wikidata.org/wiki/Q111396) QID Q111396
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0246
 tl2_volume: vol4
 tl2_page_printed: 214
 tl2_surname: Petzold
-tl2_forenames: [Carl] Eduard Adolph
+tl2_forenames: (Carl) Eduard Adolph
 tl2_name_abbrev: Petzold
 tl2_dates: 1815-1891
-tl2_page_id: 33189685
+tl2_bhl_page_id: 33189685
 author_lsid: 7608-1
 wikidata_id: Q68098
 ipni_surname: Petzold
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7608-1), [Wikidata](https://www.wikidata.org/wiki/Q68098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7608-1) LSID 7608-1, [Wikidata](https://www.wikidata.org/wiki/Q68098) QID Q68098
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

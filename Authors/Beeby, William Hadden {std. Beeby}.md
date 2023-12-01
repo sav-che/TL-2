@@ -6,7 +6,7 @@ tl2_surname: Beeby
 tl2_forenames: William Hadden
 tl2_name_abbrev: Beeby
 tl2_dates: 1849-1910
-tl2_page_id: 33265235
+tl2_bhl_page_id: 33265235
 author_lsid: 609-1
 wikidata_id: Q21505869
 ipni_surname: Beeby
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33265235) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/609-1), [Wikidata](https://www.wikidata.org/wiki/Q21505869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/609-1) LSID 609-1, [Wikidata](https://www.wikidata.org/wiki/Q21505869) QID Q21505869
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

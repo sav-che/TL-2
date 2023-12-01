@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0148
 tl2_volume: suppl4
 tl2_page_printed: 189
 tl2_surname: Claus
-tl2_forenames: Carl [Friedrich Wilhelm]
+tl2_forenames: Carl (Friedrich Wilhelm)
 tl2_name_abbrev: C. Claus
 tl2_dates: 1835-1899
-tl2_page_id: 33265866
+tl2_bhl_page_id: 33265866
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33265866) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

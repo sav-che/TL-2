@@ -6,7 +6,7 @@ tl2_surname: Tombe
 tl2_forenames: Frans Andries des
 tl2_name_abbrev: Tombe
 tl2_dates: 1884-1926
-tl2_page_id: 33212430
+tl2_bhl_page_id: 33212430
 author_lsid: 10725-1
 wikidata_id: Q21610838
 ipni_surname: Tombe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10725-1), [Wikidata](https://www.wikidata.org/wiki/Q21610838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10725-1) LSID 10725-1, [Wikidata](https://www.wikidata.org/wiki/Q21610838) QID Q21610838
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Des Tombe, Frans Andries {std. Tombe} (Suppl.)|second entry]] for this author
 

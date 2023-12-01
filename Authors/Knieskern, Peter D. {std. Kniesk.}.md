@@ -6,7 +6,7 @@ tl2_surname: Knieskern
 tl2_forenames: Peter D.
 tl2_name_abbrev: Kniesk.
 tl2_dates: 1798-1871
-tl2_page_id: 33068818
+tl2_bhl_page_id: 33068818
 author_lsid: 4869-1
 wikidata_id: Q21517622
 ipni_surname: Knieskern
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4869-1), [Wikidata](https://www.wikidata.org/wiki/Q21517622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4869-1) LSID 4869-1, [Wikidata](https://www.wikidata.org/wiki/Q21517622) QID Q21517622
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

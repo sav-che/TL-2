@@ -6,7 +6,7 @@ tl2_surname: Albert
 tl2_forenames: Abel
 tl2_name_abbrev: A. Albert
 tl2_dates: 1836-1909
-tl2_page_id: 33264748
+tl2_bhl_page_id: 33264748
 author_lsid: 122-1
 wikidata_id: Q8183892
 ipni_surname: Albert
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33264748) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/122-1), [Wikidata](https://www.wikidata.org/wiki/Q8183892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/122-1) LSID 122-1, [Wikidata](https://www.wikidata.org/wiki/Q8183892) QID Q8183892
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

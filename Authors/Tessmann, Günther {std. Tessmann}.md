@@ -6,7 +6,7 @@ tl2_surname: Tessmann
 tl2_forenames: Günther
 tl2_name_abbrev: Tessmann
 tl2_dates: fl. 1904-1926
-tl2_page_id: 33212270
+tl2_bhl_page_id: 33212270
 author_lsid: 10534-1
 wikidata_id: Q1561875
 ipni_surname: Tessmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-06-19 18:12:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10534-1), [Wikidata](https://www.wikidata.org/wiki/Q1561875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10534-1) LSID 10534-1, [Wikidata](https://www.wikidata.org/wiki/Q1561875) QID Q1561875
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

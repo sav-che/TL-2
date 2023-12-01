@@ -6,7 +6,7 @@ tl2_surname: Maublanc
 tl2_forenames: André
 tl2_name_abbrev: Maubl.
 tl2_dates: 1880-1958
-tl2_page_id: 33355462
+tl2_bhl_page_id: 33355462
 author_lsid: 23078-1
 wikidata_id: Q2848277
 ipni_surname: Maublanc
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33355462) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23078-1), [Wikidata](https://www.wikidata.org/wiki/Q2848277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23078-1) LSID 23078-1, [Wikidata](https://www.wikidata.org/wiki/Q2848277) QID Q2848277
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

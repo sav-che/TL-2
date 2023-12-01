@@ -6,7 +6,7 @@ tl2_surname: Harvey
 tl2_forenames: William Henry
 tl2_name_abbrev: Harv.
 tl2_dates: 1811-1866
-tl2_page_id: 33068312
+tl2_bhl_page_id: 33068312
 author_lsid: 3705-1
 wikidata_id: Q1378128
 ipni_surname: Harvey
@@ -32,7 +32,8 @@ ipni_record_modified: 2013-05-15 11:43:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3705-1), [Wikidata](https://www.wikidata.org/wiki/Q1378128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3705-1) LSID 3705-1, [Wikidata](https://www.wikidata.org/wiki/Q1378128) QID Q1378128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

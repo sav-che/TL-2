@@ -6,7 +6,7 @@ tl2_surname: Fisher
 tl2_forenames: Eileen Elizabeth
 tl2_name_abbrev: E.E. Fisher
 tl2_dates: 1909-x
-tl2_page_id: 33259727
+tl2_bhl_page_id: 33259727
 author_lsid: 18833-1
 wikidata_id: Q36544989
 ipni_surname: Fisher
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18833-1), [Wikidata](https://www.wikidata.org/wiki/Q36544989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18833-1) LSID 18833-1, [Wikidata](https://www.wikidata.org/wiki/Q36544989) QID Q36544989
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0212
 tl2_volume: vol4
 tl2_page_printed: 192
 tl2_surname: Péterfi
-tl2_forenames: Márton [Martin]
+tl2_forenames: Márton (Martin)
 tl2_name_abbrev: Péterfi
 tl2_dates: 1875-1922
-tl2_page_id: 33189663
+tl2_bhl_page_id: 33189663
 author_lsid: 7564-1
 wikidata_id: Q1243218
 ipni_surname: Péterfi
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-01-22 12:02:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33189663) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7564-1), [Wikidata](https://www.wikidata.org/wiki/Q1243218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7564-1) LSID 7564-1, [Wikidata](https://www.wikidata.org/wiki/Q1243218) QID Q1243218
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

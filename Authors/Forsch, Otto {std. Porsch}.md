@@ -6,7 +6,7 @@ tl2_surname: Forsch
 tl2_forenames: Otto
 tl2_name_abbrev: Porsch
 tl2_dates: 1875-1959
-tl2_page_id: 33189812
+tl2_bhl_page_id: 33189812
 author_lsid: 7858-1
 wikidata_id: Q7109785
 ipni_surname: Porsch
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33189812) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7858-1), [Wikidata](https://www.wikidata.org/wiki/Q7109785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7858-1) LSID 7858-1, [Wikidata](https://www.wikidata.org/wiki/Q7109785) QID Q7109785
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

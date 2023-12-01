@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0020
 tl2_volume: suppl8
 tl2_page_printed: 31
 tl2_surname: Fries
-tl2_forenames: Theodor [Thore, Thorel] Magnus
+tl2_forenames: Theodor (Thore, Thorel) Magnus
 tl2_name_abbrev: Th. Fr.
 tl2_dates: 1832-1913
-tl2_page_id: 33258471
+tl2_bhl_page_id: 33258471
 author_lsid: 2917-1
 wikidata_id: Q15410
 ipni_surname: Fries
@@ -26,7 +26,8 @@ ipni_record_modified: 2008-02-05 07:23:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2917-1), [Wikidata](https://www.wikidata.org/wiki/Q15410). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2917-1) LSID 2917-1, [Wikidata](https://www.wikidata.org/wiki/Q15410) QID Q15410
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fries, Theodor (Thore) Magnus {std. Th. Fr.}|first entry]] for this author
 

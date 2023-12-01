@@ -6,7 +6,7 @@ tl2_surname: Caraven-Cachin
 tl2_forenames: Alfred
 tl2_name_abbrev: Caraven-Cachin
 tl2_dates: 1839-1903
-tl2_page_id: 33266707
+tl2_bhl_page_id: 33266707
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33266707) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

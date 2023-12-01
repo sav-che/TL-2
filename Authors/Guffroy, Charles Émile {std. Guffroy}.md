@@ -6,7 +6,7 @@ tl2_surname: Guffroy
 tl2_forenames: Charles Émile
 tl2_name_abbrev: Guffroy
 tl2_dates: 1875-1954
-tl2_page_id: 33258921
+tl2_bhl_page_id: 33258921
 author_lsid: 3455-1
 wikidata_id: Q36524903
 ipni_surname: Guffroy
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33258921) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3455-1), [Wikidata](https://www.wikidata.org/wiki/Q36524903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3455-1) LSID 3455-1, [Wikidata](https://www.wikidata.org/wiki/Q36524903) QID Q36524903
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

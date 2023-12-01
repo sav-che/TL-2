@@ -6,7 +6,7 @@ tl2_surname: Hoven
 tl2_forenames: Frederik Johan Jacob Slingsbij van
 tl2_name_abbrev: Hoven
 tl2_dates: 1815-1879
-tl2_page_id: 33068588
+tl2_bhl_page_id: 33068588
 author_lsid: 4149-1
 wikidata_id: Q21516335
 ipni_surname: Hoven
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4149-1), [Wikidata](https://www.wikidata.org/wiki/Q21516335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4149-1) LSID 4149-1, [Wikidata](https://www.wikidata.org/wiki/Q21516335) QID Q21516335
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

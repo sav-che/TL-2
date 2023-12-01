@@ -6,7 +6,7 @@ tl2_surname: Dalbis
 tl2_forenames: Louis Janvier
 tl2_name_abbrev: Dalbis
 tl2_dates: fl. 1912-1919
-tl2_page_id: 33259070
+tl2_bhl_page_id: 33259070
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259070) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Perrottet
 tl2_forenames: George (Georges Guerrard) Samuel
 tl2_name_abbrev: Perrottet
 tl2_dates: 1793-1870
-tl2_page_id: 33189646
+tl2_bhl_page_id: 33189646
 author_lsid: 7541-1
 wikidata_id: Q973709
 ipni_surname: Perrottet
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:36:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33189646) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7541-1), [Wikidata](https://www.wikidata.org/wiki/Q973709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7541-1) LSID 7541-1, [Wikidata](https://www.wikidata.org/wiki/Q973709) QID Q973709
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

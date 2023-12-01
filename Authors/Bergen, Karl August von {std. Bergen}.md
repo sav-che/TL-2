@@ -6,7 +6,7 @@ tl2_surname: Bergen
 tl2_forenames: Karl August von
 tl2_name_abbrev: Bergen
 tl2_dates: 1704-1759
-tl2_page_id: 33120317
+tl2_bhl_page_id: 33120317
 author_lsid: 679-1
 wikidata_id: Q110731
 ipni_surname: Bergen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33120317) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/679-1), [Wikidata](https://www.wikidata.org/wiki/Q110731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/679-1) LSID 679-1, [Wikidata](https://www.wikidata.org/wiki/Q110731) QID Q110731
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

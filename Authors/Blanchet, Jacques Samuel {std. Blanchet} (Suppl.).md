@@ -6,7 +6,7 @@ tl2_surname: Blanchet
 tl2_forenames: Jacques Samuel
 tl2_name_abbrev: Blanchet
 tl2_dates: 1807-1875
-tl2_page_id: 33265399
+tl2_bhl_page_id: 33265399
 author_lsid: 845-1
 wikidata_id: Q3159964
 ipni_surname: Blanchet
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33265399) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/845-1), [Wikidata](https://www.wikidata.org/wiki/Q3159964). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/845-1) LSID 845-1, [Wikidata](https://www.wikidata.org/wiki/Q3159964) QID Q3159964
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blanchet, Jacques Samuel {std. Blanchet}|first entry]] for this author
 

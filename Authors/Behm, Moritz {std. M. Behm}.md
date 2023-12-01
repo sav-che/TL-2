@@ -6,7 +6,7 @@ tl2_surname: Behm
 tl2_forenames: Moritz
 tl2_name_abbrev: M. Behm
 tl2_dates: 1867-?
-tl2_page_id: 33265247
+tl2_bhl_page_id: 33265247
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33265247) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

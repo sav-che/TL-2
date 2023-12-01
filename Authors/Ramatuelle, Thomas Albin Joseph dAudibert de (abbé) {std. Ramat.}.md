@@ -6,7 +6,7 @@ tl2_surname: Ramatuelle
 tl2_forenames: Thomas Albin Joseph dAudibert de (abbé)
 tl2_name_abbrev: Ramat.
 tl2_dates: 1750-1794
-tl2_page_id: 33190040
+tl2_bhl_page_id: 33190040
 author_lsid: 8119-1
 wikidata_id: Q3525686
 ipni_surname: Ramatuelle
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8119-1), [Wikidata](https://www.wikidata.org/wiki/Q3525686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8119-1) LSID 8119-1, [Wikidata](https://www.wikidata.org/wiki/Q3525686) QID Q3525686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

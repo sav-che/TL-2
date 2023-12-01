@@ -6,7 +6,7 @@ tl2_surname: Alströmer
 tl2_forenames: Clas
 tl2_name_abbrev: Alstr.
 tl2_dates: 1736-1794
-tl2_page_id: 33264817
+tl2_bhl_page_id: 33264817
 author_lsid: 171-1
 wikidata_id: Q1094656
 ipni_surname: Alströmer
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33264817) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/171-1), [Wikidata](https://www.wikidata.org/wiki/Q1094656). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/171-1) LSID 171-1, [Wikidata](https://www.wikidata.org/wiki/Q1094656) QID Q1094656
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Alströmer, Clas (1778 friherre, baron) (von) {std. Alstr.}|first entry]] for this author
 

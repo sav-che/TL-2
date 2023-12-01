@@ -6,7 +6,7 @@ tl2_surname: Sparrman
 tl2_forenames: Anders
 tl2_name_abbrev: Sparrm.
 tl2_dates: 1748-1820
-tl2_page_id: 33333912
+tl2_bhl_page_id: 33333912
 author_lsid: 9952-1
 wikidata_id: Q433984
 ipni_surname: Sparrman
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9952-1), [Wikidata](https://www.wikidata.org/wiki/Q433984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9952-1) LSID 9952-1, [Wikidata](https://www.wikidata.org/wiki/Q433984) QID Q433984
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

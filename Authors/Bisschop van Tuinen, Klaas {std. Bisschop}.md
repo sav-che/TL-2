@@ -6,7 +6,7 @@ tl2_surname: Bisschop van Tuinen
 tl2_forenames: Klaas
 tl2_name_abbrev: Bisschop
 tl2_dates: 1840-1905
-tl2_page_id: 33265374
+tl2_bhl_page_id: 33265374
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33265374) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

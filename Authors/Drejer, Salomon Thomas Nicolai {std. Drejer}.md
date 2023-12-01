@@ -6,7 +6,7 @@ tl2_surname: Drejer
 tl2_forenames: Salomon Thomas Nicolai
 tl2_name_abbrev: Drejer
 tl2_dates: 1813-1842
-tl2_page_id: 33120812
+tl2_bhl_page_id: 33120812
 author_lsid: 12414-1
 wikidata_id: Q3497011
 ipni_surname: Drejer
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12414-1), [Wikidata](https://www.wikidata.org/wiki/Q3497011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12414-1) LSID 12414-1, [Wikidata](https://www.wikidata.org/wiki/Q3497011) QID Q3497011
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Drejer, Salomon Thomas Nicolai {std. Drejer} (Suppl.)|second entry]] for this author
 

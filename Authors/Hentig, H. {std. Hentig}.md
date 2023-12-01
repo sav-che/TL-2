@@ -6,7 +6,7 @@ tl2_surname: Hentig
 tl2_forenames: H.
 tl2_name_abbrev: Hentig
 tl2_dates: fl. 1881
-tl2_page_id: 33068406
+tl2_bhl_page_id: 33068406
 author_lsid: 3860-1
 wikidata_id: Q36573734
 ipni_surname: Hentig
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3860-1), [Wikidata](https://www.wikidata.org/wiki/Q36573734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3860-1) LSID 3860-1, [Wikidata](https://www.wikidata.org/wiki/Q36573734) QID Q36573734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

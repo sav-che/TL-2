@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0372
 tl2_volume: vol2
 tl2_page_printed: 352
 tl2_surname: Hoyer
-tl2_forenames: Carl [Karl] August Heinrich
+tl2_forenames: Carl (Karl) August Heinrich
 tl2_name_abbrev: Hoyer
 tl2_dates: fl. 1838
-tl2_page_id: 33068594
+tl2_bhl_page_id: 33068594
 author_lsid: 4170-1
 wikidata_id: Q36525285
 ipni_surname: Hoyer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33068594) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4170-1), [Wikidata](https://www.wikidata.org/wiki/Q36525285). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4170-1) LSID 4170-1, [Wikidata](https://www.wikidata.org/wiki/Q36525285) QID Q36525285
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

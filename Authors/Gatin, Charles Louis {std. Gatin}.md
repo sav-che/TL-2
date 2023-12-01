@@ -6,7 +6,7 @@ tl2_surname: Gatin
 tl2_forenames: Charles Louis
 tl2_name_abbrev: Gatin
 tl2_dates: 1877-1916
-tl2_page_id: 33258621
+tl2_bhl_page_id: 33258621
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33258621) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

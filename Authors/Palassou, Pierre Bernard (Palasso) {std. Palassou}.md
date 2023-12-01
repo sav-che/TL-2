@@ -6,7 +6,7 @@ tl2_surname: Palassou
 tl2_forenames: Pierre Bernard (Palasso)
 tl2_name_abbrev: Palassou
 tl2_dates: 1745-1830
-tl2_page_id: 33189504
+tl2_bhl_page_id: 33189504
 author_lsid: 7263-1
 wikidata_id: Q3383947
 ipni_surname: Palassou
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33189504) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7263-1), [Wikidata](https://www.wikidata.org/wiki/Q3383947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7263-1) LSID 7263-1, [Wikidata](https://www.wikidata.org/wiki/Q3383947) QID Q3383947
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0917
 tl2_volume: vol3
 tl2_page_printed: 768
 tl2_surname: Nordstedt
-tl2_forenames: Carl Fredrik Otto [Otto]
+tl2_forenames: Carl Fredrik Otto (Otto)
 tl2_name_abbrev: Nordst.
 tl2_dates: 1838-1924
-tl2_page_id: 33355855
+tl2_bhl_page_id: 33355855
 author_lsid: 24149-1
 wikidata_id: Q6015981
 ipni_surname: Nordstedt
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/page/33355855) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24149-1), [Wikidata](https://www.wikidata.org/wiki/Q6015981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24149-1) LSID 24149-1, [Wikidata](https://www.wikidata.org/wiki/Q6015981) QID Q6015981
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Desmazières
 tl2_forenames: Jean Baptiste Henri Joseph
 tl2_name_abbrev: Desmaz.
 tl2_dates: 1786-1862
-tl2_page_id: 33120761
+tl2_bhl_page_id: 33120761
 author_lsid: 17965-1
 wikidata_id: Q4157332
 ipni_surname: Desmazières
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/page/33120761) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17965-1), [Wikidata](https://www.wikidata.org/wiki/Q4157332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17965-1) LSID 17965-1, [Wikidata](https://www.wikidata.org/wiki/Q4157332) QID Q4157332
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Desmazières, Jean Baptiste Henri Joseph {std. Desm.} (Suppl.)|second entry]] for this author
 

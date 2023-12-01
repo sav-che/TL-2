@@ -6,7 +6,7 @@ tl2_surname: Fitzpatrick
 tl2_forenames: Thomas Jefferson
 tl2_name_abbrev: T.J. Fitzp.
 tl2_dates: 1868-1952
-tl2_page_id: 33259738
+tl2_bhl_page_id: 33259738
 author_lsid: 20012206-2
 wikidata_id: Q21513193
 ipni_surname: Fitzpatrick
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33259738) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/20012206-2), [Wikidata](https://www.wikidata.org/wiki/Q21513193). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20012206-2) LSID 20012206-2, [Wikidata](https://www.wikidata.org/wiki/Q21513193) QID Q21513193
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

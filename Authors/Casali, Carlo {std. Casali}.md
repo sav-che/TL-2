@@ -6,7 +6,7 @@ tl2_surname: Casali
 tl2_forenames: Carlo
 tl2_name_abbrev: Casali
 tl2_dates: 1865-?
-tl2_page_id: 33266750
+tl2_bhl_page_id: 33266750
 author_lsid: 20002736-1
 wikidata_id: Q47115160
 ipni_surname: Casali
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33266750) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/20002736-1), [Wikidata](https://www.wikidata.org/wiki/Q47115160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20002736-1) LSID 20002736-1, [Wikidata](https://www.wikidata.org/wiki/Q47115160) QID Q47115160
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

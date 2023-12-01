@@ -6,7 +6,7 @@ tl2_surname: Keyserling
 tl2_forenames: Alexander Friedrich Michael Leberecht Arthur von
 tl2_name_abbrev: Keyserl.
 tl2_dates: 1815-1891
-tl2_page_id: 33068774
+tl2_bhl_page_id: 33068774
 author_lsid: 4756-1
 wikidata_id: Q63106
 ipni_surname: Keyserling
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4756-1), [Wikidata](https://www.wikidata.org/wiki/Q63106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4756-1) LSID 4756-1, [Wikidata](https://www.wikidata.org/wiki/Q63106) QID Q63106
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

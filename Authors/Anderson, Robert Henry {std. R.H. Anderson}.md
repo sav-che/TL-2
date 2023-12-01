@@ -6,7 +6,7 @@ tl2_surname: Anderson
 tl2_forenames: Robert Henry
 tl2_name_abbrev: R.H. Anderson
 tl2_dates: 1899-1969
-tl2_page_id: 33264837
+tl2_bhl_page_id: 33264837
 author_lsid: 198-1
 wikidata_id: Q15975678
 ipni_surname: Anderson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/198-1), [Wikidata](https://www.wikidata.org/wiki/Q15975678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/198-1) LSID 198-1, [Wikidata](https://www.wikidata.org/wiki/Q15975678) QID Q15975678
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Cépède
 tl2_forenames: Casimir
 tl2_name_abbrev: Cépède
 tl2_dates: 1880 (?)-1954
-tl2_page_id: 33265700
+tl2_bhl_page_id: 33265700
 author_lsid: 34285-1
 wikidata_id: Q36522727
 ipni_surname: Cépède
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33265700) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/34285-1), [Wikidata](https://www.wikidata.org/wiki/Q36522727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34285-1) LSID 34285-1, [Wikidata](https://www.wikidata.org/wiki/Q36522727) QID Q36522727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

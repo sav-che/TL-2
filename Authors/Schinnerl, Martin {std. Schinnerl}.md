@@ -6,7 +6,7 @@ tl2_surname: Schinnerl
 tl2_forenames: Martin
 tl2_name_abbrev: Schinnerl
 tl2_dates: 1861-1950
-tl2_page_id: 33333313
+tl2_bhl_page_id: 33333313
 author_lsid: 35153-1
 wikidata_id: Q21607979
 ipni_surname: Schinnerl
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/35153-1), [Wikidata](https://www.wikidata.org/wiki/Q21607979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35153-1) LSID 35153-1, [Wikidata](https://www.wikidata.org/wiki/Q21607979) QID Q21607979
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kremer
 tl2_forenames: Jean Pierre
 tl2_name_abbrev: Kremer
 tl2_dates: 1812-1867
-tl2_page_id: 33068912
+tl2_bhl_page_id: 33068912
 author_lsid: 21736-1
 wikidata_id: Q21517928
 ipni_surname: Kremer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21736-1), [Wikidata](https://www.wikidata.org/wiki/Q21517928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21736-1) LSID 21736-1, [Wikidata](https://www.wikidata.org/wiki/Q21517928) QID Q21517928
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Choisy
 tl2_forenames: Jacques Denis
 tl2_name_abbrev: Choisy
 tl2_dates: 1799-1859
-tl2_page_id: 33120628
+tl2_bhl_page_id: 33120628
 author_lsid: 12379-1
 wikidata_id: Q4527095
 ipni_surname: Choisy
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33120628) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12379-1), [Wikidata](https://www.wikidata.org/wiki/Q4527095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12379-1) LSID 12379-1, [Wikidata](https://www.wikidata.org/wiki/Q4527095) QID Q4527095
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Choisy, Jacques-Denis {std. Choisy} (Suppl.)|second entry]] for this author
 

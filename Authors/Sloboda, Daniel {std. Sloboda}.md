@@ -6,7 +6,7 @@ tl2_surname: Sloboda
 tl2_forenames: Daniel
 tl2_name_abbrev: Sloboda
 tl2_dates: 1809-1888
-tl2_page_id: 33333786
+tl2_bhl_page_id: 33333786
 author_lsid: 9746-1
 wikidata_id: Q1162721
 ipni_surname: Sloboda
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/page/33333786) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9746-1), [Wikidata](https://www.wikidata.org/wiki/Q1162721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9746-1) LSID 9746-1, [Wikidata](https://www.wikidata.org/wiki/Q1162721) QID Q1162721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

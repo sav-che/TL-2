@@ -6,7 +6,7 @@ tl2_surname: Mantell
 tl2_forenames: Gideon Algernon
 tl2_name_abbrev: Mantell
 tl2_dates: 1790-1852
-tl2_page_id: 33355370
+tl2_bhl_page_id: 33355370
 author_lsid: 6078-1
 wikidata_id: Q348455
 ipni_surname: Mantell
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33355370) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6078-1), [Wikidata](https://www.wikidata.org/wiki/Q348455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6078-1) LSID 6078-1, [Wikidata](https://www.wikidata.org/wiki/Q348455) QID Q348455
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

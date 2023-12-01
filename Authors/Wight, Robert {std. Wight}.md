@@ -6,7 +6,7 @@ tl2_surname: Wight
 tl2_forenames: Robert
 tl2_name_abbrev: Wight
 tl2_dates: 1796-1872
-tl2_page_id: 33066617
+tl2_bhl_page_id: 33066617
 author_lsid: 11658-1
 wikidata_id: Q1375864
 ipni_surname: Wight
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33066617) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11658-1), [Wikidata](https://www.wikidata.org/wiki/Q1375864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11658-1) LSID 11658-1, [Wikidata](https://www.wikidata.org/wiki/Q1375864) QID Q1375864
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

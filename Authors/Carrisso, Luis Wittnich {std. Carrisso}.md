@@ -6,7 +6,7 @@ tl2_surname: Carrisso
 tl2_forenames: Luis Wittnich
 tl2_name_abbrev: Carrisso
 tl2_dates: 1886-1937
-tl2_page_id: 33266732
+tl2_bhl_page_id: 33266732
 author_lsid: 1421-1
 wikidata_id: Q10321691
 ipni_surname: Luis Wittnich
@@ -24,7 +24,8 @@ ipni_record_modified: 2012-09-18 09:59:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1421-1), [Wikidata](https://www.wikidata.org/wiki/Q10321691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1421-1) LSID 1421-1, [Wikidata](https://www.wikidata.org/wiki/Q10321691) QID Q10321691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

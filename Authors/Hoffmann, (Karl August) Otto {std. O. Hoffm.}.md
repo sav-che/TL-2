@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0293
 tl2_volume: vol2
 tl2_page_printed: 244
 tl2_surname: Hoffmann
-tl2_forenames: [Karl August] Otto
+tl2_forenames: (Karl August) Otto
 tl2_name_abbrev: O. Hoffm.
 tl2_dates: 1853-1909
-tl2_page_id: 33068486
+tl2_bhl_page_id: 33068486
 author_lsid: 4015-1
 wikidata_id: Q4147110
 ipni_surname: Hoffmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4015-1), [Wikidata](https://www.wikidata.org/wiki/Q4147110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4015-1) LSID 4015-1, [Wikidata](https://www.wikidata.org/wiki/Q4147110) QID Q4147110
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

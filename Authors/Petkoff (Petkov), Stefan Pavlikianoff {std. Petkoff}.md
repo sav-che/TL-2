@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol4_0230
 tl2_volume: vol4
 tl2_page_printed: 204
-tl2_surname: Petkoff [Petkov]
+tl2_surname: Petkoff (Petkov)
 tl2_forenames: Stefan Pavlikianoff
 tl2_name_abbrev: Petkoff
 tl2_dates: 1866-1956
-tl2_page_id: 33189675
+tl2_bhl_page_id: 33189675
 author_lsid: 7586-1
 wikidata_id: Q12295269
 ipni_surname: Petkoff
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33189675) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7586-1), [Wikidata](https://www.wikidata.org/wiki/Q12295269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7586-1) LSID 7586-1, [Wikidata](https://www.wikidata.org/wiki/Q12295269) QID Q12295269
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

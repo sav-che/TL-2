@@ -6,7 +6,7 @@ tl2_surname: Le Cointe
 tl2_forenames: Paul
 tl2_name_abbrev: Le Cointe
 tl2_dates: 1870-?
-tl2_page_id: 33069023
+tl2_bhl_page_id: 33069023
 author_lsid: 5385-1
 wikidata_id: Q4257704
 ipni_surname: Le Cointe
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5385-1), [Wikidata](https://www.wikidata.org/wiki/Q4257704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5385-1) LSID 5385-1, [Wikidata](https://www.wikidata.org/wiki/Q4257704) QID Q4257704
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

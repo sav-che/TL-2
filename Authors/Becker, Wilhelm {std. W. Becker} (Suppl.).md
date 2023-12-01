@@ -6,7 +6,7 @@ tl2_surname: Becker
 tl2_forenames: Wilhelm
 tl2_name_abbrev: W. Becker
 tl2_dates: 1874-1928
-tl2_page_id: 33265229
+tl2_bhl_page_id: 33265229
 author_lsid: 601-1
 wikidata_id: Q6167449
 ipni_surname: Becker
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33265229) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/601-1), [Wikidata](https://www.wikidata.org/wiki/Q6167449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/601-1) LSID 601-1, [Wikidata](https://www.wikidata.org/wiki/Q6167449) QID Q6167449
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Becker, Wilhelm {std. W. Becker}|first entry]] for this author
 

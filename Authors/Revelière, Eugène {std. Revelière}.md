@@ -6,7 +6,7 @@ tl2_surname: Revelière
 tl2_forenames: Eugène
 tl2_name_abbrev: Revelière
 tl2_dates: 1822-1892
-tl2_page_id: 33190217
+tl2_bhl_page_id: 33190217
 author_lsid: 8316-1
 wikidata_id: Q21607137
 ipni_surname: Revelière
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8316-1), [Wikidata](https://www.wikidata.org/wiki/Q21607137). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8316-1) LSID 8316-1, [Wikidata](https://www.wikidata.org/wiki/Q21607137) QID Q21607137
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

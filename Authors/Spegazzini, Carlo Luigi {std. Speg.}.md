@@ -6,7 +6,7 @@ tl2_surname: Spegazzini
 tl2_forenames: Carlo Luigi
 tl2_name_abbrev: Speg.
 tl2_dates: 1858-1926
-tl2_page_id: 33333915
+tl2_bhl_page_id: 33333915
 author_lsid: 9955-1
 wikidata_id: Q648013
 ipni_surname: Spegazzini
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:53:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33333915) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9955-1), [Wikidata](https://www.wikidata.org/wiki/Q648013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9955-1) LSID 9955-1, [Wikidata](https://www.wikidata.org/wiki/Q648013) QID Q648013
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

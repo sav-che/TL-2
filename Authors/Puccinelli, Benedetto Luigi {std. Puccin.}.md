@@ -6,7 +6,7 @@ tl2_surname: Puccinelli
 tl2_forenames: Benedetto Luigi
 tl2_name_abbrev: Puccin.
 tl2_dates: 1808-1850
-tl2_page_id: 33189893
+tl2_bhl_page_id: 33189893
 author_lsid: 8007-1
 wikidata_id: Q18224739
 ipni_surname: Puccinelli
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33189893) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8007-1), [Wikidata](https://www.wikidata.org/wiki/Q18224739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8007-1) LSID 8007-1, [Wikidata](https://www.wikidata.org/wiki/Q18224739) QID Q18224739
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

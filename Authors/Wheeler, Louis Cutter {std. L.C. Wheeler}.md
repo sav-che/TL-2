@@ -6,7 +6,7 @@ tl2_surname: Wheeler
 tl2_forenames: Louis Cutter
 tl2_name_abbrev: L.C. Wheeler
 tl2_dates: 1910-1980
-tl2_page_id: 33066579
+tl2_bhl_page_id: 33066579
 author_lsid: 11605-1
 wikidata_id: Q2878904
 ipni_surname: Wheeler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11605-1), [Wikidata](https://www.wikidata.org/wiki/Q2878904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11605-1) LSID 11605-1, [Wikidata](https://www.wikidata.org/wiki/Q2878904) QID Q2878904
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

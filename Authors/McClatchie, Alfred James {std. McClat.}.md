@@ -6,7 +6,7 @@ tl2_surname: McClatchie
 tl2_forenames: Alfred James
 tl2_name_abbrev: McClat.
 tl2_dates: 1861-1906
-tl2_page_id: 33355300
+tl2_bhl_page_id: 33355300
 author_lsid: 5898-1
 wikidata_id: Q5667435
 ipni_surname: McClatchie
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5898-1), [Wikidata](https://www.wikidata.org/wiki/Q5667435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5898-1) LSID 5898-1, [Wikidata](https://www.wikidata.org/wiki/Q5667435) QID Q5667435
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

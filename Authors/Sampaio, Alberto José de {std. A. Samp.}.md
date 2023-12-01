@@ -6,7 +6,7 @@ tl2_surname: Sampaio
 tl2_forenames: Alberto José de
 tl2_name_abbrev: A. Samp.
 tl2_dates: 1881-1946
-tl2_page_id: 33333166
+tl2_bhl_page_id: 33333166
 author_lsid: 8865-1
 wikidata_id: Q5663189
 ipni_surname: Sampaio
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8865-1), [Wikidata](https://www.wikidata.org/wiki/Q5663189). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8865-1) LSID 8865-1, [Wikidata](https://www.wikidata.org/wiki/Q5663189) QID Q5663189
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

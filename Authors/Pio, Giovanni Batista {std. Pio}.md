@@ -6,7 +6,7 @@ tl2_surname: Pio
 tl2_forenames: Giovanni Batista
 tl2_name_abbrev: Pio
 tl2_dates: fl. 1813
-tl2_page_id: 33189740
+tl2_bhl_page_id: 33189740
 author_lsid: 7718-1
 wikidata_id: Q36566512
 ipni_surname: Pio
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7718-1), [Wikidata](https://www.wikidata.org/wiki/Q36566512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7718-1) LSID 7718-1, [Wikidata](https://www.wikidata.org/wiki/Q36566512) QID Q36566512
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

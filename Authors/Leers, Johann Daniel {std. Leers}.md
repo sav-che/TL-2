@@ -6,7 +6,7 @@ tl2_surname: Leers
 tl2_forenames: Johann Daniel
 tl2_name_abbrev: Leers
 tl2_dates: 1727-1774
-tl2_page_id: 33069053
+tl2_bhl_page_id: 33069053
 author_lsid: 22191-1
 wikidata_id: Q4259296
 ipni_surname: Leers
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:29:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33069053) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22191-1), [Wikidata](https://www.wikidata.org/wiki/Q4259296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22191-1) LSID 22191-1, [Wikidata](https://www.wikidata.org/wiki/Q4259296) QID Q4259296
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

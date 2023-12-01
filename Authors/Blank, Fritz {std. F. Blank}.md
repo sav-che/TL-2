@@ -6,7 +6,7 @@ tl2_surname: Blank
 tl2_forenames: Fritz
 tl2_name_abbrev: F. Blank
 tl2_dates: 1914-x
-tl2_page_id: 33265401
+tl2_bhl_page_id: 33265401
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33265401) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

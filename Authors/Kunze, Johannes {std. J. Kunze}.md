@@ -6,7 +6,7 @@ tl2_surname: Kunze
 tl2_forenames: Johannes
 tl2_name_abbrev: J. Kunze
 tl2_dates: x-1881
-tl2_page_id: 33068947
+tl2_bhl_page_id: 33068947
 author_lsid: 5141-1
 wikidata_id: Q21518184
 ipni_surname: Kunze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5141-1), [Wikidata](https://www.wikidata.org/wiki/Q21518184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5141-1) LSID 5141-1, [Wikidata](https://www.wikidata.org/wiki/Q21518184) QID Q21518184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

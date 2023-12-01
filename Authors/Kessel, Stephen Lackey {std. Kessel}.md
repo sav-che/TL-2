@@ -6,7 +6,7 @@ tl2_surname: Kessel
 tl2_forenames: Stephen Lackey
 tl2_name_abbrev: Kessel
 tl2_dates: 1897-x
-tl2_page_id: 33068773
+tl2_bhl_page_id: 33068773
 author_lsid: 4752-1
 wikidata_id: Q21517444
 ipni_surname: Kessell
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4752-1), [Wikidata](https://www.wikidata.org/wiki/Q21517444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4752-1) LSID 4752-1, [Wikidata](https://www.wikidata.org/wiki/Q21517444) QID Q21517444
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

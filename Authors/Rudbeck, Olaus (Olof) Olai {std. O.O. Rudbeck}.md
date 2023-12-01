@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0998
 tl2_volume: vol4
 tl2_page_printed: 969
 tl2_surname: Rudbeck
-tl2_forenames: Olaus [Olof] Olai
+tl2_forenames: Olaus (Olof) Olai
 tl2_name_abbrev: O.O. Rudbeck
 tl2_dates: 1660-1740
-tl2_page_id: 33190440
+tl2_bhl_page_id: 33190440
 author_lsid: 8704-1
 wikidata_id: Q740096
 ipni_surname: Rudbeck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33190440) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8704-1), [Wikidata](https://www.wikidata.org/wiki/Q740096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8704-1) LSID 8704-1, [Wikidata](https://www.wikidata.org/wiki/Q740096) QID Q740096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

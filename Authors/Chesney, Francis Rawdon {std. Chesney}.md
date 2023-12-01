@@ -6,7 +6,7 @@ tl2_surname: Chesney
 tl2_forenames: Francis Rawdon
 tl2_name_abbrev: Chesney
 tl2_dates: 1789-1872
-tl2_page_id: 33120623
+tl2_bhl_page_id: 33120623
 author_lsid: 34742-1
 wikidata_id: Q708134
 ipni_surname: Chesney
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/34742-1), [Wikidata](https://www.wikidata.org/wiki/Q708134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34742-1) LSID 34742-1, [Wikidata](https://www.wikidata.org/wiki/Q708134) QID Q708134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

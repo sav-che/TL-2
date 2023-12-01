@@ -6,7 +6,7 @@ tl2_surname: Eidam
 tl2_forenames: Michael Emil Eduard
 tl2_name_abbrev: Eidam
 tl2_dates: 1845-1901
-tl2_page_id: 33260272
+tl2_bhl_page_id: 33260272
 author_lsid: 18409-1
 wikidata_id: Q21338738
 ipni_surname: Eidam
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18409-1), [Wikidata](https://www.wikidata.org/wiki/Q21338738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18409-1) LSID 18409-1, [Wikidata](https://www.wikidata.org/wiki/Q21338738) QID Q21338738
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

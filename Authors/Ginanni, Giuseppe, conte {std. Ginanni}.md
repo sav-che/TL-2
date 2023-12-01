@@ -6,7 +6,7 @@ tl2_surname: Ginanni
 tl2_forenames: Giuseppe, conte
 tl2_name_abbrev: Ginanni
 tl2_dates: 1692-1753
-tl2_page_id: 33121078
+tl2_bhl_page_id: 33121078
 author_lsid: 3167-1
 wikidata_id: Q3108176
 ipni_surname: Ginanni
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/page/33121078) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3167-1), [Wikidata](https://www.wikidata.org/wiki/Q3108176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3167-1) LSID 3167-1, [Wikidata](https://www.wikidata.org/wiki/Q3108176) QID Q3108176
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

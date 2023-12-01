@@ -6,7 +6,7 @@ tl2_surname: Zimmeter
 tl2_forenames: Albert
 tl2_name_abbrev: Zimm.
 tl2_dates: 1848-1897
-tl2_page_id: 33066883
+tl2_bhl_page_id: 33066883
 author_lsid: 12041-1
 wikidata_id: Q86493
 ipni_surname: Zimmeter
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33066883) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12041-1), [Wikidata](https://www.wikidata.org/wiki/Q86493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12041-1) LSID 12041-1, [Wikidata](https://www.wikidata.org/wiki/Q86493) QID Q86493
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

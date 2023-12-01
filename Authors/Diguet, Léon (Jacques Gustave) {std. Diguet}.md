@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0337
 tl2_volume: suppl5
 tl2_page_printed: 338
 tl2_surname: Diguet
-tl2_forenames: Léon [Jacques Gustave]
+tl2_forenames: Léon (Jacques Gustave)
 tl2_name_abbrev: Diguet
 tl2_dates: 1859-1926
-tl2_page_id: 33259384
+tl2_bhl_page_id: 33259384
 author_lsid: 12131-1
 wikidata_id: Q3270911
 ipni_surname: Diguet
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259384) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/12131-1), [Wikidata](https://www.wikidata.org/wiki/Q3270911). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12131-1) LSID 12131-1, [Wikidata](https://www.wikidata.org/wiki/Q3270911) QID Q3270911
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

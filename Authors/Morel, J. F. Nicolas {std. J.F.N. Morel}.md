@@ -6,7 +6,7 @@ tl2_surname: Morel
 tl2_forenames: J. F. Nicolas
 tl2_name_abbrev: J.F.N. Morel
 tl2_dates: fl. 1805
-tl2_page_id: 33355664
+tl2_bhl_page_id: 33355664
 author_lsid: 6642-1
 wikidata_id: Q36595481
 ipni_surname: Morel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6642-1), [Wikidata](https://www.wikidata.org/wiki/Q36595481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6642-1) LSID 6642-1, [Wikidata](https://www.wikidata.org/wiki/Q36595481) QID Q36595481
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

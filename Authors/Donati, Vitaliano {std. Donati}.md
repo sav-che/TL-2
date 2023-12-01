@@ -6,7 +6,7 @@ tl2_surname: Donati
 tl2_forenames: Vitaliano
 tl2_name_abbrev: Donati
 tl2_dates: 1713-1762
-tl2_page_id: 33120801
+tl2_bhl_page_id: 33120801
 author_lsid: 2272-1
 wikidata_id: Q2265720
 ipni_surname: Donati
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33120801) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2272-1), [Wikidata](https://www.wikidata.org/wiki/Q2265720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2272-1) LSID 2272-1, [Wikidata](https://www.wikidata.org/wiki/Q2265720) QID Q2265720
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

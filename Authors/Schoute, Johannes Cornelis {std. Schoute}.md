@@ -6,7 +6,7 @@ tl2_surname: Schoute
 tl2_forenames: Johannes Cornelis
 tl2_name_abbrev: Schoute
 tl2_dates: 1877-1942
-tl2_page_id: 33333449
+tl2_bhl_page_id: 33333449
 author_lsid: 9244-1
 wikidata_id: Q19214249
 ipni_surname: Schoute
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33333449) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9244-1), [Wikidata](https://www.wikidata.org/wiki/Q19214249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9244-1) LSID 9244-1, [Wikidata](https://www.wikidata.org/wiki/Q19214249) QID Q19214249
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

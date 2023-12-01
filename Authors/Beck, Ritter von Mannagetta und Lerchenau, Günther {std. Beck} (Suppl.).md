@@ -6,7 +6,7 @@ tl2_surname: Beck
 tl2_forenames: Ritter von Mannagetta und Lerchenau, Günther
 tl2_name_abbrev: Beck
 tl2_dates: 1856-1931
-tl2_page_id: 33265216
+tl2_bhl_page_id: 33265216
 author_lsid: 12341-1
 wikidata_id: Q78986
 ipni_surname: Beck von Mannagetta und Lerchenau
@@ -28,7 +28,8 @@ ipni_record_modified: 2010-09-27 11:29:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265216) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/12341-1), [Wikidata](https://www.wikidata.org/wiki/Q78986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12341-1) LSID 12341-1, [Wikidata](https://www.wikidata.org/wiki/Q78986) QID Q78986
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beck, Ritter von Mannagetta und Lerchenau, Günther {std. Beck}|first entry]] for this author
 

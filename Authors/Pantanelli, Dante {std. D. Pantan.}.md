@@ -6,7 +6,7 @@ tl2_surname: Pantanelli
 tl2_forenames: Dante
 tl2_name_abbrev: D. Pantan.
 tl2_dates: 1844-1913
-tl2_page_id: 33189478
+tl2_bhl_page_id: 33189478
 author_lsid: 7311-1
 wikidata_id: Q3702382
 ipni_surname: Pantanelli
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7311-1), [Wikidata](https://www.wikidata.org/wiki/Q3702382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7311-1) LSID 7311-1, [Wikidata](https://www.wikidata.org/wiki/Q3702382) QID Q3702382
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

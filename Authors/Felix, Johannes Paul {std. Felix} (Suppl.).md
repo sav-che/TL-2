@@ -6,7 +6,7 @@ tl2_surname: Felix
 tl2_forenames: Johannes Paul
 tl2_name_abbrev: Felix
 tl2_dates: 1859-1941
-tl2_page_id: 33259627
+tl2_bhl_page_id: 33259627
 author_lsid: 2673-1
 wikidata_id: Q1616906
 ipni_surname: Felix
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259627) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2673-1), [Wikidata](https://www.wikidata.org/wiki/Q1616906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2673-1) LSID 2673-1, [Wikidata](https://www.wikidata.org/wiki/Q1616906) QID Q1616906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Felix, Johannes Paul {std. Felix}|first entry]] for this author
 

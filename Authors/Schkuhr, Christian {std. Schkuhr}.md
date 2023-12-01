@@ -6,7 +6,7 @@ tl2_surname: Schkuhr
 tl2_forenames: Christian
 tl2_name_abbrev: Schkuhr
 tl2_dates: 1741-1811
-tl2_page_id: 33333323
+tl2_bhl_page_id: 33333323
 author_lsid: 9106-1
 wikidata_id: Q2612777
 ipni_surname: Schkuhr
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33333323) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9106-1), [Wikidata](https://www.wikidata.org/wiki/Q2612777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9106-1) LSID 9106-1, [Wikidata](https://www.wikidata.org/wiki/Q2612777) QID Q2612777
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

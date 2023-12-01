@@ -6,7 +6,7 @@ tl2_surname: Abrams
 tl2_forenames: LeRoy
 tl2_name_abbrev: Abrams
 tl2_dates: 1874-1956
-tl2_page_id: 33120095
+tl2_bhl_page_id: 33120095
 author_lsid: 46-1
 wikidata_id: Q2698829
 ipni_surname: Abrams
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33120095) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/46-1), [Wikidata](https://www.wikidata.org/wiki/Q2698829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/46-1) LSID 46-1, [Wikidata](https://www.wikidata.org/wiki/Q2698829) QID Q2698829
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Abrams, LeRoy {std. Abrams} (Suppl.)|second entry]] for this author
 

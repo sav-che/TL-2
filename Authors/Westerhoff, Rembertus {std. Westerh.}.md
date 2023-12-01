@@ -6,7 +6,7 @@ tl2_surname: Westerhoff
 tl2_forenames: Rembertus
 tl2_name_abbrev: Westerh.
 tl2_dates: 1801-1874
-tl2_page_id: 33066551
+tl2_bhl_page_id: 33066551
 author_lsid: 11586-1
 wikidata_id: Q2158278
 ipni_surname: Westerhoff
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33066551) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11586-1), [Wikidata](https://www.wikidata.org/wiki/Q2158278). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11586-1) LSID 11586-1, [Wikidata](https://www.wikidata.org/wiki/Q2158278) QID Q2158278
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

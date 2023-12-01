@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0188
 tl2_volume: suppl2
 tl2_page_printed: 160
 tl2_surname: Biers
-tl2_forenames: [Denis] Paul [M.]
+tl2_forenames: (Denis) Paul (M.)
 tl2_name_abbrev: Biers
 tl2_dates: 1867-1929
-tl2_page_id: 33265357
+tl2_bhl_page_id: 33265357
 author_lsid: 16121-1
 wikidata_id: Q36648797
 ipni_surname: Biers
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33265357) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16121-1), [Wikidata](https://www.wikidata.org/wiki/Q36648797). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16121-1) LSID 16121-1, [Wikidata](https://www.wikidata.org/wiki/Q36648797) QID Q36648797
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

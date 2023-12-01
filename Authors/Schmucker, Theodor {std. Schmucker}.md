@@ -6,7 +6,7 @@ tl2_surname: Schmucker
 tl2_forenames: Theodor
 tl2_name_abbrev: Schmucker
 tl2_dates: 1895-1970
-tl2_page_id: 33333404
+tl2_bhl_page_id: 33333404
 author_lsid: 9179-1
 wikidata_id: Q2418253
 ipni_surname: Schmucker
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9179-1), [Wikidata](https://www.wikidata.org/wiki/Q2418253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9179-1) LSID 9179-1, [Wikidata](https://www.wikidata.org/wiki/Q2418253) QID Q2418253
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Jung
 tl2_forenames: W.
 tl2_name_abbrev: W. Jung
 tl2_dates: fl. 1832
-tl2_page_id: 33068711
+tl2_bhl_page_id: 33068711
 author_lsid: 4580-1
 wikidata_id: Q47119803
 ipni_surname: Jung
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4580-1), [Wikidata](https://www.wikidata.org/wiki/Q47119803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4580-1) LSID 4580-1, [Wikidata](https://www.wikidata.org/wiki/Q47119803) QID Q47119803
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Watt
 tl2_forenames: David Allan Poe
 tl2_name_abbrev: D. Watt
 tl2_dates: 1830-1917
-tl2_page_id: 33066447
+tl2_bhl_page_id: 33066447
 author_lsid: 11441-1
 wikidata_id: Q5799789
 ipni_surname: Watt
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33066447) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11441-1), [Wikidata](https://www.wikidata.org/wiki/Q5799789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11441-1) LSID 11441-1, [Wikidata](https://www.wikidata.org/wiki/Q5799789) QID Q5799789
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

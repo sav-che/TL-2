@@ -6,7 +6,7 @@ tl2_surname: Buffham
 tl2_forenames: Thomas Hughes
 tl2_name_abbrev: Buffham
 tl2_dates: 1840-1896
-tl2_page_id: 33266518
+tl2_bhl_page_id: 33266518
 author_lsid: 32583-1
 wikidata_id: Q21506622
 ipni_surname: Buffham
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33266518) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/32583-1), [Wikidata](https://www.wikidata.org/wiki/Q21506622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32583-1) LSID 32583-1, [Wikidata](https://www.wikidata.org/wiki/Q21506622) QID Q21506622
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

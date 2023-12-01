@@ -6,7 +6,7 @@ tl2_surname: Moloney
 tl2_forenames: Sir Cornelius Alfred
 tl2_name_abbrev: Moloney
 tl2_dates: 1848-1913
-tl2_page_id: 33355641
+tl2_bhl_page_id: 33355641
 author_lsid: 12688-1
 wikidata_id: Q1133716
 ipni_surname: Moloney
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12688-1), [Wikidata](https://www.wikidata.org/wiki/Q1133716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12688-1) LSID 12688-1, [Wikidata](https://www.wikidata.org/wiki/Q1133716) QID Q1133716
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

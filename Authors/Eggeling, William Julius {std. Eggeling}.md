@@ -6,7 +6,7 @@ tl2_surname: Eggeling
 tl2_forenames: William Julius
 tl2_name_abbrev: Eggeling
 tl2_dates: 1909-x
-tl2_page_id: 33260253
+tl2_bhl_page_id: 33260253
 author_lsid: 20012934-2
 wikidata_id: Q15994422
 ipni_surname: Eggeling
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33260253) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20012934-2), [Wikidata](https://www.wikidata.org/wiki/Q15994422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20012934-2) LSID 20012934-2, [Wikidata](https://www.wikidata.org/wiki/Q15994422) QID Q15994422
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

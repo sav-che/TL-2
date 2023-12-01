@@ -6,7 +6,7 @@ tl2_surname: Björklund
 tl2_forenames: Karin (Dorthe Johanna Katarina)
 tl2_name_abbrev: K. Björklund
 tl2_dates: 1908-x
-tl2_page_id: 33265381
+tl2_bhl_page_id: 33265381
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33265381) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

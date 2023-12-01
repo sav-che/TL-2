@@ -6,7 +6,7 @@ tl2_surname: Little
 tl2_forenames: Elbert Luther, Jr.
 tl2_name_abbrev: Little
 tl2_dates: 1907-x
-tl2_page_id: 33355208
+tl2_bhl_page_id: 33355208
 author_lsid: 22433-1
 wikidata_id: Q2917869
 ipni_surname: Little
@@ -25,7 +25,8 @@ ipni_record_modified: 2005-01-26 09:29:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22433-1), [Wikidata](https://www.wikidata.org/wiki/Q2917869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22433-1) LSID 22433-1, [Wikidata](https://www.wikidata.org/wiki/Q2917869) QID Q2917869
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

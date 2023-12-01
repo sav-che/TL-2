@@ -6,7 +6,7 @@ tl2_surname: Sporleder
 tl2_forenames: Friedrich Wilhelm
 tl2_name_abbrev: Sporleder
 tl2_dates: 1787-1875
-tl2_page_id: 33333935
+tl2_bhl_page_id: 33333935
 author_lsid: 9981-1
 wikidata_id: Q1462325
 ipni_surname: Sporleder
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33333935) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9981-1), [Wikidata](https://www.wikidata.org/wiki/Q1462325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9981-1) LSID 9981-1, [Wikidata](https://www.wikidata.org/wiki/Q1462325) QID Q1462325
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

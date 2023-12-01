@@ -6,7 +6,7 @@ tl2_surname: Coster
 tl2_forenames: David Jacob
 tl2_name_abbrev: D.J. Coster
 tl2_dates: 1828-1892
-tl2_page_id: 33266078
+tl2_bhl_page_id: 33266078
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266078) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

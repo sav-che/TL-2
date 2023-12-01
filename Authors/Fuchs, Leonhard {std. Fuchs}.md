@@ -6,7 +6,7 @@ tl2_surname: Fuchs
 tl2_forenames: Leonhard
 tl2_name_abbrev: Fuchs
 tl2_dates: 1501-1566
-tl2_page_id: 33121025
+tl2_bhl_page_id: 33121025
 author_lsid: 2949-1
 wikidata_id: Q60756
 ipni_surname: Fuchs
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2949-1), [Wikidata](https://www.wikidata.org/wiki/Q60756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2949-1) LSID 2949-1, [Wikidata](https://www.wikidata.org/wiki/Q60756) QID Q60756
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

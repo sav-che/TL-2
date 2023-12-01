@@ -6,7 +6,7 @@ tl2_surname: Cubières
 tl2_forenames: Simon Louis Pierre de (Marquis)
 tl2_name_abbrev: Cubières
 tl2_dates: 1747-1821
-tl2_page_id: 33266166
+tl2_bhl_page_id: 33266166
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33266166) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

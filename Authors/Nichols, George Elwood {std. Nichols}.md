@@ -6,7 +6,7 @@ tl2_surname: Nichols
 tl2_forenames: George Elwood
 tl2_name_abbrev: Nichols
 tl2_dates: 1882-1939
-tl2_page_id: 33355827
+tl2_bhl_page_id: 33355827
 author_lsid: 24051-1
 wikidata_id: Q3101551
 ipni_surname: Nichols
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33355827) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24051-1), [Wikidata](https://www.wikidata.org/wiki/Q3101551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24051-1) LSID 24051-1, [Wikidata](https://www.wikidata.org/wiki/Q3101551) QID Q3101551
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

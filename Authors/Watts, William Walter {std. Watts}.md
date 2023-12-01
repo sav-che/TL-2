@@ -6,7 +6,7 @@ tl2_surname: Watts
 tl2_forenames: William Walter
 tl2_name_abbrev: Watts
 tl2_dates: 1856-1920
-tl2_page_id: 33066449
+tl2_bhl_page_id: 33066449
 author_lsid: 11444-1
 wikidata_id: Q3569020
 ipni_surname: Watts
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33066449) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11444-1), [Wikidata](https://www.wikidata.org/wiki/Q3569020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11444-1) LSID 11444-1, [Wikidata](https://www.wikidata.org/wiki/Q3569020) QID Q3569020
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Martersteck
 tl2_forenames: Johann Clemens
 tl2_name_abbrev: Martersteck
 tl2_dates: fl. 1792
-tl2_page_id: 33355405
+tl2_bhl_page_id: 33355405
 author_lsid: 6151-1
 wikidata_id: Q36594606
 ipni_surname: Martersteck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33355405) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6151-1), [Wikidata](https://www.wikidata.org/wiki/Q36594606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6151-1) LSID 6151-1, [Wikidata](https://www.wikidata.org/wiki/Q36594606) QID Q36594606
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

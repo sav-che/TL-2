@@ -6,7 +6,7 @@ tl2_surname: Habirshaw
 tl2_forenames: Frederick
 tl2_name_abbrev: Habirshaw
 tl2_dates: fl. 1877
-tl2_page_id: 33068244
+tl2_bhl_page_id: 33068244
 author_lsid: 29418-1
 wikidata_id: Q36554454
 ipni_surname: Habirshaw
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33068244) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/29418-1), [Wikidata](https://www.wikidata.org/wiki/Q36554454). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29418-1) LSID 29418-1, [Wikidata](https://www.wikidata.org/wiki/Q36554454) QID Q36554454
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

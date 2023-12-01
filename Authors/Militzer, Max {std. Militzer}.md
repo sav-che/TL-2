@@ -6,7 +6,7 @@ tl2_surname: Militzer
 tl2_forenames: Max
 tl2_name_abbrev: Militzer
 tl2_dates: 1894-1971
-tl2_page_id: 33355575
+tl2_bhl_page_id: 33355575
 author_lsid: 35192-1
 wikidata_id: Q21521494
 ipni_surname: Militzer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35192-1), [Wikidata](https://www.wikidata.org/wiki/Q21521494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35192-1) LSID 35192-1, [Wikidata](https://www.wikidata.org/wiki/Q21521494) QID Q21521494
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Curran
 tl2_forenames: Mary Katharine (née Layne)
 tl2_name_abbrev: Curran
 tl2_dates: 1844-1920
-tl2_page_id: 33266188
+tl2_bhl_page_id: 33266188
 author_lsid: 12389-1
 wikidata_id: Q451753
 ipni_surname: Curran
@@ -24,7 +24,8 @@ ipni_record_modified: 2017-09-28 13:32:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/12389-1), [Wikidata](https://www.wikidata.org/wiki/Q451753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12389-1) LSID 12389-1, [Wikidata](https://www.wikidata.org/wiki/Q451753) QID Q451753
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Strutt
 tl2_forenames: Jacob George
 tl2_name_abbrev: Strutt
 tl2_dates: fl. 1820-1850
-tl2_page_id: 33212058
+tl2_bhl_page_id: 33212058
 author_lsid: 10236-1
 wikidata_id: Q6118669
 ipni_surname: Strutt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10236-1), [Wikidata](https://www.wikidata.org/wiki/Q6118669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10236-1) LSID 10236-1, [Wikidata](https://www.wikidata.org/wiki/Q6118669) QID Q6118669
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

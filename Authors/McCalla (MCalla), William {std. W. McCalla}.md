@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0211
 tl2_volume: vol3
 tl2_page_printed: 212
-tl2_surname: McCalla [M'Calla]
+tl2_surname: McCalla (M'Calla)
 tl2_forenames: William
 tl2_name_abbrev: W. McCalla
 tl2_dates: 1814-1849
-tl2_page_id: 33355299
+tl2_bhl_page_id: 33355299
 author_lsid: 5892-1
 wikidata_id: Q8015318
 ipni_surname: McCalla
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5892-1), [Wikidata](https://www.wikidata.org/wiki/Q8015318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5892-1) LSID 5892-1, [Wikidata](https://www.wikidata.org/wiki/Q8015318) QID Q8015318
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

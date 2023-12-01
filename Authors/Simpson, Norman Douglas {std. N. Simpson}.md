@@ -6,7 +6,7 @@ tl2_surname: Simpson
 tl2_forenames: Norman Douglas
 tl2_name_abbrev: N. Simpson
 tl2_dates: 1890-1974
-tl2_page_id: 33333750
+tl2_bhl_page_id: 33333750
 author_lsid: 9685-1
 wikidata_id: Q19002158
 ipni_surname: Simpson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9685-1), [Wikidata](https://www.wikidata.org/wiki/Q19002158). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9685-1) LSID 9685-1, [Wikidata](https://www.wikidata.org/wiki/Q19002158) QID Q19002158
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

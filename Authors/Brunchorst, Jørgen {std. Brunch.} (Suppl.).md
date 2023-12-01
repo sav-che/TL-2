@@ -6,7 +6,7 @@ tl2_surname: Brunchorst
 tl2_forenames: Jørgen
 tl2_name_abbrev: Brunch.
 tl2_dates: 1862-1917
-tl2_page_id: 33266467
+tl2_bhl_page_id: 33266467
 author_lsid: 1224-1
 wikidata_id: Q3352322
 ipni_surname: Brunchorst
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33266467) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1224-1), [Wikidata](https://www.wikidata.org/wiki/Q3352322). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1224-1) LSID 1224-1, [Wikidata](https://www.wikidata.org/wiki/Q3352322) QID Q3352322
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brunchorst, Jörgen {std. Brunch.}|first entry]] for this author
 

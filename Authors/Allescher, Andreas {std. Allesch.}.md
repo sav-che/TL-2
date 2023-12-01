@@ -6,7 +6,7 @@ tl2_surname: Allescher
 tl2_forenames: Andreas
 tl2_name_abbrev: Allesch.
 tl2_dates: 1828-1903
-tl2_page_id: 33120164
+tl2_bhl_page_id: 33120164
 author_lsid: 30787-1
 wikidata_id: Q108017
 ipni_surname: Allescher
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33120164) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/30787-1), [Wikidata](https://www.wikidata.org/wiki/Q108017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30787-1) LSID 30787-1, [Wikidata](https://www.wikidata.org/wiki/Q108017) QID Q108017
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Allescher, Andreas {std. Allesch.} (Suppl.)|second entry]] for this author
 

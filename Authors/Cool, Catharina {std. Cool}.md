@@ -6,7 +6,7 @@ tl2_surname: Cool
 tl2_forenames: Catharina
 tl2_name_abbrev: Cool
 tl2_dates: 1874-1928
-tl2_page_id: 33266008
+tl2_bhl_page_id: 33266008
 author_lsid: 17408-1
 wikidata_id: Q36523564
 ipni_surname: Cool
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17408-1), [Wikidata](https://www.wikidata.org/wiki/Q36523564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17408-1) LSID 17408-1, [Wikidata](https://www.wikidata.org/wiki/Q36523564) QID Q36523564
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

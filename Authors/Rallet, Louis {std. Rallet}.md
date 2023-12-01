@@ -6,7 +6,7 @@ tl2_surname: Rallet
 tl2_forenames: Louis
 tl2_name_abbrev: Rallet
 tl2_dates: 1897-1969
-tl2_page_id: 33190038
+tl2_bhl_page_id: 33190038
 author_lsid: 8111-1
 wikidata_id: Q21606907
 ipni_surname: Rallet
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33190038) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8111-1), [Wikidata](https://www.wikidata.org/wiki/Q21606907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8111-1) LSID 8111-1, [Wikidata](https://www.wikidata.org/wiki/Q21606907) QID Q21606907
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

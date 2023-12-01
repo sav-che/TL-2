@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0711
 tl2_volume: vol6
 tl2_page_printed: 728
 tl2_surname: Vieillard
-tl2_forenames: Eugène [Deplanche Émile]
+tl2_forenames: Eugène (Deplanche Émile)
 tl2_name_abbrev: Vieill.
 tl2_dates: 1819-1896
-tl2_page_id: 33212770
+tl2_bhl_page_id: 33212770
 author_lsid: 11176-1
 wikidata_id: Q612225
 ipni_surname: Vieillard
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33212770) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11176-1), [Wikidata](https://www.wikidata.org/wiki/Q612225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11176-1) LSID 11176-1, [Wikidata](https://www.wikidata.org/wiki/Q612225) QID Q612225
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

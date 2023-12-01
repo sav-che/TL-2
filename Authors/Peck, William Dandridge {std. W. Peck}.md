@@ -6,7 +6,7 @@ tl2_surname: Peck
 tl2_forenames: William Dandridge
 tl2_name_abbrev: W. Peck
 tl2_dates: 1763-1822
-tl2_page_id: 33189613
+tl2_bhl_page_id: 33189613
 author_lsid: 7452-1
 wikidata_id: Q3568538
 ipni_surname: Peck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33189613) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7452-1), [Wikidata](https://www.wikidata.org/wiki/Q3568538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7452-1) LSID 7452-1, [Wikidata](https://www.wikidata.org/wiki/Q3568538) QID Q3568538
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

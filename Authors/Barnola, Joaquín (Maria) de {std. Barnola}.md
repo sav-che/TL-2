@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0382
 tl2_volume: suppl1
 tl2_page_printed: 336
 tl2_surname: Barnola
-tl2_forenames: Joaquín [Maria] de
+tl2_forenames: Joaquín (Maria) de
 tl2_name_abbrev: Barnola
 tl2_dates: fl. 1903-1923
-tl2_page_id: 33265063
+tl2_bhl_page_id: 33265063
 author_lsid: 493-1
 wikidata_id: Q16175075
 ipni_surname: Barnola
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265063) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/493-1), [Wikidata](https://www.wikidata.org/wiki/Q16175075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/493-1) LSID 493-1, [Wikidata](https://www.wikidata.org/wiki/Q16175075) QID Q16175075
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

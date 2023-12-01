@@ -6,7 +6,7 @@ tl2_surname: Delponte
 tl2_forenames: Giovanni Battista
 tl2_name_abbrev: Delponte
 tl2_dates: 1812-1884
-tl2_page_id: 33120751
+tl2_bhl_page_id: 33120751
 author_lsid: 2110-1
 wikidata_id: Q5880109
 ipni_surname: Delponte
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33120751) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2110-1), [Wikidata](https://www.wikidata.org/wiki/Q5880109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2110-1) LSID 2110-1, [Wikidata](https://www.wikidata.org/wiki/Q5880109) QID Q5880109
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Delponte, Giovanni Battista {std. Delponte} (Suppl.)|second entry]] for this author
 

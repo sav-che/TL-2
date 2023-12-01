@@ -6,7 +6,7 @@ tl2_surname: Prahn
 tl2_forenames: Hermann
 tl2_name_abbrev: Prahn
 tl2_dates: fl. 1887
-tl2_page_id: 33189847
+tl2_bhl_page_id: 33189847
 author_lsid: 7924-1
 wikidata_id: Q36577510
 ipni_surname: Prahn
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7924-1), [Wikidata](https://www.wikidata.org/wiki/Q36577510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7924-1) LSID 7924-1, [Wikidata](https://www.wikidata.org/wiki/Q36577510) QID Q36577510
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

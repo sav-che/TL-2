@@ -6,7 +6,7 @@ tl2_surname: Cavers
 tl2_forenames: Francis
 tl2_name_abbrev: Cavers
 tl2_dates: 1876-1936
-tl2_page_id: 33266781
+tl2_bhl_page_id: 33266781
 author_lsid: 17008-1
 wikidata_id: Q21340574
 ipni_surname: Cavers
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33266781) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/17008-1), [Wikidata](https://www.wikidata.org/wiki/Q21340574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17008-1) LSID 17008-1, [Wikidata](https://www.wikidata.org/wiki/Q21340574) QID Q21340574
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

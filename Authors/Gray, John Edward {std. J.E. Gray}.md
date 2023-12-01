@@ -6,7 +6,7 @@ tl2_surname: Gray
 tl2_forenames: John Edward
 tl2_name_abbrev: J.E. Gray
 tl2_dates: 1800-1875
-tl2_page_id: 33121124
+tl2_bhl_page_id: 33121124
 author_lsid: 3355-1
 wikidata_id: Q191963
 ipni_surname: Gray
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33121124) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3355-1), [Wikidata](https://www.wikidata.org/wiki/Q191963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3355-1) LSID 3355-1, [Wikidata](https://www.wikidata.org/wiki/Q191963) QID Q191963
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gray, John Edward {std. J.E. Gray} (Suppl.)|second entry]] for this author
 

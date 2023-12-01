@@ -6,7 +6,7 @@ tl2_surname: Lorente y Asensi
 tl2_forenames: Vicente Alfonso
 tl2_name_abbrev: Lorente
 tl2_dates: 1758-1813
-tl2_page_id: 33355244
+tl2_bhl_page_id: 33355244
 author_lsid: 5748-1
 wikidata_id: Q21519499
 ipni_surname: Lorente y Asensi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33355244) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5748-1), [Wikidata](https://www.wikidata.org/wiki/Q21519499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5748-1) LSID 5748-1, [Wikidata](https://www.wikidata.org/wiki/Q21519499) QID Q21519499
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

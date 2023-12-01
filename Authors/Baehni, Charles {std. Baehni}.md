@@ -6,7 +6,7 @@ tl2_surname: Baehni
 tl2_forenames: Charles
 tl2_name_abbrev: Baehni
 tl2_dates: 1906-1964
-tl2_page_id: 33120221
+tl2_bhl_page_id: 33120221
 author_lsid: 31171-1
 wikidata_id: Q4083799
 ipni_surname: Baehni
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/31171-1), [Wikidata](https://www.wikidata.org/wiki/Q4083799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31171-1) LSID 31171-1, [Wikidata](https://www.wikidata.org/wiki/Q4083799) QID Q4083799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baehni, Charles {std. Baehni} (Suppl.)|second entry]] for this author
 

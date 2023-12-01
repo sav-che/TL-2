@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0299
 tl2_volume: vol6
 tl2_page_printed: 259
 tl2_surname: Thiel
-tl2_forenames: [C.E.] Hugo
+tl2_forenames: (C.E.) Hugo
 tl2_name_abbrev: Thiel
 tl2_dates: 1839-1918
-tl2_page_id: 33212301
+tl2_bhl_page_id: 33212301
 author_lsid: 12929-1
 wikidata_id: Q1635774
 ipni_surname: Thiel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33212301) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12929-1), [Wikidata](https://www.wikidata.org/wiki/Q1635774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12929-1) LSID 12929-1, [Wikidata](https://www.wikidata.org/wiki/Q1635774) QID Q1635774
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

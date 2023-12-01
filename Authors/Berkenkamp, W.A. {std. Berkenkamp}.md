@@ -6,7 +6,7 @@ tl2_surname: Berkenkamp
 tl2_forenames: W.A.
 tl2_name_abbrev: Berkenkamp
 tl2_dates: fl. 1816
-tl2_page_id: 33265297
+tl2_bhl_page_id: 33265297
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33265297) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

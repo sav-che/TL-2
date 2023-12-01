@@ -6,7 +6,7 @@ tl2_surname: Engelhardt
 tl2_forenames: Hermann
 tl2_name_abbrev: Engelhardt
 tl2_dates: 1839-1918
-tl2_page_id: 33120884
+tl2_bhl_page_id: 33120884
 author_lsid: 2538-1
 wikidata_id: Q21512171
 ipni_surname: Engelhardt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2538-1), [Wikidata](https://www.wikidata.org/wiki/Q21512171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2538-1) LSID 2538-1, [Wikidata](https://www.wikidata.org/wiki/Q21512171) QID Q21512171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Engelhardt, Hermann {std. Engelh.} (Suppl.)|second entry]] for this author
 

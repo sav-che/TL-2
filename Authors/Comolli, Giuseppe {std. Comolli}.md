@@ -6,7 +6,7 @@ tl2_surname: Comolli
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Comolli
 tl2_dates: 1780-1849
-tl2_page_id: 33120664
+tl2_bhl_page_id: 33120664
 author_lsid: 1754-1
 wikidata_id: Q21508917
 ipni_surname: Comolli
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33120664) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1754-1), [Wikidata](https://www.wikidata.org/wiki/Q21508917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1754-1) LSID 1754-1, [Wikidata](https://www.wikidata.org/wiki/Q21508917) QID Q21508917
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Comolli, Giuseppe {std. Comolli} (Suppl.)|second entry]] for this author
 

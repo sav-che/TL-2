@@ -6,7 +6,7 @@ tl2_surname: Corner
 tl2_forenames: Edred John Henry
 tl2_name_abbrev: Corner
 tl2_dates: 1906-x
-tl2_page_id: 33266039
+tl2_bhl_page_id: 33266039
 author_lsid: 17439-1
 wikidata_id: Q4233315
 ipni_surname: Corner
@@ -26,7 +26,8 @@ ipni_record_modified: 2014-01-06 15:53:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33266039) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17439-1), [Wikidata](https://www.wikidata.org/wiki/Q4233315). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17439-1) LSID 17439-1, [Wikidata](https://www.wikidata.org/wiki/Q4233315) QID Q4233315
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

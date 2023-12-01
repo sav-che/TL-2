@@ -6,7 +6,7 @@ tl2_surname: Scholz
 tl2_forenames: Eduard
 tl2_name_abbrev: E. Scholz
 tl2_dates: 1860-?
-tl2_page_id: 33333434
+tl2_bhl_page_id: 33333434
 author_lsid: 9228-1
 wikidata_id: Q21608276
 ipni_surname: Scholz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9228-1), [Wikidata](https://www.wikidata.org/wiki/Q21608276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9228-1) LSID 9228-1, [Wikidata](https://www.wikidata.org/wiki/Q21608276) QID Q21608276
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

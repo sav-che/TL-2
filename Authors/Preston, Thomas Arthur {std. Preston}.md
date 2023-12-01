@@ -6,7 +6,7 @@ tl2_surname: Preston
 tl2_forenames: Thomas Arthur
 tl2_name_abbrev: Preston
 tl2_dates: 1838-1905
-tl2_page_id: 33189866
+tl2_bhl_page_id: 33189866
 author_lsid: 7949-1
 wikidata_id: Q21523232
 ipni_surname: Preston
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33189866) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7949-1), [Wikidata](https://www.wikidata.org/wiki/Q21523232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7949-1) LSID 7949-1, [Wikidata](https://www.wikidata.org/wiki/Q21523232) QID Q21523232
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

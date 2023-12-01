@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0738
 tl2_volume: vol3
 tl2_page_printed: 626
 tl2_surname: Müller
-tl2_forenames: Fritz [Johann Friedrich Theodor]
+tl2_forenames: Fritz (Johann Friedrich Theodor)
 tl2_name_abbrev: Fritz Müll.
 tl2_dates: 1822-1897
-tl2_page_id: 33355713
+tl2_bhl_page_id: 33355713
 author_lsid: 6734-1
 wikidata_id: Q62086
 ipni_surname: Müller
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6734-1), [Wikidata](https://www.wikidata.org/wiki/Q62086). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6734-1) LSID 6734-1, [Wikidata](https://www.wikidata.org/wiki/Q62086) QID Q62086
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

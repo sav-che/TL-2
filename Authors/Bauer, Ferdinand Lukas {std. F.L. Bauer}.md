@@ -6,7 +6,7 @@ tl2_surname: Bauer
 tl2_forenames: Ferdinand Lukas
 tl2_name_abbrev: F.L. Bauer
 tl2_dates: 1760-1826
-tl2_page_id: 33120276
+tl2_bhl_page_id: 33120276
 author_lsid: 551-1
 wikidata_id: Q79012
 ipni_surname: Bauer
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33120276) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/551-1), [Wikidata](https://www.wikidata.org/wiki/Q79012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/551-1) LSID 551-1, [Wikidata](https://www.wikidata.org/wiki/Q79012) QID Q79012
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bauer, Ferdinand Lucas {std. F.L. Bauer} (Suppl.)|second entry]] for this author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0589
 tl2_volume: vol6
 tl2_page_printed: 584
 tl2_surname: Uloth
-tl2_forenames: Wilhelm [Ludwig Heinrich]
+tl2_forenames: Wilhelm (Ludwig Heinrich)
 tl2_name_abbrev: Uloth
 tl2_dates: 1833-1895
-tl2_page_id: 33212626
+tl2_bhl_page_id: 33212626
 author_lsid: 12954-1
 wikidata_id: Q21377702
 ipni_surname: Uloth
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12954-1), [Wikidata](https://www.wikidata.org/wiki/Q21377702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12954-1) LSID 12954-1, [Wikidata](https://www.wikidata.org/wiki/Q21377702) QID Q21377702
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

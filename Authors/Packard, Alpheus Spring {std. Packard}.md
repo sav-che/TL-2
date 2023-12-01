@@ -6,7 +6,7 @@ tl2_surname: Packard
 tl2_forenames: Alpheus Spring
 tl2_name_abbrev: Packard
 tl2_dates: 1839-1905
-tl2_page_id: 33189512
+tl2_bhl_page_id: 33189512
 author_lsid: 7234-1
 wikidata_id: Q2839658
 ipni_surname: Packard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33189512) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7234-1), [Wikidata](https://www.wikidata.org/wiki/Q2839658). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7234-1) LSID 7234-1, [Wikidata](https://www.wikidata.org/wiki/Q2839658) QID Q2839658
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Olivier
 tl2_forenames: Henri Jacques François
 tl2_name_abbrev: H. Olivier
 tl2_dates: 1849-1923
-tl2_page_id: 33355918
+tl2_bhl_page_id: 33355918
 author_lsid: 7135-1
 wikidata_id: Q21387851
 ipni_surname: Olivier
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33355918) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7135-1), [Wikidata](https://www.wikidata.org/wiki/Q21387851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7135-1) LSID 7135-1, [Wikidata](https://www.wikidata.org/wiki/Q21387851) QID Q21387851
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schoch
 tl2_forenames: Emil
 tl2_name_abbrev: E. Schoch
 tl2_dates: fl. 1903
-tl2_page_id: 33333424
+tl2_bhl_page_id: 33333424
 author_lsid: 9209-1
 wikidata_id: Q47125823
 ipni_surname: Schoch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9209-1), [Wikidata](https://www.wikidata.org/wiki/Q47125823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9209-1) LSID 9209-1, [Wikidata](https://www.wikidata.org/wiki/Q47125823) QID Q47125823
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

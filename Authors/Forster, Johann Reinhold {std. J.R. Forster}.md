@@ -6,7 +6,7 @@ tl2_surname: Forster
 tl2_forenames: Johann Reinhold
 tl2_name_abbrev: J.R. Forster
 tl2_dates: 1729-1798
-tl2_page_id: 33120990
+tl2_bhl_page_id: 33120990
 author_lsid: 2836-1
 wikidata_id: Q213570
 ipni_surname: Forster
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33120990) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2836-1), [Wikidata](https://www.wikidata.org/wiki/Q213570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2836-1) LSID 2836-1, [Wikidata](https://www.wikidata.org/wiki/Q213570) QID Q213570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Forster, Johann Georg (b. George) Adam {std. G. Forster} (Suppl.)|second entry]] for Forsters
 ### Author

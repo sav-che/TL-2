@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0805
 tl2_volume: vol3
 tl2_page_printed: 689
 tl2_surname: Nannfeldt
-tl2_forenames: John [earlier Johan] Axel [Frithiof]
+tl2_forenames: John (earlier Johan) Axel (Frithiof)
 tl2_name_abbrev: Nannf.
 tl2_dates: 1904-x
-tl2_page_id: 33355776
+tl2_bhl_page_id: 33355776
 author_lsid: 6853-1
 wikidata_id: Q2330447
 ipni_surname: Nannfeldt
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:36:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33355776) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6853-1), [Wikidata](https://www.wikidata.org/wiki/Q2330447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6853-1) LSID 6853-1, [Wikidata](https://www.wikidata.org/wiki/Q2330447) QID Q2330447
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

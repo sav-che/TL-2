@@ -6,7 +6,7 @@ tl2_surname: Bruce
 tl2_forenames: James
 tl2_name_abbrev: Bruce
 tl2_dates: 1730-1794
-tl2_page_id: 33120503
+tl2_bhl_page_id: 33120503
 author_lsid: 1204-1
 wikidata_id: Q348489
 ipni_surname: Bruce
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33120503) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1204-1), [Wikidata](https://www.wikidata.org/wiki/Q348489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1204-1) LSID 1204-1, [Wikidata](https://www.wikidata.org/wiki/Q348489) QID Q348489
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bruce, James {std. Bruce} (Suppl.)|second entry]] for this author
 

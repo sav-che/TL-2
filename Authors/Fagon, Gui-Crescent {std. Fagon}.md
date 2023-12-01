@@ -6,7 +6,7 @@ tl2_surname: Fagon
 tl2_forenames: Gui-Crescent
 tl2_name_abbrev: Fagon
 tl2_dates: 1638-1718
-tl2_page_id: 33120942
+tl2_bhl_page_id: 33120942
 author_lsid: 2620-1
 wikidata_id: Q1333551
 ipni_surname: Fagon
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2620-1), [Wikidata](https://www.wikidata.org/wiki/Q1333551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2620-1) LSID 2620-1, [Wikidata](https://www.wikidata.org/wiki/Q1333551) QID Q1333551
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Gilg
 tl2_forenames: Ernst Friedrich
 tl2_name_abbrev: Gilg
 tl2_dates: 1867-1933
-tl2_page_id: 33121072
+tl2_bhl_page_id: 33121072
 author_lsid: 3144-1
 wikidata_id: Q77655
 ipni_surname: Gilg
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33121072) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3144-1), [Wikidata](https://www.wikidata.org/wiki/Q77655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3144-1) LSID 3144-1, [Wikidata](https://www.wikidata.org/wiki/Q77655) QID Q77655
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gilg, Ernst (Friedrich) {std. Gilg} (Suppl.)|second entry]] for this author
 

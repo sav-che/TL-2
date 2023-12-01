@@ -6,7 +6,7 @@ tl2_surname: Norman
 tl2_forenames: Johannes Musaeus
 tl2_name_abbrev: Norm.
 tl2_dates: 1823-1903
-tl2_page_id: 33355858
+tl2_bhl_page_id: 33355858
 author_lsid: 24155-1
 wikidata_id: Q1786150
 ipni_surname: Norman
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33355858) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24155-1), [Wikidata](https://www.wikidata.org/wiki/Q1786150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24155-1) LSID 24155-1, [Wikidata](https://www.wikidata.org/wiki/Q1786150) QID Q1786150
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

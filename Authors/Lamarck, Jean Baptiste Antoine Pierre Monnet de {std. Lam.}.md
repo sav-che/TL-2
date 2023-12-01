@@ -6,7 +6,7 @@ tl2_surname: Lamarck
 tl2_forenames: Jean Baptiste Antoine Pierre Monnet de
 tl2_name_abbrev: Lam.
 tl2_dates: 1744-1829
-tl2_page_id: 33068972
+tl2_bhl_page_id: 33068972
 author_lsid: 5227-1
 wikidata_id: Q82122
 ipni_surname: Lamarck
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:35:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33068972) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5227-1), [Wikidata](https://www.wikidata.org/wiki/Q82122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5227-1) LSID 5227-1, [Wikidata](https://www.wikidata.org/wiki/Q82122) QID Q82122
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

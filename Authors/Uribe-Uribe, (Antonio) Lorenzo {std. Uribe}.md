@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0609
 tl2_volume: vol6
 tl2_page_printed: 619
 tl2_surname: Uribe-Uribe
-tl2_forenames: [Antonio] Lorenzo
+tl2_forenames: (Antonio) Lorenzo
 tl2_name_abbrev: Uribe
 tl2_dates: 1900-1980
-tl2_page_id: 33212661
+tl2_bhl_page_id: 33212661
 author_lsid: 10997-1
 wikidata_id: Q2837242
 ipni_surname: Uribe
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10997-1), [Wikidata](https://www.wikidata.org/wiki/Q2837242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10997-1) LSID 10997-1, [Wikidata](https://www.wikidata.org/wiki/Q2837242) QID Q2837242
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

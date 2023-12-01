@@ -6,7 +6,7 @@ tl2_surname: Dingler
 tl2_forenames: Hermann
 tl2_name_abbrev: Dingler
 tl2_dates: 1846-1935
-tl2_page_id: 33259388
+tl2_bhl_page_id: 33259388
 author_lsid: 2220-1
 wikidata_id: Q1563946
 ipni_surname: Dingler
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33259388) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2220-1), [Wikidata](https://www.wikidata.org/wiki/Q1563946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2220-1) LSID 2220-1, [Wikidata](https://www.wikidata.org/wiki/Q1563946) QID Q1563946
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

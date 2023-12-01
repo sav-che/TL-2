@@ -6,7 +6,7 @@ tl2_surname: Merklein
 tl2_forenames: Friedrich
 tl2_name_abbrev: Merklein
 tl2_dates: fl. 1861
-tl2_page_id: 33355511
+tl2_bhl_page_id: 33355511
 author_lsid: 6372-1
 wikidata_id: Q36555949
 ipni_surname: Merklein
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6372-1), [Wikidata](https://www.wikidata.org/wiki/Q36555949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6372-1) LSID 6372-1, [Wikidata](https://www.wikidata.org/wiki/Q36555949) QID Q36555949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

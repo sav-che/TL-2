@@ -6,7 +6,7 @@ tl2_surname: Broun
 tl2_forenames: Alfred Forbes
 tl2_name_abbrev: Broun
 tl2_dates: 1858-x
-tl2_page_id: 33120492
+tl2_bhl_page_id: 33120492
 author_lsid: 1183-1
 wikidata_id: Q21506534
 ipni_surname: Broun
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:37:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33120492) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1183-1), [Wikidata](https://www.wikidata.org/wiki/Q21506534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1183-1) LSID 1183-1, [Wikidata](https://www.wikidata.org/wiki/Q21506534) QID Q21506534
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

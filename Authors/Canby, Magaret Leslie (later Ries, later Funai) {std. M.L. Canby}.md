@@ -6,7 +6,7 @@ tl2_surname: Canby
 tl2_forenames: Magaret Leslie (later Ries, later Funai)
 tl2_name_abbrev: M.L. Canby
 tl2_dates: 1904-x
-tl2_page_id: 33266662
+tl2_bhl_page_id: 33266662
 author_lsid: 13563-1
 wikidata_id: Q20645555
 ipni_surname: Canby
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/13563-1), [Wikidata](https://www.wikidata.org/wiki/Q20645555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13563-1) LSID 13563-1, [Wikidata](https://www.wikidata.org/wiki/Q20645555) QID Q20645555
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

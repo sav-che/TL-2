@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol4_0707
 tl2_volume: vol4
 tl2_page_printed: 731
-tl2_surname: Reneaulme [Renealmus]
+tl2_surname: Reneaulme (Renealmus)
 tl2_forenames: Paul
 tl2_name_abbrev: Reneaulme
 tl2_dates: 1560-1624
-tl2_page_id: 33190202
+tl2_bhl_page_id: 33190202
 author_lsid: 8289-1
 wikidata_id: Q677718
 ipni_surname: Reneaulme
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33190202) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8289-1), [Wikidata](https://www.wikidata.org/wiki/Q677718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8289-1) LSID 8289-1, [Wikidata](https://www.wikidata.org/wiki/Q677718) QID Q677718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

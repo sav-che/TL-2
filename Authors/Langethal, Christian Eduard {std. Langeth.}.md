@@ -6,7 +6,7 @@ tl2_surname: Langethal
 tl2_forenames: Christian Eduard
 tl2_name_abbrev: Langeth.
 tl2_dates: 1806-1878
-tl2_page_id: 33068992
+tl2_bhl_page_id: 33068992
 author_lsid: 5267-1
 wikidata_id: Q67415
 ipni_surname: Langethal
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5267-1), [Wikidata](https://www.wikidata.org/wiki/Q67415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5267-1) LSID 5267-1, [Wikidata](https://www.wikidata.org/wiki/Q67415) QID Q67415
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

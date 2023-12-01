@@ -6,7 +6,7 @@ tl2_surname: Kölreuter
 tl2_forenames: Joseph Gottlieb
 tl2_name_abbrev: Kölr.
 tl2_dates: 1733-1806
-tl2_page_id: 33068841
+tl2_bhl_page_id: 33068841
 author_lsid: 12619-1
 wikidata_id: Q64281
 ipni_surname: Kölreuter
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12619-1), [Wikidata](https://www.wikidata.org/wiki/Q64281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12619-1) LSID 12619-1, [Wikidata](https://www.wikidata.org/wiki/Q64281) QID Q64281
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

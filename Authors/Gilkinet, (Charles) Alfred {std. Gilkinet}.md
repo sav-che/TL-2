@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0171
 tl2_volume: suppl8
 tl2_page_printed: 217
 tl2_surname: Gilkinet
-tl2_forenames: [Charles] Alfred
+tl2_forenames: (Charles) Alfred
 tl2_name_abbrev: Gilkinet
 tl2_dates: 1845-1926
-tl2_page_id: 33258695
+tl2_bhl_page_id: 33258695
 author_lsid: 35054-1
 wikidata_id: Q47117861
 ipni_surname: Gilkinet
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33258695) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/35054-1), [Wikidata](https://www.wikidata.org/wiki/Q47117861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35054-1) LSID 35054-1, [Wikidata](https://www.wikidata.org/wiki/Q47117861) QID Q47117861
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

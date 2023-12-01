@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0259
 tl2_volume: vol2
 tl2_page_printed: 212
 tl2_surname: Hisinger
-tl2_forenames: Wilhelm [von]
+tl2_forenames: Wilhelm (von)
 tl2_name_abbrev: Hising.
 tl2_dates: 1766-1852
-tl2_page_id: 33068454
+tl2_bhl_page_id: 33068454
 author_lsid: 3971-1
 wikidata_id: Q900478
 ipni_surname: Hisinger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33068454) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3971-1), [Wikidata](https://www.wikidata.org/wiki/Q900478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3971-1) LSID 3971-1, [Wikidata](https://www.wikidata.org/wiki/Q900478) QID Q900478
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

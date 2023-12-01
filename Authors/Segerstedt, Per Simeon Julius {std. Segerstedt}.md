@@ -6,7 +6,7 @@ tl2_surname: Segerstedt
 tl2_forenames: Per Simeon Julius
 tl2_name_abbrev: Segerstedt
 tl2_dates: 1866-ca. 1930
-tl2_page_id: 33333622
+tl2_bhl_page_id: 33333622
 author_lsid: 9424-1
 wikidata_id: Q21608613
 ipni_surname: Segerstedt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9424-1), [Wikidata](https://www.wikidata.org/wiki/Q21608613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9424-1) LSID 9424-1, [Wikidata](https://www.wikidata.org/wiki/Q21608613) QID Q21608613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

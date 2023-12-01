@@ -6,7 +6,7 @@ tl2_surname: Foerste
 tl2_forenames: August Frederick
 tl2_name_abbrev: Foerste
 tl2_dates: 1862-1936
-tl2_page_id: 33120981
+tl2_bhl_page_id: 33120981
 author_lsid: 2799-1
 wikidata_id: Q4820694
 ipni_surname: Foerste
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2799-1), [Wikidata](https://www.wikidata.org/wiki/Q4820694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2799-1) LSID 2799-1, [Wikidata](https://www.wikidata.org/wiki/Q4820694) QID Q4820694
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

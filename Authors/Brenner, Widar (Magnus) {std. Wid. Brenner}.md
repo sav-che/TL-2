@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0065
 tl2_volume: suppl3
 tl2_page_printed: 65
 tl2_surname: Brenner
-tl2_forenames: Widar [Magnus]
+tl2_forenames: Widar (Magnus)
 tl2_name_abbrev: Wid. Brenner
 tl2_dates: 1887-1932
-tl2_page_id: 33266372
+tl2_bhl_page_id: 33266372
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33266372) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

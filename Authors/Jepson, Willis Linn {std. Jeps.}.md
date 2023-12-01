@@ -6,7 +6,7 @@ tl2_surname: Jepson
 tl2_forenames: Willis Linn
 tl2_name_abbrev: Jeps.
 tl2_dates: 1867-1946
-tl2_page_id: 33068682
+tl2_bhl_page_id: 33068682
 author_lsid: 4476-1
 wikidata_id: Q324259
 ipni_surname: Jepson
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33068682) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4476-1), [Wikidata](https://www.wikidata.org/wiki/Q324259). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4476-1) LSID 4476-1, [Wikidata](https://www.wikidata.org/wiki/Q324259) QID Q324259
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

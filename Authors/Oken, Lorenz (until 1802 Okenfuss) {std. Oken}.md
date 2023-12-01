@@ -6,7 +6,7 @@ tl2_surname: Oken
 tl2_forenames: Lorenz (until 1802 Okenfuss)
 tl2_name_abbrev: Oken
 tl2_dates: 1779-1851
-tl2_page_id: 33355903
+tl2_bhl_page_id: 33355903
 author_lsid: 12715-1
 wikidata_id: Q55069834
 ipni_surname: Oken
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33355903) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12715-1), [Wikidata](https://www.wikidata.org/wiki/Q55069834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12715-1) LSID 12715-1, [Wikidata](https://www.wikidata.org/wiki/Q55069834) QID Q55069834
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Henslow
 tl2_forenames: Rev. George
 tl2_name_abbrev: G. Hensl.
 tl2_dates: 1835-1925
-tl2_page_id: 33068404
+tl2_bhl_page_id: 33068404
 author_lsid: 3858-1
 wikidata_id: Q18756711
 ipni_surname: Henslow
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3858-1), [Wikidata](https://www.wikidata.org/wiki/Q18756711). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3858-1) LSID 3858-1, [Wikidata](https://www.wikidata.org/wiki/Q18756711) QID Q18756711
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

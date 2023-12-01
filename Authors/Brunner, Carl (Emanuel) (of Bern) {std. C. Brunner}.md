@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0157
 tl2_volume: suppl3
 tl2_page_printed: 163
 tl2_surname: Brunner
-tl2_forenames: Carl [Emanuel] (of Bern)
+tl2_forenames: Carl (Emanuel) (of Bern)
 tl2_name_abbrev: C. Brunner
 tl2_dates: 1796-1867
-tl2_page_id: 33266470
+tl2_bhl_page_id: 33266470
 author_lsid: 32567-1
 wikidata_id: Q21506578
 ipni_surname: Brunner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33266470) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/32567-1), [Wikidata](https://www.wikidata.org/wiki/Q21506578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32567-1) LSID 32567-1, [Wikidata](https://www.wikidata.org/wiki/Q21506578) QID Q21506578
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

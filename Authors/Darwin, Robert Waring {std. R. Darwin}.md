@@ -6,7 +6,7 @@ tl2_surname: Darwin
 tl2_forenames: Robert Waring
 tl2_name_abbrev: R. Darwin
 tl2_dates: 1724-1816
-tl2_page_id: 33120731
+tl2_bhl_page_id: 33120731
 author_lsid: 2002-1
 wikidata_id: Q1555142
 ipni_surname: Darwin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2002-1), [Wikidata](https://www.wikidata.org/wiki/Q1555142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2002-1) LSID 2002-1, [Wikidata](https://www.wikidata.org/wiki/Q1555142) QID Q1555142
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

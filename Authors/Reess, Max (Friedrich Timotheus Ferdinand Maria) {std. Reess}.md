@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0659
 tl2_volume: vol4
 tl2_page_printed: 635
 tl2_surname: Reess
-tl2_forenames: Max [Friedrich Timotheus Ferdinand Maria]
+tl2_forenames: Max (Friedrich Timotheus Ferdinand Maria)
 tl2_name_abbrev: Reess
 tl2_dates: 1845-1901
-tl2_page_id: 33190106
+tl2_bhl_page_id: 33190106
 author_lsid: 12762-1
 wikidata_id: Q1412370
 ipni_surname: Reess
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33190106) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12762-1), [Wikidata](https://www.wikidata.org/wiki/Q1412370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12762-1) LSID 12762-1, [Wikidata](https://www.wikidata.org/wiki/Q1412370) QID Q1412370
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

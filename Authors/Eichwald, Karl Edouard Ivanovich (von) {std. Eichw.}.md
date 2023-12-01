@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0933
 tl2_volume: vol1
 tl2_page_printed: 737
 tl2_surname: Eichwald
-tl2_forenames: Karl Edouard Ivanovich [von]
+tl2_forenames: Karl Edouard Ivanovich (von)
 tl2_name_abbrev: Eichw.
 tl2_dates: 1794-1876
-tl2_page_id: 33120868
+tl2_bhl_page_id: 33120868
 author_lsid: 2490-1
 wikidata_id: Q529126
 ipni_surname: Eichwald
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33120868) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2490-1), [Wikidata](https://www.wikidata.org/wiki/Q529126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2490-1) LSID 2490-1, [Wikidata](https://www.wikidata.org/wiki/Q529126) QID Q529126
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

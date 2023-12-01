@@ -6,7 +6,7 @@ tl2_surname: Strøm
 tl2_forenames: Hans
 tl2_name_abbrev: Strøm
 tl2_dates: 1726-1797
-tl2_page_id: 33212052
+tl2_bhl_page_id: 33212052
 author_lsid: 12894-1
 wikidata_id: Q1284564
 ipni_surname: Strøm
@@ -25,7 +25,8 @@ ipni_record_modified: 2005-06-16 09:29:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33212052) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12894-1), [Wikidata](https://www.wikidata.org/wiki/Q1284564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12894-1) LSID 12894-1, [Wikidata](https://www.wikidata.org/wiki/Q1284564) QID Q1284564
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

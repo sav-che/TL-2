@@ -6,7 +6,7 @@ tl2_surname: Nemec
 tl2_forenames: Bohumil Rehor
 tl2_name_abbrev: Nemec
 tl2_dates: 1873-1966
-tl2_page_id: 33355812
+tl2_bhl_page_id: 33355812
 author_lsid: 6910-1
 wikidata_id: Q7356124
 ipni_surname: Němec
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33355812) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6910-1), [Wikidata](https://www.wikidata.org/wiki/Q7356124). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6910-1) LSID 6910-1, [Wikidata](https://www.wikidata.org/wiki/Q7356124) QID Q7356124
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

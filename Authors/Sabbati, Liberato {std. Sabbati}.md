@@ -6,7 +6,7 @@ tl2_surname: Sabbati
 tl2_forenames: Liberato
 tl2_name_abbrev: Sabbati
 tl2_dates: ca. 1714-?
-tl2_page_id: 33190492
+tl2_bhl_page_id: 33190492
 author_lsid: 8780-1
 wikidata_id: Q21607594
 ipni_surname: Sabbati
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8780-1), [Wikidata](https://www.wikidata.org/wiki/Q21607594). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8780-1) LSID 8780-1, [Wikidata](https://www.wikidata.org/wiki/Q21607594) QID Q21607594
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

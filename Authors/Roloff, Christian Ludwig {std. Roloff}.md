@@ -6,7 +6,7 @@ tl2_surname: Roloff
 tl2_forenames: Christian Ludwig
 tl2_name_abbrev: Roloff
 tl2_dates: 1726-1800
-tl2_page_id: 33190345
+tl2_bhl_page_id: 33190345
 author_lsid: 8557-1
 wikidata_id: Q21607356
 ipni_surname: Roloff
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8557-1), [Wikidata](https://www.wikidata.org/wiki/Q21607356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8557-1) LSID 8557-1, [Wikidata](https://www.wikidata.org/wiki/Q21607356) QID Q21607356
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wheldon
 tl2_forenames: James Alfred
 tl2_name_abbrev: Wheld.
 tl2_dates: 1862-1924
-tl2_page_id: 33066581
+tl2_bhl_page_id: 33066581
 author_lsid: 11608-1
 wikidata_id: Q21387900
 ipni_surname: Wheldon
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33066581) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11608-1), [Wikidata](https://www.wikidata.org/wiki/Q21387900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11608-1) LSID 11608-1, [Wikidata](https://www.wikidata.org/wiki/Q21387900) QID Q21387900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

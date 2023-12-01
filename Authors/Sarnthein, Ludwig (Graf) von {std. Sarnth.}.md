@@ -6,7 +6,7 @@ tl2_surname: Sarnthein
 tl2_forenames: Ludwig (Graf) von
 tl2_name_abbrev: Sarnth.
 tl2_dates: 1861-1914
-tl2_page_id: 33333158
+tl2_bhl_page_id: 33333158
 author_lsid: 8922-1
 wikidata_id: Q56175
 ipni_surname: Sarnthein
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:39:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8922-1), [Wikidata](https://www.wikidata.org/wiki/Q56175). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8922-1) LSID 8922-1, [Wikidata](https://www.wikidata.org/wiki/Q56175) QID Q56175
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

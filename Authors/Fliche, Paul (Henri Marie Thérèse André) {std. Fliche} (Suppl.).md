@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0172
 tl2_volume: suppl7
 tl2_page_printed: 256
 tl2_surname: Fliche
-tl2_forenames: Paul [Henri Marie Thérèse André]
+tl2_forenames: Paul (Henri Marie Thérèse André)
 tl2_name_abbrev: Fliche
 tl2_dates: 1836-1908
-tl2_page_id: 33259760
+tl2_bhl_page_id: 33259760
 author_lsid: 2784-1
 wikidata_id: Q2377559
 ipni_surname: Fliche
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259760) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2784-1), [Wikidata](https://www.wikidata.org/wiki/Q2377559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2784-1) LSID 2784-1, [Wikidata](https://www.wikidata.org/wiki/Q2377559) QID Q2377559
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fliche, Paul Henri Maria Thérèse André {std. Fliche}|first entry]] for this author
 

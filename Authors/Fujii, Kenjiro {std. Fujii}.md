@@ -6,7 +6,7 @@ tl2_surname: Fujii
 tl2_forenames: Kenjiro
 tl2_name_abbrev: Fujii
 tl2_dates: 1866-1952
-tl2_page_id: 33258553
+tl2_bhl_page_id: 33258553
 author_lsid: 34911-1
 wikidata_id: Q36604341
 ipni_surname: Fujii
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33258553) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/34911-1), [Wikidata](https://www.wikidata.org/wiki/Q36604341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34911-1) LSID 34911-1, [Wikidata](https://www.wikidata.org/wiki/Q36604341) QID Q36604341
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

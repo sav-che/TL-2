@@ -6,7 +6,7 @@ tl2_surname: MacGillivray
 tl2_forenames: John
 tl2_name_abbrev: J. MacGillivray
 tl2_dates: 1822-1867
-tl2_page_id: 33355307
+tl2_bhl_page_id: 33355307
 author_lsid: 5919-1
 wikidata_id: Q3181970
 ipni_surname: MacGillivray
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5919-1), [Wikidata](https://www.wikidata.org/wiki/Q3181970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5919-1) LSID 5919-1, [Wikidata](https://www.wikidata.org/wiki/Q3181970) QID Q3181970
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

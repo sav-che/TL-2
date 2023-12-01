@@ -6,7 +6,7 @@ tl2_surname: Spamer
 tl2_forenames: Albert
 tl2_name_abbrev: Spamer
 tl2_dates: fl. 1887
-tl2_page_id: 33333912
+tl2_bhl_page_id: 33333912
 author_lsid: 9948-1
 wikidata_id: Q36511404
 ipni_surname: Spamer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9948-1), [Wikidata](https://www.wikidata.org/wiki/Q36511404). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9948-1) LSID 9948-1, [Wikidata](https://www.wikidata.org/wiki/Q36511404) QID Q36511404
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

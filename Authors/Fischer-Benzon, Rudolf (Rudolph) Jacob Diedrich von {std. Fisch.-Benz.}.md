@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0146
 tl2_volume: suppl7
 tl2_page_printed: 220
 tl2_surname: Fischer-Benzon
-tl2_forenames: Rudolf [Rudolph] Jacob Diedrich von
+tl2_forenames: Rudolf (Rudolph) Jacob Diedrich von
 tl2_name_abbrev: Fisch.-Benz.
 tl2_dates: 1839-1911
-tl2_page_id: 33259724
+tl2_bhl_page_id: 33259724
 author_lsid: 10-1
 wikidata_id: Q2174231
 ipni_surname: Fischer-Benzon
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259724) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/10-1), [Wikidata](https://www.wikidata.org/wiki/Q2174231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10-1) LSID 10-1, [Wikidata](https://www.wikidata.org/wiki/Q2174231) QID Q2174231
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

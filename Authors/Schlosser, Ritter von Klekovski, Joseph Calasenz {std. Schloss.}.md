@@ -6,7 +6,7 @@ tl2_surname: Schlosser
 tl2_forenames: Ritter von Klekovski, Joseph Calasenz
 tl2_name_abbrev: Schloss.
 tl2_dates: 1808-1882
-tl2_page_id: 33333364
+tl2_bhl_page_id: 33333364
 author_lsid: 9130-1
 wikidata_id: Q4525468
 ipni_surname: Schlosser von Klekovski
@@ -24,7 +24,8 @@ ipni_record_modified: 2011-02-17 11:59:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33333364) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9130-1), [Wikidata](https://www.wikidata.org/wiki/Q4525468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9130-1) LSID 9130-1, [Wikidata](https://www.wikidata.org/wiki/Q4525468) QID Q4525468
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

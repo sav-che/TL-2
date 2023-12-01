@@ -6,7 +6,7 @@ tl2_surname: Lindblad
 tl2_forenames: Matts Adolf
 tl2_name_abbrev: Lindblad
 tl2_dates: 1821-1899
-tl2_page_id: 33355087
+tl2_bhl_page_id: 33355087
 author_lsid: 22369-1
 wikidata_id: Q16383290
 ipni_surname: Lindblad
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33355087) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22369-1), [Wikidata](https://www.wikidata.org/wiki/Q16383290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22369-1) LSID 22369-1, [Wikidata](https://www.wikidata.org/wiki/Q16383290) QID Q16383290
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

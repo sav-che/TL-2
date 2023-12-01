@@ -6,7 +6,7 @@ tl2_surname: Jones
 tl2_forenames: Marcus Eugene
 tl2_name_abbrev: M.E. Jones
 tl2_dates: 1852-1934
-tl2_page_id: 33068698
+tl2_bhl_page_id: 33068698
 author_lsid: 21057-1
 wikidata_id: Q680696
 ipni_surname: Jones
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:43:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33068698) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21057-1), [Wikidata](https://www.wikidata.org/wiki/Q680696). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21057-1) LSID 21057-1, [Wikidata](https://www.wikidata.org/wiki/Q680696) QID Q680696
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

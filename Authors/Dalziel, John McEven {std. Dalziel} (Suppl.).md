@@ -6,7 +6,7 @@ tl2_surname: Dalziel
 tl2_forenames: John McEven
 tl2_name_abbrev: Dalziel
 tl2_dates: 1872-1948
-tl2_page_id: 33259080
+tl2_bhl_page_id: 33259080
 author_lsid: 1969-1
 wikidata_id: Q2917982
 ipni_surname: Dalziel
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33259080) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1969-1), [Wikidata](https://www.wikidata.org/wiki/Q2917982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1969-1) LSID 1969-1, [Wikidata](https://www.wikidata.org/wiki/Q2917982) QID Q2917982
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dalziel, John McEwen {std. Dalziel}|first entry]] for this author
 

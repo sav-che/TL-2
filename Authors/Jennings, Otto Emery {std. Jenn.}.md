@@ -6,7 +6,7 @@ tl2_surname: Jennings
 tl2_forenames: Otto Emery
 tl2_name_abbrev: Jenn.
 tl2_dates: 1877-1964
-tl2_page_id: 33068680
+tl2_bhl_page_id: 33068680
 author_lsid: 4471-1
 wikidata_id: Q18912447
 ipni_surname: Jennings
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:36:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33068680) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4471-1), [Wikidata](https://www.wikidata.org/wiki/Q18912447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4471-1) LSID 4471-1, [Wikidata](https://www.wikidata.org/wiki/Q18912447) QID Q18912447
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

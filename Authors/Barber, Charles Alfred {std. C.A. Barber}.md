@@ -6,7 +6,7 @@ tl2_surname: Barber
 tl2_forenames: Charles Alfred
 tl2_name_abbrev: C.A. Barber
 tl2_dates: 1860-1933
-tl2_page_id: 33265041
+tl2_bhl_page_id: 33265041
 author_lsid: 32349-1
 wikidata_id: Q8344896
 ipni_surname: Barber
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33265041) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/32349-1), [Wikidata](https://www.wikidata.org/wiki/Q8344896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32349-1) LSID 32349-1, [Wikidata](https://www.wikidata.org/wiki/Q8344896) QID Q8344896
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

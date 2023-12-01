@@ -6,7 +6,7 @@ tl2_surname: Pieters
 tl2_forenames: Adrian John
 tl2_name_abbrev: Pieters
 tl2_dates: 1866-1940
-tl2_page_id: 33189732
+tl2_bhl_page_id: 33189732
 author_lsid: 7692-1
 wikidata_id: Q5658282
 ipni_surname: Pieters
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7692-1), [Wikidata](https://www.wikidata.org/wiki/Q5658282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7692-1) LSID 7692-1, [Wikidata](https://www.wikidata.org/wiki/Q5658282) QID Q5658282
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

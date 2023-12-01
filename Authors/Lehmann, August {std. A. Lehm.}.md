@@ -6,7 +6,7 @@ tl2_surname: Lehmann
 tl2_forenames: August
 tl2_name_abbrev: A. Lehm.
 tl2_dates: fl. 1869
-tl2_page_id: 33069060
+tl2_bhl_page_id: 33069060
 author_lsid: 5428-1
 wikidata_id: Q47121020
 ipni_surname: Lehmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5428-1), [Wikidata](https://www.wikidata.org/wiki/Q47121020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5428-1) LSID 5428-1, [Wikidata](https://www.wikidata.org/wiki/Q47121020) QID Q47121020
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

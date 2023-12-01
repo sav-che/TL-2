@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0104
 tl2_volume: suppl1
 tl2_page_printed: 81
 tl2_surname: Allram
-tl2_forenames: Raimund [Robert]
+tl2_forenames: Raimund (Robert)
 tl2_name_abbrev: Allram
 tl2_dates: fl. 1882-1887
-tl2_page_id: 33264808
+tl2_bhl_page_id: 33264808
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33264808) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

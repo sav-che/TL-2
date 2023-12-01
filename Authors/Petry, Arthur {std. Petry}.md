@@ -6,7 +6,7 @@ tl2_surname: Petry
 tl2_forenames: Arthur
 tl2_name_abbrev: Petry
 tl2_dates: 1858-?
-tl2_page_id: 33189682
+tl2_bhl_page_id: 33189682
 author_lsid: 7599-1
 wikidata_id: Q21522911
 ipni_surname: Petry
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33189682) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7599-1), [Wikidata](https://www.wikidata.org/wiki/Q21522911). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7599-1) LSID 7599-1, [Wikidata](https://www.wikidata.org/wiki/Q21522911) QID Q21522911
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

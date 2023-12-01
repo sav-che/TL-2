@@ -6,7 +6,7 @@ tl2_surname: Thévenau
 tl2_forenames: Antonio Victor
 tl2_name_abbrev: Thévenau
 tl2_dates: 1814/1815-1876
-tl2_page_id: 33212298
+tl2_bhl_page_id: 33212298
 author_lsid: 10564-1
 wikidata_id: Q16943809
 ipni_surname: Thévenau
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10564-1), [Wikidata](https://www.wikidata.org/wiki/Q16943809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10564-1) LSID 10564-1, [Wikidata](https://www.wikidata.org/wiki/Q16943809) QID Q16943809
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

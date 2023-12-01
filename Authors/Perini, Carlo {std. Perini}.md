@@ -6,7 +6,7 @@ tl2_surname: Perini
 tl2_forenames: Carlo
 tl2_name_abbrev: Perini
 tl2_dates: 1817-1883
-tl2_page_id: 33189635
+tl2_bhl_page_id: 33189635
 author_lsid: 7517-1
 wikidata_id: Q2939234
 ipni_surname: Perini
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33189635) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7517-1), [Wikidata](https://www.wikidata.org/wiki/Q2939234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7517-1) LSID 7517-1, [Wikidata](https://www.wikidata.org/wiki/Q2939234) QID Q2939234
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

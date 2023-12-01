@@ -6,7 +6,7 @@ tl2_surname: Curtis
 tl2_forenames: William
 tl2_name_abbrev: Curtis
 tl2_dates: 1746-1799
-tl2_page_id: 33120706
+tl2_bhl_page_id: 33120706
 author_lsid: 1927-1
 wikidata_id: Q460867
 ipni_surname: Curtis
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33120706) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1927-1), [Wikidata](https://www.wikidata.org/wiki/Q460867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1927-1) LSID 1927-1, [Wikidata](https://www.wikidata.org/wiki/Q460867) QID Q460867
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Curtis, William {std. Curtis} (Suppl.)|second entry]] for this author
 

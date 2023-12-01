@@ -6,7 +6,7 @@ tl2_surname: Brasfield
 tl2_forenames: Travis W.
 tl2_name_abbrev: Brasf.
 tl2_dates: fl. 1937
-tl2_page_id: 33266329
+tl2_bhl_page_id: 33266329
 author_lsid: 16472-1
 wikidata_id: Q36686644
 ipni_surname: Brasfield
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33266329) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16472-1), [Wikidata](https://www.wikidata.org/wiki/Q36686644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16472-1) LSID 16472-1, [Wikidata](https://www.wikidata.org/wiki/Q36686644) QID Q36686644
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

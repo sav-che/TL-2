@@ -6,7 +6,7 @@ tl2_surname: Petunnikov
 tl2_forenames: Alexej Nikolaievic
 tl2_name_abbrev: Petunn.
 tl2_dates: 1842-1919
-tl2_page_id: 33189684
+tl2_bhl_page_id: 33189684
 author_lsid: 7605-1
 wikidata_id: Q16003958
 ipni_surname: Petunnikow
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7605-1), [Wikidata](https://www.wikidata.org/wiki/Q16003958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7605-1) LSID 7605-1, [Wikidata](https://www.wikidata.org/wiki/Q16003958) QID Q16003958
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

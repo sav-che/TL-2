@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0245
 tl2_volume: vol7
 tl2_page_printed: 261
 tl2_surname: Wiedemann
-tl2_forenames: Ferdinand [Johannes]
+tl2_forenames: Ferdinand (Johannes)
 tl2_name_abbrev: Wiedemann
 tl2_dates: 1805-1887
-tl2_page_id: 33066601
+tl2_bhl_page_id: 33066601
 author_lsid: 13011-1
 wikidata_id: Q705843
 ipni_surname: Wiedemann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33066601) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13011-1), [Wikidata](https://www.wikidata.org/wiki/Q705843). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13011-1) LSID 13011-1, [Wikidata](https://www.wikidata.org/wiki/Q705843) QID Q705843
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

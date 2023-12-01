@@ -6,7 +6,7 @@ tl2_surname: Grubb
 tl2_forenames: Violet Margaret
 tl2_name_abbrev: V.M. Grubb
 tl2_dates: 1898-1985
-tl2_page_id: 33258905
+tl2_bhl_page_id: 33258905
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33258905) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Oldenland
 tl2_forenames: Henrik Bernard
 tl2_name_abbrev: 
 tl2_dates: x-1699
-tl2_page_id: 33355904
+tl2_bhl_page_id: 33355904
 author_lsid: 7122-1
 wikidata_id: Q1596729
 ipni_surname: Oldenland
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33355904) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7122-1), [Wikidata](https://www.wikidata.org/wiki/Q1596729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7122-1) LSID 7122-1, [Wikidata](https://www.wikidata.org/wiki/Q1596729) QID Q1596729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Denham
 tl2_forenames: Dixon
 tl2_name_abbrev: Denham
 tl2_dates: 1786-1828
-tl2_page_id: 33120752
+tl2_bhl_page_id: 33120752
 author_lsid: 2126-1
 wikidata_id: Q1231777
 ipni_surname: Denham
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2126-1), [Wikidata](https://www.wikidata.org/wiki/Q1231777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2126-1) LSID 2126-1, [Wikidata](https://www.wikidata.org/wiki/Q1231777) QID Q1231777
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

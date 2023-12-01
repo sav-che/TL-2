@@ -6,7 +6,7 @@ tl2_surname: Calderon
 tl2_forenames: Salvador
 tl2_name_abbrev: S. Calderon
 tl2_dates: 1884-1940
-tl2_page_id: 33266616
+tl2_bhl_page_id: 33266616
 author_lsid: 20005048-2
 wikidata_id: Q21505762
 ipni_surname: Calderón
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33266616) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/20005048-2), [Wikidata](https://www.wikidata.org/wiki/Q21505762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20005048-2) LSID 20005048-2, [Wikidata](https://www.wikidata.org/wiki/Q21505762) QID Q21505762
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

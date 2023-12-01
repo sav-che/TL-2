@@ -6,7 +6,7 @@ tl2_surname: Nyman
 tl2_forenames: Carl Fredrik
 tl2_name_abbrev: Nym.
 tl2_dates: 1820-1893
-tl2_page_id: 33355884
+tl2_bhl_page_id: 33355884
 author_lsid: 7069-1
 wikidata_id: Q1037905
 ipni_surname: Nyman
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:47:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33355884) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7069-1), [Wikidata](https://www.wikidata.org/wiki/Q1037905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7069-1) LSID 7069-1, [Wikidata](https://www.wikidata.org/wiki/Q1037905) QID Q1037905
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

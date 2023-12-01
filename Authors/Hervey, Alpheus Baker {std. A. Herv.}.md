@@ -6,7 +6,7 @@ tl2_surname: Hervey
 tl2_forenames: Alpheus Baker
 tl2_name_abbrev: A. Herv.
 tl2_dates: 1839-1931
-tl2_page_id: 33068418
+tl2_bhl_page_id: 33068418
 author_lsid: 3890-1
 wikidata_id: Q5670534
 ipni_surname: Hervey
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3890-1), [Wikidata](https://www.wikidata.org/wiki/Q5670534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3890-1) LSID 3890-1, [Wikidata](https://www.wikidata.org/wiki/Q5670534) QID Q5670534
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

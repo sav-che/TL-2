@@ -6,7 +6,7 @@ tl2_surname: Podpera
 tl2_forenames: Josef
 tl2_name_abbrev: Podp.
 tl2_dates: 1878-1954
-tl2_page_id: 33189776
+tl2_bhl_page_id: 33189776
 author_lsid: 24931-1
 wikidata_id: Q4368181
 ipni_surname: Podpěra
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33189776) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24931-1), [Wikidata](https://www.wikidata.org/wiki/Q4368181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24931-1) LSID 24931-1, [Wikidata](https://www.wikidata.org/wiki/Q4368181) QID Q4368181
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

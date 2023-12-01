@@ -6,7 +6,7 @@ tl2_surname: Chen
 tl2_forenames: Luetta (Chên, Hsiu-ying)
 tl2_name_abbrev: H.Y. Chen
 tl2_dates: fl. 1934-1939
-tl2_page_id: 33265755
+tl2_bhl_page_id: 33265755
 author_lsid: 13724-1
 wikidata_id: Q21340904
 ipni_surname: Chen
@@ -24,7 +24,8 @@ ipni_record_modified: 2011-10-03 13:38:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13724-1), [Wikidata](https://www.wikidata.org/wiki/Q21340904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13724-1) LSID 13724-1, [Wikidata](https://www.wikidata.org/wiki/Q21340904) QID Q21340904
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

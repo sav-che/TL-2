@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0073
 tl2_volume: vol5
 tl2_page_printed: 73
 tl2_surname: Sauter
-tl2_forenames: Anton [Eleutherius]
+tl2_forenames: Anton (Eleutherius)
 tl2_name_abbrev: Saut.
 tl2_dates: 1800-1881
-tl2_page_id: 33333212
+tl2_bhl_page_id: 33333212
 author_lsid: 8961-1
 wikidata_id: Q29885
 ipni_surname: Sauter
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:51:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33333212) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8961-1), [Wikidata](https://www.wikidata.org/wiki/Q29885). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8961-1) LSID 8961-1, [Wikidata](https://www.wikidata.org/wiki/Q29885) QID Q29885
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

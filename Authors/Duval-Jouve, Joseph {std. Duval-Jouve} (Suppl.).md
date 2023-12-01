@@ -6,7 +6,7 @@ tl2_surname: Duval-Jouve
 tl2_forenames: Joseph
 tl2_name_abbrev: Duval-Jouve
 tl2_dates: 1810-1883
-tl2_page_id: 33260204
+tl2_bhl_page_id: 33260204
 author_lsid: 2419-1
 wikidata_id: Q3066356
 ipni_surname: Duval-Jouve
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:36:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33260204) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2419-1), [Wikidata](https://www.wikidata.org/wiki/Q3066356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2419-1) LSID 2419-1, [Wikidata](https://www.wikidata.org/wiki/Q3066356) QID Q3066356
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Duval-Jouve (earlier Duval), Joseph {std. Duval-Jouve}|first entry]] for this author
 

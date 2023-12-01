@@ -6,7 +6,7 @@ tl2_surname: Lewis
 tl2_forenames: Isaac McKinney
 tl2_name_abbrev: L. Lewis
 tl2_dates: 1878-1943
-tl2_page_id: 33069111
+tl2_bhl_page_id: 33069111
 author_lsid: 22288-1
 wikidata_id: Q21518821
 ipni_surname: Lewis
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22288-1), [Wikidata](https://www.wikidata.org/wiki/Q21518821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22288-1) LSID 22288-1, [Wikidata](https://www.wikidata.org/wiki/Q21518821) QID Q21518821
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

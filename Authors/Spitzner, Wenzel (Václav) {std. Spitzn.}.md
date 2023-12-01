@@ -6,7 +6,7 @@ tl2_surname: Spitzner
 tl2_forenames: Wenzel (Václav)
 tl2_name_abbrev: Spitzn.
 tl2_dates: 1852-1907
-tl2_page_id: 33333933
+tl2_bhl_page_id: 33333933
 author_lsid: 9977-1
 wikidata_id: Q15831373
 ipni_surname: Spitzner
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/page/33333933) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9977-1), [Wikidata](https://www.wikidata.org/wiki/Q15831373). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9977-1) LSID 9977-1, [Wikidata](https://www.wikidata.org/wiki/Q15831373) QID Q15831373
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Mohr
 tl2_forenames: Charles Theodore (baptized Karl Theodor)
 tl2_name_abbrev: C. Mohr
 tl2_dates: 1824-1901
-tl2_page_id: 33355630
+tl2_bhl_page_id: 33355630
 author_lsid: 23526-1
 wikidata_id: Q5081015
 ipni_surname: Mohr
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:26:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23526-1), [Wikidata](https://www.wikidata.org/wiki/Q5081015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23526-1) LSID 23526-1, [Wikidata](https://www.wikidata.org/wiki/Q5081015) QID Q5081015
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

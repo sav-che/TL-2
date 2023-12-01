@@ -6,7 +6,7 @@ tl2_surname: Huber
 tl2_forenames: Jakob (Jacques) E.
 tl2_name_abbrev: Huber
 tl2_dates: 1867-1914
-tl2_page_id: 33068595
+tl2_bhl_page_id: 33068595
 author_lsid: 29598-1
 wikidata_id: Q4502038
 ipni_surname: Huber
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33068595) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/29598-1), [Wikidata](https://www.wikidata.org/wiki/Q4502038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29598-1) LSID 29598-1, [Wikidata](https://www.wikidata.org/wiki/Q4502038) QID Q4502038
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

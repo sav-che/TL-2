@@ -6,27 +6,31 @@ tl2_surname: Kramer
 tl2_forenames: Franz August
 tl2_name_abbrev: F. Kram.
 tl2_dates: fl. 1875
-tl2_page_id: 33068903
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33068903
+author_lsid: 5020-1
+wikidata_id: Q21390829
+ipni_surname: Kramer
+ipni_forenames: Franz August
+ipni_standard_form: F.Kramer
+ipni_dates: ?-1891
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+- Germany
+ipni_version: 1.1.1.1.2.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2015-12-14 19:46:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33068903) of TL-2 Vol. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5020-1) LSID 5020-1, [Wikidata](https://www.wikidata.org/wiki/Q21390829) QID Q21390829
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Kramer, Franz August (*fl*. 1875), German botanist and high school teacher at Chemnitz. 
-**Abbreviated name**: *F. Kram.*
+**Abbreviated name**: *F. Kram.* \[standard form in IPNI: *F.Kramer*\]
 
 #### Herbarium and types
 

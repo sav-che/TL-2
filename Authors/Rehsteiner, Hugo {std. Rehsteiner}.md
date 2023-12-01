@@ -6,7 +6,7 @@ tl2_surname: Rehsteiner
 tl2_forenames: Hugo
 tl2_name_abbrev: Rehsteiner
 tl2_dates: 1864-1947
-tl2_page_id: 33190127
+tl2_bhl_page_id: 33190127
 author_lsid: 8245-1
 wikidata_id: Q21607075
 ipni_surname: Rehsteiner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33190127) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8245-1), [Wikidata](https://www.wikidata.org/wiki/Q21607075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8245-1) LSID 8245-1, [Wikidata](https://www.wikidata.org/wiki/Q21607075) QID Q21607075
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

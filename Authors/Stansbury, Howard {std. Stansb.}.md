@@ -6,7 +6,7 @@ tl2_surname: Stansbury
 tl2_forenames: Howard
 tl2_name_abbrev: Stansb.
 tl2_dates: 1806-1863
-tl2_page_id: 33333977
+tl2_bhl_page_id: 33333977
 author_lsid: 10027-1
 wikidata_id: Q5920936
 ipni_surname: Stansbury
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33333977) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10027-1), [Wikidata](https://www.wikidata.org/wiki/Q5920936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10027-1) LSID 10027-1, [Wikidata](https://www.wikidata.org/wiki/Q5920936) QID Q5920936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

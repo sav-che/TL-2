@@ -6,7 +6,7 @@ tl2_surname: Jongmans
 tl2_forenames: Willem Josephus
 tl2_name_abbrev: Jongm.
 tl2_dates: 1878-1957
-tl2_page_id: 33068700
+tl2_bhl_page_id: 33068700
 author_lsid: 21063-1
 wikidata_id: Q19587939
 ipni_surname: Jongmans
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33068700) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21063-1), [Wikidata](https://www.wikidata.org/wiki/Q19587939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21063-1) LSID 21063-1, [Wikidata](https://www.wikidata.org/wiki/Q19587939) QID Q19587939
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

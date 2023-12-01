@@ -6,7 +6,7 @@ tl2_surname: Burchard
 tl2_forenames: Gertrud Anna
 tl2_name_abbrev: G. Burchard
 tl2_dates: 1906-x
-tl2_page_id: 33266532
+tl2_bhl_page_id: 33266532
 author_lsid: 35022-1
 wikidata_id: Q47114837
 ipni_surname: Burchard
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33266532) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/35022-1), [Wikidata](https://www.wikidata.org/wiki/Q47114837). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35022-1) LSID 35022-1, [Wikidata](https://www.wikidata.org/wiki/Q47114837) QID Q47114837
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lauth
 tl2_forenames: Thomas
 tl2_name_abbrev: Lauth
 tl2_dates: 1758-1826
-tl2_page_id: 33069012
+tl2_bhl_page_id: 33069012
 author_lsid: 5332-1
 wikidata_id: Q7791731
 ipni_surname: Lauth
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5332-1), [Wikidata](https://www.wikidata.org/wiki/Q7791731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5332-1) LSID 5332-1, [Wikidata](https://www.wikidata.org/wiki/Q7791731) QID Q7791731
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

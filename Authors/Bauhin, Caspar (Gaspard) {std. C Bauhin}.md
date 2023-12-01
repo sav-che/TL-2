@@ -6,7 +6,7 @@ tl2_surname: Bauhin
 tl2_forenames: Caspar (Gaspard)
 tl2_name_abbrev: C Bauhin
 tl2_dates: 1560-1624
-tl2_page_id: 33120278
+tl2_bhl_page_id: 33120278
 author_lsid: 553-1
 wikidata_id: Q123612
 ipni_surname: Bauhin
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33120278) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/553-1), [Wikidata](https://www.wikidata.org/wiki/Q123612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/553-1) LSID 553-1, [Wikidata](https://www.wikidata.org/wiki/Q123612) QID Q123612
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

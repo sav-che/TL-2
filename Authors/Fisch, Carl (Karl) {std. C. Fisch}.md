@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0129
 tl2_volume: suppl7
 tl2_page_printed: 199
 tl2_surname: Fisch
-tl2_forenames: Carl [Karl]
+tl2_forenames: Carl (Karl)
 tl2_name_abbrev: C. Fisch
 tl2_dates: 1859-x
-tl2_page_id: 33259703
+tl2_bhl_page_id: 33259703
 author_lsid: 18817-1
 wikidata_id: Q5749282
 ipni_surname: Fisch
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33259703) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18817-1), [Wikidata](https://www.wikidata.org/wiki/Q5749282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18817-1) LSID 18817-1, [Wikidata](https://www.wikidata.org/wiki/Q5749282) QID Q5749282
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

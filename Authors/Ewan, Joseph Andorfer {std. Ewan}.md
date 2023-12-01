@@ -6,7 +6,7 @@ tl2_surname: Ewan
 tl2_forenames: Joseph Andorfer
 tl2_name_abbrev: Ewan
 tl2_dates: 1909-x
-tl2_page_id: 33260424
+tl2_bhl_page_id: 33260424
 author_lsid: 2604-1
 wikidata_id: Q3184495
 ipni_surname: Ewan
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33260424) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2604-1), [Wikidata](https://www.wikidata.org/wiki/Q3184495). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2604-1) LSID 2604-1, [Wikidata](https://www.wikidata.org/wiki/Q3184495) QID Q3184495
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

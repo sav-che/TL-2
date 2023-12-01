@@ -6,7 +6,7 @@ tl2_surname: Jonkman
 tl2_forenames: Hendricus Franciscus
 tl2_name_abbrev: Jonkman
 tl2_dates: fl. 1879
-tl2_page_id: 33068701
+tl2_bhl_page_id: 33068701
 author_lsid: 4546-1
 wikidata_id: Q36574416
 ipni_surname: Jonkman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33068701) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4546-1), [Wikidata](https://www.wikidata.org/wiki/Q36574416). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4546-1) LSID 4546-1, [Wikidata](https://www.wikidata.org/wiki/Q36574416) QID Q36574416
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

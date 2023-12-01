@@ -6,7 +6,7 @@ tl2_surname: Couderc
 tl2_forenames: Georges
 tl2_name_abbrev: Couderc
 tl2_dates: 1850-1928
-tl2_page_id: 33266088
+tl2_bhl_page_id: 33266088
 author_lsid: 17467-1
 wikidata_id: Q21339307
 ipni_surname: Couderc
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33266088) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17467-1), [Wikidata](https://www.wikidata.org/wiki/Q21339307). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17467-1) LSID 17467-1, [Wikidata](https://www.wikidata.org/wiki/Q21339307) QID Q21339307
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

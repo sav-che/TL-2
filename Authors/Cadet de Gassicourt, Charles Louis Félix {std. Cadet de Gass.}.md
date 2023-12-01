@@ -6,7 +6,7 @@ tl2_surname: Cadet de Gassicourt
 tl2_forenames: Charles Louis Félix
 tl2_name_abbrev: Cadet de Gass.
 tl2_dates: 1789-1861
-tl2_page_id: 33266603
+tl2_bhl_page_id: 33266603
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

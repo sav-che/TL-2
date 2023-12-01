@@ -6,7 +6,7 @@ tl2_surname: Grove
 tl2_forenames: William Bywater
 tl2_name_abbrev: Grove
 tl2_dates: 1848-1938
-tl2_page_id: 33258897
+tl2_bhl_page_id: 33258897
 author_lsid: 3421-1
 wikidata_id: Q19666664
 ipni_surname: Grove
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33258897) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3421-1), [Wikidata](https://www.wikidata.org/wiki/Q19666664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3421-1) LSID 3421-1, [Wikidata](https://www.wikidata.org/wiki/Q19666664) QID Q19666664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Grove, William Bywater {std. Grove}|first entry]] for this author
 

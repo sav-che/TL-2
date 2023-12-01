@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0325
 tl2_volume: suppl5
 tl2_page_printed: 331
 tl2_surname: Dieterich
-tl2_forenames: Carl [Karl] Friedrich
+tl2_forenames: Carl (Karl) Friedrich
 tl2_name_abbrev: Dieter.
 tl2_dates: 1734-1805
-tl2_page_id: 33259377
+tl2_bhl_page_id: 33259377
 author_lsid: 2204-1
 wikidata_id: Q21510391
 ipni_surname: Dieterich
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259377) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2204-1), [Wikidata](https://www.wikidata.org/wiki/Q21510391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2204-1) LSID 2204-1, [Wikidata](https://www.wikidata.org/wiki/Q21510391) QID Q21510391
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dieterich, Carl Friedrich {std. Dieter.}|first entry]] for this author
 

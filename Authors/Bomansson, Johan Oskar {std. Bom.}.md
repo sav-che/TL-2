@@ -6,7 +6,7 @@ tl2_surname: Bomansson
 tl2_forenames: Johan Oskar
 tl2_name_abbrev: Bom.
 tl2_dates: 1838-1906
-tl2_page_id: 33265498
+tl2_bhl_page_id: 33265498
 author_lsid: 16312-1
 wikidata_id: Q21506270
 ipni_surname: Bomansson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265498) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16312-1), [Wikidata](https://www.wikidata.org/wiki/Q21506270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16312-1) LSID 16312-1, [Wikidata](https://www.wikidata.org/wiki/Q21506270) QID Q21506270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

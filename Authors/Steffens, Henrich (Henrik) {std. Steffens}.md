@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0870
 tl2_volume: vol5
 tl2_page_printed: 869
 tl2_surname: Steffens
-tl2_forenames: Henrich [Henrik]
+tl2_forenames: Henrich (Henrik)
 tl2_name_abbrev: Steffens
 tl2_dates: 1773-1845
-tl2_page_id: 33334008
+tl2_bhl_page_id: 33334008
 author_lsid: 10069-1
 wikidata_id: Q64406
 ipni_surname: Steffens
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33334008) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10069-1), [Wikidata](https://www.wikidata.org/wiki/Q64406). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10069-1) LSID 10069-1, [Wikidata](https://www.wikidata.org/wiki/Q64406) QID Q64406
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

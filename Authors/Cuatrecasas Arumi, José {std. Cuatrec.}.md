@@ -6,7 +6,7 @@ tl2_surname: Cuatrecasas Arumi
 tl2_forenames: José
 tl2_name_abbrev: Cuatrec.
 tl2_dates: 1903-x
-tl2_page_id: 33266165
+tl2_bhl_page_id: 33266165
 author_lsid: 17562-1
 wikidata_id: Q3088960
 ipni_surname: Cuatrecasas
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:44:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33266165) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17562-1), [Wikidata](https://www.wikidata.org/wiki/Q3088960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17562-1) LSID 17562-1, [Wikidata](https://www.wikidata.org/wiki/Q3088960) QID Q3088960
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

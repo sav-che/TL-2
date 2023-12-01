@@ -6,7 +6,7 @@ tl2_surname: Zenkert
 tl2_forenames: Charles Anthony
 tl2_name_abbrev: Zenkert
 tl2_dates: 1886-1972
-tl2_page_id: 33066869
+tl2_bhl_page_id: 33066869
 author_lsid: 12013-1
 wikidata_id: Q21613443
 ipni_surname: Zenkert
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33066869) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12013-1), [Wikidata](https://www.wikidata.org/wiki/Q21613443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12013-1) LSID 12013-1, [Wikidata](https://www.wikidata.org/wiki/Q21613443) QID Q21613443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

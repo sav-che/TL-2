@@ -6,7 +6,7 @@ tl2_surname: Breidenstein
 tl2_forenames: W.
 tl2_name_abbrev: Breidenstein
 tl2_dates: fl. 1856
-tl2_page_id: 33120446
+tl2_bhl_page_id: 33120446
 author_lsid: 1107-1
 wikidata_id: Q47114634
 ipni_surname: Breidenstein
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1107-1), [Wikidata](https://www.wikidata.org/wiki/Q47114634). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1107-1) LSID 1107-1, [Wikidata](https://www.wikidata.org/wiki/Q47114634) QID Q47114634
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Erlandsson
 tl2_forenames: Stellan
 tl2_name_abbrev: Erl.
 tl2_dates: 1902-x
-tl2_page_id: 33260385
+tl2_bhl_page_id: 33260385
 author_lsid: 33045-1
 wikidata_id: Q21512326
 ipni_surname: Erlandsson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33260385) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/33045-1), [Wikidata](https://www.wikidata.org/wiki/Q21512326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33045-1) LSID 33045-1, [Wikidata](https://www.wikidata.org/wiki/Q21512326) QID Q21512326
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lemmermann
 tl2_forenames: Ernst Johann
 tl2_name_abbrev: Lemmerm.
 tl2_dates: 1867-1915
-tl2_page_id: 33069082
+tl2_bhl_page_id: 33069082
 author_lsid: 5464-1
 wikidata_id: Q5395066
 ipni_surname: Lemmermann
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5464-1), [Wikidata](https://www.wikidata.org/wiki/Q5395066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5464-1) LSID 5464-1, [Wikidata](https://www.wikidata.org/wiki/Q5395066) QID Q5395066
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

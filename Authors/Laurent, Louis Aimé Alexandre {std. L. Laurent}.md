@@ -6,7 +6,7 @@ tl2_surname: Laurent
 tl2_forenames: Louis Aimé Alexandre
 tl2_name_abbrev: L. Laurent
 tl2_dates: 1873-1947
-tl2_page_id: 33069009
+tl2_bhl_page_id: 33069009
 author_lsid: 5326-1
 wikidata_id: Q17370842
 ipni_surname: Laurent
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5326-1), [Wikidata](https://www.wikidata.org/wiki/Q17370842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5326-1) LSID 5326-1, [Wikidata](https://www.wikidata.org/wiki/Q17370842) QID Q17370842
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

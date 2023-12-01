@@ -6,7 +6,7 @@ tl2_surname: Bélanger
 tl2_forenames: Charles Paulus
 tl2_name_abbrev: Bél.
 tl2_dates: 1805-1881
-tl2_page_id: 33265258
+tl2_bhl_page_id: 33265258
 author_lsid: 627-1
 wikidata_id: Q2959958
 ipni_surname: Bélanger
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/627-1), [Wikidata](https://www.wikidata.org/wiki/Q2959958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/627-1) LSID 627-1, [Wikidata](https://www.wikidata.org/wiki/Q2959958) QID Q2959958
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bélanger, Charles Paulus {std. Bél.}|first entry]] for this author
 

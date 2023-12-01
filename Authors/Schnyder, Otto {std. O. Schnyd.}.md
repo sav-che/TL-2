@@ -6,7 +6,7 @@ tl2_surname: Schnyder
 tl2_forenames: Otto
 tl2_name_abbrev: O. Schnyd.
 tl2_dates: fl. 1878
-tl2_page_id: 33333423
+tl2_bhl_page_id: 33333423
 author_lsid: 9207-1
 wikidata_id: Q47125817
 ipni_surname: Schnyder
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9207-1), [Wikidata](https://www.wikidata.org/wiki/Q47125817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9207-1) LSID 9207-1, [Wikidata](https://www.wikidata.org/wiki/Q47125817) QID Q47125817
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

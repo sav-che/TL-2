@@ -6,7 +6,7 @@ tl2_surname: Beltramini de' Casati
 tl2_forenames: Francesco
 tl2_name_abbrev: Beltr.
 tl2_dates: 1828-1903
-tl2_page_id: 33120302
+tl2_bhl_page_id: 33120302
 author_lsid: 640-1
 wikidata_id: Q21388507
 ipni_surname: Beltramini de Casati
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33120302) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/640-1), [Wikidata](https://www.wikidata.org/wiki/Q21388507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/640-1) LSID 640-1, [Wikidata](https://www.wikidata.org/wiki/Q21388507) QID Q21388507
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

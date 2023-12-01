@@ -6,7 +6,7 @@ tl2_surname: Clifford
 tl2_forenames: Montagu Howard
 tl2_name_abbrev: M.H. Clifford
 tl2_dates: fl. 1933-1940
-tl2_page_id: 33265896
+tl2_bhl_page_id: 33265896
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265896) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

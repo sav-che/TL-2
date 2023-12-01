@@ -6,7 +6,7 @@ tl2_surname: Stenhammar
 tl2_forenames: Christian
 tl2_name_abbrev: Stenh.
 tl2_dates: 1783-1866
-tl2_page_id: 33334022
+tl2_bhl_page_id: 33334022
 author_lsid: 10095-1
 wikidata_id: Q6189095
 ipni_surname: Stenhammar
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10095-1), [Wikidata](https://www.wikidata.org/wiki/Q6189095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10095-1) LSID 10095-1, [Wikidata](https://www.wikidata.org/wiki/Q6189095) QID Q6189095
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

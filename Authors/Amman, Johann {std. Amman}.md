@@ -6,7 +6,7 @@ tl2_surname: Amman
 tl2_forenames: Johann
 tl2_name_abbrev: Amman
 tl2_dates: 1707-1741
-tl2_page_id: 33120173
+tl2_bhl_page_id: 33120173
 author_lsid: 181-1
 wikidata_id: Q115787
 ipni_surname: Amman
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33120173) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/181-1), [Wikidata](https://www.wikidata.org/wiki/Q115787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/181-1) LSID 181-1, [Wikidata](https://www.wikidata.org/wiki/Q115787) QID Q115787
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

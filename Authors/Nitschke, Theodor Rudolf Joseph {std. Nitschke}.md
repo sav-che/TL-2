@@ -6,7 +6,7 @@ tl2_surname: Nitschke
 tl2_forenames: Theodor Rudolf Joseph
 tl2_name_abbrev: Nitschke
 tl2_dates: 1834-1883
-tl2_page_id: 33355843
+tl2_bhl_page_id: 33355843
 author_lsid: 7002-1
 wikidata_id: Q13107636
 ipni_surname: Nitschke
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7002-1), [Wikidata](https://www.wikidata.org/wiki/Q13107636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7002-1) LSID 7002-1, [Wikidata](https://www.wikidata.org/wiki/Q13107636) QID Q13107636
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

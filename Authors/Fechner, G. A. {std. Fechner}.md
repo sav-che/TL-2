@@ -6,7 +6,7 @@ tl2_surname: Fechner
 tl2_forenames: G. A.
 tl2_name_abbrev: Fechner
 tl2_dates: fl. 1849
-tl2_page_id: 33120947
+tl2_bhl_page_id: 33120947
 author_lsid: 2659-1
 wikidata_id: Q36561851
 ipni_surname: Fechner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2659-1), [Wikidata](https://www.wikidata.org/wiki/Q36561851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2659-1) LSID 2659-1, [Wikidata](https://www.wikidata.org/wiki/Q36561851) QID Q36561851
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

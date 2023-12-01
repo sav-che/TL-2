@@ -6,7 +6,7 @@ tl2_surname: Latapie
 tl2_forenames: François de Paule A.
 tl2_name_abbrev: Latap.
 tl2_dates: 1739-1823
-tl2_page_id: 33069005
+tl2_bhl_page_id: 33069005
 author_lsid: 5306-1
 wikidata_id: Q3083755
 ipni_surname: Latapie
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5306-1), [Wikidata](https://www.wikidata.org/wiki/Q3083755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5306-1) LSID 5306-1, [Wikidata](https://www.wikidata.org/wiki/Q3083755) QID Q3083755
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

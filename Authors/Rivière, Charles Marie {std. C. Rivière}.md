@@ -6,7 +6,7 @@ tl2_surname: Rivière
 tl2_forenames: Charles Marie
 tl2_name_abbrev: C. Rivière
 tl2_dates: 1845-?
-tl2_page_id: 33190276
+tl2_bhl_page_id: 33190276
 author_lsid: 8426-1
 wikidata_id: Q13468133
 ipni_surname: Rivière
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33190276) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8426-1), [Wikidata](https://www.wikidata.org/wiki/Q13468133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8426-1) LSID 8426-1, [Wikidata](https://www.wikidata.org/wiki/Q13468133) QID Q13468133
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

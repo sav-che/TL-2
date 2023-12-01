@@ -6,7 +6,7 @@ tl2_surname: Riley
 tl2_forenames: John
 tl2_name_abbrev: J. Riley
 tl2_dates: x-1846
-tl2_page_id: 33190265
+tl2_bhl_page_id: 33190265
 author_lsid: 8398-1
 wikidata_id: Q5933553
 ipni_surname: Riley
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/page/33190265) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8398-1), [Wikidata](https://www.wikidata.org/wiki/Q5933553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8398-1) LSID 8398-1, [Wikidata](https://www.wikidata.org/wiki/Q5933553) QID Q5933553
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

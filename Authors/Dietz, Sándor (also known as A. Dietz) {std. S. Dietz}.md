@@ -6,7 +6,7 @@ tl2_surname: Dietz
 tl2_forenames: Sándor (also known as A. Dietz)
 tl2_name_abbrev: S. Dietz
 tl2_dates: fl. 1887
-tl2_page_id: 33259383
+tl2_bhl_page_id: 33259383
 author_lsid: 20010977-1
 wikidata_id: Q47116470
 ipni_surname: Dietz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20010977-1), [Wikidata](https://www.wikidata.org/wiki/Q47116470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20010977-1) LSID 20010977-1, [Wikidata](https://www.wikidata.org/wiki/Q47116470) QID Q47116470
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

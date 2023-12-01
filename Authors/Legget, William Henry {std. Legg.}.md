@@ -6,7 +6,7 @@ tl2_surname: Legget
 tl2_forenames: William Henry
 tl2_name_abbrev: Legg.
 tl2_dates: 1816-1882
-tl2_page_id: 33069058
+tl2_bhl_page_id: 33069058
 author_lsid: 5419-1
 wikidata_id: Q15440714
 ipni_surname: Leggett
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33069058) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5419-1), [Wikidata](https://www.wikidata.org/wiki/Q15440714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5419-1) LSID 5419-1, [Wikidata](https://www.wikidata.org/wiki/Q15440714) QID Q15440714
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

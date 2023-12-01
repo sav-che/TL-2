@@ -6,7 +6,7 @@ tl2_surname: Edgeworth
 tl2_forenames: Michael Pakenham
 tl2_name_abbrev: Edgew.
 tl2_dates: 1812-1881
-tl2_page_id: 33120853
+tl2_bhl_page_id: 33120853
 author_lsid: 2463-1
 wikidata_id: Q3102663
 ipni_surname: Edgeworth
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33120853) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2463-1), [Wikidata](https://www.wikidata.org/wiki/Q3102663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2463-1) LSID 2463-1, [Wikidata](https://www.wikidata.org/wiki/Q3102663) QID Q3102663
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Edgeworth, Michael Pakenham {std. Edgew.} (Suppl.)|second entry]] for this author
 

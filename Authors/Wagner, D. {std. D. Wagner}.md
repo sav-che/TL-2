@@ -6,7 +6,7 @@ tl2_surname: Wagner
 tl2_forenames: D.
 tl2_name_abbrev: D. Wagner
 tl2_dates: 1800-?
-tl2_page_id: 33066311
+tl2_bhl_page_id: 33066311
 author_lsid: 11304-1
 wikidata_id: Q21611964
 ipni_surname: Wagner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33066311) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11304-1), [Wikidata](https://www.wikidata.org/wiki/Q21611964). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11304-1) LSID 11304-1, [Wikidata](https://www.wikidata.org/wiki/Q21611964) QID Q21611964
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

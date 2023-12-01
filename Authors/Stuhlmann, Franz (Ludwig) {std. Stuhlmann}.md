@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0080
 tl2_volume: vol6
 tl2_page_printed: 59
 tl2_surname: Stuhlmann
-tl2_forenames: Franz [Ludwig]
+tl2_forenames: Franz (Ludwig)
 tl2_name_abbrev: Stuhlmann
 tl2_dates: 1863-1928
-tl2_page_id: 33212063
+tl2_bhl_page_id: 33212063
 author_lsid: 12897-1
 wikidata_id: Q107750
 ipni_surname: Stuhlmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33212063) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12897-1), [Wikidata](https://www.wikidata.org/wiki/Q107750). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12897-1) LSID 12897-1, [Wikidata](https://www.wikidata.org/wiki/Q107750) QID Q107750
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wettstein von Westersheim
 tl2_forenames: Richard
 tl2_name_abbrev: Wettst.
 tl2_dates: 1863-1931
-tl2_page_id: 33066561
+tl2_bhl_page_id: 33066561
 author_lsid: 11597-1
 wikidata_id: Q78599
 ipni_surname: Wettstein
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:34:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33066561) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11597-1), [Wikidata](https://www.wikidata.org/wiki/Q78599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11597-1) LSID 11597-1, [Wikidata](https://www.wikidata.org/wiki/Q78599) QID Q78599
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

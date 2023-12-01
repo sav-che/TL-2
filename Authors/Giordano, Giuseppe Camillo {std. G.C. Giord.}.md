@@ -6,7 +6,7 @@ tl2_surname: Giordano
 tl2_forenames: Giuseppe Camillo
 tl2_name_abbrev: G.C. Giord.
 tl2_dates: 1841-1901
-tl2_page_id: 33258707
+tl2_bhl_page_id: 33258707
 author_lsid: 19366-1
 wikidata_id: Q17284981
 ipni_surname: Giordano
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33258707) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19366-1), [Wikidata](https://www.wikidata.org/wiki/Q17284981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19366-1) LSID 19366-1, [Wikidata](https://www.wikidata.org/wiki/Q17284981) QID Q17284981
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

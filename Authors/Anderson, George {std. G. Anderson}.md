@@ -6,7 +6,7 @@ tl2_surname: Anderson
 tl2_forenames: George
 tl2_name_abbrev: G. Anderson
 tl2_dates: x-1817
-tl2_page_id: 33120175
+tl2_bhl_page_id: 33120175
 author_lsid: 192-1
 wikidata_id: Q21516170
 ipni_surname: Anderson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/192-1), [Wikidata](https://www.wikidata.org/wiki/Q21516170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/192-1) LSID 192-1, [Wikidata](https://www.wikidata.org/wiki/Q21516170) QID Q21516170
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

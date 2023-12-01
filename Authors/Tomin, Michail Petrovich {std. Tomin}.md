@@ -6,7 +6,7 @@ tl2_surname: Tomin
 tl2_forenames: Michail Petrovich
 tl2_name_abbrev: Tomin
 tl2_dates: 1883-1967
-tl2_page_id: 33212430
+tl2_bhl_page_id: 33212430
 author_lsid: 27815-1
 wikidata_id: Q18190888
 ipni_surname: Tomin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27815-1), [Wikidata](https://www.wikidata.org/wiki/Q18190888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27815-1) LSID 27815-1, [Wikidata](https://www.wikidata.org/wiki/Q18190888) QID Q18190888
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

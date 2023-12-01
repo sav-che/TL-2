@@ -6,7 +6,7 @@ tl2_surname: Doyle
 tl2_forenames: Conrad Bartling
 tl2_name_abbrev: Doyle
 tl2_dates: 1884-?
-tl2_page_id: 33120807
+tl2_bhl_page_id: 33120807
 author_lsid: 2298-1
 wikidata_id: Q21510879
 ipni_surname: Doyle
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33120807) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2298-1), [Wikidata](https://www.wikidata.org/wiki/Q21510879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2298-1) LSID 2298-1, [Wikidata](https://www.wikidata.org/wiki/Q21510879) QID Q21510879
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

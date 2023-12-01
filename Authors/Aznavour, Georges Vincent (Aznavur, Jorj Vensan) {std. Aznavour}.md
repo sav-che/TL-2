@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl1_0260
 tl2_volume: suppl1
 tl2_page_printed: 219
-tl2_surname: Aznavour [Aznavur]
-tl2_forenames: Georges Vincent [Jorj Vensan]
+tl2_surname: Aznavour (Aznavur)
+tl2_forenames: Georges Vincent (Jorj Vensan)
 tl2_name_abbrev: Aznavour
 tl2_dates: 1861-1920
-tl2_page_id: 33264946
+tl2_bhl_page_id: 33264946
 author_lsid: 352-1
 wikidata_id: Q5390260
 ipni_surname: Aznavour
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33264946) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/352-1), [Wikidata](https://www.wikidata.org/wiki/Q5390260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/352-1) LSID 352-1, [Wikidata](https://www.wikidata.org/wiki/Q5390260) QID Q5390260
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

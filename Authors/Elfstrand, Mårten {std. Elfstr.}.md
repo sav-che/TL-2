@@ -6,7 +6,7 @@ tl2_surname: Elfstrand
 tl2_forenames: Mårten
 tl2_name_abbrev: Elfstr.
 tl2_dates: 1859-1929
-tl2_page_id: 33260288
+tl2_bhl_page_id: 33260288
 author_lsid: 2508-1
 wikidata_id: Q5708330
 ipni_surname: Elfstrand
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33260288) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2508-1), [Wikidata](https://www.wikidata.org/wiki/Q5708330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2508-1) LSID 2508-1, [Wikidata](https://www.wikidata.org/wiki/Q5708330) QID Q5708330
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

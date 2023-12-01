@@ -6,7 +6,7 @@ tl2_surname: Ordway
 tl2_forenames: John Morse
 tl2_name_abbrev: Ordway
 tl2_dates: 1823-1909
-tl2_page_id: 33355933
+tl2_bhl_page_id: 33355933
 author_lsid: 35196-1
 wikidata_id: Q18912005
 ipni_surname: Ordway
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35196-1), [Wikidata](https://www.wikidata.org/wiki/Q18912005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35196-1) LSID 35196-1, [Wikidata](https://www.wikidata.org/wiki/Q18912005) QID Q18912005
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

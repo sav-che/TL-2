@@ -6,7 +6,7 @@ tl2_surname: Thomae
 tl2_forenames: Karl Friedrich
 tl2_name_abbrev: K. Thomae
 tl2_dates: 1863-?
-tl2_page_id: 33212311
+tl2_bhl_page_id: 33212311
 author_lsid: 10583-1
 wikidata_id: Q21610610
 ipni_surname: Thomae
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10583-1), [Wikidata](https://www.wikidata.org/wiki/Q21610610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10583-1) LSID 10583-1, [Wikidata](https://www.wikidata.org/wiki/Q21610610) QID Q21610610
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

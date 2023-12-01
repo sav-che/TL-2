@@ -6,7 +6,7 @@ tl2_surname: Piccone
 tl2_forenames: Antonio
 tl2_name_abbrev: Picc
 tl2_dates: 1844-1901
-tl2_page_id: 33189721
+tl2_bhl_page_id: 33189721
 author_lsid: 24838-1
 wikidata_id: Q21522980
 ipni_surname: Piccone
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33189721) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24838-1), [Wikidata](https://www.wikidata.org/wiki/Q21522980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24838-1) LSID 24838-1, [Wikidata](https://www.wikidata.org/wiki/Q21522980) QID Q21522980
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

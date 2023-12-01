@@ -6,7 +6,7 @@ tl2_surname: Forquignon
 tl2_forenames: Jean Baptiste Lucien
 tl2_name_abbrev: Forq.
 tl2_dates: 1847-1888
-tl2_page_id: 33259823
+tl2_bhl_page_id: 33259823
 author_lsid: 18903-1
 wikidata_id: Q36612739
 ipni_surname: Forquignon
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33259823) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18903-1), [Wikidata](https://www.wikidata.org/wiki/Q36612739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18903-1) LSID 18903-1, [Wikidata](https://www.wikidata.org/wiki/Q36612739) QID Q36612739
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

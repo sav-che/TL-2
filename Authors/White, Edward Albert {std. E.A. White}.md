@@ -6,7 +6,7 @@ tl2_surname: White
 tl2_forenames: Edward Albert
 tl2_name_abbrev: E.A. White
 tl2_dates: 1872-1943
-tl2_page_id: 33066590
+tl2_bhl_page_id: 33066590
 author_lsid: 11616-1
 wikidata_id: Q21612583
 ipni_surname: White
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11616-1), [Wikidata](https://www.wikidata.org/wiki/Q21612583). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11616-1) LSID 11616-1, [Wikidata](https://www.wikidata.org/wiki/Q21612583) QID Q21612583
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

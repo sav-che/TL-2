@@ -6,7 +6,7 @@ tl2_surname: Bartholomew
 tl2_forenames: Elam
 tl2_name_abbrev: Barth.
 tl2_dates: 1852-1934
-tl2_page_id: 33120256
+tl2_bhl_page_id: 33120256
 author_lsid: 15736-1
 wikidata_id: Q21505727
 ipni_surname: Bartholomew
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33120256) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15736-1), [Wikidata](https://www.wikidata.org/wiki/Q21505727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15736-1) LSID 15736-1, [Wikidata](https://www.wikidata.org/wiki/Q21505727) QID Q21505727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bartholomew, Elam {std. Barth.} (Suppl.)|second entry]] for this author
 

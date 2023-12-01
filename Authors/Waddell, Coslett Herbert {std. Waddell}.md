@@ -6,7 +6,7 @@ tl2_surname: Waddell
 tl2_forenames: Coslett Herbert
 tl2_name_abbrev: Waddell
 tl2_dates: 1858-1919
-tl2_page_id: 33066305
+tl2_bhl_page_id: 33066305
 author_lsid: 11288-1
 wikidata_id: Q2725684
 ipni_surname: Waddell
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:28:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11288-1), [Wikidata](https://www.wikidata.org/wiki/Q2725684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11288-1) LSID 11288-1, [Wikidata](https://www.wikidata.org/wiki/Q2725684) QID Q2725684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

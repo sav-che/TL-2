@@ -6,7 +6,7 @@ tl2_surname: Cave
 tl2_forenames: George H.
 tl2_name_abbrev: G. Cave
 tl2_dates: c. 1870-1965
-tl2_page_id: 33266780
+tl2_bhl_page_id: 33266780
 author_lsid: 1467-1
 wikidata_id: Q21508057
 ipni_surname: Cave
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33266780) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1467-1), [Wikidata](https://www.wikidata.org/wiki/Q21508057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1467-1) LSID 1467-1, [Wikidata](https://www.wikidata.org/wiki/Q21508057) QID Q21508057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

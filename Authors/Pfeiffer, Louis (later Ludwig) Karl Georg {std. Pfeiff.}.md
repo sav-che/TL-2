@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0255
 tl2_volume: vol4
 tl2_page_printed: 221
 tl2_surname: Pfeiffer
-tl2_forenames: Louis [later Ludwig] Karl Georg
+tl2_forenames: Louis (later Ludwig) Karl Georg
 tl2_name_abbrev: Pfeiff.
 tl2_dates: 1805-1877
-tl2_page_id: 33189692
+tl2_bhl_page_id: 33189692
 author_lsid: 24801-1
 wikidata_id: Q63727
 ipni_surname: Pfeiffer
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33189692) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24801-1), [Wikidata](https://www.wikidata.org/wiki/Q63727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24801-1) LSID 24801-1, [Wikidata](https://www.wikidata.org/wiki/Q63727) QID Q63727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

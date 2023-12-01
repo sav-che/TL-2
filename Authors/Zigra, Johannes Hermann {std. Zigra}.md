@@ -6,7 +6,7 @@ tl2_surname: Zigra
 tl2_forenames: Johannes Hermann
 tl2_name_abbrev: Zigra
 tl2_dates: 1775-1857
-tl2_page_id: 33066878
+tl2_bhl_page_id: 33066878
 author_lsid: 12030-1
 wikidata_id: Q21613652
 ipni_surname: Zigra
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12030-1), [Wikidata](https://www.wikidata.org/wiki/Q21613652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12030-1) LSID 12030-1, [Wikidata](https://www.wikidata.org/wiki/Q21613652) QID Q21613652
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

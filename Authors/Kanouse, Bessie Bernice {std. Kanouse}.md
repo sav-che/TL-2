@@ -6,7 +6,7 @@ tl2_surname: Kanouse
 tl2_forenames: Bessie Bernice
 tl2_name_abbrev: Kanouse
 tl2_dates: 1889-1969
-tl2_page_id: 33068738
+tl2_bhl_page_id: 33068738
 author_lsid: 4639-1
 wikidata_id: Q21517273
 ipni_surname: Kanouse
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4639-1), [Wikidata](https://www.wikidata.org/wiki/Q21517273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4639-1) LSID 4639-1, [Wikidata](https://www.wikidata.org/wiki/Q21517273) QID Q21517273
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

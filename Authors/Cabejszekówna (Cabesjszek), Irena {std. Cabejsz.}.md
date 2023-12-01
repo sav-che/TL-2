@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl3_0282
 tl2_volume: suppl3
 tl2_page_printed: 292
-tl2_surname: Cabejszekówna [Cabesjszek]
+tl2_surname: Cabejszekówna (Cabesjszek)
 tl2_forenames: Irena
 tl2_name_abbrev: Cabejsz.
 tl2_dates: 1910-1972
-tl2_page_id: 33266599
+tl2_bhl_page_id: 33266599
 author_lsid: 32613-1
 wikidata_id: Q21506789
 ipni_surname: Cabejszekówna
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/32613-1), [Wikidata](https://www.wikidata.org/wiki/Q21506789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32613-1) LSID 32613-1, [Wikidata](https://www.wikidata.org/wiki/Q21506789) QID Q21506789
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

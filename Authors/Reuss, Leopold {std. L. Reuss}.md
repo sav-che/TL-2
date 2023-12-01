@@ -6,7 +6,7 @@ tl2_surname: Reuss
 tl2_forenames: Leopold
 tl2_name_abbrev: L. Reuss
 tl2_dates: fl. 1831
-tl2_page_id: 33190213
+tl2_bhl_page_id: 33190213
 author_lsid: 8312-1
 wikidata_id: Q47125128
 ipni_surname: Reuss
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8312-1), [Wikidata](https://www.wikidata.org/wiki/Q47125128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8312-1) LSID 8312-1, [Wikidata](https://www.wikidata.org/wiki/Q47125128) QID Q47125128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

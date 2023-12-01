@@ -6,7 +6,7 @@ tl2_surname: Crookall
 tl2_forenames: Robert
 tl2_name_abbrev: Crookall
 tl2_dates: 1889/1890-?
-tl2_page_id: 33266153
+tl2_bhl_page_id: 33266153
 author_lsid: 34331-1
 wikidata_id: Q36660544
 ipni_surname: Crookall
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266153) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/34331-1), [Wikidata](https://www.wikidata.org/wiki/Q36660544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34331-1) LSID 34331-1, [Wikidata](https://www.wikidata.org/wiki/Q36660544) QID Q36660544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

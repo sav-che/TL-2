@@ -6,7 +6,7 @@ tl2_surname: Knuth
 tl2_forenames: Paul Erich Otto Wilhelm
 tl2_name_abbrev: P. Knuth
 tl2_dates: 1854-1899
-tl2_page_id: 33068826
+tl2_bhl_page_id: 33068826
 author_lsid: 4885-1
 wikidata_id: Q90095
 ipni_surname: Knuth
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33068826) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4885-1), [Wikidata](https://www.wikidata.org/wiki/Q90095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4885-1) LSID 4885-1, [Wikidata](https://www.wikidata.org/wiki/Q90095) QID Q90095
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

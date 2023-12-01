@@ -6,7 +6,7 @@ tl2_surname: Boedijn
 tl2_forenames: Karel Bernard
 tl2_name_abbrev: Boedijn
 tl2_dates: 1893-1964
-tl2_page_id: 33265443
+tl2_bhl_page_id: 33265443
 author_lsid: 16256-1
 wikidata_id: Q4098011
 ipni_surname: Boedijn
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33265443) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16256-1), [Wikidata](https://www.wikidata.org/wiki/Q4098011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16256-1) LSID 16256-1, [Wikidata](https://www.wikidata.org/wiki/Q4098011) QID Q4098011
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boedijn, Karel Bernard {std. Boedijn}|first entry]] for this author
 

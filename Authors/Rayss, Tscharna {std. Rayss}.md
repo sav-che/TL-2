@@ -6,7 +6,7 @@ tl2_surname: Rayss
 tl2_forenames: Tscharna
 tl2_name_abbrev: Rayss
 tl2_dates: 1890-1965
-tl2_page_id: 33190081
+tl2_bhl_page_id: 33190081
 author_lsid: 8197-1
 wikidata_id: Q18224792
 ipni_surname: Rayss
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:37:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8197-1), [Wikidata](https://www.wikidata.org/wiki/Q18224792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8197-1) LSID 8197-1, [Wikidata](https://www.wikidata.org/wiki/Q18224792) QID Q18224792
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

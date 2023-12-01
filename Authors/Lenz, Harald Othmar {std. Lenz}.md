@@ -6,7 +6,7 @@ tl2_surname: Lenz
 tl2_forenames: Harald Othmar
 tl2_name_abbrev: Lenz
 tl2_dates: 1798-1870
-tl2_page_id: 33069086
+tl2_bhl_page_id: 33069086
 author_lsid: 22236-1
 wikidata_id: Q4258659
 ipni_surname: Lenz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33069086) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22236-1), [Wikidata](https://www.wikidata.org/wiki/Q4258659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22236-1) LSID 22236-1, [Wikidata](https://www.wikidata.org/wiki/Q4258659) QID Q4258659
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

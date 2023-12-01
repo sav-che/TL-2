@@ -6,7 +6,7 @@ tl2_surname: Amberg
 tl2_forenames: Otto
 tl2_name_abbrev: O. Amberg
 tl2_dates: 1875-1920
-tl2_page_id: 33264823
+tl2_bhl_page_id: 33264823
 author_lsid: 32245-1
 wikidata_id: Q15301793
 ipni_surname: Amberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33264823) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/32245-1), [Wikidata](https://www.wikidata.org/wiki/Q15301793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32245-1) LSID 32245-1, [Wikidata](https://www.wikidata.org/wiki/Q15301793) QID Q15301793
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

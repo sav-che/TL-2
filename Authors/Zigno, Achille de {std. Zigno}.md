@@ -6,7 +6,7 @@ tl2_surname: Zigno
 tl2_forenames: Achille de
 tl2_name_abbrev: Zigno
 tl2_dates: 1813-1892
-tl2_page_id: 33066877
+tl2_bhl_page_id: 33066877
 author_lsid: 12029-1
 wikidata_id: Q3604361
 ipni_surname: Zigno
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33066877) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12029-1), [Wikidata](https://www.wikidata.org/wiki/Q3604361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12029-1) LSID 12029-1, [Wikidata](https://www.wikidata.org/wiki/Q3604361) QID Q3604361
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

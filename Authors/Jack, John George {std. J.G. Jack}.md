@@ -6,7 +6,7 @@ tl2_surname: Jack
 tl2_forenames: John George
 tl2_name_abbrev: J.G. Jack
 tl2_dates: 1861-1949
-tl2_page_id: 33068637
+tl2_bhl_page_id: 33068637
 author_lsid: 4357-1
 wikidata_id: Q19874593
 ipni_surname: Jack
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33068637) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4357-1), [Wikidata](https://www.wikidata.org/wiki/Q19874593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4357-1) LSID 4357-1, [Wikidata](https://www.wikidata.org/wiki/Q19874593) QID Q19874593
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

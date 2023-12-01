@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0767
 tl2_volume: vol2
 tl2_page_printed: 660
 tl2_surname: Kraepelin
-tl2_forenames: Karl (earlier publ. Carl) [Mathias Friedrich]
+tl2_forenames: Karl (earlier publ. Carl) (Mathias Friedrich)
 tl2_name_abbrev: Kraep.
 tl2_dates: 1848-1915
-tl2_page_id: 33068902
+tl2_bhl_page_id: 33068902
 author_lsid: 12631-1
 wikidata_id: Q68239
 ipni_surname: Kraepelin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12631-1), [Wikidata](https://www.wikidata.org/wiki/Q68239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12631-1) LSID 12631-1, [Wikidata](https://www.wikidata.org/wiki/Q68239) QID Q68239
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

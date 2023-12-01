@@ -6,7 +6,7 @@ tl2_surname: Poneropoulos
 tl2_forenames: Eustathios
 tl2_name_abbrev: Ponerop.
 tl2_dates: fl. 1880
-tl2_page_id: 33189806
+tl2_bhl_page_id: 33189806
 author_lsid: 7827-1
 wikidata_id: Q36548872
 ipni_surname: Poneropoulos
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7827-1), [Wikidata](https://www.wikidata.org/wiki/Q36548872). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7827-1) LSID 7827-1, [Wikidata](https://www.wikidata.org/wiki/Q36548872) QID Q36548872
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

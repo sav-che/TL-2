@@ -6,7 +6,7 @@ tl2_surname: Croasdale
 tl2_forenames: Hannah Thompson
 tl2_name_abbrev: Croasdale
 tl2_dates: 1905-x
-tl2_page_id: 33266147
+tl2_bhl_page_id: 33266147
 author_lsid: 32833-1
 wikidata_id: Q21509526
 ipni_surname: Croasdale
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33266147) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32833-1), [Wikidata](https://www.wikidata.org/wiki/Q21509526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32833-1) LSID 32833-1, [Wikidata](https://www.wikidata.org/wiki/Q21509526) QID Q21509526
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

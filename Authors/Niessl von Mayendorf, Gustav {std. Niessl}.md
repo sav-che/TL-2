@@ -6,7 +6,7 @@ tl2_surname: Niessl von Mayendorf
 tl2_forenames: Gustav
 tl2_name_abbrev: Niessl
 tl2_dates: 1839-1919
-tl2_page_id: 33355839
+tl2_bhl_page_id: 33355839
 author_lsid: 24075-1
 wikidata_id: Q87937
 ipni_surname: Niessl von Mayendorf
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33355839) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24075-1), [Wikidata](https://www.wikidata.org/wiki/Q87937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24075-1) LSID 24075-1, [Wikidata](https://www.wikidata.org/wiki/Q87937) QID Q87937
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

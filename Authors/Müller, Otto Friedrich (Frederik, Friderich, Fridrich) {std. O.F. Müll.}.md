@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0753
 tl2_volume: vol3
 tl2_page_printed: 650
 tl2_surname: Müller
-tl2_forenames: Otto Friedrich [Frederik, Friderich, Fridrich]
+tl2_forenames: Otto Friedrich (Frederik, Friderich, Fridrich)
 tl2_name_abbrev: O.F. Müll.
 tl2_dates: 1730-1784
-tl2_page_id: 33355737
+tl2_bhl_page_id: 33355737
 author_lsid: 12700-1
 wikidata_id: Q461381
 ipni_surname: Müller
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33355737) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12700-1), [Wikidata](https://www.wikidata.org/wiki/Q461381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12700-1) LSID 12700-1, [Wikidata](https://www.wikidata.org/wiki/Q461381) QID Q461381
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Zetterstedt
 tl2_forenames: Johan Wilhelm
 tl2_name_abbrev: J.W. Zetterst.
 tl2_dates: 1785-1874
-tl2_page_id: 33066873
+tl2_bhl_page_id: 33066873
 author_lsid: 12019-1
 wikidata_id: Q1342359
 ipni_surname: Zetterstedt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33066873) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12019-1), [Wikidata](https://www.wikidata.org/wiki/Q1342359). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12019-1) LSID 12019-1, [Wikidata](https://www.wikidata.org/wiki/Q1342359) QID Q1342359
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

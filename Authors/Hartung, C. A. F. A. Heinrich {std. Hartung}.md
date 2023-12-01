@@ -6,7 +6,7 @@ tl2_surname: Hartung
 tl2_forenames: C. A. F. A. Heinrich
 tl2_name_abbrev: Hartung
 tl2_dates: fl. 1812
-tl2_page_id: 33068311
+tl2_bhl_page_id: 33068311
 author_lsid: 3699-1
 wikidata_id: Q33675353
 ipni_surname: Hartung
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3699-1), [Wikidata](https://www.wikidata.org/wiki/Q33675353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3699-1) LSID 3699-1, [Wikidata](https://www.wikidata.org/wiki/Q33675353) QID Q33675353
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

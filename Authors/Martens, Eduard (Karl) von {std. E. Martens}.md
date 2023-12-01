@@ -6,7 +6,7 @@ tl2_surname: Martens
 tl2_forenames: Eduard (Karl) von
 tl2_name_abbrev: E. Martens
 tl2_dates: 1831-1904
-tl2_page_id: 33355401
+tl2_bhl_page_id: 33355401
 author_lsid: 6148-1
 wikidata_id: Q69554
 ipni_surname: Martens
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33355401) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6148-1), [Wikidata](https://www.wikidata.org/wiki/Q69554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6148-1) LSID 6148-1, [Wikidata](https://www.wikidata.org/wiki/Q69554) QID Q69554
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

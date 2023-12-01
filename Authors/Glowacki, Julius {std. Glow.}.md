@@ -6,7 +6,7 @@ tl2_surname: Glowacki
 tl2_forenames: Julius
 tl2_name_abbrev: Glow.
 tl2_dates: 1846-1915
-tl2_page_id: 33121084
+tl2_bhl_page_id: 33121084
 author_lsid: 3199-1
 wikidata_id: Q12793064
 ipni_surname: Głowacki
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:38:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3199-1), [Wikidata](https://www.wikidata.org/wiki/Q12793064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3199-1) LSID 3199-1, [Wikidata](https://www.wikidata.org/wiki/Q12793064) QID Q12793064
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Głowacki, Julius (Julij) {std. Glow.} (Suppl.)|second entry]] for this author
 

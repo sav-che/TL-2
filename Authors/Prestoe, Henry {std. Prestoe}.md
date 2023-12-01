@@ -6,7 +6,7 @@ tl2_surname: Prestoe
 tl2_forenames: Henry
 tl2_name_abbrev: Prestoe
 tl2_dates: 1842-1923
-tl2_page_id: 33189866
+tl2_bhl_page_id: 33189866
 author_lsid: 7948-1
 wikidata_id: Q17996423
 ipni_surname: Prestoe
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33189866) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7948-1), [Wikidata](https://www.wikidata.org/wiki/Q17996423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7948-1) LSID 7948-1, [Wikidata](https://www.wikidata.org/wiki/Q17996423) QID Q17996423
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

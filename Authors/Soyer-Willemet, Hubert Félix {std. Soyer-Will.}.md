@@ -6,7 +6,7 @@ tl2_surname: Soyer-Willemet
 tl2_forenames: Hubert Félix
 tl2_name_abbrev: Soyer-Will.
 tl2_dates: 1791-1867
-tl2_page_id: 33333904
+tl2_bhl_page_id: 33333904
 author_lsid: 9938-1
 wikidata_id: Q1291448
 ipni_surname: Soyer-Willemet
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33333904) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9938-1), [Wikidata](https://www.wikidata.org/wiki/Q1291448). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9938-1) LSID 9938-1, [Wikidata](https://www.wikidata.org/wiki/Q1291448) QID Q1291448
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

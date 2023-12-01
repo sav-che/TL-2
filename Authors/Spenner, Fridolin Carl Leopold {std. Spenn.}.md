@@ -6,7 +6,7 @@ tl2_surname: Spenner
 tl2_forenames: Fridolin Carl Leopold
 tl2_name_abbrev: Spenn.
 tl2_dates: 1798-1841
-tl2_page_id: 33333925
+tl2_bhl_page_id: 33333925
 author_lsid: 9960-1
 wikidata_id: Q101024
 ipni_surname: Spenner
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33333925) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9960-1), [Wikidata](https://www.wikidata.org/wiki/Q101024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9960-1) LSID 9960-1, [Wikidata](https://www.wikidata.org/wiki/Q101024) QID Q101024
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

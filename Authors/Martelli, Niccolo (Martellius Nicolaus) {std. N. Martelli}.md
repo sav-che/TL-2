@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0366
 tl2_volume: vol3
 tl2_page_printed: 313
 tl2_surname: Martelli
-tl2_forenames: Niccolo [Martellius Nicolaus]
+tl2_forenames: Niccolo (Martellius Nicolaus)
 tl2_name_abbrev: N. Martelli
 tl2_dates: x-1829
-tl2_page_id: 33355400
+tl2_bhl_page_id: 33355400
 author_lsid: 6146-1
 wikidata_id: Q21520000
 ipni_surname: Martelli
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33355400) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6146-1), [Wikidata](https://www.wikidata.org/wiki/Q21520000). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6146-1) LSID 6146-1, [Wikidata](https://www.wikidata.org/wiki/Q21520000) QID Q21520000
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

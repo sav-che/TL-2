@@ -6,7 +6,7 @@ tl2_surname: Holden
 tl2_forenames: Isaac
 tl2_name_abbrev: Holden
 tl2_dates: 1832-1903
-tl2_page_id: 33068496
+tl2_bhl_page_id: 33068496
 author_lsid: 4036-1
 wikidata_id: Q21515952
 ipni_surname: Holden
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33068496) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4036-1), [Wikidata](https://www.wikidata.org/wiki/Q21515952). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4036-1) LSID 4036-1, [Wikidata](https://www.wikidata.org/wiki/Q21515952) QID Q21515952
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

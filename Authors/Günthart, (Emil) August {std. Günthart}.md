@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0317
 tl2_volume: suppl8
 tl2_page_printed: 436
 tl2_surname: Günthart
-tl2_forenames: [Emil] August
+tl2_forenames: (Emil) August
 tl2_name_abbrev: Günthart
 tl2_dates: 1879-1957
-tl2_page_id: 33258914
+tl2_bhl_page_id: 33258914
 author_lsid: 20023865-1
 wikidata_id: Q21514397
 ipni_surname: Günthart
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33258914) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20023865-1), [Wikidata](https://www.wikidata.org/wiki/Q21514397). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20023865-1) LSID 20023865-1, [Wikidata](https://www.wikidata.org/wiki/Q21514397) QID Q21514397
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

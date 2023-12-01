@@ -6,7 +6,7 @@ tl2_surname: Pluszczewski
 tl2_forenames: Emile
 tl2_name_abbrev: Plusz.
 tl2_dates: 1855-?
-tl2_page_id: 33189775
+tl2_bhl_page_id: 33189775
 author_lsid: 7768-1
 wikidata_id: Q21523056
 ipni_surname: Pluszczewski
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7768-1), [Wikidata](https://www.wikidata.org/wiki/Q21523056). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7768-1) LSID 7768-1, [Wikidata](https://www.wikidata.org/wiki/Q21523056) QID Q21523056
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

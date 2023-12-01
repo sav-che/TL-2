@@ -6,7 +6,7 @@ tl2_surname: Alberti
 tl2_forenames: Antonio
 tl2_name_abbrev: 
 tl2_dates: 1785-1861
-tl2_page_id: 33264787
+tl2_bhl_page_id: 33264787
 author_lsid: 12322-1
 wikidata_id: Q21505023
 ipni_surname: Alberti
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33264787) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/12322-1), [Wikidata](https://www.wikidata.org/wiki/Q21505023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12322-1) LSID 12322-1, [Wikidata](https://www.wikidata.org/wiki/Q21505023) QID Q21505023
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Alberti, Antonio {std. Ant. Alberti}|first entry]] for this author
 

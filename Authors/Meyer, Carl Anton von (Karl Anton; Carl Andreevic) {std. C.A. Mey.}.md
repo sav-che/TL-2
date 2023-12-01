@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0534
 tl2_volume: vol3
 tl2_page_printed: 440
 tl2_surname: Meyer
-tl2_forenames: Carl Anton von [Karl Anton; Carl Andreevic]
+tl2_forenames: Carl Anton von (Karl Anton; Carl Andreevic)
 tl2_name_abbrev: C.A. Mey.
 tl2_dates: 1795-1855
-tl2_page_id: 33355527
+tl2_bhl_page_id: 33355527
 author_lsid: 6411-1
 wikidata_id: Q728729
 ipni_surname: Meyer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6411-1), [Wikidata](https://www.wikidata.org/wiki/Q728729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6411-1) LSID 6411-1, [Wikidata](https://www.wikidata.org/wiki/Q728729) QID Q728729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

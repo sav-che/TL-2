@@ -6,7 +6,7 @@ tl2_surname: Kidston
 tl2_forenames: Robert
 tl2_name_abbrev: Kidst.
 tl2_dates: 1852-1924
-tl2_page_id: 33068778
+tl2_bhl_page_id: 33068778
 author_lsid: 4770-1
 wikidata_id: Q1507909
 ipni_surname: Kidston
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33068778) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4770-1), [Wikidata](https://www.wikidata.org/wiki/Q1507909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4770-1) LSID 4770-1, [Wikidata](https://www.wikidata.org/wiki/Q1507909) QID Q1507909
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

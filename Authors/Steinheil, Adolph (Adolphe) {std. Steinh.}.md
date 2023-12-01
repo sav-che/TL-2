@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0881
 tl2_volume: vol5
 tl2_page_printed: 877
 tl2_surname: Steinheil
-tl2_forenames: Adolph [Adolphe]
+tl2_forenames: Adolph (Adolphe)
 tl2_name_abbrev: Steinh.
 tl2_dates: 1810-1839
-tl2_page_id: 33334016
+tl2_bhl_page_id: 33334016
 author_lsid: 10083-1
 wikidata_id: Q5684715
 ipni_surname: Steinheil
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33334016) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10083-1), [Wikidata](https://www.wikidata.org/wiki/Q5684715). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10083-1) LSID 10083-1, [Wikidata](https://www.wikidata.org/wiki/Q5684715) QID Q5684715
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

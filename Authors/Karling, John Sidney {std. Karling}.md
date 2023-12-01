@@ -6,7 +6,7 @@ tl2_surname: Karling
 tl2_forenames: John Sidney
 tl2_name_abbrev: Karling
 tl2_dates: 1898-x
-tl2_page_id: 33068740
+tl2_bhl_page_id: 33068740
 author_lsid: 4651-1
 wikidata_id: Q4215243
 ipni_surname: Karling
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33068740) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4651-1), [Wikidata](https://www.wikidata.org/wiki/Q4215243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4651-1) LSID 4651-1, [Wikidata](https://www.wikidata.org/wiki/Q4215243) QID Q4215243
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

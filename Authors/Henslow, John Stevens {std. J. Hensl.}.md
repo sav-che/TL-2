@@ -6,7 +6,7 @@ tl2_surname: Henslow
 tl2_forenames: John Stevens
 tl2_name_abbrev: J. Hensl.
 tl2_dates: 1796-1861
-tl2_page_id: 33068405
+tl2_bhl_page_id: 33068405
 author_lsid: 3859-1
 wikidata_id: Q703925
 ipni_surname: Henslow
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33068405) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3859-1), [Wikidata](https://www.wikidata.org/wiki/Q703925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3859-1) LSID 3859-1, [Wikidata](https://www.wikidata.org/wiki/Q703925) QID Q703925
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

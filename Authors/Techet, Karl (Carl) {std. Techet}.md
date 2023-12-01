@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0232
 tl2_volume: vol6
 tl2_page_printed: 198
 tl2_surname: Techet
-tl2_forenames: Karl [Carl]
+tl2_forenames: Karl (Carl)
 tl2_name_abbrev: Techet
 tl2_dates: 1877-1919
-tl2_page_id: 33212240
+tl2_bhl_page_id: 33212240
 author_lsid: 10479-1
 wikidata_id: Q112833
 ipni_surname: Techet
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33212240) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10479-1), [Wikidata](https://www.wikidata.org/wiki/Q112833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10479-1) LSID 10479-1, [Wikidata](https://www.wikidata.org/wiki/Q112833) QID Q112833
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

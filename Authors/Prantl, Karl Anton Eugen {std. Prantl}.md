@@ -6,7 +6,7 @@ tl2_surname: Prantl
 tl2_forenames: Karl Anton Eugen
 tl2_name_abbrev: Prantl
 tl2_dates: 1849-1893
-tl2_page_id: 33189850
+tl2_bhl_page_id: 33189850
 author_lsid: 25054-1
 wikidata_id: Q64995
 ipni_surname: Prantl
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:45:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33189850) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25054-1), [Wikidata](https://www.wikidata.org/wiki/Q64995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25054-1) LSID 25054-1, [Wikidata](https://www.wikidata.org/wiki/Q64995) QID Q64995
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

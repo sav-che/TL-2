@@ -6,7 +6,7 @@ tl2_surname: Roper
 tl2_forenames: Freeman Clarke Samuel
 tl2_name_abbrev: Roper
 tl2_dates: 1819-1896
-tl2_page_id: 33190350
+tl2_bhl_page_id: 33190350
 author_lsid: 8577-1
 wikidata_id: Q21607396
 ipni_surname: Roper
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33190350) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8577-1), [Wikidata](https://www.wikidata.org/wiki/Q21607396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8577-1) LSID 8577-1, [Wikidata](https://www.wikidata.org/wiki/Q21607396) QID Q21607396
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

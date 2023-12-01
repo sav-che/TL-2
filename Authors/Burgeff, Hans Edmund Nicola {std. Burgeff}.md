@@ -6,7 +6,7 @@ tl2_surname: Burgeff
 tl2_forenames: Hans Edmund Nicola
 tl2_name_abbrev: Burgeff
 tl2_dates: 1883-x
-tl2_page_id: 33120542
+tl2_bhl_page_id: 33120542
 author_lsid: 16723-1
 wikidata_id: Q86620
 ipni_surname: Burgeff
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33120542) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16723-1), [Wikidata](https://www.wikidata.org/wiki/Q86620). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16723-1) LSID 16723-1, [Wikidata](https://www.wikidata.org/wiki/Q86620) QID Q86620
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Burgeff, Hans (Edmund Nicola) {std. Burgeff} (Suppl.)|second entry]] for this author
 

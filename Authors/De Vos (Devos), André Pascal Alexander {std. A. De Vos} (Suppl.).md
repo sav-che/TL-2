@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl5_0287
 tl2_volume: suppl5
 tl2_page_printed: 251
-tl2_surname: De Vos [Devos]
+tl2_surname: De Vos (Devos)
 tl2_forenames: André Pascal Alexander
 tl2_name_abbrev: A. De Vos
 tl2_dates: 1834-?
-tl2_page_id: 33259297
+tl2_bhl_page_id: 33259297
 author_lsid: 12979-1
 wikidata_id: Q2848400
 ipni_surname: de Vos
@@ -23,7 +23,7 @@ ipni_record_modified: 2013-05-15 11:34:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Vos, André (Pascal Alexandre) de (De Vos) {std. De Vos}|first entry]] for this author
 

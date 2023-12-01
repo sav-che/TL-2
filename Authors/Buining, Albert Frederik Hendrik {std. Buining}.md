@@ -6,7 +6,7 @@ tl2_surname: Buining
 tl2_forenames: Albert Frederik Hendrik
 tl2_name_abbrev: Buining
 tl2_dates: 1901-1976
-tl2_page_id: 33266523
+tl2_bhl_page_id: 33266523
 author_lsid: 1274-1
 wikidata_id: Q241018
 ipni_surname: Buining
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33266523) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1274-1), [Wikidata](https://www.wikidata.org/wiki/Q241018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1274-1) LSID 1274-1, [Wikidata](https://www.wikidata.org/wiki/Q241018) QID Q241018
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

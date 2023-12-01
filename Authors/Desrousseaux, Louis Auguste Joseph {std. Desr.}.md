@@ -6,7 +6,7 @@ tl2_surname: Desrousseaux
 tl2_forenames: Louis Auguste Joseph
 tl2_name_abbrev: Desr.
 tl2_dates: 1753-1838
-tl2_page_id: 33259278
+tl2_bhl_page_id: 33259278
 author_lsid: 12404-1
 wikidata_id: Q3184192
 ipni_surname: Desrousseaux
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33259278) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/12404-1), [Wikidata](https://www.wikidata.org/wiki/Q3184192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12404-1) LSID 12404-1, [Wikidata](https://www.wikidata.org/wiki/Q3184192) QID Q3184192
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Alefeld
 tl2_forenames: Friedrich Georg Christoph
 tl2_name_abbrev: Alef.
 tl2_dates: 1820-1872
-tl2_page_id: 33120160
+tl2_bhl_page_id: 33120160
 author_lsid: 129-1
 wikidata_id: Q62876
 ipni_surname: Alefeld
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33120160) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/129-1), [Wikidata](https://www.wikidata.org/wiki/Q62876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/129-1) LSID 129-1, [Wikidata](https://www.wikidata.org/wiki/Q62876) QID Q62876
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Alefeld, Friedrich (Georg Christoph) {std. Alef.} (Suppl.)|second entry]] for this author
 

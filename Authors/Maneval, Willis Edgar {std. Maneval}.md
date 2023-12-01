@@ -6,7 +6,7 @@ tl2_surname: Maneval
 tl2_forenames: Willis Edgar
 tl2_name_abbrev: Maneval
 tl2_dates: 1877-1956
-tl2_page_id: 33355361
+tl2_bhl_page_id: 33355361
 author_lsid: 22841-1
 wikidata_id: Q21519887
 ipni_surname: Maneval
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22841-1), [Wikidata](https://www.wikidata.org/wiki/Q21519887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22841-1) LSID 22841-1, [Wikidata](https://www.wikidata.org/wiki/Q21519887) QID Q21519887
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Darby
 tl2_forenames: John
 tl2_name_abbrev: Darby
 tl2_dates: 1804-1877
-tl2_page_id: 33120729
+tl2_bhl_page_id: 33120729
 author_lsid: 1995-1
 wikidata_id: Q15954494
 ipni_surname: Darby
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33120729) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1995-1), [Wikidata](https://www.wikidata.org/wiki/Q15954494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1995-1) LSID 1995-1, [Wikidata](https://www.wikidata.org/wiki/Q15954494) QID Q15954494
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

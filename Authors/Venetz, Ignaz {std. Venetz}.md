@@ -6,7 +6,7 @@ tl2_surname: Venetz
 tl2_forenames: Ignaz
 tl2_name_abbrev: Venetz
 tl2_dates: 1788-1859
-tl2_page_id: 33212741
+tl2_bhl_page_id: 33212741
 author_lsid: 11125-1
 wikidata_id: Q115896
 ipni_surname: Venetz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33212741) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11125-1), [Wikidata](https://www.wikidata.org/wiki/Q115896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11125-1) LSID 11125-1, [Wikidata](https://www.wikidata.org/wiki/Q115896) QID Q115896
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Morris
 tl2_forenames: Edward Lyman
 tl2_name_abbrev: E. Morris
 tl2_dates: 1870-1913
-tl2_page_id: 33355681
+tl2_bhl_page_id: 33355681
 author_lsid: 6673-1
 wikidata_id: Q5820007
 ipni_surname: Morris
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6673-1), [Wikidata](https://www.wikidata.org/wiki/Q5820007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6673-1) LSID 6673-1, [Wikidata](https://www.wikidata.org/wiki/Q5820007) QID Q5820007
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

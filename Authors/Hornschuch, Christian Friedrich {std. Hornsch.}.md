@@ -6,7 +6,7 @@ tl2_surname: Hornschuch
 tl2_forenames: Christian Friedrich
 tl2_name_abbrev: Hornsch.
 tl2_dates: 1793-1850
-tl2_page_id: 33068576
+tl2_bhl_page_id: 33068576
 author_lsid: 4112-1
 wikidata_id: Q69662
 ipni_surname: Hornschuch
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:35:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33068576) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4112-1), [Wikidata](https://www.wikidata.org/wiki/Q69662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4112-1) LSID 4112-1, [Wikidata](https://www.wikidata.org/wiki/Q69662) QID Q69662
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

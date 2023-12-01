@@ -6,7 +6,7 @@ tl2_surname: Biasoletto
 tl2_forenames: Bartolommeo
 tl2_name_abbrev: Biasol.
 tl2_dates: 1793-1858
-tl2_page_id: 33120342
+tl2_bhl_page_id: 33120342
 author_lsid: 766-1
 wikidata_id: Q658494
 ipni_surname: Biasoletto
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33120342) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/766-1), [Wikidata](https://www.wikidata.org/wiki/Q658494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/766-1) LSID 766-1, [Wikidata](https://www.wikidata.org/wiki/Q658494) QID Q658494
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Biasoletto, Bartolomeo (Amadeo) {std. Biasol.} (Suppl.)|second entry]] for this author
 

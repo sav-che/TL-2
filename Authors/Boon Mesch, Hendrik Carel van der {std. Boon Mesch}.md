@@ -6,7 +6,7 @@ tl2_surname: Boon Mesch
 tl2_forenames: Hendrik Carel van der
 tl2_name_abbrev: Boon Mesch
 tl2_dates: 1795-1831
-tl2_page_id: 33265522
+tl2_bhl_page_id: 33265522
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265522) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

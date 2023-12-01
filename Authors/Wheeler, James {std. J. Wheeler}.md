@@ -6,7 +6,7 @@ tl2_surname: Wheeler
 tl2_forenames: James
 tl2_name_abbrev: J. Wheeler
 tl2_dates: fl. 1763
-tl2_page_id: 33066578
+tl2_bhl_page_id: 33066578
 author_lsid: 11603-1
 wikidata_id: Q33698800
 ipni_surname: Wheeler
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33066578) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11603-1), [Wikidata](https://www.wikidata.org/wiki/Q33698800). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11603-1) LSID 11603-1, [Wikidata](https://www.wikidata.org/wiki/Q33698800) QID Q33698800
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Perrot
 tl2_forenames: Émile Constant
 tl2_name_abbrev: Perrot
 tl2_dates: 1867-1951
-tl2_page_id: 33189645
+tl2_bhl_page_id: 33189645
 author_lsid: 7540-1
 wikidata_id: Q21522846
 ipni_surname: Perrot
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33189645) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7540-1), [Wikidata](https://www.wikidata.org/wiki/Q21522846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7540-1) LSID 7540-1, [Wikidata](https://www.wikidata.org/wiki/Q21522846) QID Q21522846
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

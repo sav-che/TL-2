@@ -6,7 +6,7 @@ tl2_surname: Brügger
 tl2_forenames: Christian Georg
 tl2_name_abbrev: Brügger
 tl2_dates: 1833-1899
-tl2_page_id: 33266459
+tl2_bhl_page_id: 33266459
 author_lsid: 12364-1
 wikidata_id: Q5767436
 ipni_surname: Brügger
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33266459) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/12364-1), [Wikidata](https://www.wikidata.org/wiki/Q5767436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12364-1) LSID 12364-1, [Wikidata](https://www.wikidata.org/wiki/Q5767436) QID Q5767436
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

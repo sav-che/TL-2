@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0625
 tl2_volume: vol2
 tl2_page_printed: 530
 tl2_surname: Kerner
-tl2_forenames: Johann Simon [von]
+tl2_forenames: Johann Simon (von)
 tl2_name_abbrev: J. Kern.
 tl2_dates: 1755-1830
-tl2_page_id: 33068772
+tl2_bhl_page_id: 33068772
 author_lsid: 4742-1
 wikidata_id: Q283001
 ipni_surname: Kerner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33068772) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4742-1), [Wikidata](https://www.wikidata.org/wiki/Q283001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4742-1) LSID 4742-1, [Wikidata](https://www.wikidata.org/wiki/Q283001) QID Q283001
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

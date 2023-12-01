@@ -6,7 +6,7 @@ tl2_surname: Funke
 tl2_forenames: George Lodewijk
 tl2_name_abbrev: Funke
 tl2_dates: 1896-1946
-tl2_page_id: 33258557
+tl2_bhl_page_id: 33258557
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33258557) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Eisenach
 tl2_forenames: Paul Heinrich Otto
 tl2_name_abbrev: Eisenach
 tl2_dates: 1847-1917
-tl2_page_id: 33120869
+tl2_bhl_page_id: 33120869
 author_lsid: 2494-1
 wikidata_id: Q5644009
 ipni_surname: Eisenach
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33120869) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2494-1), [Wikidata](https://www.wikidata.org/wiki/Q5644009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2494-1) LSID 2494-1, [Wikidata](https://www.wikidata.org/wiki/Q5644009) QID Q5644009
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Eisenach, Paul Heinrich Otto {std. Eisenach} (Suppl.)|second entry]] for this author
 

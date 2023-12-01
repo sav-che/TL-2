@@ -6,7 +6,7 @@ tl2_surname: Post
 tl2_forenames: Ernst Jacob Lennart von
 tl2_name_abbrev: L. Post
 tl2_dates: 1884-1951
-tl2_page_id: 33189821
+tl2_bhl_page_id: 33189821
 author_lsid: 7877-1
 wikidata_id: Q582183
 ipni_surname: Post
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33189821) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7877-1), [Wikidata](https://www.wikidata.org/wiki/Q582183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7877-1) LSID 7877-1, [Wikidata](https://www.wikidata.org/wiki/Q582183) QID Q582183
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

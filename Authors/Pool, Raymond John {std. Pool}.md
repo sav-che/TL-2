@@ -6,7 +6,7 @@ tl2_surname: Pool
 tl2_forenames: Raymond John
 tl2_name_abbrev: Pool
 tl2_dates: 1882-1967
-tl2_page_id: 33189807
+tl2_bhl_page_id: 33189807
 author_lsid: 7837-1
 wikidata_id: Q21523100
 ipni_surname: Pool
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33189807) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7837-1), [Wikidata](https://www.wikidata.org/wiki/Q21523100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7837-1) LSID 7837-1, [Wikidata](https://www.wikidata.org/wiki/Q21523100) QID Q21523100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

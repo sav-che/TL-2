@@ -6,7 +6,7 @@ tl2_surname: Gain
 tl2_forenames: Louis
 tl2_name_abbrev: Gain
 tl2_dates: 1883-1963
-tl2_page_id: 33258582
+tl2_bhl_page_id: 33258582
 author_lsid: 29243-1
 wikidata_id: Q36612925
 ipni_surname: Gain
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33258582) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/29243-1), [Wikidata](https://www.wikidata.org/wiki/Q36612925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29243-1) LSID 29243-1, [Wikidata](https://www.wikidata.org/wiki/Q36612925) QID Q36612925
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

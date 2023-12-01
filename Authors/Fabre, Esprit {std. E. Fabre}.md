@@ -6,7 +6,7 @@ tl2_surname: Fabre
 tl2_forenames: Esprit
 tl2_name_abbrev: E. Fabre
 tl2_dates: 1791-1866
-tl2_page_id: 33259507
+tl2_bhl_page_id: 33259507
 author_lsid: 2611-1
 wikidata_id: Q47117000
 ipni_surname: Fabre
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2611-1), [Wikidata](https://www.wikidata.org/wiki/Q47117000). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2611-1) LSID 2611-1, [Wikidata](https://www.wikidata.org/wiki/Q47117000) QID Q47117000
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

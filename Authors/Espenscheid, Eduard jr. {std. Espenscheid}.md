@@ -6,7 +6,7 @@ tl2_surname: Espenscheid
 tl2_forenames: Eduard jr.
 tl2_name_abbrev: Espenscheid
 tl2_dates: fl. 1902
-tl2_page_id: 33260400
+tl2_bhl_page_id: 33260400
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33260400) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

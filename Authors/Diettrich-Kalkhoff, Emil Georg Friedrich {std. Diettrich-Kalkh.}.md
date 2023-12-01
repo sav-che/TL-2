@@ -6,27 +6,31 @@ tl2_surname: Diettrich-Kalkhoff
 tl2_forenames: Emil Georg Friedrich
 tl2_name_abbrev: Diettrich-Kalkh.
 tl2_dates: 1873-1920
-tl2_page_id: 33259382
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33259382
+author_lsid: 20018505-2
+wikidata_id: Q36544601
+ipni_surname: Diettrich-Kalkhoff
+ipni_forenames: Emil Georg Friedrich
+ipni_standard_form: Diettr.-Kalkh.
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+- Austria
+ipni_version: 1.1.2.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33259382) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20018505-2) LSID 20018505-2, [Wikidata](https://www.wikidata.org/wiki/Q36544601) QID Q36544601
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Diettrich-Kalkhoff, Emil Georg Friedrich (1873-1920), Austrian botanist, born at Prague 18 Mai 1873, after 1897 living in Arco. 
-**Abbreviated name**: *Diettrich-Kalkh.*
+**Abbreviated name**: *Diettrich-Kalkh.* \[standard form in IPNI: *Diettr.-Kalkh.*\]
 
 #### Herbarium and types
 

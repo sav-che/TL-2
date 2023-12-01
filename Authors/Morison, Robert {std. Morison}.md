@@ -6,7 +6,7 @@ tl2_surname: Morison
 tl2_forenames: Robert
 tl2_name_abbrev: Morison
 tl2_dates: 1620-1683
-tl2_page_id: 33355674
+tl2_bhl_page_id: 33355674
 author_lsid: 6659-1
 wikidata_id: Q281661
 ipni_surname: Morison
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33355674) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6659-1), [Wikidata](https://www.wikidata.org/wiki/Q281661). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6659-1) LSID 6659-1, [Wikidata](https://www.wikidata.org/wiki/Q281661) QID Q281661
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

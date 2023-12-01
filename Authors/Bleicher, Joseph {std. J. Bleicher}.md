@@ -6,7 +6,7 @@ tl2_surname: Bleicher
 tl2_forenames: Joseph
 tl2_name_abbrev: J. Bleicher
 tl2_dates: fl. 1899
-tl2_page_id: 33120364
+tl2_bhl_page_id: 33120364
 author_lsid: 855-1
 wikidata_id: Q36587061
 ipni_surname: Bleicher
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33120364) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/855-1), [Wikidata](https://www.wikidata.org/wiki/Q36587061). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/855-1) LSID 855-1, [Wikidata](https://www.wikidata.org/wiki/Q36587061) QID Q36587061
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bleicher, Joseph {std. J. Bleicher} (Suppl.)|second entry]] for this author
 

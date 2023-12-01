@@ -6,7 +6,7 @@ tl2_surname: Gay
 tl2_forenames: François
 tl2_name_abbrev: F. Gay
 tl2_dates: 1857-1898
-tl2_page_id: 33121057
+tl2_bhl_page_id: 33121057
 author_lsid: 3058-1
 wikidata_id: Q21513838
 ipni_surname: Gay
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33121057) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3058-1), [Wikidata](https://www.wikidata.org/wiki/Q21513838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3058-1) LSID 3058-1, [Wikidata](https://www.wikidata.org/wiki/Q21513838) QID Q21513838
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gay, (Henri Félix) François {std. F. Gay} (Suppl.)|second entry]] for this author
 

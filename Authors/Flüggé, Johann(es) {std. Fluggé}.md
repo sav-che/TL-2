@@ -6,7 +6,7 @@ tl2_surname: Flüggé
 tl2_forenames: Johann(es)
 tl2_name_abbrev: Fluggé
 tl2_dates: 1775-1816
-tl2_page_id: 33120980
+tl2_bhl_page_id: 33120980
 author_lsid: 12501-1
 wikidata_id: Q2345057
 ipni_surname: Flüggé
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33120980) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12501-1), [Wikidata](https://www.wikidata.org/wiki/Q2345057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12501-1) LSID 12501-1, [Wikidata](https://www.wikidata.org/wiki/Q2345057) QID Q2345057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

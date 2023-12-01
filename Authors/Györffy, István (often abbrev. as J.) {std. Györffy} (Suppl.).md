@@ -6,7 +6,7 @@ tl2_surname: Györffy
 tl2_forenames: István (often abbrev. as J.)
 tl2_name_abbrev: Győrffy
 tl2_dates: 1880-1959
-tl2_page_id: 33258956
+tl2_bhl_page_id: 33258956
 author_lsid: 3512-1
 wikidata_id: Q3155761
 ipni_surname: Györffy
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33258956) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3512-1), [Wikidata](https://www.wikidata.org/wiki/Q3155761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3512-1) LSID 3512-1, [Wikidata](https://www.wikidata.org/wiki/Q3155761) QID Q3155761
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Györffy, István {std. Györffy}|first entry]] for this author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0553
 tl2_volume: vol4
 tl2_page_printed: 534
 tl2_surname: Radde
-tl2_forenames: Gustav [Ferdinand Richard] von
+tl2_forenames: Gustav (Ferdinand Richard) von
 tl2_name_abbrev: Radde
 tl2_dates: 1831-1903
-tl2_page_id: 33190005
+tl2_bhl_page_id: 33190005
 author_lsid: 8076-1
 wikidata_id: Q62625
 ipni_surname: Radde
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33190005) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8076-1), [Wikidata](https://www.wikidata.org/wiki/Q62625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8076-1) LSID 8076-1, [Wikidata](https://www.wikidata.org/wiki/Q62625) QID Q62625
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Garden
 tl2_forenames: Alexander
 tl2_name_abbrev: Garden
 tl2_dates: 1730-1791
-tl2_page_id: 33121045
+tl2_bhl_page_id: 33121045
 author_lsid: 3022-1
 wikidata_id: Q683772
 ipni_surname: Garden
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 914](https://www.biodiversitylibrary.org/page/33121045) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3022-1), [Wikidata](https://www.wikidata.org/wiki/Q683772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3022-1) LSID 3022-1, [Wikidata](https://www.wikidata.org/wiki/Q683772) QID Q683772
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

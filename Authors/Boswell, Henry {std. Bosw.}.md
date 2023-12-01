@@ -6,7 +6,7 @@ tl2_surname: Boswell
 tl2_forenames: Henry
 tl2_name_abbrev: Bosw.
 tl2_dates: 1837-1897
-tl2_page_id: 33265569
+tl2_bhl_page_id: 33265569
 author_lsid: 16381-1
 wikidata_id: Q21506347
 ipni_surname: Boswell
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265569) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16381-1), [Wikidata](https://www.wikidata.org/wiki/Q21506347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16381-1) LSID 16381-1, [Wikidata](https://www.wikidata.org/wiki/Q21506347) QID Q21506347
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

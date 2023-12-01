@@ -6,7 +6,7 @@ tl2_surname: Laharpe (La Harpe)
 tl2_forenames: Jean Jacques Charles de
 tl2_name_abbrev: Laharpe
 tl2_dates: 1802-1877
-tl2_page_id: 33068967
+tl2_bhl_page_id: 33068967
 author_lsid: 5212-1
 wikidata_id: Q5928743
 ipni_surname: Laharpe
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5212-1), [Wikidata](https://www.wikidata.org/wiki/Q5928743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5212-1) LSID 5212-1, [Wikidata](https://www.wikidata.org/wiki/Q5928743) QID Q5928743
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

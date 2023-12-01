@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0716
 tl2_volume: vol4
 tl2_page_printed: 738
 tl2_surname: Retzius
-tl2_forenames: [Magnus] Gustaf
+tl2_forenames: (Magnus) Gustaf
 tl2_name_abbrev: G. Retz.
 tl2_dates: 1842-1919
-tl2_page_id: 33190209
+tl2_bhl_page_id: 33190209
 author_lsid: 8306-1
 wikidata_id: Q640991
 ipni_surname: Retzius
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33190209) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8306-1), [Wikidata](https://www.wikidata.org/wiki/Q640991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8306-1) LSID 8306-1, [Wikidata](https://www.wikidata.org/wiki/Q640991) QID Q640991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

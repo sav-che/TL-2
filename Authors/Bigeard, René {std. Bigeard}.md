@@ -6,7 +6,7 @@ tl2_surname: Bigeard
 tl2_forenames: René
 tl2_name_abbrev: Bigeard
 tl2_dates: 1840-1917
-tl2_page_id: 33265358
+tl2_bhl_page_id: 33265358
 author_lsid: 16123-1
 wikidata_id: Q21506110
 ipni_surname: Bigeard
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16123-1), [Wikidata](https://www.wikidata.org/wiki/Q21506110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16123-1) LSID 16123-1, [Wikidata](https://www.wikidata.org/wiki/Q21506110) QID Q21506110
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

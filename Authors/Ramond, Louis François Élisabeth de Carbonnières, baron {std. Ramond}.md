@@ -6,7 +6,7 @@ tl2_surname: Ramond
 tl2_forenames: Louis François Élisabeth de Carbonnières, baron
 tl2_name_abbrev: Ramond
 tl2_dates: 1753-1829
-tl2_page_id: 33190043
+tl2_bhl_page_id: 33190043
 author_lsid: 8128-1
 wikidata_id: Q640494
 ipni_surname: Ramond de Carbonnière
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33190043) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8128-1), [Wikidata](https://www.wikidata.org/wiki/Q640494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8128-1) LSID 8128-1, [Wikidata](https://www.wikidata.org/wiki/Q640494) QID Q640494
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

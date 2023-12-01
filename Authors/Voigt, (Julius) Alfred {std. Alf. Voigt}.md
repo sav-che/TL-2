@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0758
 tl2_volume: vol6
 tl2_page_printed: 774
 tl2_surname: Voigt
-tl2_forenames: [Julius] Alfred
+tl2_forenames: (Julius) Alfred
 tl2_name_abbrev: Alf. Voigt
 tl2_dates: 1864-1935
-tl2_page_id: 33212816
+tl2_bhl_page_id: 33212816
 author_lsid: 12977-1
 wikidata_id: Q21611850
 ipni_surname: Voigt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12977-1), [Wikidata](https://www.wikidata.org/wiki/Q21611850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12977-1) LSID 12977-1, [Wikidata](https://www.wikidata.org/wiki/Q21611850) QID Q21611850
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

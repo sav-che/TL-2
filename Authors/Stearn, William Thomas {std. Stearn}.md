@@ -6,7 +6,7 @@ tl2_surname: Stearn
 tl2_forenames: William Thomas
 tl2_name_abbrev: Stearn
 tl2_dates: 1911-x
-tl2_page_id: 33333989
+tl2_bhl_page_id: 33333989
 author_lsid: 10044-1
 wikidata_id: Q1484289
 ipni_surname: Stearn
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33333989) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10044-1), [Wikidata](https://www.wikidata.org/wiki/Q1484289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10044-1) LSID 10044-1, [Wikidata](https://www.wikidata.org/wiki/Q1484289) QID Q1484289
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

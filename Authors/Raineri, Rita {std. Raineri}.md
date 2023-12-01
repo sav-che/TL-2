@@ -6,7 +6,7 @@ tl2_surname: Raineri
 tl2_forenames: Rita
 tl2_name_abbrev: Raineri
 tl2_dates: 1896-x
-tl2_page_id: 33190036
+tl2_bhl_page_id: 33190036
 author_lsid: 8106-1
 wikidata_id: Q21606853
 ipni_surname: Raineri
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33190036) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8106-1), [Wikidata](https://www.wikidata.org/wiki/Q21606853). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8106-1) LSID 8106-1, [Wikidata](https://www.wikidata.org/wiki/Q21606853) QID Q21606853
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

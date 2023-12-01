@@ -6,7 +6,7 @@ tl2_surname: Davis
 tl2_forenames: Lucius Daniel
 tl2_name_abbrev: L.D. Davis
 tl2_dates: 1826-1900
-tl2_page_id: 33259154
+tl2_bhl_page_id: 33259154
 author_lsid: 13936-1
 wikidata_id: Q36612054
 ipni_surname: Davis
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/13936-1), [Wikidata](https://www.wikidata.org/wiki/Q36612054). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13936-1) LSID 13936-1, [Wikidata](https://www.wikidata.org/wiki/Q36612054) QID Q36612054
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

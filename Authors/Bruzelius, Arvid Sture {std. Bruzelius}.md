@@ -6,7 +6,7 @@ tl2_surname: Bruzelius
 tl2_forenames: Arvid Sture
 tl2_name_abbrev: Bruzelius
 tl2_dates: 1799-1865
-tl2_page_id: 33120516
+tl2_bhl_page_id: 33120516
 author_lsid: 1234-1
 wikidata_id: Q5588668
 ipni_surname: Bruzelius
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1234-1), [Wikidata](https://www.wikidata.org/wiki/Q5588668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1234-1) LSID 1234-1, [Wikidata](https://www.wikidata.org/wiki/Q5588668) QID Q5588668
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bruzelius, Arvid Sture {std. Bruzelius} (Suppl.)|second entry]] for this author
 

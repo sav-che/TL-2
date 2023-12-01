@@ -6,7 +6,7 @@ tl2_surname: Caflisch
 tl2_forenames: Jakob Friedrich
 tl2_name_abbrev: Caflisch
 tl2_dates: 1817-1882
-tl2_page_id: 33266605
+tl2_bhl_page_id: 33266605
 author_lsid: 1349-1
 wikidata_id: Q15229276
 ipni_surname: Caflisch
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-06-30 07:57:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33266605) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1349-1), [Wikidata](https://www.wikidata.org/wiki/Q15229276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1349-1) LSID 1349-1, [Wikidata](https://www.wikidata.org/wiki/Q15229276) QID Q15229276
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Caflisch, Jakob Friedrich {std. Caflisch}|first entry]] for this author
 

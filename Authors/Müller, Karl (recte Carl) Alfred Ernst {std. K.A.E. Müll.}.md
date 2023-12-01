@@ -6,7 +6,7 @@ tl2_surname: Müller
 tl2_forenames: Karl (recte Carl) Alfred Ernst
 tl2_name_abbrev: K.A.E. Müll.
 tl2_dates: 1855-1907
-tl2_page_id: 33355730
+tl2_bhl_page_id: 33355730
 author_lsid: 6744-1
 wikidata_id: 
 ipni_surname: Müller
@@ -23,7 +23,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33355730) of TL-2 Vol. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

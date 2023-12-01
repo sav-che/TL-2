@@ -6,7 +6,7 @@ tl2_surname: Nicholson
 tl2_forenames: Henry Alleyne
 tl2_name_abbrev: H. Nichols.
 tl2_dates: 1844-1899
-tl2_page_id: 33355829
+tl2_bhl_page_id: 33355829
 author_lsid: 6961-1
 wikidata_id: Q3132583
 ipni_surname: Nicholson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6961-1), [Wikidata](https://www.wikidata.org/wiki/Q3132583). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6961-1) LSID 6961-1, [Wikidata](https://www.wikidata.org/wiki/Q3132583) QID Q3132583
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

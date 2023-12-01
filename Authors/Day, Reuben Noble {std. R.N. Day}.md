@@ -6,7 +6,7 @@ tl2_surname: Day
 tl2_forenames: Reuben Noble
 tl2_name_abbrev: R.N. Day
 tl2_dates: 1874-1931
-tl2_page_id: 33259162
+tl2_bhl_page_id: 33259162
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259162) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

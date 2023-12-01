@@ -6,7 +6,7 @@ tl2_surname: Tengström
 tl2_forenames: Johan Magnus af
 tl2_name_abbrev: Tengstr.
 tl2_dates: 1793-1856
-tl2_page_id: 33212252
+tl2_bhl_page_id: 33212252
 author_lsid: 10502-1
 wikidata_id: Q11866613
 ipni_surname: Tengström
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33212252) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10502-1), [Wikidata](https://www.wikidata.org/wiki/Q11866613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10502-1) LSID 10502-1, [Wikidata](https://www.wikidata.org/wiki/Q11866613) QID Q11866613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

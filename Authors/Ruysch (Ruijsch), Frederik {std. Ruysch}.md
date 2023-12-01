@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol4_1046
 tl2_volume: vol4
 tl2_page_printed: 1013
-tl2_surname: Ruysch [Ruijsch]
+tl2_surname: Ruysch (Ruijsch)
 tl2_forenames: Frederik
 tl2_name_abbrev: Ruysch
 tl2_dates: 1638-1731
-tl2_page_id: 33190484
+tl2_bhl_page_id: 33190484
 author_lsid: 8767-1
 wikidata_id: Q529211
 ipni_surname: Ruysch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8767-1), [Wikidata](https://www.wikidata.org/wiki/Q529211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8767-1) LSID 8767-1, [Wikidata](https://www.wikidata.org/wiki/Q529211) QID Q529211
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pirotta
 tl2_forenames: Pietro Romualdo
 tl2_name_abbrev: Pirotta
 tl2_dates: 1853-1936
-tl2_page_id: 33189745
+tl2_bhl_page_id: 33189745
 author_lsid: 7727-1
 wikidata_id: Q3388178
 ipni_surname: Pirotta
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:38:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33189745) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7727-1), [Wikidata](https://www.wikidata.org/wiki/Q3388178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7727-1) LSID 7727-1, [Wikidata](https://www.wikidata.org/wiki/Q3388178) QID Q3388178
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

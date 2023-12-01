@@ -6,7 +6,7 @@ tl2_surname: Zukal
 tl2_forenames: Hugo
 tl2_name_abbrev: Zukal
 tl2_dates: 1845-1900
-tl2_page_id: 33066902
+tl2_bhl_page_id: 33066902
 author_lsid: 12071-1
 wikidata_id: Q21339494
 ipni_surname: Zukal
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:36:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12071-1), [Wikidata](https://www.wikidata.org/wiki/Q21339494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12071-1) LSID 12071-1, [Wikidata](https://www.wikidata.org/wiki/Q21339494) QID Q21339494
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

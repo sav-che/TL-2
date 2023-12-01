@@ -6,7 +6,7 @@ tl2_surname: Lipp
 tl2_forenames: Franz Joseph
 tl2_name_abbrev: Lipp.
 tl2_dates: 1731-1775
-tl2_page_id: 33355202
+tl2_bhl_page_id: 33355202
 author_lsid: 5645-1
 wikidata_id: Q21519238
 ipni_surname: Lipp
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33355202) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5645-1), [Wikidata](https://www.wikidata.org/wiki/Q21519238). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5645-1) LSID 5645-1, [Wikidata](https://www.wikidata.org/wiki/Q21519238) QID Q21519238
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Taránek
 tl2_forenames: Karel J.
 tl2_name_abbrev: Taránek
 tl2_dates: 1855-1888
-tl2_page_id: 33212207
+tl2_bhl_page_id: 33212207
 author_lsid: 10423-1
 wikidata_id: Q21610193
 ipni_surname: Taránek
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10423-1), [Wikidata](https://www.wikidata.org/wiki/Q21610193). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10423-1) LSID 10423-1, [Wikidata](https://www.wikidata.org/wiki/Q21610193) QID Q21610193
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

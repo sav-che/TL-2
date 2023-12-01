@@ -6,7 +6,7 @@ tl2_surname: Leibold
 tl2_forenames: Friedrich Ernst
 tl2_name_abbrev: Leibold
 tl2_dates: 1804-1864
-tl2_page_id: 33069067
+tl2_bhl_page_id: 33069067
 author_lsid: 5439-1
 wikidata_id: Q15300543
 ipni_surname: Leibold
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:37:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5439-1), [Wikidata](https://www.wikidata.org/wiki/Q15300543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5439-1) LSID 5439-1, [Wikidata](https://www.wikidata.org/wiki/Q15300543) QID Q15300543
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

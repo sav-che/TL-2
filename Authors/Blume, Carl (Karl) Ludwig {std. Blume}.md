@@ -6,7 +6,7 @@ tl2_surname: Blume
 tl2_forenames: Carl (Karl) Ludwig
 tl2_name_abbrev: Blume
 tl2_dates: 1796-1862
-tl2_page_id: 33120365
+tl2_bhl_page_id: 33120365
 author_lsid: 16230-1
 wikidata_id: Q76816
 ipni_surname: Blume
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33120365) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16230-1), [Wikidata](https://www.wikidata.org/wiki/Q76816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16230-1) LSID 16230-1, [Wikidata](https://www.wikidata.org/wiki/Q76816) QID Q76816
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blume, Carl (Karl) Ludwig {std. Blume} (Suppl.)|second entry]] for this author
 

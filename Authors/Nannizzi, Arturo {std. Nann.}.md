@@ -6,7 +6,7 @@ tl2_surname: Nannizzi
 tl2_forenames: Arturo
 tl2_name_abbrev: Nann.
 tl2_dates: 1877-1961
-tl2_page_id: 33355777
+tl2_bhl_page_id: 33355777
 author_lsid: 23899-1
 wikidata_id: Q21391771
 ipni_surname: Nannizzi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23899-1), [Wikidata](https://www.wikidata.org/wiki/Q21391771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23899-1) LSID 23899-1, [Wikidata](https://www.wikidata.org/wiki/Q21391771) QID Q21391771
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lyttkens
 tl2_forenames: August
 tl2_name_abbrev: Lyttkens
 tl2_dates: 1845-1925
-tl2_page_id: 33355292
+tl2_bhl_page_id: 33355292
 author_lsid: 5874-1
 wikidata_id: Q5969076
 ipni_surname: Lyttkens
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5874-1), [Wikidata](https://www.wikidata.org/wiki/Q5969076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5874-1) LSID 5874-1, [Wikidata](https://www.wikidata.org/wiki/Q5969076) QID Q5969076
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kavina
 tl2_forenames: Karel
 tl2_name_abbrev: Kavina
 tl2_dates: 1890-1948
-tl2_page_id: 33068751
+tl2_bhl_page_id: 33068751
 author_lsid: 4677-1
 wikidata_id: Q3566168
 ipni_surname: Kavina
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4677-1), [Wikidata](https://www.wikidata.org/wiki/Q3566168). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4677-1) LSID 4677-1, [Wikidata](https://www.wikidata.org/wiki/Q3566168) QID Q3566168
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

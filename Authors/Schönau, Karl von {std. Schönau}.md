@@ -6,7 +6,7 @@ tl2_surname: Schönau
 tl2_forenames: Karl von
 tl2_name_abbrev: Schönau
 tl2_dates: 1885-1944
-tl2_page_id: 33333425
+tl2_bhl_page_id: 33333425
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33333425) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

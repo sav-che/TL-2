@@ -6,7 +6,7 @@ tl2_surname: Redouté
 tl2_forenames: Pierre Joseph
 tl2_name_abbrev: Redouté
 tl2_dates: 1759-1840
-tl2_page_id: 33190094
+tl2_bhl_page_id: 33190094
 author_lsid: 8222-1
 wikidata_id: Q551638
 ipni_surname: Redouté
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8222-1), [Wikidata](https://www.wikidata.org/wiki/Q551638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8222-1) LSID 8222-1, [Wikidata](https://www.wikidata.org/wiki/Q551638) QID Q551638
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

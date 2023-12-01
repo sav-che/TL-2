@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0385
 tl2_volume: vol7
 tl2_page_printed: 433
 tl2_surname: Wolpert
-tl2_forenames: Josef [Johann Baptist]
+tl2_forenames: Josef (Johann Baptist)
 tl2_name_abbrev: Wolpert
 tl2_dates: 1881-?
-tl2_page_id: 33066773
+tl2_bhl_page_id: 33066773
 author_lsid: 13030-1
 wikidata_id: Q21612937
 ipni_surname: Wolpert
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33066773) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13030-1), [Wikidata](https://www.wikidata.org/wiki/Q21612937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13030-1) LSID 13030-1, [Wikidata](https://www.wikidata.org/wiki/Q21612937) QID Q21612937
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

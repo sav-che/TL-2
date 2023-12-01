@@ -6,7 +6,7 @@ tl2_surname: Grech Delicata
 tl2_forenames: Giovanni Carlo (Johann Karl)
 tl2_name_abbrev: Grech
 tl2_dates: 1811-1882
-tl2_page_id: 33121126
+tl2_bhl_page_id: 33121126
 author_lsid: 3361-1
 wikidata_id: Q21514239
 ipni_surname: Grech Delicata
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/page/33121126) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3361-1), [Wikidata](https://www.wikidata.org/wiki/Q21514239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3361-1) LSID 3361-1, [Wikidata](https://www.wikidata.org/wiki/Q21514239) QID Q21514239
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

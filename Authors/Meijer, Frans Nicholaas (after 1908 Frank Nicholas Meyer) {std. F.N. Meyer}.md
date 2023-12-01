@@ -6,7 +6,7 @@ tl2_surname: Meijer
 tl2_forenames: Frans Nicholaas (after 1908 Frank Nicholas Meyer)
 tl2_name_abbrev: F.N. Meyer
 tl2_dates: 1875-1918
-tl2_page_id: 33355489
+tl2_bhl_page_id: 33355489
 author_lsid: 12677-1
 wikidata_id: Q3082749
 ipni_surname: Meijer
@@ -26,7 +26,8 @@ ipni_record_modified: 2016-05-17 16:09:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12677-1), [Wikidata](https://www.wikidata.org/wiki/Q3082749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12677-1) LSID 12677-1, [Wikidata](https://www.wikidata.org/wiki/Q3082749) QID Q3082749
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

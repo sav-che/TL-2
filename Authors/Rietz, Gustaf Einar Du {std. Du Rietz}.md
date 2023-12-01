@@ -6,7 +6,7 @@ tl2_surname: Rietz
 tl2_forenames: Gustaf Einar Du
 tl2_name_abbrev: Du Rietz
 tl2_dates: 1895-1967
-tl2_page_id: 33190261
+tl2_bhl_page_id: 33190261
 author_lsid: 2405-1
 wikidata_id: Q912007
 ipni_surname: Du Rietz
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/page/33190261) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/2405-1), [Wikidata](https://www.wikidata.org/wiki/Q912007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2405-1) LSID 2405-1, [Wikidata](https://www.wikidata.org/wiki/Q912007) QID Q912007
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Du Rietz, Gustaf Einar {std. Du Rietz} (Suppl.)|second entry]] for this author
 

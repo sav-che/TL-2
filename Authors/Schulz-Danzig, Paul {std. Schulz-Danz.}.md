@@ -6,7 +6,7 @@ tl2_surname: Schulz-Danzig
 tl2_forenames: Paul
 tl2_name_abbrev: Schulz-Danz.
 tl2_dates: fl. 1926-1935
-tl2_page_id: 33333529
+tl2_bhl_page_id: 33333529
 author_lsid: 9315-1
 wikidata_id: Q36655537
 ipni_surname: Schulz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9315-1), [Wikidata](https://www.wikidata.org/wiki/Q36655537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9315-1) LSID 9315-1, [Wikidata](https://www.wikidata.org/wiki/Q36655537) QID Q36655537
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0111
 tl2_volume: suppl7
 tl2_page_printed: 171
 tl2_surname: Fiala
-tl2_forenames: Franz [Franjo]
+tl2_forenames: Franz (Franjo)
 tl2_name_abbrev: Fiala
 tl2_dates: 1861-1898
-tl2_page_id: 33259675
+tl2_bhl_page_id: 33259675
 author_lsid: 2708-1
 wikidata_id: Q1446766
 ipni_surname: Fiala
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259675) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2708-1), [Wikidata](https://www.wikidata.org/wiki/Q1446766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2708-1) LSID 2708-1, [Wikidata](https://www.wikidata.org/wiki/Q1446766) QID Q1446766
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

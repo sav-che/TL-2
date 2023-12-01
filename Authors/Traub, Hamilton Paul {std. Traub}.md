@@ -6,7 +6,7 @@ tl2_surname: Traub
 tl2_forenames: Hamilton Paul
 tl2_name_abbrev: Traub
 tl2_dates: 1890-1983
-tl2_page_id: 33212484
+tl2_bhl_page_id: 33212484
 author_lsid: 10794-1
 wikidata_id: Q2613347
 ipni_surname: Traub
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10794-1), [Wikidata](https://www.wikidata.org/wiki/Q2613347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10794-1) LSID 10794-1, [Wikidata](https://www.wikidata.org/wiki/Q2613347) QID Q2613347
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

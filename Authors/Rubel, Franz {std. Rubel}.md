@@ -6,7 +6,7 @@ tl2_surname: Rubel
 tl2_forenames: Franz
 tl2_name_abbrev: Rubel
 tl2_dates: fl. 1778
-tl2_page_id: 33190438
+tl2_bhl_page_id: 33190438
 author_lsid: 8695-1
 wikidata_id: Q36557071
 ipni_surname: Rubel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/page/33190438) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8695-1), [Wikidata](https://www.wikidata.org/wiki/Q36557071). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8695-1) LSID 8695-1, [Wikidata](https://www.wikidata.org/wiki/Q36557071) QID Q36557071
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

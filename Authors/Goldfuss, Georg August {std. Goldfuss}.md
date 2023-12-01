@@ -6,7 +6,7 @@ tl2_surname: Goldfuss
 tl2_forenames: Georg August
 tl2_name_abbrev: Goldfuss
 tl2_dates: 1782-1848
-tl2_page_id: 33121100
+tl2_bhl_page_id: 33121100
 author_lsid: 3237-1
 wikidata_id: Q60622
 ipni_surname: Goldfuss
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33121100) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3237-1), [Wikidata](https://www.wikidata.org/wiki/Q60622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3237-1) LSID 3237-1, [Wikidata](https://www.wikidata.org/wiki/Q60622) QID Q60622
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

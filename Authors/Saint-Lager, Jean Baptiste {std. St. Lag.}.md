@@ -6,7 +6,7 @@ tl2_surname: Saint-Lager
 tl2_forenames: Jean Baptiste
 tl2_name_abbrev: St. Lag.
 tl2_dates: 1825-1912
-tl2_page_id: 33190544
+tl2_bhl_page_id: 33190544
 author_lsid: 8832-1
 wikidata_id: Q3170576
 ipni_surname: Saint-Lager
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1073](https://www.biodiversitylibrary.org/page/33190544) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8832-1), [Wikidata](https://www.wikidata.org/wiki/Q3170576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8832-1) LSID 8832-1, [Wikidata](https://www.wikidata.org/wiki/Q3170576) QID Q3170576
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

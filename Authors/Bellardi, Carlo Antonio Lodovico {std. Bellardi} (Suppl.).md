@@ -6,7 +6,7 @@ tl2_surname: Bellardi
 tl2_forenames: Carlo Antonio Lodovico
 tl2_name_abbrev: Bellardi
 tl2_dates: 1741-1826
-tl2_page_id: 33265260
+tl2_bhl_page_id: 33265260
 author_lsid: 15904-1
 wikidata_id: Q578933
 ipni_surname: Bellardi
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/15904-1), [Wikidata](https://www.wikidata.org/wiki/Q578933). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15904-1) LSID 15904-1, [Wikidata](https://www.wikidata.org/wiki/Q578933) QID Q578933
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bellardi, Carlo Antonio Lodovico {std. Bellardi}|first entry]] for this author
 

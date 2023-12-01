@@ -6,7 +6,7 @@ tl2_surname: Pax
 tl2_forenames: Ferdinand Albin
 tl2_name_abbrev: Pax
 tl2_dates: 1858-1942
-tl2_page_id: 33189590
+tl2_bhl_page_id: 33189590
 author_lsid: 7425-1
 wikidata_id: Q64244
 ipni_surname: Pax
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33189590) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7425-1), [Wikidata](https://www.wikidata.org/wiki/Q64244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7425-1) LSID 7425-1, [Wikidata](https://www.wikidata.org/wiki/Q64244) QID Q64244
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

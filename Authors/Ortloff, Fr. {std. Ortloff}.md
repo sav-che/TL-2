@@ -6,7 +6,7 @@ tl2_surname: Ortloff
 tl2_forenames: Fr.
 tl2_name_abbrev: Ortloff
 tl2_dates: x-1896
-tl2_page_id: 33355936
+tl2_bhl_page_id: 33355936
 author_lsid: 7172-1
 wikidata_id: Q21522437
 ipni_surname: Ortloff
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33355936) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7172-1), [Wikidata](https://www.wikidata.org/wiki/Q21522437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7172-1) LSID 7172-1, [Wikidata](https://www.wikidata.org/wiki/Q21522437) QID Q21522437
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

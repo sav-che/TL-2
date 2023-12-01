@@ -6,7 +6,7 @@ tl2_surname: Pound
 tl2_forenames: Roscoe
 tl2_name_abbrev: Pound
 tl2_dates: 1870-1964
-tl2_page_id: 33189838
+tl2_bhl_page_id: 33189838
 author_lsid: 25031-1
 wikidata_id: Q1149723
 ipni_surname: Pound
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33189838) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25031-1), [Wikidata](https://www.wikidata.org/wiki/Q1149723). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25031-1) LSID 25031-1, [Wikidata](https://www.wikidata.org/wiki/Q1149723) QID Q1149723
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0334
 tl2_volume: suppl5
 tl2_page_printed: 337
 tl2_surname: Dietzow
-tl2_forenames: W. Ludwig [von]
+tl2_forenames: W. Ludwig (von)
 tl2_name_abbrev: Dietzow
 tl2_dates: fl. 1909-1938
-tl2_page_id: 33259383
+tl2_bhl_page_id: 33259383
 author_lsid: 18044-1
 wikidata_id: Q36700573
 ipni_surname: Dietzow
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18044-1), [Wikidata](https://www.wikidata.org/wiki/Q36700573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18044-1) LSID 18044-1, [Wikidata](https://www.wikidata.org/wiki/Q36700573) QID Q36700573
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

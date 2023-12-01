@@ -6,7 +6,7 @@ tl2_surname: Schwarze
 tl2_forenames: Carl Alois
 tl2_name_abbrev: C.A. Schwarze
 tl2_dates: 1886-1956
-tl2_page_id: 33333565
+tl2_bhl_page_id: 33333565
 author_lsid: 9357-1
 wikidata_id: Q21608533
 ipni_surname: Schwarze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33333565) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9357-1), [Wikidata](https://www.wikidata.org/wiki/Q21608533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9357-1) LSID 9357-1, [Wikidata](https://www.wikidata.org/wiki/Q21608533) QID Q21608533
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

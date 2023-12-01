@@ -6,7 +6,7 @@ tl2_surname: Höhnel
 tl2_forenames: Ludwig Ritter von
 tl2_name_abbrev: L. Höhn.
 tl2_dates: 1857-1942
-tl2_page_id: 33068474
+tl2_bhl_page_id: 33068474
 author_lsid: 4002-1
 wikidata_id: Q87967
 ipni_surname: Höhnel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33068474) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4002-1), [Wikidata](https://www.wikidata.org/wiki/Q87967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4002-1) LSID 4002-1, [Wikidata](https://www.wikidata.org/wiki/Q87967) QID Q87967
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

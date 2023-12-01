@@ -6,7 +6,7 @@ tl2_surname: Yabe
 tl2_forenames: Hisakatsu
 tl2_name_abbrev: H. Yabe
 tl2_dates: 1878-1969
-tl2_page_id: 33066824
+tl2_bhl_page_id: 33066824
 author_lsid: 11915-1
 wikidata_id: Q11584319
 ipni_surname: Yabe
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33066824) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11915-1), [Wikidata](https://www.wikidata.org/wiki/Q11584319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11915-1) LSID 11915-1, [Wikidata](https://www.wikidata.org/wiki/Q11584319) QID Q11584319
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

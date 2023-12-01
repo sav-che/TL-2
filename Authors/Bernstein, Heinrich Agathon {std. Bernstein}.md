@@ -6,7 +6,7 @@ tl2_surname: Bernstein
 tl2_forenames: Heinrich Agathon
 tl2_name_abbrev: Bernstein
 tl2_dates: 1822-1865
-tl2_page_id: 33120331
+tl2_bhl_page_id: 33120331
 author_lsid: 716-1
 wikidata_id: Q73244
 ipni_surname: Bernstein
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/716-1), [Wikidata](https://www.wikidata.org/wiki/Q73244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/716-1) LSID 716-1, [Wikidata](https://www.wikidata.org/wiki/Q73244) QID Q73244
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bernstein, Heinrich Agathon {std. Bernstein} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Macfadyen
 tl2_forenames: James
 tl2_name_abbrev: Macfady.
 tl2_dates: 1798-1850
-tl2_page_id: 33355305
+tl2_bhl_page_id: 33355305
 author_lsid: 5914-1
 wikidata_id: Q3089419
 ipni_surname: Macfadyen
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5914-1), [Wikidata](https://www.wikidata.org/wiki/Q3089419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5914-1) LSID 5914-1, [Wikidata](https://www.wikidata.org/wiki/Q3089419) QID Q3089419
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

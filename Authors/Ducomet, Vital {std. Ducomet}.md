@@ -6,7 +6,7 @@ tl2_surname: Ducomet
 tl2_forenames: Vital
 tl2_name_abbrev: Ducomet
 tl2_dates: fl. 1899-1931
-tl2_page_id: 33260130
+tl2_bhl_page_id: 33260130
 author_lsid: 34309-1
 wikidata_id: Q36695352
 ipni_surname: Ducomet
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33260130) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/34309-1), [Wikidata](https://www.wikidata.org/wiki/Q36695352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34309-1) LSID 34309-1, [Wikidata](https://www.wikidata.org/wiki/Q36695352) QID Q36695352
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bloembergen
 tl2_forenames: Siebe
 tl2_name_abbrev: Bloemb.
 tl2_dates: 1905-1992
-tl2_page_id: 33265415
+tl2_bhl_page_id: 33265415
 author_lsid: 859-1
 wikidata_id: Q21506201
 ipni_surname: Bloembergen
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33265415) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/859-1), [Wikidata](https://www.wikidata.org/wiki/Q21506201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/859-1) LSID 859-1, [Wikidata](https://www.wikidata.org/wiki/Q21506201) QID Q21506201
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

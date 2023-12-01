@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0291
 tl2_volume: suppl8
 tl2_page_printed: 405
-tl2_surname: Groenland [Grönland]
+tl2_surname: Groenland (Grönland)
 tl2_forenames: Johannes
 tl2_name_abbrev: J. Groenland
 tl2_dates: 1824-1891
-tl2_page_id: 33258883
+tl2_bhl_page_id: 33258883
 author_lsid: 13654-1
 wikidata_id: Q4151195
 ipni_surname: Groenland
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/13654-1), [Wikidata](https://www.wikidata.org/wiki/Q4151195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13654-1) LSID 13654-1, [Wikidata](https://www.wikidata.org/wiki/Q4151195) QID Q4151195
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

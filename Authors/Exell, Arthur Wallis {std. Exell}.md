@@ -6,7 +6,7 @@ tl2_surname: Exell
 tl2_forenames: Arthur Wallis
 tl2_name_abbrev: Exell
 tl2_dates: 1901-x
-tl2_page_id: 33120939
+tl2_bhl_page_id: 33120939
 author_lsid: 2606-1
 wikidata_id: Q2865378
 ipni_surname: Exell
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33120939) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2606-1), [Wikidata](https://www.wikidata.org/wiki/Q2865378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2606-1) LSID 2606-1, [Wikidata](https://www.wikidata.org/wiki/Q2865378) QID Q2865378
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Exell, Arthur Wallis {std. Exell} (Suppl.)|second entry]] for this author
 

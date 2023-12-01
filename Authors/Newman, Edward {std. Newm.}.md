@@ -6,7 +6,7 @@ tl2_surname: Newman
 tl2_forenames: Edward
 tl2_name_abbrev: Newm.
 tl2_dates: 1801-1876
-tl2_page_id: 33355824
+tl2_bhl_page_id: 33355824
 author_lsid: 6950-1
 wikidata_id: Q1231633
 ipni_surname: Newman
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33355824) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6950-1), [Wikidata](https://www.wikidata.org/wiki/Q1231633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6950-1) LSID 6950-1, [Wikidata](https://www.wikidata.org/wiki/Q1231633) QID Q1231633
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

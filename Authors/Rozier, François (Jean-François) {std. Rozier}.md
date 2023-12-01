@@ -6,7 +6,7 @@ tl2_surname: Rozier
 tl2_forenames: François (Jean-François)
 tl2_name_abbrev: Rozier
 tl2_dates: 1734-1793
-tl2_page_id: 33190435
+tl2_bhl_page_id: 33190435
 author_lsid: 8692-1
 wikidata_id: Q1382849
 ipni_surname: Rozier
@@ -23,7 +23,8 @@ ipni_record_modified: 2017-05-12 16:02:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/page/33190435) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8692-1), [Wikidata](https://www.wikidata.org/wiki/Q1382849). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8692-1) LSID 8692-1, [Wikidata](https://www.wikidata.org/wiki/Q1382849) QID Q1382849
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

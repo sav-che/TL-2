@@ -6,7 +6,7 @@ tl2_surname: Bang
 tl2_forenames: Miguel
 tl2_name_abbrev: Bang
 tl2_dates: 1853-1936
-tl2_page_id: 33265038
+tl2_bhl_page_id: 33265038
 author_lsid: 443-1
 wikidata_id: Q21505621
 ipni_surname: Bang
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33265038) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/443-1), [Wikidata](https://www.wikidata.org/wiki/Q21505621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/443-1) LSID 443-1, [Wikidata](https://www.wikidata.org/wiki/Q21505621) QID Q21505621
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bang, Miguel {std. Bang}|first entry]] for this author
 

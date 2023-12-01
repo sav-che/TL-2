@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0490
 tl2_volume: vol7
 tl2_page_printed: 538
 tl2_surname: Zimmermann
-tl2_forenames: [Philipp Wilhelm] Albrecht
+tl2_forenames: (Philipp Wilhelm) Albrecht
 tl2_name_abbrev: A. Zimmerm.
 tl2_dates: 1860-1931
-tl2_page_id: 33066878
+tl2_bhl_page_id: 33066878
 author_lsid: 29162-1
 wikidata_id: Q5663851
 ipni_surname: Zimmermann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/29162-1), [Wikidata](https://www.wikidata.org/wiki/Q5663851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29162-1) LSID 29162-1, [Wikidata](https://www.wikidata.org/wiki/Q5663851) QID Q5663851
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

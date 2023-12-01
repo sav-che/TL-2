@@ -6,7 +6,7 @@ tl2_surname: Vogl
 tl2_forenames: Balthasar
 tl2_name_abbrev: B. Vogl
 tl2_dates: fl. 1888
-tl2_page_id: 33212812
+tl2_bhl_page_id: 33212812
 author_lsid: 11239-1
 wikidata_id: Q36520224
 ipni_surname: Vogl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33212812) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11239-1), [Wikidata](https://www.wikidata.org/wiki/Q36520224). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11239-1) LSID 11239-1, [Wikidata](https://www.wikidata.org/wiki/Q36520224) QID Q36520224
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Samuelsson
 tl2_forenames: Gunnar
 tl2_name_abbrev: Sam.
 tl2_dates: 1885-1944
-tl2_page_id: 33333160
+tl2_bhl_page_id: 33333160
 author_lsid: 8869-1
 wikidata_id: Q6090892
 ipni_surname: Samuelsson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33333160) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8869-1), [Wikidata](https://www.wikidata.org/wiki/Q6090892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8869-1) LSID 8869-1, [Wikidata](https://www.wikidata.org/wiki/Q6090892) QID Q6090892
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

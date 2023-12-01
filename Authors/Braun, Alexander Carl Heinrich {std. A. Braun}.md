@@ -6,7 +6,7 @@ tl2_surname: Braun
 tl2_forenames: Alexander Carl Heinrich
 tl2_name_abbrev: A. Braun
 tl2_dates: 1805-1877
-tl2_page_id: 33120438
+tl2_bhl_page_id: 33120438
 author_lsid: 16476-1
 wikidata_id: Q62855
 ipni_surname: Braun
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33120438) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16476-1), [Wikidata](https://www.wikidata.org/wiki/Q62855). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16476-1) LSID 16476-1, [Wikidata](https://www.wikidata.org/wiki/Q62855) QID Q62855
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Braun, Alexander (Carl Heinrich) {std. A. Braun} (Suppl.)|second entry]] for this author
 

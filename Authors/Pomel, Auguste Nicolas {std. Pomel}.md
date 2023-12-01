@@ -6,7 +6,7 @@ tl2_surname: Pomel
 tl2_forenames: Auguste Nicolas
 tl2_name_abbrev: Pomel
 tl2_dates: 1821-1898
-tl2_page_id: 33189804
+tl2_bhl_page_id: 33189804
 author_lsid: 7823-1
 wikidata_id: Q766920
 ipni_surname: Pomel
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:43:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7823-1), [Wikidata](https://www.wikidata.org/wiki/Q766920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7823-1) LSID 7823-1, [Wikidata](https://www.wikidata.org/wiki/Q766920) QID Q766920
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

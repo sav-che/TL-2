@@ -6,7 +6,7 @@ tl2_surname: Crüger
 tl2_forenames: Hermann
 tl2_name_abbrev: Crueg.
 tl2_dates: 1818-1864
-tl2_page_id: 33266163
+tl2_bhl_page_id: 33266163
 author_lsid: 1896-1
 wikidata_id: Q20987271
 ipni_surname: Crueger
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33266163) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1896-1), [Wikidata](https://www.wikidata.org/wiki/Q20987271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1896-1) LSID 1896-1, [Wikidata](https://www.wikidata.org/wiki/Q20987271) QID Q20987271
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Crueger, Hermann {std. Crueg.}|first entry]] for this author
 

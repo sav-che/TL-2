@@ -6,7 +6,7 @@ tl2_surname: Sievers
 tl2_forenames: Johann Erasmus
 tl2_name_abbrev: Sievers
 tl2_dates: x-1795
-tl2_page_id: 33333735
+tl2_bhl_page_id: 33333735
 author_lsid: 9630-1
 wikidata_id: Q64026
 ipni_surname: Sievers
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9630-1), [Wikidata](https://www.wikidata.org/wiki/Q64026). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9630-1) LSID 9630-1, [Wikidata](https://www.wikidata.org/wiki/Q64026) QID Q64026
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

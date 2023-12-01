@@ -6,7 +6,7 @@ tl2_surname: Steiger
 tl2_forenames: Emil
 tl2_name_abbrev: E. Steiger
 tl2_dates: 1861-1927
-tl2_page_id: 33334010
+tl2_bhl_page_id: 33334010
 author_lsid: 10073-1
 wikidata_id: Q21609691
 ipni_surname: Steiger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33334010) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10073-1), [Wikidata](https://www.wikidata.org/wiki/Q21609691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10073-1) LSID 10073-1, [Wikidata](https://www.wikidata.org/wiki/Q21609691) QID Q21609691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

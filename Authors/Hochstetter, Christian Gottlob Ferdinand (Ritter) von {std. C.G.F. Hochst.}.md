@@ -6,7 +6,7 @@ tl2_surname: Hochstetter
 tl2_forenames: Christian Gottlob Ferdinand (Ritter) von
 tl2_name_abbrev: C.G.F. Hochst.
 tl2_dates: 1829-1884
-tl2_page_id: 33068465
+tl2_bhl_page_id: 33068465
 author_lsid: 3984-1
 wikidata_id: Q64294
 ipni_surname: Hochstetter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33068465) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3984-1), [Wikidata](https://www.wikidata.org/wiki/Q64294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3984-1) LSID 3984-1, [Wikidata](https://www.wikidata.org/wiki/Q64294) QID Q64294
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

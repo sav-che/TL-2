@@ -6,7 +6,7 @@ tl2_surname: Breemen
 tl2_forenames: Pieter Johan
 tl2_name_abbrev: P.J. Breemen
 tl2_dates: 1875-?
-tl2_page_id: 33266354
+tl2_bhl_page_id: 33266354
 author_lsid: 32533-1
 wikidata_id: Q36649040
 ipni_surname: Breemen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33266354) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/32533-1), [Wikidata](https://www.wikidata.org/wiki/Q36649040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32533-1) LSID 32533-1, [Wikidata](https://www.wikidata.org/wiki/Q36649040) QID Q36649040
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pierre
 tl2_forenames: Jean Baptiste Louis
 tl2_name_abbrev: Pierre
 tl2_dates: 1833-1905
-tl2_page_id: 33189729
+tl2_bhl_page_id: 33189729
 author_lsid: 7689-1
 wikidata_id: Q2593213
 ipni_surname: Pierre
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7689-1), [Wikidata](https://www.wikidata.org/wiki/Q2593213). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7689-1) LSID 7689-1, [Wikidata](https://www.wikidata.org/wiki/Q2593213) QID Q2593213
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kolb
 tl2_forenames: Max
 tl2_name_abbrev: Kolb
 tl2_dates: 1829-1915
-tl2_page_id: 33068850
+tl2_bhl_page_id: 33068850
 author_lsid: 4938-1
 wikidata_id: Q15434709
 ipni_surname: Kolb
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4938-1), [Wikidata](https://www.wikidata.org/wiki/Q15434709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4938-1) LSID 4938-1, [Wikidata](https://www.wikidata.org/wiki/Q15434709) QID Q15434709
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

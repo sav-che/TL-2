@@ -6,7 +6,7 @@ tl2_surname: Nectoux
 tl2_forenames: Hipolyte (Hippolyte)
 tl2_name_abbrev: Nectoux
 tl2_dates: 17..-18..
-tl2_page_id: 33355791
+tl2_bhl_page_id: 33355791
 author_lsid: 6884-1
 wikidata_id: Q3136104
 ipni_surname: Nectoux
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33355791) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6884-1), [Wikidata](https://www.wikidata.org/wiki/Q3136104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6884-1) LSID 6884-1, [Wikidata](https://www.wikidata.org/wiki/Q3136104) QID Q3136104
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

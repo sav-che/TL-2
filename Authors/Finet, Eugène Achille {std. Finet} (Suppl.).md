@@ -6,7 +6,7 @@ tl2_surname: Finet
 tl2_forenames: Eugène Achille
 tl2_name_abbrev: Finet
 tl2_dates: 1863-1913
-tl2_page_id: 33259687
+tl2_bhl_page_id: 33259687
 author_lsid: 2734-1
 wikidata_id: Q1657041
 ipni_surname: Finet
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33259687) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2734-1), [Wikidata](https://www.wikidata.org/wiki/Q1657041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2734-1) LSID 2734-1, [Wikidata](https://www.wikidata.org/wiki/Q1657041) QID Q1657041
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Finet, Eugène Achille {std. Finet}|first entry]] for this author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0379
 tl2_volume: vol7
 tl2_page_printed: 424
 tl2_surname: Wolff
-tl2_forenames: [Jacobus Otto] Reinhold
+tl2_forenames: (Jacobus Otto) Reinhold
 tl2_name_abbrev: R. Wolff
 tl2_dates: 1845-?
-tl2_page_id: 33066764
+tl2_bhl_page_id: 33066764
 author_lsid: 13029-1
 wikidata_id: Q21612918
 ipni_surname: Wolff
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33066764) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13029-1), [Wikidata](https://www.wikidata.org/wiki/Q21612918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13029-1) LSID 13029-1, [Wikidata](https://www.wikidata.org/wiki/Q21612918) QID Q21612918
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

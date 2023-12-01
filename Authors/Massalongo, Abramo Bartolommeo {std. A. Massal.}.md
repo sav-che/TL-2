@@ -6,7 +6,7 @@ tl2_surname: Massalongo
 tl2_forenames: Abramo Bartolommeo
 tl2_name_abbrev: A. Massal.
 tl2_dates: 1824-1860
-tl2_page_id: 33355436
+tl2_bhl_page_id: 33355436
 author_lsid: 23008-1
 wikidata_id: Q4284176
 ipni_surname: Massalongo
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23008-1), [Wikidata](https://www.wikidata.org/wiki/Q4284176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23008-1) LSID 23008-1, [Wikidata](https://www.wikidata.org/wiki/Q4284176) QID Q4284176
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

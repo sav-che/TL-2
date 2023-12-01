@@ -6,7 +6,7 @@ tl2_surname: Bach
 tl2_forenames: Michael
 tl2_name_abbrev: Bach
 tl2_dates: 1808-1878
-tl2_page_id: 33264957
+tl2_bhl_page_id: 33264957
 author_lsid: 362-1
 wikidata_id: Q6828338
 ipni_surname: Bach
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33264957) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/362-1), [Wikidata](https://www.wikidata.org/wiki/Q6828338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/362-1) LSID 362-1, [Wikidata](https://www.wikidata.org/wiki/Q6828338) QID Q6828338
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bach, Michael {std. Bach}|first entry]] for this author
 

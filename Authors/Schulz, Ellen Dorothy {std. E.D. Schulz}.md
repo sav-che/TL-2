@@ -6,7 +6,7 @@ tl2_surname: Schulz
 tl2_forenames: Ellen Dorothy
 tl2_name_abbrev: E.D. Schulz
 tl2_dates: 1887-1970
-tl2_page_id: 33333525
+tl2_bhl_page_id: 33333525
 author_lsid: 9307-1
 wikidata_id: Q18562902
 ipni_surname: Schulz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33333525) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9307-1), [Wikidata](https://www.wikidata.org/wiki/Q18562902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9307-1) LSID 9307-1, [Wikidata](https://www.wikidata.org/wiki/Q18562902) QID Q18562902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lebert
 tl2_forenames: Hermann
 tl2_name_abbrev: Lebert
 tl2_dates: 1813-1878
-tl2_page_id: 33069020
+tl2_bhl_page_id: 33069020
 author_lsid: 22162-1
 wikidata_id: Q66902
 ipni_surname: Lebert
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33069020) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22162-1), [Wikidata](https://www.wikidata.org/wiki/Q66902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22162-1) LSID 22162-1, [Wikidata](https://www.wikidata.org/wiki/Q66902) QID Q66902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

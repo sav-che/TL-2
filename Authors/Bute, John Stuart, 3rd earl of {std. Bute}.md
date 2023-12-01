@@ -6,7 +6,7 @@ tl2_surname: Bute
 tl2_forenames: John Stuart, 3rd earl of
 tl2_name_abbrev: Bute
 tl2_dates: 1713-1792
-tl2_page_id: 33120552
+tl2_bhl_page_id: 33120552
 author_lsid: 1327-1
 wikidata_id: Q294651
 ipni_surname: Stuart
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33120552) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1327-1), [Wikidata](https://www.wikidata.org/wiki/Q294651). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1327-1) LSID 1327-1, [Wikidata](https://www.wikidata.org/wiki/Q294651) QID Q294651
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

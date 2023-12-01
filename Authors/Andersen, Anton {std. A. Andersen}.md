@@ -6,7 +6,7 @@ tl2_surname: Andersen
 tl2_forenames: Anton
 tl2_name_abbrev: A. Andersen
 tl2_dates: 1856-1911
-tl2_page_id: 33264833
+tl2_bhl_page_id: 33264833
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33264833) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

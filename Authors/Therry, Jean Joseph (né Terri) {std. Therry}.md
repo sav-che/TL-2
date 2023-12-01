@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0290
 tl2_volume: vol6
 tl2_page_printed: 255
 tl2_surname: Therry
-tl2_forenames: Jean Joseph [né Terri]
+tl2_forenames: Jean Joseph (né Terri)
 tl2_name_abbrev: Therry
 tl2_dates: 1833-1888
-tl2_page_id: 33212297
+tl2_bhl_page_id: 33212297
 author_lsid: 12927-1
 wikidata_id: Q21610574
 ipni_surname: Therry
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12927-1), [Wikidata](https://www.wikidata.org/wiki/Q21610574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12927-1) LSID 12927-1, [Wikidata](https://www.wikidata.org/wiki/Q21610574) QID Q21610574
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

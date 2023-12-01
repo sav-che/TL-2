@@ -6,7 +6,7 @@ tl2_surname: Maas Geesteranus
 tl2_forenames: Rudolf Arnold
 tl2_name_abbrev: Maas G.
 tl2_dates: 1911–x
-tl2_page_id: 33355293
+tl2_bhl_page_id: 33355293
 author_lsid: 22666-1
 wikidata_id: Q7377389
 ipni_surname: Maas Geesteranus
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33355293) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22666-1), [Wikidata](https://www.wikidata.org/wiki/Q7377389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22666-1) LSID 22666-1, [Wikidata](https://www.wikidata.org/wiki/Q7377389) QID Q7377389
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

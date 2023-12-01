@@ -6,7 +6,7 @@ tl2_surname: Dugas
 tl2_forenames: Marguerite
 tl2_name_abbrev: Dugas
 tl2_dates: fl. 1928
-tl2_page_id: 33260140
+tl2_bhl_page_id: 33260140
 author_lsid: 18253-1
 wikidata_id: Q23044261
 ipni_surname: Dugas
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33260140) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18253-1), [Wikidata](https://www.wikidata.org/wiki/Q23044261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18253-1) LSID 18253-1, [Wikidata](https://www.wikidata.org/wiki/Q23044261) QID Q23044261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

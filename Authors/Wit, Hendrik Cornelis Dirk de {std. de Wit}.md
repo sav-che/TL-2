@@ -6,7 +6,7 @@ tl2_surname: Wit
 tl2_forenames: Hendrik Cornelis Dirk de
 tl2_name_abbrev: de Wit
 tl2_dates: 1909-x
-tl2_page_id: 33066735
+tl2_bhl_page_id: 33066735
 author_lsid: 2180-1
 wikidata_id: Q957174
 ipni_surname: de Wit
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33066735) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/2180-1), [Wikidata](https://www.wikidata.org/wiki/Q957174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2180-1) LSID 2180-1, [Wikidata](https://www.wikidata.org/wiki/Q957174) QID Q957174
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

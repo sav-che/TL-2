@@ -6,7 +6,7 @@ tl2_surname: Worsley
 tl2_forenames: Arthingon
 tl2_name_abbrev: Worsl.
 tl2_dates: 1861-1944
-tl2_page_id: 33066799
+tl2_bhl_page_id: 33066799
 author_lsid: 11872-1
 wikidata_id: Q708064
 ipni_surname: Worsley
@@ -24,7 +24,8 @@ ipni_record_modified: 2012-03-09 08:25:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33066799) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11872-1), [Wikidata](https://www.wikidata.org/wiki/Q708064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11872-1) LSID 11872-1, [Wikidata](https://www.wikidata.org/wiki/Q708064) QID Q708064
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

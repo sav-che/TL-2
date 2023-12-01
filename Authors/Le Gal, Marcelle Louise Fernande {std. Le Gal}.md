@@ -6,7 +6,7 @@ tl2_surname: Le Gal
 tl2_forenames: Marcelle Louise Fernande
 tl2_name_abbrev: Le Gal
 tl2_dates: 1895-x
-tl2_page_id: 33069057
+tl2_bhl_page_id: 33069057
 author_lsid: 22131-1
 wikidata_id: Q4255631
 ipni_surname: Le Gal
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22131-1), [Wikidata](https://www.wikidata.org/wiki/Q4255631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22131-1) LSID 22131-1, [Wikidata](https://www.wikidata.org/wiki/Q4255631) QID Q4255631
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Tedin
 tl2_forenames: Hans
 tl2_name_abbrev: Tedin
 tl2_dates: 1860-1930
-tl2_page_id: 33212240
+tl2_bhl_page_id: 33212240
 author_lsid: 10480-1
 wikidata_id: Q6205360
 ipni_surname: Tedin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33212240) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10480-1), [Wikidata](https://www.wikidata.org/wiki/Q6205360). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10480-1) LSID 10480-1, [Wikidata](https://www.wikidata.org/wiki/Q6205360) QID Q6205360
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

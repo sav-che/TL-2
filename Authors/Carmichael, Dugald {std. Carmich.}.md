@@ -6,7 +6,7 @@ tl2_surname: Carmichael
 tl2_forenames: Dugald
 tl2_name_abbrev: Carmich.
 tl2_dates: 1772-1827
-tl2_page_id: 33120588
+tl2_bhl_page_id: 33120588
 author_lsid: 1406-1
 wikidata_id: Q3040995
 ipni_surname: Carmichael
@@ -30,7 +30,8 @@ ipni_record_modified: 2013-05-15 11:27:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1406-1), [Wikidata](https://www.wikidata.org/wiki/Q3040995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1406-1) LSID 1406-1, [Wikidata](https://www.wikidata.org/wiki/Q3040995) QID Q3040995
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

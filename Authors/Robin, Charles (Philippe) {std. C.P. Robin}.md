@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0816
 tl2_volume: vol4
 tl2_page_printed: 811
 tl2_surname: Robin
-tl2_forenames: Charles [Philippe]
+tl2_forenames: Charles (Philippe)
 tl2_name_abbrev: C.P. Robin
 tl2_dates: 1821-1885
-tl2_page_id: 33190282
+tl2_bhl_page_id: 33190282
 author_lsid: 25678-1
 wikidata_id: Q716201
 ipni_surname: Robin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25678-1), [Wikidata](https://www.wikidata.org/wiki/Q716201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25678-1) LSID 25678-1, [Wikidata](https://www.wikidata.org/wiki/Q716201) QID Q716201
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

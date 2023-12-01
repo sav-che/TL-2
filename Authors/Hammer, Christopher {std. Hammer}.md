@@ -6,7 +6,7 @@ tl2_surname: Hammer
 tl2_forenames: Christopher
 tl2_name_abbrev: Hammer
 tl2_dates: 1720-1804
-tl2_page_id: 33068278
+tl2_bhl_page_id: 33068278
 author_lsid: 3602-1
 wikidata_id: Q11963793
 ipni_surname: Hammer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3602-1), [Wikidata](https://www.wikidata.org/wiki/Q11963793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3602-1) LSID 3602-1, [Wikidata](https://www.wikidata.org/wiki/Q11963793) QID Q11963793
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

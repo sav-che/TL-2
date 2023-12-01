@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0273
 tl2_volume: suppl8
 tl2_page_printed: 388
 tl2_surname: Griffiths
-tl2_forenames: B[enjamin]. Millard
+tl2_forenames: B(enjamin). Millard
 tl2_name_abbrev: B.M. Griffiths
 tl2_dates: 1886-1942
-tl2_page_id: 33258866
+tl2_bhl_page_id: 33258866
 author_lsid: 29370-1
 wikidata_id: Q21514282
 ipni_surname: Griffiths
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33258866) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/29370-1), [Wikidata](https://www.wikidata.org/wiki/Q21514282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29370-1) LSID 29370-1, [Wikidata](https://www.wikidata.org/wiki/Q21514282) QID Q21514282
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Breidler
 tl2_forenames: Johann
 tl2_name_abbrev: Breidl.
 tl2_dates: 1828-1913
-tl2_page_id: 33266357
+tl2_bhl_page_id: 33266357
 author_lsid: 1108-1
 wikidata_id: Q21341402
 ipni_surname: Breidler
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33266357) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1108-1), [Wikidata](https://www.wikidata.org/wiki/Q21341402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1108-1) LSID 1108-1, [Wikidata](https://www.wikidata.org/wiki/Q21341402) QID Q21341402
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Breidler, Johann {std. Breidl.}|first entry]] for this author
 

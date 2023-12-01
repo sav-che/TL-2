@@ -6,7 +6,7 @@ tl2_surname: Herder
 tl2_forenames: Ferdinand Gottfried Maximilian Theobald von
 tl2_name_abbrev: Herder
 tl2_dates: 1828-1896
-tl2_page_id: 33068409
+tl2_bhl_page_id: 33068409
 author_lsid: 3869-1
 wikidata_id: Q1348727
 ipni_surname: Herder
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33068409) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3869-1), [Wikidata](https://www.wikidata.org/wiki/Q1348727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3869-1) LSID 3869-1, [Wikidata](https://www.wikidata.org/wiki/Q1348727) QID Q1348727
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

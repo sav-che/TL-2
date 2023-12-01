@@ -6,7 +6,7 @@ tl2_surname: Knight
 tl2_forenames: Charles
 tl2_name_abbrev: C. Knight
 tl2_dates: 1818-1891/92
-tl2_page_id: 33068818
+tl2_bhl_page_id: 33068818
 author_lsid: 4870-1
 wikidata_id: Q5079846
 ipni_surname: Knight
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4870-1), [Wikidata](https://www.wikidata.org/wiki/Q5079846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4870-1) LSID 4870-1, [Wikidata](https://www.wikidata.org/wiki/Q5079846) QID Q5079846
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

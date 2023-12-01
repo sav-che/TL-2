@@ -6,7 +6,7 @@ tl2_surname: Steininger
 tl2_forenames: Hans
 tl2_name_abbrev: Steininger
 tl2_dates: 1856-1891
-tl2_page_id: 33334017
+tl2_bhl_page_id: 33334017
 author_lsid: 10084-1
 wikidata_id: Q21609734
 ipni_surname: Steininger
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33334017) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10084-1), [Wikidata](https://www.wikidata.org/wiki/Q21609734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10084-1) LSID 10084-1, [Wikidata](https://www.wikidata.org/wiki/Q21609734) QID Q21609734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

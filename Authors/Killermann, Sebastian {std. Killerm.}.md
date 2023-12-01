@@ -6,7 +6,7 @@ tl2_surname: Killermann
 tl2_forenames: Sebastian
 tl2_name_abbrev: Killerm.
 tl2_dates: 1870-1956
-tl2_page_id: 33068782
+tl2_bhl_page_id: 33068782
 author_lsid: 21410-1
 wikidata_id: Q2262842
 ipni_surname: Killermann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33068782) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21410-1), [Wikidata](https://www.wikidata.org/wiki/Q2262842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21410-1) LSID 21410-1, [Wikidata](https://www.wikidata.org/wiki/Q2262842) QID Q2262842
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

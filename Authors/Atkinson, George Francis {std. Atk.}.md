@@ -6,7 +6,7 @@ tl2_surname: Atkinson
 tl2_forenames: George Francis
 tl2_name_abbrev: Atk.
 tl2_dates: 1854-1918
-tl2_page_id: 33120209
+tl2_bhl_page_id: 33120209
 author_lsid: 31067-1
 wikidata_id: Q2634604
 ipni_surname: Atkinson
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33120209) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/31067-1), [Wikidata](https://www.wikidata.org/wiki/Q2634604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31067-1) LSID 31067-1, [Wikidata](https://www.wikidata.org/wiki/Q2634604) QID Q2634604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Atkinson, George Francis {std. Atk.} (Suppl.)|second entry]] for this author
 

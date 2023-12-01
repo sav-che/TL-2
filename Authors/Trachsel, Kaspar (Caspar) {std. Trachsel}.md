@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0453
 tl2_volume: vol6
 tl2_page_printed: 424
 tl2_surname: Trachsel
-tl2_forenames: Kaspar [Caspar]
+tl2_forenames: Kaspar (Caspar)
 tl2_name_abbrev: Trachsel
 tl2_dates: 1788-1832
-tl2_page_id: 33212466
+tl2_bhl_page_id: 33212466
 author_lsid: 10781-1
 wikidata_id: Q21610921
 ipni_surname: Trachsel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33212466) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10781-1), [Wikidata](https://www.wikidata.org/wiki/Q21610921). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10781-1) LSID 10781-1, [Wikidata](https://www.wikidata.org/wiki/Q21610921) QID Q21610921
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

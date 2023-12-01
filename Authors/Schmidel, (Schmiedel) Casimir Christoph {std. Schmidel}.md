@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0221
 tl2_volume: vol5
 tl2_page_printed: 237
 tl2_surname: Schmidel
-tl2_forenames: [Schmiedel] Casimir Christoph
+tl2_forenames: (Schmiedel) Casimir Christoph
 tl2_name_abbrev: Schmidel
 tl2_dates: 1718-1792
-tl2_page_id: 33333376
+tl2_bhl_page_id: 33333376
 author_lsid: 9147-1
 wikidata_id: Q69261
 ipni_surname: Schmidel
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:40:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33333376) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9147-1), [Wikidata](https://www.wikidata.org/wiki/Q69261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9147-1) LSID 9147-1, [Wikidata](https://www.wikidata.org/wiki/Q69261) QID Q69261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

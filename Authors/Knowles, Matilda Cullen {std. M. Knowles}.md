@@ -6,7 +6,7 @@ tl2_surname: Knowles
 tl2_forenames: Matilda Cullen
 tl2_name_abbrev: M. Knowles
 tl2_dates: 1864-1933
-tl2_page_id: 33068825
+tl2_bhl_page_id: 33068825
 author_lsid: 4882-1
 wikidata_id: Q6006151
 ipni_surname: Knowles
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4882-1), [Wikidata](https://www.wikidata.org/wiki/Q6006151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4882-1) LSID 4882-1, [Wikidata](https://www.wikidata.org/wiki/Q6006151) QID Q6006151
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Young
 tl2_forenames: Aaron
 tl2_name_abbrev: Aa. Young
 tl2_dates: 1819-1898
-tl2_page_id: 33066831
+tl2_bhl_page_id: 33066831
 author_lsid: 11945-1
 wikidata_id: Q21404524
 ipni_surname: Young
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33066831) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11945-1), [Wikidata](https://www.wikidata.org/wiki/Q21404524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11945-1) LSID 11945-1, [Wikidata](https://www.wikidata.org/wiki/Q21404524) QID Q21404524
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

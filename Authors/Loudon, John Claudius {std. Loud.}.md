@@ -6,7 +6,7 @@ tl2_surname: Loudon
 tl2_forenames: John Claudius
 tl2_name_abbrev: Loud.
 tl2_dates: 1783-1843
-tl2_page_id: 33355255
+tl2_bhl_page_id: 33355255
 author_lsid: 5771-1
 wikidata_id: Q1346111
 ipni_surname: Loudon
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33355255) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5771-1), [Wikidata](https://www.wikidata.org/wiki/Q1346111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5771-1) LSID 5771-1, [Wikidata](https://www.wikidata.org/wiki/Q1346111) QID Q1346111
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

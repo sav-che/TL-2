@@ -6,7 +6,7 @@ tl2_surname: Amo y Mora
 tl2_forenames: Mariano del
 tl2_name_abbrev: Amo
 tl2_dates: 1820-1896
-tl2_page_id: 33120173
+tl2_bhl_page_id: 33120173
 author_lsid: 182-1
 wikidata_id: Q9029033
 ipni_surname: Amo y Mora
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33120173) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/182-1), [Wikidata](https://www.wikidata.org/wiki/Q9029033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/182-1) LSID 182-1, [Wikidata](https://www.wikidata.org/wiki/Q9029033) QID Q9029033
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Amo y Mora, Mariano del {std. Amo} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Lagrèze-Fossat
 tl2_forenames: Adrien Rose Arnaud
 tl2_name_abbrev: Lagr.-Foss.
 tl2_dates: 1814-1874
-tl2_page_id: 33068966
+tl2_bhl_page_id: 33068966
 author_lsid: 5210-1
 wikidata_id: Q5658293
 ipni_surname: Lagrèze-Fossat
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33068966) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5210-1), [Wikidata](https://www.wikidata.org/wiki/Q5658293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5210-1) LSID 5210-1, [Wikidata](https://www.wikidata.org/wiki/Q5658293) QID Q5658293
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

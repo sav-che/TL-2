@@ -6,7 +6,7 @@ tl2_surname: Lyons
 tl2_forenames: Israel
 tl2_name_abbrev: I. Lyons
 tl2_dates: 1739-1775
-tl2_page_id: 33355291
+tl2_bhl_page_id: 33355291
 author_lsid: 5871-1
 wikidata_id: Q510592
 ipni_surname: Lyons
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33355291) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5871-1), [Wikidata](https://www.wikidata.org/wiki/Q510592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5871-1) LSID 5871-1, [Wikidata](https://www.wikidata.org/wiki/Q510592) QID Q510592
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

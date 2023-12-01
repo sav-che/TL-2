@@ -6,7 +6,7 @@ tl2_surname: Pollich
 tl2_forenames: Johann Adam
 tl2_name_abbrev: Poll.
 tl2_dates: 1740-1780
-tl2_page_id: 33189801
+tl2_bhl_page_id: 33189801
 author_lsid: 7818-1
 wikidata_id: Q68935
 ipni_surname: Pollich
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:44:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7818-1), [Wikidata](https://www.wikidata.org/wiki/Q68935). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7818-1) LSID 7818-1, [Wikidata](https://www.wikidata.org/wiki/Q68935) QID Q68935
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Desfontaines
 tl2_forenames: René Louiche
 tl2_name_abbrev: Desf.
 tl2_dates: 1750-1833
-tl2_page_id: 33259266
+tl2_bhl_page_id: 33259266
 author_lsid: 17958-1
 wikidata_id: Q545953
 ipni_surname: Desfontaines
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259266) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17958-1), [Wikidata](https://www.wikidata.org/wiki/Q545953). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17958-1) LSID 17958-1, [Wikidata](https://www.wikidata.org/wiki/Q545953) QID Q545953
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Desfontaines, René Louiche {std. Desf.}|first entry]] for this author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0912
 tl2_volume: vol5
 tl2_page_printed: 905
 tl2_surname: Sterner
-tl2_forenames: [Karl] Rikard
+tl2_forenames: (Karl) Rikard
 tl2_name_abbrev: Sterner
 tl2_dates: 1891-1956
-tl2_page_id: 33334044
+tl2_bhl_page_id: 33334044
 author_lsid: 10119-1
 wikidata_id: Q5958317
 ipni_surname: Sterner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33334044) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10119-1), [Wikidata](https://www.wikidata.org/wiki/Q5958317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10119-1) LSID 10119-1, [Wikidata](https://www.wikidata.org/wiki/Q5958317) QID Q5958317
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

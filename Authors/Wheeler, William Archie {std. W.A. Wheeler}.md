@@ -6,7 +6,7 @@ tl2_surname: Wheeler
 tl2_forenames: William Archie
 tl2_name_abbrev: W.A. Wheeler
 tl2_dates: 1876-1968
-tl2_page_id: 33066580
+tl2_bhl_page_id: 33066580
 author_lsid: 11606-1
 wikidata_id: Q21612569
 ipni_surname: Wheeler
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33066580) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11606-1), [Wikidata](https://www.wikidata.org/wiki/Q21612569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11606-1) LSID 11606-1, [Wikidata](https://www.wikidata.org/wiki/Q21612569) QID Q21612569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

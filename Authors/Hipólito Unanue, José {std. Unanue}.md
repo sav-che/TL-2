@@ -6,7 +6,7 @@ tl2_surname: Hipólito Unanue
 tl2_forenames: José
 tl2_name_abbrev: Unanue
 tl2_dates: 1755/8-1833
-tl2_page_id: 33068451
+tl2_bhl_page_id: 33068451
 author_lsid: 10979-1
 wikidata_id: Q2332382
 ipni_surname: Unanue
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:36:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33068451) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/10979-1), [Wikidata](https://www.wikidata.org/wiki/Q2332382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10979-1) LSID 10979-1, [Wikidata](https://www.wikidata.org/wiki/Q2332382) QID Q2332382
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Unanue, José Hipólito {std. Unanue} (Suppl.)|second entry]] for this author
 

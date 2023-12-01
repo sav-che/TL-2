@@ -6,7 +6,7 @@ tl2_surname: Mikan
 tl2_forenames: Joseph Gottfried
 tl2_name_abbrev: J.G. Mikan
 tl2_dates: 1743-1814
-tl2_page_id: 33355570
+tl2_bhl_page_id: 33355570
 author_lsid: 6460-1
 wikidata_id: Q3500567
 ipni_surname: Mikan
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6460-1), [Wikidata](https://www.wikidata.org/wiki/Q3500567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6460-1) LSID 6460-1, [Wikidata](https://www.wikidata.org/wiki/Q3500567) QID Q3500567
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

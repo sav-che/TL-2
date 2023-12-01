@@ -6,7 +6,7 @@ tl2_surname: Bonar
 tl2_forenames: Lee
 tl2_name_abbrev: Bonar
 tl2_dates: 1891-1977
-tl2_page_id: 33265503
+tl2_bhl_page_id: 33265503
 author_lsid: 16316-1
 wikidata_id: Q21339363
 ipni_surname: Bonar
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265503) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16316-1), [Wikidata](https://www.wikidata.org/wiki/Q21339363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16316-1) LSID 16316-1, [Wikidata](https://www.wikidata.org/wiki/Q21339363) QID Q21339363
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

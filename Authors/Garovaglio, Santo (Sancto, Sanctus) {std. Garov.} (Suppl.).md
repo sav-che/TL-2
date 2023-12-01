@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0091
 tl2_volume: suppl8
 tl2_page_printed: 129
 tl2_surname: Garovaglio
-tl2_forenames: Santo [Sancto, Sanctus]
+tl2_forenames: Santo (Sancto, Sanctus)
 tl2_name_abbrev: Garov.
 tl2_dates: 1805-1882
-tl2_page_id: 33258607
+tl2_bhl_page_id: 33258607
 author_lsid: 19178-1
 wikidata_id: Q15253517
 ipni_surname: Garovaglio
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33258607) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19178-1), [Wikidata](https://www.wikidata.org/wiki/Q15253517). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19178-1) LSID 19178-1, [Wikidata](https://www.wikidata.org/wiki/Q15253517) QID Q15253517
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Garovaglio, Santo {std. Garov.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Le Turquier de Longchamp
 tl2_forenames: Joseph Alexandre
 tl2_name_abbrev: Le Turq.
 tl2_dates: 1748-1829
-tl2_page_id: 33069102
+tl2_bhl_page_id: 33069102
 author_lsid: 5523-1
 wikidata_id: Q21518471
 ipni_surname: Le Turquier de Longchamp
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33069102) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5523-1), [Wikidata](https://www.wikidata.org/wiki/Q21518471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5523-1) LSID 5523-1, [Wikidata](https://www.wikidata.org/wiki/Q21518471) QID Q21518471
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

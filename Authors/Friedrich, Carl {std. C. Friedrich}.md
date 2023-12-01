@@ -6,7 +6,7 @@ tl2_surname: Friedrich
 tl2_forenames: Carl
 tl2_name_abbrev: C. Friedrich
 tl2_dates: 1857-1928?
-tl2_page_id: 33258513
+tl2_bhl_page_id: 33258513
 author_lsid: 20035152-1
 wikidata_id: Q88815949
 ipni_surname: Friedrich
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33258513) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20035152-1), [Wikidata](https://www.wikidata.org/wiki/Q88815949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20035152-1) LSID 20035152-1, [Wikidata](https://www.wikidata.org/wiki/Q88815949) QID Q88815949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

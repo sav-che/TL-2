@@ -6,7 +6,7 @@ tl2_surname: Abbayes
 tl2_forenames: Henri des
 tl2_name_abbrev: Abbayes
 tl2_dates: 1898-1974
-tl2_page_id: 33120094
+tl2_bhl_page_id: 33120094
 author_lsid: 25-1
 wikidata_id: Q953305
 ipni_surname: Abbayes
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/25-1), [Wikidata](https://www.wikidata.org/wiki/Q953305). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25-1) LSID 25-1, [Wikidata](https://www.wikidata.org/wiki/Q953305) QID Q953305
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Abbayes, Henri (Robert) Nicollon des {std. Abbayes} (Suppl.)|second entry]] for this author
 

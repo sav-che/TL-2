@@ -6,7 +6,7 @@ tl2_surname: Neal
 tl2_forenames: Marie Catherine
 tl2_name_abbrev: M. Neal
 tl2_dates: 1889-1965
-tl2_page_id: 33355788
+tl2_bhl_page_id: 33355788
 author_lsid: 6879-1
 wikidata_id: Q21522018
 ipni_surname: Neal
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6879-1), [Wikidata](https://www.wikidata.org/wiki/Q21522018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6879-1) LSID 6879-1, [Wikidata](https://www.wikidata.org/wiki/Q21522018) QID Q21522018
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

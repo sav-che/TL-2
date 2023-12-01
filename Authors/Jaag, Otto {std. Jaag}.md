@@ -6,7 +6,7 @@ tl2_surname: Jaag
 tl2_forenames: Otto
 tl2_name_abbrev: Jaag
 tl2_dates: 1900-x
-tl2_page_id: 33068634
+tl2_bhl_page_id: 33068634
 author_lsid: 4351-1
 wikidata_id: Q2039366
 ipni_surname: Jaag
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33068634) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4351-1), [Wikidata](https://www.wikidata.org/wiki/Q2039366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4351-1) LSID 4351-1, [Wikidata](https://www.wikidata.org/wiki/Q2039366) QID Q2039366
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

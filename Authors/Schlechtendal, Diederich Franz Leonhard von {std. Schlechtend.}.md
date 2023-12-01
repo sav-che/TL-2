@@ -6,7 +6,7 @@ tl2_surname: Schlechtendal
 tl2_forenames: Diederich Franz Leonhard von
 tl2_name_abbrev: Schlechtend.
 tl2_dates: 1794-1866
-tl2_page_id: 33333329
+tl2_bhl_page_id: 33333329
 author_lsid: 9114-1
 wikidata_id: Q62826
 ipni_surname: Schlechtendal
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9114-1), [Wikidata](https://www.wikidata.org/wiki/Q62826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9114-1) LSID 9114-1, [Wikidata](https://www.wikidata.org/wiki/Q62826) QID Q62826
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

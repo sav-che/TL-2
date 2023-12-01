@@ -6,7 +6,7 @@ tl2_surname: Wohlleben
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: Wohll.
 tl2_dates: x-1796
-tl2_page_id: 33066758
+tl2_bhl_page_id: 33066758
 author_lsid: 11809-1
 wikidata_id: Q21612898
 ipni_surname: Wohlleben
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33066758) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11809-1), [Wikidata](https://www.wikidata.org/wiki/Q21612898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11809-1) LSID 11809-1, [Wikidata](https://www.wikidata.org/wiki/Q21612898) QID Q21612898
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

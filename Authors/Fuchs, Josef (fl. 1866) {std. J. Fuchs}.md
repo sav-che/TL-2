@@ -6,7 +6,7 @@ tl2_surname: Fuchs
 tl2_forenames: Josef (fl. 1866)
 tl2_name_abbrev: J. Fuchs
 tl2_dates: fl. 1866
-tl2_page_id: 33258548
+tl2_bhl_page_id: 33258548
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33258548) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

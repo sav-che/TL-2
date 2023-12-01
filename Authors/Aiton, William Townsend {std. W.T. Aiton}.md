@@ -6,7 +6,7 @@ tl2_surname: Aiton
 tl2_forenames: William Townsend
 tl2_name_abbrev: W.T. Aiton
 tl2_dates: 1766-1849
-tl2_page_id: 33120157
+tl2_bhl_page_id: 33120157
 author_lsid: 111-1
 wikidata_id: Q1350149
 ipni_surname: Aiton
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/111-1), [Wikidata](https://www.wikidata.org/wiki/Q1350149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/111-1) LSID 111-1, [Wikidata](https://www.wikidata.org/wiki/Q1350149) QID Q1350149
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Aiton, William Townsend {std. W.T. Aiton} (Suppl.)|second entry]] for this author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol6_0029
 tl2_volume: vol6
 tl2_page_printed: 21
-tl2_surname: Stolz [Stoltz]
-tl2_forenames: Jean-Chrétien [Johann Christian]
+tl2_surname: Stolz (Stoltz)
+tl2_forenames: Jean-Chrétien (Johann Christian)
 tl2_name_abbrev: J.-C. Stolz
 tl2_dates: 1764-1828
-tl2_page_id: 33212073
+tl2_bhl_page_id: 33212073
 author_lsid: 10177-1
 wikidata_id: Q21609892
 ipni_surname: Stoltz
@@ -23,7 +23,8 @@ ipni_record_modified: 2009-01-08 11:19:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33212073) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10177-1), [Wikidata](https://www.wikidata.org/wiki/Q21609892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10177-1) LSID 10177-1, [Wikidata](https://www.wikidata.org/wiki/Q21609892) QID Q21609892
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

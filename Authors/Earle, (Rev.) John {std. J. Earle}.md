@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl6_0245
 tl2_volume: suppl6
 tl2_page_printed: 234
 tl2_surname: Earle
-tl2_forenames: [Rev.] John
+tl2_forenames: (Rev.) John
 tl2_name_abbrev: J. Earle
 tl2_dates: 1824-1903
-tl2_page_id: 33260222
+tl2_bhl_page_id: 33260222
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33260222) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

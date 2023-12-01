@@ -6,7 +6,7 @@ tl2_surname: Wood
 tl2_forenames: John Medley
 tl2_name_abbrev: J-M. Wood
 tl2_dates: 1827-1915
-tl2_page_id: 33066778
+tl2_bhl_page_id: 33066778
 author_lsid: 11845-1
 wikidata_id: Q1701052
 ipni_surname: Wood
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11845-1), [Wikidata](https://www.wikidata.org/wiki/Q1701052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11845-1) LSID 11845-1, [Wikidata](https://www.wikidata.org/wiki/Q1701052) QID Q1701052
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

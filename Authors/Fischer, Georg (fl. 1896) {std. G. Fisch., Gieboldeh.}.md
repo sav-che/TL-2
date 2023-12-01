@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Georg (fl. 1896)
 tl2_name_abbrev: G. Fisch., Gieboldeh.
 tl2_dates: fl. 1896
-tl2_page_id: 33259717
+tl2_bhl_page_id: 33259717
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259717) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

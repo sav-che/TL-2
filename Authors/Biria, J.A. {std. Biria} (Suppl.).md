@@ -6,7 +6,7 @@ tl2_surname: Biria
 tl2_forenames: J.A.
 tl2_name_abbrev: Biria
 tl2_dates: fl. 1811
-tl2_page_id: 33265369
+tl2_bhl_page_id: 33265369
 author_lsid: 803-1
 wikidata_id: Q13409387
 ipni_surname: Biria
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265369) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/803-1), [Wikidata](https://www.wikidata.org/wiki/Q13409387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/803-1) LSID 803-1, [Wikidata](https://www.wikidata.org/wiki/Q13409387) QID Q13409387
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Biria, J. A. J. {std. Biria}|first entry]] for this author
 

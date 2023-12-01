@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Annie Lorrain
 tl2_name_abbrev: A.L. Sm.
 tl2_dates: 1854-1937
-tl2_page_id: 33333802
+tl2_bhl_page_id: 33333802
 author_lsid: 9773-1
 wikidata_id: Q4267084
 ipni_surname: Smith
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33333802) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9773-1), [Wikidata](https://www.wikidata.org/wiki/Q4267084). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9773-1) LSID 9773-1, [Wikidata](https://www.wikidata.org/wiki/Q4267084) QID Q4267084
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

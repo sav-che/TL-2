@@ -6,7 +6,7 @@ tl2_surname: Rosenstock
 tl2_forenames: Eduard
 tl2_name_abbrev: Rosenstock
 tl2_dates: 1856-post 1928
-tl2_page_id: 33190364
+tl2_bhl_page_id: 33190364
 author_lsid: 8600-1
 wikidata_id: Q2883617
 ipni_surname: Rosenstock
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8600-1), [Wikidata](https://www.wikidata.org/wiki/Q2883617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8600-1) LSID 8600-1, [Wikidata](https://www.wikidata.org/wiki/Q2883617) QID Q2883617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Phillips
 tl2_forenames: Robert Albert
 tl2_name_abbrev: R.A. Phillips
 tl2_dates: 1866-1945
-tl2_page_id: 33189714
+tl2_bhl_page_id: 33189714
 author_lsid: 7646-1
 wikidata_id: Q21522958
 ipni_surname: Phillips
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7646-1), [Wikidata](https://www.wikidata.org/wiki/Q21522958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7646-1) LSID 7646-1, [Wikidata](https://www.wikidata.org/wiki/Q21522958) QID Q21522958
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

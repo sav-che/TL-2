@@ -6,7 +6,7 @@ tl2_surname: Barton
 tl2_forenames: Ethel Sarel
 tl2_name_abbrev: E. Barton
 tl2_dates: 1864-1922
-tl2_page_id: 33265076
+tl2_bhl_page_id: 33265076
 author_lsid: 32363-1
 wikidata_id: Q21341607
 ipni_surname: Barton
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33265076) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/32363-1), [Wikidata](https://www.wikidata.org/wiki/Q21341607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32363-1) LSID 32363-1, [Wikidata](https://www.wikidata.org/wiki/Q21341607) QID Q21341607
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gepp, Ethel Sarel (née Barton) {std. E. Gepp}|first entry]] for this author
 ### Author

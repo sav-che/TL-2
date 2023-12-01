@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0245
 tl2_volume: vol6
 tl2_page_printed: 207
 tl2_surname: Tempère
-tl2_forenames: Joannes Albert [Jean Clodius]
+tl2_forenames: Joannes Albert (Jean Clodius)
 tl2_name_abbrev: Temp.
 tl2_dates: 1847-1926
-tl2_page_id: 33212249
+tl2_bhl_page_id: 33212249
 author_lsid: 10496-1
 wikidata_id: Q21390270
 ipni_surname: Tempère
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33212249) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10496-1), [Wikidata](https://www.wikidata.org/wiki/Q21390270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10496-1) LSID 10496-1, [Wikidata](https://www.wikidata.org/wiki/Q21390270) QID Q21390270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

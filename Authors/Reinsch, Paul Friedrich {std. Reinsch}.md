@@ -6,7 +6,7 @@ tl2_surname: Reinsch
 tl2_forenames: Paul Friedrich
 tl2_name_abbrev: Reinsch
 tl2_dates: 1836-1914
-tl2_page_id: 33190177
+tl2_bhl_page_id: 33190177
 author_lsid: 8275-1
 wikidata_id: Q6067171
 ipni_surname: Reinsch
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33190177) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8275-1), [Wikidata](https://www.wikidata.org/wiki/Q6067171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8275-1) LSID 8275-1, [Wikidata](https://www.wikidata.org/wiki/Q6067171) QID Q6067171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

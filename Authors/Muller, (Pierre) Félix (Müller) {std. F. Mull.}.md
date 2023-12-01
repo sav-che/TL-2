@@ -6,7 +6,7 @@ tl2_surname: Muller
 tl2_forenames: (Pierre) Félix (Müller)
 tl2_name_abbrev: F. Mull.
 tl2_dates: 1818-1896
-tl2_page_id: 33355746
+tl2_bhl_page_id: 33355746
 author_lsid: 6770-1
 wikidata_id: Q21521863
 ipni_surname: Muller
@@ -22,7 +22,8 @@ ipni_record_modified: 2006-01-13 11:12:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6770-1), [Wikidata](https://www.wikidata.org/wiki/Q21521863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6770-1) LSID 6770-1, [Wikidata](https://www.wikidata.org/wiki/Q21521863) QID Q21521863
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

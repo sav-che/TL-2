@@ -6,7 +6,7 @@ tl2_surname: Vocke
 tl2_forenames: Adolf
 tl2_name_abbrev: Vocke
 tl2_dates: 1821-1901
-tl2_page_id: 33212805
+tl2_bhl_page_id: 33212805
 author_lsid: 11230-1
 wikidata_id: Q19125433
 ipni_surname: Vocke
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11230-1), [Wikidata](https://www.wikidata.org/wiki/Q19125433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11230-1) LSID 11230-1, [Wikidata](https://www.wikidata.org/wiki/Q19125433) QID Q19125433
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

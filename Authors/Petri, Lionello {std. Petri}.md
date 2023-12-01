@@ -6,7 +6,7 @@ tl2_surname: Petri
 tl2_forenames: Lionello
 tl2_name_abbrev: Petri
 tl2_dates: 1875-1946
-tl2_page_id: 33189680
+tl2_bhl_page_id: 33189680
 author_lsid: 14480-1
 wikidata_id: Q5976847
 ipni_surname: Petri
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33189680) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/14480-1), [Wikidata](https://www.wikidata.org/wiki/Q5976847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14480-1) LSID 14480-1, [Wikidata](https://www.wikidata.org/wiki/Q5976847) QID Q5976847
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

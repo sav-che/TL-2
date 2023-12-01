@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0318
 tl2_volume: suppl8
 tl2_page_printed: 437
-tl2_surname: Gürke [Guerke]
-tl2_forenames: Robert Louis August Maximilian [Max]
+tl2_surname: Gürke (Guerke)
+tl2_forenames: Robert Louis August Maximilian (Max)
 tl2_name_abbrev: Gürke
 tl2_dates: 1854-1911
-tl2_page_id: 33258915
+tl2_bhl_page_id: 33258915
 author_lsid: 12524-1
 wikidata_id: Q71382
 ipni_surname: Gürke
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33258915) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/12524-1), [Wikidata](https://www.wikidata.org/wiki/Q71382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12524-1) LSID 12524-1, [Wikidata](https://www.wikidata.org/wiki/Q71382) QID Q71382
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Guerke, Robert Louis August Maximilian (Max) {std. Gürke}|first entry]] for this author
 

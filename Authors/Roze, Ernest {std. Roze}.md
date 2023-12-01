@@ -6,7 +6,7 @@ tl2_surname: Roze
 tl2_forenames: Ernest
 tl2_name_abbrev: Roze
 tl2_dates: 1833-1900
-tl2_page_id: 33190434
+tl2_bhl_page_id: 33190434
 author_lsid: 8690-1
 wikidata_id: Q6430761
 ipni_surname: Roze
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/page/33190434) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8690-1), [Wikidata](https://www.wikidata.org/wiki/Q6430761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8690-1) LSID 8690-1, [Wikidata](https://www.wikidata.org/wiki/Q6430761) QID Q6430761
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

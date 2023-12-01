@@ -6,7 +6,7 @@ tl2_surname: Defrance
 tl2_forenames: Jacques Louis Marin
 tl2_name_abbrev: Defrance
 tl2_dates: 1758-1850
-tl2_page_id: 33120741
+tl2_bhl_page_id: 33120741
 author_lsid: 2077-1
 wikidata_id: Q20171550
 ipni_surname: Defrance
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2077-1), [Wikidata](https://www.wikidata.org/wiki/Q20171550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2077-1) LSID 2077-1, [Wikidata](https://www.wikidata.org/wiki/Q20171550) QID Q20171550
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

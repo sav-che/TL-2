@@ -6,7 +6,7 @@ tl2_surname: Dowding
 tl2_forenames: Eleanor Silver
 tl2_name_abbrev: Dowding
 tl2_dates: 1901-x
-tl2_page_id: 33260068
+tl2_bhl_page_id: 33260068
 author_lsid: 18179-1
 wikidata_id: Q36544670
 ipni_surname: Dowding
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18179-1), [Wikidata](https://www.wikidata.org/wiki/Q36544670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18179-1) LSID 18179-1, [Wikidata](https://www.wikidata.org/wiki/Q36544670) QID Q36544670
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

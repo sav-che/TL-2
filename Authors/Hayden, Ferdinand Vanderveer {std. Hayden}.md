@@ -6,7 +6,7 @@ tl2_surname: Hayden
 tl2_forenames: Ferdinand Vanderveer
 tl2_name_abbrev: Hayden
 tl2_dates: 1829-1887
-tl2_page_id: 33068351
+tl2_bhl_page_id: 33068351
 author_lsid: 3745-1
 wikidata_id: Q951629
 ipni_surname: Hayden
@@ -24,7 +24,8 @@ ipni_record_modified: 2014-03-21 15:14:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33068351) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3745-1), [Wikidata](https://www.wikidata.org/wiki/Q951629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3745-1) LSID 3745-1, [Wikidata](https://www.wikidata.org/wiki/Q951629) QID Q951629
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

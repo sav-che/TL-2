@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Charles Eastwick
 tl2_name_abbrev: C.E. Sm.
 tl2_dates: 1820-1900
-tl2_page_id: 33333805
+tl2_bhl_page_id: 33333805
 author_lsid: 9776-1
 wikidata_id: Q21388759
 ipni_surname: Smith
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33333805) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9776-1), [Wikidata](https://www.wikidata.org/wiki/Q21388759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9776-1) LSID 9776-1, [Wikidata](https://www.wikidata.org/wiki/Q21388759) QID Q21388759
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

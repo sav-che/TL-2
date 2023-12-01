@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0749
 tl2_volume: vol1
 tl2_page_printed: 596
 tl2_surname: Dangeard
-tl2_forenames: Pierre [Clement] Augustin
+tl2_forenames: Pierre (Clement) Augustin
 tl2_name_abbrev: P.A. Dang.
 tl2_dates: 1862-1947
-tl2_page_id: 33120727
+tl2_bhl_page_id: 33120727
 author_lsid: 12452-1
 wikidata_id: Q976009
 ipni_surname: Dangeard
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33120727) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12452-1), [Wikidata](https://www.wikidata.org/wiki/Q976009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12452-1) LSID 12452-1, [Wikidata](https://www.wikidata.org/wiki/Q976009) QID Q976009
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dangeard, Pierre-Augustin (Clément) {std. P.A. Dang.} (Suppl.)|second entry]] for this author
 

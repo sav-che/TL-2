@@ -6,7 +6,7 @@ tl2_surname: Skalinska
 tl2_forenames: Maria
 tl2_name_abbrev: Skalinska
 tl2_dates: 1890-1977
-tl2_page_id: 33333763
+tl2_bhl_page_id: 33333763
 author_lsid: 9711-1
 wikidata_id: Q15991170
 ipni_surname: Skalińska
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33333763) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9711-1), [Wikidata](https://www.wikidata.org/wiki/Q15991170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9711-1) LSID 9711-1, [Wikidata](https://www.wikidata.org/wiki/Q15991170) QID Q15991170
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

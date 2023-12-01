@@ -6,7 +6,7 @@ tl2_surname: Brues
 tl2_forenames: Charles Thomas
 tl2_name_abbrev: C.T. Brues
 tl2_dates: 1879-1955
-tl2_page_id: 33266461
+tl2_bhl_page_id: 33266461
 author_lsid: 38032-1
 wikidata_id: Q2960318
 ipni_surname: Brues
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33266461) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/38032-1), [Wikidata](https://www.wikidata.org/wiki/Q2960318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/38032-1) LSID 38032-1, [Wikidata](https://www.wikidata.org/wiki/Q2960318) QID Q2960318
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

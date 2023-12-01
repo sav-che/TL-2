@@ -6,7 +6,7 @@ tl2_surname: Massart
 tl2_forenames: Jean
 tl2_name_abbrev: Massart
 tl2_dates: 1865-1925
-tl2_page_id: 33355445
+tl2_bhl_page_id: 33355445
 author_lsid: 6201-1
 wikidata_id: Q2482340
 ipni_surname: Massart
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33355445) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6201-1), [Wikidata](https://www.wikidata.org/wiki/Q2482340). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6201-1) LSID 6201-1, [Wikidata](https://www.wikidata.org/wiki/Q2482340) QID Q2482340
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

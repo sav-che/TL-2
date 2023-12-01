@@ -6,7 +6,7 @@ tl2_surname: Bouché
 tl2_forenames: Carl David
 tl2_name_abbrev: C.D. Bouché
 tl2_dates: 1809-1881
-tl2_page_id: 33265572
+tl2_bhl_page_id: 33265572
 author_lsid: 1015-1
 wikidata_id: Q71825
 ipni_surname: Bouché
@@ -24,7 +24,8 @@ ipni_record_modified: 2009-07-10 11:30:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265572) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1015-1), [Wikidata](https://www.wikidata.org/wiki/Q71825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1015-1) LSID 1015-1, [Wikidata](https://www.wikidata.org/wiki/Q71825) QID Q71825
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

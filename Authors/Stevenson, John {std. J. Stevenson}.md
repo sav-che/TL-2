@@ -6,7 +6,7 @@ tl2_surname: Stevenson
 tl2_forenames: John
 tl2_name_abbrev: J. Stevenson
 tl2_dates: 1836-1903
-tl2_page_id: 33334058
+tl2_bhl_page_id: 33334058
 author_lsid: 10132-1
 wikidata_id: Q5933612
 ipni_surname: Stevenson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33334058) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10132-1), [Wikidata](https://www.wikidata.org/wiki/Q5933612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10132-1) LSID 10132-1, [Wikidata](https://www.wikidata.org/wiki/Q5933612) QID Q5933612
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

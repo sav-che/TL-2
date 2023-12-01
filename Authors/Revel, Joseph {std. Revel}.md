@@ -6,7 +6,7 @@ tl2_surname: Revel
 tl2_forenames: Joseph
 tl2_name_abbrev: Revel
 tl2_dates: 1811-1883
-tl2_page_id: 33190216
+tl2_bhl_page_id: 33190216
 author_lsid: 8315-1
 wikidata_id: Q19004116
 ipni_surname: Revel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33190216) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8315-1), [Wikidata](https://www.wikidata.org/wiki/Q19004116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8315-1) LSID 8315-1, [Wikidata](https://www.wikidata.org/wiki/Q19004116) QID Q19004116
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

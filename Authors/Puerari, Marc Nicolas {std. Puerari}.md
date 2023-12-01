@@ -6,7 +6,7 @@ tl2_surname: Puerari
 tl2_forenames: Marc Nicolas
 tl2_name_abbrev: Puerari
 tl2_dates: 1766-1845
-tl2_page_id: 33189894
+tl2_bhl_page_id: 33189894
 author_lsid: 8010-1
 wikidata_id: Q3288287
 ipni_surname: Puerari
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8010-1), [Wikidata](https://www.wikidata.org/wiki/Q3288287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8010-1) LSID 8010-1, [Wikidata](https://www.wikidata.org/wiki/Q3288287) QID Q3288287
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

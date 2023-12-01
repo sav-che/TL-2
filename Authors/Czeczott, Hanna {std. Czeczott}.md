@@ -6,7 +6,7 @@ tl2_surname: Czeczott
 tl2_forenames: Hanna
 tl2_name_abbrev: Czeczott
 tl2_dates: 1888-1982
-tl2_page_id: 33266207
+tl2_bhl_page_id: 33266207
 author_lsid: 1945-1
 wikidata_id: Q5891798
 ipni_surname: Czeczott
@@ -24,7 +24,8 @@ ipni_record_modified: 2017-04-29 19:40:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33266207) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1945-1), [Wikidata](https://www.wikidata.org/wiki/Q5891798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1945-1) LSID 1945-1, [Wikidata](https://www.wikidata.org/wiki/Q5891798) QID Q5891798
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

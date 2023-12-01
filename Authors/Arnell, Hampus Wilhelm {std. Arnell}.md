@@ -6,7 +6,7 @@ tl2_surname: Arnell
 tl2_forenames: Hampus Wilhelm
 tl2_name_abbrev: Arnell
 tl2_dates: 1848-1932
-tl2_page_id: 33120196
+tl2_bhl_page_id: 33120196
 author_lsid: 274-1
 wikidata_id: Q5559534
 ipni_surname: Arnell
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33120196) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/274-1), [Wikidata](https://www.wikidata.org/wiki/Q5559534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/274-1) LSID 274-1, [Wikidata](https://www.wikidata.org/wiki/Q5559534) QID Q5559534
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arnell, Hampus Wilhelm {std. Arnell} (Suppl.)|second entry]] for this author
 

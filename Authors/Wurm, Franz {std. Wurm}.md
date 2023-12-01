@@ -6,7 +6,7 @@ tl2_surname: Wurm
 tl2_forenames: Franz
 tl2_name_abbrev: Wurm
 tl2_dates: 1845-1922
-tl2_page_id: 33066820
+tl2_bhl_page_id: 33066820
 author_lsid: 11909-1
 wikidata_id: Q21613116
 ipni_surname: Wurm
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11909-1), [Wikidata](https://www.wikidata.org/wiki/Q21613116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11909-1) LSID 11909-1, [Wikidata](https://www.wikidata.org/wiki/Q21613116) QID Q21613116
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

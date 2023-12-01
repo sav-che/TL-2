@@ -6,7 +6,7 @@ tl2_surname: Goodale
 tl2_forenames: George Lincoln
 tl2_name_abbrev: Goodale
 tl2_dates: 1839-1923
-tl2_page_id: 33258780
+tl2_bhl_page_id: 33258780
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33258780) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

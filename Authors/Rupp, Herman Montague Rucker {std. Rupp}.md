@@ -6,7 +6,7 @@ tl2_surname: Rupp
 tl2_forenames: Herman Montague Rucker
 tl2_name_abbrev: Rupp
 tl2_dates: 1872-1956
-tl2_page_id: 33190462
+tl2_bhl_page_id: 33190462
 author_lsid: 8744-1
 wikidata_id: Q3281684
 ipni_surname: Rupp
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 991](https://www.biodiversitylibrary.org/page/33190462) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8744-1), [Wikidata](https://www.wikidata.org/wiki/Q3281684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8744-1) LSID 8744-1, [Wikidata](https://www.wikidata.org/wiki/Q3281684) QID Q3281684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

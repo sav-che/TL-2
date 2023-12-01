@@ -6,7 +6,7 @@ tl2_surname: Fée
 tl2_forenames: Antoine Laurent Apollinaire
 tl2_name_abbrev: Fée
 tl2_dates: 1789-1874
-tl2_page_id: 33120949
+tl2_bhl_page_id: 33120949
 author_lsid: 18692-1
 wikidata_id: Q2627241
 ipni_surname: Fée
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33120949) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18692-1), [Wikidata](https://www.wikidata.org/wiki/Q2627241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18692-1) LSID 18692-1, [Wikidata](https://www.wikidata.org/wiki/Q2627241) QID Q2627241
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fée, Antoine Laurent Apollinaire {std. Fée} (Suppl.)|second entry]] for this author
 

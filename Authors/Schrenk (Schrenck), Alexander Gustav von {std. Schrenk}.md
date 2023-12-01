@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol5_0324
 tl2_volume: vol5
 tl2_page_printed: 333
-tl2_surname: Schrenk [Schrenck]
+tl2_surname: Schrenk (Schrenck)
 tl2_forenames: Alexander Gustav von
 tl2_name_abbrev: Schrenk
 tl2_dates: 1816-1876
-tl2_page_id: 33333472
+tl2_bhl_page_id: 33333472
 author_lsid: 9263-1
 wikidata_id: Q519196
 ipni_surname: Schrenk
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33333472) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9263-1), [Wikidata](https://www.wikidata.org/wiki/Q519196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9263-1) LSID 9263-1, [Wikidata](https://www.wikidata.org/wiki/Q519196) QID Q519196
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

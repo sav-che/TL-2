@@ -6,7 +6,7 @@ tl2_surname: Koidzumi
 tl2_forenames: Gen-Iti (Genichi)
 tl2_name_abbrev: Koidz.
 tl2_dates: 1883-1953
-tl2_page_id: 33068850
+tl2_bhl_page_id: 33068850
 author_lsid: 4931-1
 wikidata_id: Q941892
 ipni_surname: Koidzumi
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:33:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4931-1), [Wikidata](https://www.wikidata.org/wiki/Q941892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4931-1) LSID 4931-1, [Wikidata](https://www.wikidata.org/wiki/Q941892) QID Q941892
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

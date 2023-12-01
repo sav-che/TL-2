@@ -6,7 +6,7 @@ tl2_surname: Dana
 tl2_forenames: James Dwight
 tl2_name_abbrev: Dana
 tl2_dates: 1813-1895
-tl2_page_id: 33120726
+tl2_bhl_page_id: 33120726
 author_lsid: 1978-1
 wikidata_id: Q315366
 ipni_surname: Dana
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33120726) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1978-1), [Wikidata](https://www.wikidata.org/wiki/Q315366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1978-1) LSID 1978-1, [Wikidata](https://www.wikidata.org/wiki/Q315366) QID Q315366
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

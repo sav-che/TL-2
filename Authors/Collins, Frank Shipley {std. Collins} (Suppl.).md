@@ -6,7 +6,7 @@ tl2_surname: Collins
 tl2_forenames: Frank Shipley
 tl2_name_abbrev: Collins
 tl2_dates: 1848-1920
-tl2_page_id: 33265948
+tl2_bhl_page_id: 33265948
 author_lsid: 1743-1
 wikidata_id: Q18154321
 ipni_surname: Collins
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265948) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1743-1), [Wikidata](https://www.wikidata.org/wiki/Q18154321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1743-1) LSID 1743-1, [Wikidata](https://www.wikidata.org/wiki/Q18154321) QID Q18154321
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Collins, Frank Shipley {std. Collins}|first entry]] for this author
 

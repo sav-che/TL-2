@@ -6,7 +6,7 @@ tl2_surname: Bourdillon
 tl2_forenames: Thomas Fulton
 tl2_name_abbrev: Bourd.
 tl2_dates: 1849-1930
-tl2_page_id: 33265588
+tl2_bhl_page_id: 33265588
 author_lsid: 1028-1
 wikidata_id: Q3525143
 ipni_surname: Bourdillon
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:47:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265588) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1028-1), [Wikidata](https://www.wikidata.org/wiki/Q3525143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1028-1) LSID 1028-1, [Wikidata](https://www.wikidata.org/wiki/Q3525143) QID Q3525143
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

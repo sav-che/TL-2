@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0297
 tl2_volume: vol5
 tl2_page_printed: 295
 tl2_surname: Schomburgk
-tl2_forenames: [Moritz] Richard
+tl2_forenames: (Moritz) Richard
 tl2_name_abbrev: Ri. Schomb.
 tl2_dates: 1811-1891
-tl2_page_id: 33333434
+tl2_bhl_page_id: 33333434
 author_lsid: 9231-1
 wikidata_id: Q106178
 ipni_surname: Schomburgk
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9231-1), [Wikidata](https://www.wikidata.org/wiki/Q106178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9231-1) LSID 9231-1, [Wikidata](https://www.wikidata.org/wiki/Q106178) QID Q106178
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

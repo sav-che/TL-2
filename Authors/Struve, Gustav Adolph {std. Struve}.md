@@ -6,7 +6,7 @@ tl2_surname: Struve
 tl2_forenames: Gustav Adolph
 tl2_name_abbrev: Struve
 tl2_dates: 1811-1889
-tl2_page_id: 33212059
+tl2_bhl_page_id: 33212059
 author_lsid: 10238-1
 wikidata_id: Q5889374
 ipni_surname: Struve
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33212059) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10238-1), [Wikidata](https://www.wikidata.org/wiki/Q5889374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10238-1) LSID 10238-1, [Wikidata](https://www.wikidata.org/wiki/Q5889374) QID Q5889374
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

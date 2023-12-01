@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0440
 tl2_volume: suppl3
 tl2_page_printed: 477
 tl2_surname: Caylus
-tl2_forenames: Anne Claude Philippe..., Comte [Jr.]
+tl2_forenames: Anne Claude Philippe..., Comte (Jr.)
 tl2_name_abbrev: A.C.P. Caylus, Jr.
 tl2_dates: fl. 1806
-tl2_page_id: 33266784
+tl2_bhl_page_id: 33266784
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33266784) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

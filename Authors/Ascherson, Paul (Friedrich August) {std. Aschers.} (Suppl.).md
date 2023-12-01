@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0222
 tl2_volume: suppl1
 tl2_page_printed: 186
 tl2_surname: Ascherson
-tl2_forenames: Paul [Friedrich August]
+tl2_forenames: Paul (Friedrich August)
 tl2_name_abbrev: Aschers.
 tl2_dates: 1834-1913
-tl2_page_id: 33264913
+tl2_bhl_page_id: 33264913
 author_lsid: 307-1
 wikidata_id: Q61290
 ipni_surname: Ascherson
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33264913) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/307-1), [Wikidata](https://www.wikidata.org/wiki/Q61290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/307-1) LSID 307-1, [Wikidata](https://www.wikidata.org/wiki/Q61290) QID Q61290
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ascherson, Paul Friedrich August {std. Aschers.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Hartman
 tl2_forenames: Carl Vilhelm
 tl2_name_abbrev: C.V. Hartm.
 tl2_dates: 1862-1941
-tl2_page_id: 33068309
+tl2_bhl_page_id: 33068309
 author_lsid: 3692-1
 wikidata_id: Q5006910
 ipni_surname: Hartman
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33068309) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3692-1), [Wikidata](https://www.wikidata.org/wiki/Q5006910). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3692-1) LSID 3692-1, [Wikidata](https://www.wikidata.org/wiki/Q5006910) QID Q5006910
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

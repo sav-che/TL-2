@@ -6,7 +6,7 @@ tl2_surname: Timm
 tl2_forenames: Joachim Christian
 tl2_name_abbrev: Timm
 tl2_dates: 1734-1805
-tl2_page_id: 33212404
+tl2_bhl_page_id: 33212404
 author_lsid: 10676-1
 wikidata_id: Q327915
 ipni_surname: Timm
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33212404) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10676-1), [Wikidata](https://www.wikidata.org/wiki/Q327915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10676-1) LSID 10676-1, [Wikidata](https://www.wikidata.org/wiki/Q327915) QID Q327915
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

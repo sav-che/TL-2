@@ -6,7 +6,7 @@ tl2_surname: Chavan
 tl2_forenames: Appasahet Ramchandrarao
 tl2_name_abbrev: Chavan
 tl2_dates: fl. 1930-1970
-tl2_page_id: 33265746
+tl2_bhl_page_id: 33265746
 author_lsid: 17123-1
 wikidata_id: Q36500449
 ipni_surname: Chavan
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265746) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17123-1), [Wikidata](https://www.wikidata.org/wiki/Q36500449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17123-1) LSID 17123-1, [Wikidata](https://www.wikidata.org/wiki/Q36500449) QID Q36500449
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

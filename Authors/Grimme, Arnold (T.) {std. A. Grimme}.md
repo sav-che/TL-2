@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0281
 tl2_volume: suppl8
 tl2_page_printed: 395
 tl2_surname: Grimme
-tl2_forenames: Arnold [T.]
+tl2_forenames: Arnold (T.)
 tl2_name_abbrev: A. Grimme
 tl2_dates: 1868-1958
-tl2_page_id: 33258873
+tl2_bhl_page_id: 33258873
 author_lsid: 19643-1
 wikidata_id: Q21514286
 ipni_surname: Grimme
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33258873) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19643-1), [Wikidata](https://www.wikidata.org/wiki/Q21514286). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19643-1) LSID 19643-1, [Wikidata](https://www.wikidata.org/wiki/Q21514286) QID Q21514286
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

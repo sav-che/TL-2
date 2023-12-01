@@ -6,7 +6,7 @@ tl2_surname: Förster
 tl2_forenames: Johann B.
 tl2_name_abbrev: J.B. Först.
 tl2_dates: 1843/4-1907
-tl2_page_id: 33259793
+tl2_bhl_page_id: 33259793
 author_lsid: 20043491-1
 wikidata_id: Q88830143
 ipni_surname: Förster
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259793) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/20043491-1), [Wikidata](https://www.wikidata.org/wiki/Q88830143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20043491-1) LSID 20043491-1, [Wikidata](https://www.wikidata.org/wiki/Q88830143) QID Q88830143
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

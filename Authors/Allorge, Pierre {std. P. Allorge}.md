@@ -6,7 +6,7 @@ tl2_surname: Allorge
 tl2_forenames: Pierre
 tl2_name_abbrev: P. Allorge
 tl2_dates: 1891-1944
-tl2_page_id: 33120167
+tl2_bhl_page_id: 33120167
 author_lsid: 157-1
 wikidata_id: Q3110572
 ipni_surname: Allorge
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33120167) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/157-1), [Wikidata](https://www.wikidata.org/wiki/Q3110572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/157-1) LSID 157-1, [Wikidata](https://www.wikidata.org/wiki/Q3110572) QID Q3110572
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Allorge, Pierre {std. P. Allorge} (Suppl.)|second entry]] for this author
 

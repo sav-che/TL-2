@@ -6,7 +6,7 @@ tl2_surname: Lapie
 tl2_forenames: Georges
 tl2_name_abbrev: Lapie
 tl2_dates: fl. 1914
-tl2_page_id: 33069000
+tl2_bhl_page_id: 33069000
 author_lsid: 5281-1
 wikidata_id: Q36564381
 ipni_surname: Lapie
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33069000) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5281-1), [Wikidata](https://www.wikidata.org/wiki/Q36564381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5281-1) LSID 5281-1, [Wikidata](https://www.wikidata.org/wiki/Q36564381) QID Q36564381
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

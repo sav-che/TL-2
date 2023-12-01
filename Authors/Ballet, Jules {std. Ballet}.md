@@ -6,7 +6,7 @@ tl2_surname: Ballet
 tl2_forenames: Jules
 tl2_name_abbrev: Ballet
 tl2_dates: 1825-?
-tl2_page_id: 33120244
+tl2_bhl_page_id: 33120244
 author_lsid: 432-1
 wikidata_id: Q21505600
 ipni_surname: Ballet
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33120244) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/432-1), [Wikidata](https://www.wikidata.org/wiki/Q21505600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/432-1) LSID 432-1, [Wikidata](https://www.wikidata.org/wiki/Q21505600) QID Q21505600
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

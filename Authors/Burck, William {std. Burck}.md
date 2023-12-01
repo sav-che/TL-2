@@ -6,7 +6,7 @@ tl2_surname: Burck
 tl2_forenames: William
 tl2_name_abbrev: Burck
 tl2_dates: 1848-1910
-tl2_page_id: 33266534
+tl2_bhl_page_id: 33266534
 author_lsid: 1292-1
 wikidata_id: Q4101603
 ipni_surname: Burck
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:52:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33266534) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1292-1), [Wikidata](https://www.wikidata.org/wiki/Q4101603). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1292-1) LSID 1292-1, [Wikidata](https://www.wikidata.org/wiki/Q4101603) QID Q4101603
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

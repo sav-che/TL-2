@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: John Jay
 tl2_name_abbrev: J. Jay Sm.
 tl2_dates: 1798-1881
-tl2_page_id: 33333840
+tl2_bhl_page_id: 33333840
 author_lsid: 9807-1
 wikidata_id: Q21609117
 ipni_surname: Smith
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33333840) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9807-1), [Wikidata](https://www.wikidata.org/wiki/Q21609117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9807-1) LSID 9807-1, [Wikidata](https://www.wikidata.org/wiki/Q21609117) QID Q21609117
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

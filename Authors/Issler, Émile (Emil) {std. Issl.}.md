@@ -6,7 +6,7 @@ tl2_surname: Issler
 tl2_forenames: Émile (Emil)
 tl2_name_abbrev: Issl.
 tl2_dates: 1872-1952
-tl2_page_id: 33068631
+tl2_bhl_page_id: 33068631
 author_lsid: 4325-1
 wikidata_id: Q15622058
 ipni_surname: Issler
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4325-1), [Wikidata](https://www.wikidata.org/wiki/Q15622058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4325-1) LSID 4325-1, [Wikidata](https://www.wikidata.org/wiki/Q15622058) QID Q15622058
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

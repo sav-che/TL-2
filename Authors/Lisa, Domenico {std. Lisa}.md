@@ -6,7 +6,7 @@ tl2_surname: Lisa
 tl2_forenames: Domenico
 tl2_name_abbrev: Lisa
 tl2_dates: 1801-1867
-tl2_page_id: 33355204
+tl2_bhl_page_id: 33355204
 author_lsid: 22423-1
 wikidata_id: Q21519254
 ipni_surname: Lisa
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33355204) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22423-1), [Wikidata](https://www.wikidata.org/wiki/Q21519254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22423-1) LSID 22423-1, [Wikidata](https://www.wikidata.org/wiki/Q21519254) QID Q21519254
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

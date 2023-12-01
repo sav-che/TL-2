@@ -6,7 +6,7 @@ tl2_surname: Arendt
 tl2_forenames: Johann Josef Franz
 tl2_name_abbrev: Arendt
 tl2_dates: fl. 1828-1840
-tl2_page_id: 33264881
+tl2_bhl_page_id: 33264881
 author_lsid: 262-1
 wikidata_id: Q19214112
 ipni_surname: Arendt
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/262-1), [Wikidata](https://www.wikidata.org/wiki/Q19214112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/262-1) LSID 262-1, [Wikidata](https://www.wikidata.org/wiki/Q19214112) QID Q19214112
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arendt, Johann Josef Franz {std. Arendt}|first entry]] for this author
 

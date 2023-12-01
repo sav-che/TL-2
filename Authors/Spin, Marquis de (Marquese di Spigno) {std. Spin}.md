@@ -6,7 +6,7 @@ tl2_surname: Spin
 tl2_forenames: Marquis de (Marquese di Spigno)
 tl2_name_abbrev: Spin
 tl2_dates: fl. 1809
-tl2_page_id: 33333931
+tl2_bhl_page_id: 33333931
 author_lsid: 9972-1
 wikidata_id: Q6133245
 ipni_surname: Spin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33333931) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9972-1), [Wikidata](https://www.wikidata.org/wiki/Q6133245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9972-1) LSID 9972-1, [Wikidata](https://www.wikidata.org/wiki/Q6133245) QID Q6133245
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

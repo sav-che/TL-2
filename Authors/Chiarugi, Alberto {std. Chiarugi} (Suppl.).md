@@ -6,7 +6,7 @@ tl2_surname: Chiarugi
 tl2_forenames: Alberto
 tl2_name_abbrev: Chiarugi
 tl2_dates: 1901-1960
-tl2_page_id: 33265776
+tl2_bhl_page_id: 33265776
 author_lsid: 1593-1
 wikidata_id: Q13405686
 ipni_surname: Chiarugi
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33265776) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1593-1), [Wikidata](https://www.wikidata.org/wiki/Q13405686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1593-1) LSID 1593-1, [Wikidata](https://www.wikidata.org/wiki/Q13405686) QID Q13405686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Chiarugi, Alberto {std. Chiarugi}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Traill
 tl2_forenames: George William
 tl2_name_abbrev: Traill
 tl2_dates: 1836-1897
-tl2_page_id: 33212472
+tl2_bhl_page_id: 33212472
 author_lsid: 10788-1
 wikidata_id: Q19276963
 ipni_surname: Traill
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33212472) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10788-1), [Wikidata](https://www.wikidata.org/wiki/Q19276963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10788-1) LSID 10788-1, [Wikidata](https://www.wikidata.org/wiki/Q19276963) QID Q19276963
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

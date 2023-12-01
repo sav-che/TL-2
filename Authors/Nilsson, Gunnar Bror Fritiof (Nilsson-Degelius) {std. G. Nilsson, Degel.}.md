@@ -6,7 +6,7 @@ tl2_surname: Nilsson
 tl2_forenames: Gunnar Bror Fritiof (Nilsson-Degelius, G.B.F., Degelius, G.B.F.)
 tl2_name_abbrev: G. Nilsson, Degel.
 tl2_dates: 1903-x
-tl2_page_id: 33355841
+tl2_bhl_page_id: 33355841
 author_lsid: 35133-1
 wikidata_id: Q21339039
 ipni_surname: Nilsson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35133-1), [Wikidata](https://www.wikidata.org/wiki/Q21339039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35133-1) LSID 35133-1, [Wikidata](https://www.wikidata.org/wiki/Q21339039) QID Q21339039
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

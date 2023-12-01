@@ -6,7 +6,7 @@ tl2_surname: Reverchon
 tl2_forenames: Elisée
 tl2_name_abbrev: Reverchon
 tl2_dates: 1835-1914
-tl2_page_id: 33190217
+tl2_bhl_page_id: 33190217
 author_lsid: 8317-1
 wikidata_id: Q5573871
 ipni_surname: Reverchon
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8317-1), [Wikidata](https://www.wikidata.org/wiki/Q5573871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8317-1) LSID 8317-1, [Wikidata](https://www.wikidata.org/wiki/Q5573871) QID Q5573871
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Robert
 tl2_name_abbrev: R. Fisch.
 tl2_dates: 1894-after 1950
-tl2_page_id: 33259721
+tl2_bhl_page_id: 33259721
 author_lsid: 18828-1
 wikidata_id: Q47117244
 ipni_surname: Fischer
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33259721) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18828-1), [Wikidata](https://www.wikidata.org/wiki/Q47117244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18828-1) LSID 18828-1, [Wikidata](https://www.wikidata.org/wiki/Q47117244) QID Q47117244
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

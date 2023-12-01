@@ -6,7 +6,7 @@ tl2_surname: Wulfen
 tl2_forenames: Franz Xavier, Freiherr von
 tl2_name_abbrev: Wulfen
 tl2_dates: 1728-1805
-tl2_page_id: 33066814
+tl2_bhl_page_id: 33066814
 author_lsid: 28915-1
 wikidata_id: Q698014
 ipni_surname: Wulfen
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:47:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/28915-1), [Wikidata](https://www.wikidata.org/wiki/Q698014). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28915-1) LSID 28915-1, [Wikidata](https://www.wikidata.org/wiki/Q698014) QID Q698014
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

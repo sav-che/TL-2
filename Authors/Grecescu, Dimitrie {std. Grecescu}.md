@@ -6,7 +6,7 @@ tl2_surname: Grecescu
 tl2_forenames: Dimitrie
 tl2_name_abbrev: Grecescu
 tl2_dates: 1841-1910
-tl2_page_id: 33121125
+tl2_bhl_page_id: 33121125
 author_lsid: 3360-1
 wikidata_id: Q12726698
 ipni_surname: Grecescu
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/page/33121125) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3360-1), [Wikidata](https://www.wikidata.org/wiki/Q12726698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3360-1) LSID 3360-1, [Wikidata](https://www.wikidata.org/wiki/Q12726698) QID Q12726698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Grecescu, Dimitrie (Demetrius) {std. Grecescu} (Suppl.)|second entry]] for this author
 

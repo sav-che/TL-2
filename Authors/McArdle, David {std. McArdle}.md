@@ -6,7 +6,7 @@ tl2_surname: McArdle
 tl2_forenames: David
 tl2_name_abbrev: McArdle
 tl2_dates: 1849-1934
-tl2_page_id: 33355295
+tl2_bhl_page_id: 33355295
 author_lsid: 23119-1
 wikidata_id: Q21520200
 ipni_surname: McArdle
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23119-1), [Wikidata](https://www.wikidata.org/wiki/Q21520200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23119-1) LSID 23119-1, [Wikidata](https://www.wikidata.org/wiki/Q21520200) QID Q21520200
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

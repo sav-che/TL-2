@@ -6,7 +6,7 @@ tl2_surname: Copeland
 tl2_forenames: Edwin Bingham
 tl2_name_abbrev: Copeland
 tl2_dates: 1873-1964
-tl2_page_id: 33120676
+tl2_bhl_page_id: 33120676
 author_lsid: 17415-1
 wikidata_id: Q2618968
 ipni_surname: Copeland
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33120676) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17415-1), [Wikidata](https://www.wikidata.org/wiki/Q2618968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17415-1) LSID 17415-1, [Wikidata](https://www.wikidata.org/wiki/Q2618968) QID Q2618968
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Copeland, Edwin Bingham {std. Copel.} (Suppl.)|second entry]] for this author
 

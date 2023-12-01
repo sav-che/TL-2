@@ -6,27 +6,30 @@ tl2_surname: Forsyth
 tl2_forenames: William
 tl2_name_abbrev: Wm. Forsyth
 tl2_dates: 1864-1910
-tl2_page_id: 33259833
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33259833
+author_lsid: 2839-1
+wikidata_id: Q1509710
+ipni_surname: Forsyth
+ipni_forenames: William
+ipni_standard_form: Forsyth
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2839-1) LSID 2839-1, [Wikidata](https://www.wikidata.org/wiki/Q1509710) QID Q1509710
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Forsyth, William (1864-1910), Scottish-born Australian bryologist, born 5 Oct 1864 in Crieff (Perthshire), apprentice gardener, Drummond Castle, Perthshire, immigrated to Australia, gardener, Royal Botanic Gardens, Sydney and promoted ca. 1891 to Overseer of Centennial Park, a post held for 19 years, B.A. 1910 Univ. of Sydney, died 14 Sep 1910 in Sydney. 
-**Abbreviated name**: *Wm. Forsyth*
+**Abbreviated name**: *Wm. Forsyth* \[standard form in IPNI: *Forsyth*\]
 
 #### Note
 

@@ -6,7 +6,7 @@ tl2_surname: Phillips
 tl2_forenames: John
 tl2_name_abbrev: J. Phillips
 tl2_dates: 1800-1874
-tl2_page_id: 33189713
+tl2_bhl_page_id: 33189713
 author_lsid: 7643-1
 wikidata_id: Q1701428
 ipni_surname: Phillips
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33189713) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7643-1), [Wikidata](https://www.wikidata.org/wiki/Q1701428). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7643-1) LSID 7643-1, [Wikidata](https://www.wikidata.org/wiki/Q1701428) QID Q1701428
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

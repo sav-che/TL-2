@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0010
 tl2_volume: vol6
 tl2_page_printed: 11
 tl2_surname: Stockwell
-tl2_forenames: [William] Palmer
+tl2_forenames: (William) Palmer
 tl2_name_abbrev: Stockw.
 tl2_dates: 1898-1950
-tl2_page_id: 33212083
+tl2_bhl_page_id: 33212083
 author_lsid: 10155-1
 wikidata_id: Q6167701
 ipni_surname: Stockwell
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33212083) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10155-1), [Wikidata](https://www.wikidata.org/wiki/Q6167701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10155-1) LSID 10155-1, [Wikidata](https://www.wikidata.org/wiki/Q6167701) QID Q6167701
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

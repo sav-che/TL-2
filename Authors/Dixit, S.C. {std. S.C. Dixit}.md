@@ -6,7 +6,7 @@ tl2_surname: Dixit
 tl2_forenames: S.C.
 tl2_name_abbrev: S.C. Dixit
 tl2_dates: fl. 1931-1940
-tl2_page_id: 33259407
+tl2_bhl_page_id: 33259407
 author_lsid: 32938-1
 wikidata_id: Q36674763
 ipni_surname: Dixit
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259407) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/32938-1), [Wikidata](https://www.wikidata.org/wiki/Q36674763). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32938-1) LSID 32938-1, [Wikidata](https://www.wikidata.org/wiki/Q36674763) QID Q36674763
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

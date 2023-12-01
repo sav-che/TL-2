@@ -6,7 +6,7 @@ tl2_surname: Romagnesi
 tl2_forenames: Henri Charles Louis
 tl2_name_abbrev: Romagnesi
 tl2_dates: 1912-x
-tl2_page_id: 33190345
+tl2_bhl_page_id: 33190345
 author_lsid: 8558-1
 wikidata_id: Q631036
 ipni_surname: Romagnesi
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8558-1), [Wikidata](https://www.wikidata.org/wiki/Q631036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8558-1) LSID 8558-1, [Wikidata](https://www.wikidata.org/wiki/Q631036) QID Q631036
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

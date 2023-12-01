@@ -6,7 +6,7 @@ tl2_surname: Bury
 tl2_forenames: Priscilla Susan (Mrs. Edward) (née Falkner)
 tl2_name_abbrev: Bury
 tl2_dates: fl. 1831-1837
-tl2_page_id: 33120550
+tl2_bhl_page_id: 33120550
 author_lsid: 12370-1
 wikidata_id: Q3403777
 ipni_surname: Bury
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33120550) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12370-1), [Wikidata](https://www.wikidata.org/wiki/Q3403777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12370-1) LSID 12370-1, [Wikidata](https://www.wikidata.org/wiki/Q3403777) QID Q3403777
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

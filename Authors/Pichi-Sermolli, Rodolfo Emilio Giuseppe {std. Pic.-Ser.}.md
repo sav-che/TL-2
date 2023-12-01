@@ -6,7 +6,7 @@ tl2_surname: Pichi-Sermolli
 tl2_forenames: Rodolfo Emilio Giuseppe
 tl2_name_abbrev: Pic.-Ser.
 tl2_dates: 1912-x
-tl2_page_id: 33189723
+tl2_bhl_page_id: 33189723
 author_lsid: 7667-1
 wikidata_id: Q2607627
 ipni_surname: Pichi Sermolli
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:52:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33189723) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7667-1), [Wikidata](https://www.wikidata.org/wiki/Q2607627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7667-1) LSID 7667-1, [Wikidata](https://www.wikidata.org/wiki/Q2607627) QID Q2607627
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

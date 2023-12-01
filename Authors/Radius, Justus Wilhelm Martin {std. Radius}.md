@@ -6,7 +6,7 @@ tl2_surname: Radius
 tl2_forenames: Justus Wilhelm Martin
 tl2_name_abbrev: Radius
 tl2_dates: 1797-1884
-tl2_page_id: 33190011
+tl2_bhl_page_id: 33190011
 author_lsid: 8086-1
 wikidata_id: Q1714544
 ipni_surname: Radius
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8086-1), [Wikidata](https://www.wikidata.org/wiki/Q1714544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8086-1) LSID 8086-1, [Wikidata](https://www.wikidata.org/wiki/Q1714544) QID Q1714544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

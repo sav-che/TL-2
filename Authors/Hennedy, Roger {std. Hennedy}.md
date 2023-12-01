@@ -6,7 +6,7 @@ tl2_surname: Hennedy
 tl2_forenames: Roger
 tl2_name_abbrev: Hennedy
 tl2_dates: 1809-1877
-tl2_page_id: 33068398
+tl2_bhl_page_id: 33068398
 author_lsid: 3839-1
 wikidata_id: Q18672261
 ipni_surname: Hennedy
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33068398) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3839-1), [Wikidata](https://www.wikidata.org/wiki/Q18672261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3839-1) LSID 3839-1, [Wikidata](https://www.wikidata.org/wiki/Q18672261) QID Q18672261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0598
 tl2_volume: vol6
 tl2_page_printed: 594
 tl2_surname: Unger
-tl2_forenames: Franz [Joseph Andreas Nicolaus]
+tl2_forenames: Franz (Joseph Andreas Nicolaus)
 tl2_name_abbrev: Unger
 tl2_dates: 1800-1870
-tl2_page_id: 33212636
+tl2_bhl_page_id: 33212636
 author_lsid: 28076-1
 wikidata_id: Q78805
 ipni_surname: Unger
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:42:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33212636) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/28076-1), [Wikidata](https://www.wikidata.org/wiki/Q78805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28076-1) LSID 28076-1, [Wikidata](https://www.wikidata.org/wiki/Q78805) QID Q78805
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

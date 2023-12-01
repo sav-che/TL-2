@@ -6,7 +6,7 @@ tl2_surname: Flemwell
 tl2_forenames: George Jackson
 tl2_name_abbrev: Flemwell
 tl2_dates: 1865-1928
-tl2_page_id: 33259755
+tl2_bhl_page_id: 33259755
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259755) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

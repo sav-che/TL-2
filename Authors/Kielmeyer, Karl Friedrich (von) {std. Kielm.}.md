@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0639
 tl2_volume: vol2
 tl2_page_printed: 537
 tl2_surname: Kielmeyer
-tl2_forenames: Karl Friedrich [von]
+tl2_forenames: Karl Friedrich (von)
 tl2_name_abbrev: Kielm.
 tl2_dates: 1765-1844
-tl2_page_id: 33068779
+tl2_bhl_page_id: 33068779
 author_lsid: 4774-1
 wikidata_id: Q73225
 ipni_surname: Kielmeyer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4774-1), [Wikidata](https://www.wikidata.org/wiki/Q73225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4774-1) LSID 4774-1, [Wikidata](https://www.wikidata.org/wiki/Q73225) QID Q73225
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

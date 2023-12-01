@@ -6,7 +6,7 @@ tl2_surname: Conn
 tl2_forenames: Herbert William
 tl2_name_abbrev: Conn
 tl2_dates: 1859-1917
-tl2_page_id: 33265979
+tl2_bhl_page_id: 33265979
 author_lsid: 32795-1
 wikidata_id: Q14946759
 ipni_surname: Conn
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32795-1), [Wikidata](https://www.wikidata.org/wiki/Q14946759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32795-1) LSID 32795-1, [Wikidata](https://www.wikidata.org/wiki/Q14946759) QID Q14946759
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

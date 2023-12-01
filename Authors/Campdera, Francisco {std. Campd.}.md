@@ -6,7 +6,7 @@ tl2_surname: Campdera
 tl2_forenames: Francisco
 tl2_name_abbrev: Campd.
 tl2_dates: fl. 1819
-tl2_page_id: 33120561
+tl2_bhl_page_id: 33120561
 author_lsid: 1377-1
 wikidata_id: Q5865362
 ipni_surname: Campderá
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33120561) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1377-1), [Wikidata](https://www.wikidata.org/wiki/Q5865362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1377-1) LSID 1377-1, [Wikidata](https://www.wikidata.org/wiki/Q5865362) QID Q5865362
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

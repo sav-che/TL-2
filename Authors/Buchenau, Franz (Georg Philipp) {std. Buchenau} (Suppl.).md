@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0185
 tl2_volume: suppl3
 tl2_page_printed: 188
 tl2_surname: Buchenau
-tl2_forenames: Franz [Georg Philipp]
+tl2_forenames: Franz (Georg Philipp)
 tl2_name_abbrev: Buchenau
 tl2_dates: 1831-1906
-tl2_page_id: 33266495
+tl2_bhl_page_id: 33266495
 author_lsid: 1245-1
 wikidata_id: Q69809
 ipni_surname: Buchenau
@@ -23,7 +23,8 @@ ipni_record_modified: 2014-07-07 14:10:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33266495) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1245-1), [Wikidata](https://www.wikidata.org/wiki/Q69809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1245-1) LSID 1245-1, [Wikidata](https://www.wikidata.org/wiki/Q69809) QID Q69809
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Buchenau, Franz Georg Philipp {std. Buchenau}|first entry]] for this author
 

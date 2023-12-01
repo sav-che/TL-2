@@ -6,7 +6,7 @@ tl2_surname: Chamberlain
 tl2_forenames: Joseph Scudder
 tl2_name_abbrev: J.S. Chamb.
 tl2_dates: 1870-x
-tl2_page_id: 33265724
+tl2_bhl_page_id: 33265724
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

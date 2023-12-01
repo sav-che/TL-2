@@ -6,7 +6,7 @@ tl2_surname: Duché
 tl2_forenames: Jacques
 tl2_name_abbrev: Duché
 tl2_dates: 1900-1964
-tl2_page_id: 33260123
+tl2_bhl_page_id: 33260123
 author_lsid: 18236-1
 wikidata_id: Q47116667
 ipni_surname: Duché
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33260123) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18236-1), [Wikidata](https://www.wikidata.org/wiki/Q47116667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18236-1) LSID 18236-1, [Wikidata](https://www.wikidata.org/wiki/Q47116667) QID Q47116667
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

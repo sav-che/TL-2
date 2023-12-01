@@ -6,7 +6,7 @@ tl2_surname: Danzel
 tl2_forenames: Johann Friedrich Nikolaus
 tl2_name_abbrev: Danzel
 tl2_dates: 1792-1847
-tl2_page_id: 33259109
+tl2_bhl_page_id: 33259109
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33259109) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

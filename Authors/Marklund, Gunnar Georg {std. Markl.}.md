@@ -6,7 +6,7 @@ tl2_surname: Marklund
 tl2_forenames: Gunnar Georg
 tl2_name_abbrev: Markl.
 tl2_dates: 1892-1964
-tl2_page_id: 33355386
+tl2_bhl_page_id: 33355386
 author_lsid: 6112-1
 wikidata_id: Q11860753
 ipni_surname: Marklund
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33355386) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6112-1), [Wikidata](https://www.wikidata.org/wiki/Q11860753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6112-1) LSID 6112-1, [Wikidata](https://www.wikidata.org/wiki/Q11860753) QID Q11860753
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

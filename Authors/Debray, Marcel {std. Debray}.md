@@ -6,7 +6,7 @@ tl2_surname: Debray
 tl2_forenames: Marcel
 tl2_name_abbrev: Debray
 tl2_dates: fl. 1923-1971
-tl2_page_id: 33259178
+tl2_bhl_page_id: 33259178
 author_lsid: 2060-1
 wikidata_id: Q28035033
 ipni_surname: Debray
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2060-1), [Wikidata](https://www.wikidata.org/wiki/Q28035033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2060-1) LSID 2060-1, [Wikidata](https://www.wikidata.org/wiki/Q28035033) QID Q28035033
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

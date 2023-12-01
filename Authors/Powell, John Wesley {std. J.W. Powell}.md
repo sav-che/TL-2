@@ -6,7 +6,7 @@ tl2_surname: Powell
 tl2_forenames: John Wesley
 tl2_name_abbrev: J.W. Powell
 tl2_dates: 1834-1902
-tl2_page_id: 33189841
+tl2_bhl_page_id: 33189841
 author_lsid: 7912-1
 wikidata_id: Q348325
 ipni_surname: Powell
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33189841) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7912-1), [Wikidata](https://www.wikidata.org/wiki/Q348325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7912-1) LSID 7912-1, [Wikidata](https://www.wikidata.org/wiki/Q348325) QID Q348325
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

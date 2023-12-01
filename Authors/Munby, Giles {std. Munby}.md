@@ -6,7 +6,7 @@ tl2_surname: Munby
 tl2_forenames: Giles
 tl2_name_abbrev: Munby
 tl2_dates: 1813-1876
-tl2_page_id: 33355746
+tl2_bhl_page_id: 33355746
 author_lsid: 6777-1
 wikidata_id: Q5879729
 ipni_surname: Munby
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:36:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6777-1), [Wikidata](https://www.wikidata.org/wiki/Q5879729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6777-1) LSID 6777-1, [Wikidata](https://www.wikidata.org/wiki/Q5879729) QID Q5879729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

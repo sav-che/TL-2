@@ -6,7 +6,7 @@ tl2_surname: Rosenberg
 tl2_forenames: Caroline Friderike
 tl2_name_abbrev: C. Rosenberg
 tl2_dates: 1810-1902
-tl2_page_id: 33190360
+tl2_bhl_page_id: 33190360
 author_lsid: 8592-1
 wikidata_id: Q21607416
 ipni_surname: Rosenberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33190360) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8592-1), [Wikidata](https://www.wikidata.org/wiki/Q21607416). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8592-1) LSID 8592-1, [Wikidata](https://www.wikidata.org/wiki/Q21607416) QID Q21607416
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

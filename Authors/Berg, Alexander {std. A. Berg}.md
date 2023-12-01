@@ -6,7 +6,7 @@ tl2_surname: Berg
 tl2_forenames: Alexander
 tl2_name_abbrev: A. Berg
 tl2_dates: fl. 1832
-tl2_page_id: 33265279
+tl2_bhl_page_id: 33265279
 author_lsid: 674-1
 wikidata_id: Q17412346
 ipni_surname: Berg
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/674-1), [Wikidata](https://www.wikidata.org/wiki/Q17412346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/674-1) LSID 674-1, [Wikidata](https://www.wikidata.org/wiki/Q17412346) QID Q17412346
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

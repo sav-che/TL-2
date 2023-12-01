@@ -6,7 +6,7 @@ tl2_surname: Wessel
 tl2_forenames: Otto
 tl2_name_abbrev: O. Wessel
 tl2_dates: fl. 1874
-tl2_page_id: 33066541
+tl2_bhl_page_id: 33066541
 author_lsid: 11572-1
 wikidata_id: Q36648059
 ipni_surname: Wessel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11572-1), [Wikidata](https://www.wikidata.org/wiki/Q36648059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11572-1) LSID 11572-1, [Wikidata](https://www.wikidata.org/wiki/Q36648059) QID Q36648059
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

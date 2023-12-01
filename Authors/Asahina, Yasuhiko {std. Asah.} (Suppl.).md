@@ -6,7 +6,7 @@ tl2_surname: Asahina
 tl2_forenames: Yasuhiko
 tl2_name_abbrev: Asah.
 tl2_dates: 1881-1975
-tl2_page_id: 33264911
+tl2_bhl_page_id: 33264911
 author_lsid: 302-1
 wikidata_id: Q11092558
 ipni_surname: Asahina
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33264911) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/302-1), [Wikidata](https://www.wikidata.org/wiki/Q11092558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/302-1) LSID 302-1, [Wikidata](https://www.wikidata.org/wiki/Q11092558) QID Q11092558
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Asahina, Yasuhiko {std. Asah.}|first entry]] for this author
 

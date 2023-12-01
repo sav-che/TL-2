@@ -6,7 +6,7 @@ tl2_surname: Gruber
 tl2_forenames: Eduard A.
 tl2_name_abbrev: E. Gruber
 tl2_dates: fl. 1896
-tl2_page_id: 33258905
+tl2_bhl_page_id: 33258905
 author_lsid: 29383-1
 wikidata_id: Q38536833
 ipni_surname: Gruber
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33258905) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/29383-1), [Wikidata](https://www.wikidata.org/wiki/Q38536833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29383-1) LSID 29383-1, [Wikidata](https://www.wikidata.org/wiki/Q38536833) QID Q38536833
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

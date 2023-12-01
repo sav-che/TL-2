@@ -6,7 +6,7 @@ tl2_surname: Hellenius
 tl2_forenames: Carl Niclas (from 1816 adl. von Hellens)
 tl2_name_abbrev: Hell.
 tl2_dates: 1745-1820
-tl2_page_id: 33068387
+tl2_bhl_page_id: 33068387
 author_lsid: 12538-1
 wikidata_id: Q5799101
 ipni_surname: Hellenius
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33068387) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12538-1), [Wikidata](https://www.wikidata.org/wiki/Q5799101). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12538-1) LSID 12538-1, [Wikidata](https://www.wikidata.org/wiki/Q5799101) QID Q5799101
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

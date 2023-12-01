@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0206
 tl2_volume: vol7
 tl2_page_printed: 215
 tl2_surname: Westling
-tl2_forenames: [Per] Richard
+tl2_forenames: (Per) Richard
 tl2_name_abbrev: Westling
 tl2_dates: 1868-1942
-tl2_page_id: 33066555
+tl2_bhl_page_id: 33066555
 author_lsid: 13005-1
 wikidata_id: Q21612529
 ipni_surname: Westling
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33066555) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13005-1), [Wikidata](https://www.wikidata.org/wiki/Q21612529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13005-1) LSID 13005-1, [Wikidata](https://www.wikidata.org/wiki/Q21612529) QID Q21612529
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

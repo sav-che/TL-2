@@ -6,7 +6,7 @@ tl2_surname: Toussaint
 tl2_forenames: Anatole
 tl2_name_abbrev: Toussaint
 tl2_dates: 1863-1943
-tl2_page_id: 33212458
+tl2_bhl_page_id: 33212458
 author_lsid: 10768-1
 wikidata_id: Q5674673
 ipni_surname: Toussaint
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33212458) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10768-1), [Wikidata](https://www.wikidata.org/wiki/Q5674673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10768-1) LSID 10768-1, [Wikidata](https://www.wikidata.org/wiki/Q5674673) QID Q5674673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Trafvenfelt
 tl2_forenames: Eric Carl
 tl2_name_abbrev: Trafv.
 tl2_dates: 1774-1835
-tl2_page_id: 33212470
+tl2_bhl_page_id: 33212470
 author_lsid: 10786-1
 wikidata_id: Q6214581
 ipni_surname: Trafvenfelt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33212470) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10786-1), [Wikidata](https://www.wikidata.org/wiki/Q6214581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10786-1) LSID 10786-1, [Wikidata](https://www.wikidata.org/wiki/Q6214581) QID Q6214581
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

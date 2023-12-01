@@ -6,7 +6,7 @@ tl2_surname: Fridtz
 tl2_forenames: Randor Eretius
 tl2_name_abbrev: Fridtz
 tl2_dates: 1845-1921
-tl2_page_id: 33258514
+tl2_bhl_page_id: 33258514
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33258514) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

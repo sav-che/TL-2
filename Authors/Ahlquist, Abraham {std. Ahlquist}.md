@@ -6,7 +6,7 @@ tl2_surname: Ahlquist
 tl2_forenames: Abraham
 tl2_name_abbrev: Ahlquist
 tl2_dates: 1794-1844
-tl2_page_id: 33264739
+tl2_bhl_page_id: 33264739
 author_lsid: 98-1
 wikidata_id: Q5544152
 ipni_surname: Ahlquist
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33264739) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/98-1), [Wikidata](https://www.wikidata.org/wiki/Q5544152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/98-1) LSID 98-1, [Wikidata](https://www.wikidata.org/wiki/Q5544152) QID Q5544152
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

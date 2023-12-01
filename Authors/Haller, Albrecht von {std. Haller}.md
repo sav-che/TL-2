@@ -6,7 +6,7 @@ tl2_surname: Haller
 tl2_forenames: Albrecht von
 tl2_name_abbrev: Haller
 tl2_dates: 1708-1777
-tl2_page_id: 33068266
+tl2_bhl_page_id: 33068266
 author_lsid: 3585-1
 wikidata_id: Q123225
 ipni_surname: Haller
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:41:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33068266) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3585-1), [Wikidata](https://www.wikidata.org/wiki/Q123225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3585-1) LSID 3585-1, [Wikidata](https://www.wikidata.org/wiki/Q123225) QID Q123225
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

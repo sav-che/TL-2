@@ -6,7 +6,7 @@ tl2_surname: Eriksson
 tl2_forenames: Jakob
 tl2_name_abbrev: Erikss.
 tl2_dates: 1848-1931
-tl2_page_id: 33260379
+tl2_bhl_page_id: 33260379
 author_lsid: 18534-1
 wikidata_id: Q5716580
 ipni_surname: Eriksson
@@ -25,7 +25,8 @@ ipni_record_modified: 2005-10-18 04:55:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33260379) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18534-1), [Wikidata](https://www.wikidata.org/wiki/Q5716580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18534-1) LSID 18534-1, [Wikidata](https://www.wikidata.org/wiki/Q5716580) QID Q5716580
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Eriksson, Jakob {std. Erikss.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Nattras
 tl2_forenames: Roland Marshall
 tl2_name_abbrev: Nattras
 tl2_dates: 1895-x
-tl2_page_id: 33355782
+tl2_bhl_page_id: 33355782
 author_lsid: 6866-1
 wikidata_id: Q21521997
 ipni_surname: Nattrass
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33355782) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6866-1), [Wikidata](https://www.wikidata.org/wiki/Q21521997). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6866-1) LSID 6866-1, [Wikidata](https://www.wikidata.org/wiki/Q21521997) QID Q21521997
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

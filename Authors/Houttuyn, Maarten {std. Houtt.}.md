@@ -6,7 +6,7 @@ tl2_surname: Houttuyn
 tl2_forenames: Maarten
 tl2_name_abbrev: Houtt.
 tl2_dates: 1720-1798
-tl2_page_id: 33068585
+tl2_bhl_page_id: 33068585
 author_lsid: 4145-1
 wikidata_id: Q73674
 ipni_surname: Houttuyn
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:50:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33068585) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4145-1), [Wikidata](https://www.wikidata.org/wiki/Q73674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4145-1) LSID 4145-1, [Wikidata](https://www.wikidata.org/wiki/Q73674) QID Q73674
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Koelle
 tl2_forenames: Johann Ludwig Christian
 tl2_name_abbrev: Koelle
 tl2_dates: 1763-1797
-tl2_page_id: 33068840
+tl2_bhl_page_id: 33068840
 author_lsid: 4917-1
 wikidata_id: Q15300587
 ipni_surname: Koelle
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33068840) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4917-1), [Wikidata](https://www.wikidata.org/wiki/Q15300587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4917-1) LSID 4917-1, [Wikidata](https://www.wikidata.org/wiki/Q15300587) QID Q15300587
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

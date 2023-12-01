@@ -6,7 +6,7 @@ tl2_surname: Bolton
 tl2_forenames: James
 tl2_name_abbrev: Bolton
 tl2_dates: ca. 1758-1799
-tl2_page_id: 33265493
+tl2_bhl_page_id: 33265493
 author_lsid: 16309-1
 wikidata_id: Q2556630
 ipni_surname: Bolton
@@ -26,7 +26,8 @@ ipni_record_modified: 2015-05-06 15:20:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16309-1), [Wikidata](https://www.wikidata.org/wiki/Q2556630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16309-1) LSID 16309-1, [Wikidata](https://www.wikidata.org/wiki/Q2556630) QID Q2556630
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bolton, James {std. Bolton}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Jensen
 tl2_forenames: Thomas
 tl2_name_abbrev: T. Jens.
 tl2_dates: 1824-1877
-tl2_page_id: 33068682
+tl2_bhl_page_id: 33068682
 author_lsid: 4474-1
 wikidata_id: Q21516209
 ipni_surname: Jensen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33068682) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4474-1), [Wikidata](https://www.wikidata.org/wiki/Q21516209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4474-1) LSID 4474-1, [Wikidata](https://www.wikidata.org/wiki/Q21516209) QID Q21516209
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

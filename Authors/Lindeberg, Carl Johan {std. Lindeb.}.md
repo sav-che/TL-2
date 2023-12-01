@@ -6,7 +6,7 @@ tl2_surname: Lindeberg
 tl2_forenames: Carl Johan
 tl2_name_abbrev: Lindeb.
 tl2_dates: 1815-1900
-tl2_page_id: 33355089
+tl2_bhl_page_id: 33355089
 author_lsid: 5608-1
 wikidata_id: Q5749308
 ipni_surname: Lindeberg
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33355089) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5608-1), [Wikidata](https://www.wikidata.org/wiki/Q5749308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5608-1) LSID 5608-1, [Wikidata](https://www.wikidata.org/wiki/Q5749308) QID Q5749308
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

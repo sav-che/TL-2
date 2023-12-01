@@ -6,7 +6,7 @@ tl2_surname: Cain
 tl2_forenames: Roy Franklin
 tl2_name_abbrev: Cain
 tl2_dates: 1906-x
-tl2_page_id: 33120555
+tl2_bhl_page_id: 33120555
 author_lsid: 1351-1
 wikidata_id: Q21338925
 ipni_surname: Cain
@@ -24,7 +24,8 @@ ipni_record_modified: 2015-10-16 22:10:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1351-1), [Wikidata](https://www.wikidata.org/wiki/Q21338925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1351-1) LSID 1351-1, [Wikidata](https://www.wikidata.org/wiki/Q21338925) QID Q21338925
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cain, Roy Franklin {std. Cain} (Suppl.)|second entry]] for this author
 

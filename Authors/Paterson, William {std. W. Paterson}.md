@@ -6,7 +6,7 @@ tl2_surname: Paterson
 tl2_forenames: William
 tl2_name_abbrev: W. Paterson
 tl2_dates: 1755-1810
-tl2_page_id: 33189564
+tl2_bhl_page_id: 33189564
 author_lsid: 7384-1
 wikidata_id: Q1716747
 ipni_surname: Paterson
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33189564) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7384-1), [Wikidata](https://www.wikidata.org/wiki/Q1716747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7384-1) LSID 7384-1, [Wikidata](https://www.wikidata.org/wiki/Q1716747) QID Q1716747
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

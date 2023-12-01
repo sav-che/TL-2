@@ -6,7 +6,7 @@ tl2_surname: Tiffany
 tl2_forenames: Lewis Hanford
 tl2_name_abbrev: Tiffany
 tl2_dates: 1894-1965
-tl2_page_id: 33212392
+tl2_bhl_page_id: 33212392
 author_lsid: 10662-1
 wikidata_id: Q21610728
 ipni_surname: Tiffany
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33212392) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10662-1), [Wikidata](https://www.wikidata.org/wiki/Q21610728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10662-1) LSID 10662-1, [Wikidata](https://www.wikidata.org/wiki/Q21610728) QID Q21610728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

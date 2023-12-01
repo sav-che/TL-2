@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0130
 tl2_volume: vol2
 tl2_page_printed: 111
 tl2_surname: Haynald
-tl2_forenames: Stephan Franz Ludwig [Lajos], Cardinal
+tl2_forenames: Stephan Franz Ludwig (Lajos), Cardinal
 tl2_name_abbrev: Haynald
 tl2_dates: 1816-1891
-tl2_page_id: 33068353
+tl2_bhl_page_id: 33068353
 author_lsid: 3749-1
 wikidata_id: Q948995
 ipni_surname: Haynald
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33068353) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3749-1), [Wikidata](https://www.wikidata.org/wiki/Q948995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3749-1) LSID 3749-1, [Wikidata](https://www.wikidata.org/wiki/Q948995) QID Q948995
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

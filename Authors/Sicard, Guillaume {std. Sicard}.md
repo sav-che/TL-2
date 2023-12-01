@@ -6,7 +6,7 @@ tl2_surname: Sicard
 tl2_forenames: Guillaume
 tl2_name_abbrev: Sicard
 tl2_dates: 1829-1886
-tl2_page_id: 33333719
+tl2_bhl_page_id: 33333719
 author_lsid: 9607-1
 wikidata_id: Q21608849
 ipni_surname: Sicard
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33333719) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9607-1), [Wikidata](https://www.wikidata.org/wiki/Q21608849). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9607-1) LSID 9607-1, [Wikidata](https://www.wikidata.org/wiki/Q21608849) QID Q21608849
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

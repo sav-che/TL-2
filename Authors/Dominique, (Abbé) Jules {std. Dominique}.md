@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl6_0039
 tl2_volume: suppl6
 tl2_page_printed: 46
 tl2_surname: Dominique
-tl2_forenames: [Abbé] Jules
+tl2_forenames: (Abbé) Jules
 tl2_name_abbrev: Dominique
 tl2_dates: 1838-1902
-tl2_page_id: 33260034
+tl2_bhl_page_id: 33260034
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33260034) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

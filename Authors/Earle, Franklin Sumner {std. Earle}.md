@@ -6,7 +6,7 @@ tl2_surname: Earle
 tl2_forenames: Franklin Sumner
 tl2_name_abbrev: Earle
 tl2_dates: 1856-1929
-tl2_page_id: 33120847
+tl2_bhl_page_id: 33120847
 author_lsid: 18337-1
 wikidata_id: Q2547765
 ipni_surname: Earle
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33120847) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18337-1), [Wikidata](https://www.wikidata.org/wiki/Q2547765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18337-1) LSID 18337-1, [Wikidata](https://www.wikidata.org/wiki/Q2547765) QID Q2547765
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Earle, Franklin Sumner {std. Earle} (Suppl.)|second entry]] for this author
 

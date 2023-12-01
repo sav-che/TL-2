@@ -6,7 +6,7 @@ tl2_surname: Bayle-Barelle
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Bayle-Barelle
 tl2_dates: 1768-1811
-tl2_page_id: 33265125
+tl2_bhl_page_id: 33265125
 author_lsid: 568-1
 wikidata_id: Q21505817
 ipni_surname: Bayle-Barelle
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/568-1), [Wikidata](https://www.wikidata.org/wiki/Q21505817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/568-1) LSID 568-1, [Wikidata](https://www.wikidata.org/wiki/Q21505817) QID Q21505817
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

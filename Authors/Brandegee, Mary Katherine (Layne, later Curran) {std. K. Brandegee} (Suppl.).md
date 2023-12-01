@@ -6,7 +6,7 @@ tl2_surname: Brandegee
 tl2_forenames: Mary Katherine (Layne, later Curran)
 tl2_name_abbrev: K. Brandegee
 tl2_dates: 1844-1920
-tl2_page_id: 33266316
+tl2_bhl_page_id: 33266316
 author_lsid: 12335-1
 wikidata_id: Q451753
 ipni_surname: Brandegee
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33266316) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/12335-1), [Wikidata](https://www.wikidata.org/wiki/Q451753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12335-1) LSID 12335-1, [Wikidata](https://www.wikidata.org/wiki/Q451753) QID Q451753
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brandegee, Mary Katherine Layne Curran {std. K. Brandegee}|first entry]] for this author
 

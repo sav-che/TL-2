@@ -6,7 +6,7 @@ tl2_surname: Brondeau
 tl2_forenames: Louis de, Antoine-Louis-Georges Jegun de Marans
 tl2_name_abbrev: Brond.
 tl2_dates: 1794-1859
-tl2_page_id: 33266422
+tl2_bhl_page_id: 33266422
 author_lsid: 1170-1
 wikidata_id: Q21338488
 ipni_surname: Brondeau
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:26:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33266422) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1170-1), [Wikidata](https://www.wikidata.org/wiki/Q21338488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1170-1) LSID 1170-1, [Wikidata](https://www.wikidata.org/wiki/Q21338488) QID Q21338488
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brondeau, Louis de (Jegun de Marans, Antoine Louis Georges) {std. Brond.}|first entry]] for this author
 

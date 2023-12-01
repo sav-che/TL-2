@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol4_0224
 tl2_volume: vol4
 tl2_page_printed: 199
-tl2_surname: Petif [de la Gautrois]
+tl2_surname: Petif (de la Gautrois)
 tl2_forenames: Johann Friedrich Carl Ludwig Corentin
 tl2_name_abbrev: Petif
 tl2_dates: 1764-1845
-tl2_page_id: 33189670
+tl2_bhl_page_id: 33189670
 author_lsid: 7578-1
 wikidata_id: Q21522891
 ipni_surname: Petif
@@ -23,7 +23,8 @@ ipni_record_modified: 2014-02-20 14:18:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33189670) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7578-1), [Wikidata](https://www.wikidata.org/wiki/Q21522891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7578-1) LSID 7578-1, [Wikidata](https://www.wikidata.org/wiki/Q21522891) QID Q21522891
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

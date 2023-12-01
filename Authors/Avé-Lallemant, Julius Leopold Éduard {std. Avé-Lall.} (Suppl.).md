@@ -6,7 +6,7 @@ tl2_surname: Avé-Lallemant
 tl2_forenames: Julius Leopold Éduard
 tl2_name_abbrev: Avé-Lall.
 tl2_dates: 1803-1867
-tl2_page_id: 33264943
+tl2_bhl_page_id: 33264943
 author_lsid: 342-1
 wikidata_id: Q72901
 ipni_surname: Avé-Lallemant
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33264943) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/342-1), [Wikidata](https://www.wikidata.org/wiki/Q72901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/342-1) LSID 342-1, [Wikidata](https://www.wikidata.org/wiki/Q72901) QID Q72901
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Avé-Lallemant, Julius Leopold Éduard {std. Avé-Lall.}|first entry]] for this author
 

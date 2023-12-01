@@ -6,7 +6,7 @@ tl2_surname: Britton
 tl2_forenames: Elizabeth Gertrude (née Knight)
 tl2_name_abbrev: E. Britton
 tl2_dates: 1858-1934
-tl2_page_id: 33120462
+tl2_bhl_page_id: 33120462
 author_lsid: 12361-1
 wikidata_id: Q2567402
 ipni_surname: Britton
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33120462) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12361-1), [Wikidata](https://www.wikidata.org/wiki/Q2567402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12361-1) LSID 12361-1, [Wikidata](https://www.wikidata.org/wiki/Q2567402) QID Q2567402
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Britton, Elizabeth Gertrude (née Knight) {std. E. Britton} (Suppl.)|second entry]] for this author
 

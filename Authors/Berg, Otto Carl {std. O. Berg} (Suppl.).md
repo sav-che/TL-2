@@ -6,7 +6,7 @@ tl2_surname: Berg
 tl2_forenames: Otto Carl
 tl2_name_abbrev: O. Berg
 tl2_dates: 1815-1866
-tl2_page_id: 33265281
+tl2_bhl_page_id: 33265281
 author_lsid: 677-1
 wikidata_id: Q67868
 ipni_surname: Berg
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33265281) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/677-1), [Wikidata](https://www.wikidata.org/wiki/Q67868). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/677-1) LSID 677-1, [Wikidata](https://www.wikidata.org/wiki/Q67868) QID Q67868
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Berg, Otto Carl {std. O. Berg}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Coker
 tl2_forenames: Dorothy (later Mrs. W. Rowland)
 tl2_name_abbrev: D. Coker
 tl2_dates: 1894-x
-tl2_page_id: 33265938
+tl2_bhl_page_id: 33265938
 author_lsid: 17343-1
 wikidata_id: Q21508822
 ipni_surname: Coker
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33265938) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17343-1), [Wikidata](https://www.wikidata.org/wiki/Q21508822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17343-1) LSID 17343-1, [Wikidata](https://www.wikidata.org/wiki/Q21508822) QID Q21508822
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Baglietto
 tl2_forenames: Francesco
 tl2_name_abbrev: Bagl.
 tl2_dates: 1826-1916
-tl2_page_id: 33264978
+tl2_bhl_page_id: 33264978
 author_lsid: 31177-1
 wikidata_id: Q3749589
 ipni_surname: Baglietto
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33264978) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31177-1), [Wikidata](https://www.wikidata.org/wiki/Q3749589). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31177-1) LSID 31177-1, [Wikidata](https://www.wikidata.org/wiki/Q3749589) QID Q3749589
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baglietto, Francesco {std. Bagl.}|first entry]] for this author
 

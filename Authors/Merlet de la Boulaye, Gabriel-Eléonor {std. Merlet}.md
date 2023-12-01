@@ -6,7 +6,7 @@ tl2_surname: Merlet de la Boulaye
 tl2_forenames: Gabriel-Eléonor
 tl2_name_abbrev: Merlet
 tl2_dates: 1736-1807
-tl2_page_id: 33355511
+tl2_bhl_page_id: 33355511
 author_lsid: 6373-1
 wikidata_id: Q3094040
 ipni_surname: Merlet de la Boulaye
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6373-1), [Wikidata](https://www.wikidata.org/wiki/Q3094040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6373-1) LSID 6373-1, [Wikidata](https://www.wikidata.org/wiki/Q3094040) QID Q3094040
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

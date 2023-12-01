@@ -6,7 +6,7 @@ tl2_surname: Pantanelli
 tl2_forenames: Enrico Francesco
 tl2_name_abbrev: E. Pantan.
 tl2_dates: 1881-1951
-tl2_page_id: 33189478
+tl2_bhl_page_id: 33189478
 author_lsid: 14472-1
 wikidata_id: Q21522608
 ipni_surname: Pantanelli
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/14472-1), [Wikidata](https://www.wikidata.org/wiki/Q21522608). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14472-1) LSID 14472-1, [Wikidata](https://www.wikidata.org/wiki/Q21522608) QID Q21522608
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

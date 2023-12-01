@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0336
 tl2_volume: suppl3
 tl2_page_printed: 353
 tl2_surname: Camus
-tl2_forenames: Jules [Giulio]
+tl2_forenames: Jules (Giulio)
 tl2_name_abbrev: J. Camus
 tl2_dates: 1847-1917
-tl2_page_id: 33266660
+tl2_bhl_page_id: 33266660
 author_lsid: 34866-1
 wikidata_id: Q5565253
 ipni_surname: Camus
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33266660) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/34866-1), [Wikidata](https://www.wikidata.org/wiki/Q5565253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34866-1) LSID 34866-1, [Wikidata](https://www.wikidata.org/wiki/Q5565253) QID Q5565253
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

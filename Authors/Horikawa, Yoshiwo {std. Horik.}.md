@@ -6,7 +6,7 @@ tl2_surname: Horikawa
 tl2_forenames: Yoshiwo
 tl2_name_abbrev: Horik.
 tl2_dates: 1902-1976
-tl2_page_id: 33068575
+tl2_bhl_page_id: 33068575
 author_lsid: 4105-1
 wikidata_id: Q21341049
 ipni_surname: Horikawa
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33068575) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4105-1), [Wikidata](https://www.wikidata.org/wiki/Q21341049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4105-1) LSID 4105-1, [Wikidata](https://www.wikidata.org/wiki/Q21341049) QID Q21341049
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

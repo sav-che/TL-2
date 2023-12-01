@@ -6,7 +6,7 @@ tl2_surname: Hamilton
 tl2_forenames: Francis (né Buchanan)
 tl2_name_abbrev: F. Ham.
 tl2_dates: 1762-1829
-tl2_page_id: 33068277
+tl2_bhl_page_id: 33068277
 author_lsid: 1242-1
 wikidata_id: Q536945
 ipni_surname: Buchanan-Hamilton
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33068277) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/1242-1), [Wikidata](https://www.wikidata.org/wiki/Q536945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1242-1) LSID 1242-1, [Wikidata](https://www.wikidata.org/wiki/Q536945) QID Q536945
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

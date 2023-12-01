@@ -6,7 +6,7 @@ tl2_surname: Hoffmann
 tl2_forenames: Ferdinand
 tl2_name_abbrev: F. Hoffm.
 tl2_dates: 1860-1914
-tl2_page_id: 33068479
+tl2_bhl_page_id: 33068479
 author_lsid: 4012-1
 wikidata_id: Q5858722
 ipni_surname: Hoffmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33068479) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4012-1), [Wikidata](https://www.wikidata.org/wiki/Q5858722). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4012-1) LSID 4012-1, [Wikidata](https://www.wikidata.org/wiki/Q5858722) QID Q5858722
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

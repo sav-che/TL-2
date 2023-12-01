@@ -6,7 +6,7 @@ tl2_surname: Christiansen
 tl2_forenames: Albertus
 tl2_name_abbrev: Alb. Christ.
 tl2_dates: 1875-1917
-tl2_page_id: 33265840
+tl2_bhl_page_id: 33265840
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33265840) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

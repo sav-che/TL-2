@@ -6,7 +6,7 @@ tl2_surname: Nilsson
 tl2_forenames: Lars Albert (called himself Albert)
 tl2_name_abbrev: A. Nilsson
 tl2_dates: 1860-1906
-tl2_page_id: 33355841
+tl2_bhl_page_id: 33355841
 author_lsid: 6992-1
 wikidata_id: Q6009503
 ipni_surname: Nilsson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6992-1), [Wikidata](https://www.wikidata.org/wiki/Q6009503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6992-1) LSID 6992-1, [Wikidata](https://www.wikidata.org/wiki/Q6009503) QID Q6009503
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

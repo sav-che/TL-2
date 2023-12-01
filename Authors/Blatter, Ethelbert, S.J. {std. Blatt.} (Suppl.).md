@@ -6,7 +6,7 @@ tl2_surname: Blatter
 tl2_forenames: Ethelbert, S.J.
 tl2_name_abbrev: Blatt.
 tl2_dates: 1877-1934
-tl2_page_id: 33265404
+tl2_bhl_page_id: 33265404
 author_lsid: 16210-1
 wikidata_id: Q3059270
 ipni_surname: Blatter
@@ -26,7 +26,8 @@ ipni_record_modified: 2010-12-14 13:48:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16210-1), [Wikidata](https://www.wikidata.org/wiki/Q3059270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16210-1) LSID 16210-1, [Wikidata](https://www.wikidata.org/wiki/Q3059270) QID Q3059270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blatter, Ethelbert {std. Blatt.}|first entry]] for this author
 

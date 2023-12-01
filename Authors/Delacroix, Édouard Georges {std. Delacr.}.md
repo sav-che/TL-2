@@ -6,7 +6,7 @@ tl2_surname: Delacroix
 tl2_forenames: Édouard Georges
 tl2_name_abbrev: Delacr.
 tl2_dates: 1858-1907
-tl2_page_id: 33259214
+tl2_bhl_page_id: 33259214
 author_lsid: 17896-1
 wikidata_id: Q6174201
 ipni_surname: Delacroix
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33259214) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17896-1), [Wikidata](https://www.wikidata.org/wiki/Q6174201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17896-1) LSID 17896-1, [Wikidata](https://www.wikidata.org/wiki/Q6174201) QID Q6174201
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

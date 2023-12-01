@@ -6,7 +6,7 @@ tl2_surname: Weese
 tl2_forenames: Josef Karl
 tl2_name_abbrev: Weese
 tl2_dates: 1888-1962
-tl2_page_id: 33066483
+tl2_bhl_page_id: 33066483
 author_lsid: 11483-1
 wikidata_id: Q4105915
 ipni_surname: Weese
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33066483) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11483-1), [Wikidata](https://www.wikidata.org/wiki/Q4105915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11483-1) LSID 11483-1, [Wikidata](https://www.wikidata.org/wiki/Q4105915) QID Q4105915
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

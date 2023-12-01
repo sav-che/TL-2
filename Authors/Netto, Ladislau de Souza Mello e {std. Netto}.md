@@ -6,7 +6,7 @@ tl2_surname: Netto
 tl2_forenames: Ladislau de Souza Mello e
 tl2_name_abbrev: Netto
 tl2_dates: 1837-?
-tl2_page_id: 33355816
+tl2_bhl_page_id: 33355816
 author_lsid: 9931-1
 wikidata_id: Q6469631
 ipni_surname: Netto
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33355816) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/9931-1), [Wikidata](https://www.wikidata.org/wiki/Q6469631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9931-1) LSID 9931-1, [Wikidata](https://www.wikidata.org/wiki/Q6469631) QID Q6469631
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

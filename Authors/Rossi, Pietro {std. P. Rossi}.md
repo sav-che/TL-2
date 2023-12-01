@@ -6,7 +6,7 @@ tl2_surname: Rossi
 tl2_forenames: Pietro
 tl2_name_abbrev: P. Rossi
 tl2_dates: 1738-1804
-tl2_page_id: 33190375
+tl2_bhl_page_id: 33190375
 author_lsid: 8621-1
 wikidata_id: Q499985
 ipni_surname: Rossi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8621-1), [Wikidata](https://www.wikidata.org/wiki/Q499985). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8621-1) LSID 8621-1, [Wikidata](https://www.wikidata.org/wiki/Q499985) QID Q499985
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

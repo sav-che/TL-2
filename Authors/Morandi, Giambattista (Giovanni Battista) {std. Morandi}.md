@@ -6,7 +6,7 @@ tl2_surname: Morandi
 tl2_forenames: Giambattista (Giovanni Battista)
 tl2_name_abbrev: Morandi
 tl2_dates: fl. 1744
-tl2_page_id: 33355662
+tl2_bhl_page_id: 33355662
 author_lsid: 6628-1
 wikidata_id: Q36565554
 ipni_surname: Morandi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33355662) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6628-1), [Wikidata](https://www.wikidata.org/wiki/Q36565554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6628-1) LSID 6628-1, [Wikidata](https://www.wikidata.org/wiki/Q36565554) QID Q36565554
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

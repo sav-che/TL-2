@@ -6,7 +6,7 @@ tl2_surname: Kashyap
 tl2_forenames: Shiv Ram
 tl2_name_abbrev: Kash.
 tl2_dates: 1822-1934
-tl2_page_id: 33068748
+tl2_bhl_page_id: 33068748
 author_lsid: 21228-1
 wikidata_id: Q19542465
 ipni_surname: Kashyap
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33068748) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21228-1), [Wikidata](https://www.wikidata.org/wiki/Q19542465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21228-1) LSID 21228-1, [Wikidata](https://www.wikidata.org/wiki/Q19542465) QID Q19542465
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

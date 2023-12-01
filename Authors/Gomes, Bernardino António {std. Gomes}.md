@@ -6,7 +6,7 @@ tl2_surname: Gomes
 tl2_forenames: Bernardino António
 tl2_name_abbrev: Gomes
 tl2_dates: 1768-1823
-tl2_page_id: 33258766
+tl2_bhl_page_id: 33258766
 author_lsid: 3251-1
 wikidata_id: Q8246813
 ipni_surname: Gomes
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33258766) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3251-1), [Wikidata](https://www.wikidata.org/wiki/Q8246813). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3251-1) LSID 3251-1, [Wikidata](https://www.wikidata.org/wiki/Q8246813) QID Q8246813
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

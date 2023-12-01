@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0454
 tl2_volume: vol2
 tl2_page_printed: 416
 tl2_surname: Jäggi
-tl2_forenames: Jacob [Jakob]
+tl2_forenames: Jacob (Jakob)
 tl2_name_abbrev: Jäggi
 tl2_dates: 1829-1894
-tl2_page_id: 33068658
+tl2_bhl_page_id: 33068658
 author_lsid: 4395-1
 wikidata_id: Q21516887
 ipni_surname: Jäggi
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33068658) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4395-1), [Wikidata](https://www.wikidata.org/wiki/Q21516887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4395-1) LSID 4395-1, [Wikidata](https://www.wikidata.org/wiki/Q21516887) QID Q21516887
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

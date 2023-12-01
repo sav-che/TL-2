@@ -6,7 +6,7 @@ tl2_surname: Vidal
 tl2_forenames: António José Rodrigo
 tl2_name_abbrev: A. Vidal
 tl2_dates: 1808-1879
-tl2_page_id: 33212768
+tl2_bhl_page_id: 33212768
 author_lsid: 11168-1
 wikidata_id: Q19003002
 ipni_surname: Vidal
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33212768) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11168-1), [Wikidata](https://www.wikidata.org/wiki/Q19003002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11168-1) LSID 11168-1, [Wikidata](https://www.wikidata.org/wiki/Q19003002) QID Q19003002
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

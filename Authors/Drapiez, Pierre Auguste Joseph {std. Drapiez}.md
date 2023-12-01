@@ -6,7 +6,7 @@ tl2_surname: Drapiez
 tl2_forenames: Pierre Auguste Joseph
 tl2_name_abbrev: Drapiez
 tl2_dates: 1778-1856
-tl2_page_id: 33260077
+tl2_bhl_page_id: 33260077
 author_lsid: 2305-1
 wikidata_id: Q2073082
 ipni_surname: Drapiez
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33260077) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2305-1), [Wikidata](https://www.wikidata.org/wiki/Q2073082). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2305-1) LSID 2305-1, [Wikidata](https://www.wikidata.org/wiki/Q2073082) QID Q2073082
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

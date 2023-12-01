@@ -6,7 +6,7 @@ tl2_surname: Lucé
 tl2_forenames: Johann Wilhelm Ludwig von
 tl2_name_abbrev: Lucé
 tl2_dates: x-1862
-tl2_page_id: 33355268
+tl2_bhl_page_id: 33355268
 author_lsid: 5796-1
 wikidata_id: Q21519563
 ipni_surname: Lucé
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5796-1), [Wikidata](https://www.wikidata.org/wiki/Q21519563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5796-1) LSID 5796-1, [Wikidata](https://www.wikidata.org/wiki/Q21519563) QID Q21519563
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

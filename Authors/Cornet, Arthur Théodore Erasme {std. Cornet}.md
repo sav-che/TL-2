@@ -6,7 +6,7 @@ tl2_surname: Cornet
 tl2_forenames: Arthur Théodore Erasme
 tl2_name_abbrev: Cornet
 tl2_dates: 1863-1939
-tl2_page_id: 33266041
+tl2_bhl_page_id: 33266041
 author_lsid: 40207-1
 wikidata_id: Q21509082
 ipni_surname: Cornet
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33266041) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/40207-1), [Wikidata](https://www.wikidata.org/wiki/Q21509082). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/40207-1) LSID 40207-1, [Wikidata](https://www.wikidata.org/wiki/Q21509082) QID Q21509082
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

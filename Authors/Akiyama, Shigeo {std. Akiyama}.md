@@ -6,7 +6,7 @@ tl2_surname: Akiyama
 tl2_forenames: Shigeo
 tl2_name_abbrev: Akiyama
 tl2_dates: 1906-x
-tl2_page_id: 33264747
+tl2_bhl_page_id: 33264747
 author_lsid: 118-1
 wikidata_id: Q10371059
 ipni_surname: Akiyama
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33264747) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/118-1), [Wikidata](https://www.wikidata.org/wiki/Q10371059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/118-1) LSID 118-1, [Wikidata](https://www.wikidata.org/wiki/Q10371059) QID Q10371059
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

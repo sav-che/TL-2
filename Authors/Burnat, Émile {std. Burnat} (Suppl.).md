@@ -6,7 +6,7 @@ tl2_surname: Burnat
 tl2_forenames: Émile
 tl2_name_abbrev: Burnat
 tl2_dates: 1828-1920
-tl2_page_id: 33266561
+tl2_bhl_page_id: 33266561
 author_lsid: 1309-1
 wikidata_id: Q3588389
 ipni_surname: Burnat
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1309-1), [Wikidata](https://www.wikidata.org/wiki/Q3588389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1309-1) LSID 1309-1, [Wikidata](https://www.wikidata.org/wiki/Q3588389) QID Q3588389
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Burnat, Emile {std. Burnat}|first entry]] for this author
 

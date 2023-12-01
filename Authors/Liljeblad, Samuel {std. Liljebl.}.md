@@ -6,7 +6,7 @@ tl2_surname: Liljeblad
 tl2_forenames: Samuel
 tl2_name_abbrev: Liljebl.
 tl2_dates: 1761-1815
-tl2_page_id: 33355110
+tl2_bhl_page_id: 33355110
 author_lsid: 22346-1
 wikidata_id: Q4261626
 ipni_surname: Liljeblad
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:42:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33355110) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22346-1), [Wikidata](https://www.wikidata.org/wiki/Q4261626). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22346-1) LSID 22346-1, [Wikidata](https://www.wikidata.org/wiki/Q4261626) QID Q4261626
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

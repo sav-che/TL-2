@@ -6,7 +6,7 @@ tl2_surname: Seidel
 tl2_forenames: O.M.
 tl2_name_abbrev: O.M. Seidel
 tl2_dates: 1841-1917
-tl2_page_id: 33333630
+tl2_bhl_page_id: 33333630
 author_lsid: 9436-1
 wikidata_id: Q21608628
 ipni_surname: Seidel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9436-1), [Wikidata](https://www.wikidata.org/wiki/Q21608628). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9436-1) LSID 9436-1, [Wikidata](https://www.wikidata.org/wiki/Q21608628) QID Q21608628
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

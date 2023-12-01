@@ -6,7 +6,7 @@ tl2_surname: Schwier
 tl2_forenames: Heinz
 tl2_name_abbrev: Schwier
 tl2_dates: 1881-1955
-tl2_page_id: 33333590
+tl2_bhl_page_id: 33333590
 author_lsid: 9378-1
 wikidata_id: Q16719754
 ipni_surname: Schwier
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9378-1), [Wikidata](https://www.wikidata.org/wiki/Q16719754). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9378-1) LSID 9378-1, [Wikidata](https://www.wikidata.org/wiki/Q16719754) QID Q16719754
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

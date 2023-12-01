@@ -6,7 +6,7 @@ tl2_surname: Postel
 tl2_forenames: Emil A.W.
 tl2_name_abbrev: Postel
 tl2_dates: fl. 1856
-tl2_page_id: 33189825
+tl2_bhl_page_id: 33189825
 author_lsid: 7881-1
 wikidata_id: Q36548912
 ipni_surname: Postel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7881-1), [Wikidata](https://www.wikidata.org/wiki/Q36548912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7881-1) LSID 7881-1, [Wikidata](https://www.wikidata.org/wiki/Q36548912) QID Q36548912
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

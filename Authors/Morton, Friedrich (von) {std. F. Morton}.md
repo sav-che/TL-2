@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0701
 tl2_volume: vol3
 tl2_page_printed: 599
 tl2_surname: Morton
-tl2_forenames: Friedrich [von]
+tl2_forenames: Friedrich (von)
 tl2_name_abbrev: F. Morton
 tl2_dates: 1890-1969
-tl2_page_id: 33355686
+tl2_bhl_page_id: 33355686
 author_lsid: 6686-1
 wikidata_id: Q90100
 ipni_surname: Morton
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6686-1), [Wikidata](https://www.wikidata.org/wiki/Q90100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6686-1) LSID 6686-1, [Wikidata](https://www.wikidata.org/wiki/Q90100) QID Q90100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

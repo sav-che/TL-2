@@ -6,7 +6,7 @@ tl2_surname: Fougeroux de Bondaroy
 tl2_forenames: Auguste Denis
 tl2_name_abbrev: Foug.
 tl2_dates: 1732-1789
-tl2_page_id: 33120995
+tl2_bhl_page_id: 33120995
 author_lsid: 2853-1
 wikidata_id: Q766363
 ipni_surname: Fougeroux de Bondaroy
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2853-1), [Wikidata](https://www.wikidata.org/wiki/Q766363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2853-1) LSID 2853-1, [Wikidata](https://www.wikidata.org/wiki/Q766363) QID Q766363
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

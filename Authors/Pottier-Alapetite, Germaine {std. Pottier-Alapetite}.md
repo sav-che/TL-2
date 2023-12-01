@@ -6,7 +6,7 @@ tl2_surname: Pottier-Alapetite
 tl2_forenames: Germaine
 tl2_name_abbrev: Pottier-Alapetite
 tl2_dates: 1894-x
-tl2_page_id: 33189836
+tl2_bhl_page_id: 33189836
 author_lsid: 7893-1
 wikidata_id: Q3104215
 ipni_surname: Pottier-Alapetite
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7893-1), [Wikidata](https://www.wikidata.org/wiki/Q3104215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7893-1) LSID 7893-1, [Wikidata](https://www.wikidata.org/wiki/Q3104215) QID Q3104215
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

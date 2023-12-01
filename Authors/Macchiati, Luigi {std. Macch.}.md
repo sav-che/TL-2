@@ -6,7 +6,7 @@ tl2_surname: Macchiati
 tl2_forenames: Luigi
 tl2_name_abbrev: Macch.
 tl2_dates: 1852-1921
-tl2_page_id: 33355300
+tl2_bhl_page_id: 33355300
 author_lsid: 22676-1
 wikidata_id: Q13503194
 ipni_surname: Macchiati
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22676-1), [Wikidata](https://www.wikidata.org/wiki/Q13503194). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22676-1) LSID 22676-1, [Wikidata](https://www.wikidata.org/wiki/Q13503194) QID Q13503194
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

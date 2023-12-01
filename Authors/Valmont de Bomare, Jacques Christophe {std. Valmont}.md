@@ -6,7 +6,7 @@ tl2_surname: Valmont de Bomare
 tl2_forenames: Jacques Christophe
 tl2_name_abbrev: Valmont
 tl2_dates: 1731-1807
-tl2_page_id: 33212695
+tl2_bhl_page_id: 33212695
 author_lsid: 11040-1
 wikidata_id: Q421765
 ipni_surname: Valmont de Bomare
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33212695) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11040-1), [Wikidata](https://www.wikidata.org/wiki/Q421765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11040-1) LSID 11040-1, [Wikidata](https://www.wikidata.org/wiki/Q421765) QID Q421765
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

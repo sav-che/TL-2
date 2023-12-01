@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0226
 tl2_volume: vol3
 tl2_page_printed: 218
 tl2_surname: Macedo
-tl2_forenames: [Manuel] Antonio de
+tl2_forenames: (Manuel) Antonio de
 tl2_name_abbrev: 
 tl2_dates: fl. 1867
-tl2_page_id: 33355305
+tl2_bhl_page_id: 33355305
 author_lsid: 5912-1
 wikidata_id: Q21519715
 ipni_surname: Macedo
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5912-1), [Wikidata](https://www.wikidata.org/wiki/Q21519715). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5912-1) LSID 5912-1, [Wikidata](https://www.wikidata.org/wiki/Q21519715) QID Q21519715
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0280
 tl2_volume: suppl1
 tl2_page_printed: 236
 tl2_surname: Bacigalupi
-tl2_forenames: Rimo Charles [Carlo] Felix [Felice]
+tl2_forenames: Rimo Charles (Carlo) Felix (Felice)
 tl2_name_abbrev: Bacig.
 tl2_dates: 1901-x
-tl2_page_id: 33264963
+tl2_bhl_page_id: 33264963
 author_lsid: 366-1
 wikidata_id: Q16625476
 ipni_surname: Bacigalupi
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33264963) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/366-1), [Wikidata](https://www.wikidata.org/wiki/Q16625476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/366-1) LSID 366-1, [Wikidata](https://www.wikidata.org/wiki/Q16625476) QID Q16625476
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

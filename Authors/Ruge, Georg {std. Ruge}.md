@@ -6,7 +6,7 @@ tl2_surname: Ruge
 tl2_forenames: Georg
 tl2_name_abbrev: Ruge
 tl2_dates: fl. 1893
-tl2_page_id: 33190450
+tl2_bhl_page_id: 33190450
 author_lsid: 8724-1
 wikidata_id: Q47125440
 ipni_surname: Ruge
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8724-1), [Wikidata](https://www.wikidata.org/wiki/Q47125440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8724-1) LSID 8724-1, [Wikidata](https://www.wikidata.org/wiki/Q47125440) QID Q47125440
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

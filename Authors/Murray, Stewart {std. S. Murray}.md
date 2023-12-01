@@ -6,7 +6,7 @@ tl2_surname: Murray
 tl2_forenames: Stewart
 tl2_name_abbrev: S. Murray
 tl2_dates: 1789?-1858
-tl2_page_id: 33355758
+tl2_bhl_page_id: 33355758
 author_lsid: 6811-1
 wikidata_id: Q21521916
 ipni_surname: Murray
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33355758) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6811-1), [Wikidata](https://www.wikidata.org/wiki/Q21521916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6811-1) LSID 6811-1, [Wikidata](https://www.wikidata.org/wiki/Q21521916) QID Q21521916
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

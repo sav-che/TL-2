@@ -6,7 +6,7 @@ tl2_surname: Christiansen
 tl2_forenames: Mads Peter
 tl2_name_abbrev: M.P. Christ.
 tl2_dates: 1889-1975
-tl2_page_id: 33265841
+tl2_bhl_page_id: 33265841
 author_lsid: 1632-1
 wikidata_id: Q21393058
 ipni_surname: Christiansen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265841) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1632-1), [Wikidata](https://www.wikidata.org/wiki/Q21393058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1632-1) LSID 1632-1, [Wikidata](https://www.wikidata.org/wiki/Q21393058) QID Q21393058
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

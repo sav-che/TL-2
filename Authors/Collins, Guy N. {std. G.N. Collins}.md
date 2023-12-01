@@ -6,7 +6,7 @@ tl2_surname: Collins
 tl2_forenames: Guy N.
 tl2_name_abbrev: G.N. Collins
 tl2_dates: 1872-1938
-tl2_page_id: 33265951
+tl2_bhl_page_id: 33265951
 author_lsid: 1744-1
 wikidata_id: Q20973529
 ipni_surname: Collins
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265951) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1744-1), [Wikidata](https://www.wikidata.org/wiki/Q20973529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1744-1) LSID 1744-1, [Wikidata](https://www.wikidata.org/wiki/Q20973529) QID Q20973529
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

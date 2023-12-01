@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0589
 tl2_volume: vol2
 tl2_page_printed: 500
 tl2_surname: Karsten
-tl2_forenames: Hermann [Gustav Karl Wilhelm Hermann]
+tl2_forenames: Hermann (Gustav Karl Wilhelm Hermann)
 tl2_name_abbrev: H. Karst.
 tl2_dates: 1817-1908
-tl2_page_id: 33068742
+tl2_bhl_page_id: 33068742
 author_lsid: 4656-1
 wikidata_id: Q62413
 ipni_surname: Karsten
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:40:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33068742) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4656-1), [Wikidata](https://www.wikidata.org/wiki/Q62413). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4656-1) LSID 4656-1, [Wikidata](https://www.wikidata.org/wiki/Q62413) QID Q62413
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

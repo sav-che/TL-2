@@ -6,7 +6,7 @@ tl2_surname: Verdoorn
 tl2_forenames: Inez Glare
 tl2_name_abbrev: I. Verd.
 tl2_dates: 1896-x
-tl2_page_id: 33212751
+tl2_bhl_page_id: 33212751
 author_lsid: 11134-1
 wikidata_id: Q6028684
 ipni_surname: Verdoorn
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33212751) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11134-1), [Wikidata](https://www.wikidata.org/wiki/Q6028684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11134-1) LSID 11134-1, [Wikidata](https://www.wikidata.org/wiki/Q6028684) QID Q6028684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

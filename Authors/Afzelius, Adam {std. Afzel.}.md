@@ -6,7 +6,7 @@ tl2_surname: Afzelius
 tl2_forenames: Adam
 tl2_name_abbrev: Afzel.
 tl2_dates: 1750-1837
-tl2_page_id: 33120104
+tl2_bhl_page_id: 33120104
 author_lsid: 30666-1
 wikidata_id: Q347903
 ipni_surname: Afzelius
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33120104) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/30666-1), [Wikidata](https://www.wikidata.org/wiki/Q347903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30666-1) LSID 30666-1, [Wikidata](https://www.wikidata.org/wiki/Q347903) QID Q347903
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Afzelius, Adam {std. Afzel.} (Suppl.)|second entry]] for this author
 

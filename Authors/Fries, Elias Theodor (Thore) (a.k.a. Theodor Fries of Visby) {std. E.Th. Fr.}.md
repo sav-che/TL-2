@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0017
 tl2_volume: suppl8
 tl2_page_printed: 21
 tl2_surname: Fries
-tl2_forenames: Elias Theodor [Thore] (a.k.a. Theodor Fries of Visby)
+tl2_forenames: Elias Theodor (Thore) (a.k.a. Theodor Fries of Visby)
 tl2_name_abbrev: E.Th. Fr.
 tl2_dates: 1875-1951
-tl2_page_id: 33258505
+tl2_bhl_page_id: 33258505
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

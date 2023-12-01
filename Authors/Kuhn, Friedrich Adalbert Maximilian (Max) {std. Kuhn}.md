@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0816
 tl2_volume: vol2
 tl2_page_printed: 690
 tl2_surname: Kuhn
-tl2_forenames: Friedrich Adalbert Maximilian [Max]
+tl2_forenames: Friedrich Adalbert Maximilian (Max)
 tl2_name_abbrev: Kuhn
 tl2_dates: 1842-1894
-tl2_page_id: 33068932
+tl2_bhl_page_id: 33068932
 author_lsid: 5118-1
 wikidata_id: Q85717
 ipni_surname: Kuhn
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33068932) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5118-1), [Wikidata](https://www.wikidata.org/wiki/Q85717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5118-1) LSID 5118-1, [Wikidata](https://www.wikidata.org/wiki/Q85717) QID Q85717
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

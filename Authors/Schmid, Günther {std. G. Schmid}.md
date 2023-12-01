@@ -6,7 +6,7 @@ tl2_surname: Schmid
 tl2_forenames: Günther
 tl2_name_abbrev: G. Schmid
 tl2_dates: 1888-1949
-tl2_page_id: 33333375
+tl2_bhl_page_id: 33333375
 author_lsid: 9144-1
 wikidata_id: Q20733712
 ipni_surname: Schmid
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33333375) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9144-1), [Wikidata](https://www.wikidata.org/wiki/Q20733712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9144-1) LSID 9144-1, [Wikidata](https://www.wikidata.org/wiki/Q20733712) QID Q20733712
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

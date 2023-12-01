@@ -6,7 +6,7 @@ tl2_surname: Tournefort
 tl2_forenames: Joseph Pitton de
 tl2_name_abbrev: Tourn.
 tl2_dates: 1656-1708
-tl2_page_id: 33212454
+tl2_bhl_page_id: 33212454
 author_lsid: 10764-1
 wikidata_id: Q312959
 ipni_surname: Tournefort
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:40:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33212454) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10764-1), [Wikidata](https://www.wikidata.org/wiki/Q312959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10764-1) LSID 10764-1, [Wikidata](https://www.wikidata.org/wiki/Q312959) QID Q312959
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Plukenet
 tl2_forenames: Leonard
 tl2_name_abbrev: Pluk.
 tl2_dates: 1642-1706
-tl2_page_id: 33189769
+tl2_bhl_page_id: 33189769
 author_lsid: 7764-1
 wikidata_id: Q354612
 ipni_surname: Plukenet
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7764-1), [Wikidata](https://www.wikidata.org/wiki/Q354612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7764-1) LSID 7764-1, [Wikidata](https://www.wikidata.org/wiki/Q354612) QID Q354612
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

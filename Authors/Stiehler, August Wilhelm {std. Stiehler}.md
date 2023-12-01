@@ -6,7 +6,7 @@ tl2_surname: Stiehler
 tl2_forenames: August Wilhelm
 tl2_name_abbrev: Stiehler
 tl2_dates: 1797-1878
-tl2_page_id: 33212093
+tl2_bhl_page_id: 33212093
 author_lsid: 10146-1
 wikidata_id: Q2575266
 ipni_surname: Stiehler
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10146-1), [Wikidata](https://www.wikidata.org/wiki/Q2575266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10146-1) LSID 10146-1, [Wikidata](https://www.wikidata.org/wiki/Q2575266) QID Q2575266
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

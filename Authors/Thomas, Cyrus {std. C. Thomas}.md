@@ -6,7 +6,7 @@ tl2_surname: Thomas
 tl2_forenames: Cyrus
 tl2_name_abbrev: C. Thomas
 tl2_dates: 1825-1910
-tl2_page_id: 33212313
+tl2_bhl_page_id: 33212313
 author_lsid: 10589-1
 wikidata_id: Q4460170
 ipni_surname: Thomas
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33212313) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10589-1), [Wikidata](https://www.wikidata.org/wiki/Q4460170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10589-1) LSID 10589-1, [Wikidata](https://www.wikidata.org/wiki/Q4460170) QID Q4460170
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

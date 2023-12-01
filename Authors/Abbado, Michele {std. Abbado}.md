@@ -6,7 +6,7 @@ tl2_surname: Abbado
 tl2_forenames: Michele
 tl2_name_abbrev: Abbado
 tl2_dates: fl. 1900-1915
-tl2_page_id: 33264773
+tl2_bhl_page_id: 33264773
 author_lsid: 20034583-1
 wikidata_id: Q88804305
 ipni_surname: Abbado
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33264773) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/20034583-1), [Wikidata](https://www.wikidata.org/wiki/Q88804305). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20034583-1) LSID 20034583-1, [Wikidata](https://www.wikidata.org/wiki/Q88804305) QID Q88804305
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

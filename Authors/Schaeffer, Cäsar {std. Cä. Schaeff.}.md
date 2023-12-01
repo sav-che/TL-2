@@ -6,7 +6,7 @@ tl2_surname: Schaeffer
 tl2_forenames: Cäsar
 tl2_name_abbrev: Cä. Schaeff.
 tl2_dates: 1867-1944
-tl2_page_id: 33333243
+tl2_bhl_page_id: 33333243
 author_lsid: 9003-1
 wikidata_id: Q21607851
 ipni_surname: Schaeffer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9003-1), [Wikidata](https://www.wikidata.org/wiki/Q21607851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9003-1) LSID 9003-1, [Wikidata](https://www.wikidata.org/wiki/Q21607851) QID Q21607851
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

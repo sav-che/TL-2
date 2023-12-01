@@ -6,7 +6,7 @@ tl2_surname: Marzell
 tl2_forenames: Heinrich
 tl2_name_abbrev: Marzell
 tl2_dates: 1885-1970
-tl2_page_id: 33355433
+tl2_bhl_page_id: 33355433
 author_lsid: 6185-1
 wikidata_id: Q1507103
 ipni_surname: Marzell
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6185-1), [Wikidata](https://www.wikidata.org/wiki/Q1507103). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6185-1) LSID 6185-1, [Wikidata](https://www.wikidata.org/wiki/Q1507103) QID Q1507103
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Slater
 tl2_forenames: Matthew B.
 tl2_name_abbrev: Slater
 tl2_dates: c. 1829-1918
-tl2_page_id: 33333782
+tl2_bhl_page_id: 33333782
 author_lsid: 9732-1
 wikidata_id: Q21609025
 ipni_surname: Slater
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9732-1), [Wikidata](https://www.wikidata.org/wiki/Q21609025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9732-1) LSID 9732-1, [Wikidata](https://www.wikidata.org/wiki/Q21609025) QID Q21609025
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Johnston
 tl2_forenames: Robert Mackenzie
 tl2_name_abbrev: R. Johnst.
 tl2_dates: 1844-1918
-tl2_page_id: 33068693
+tl2_bhl_page_id: 33068693
 author_lsid: 4523-1
 wikidata_id: Q7347255
 ipni_surname: Johnston
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33068693) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4523-1), [Wikidata](https://www.wikidata.org/wiki/Q7347255). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4523-1) LSID 4523-1, [Wikidata](https://www.wikidata.org/wiki/Q7347255) QID Q7347255
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Ekstrand
 tl2_forenames: Emil Viktor
 tl2_name_abbrev: Ekstr.
 tl2_dates: 1841-1884
-tl2_page_id: 33260286
+tl2_bhl_page_id: 33260286
 author_lsid: 18421-1
 wikidata_id: Q5830789
 ipni_surname: Ekstrand
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33260286) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18421-1), [Wikidata](https://www.wikidata.org/wiki/Q5830789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18421-1) LSID 18421-1, [Wikidata](https://www.wikidata.org/wiki/Q5830789) QID Q5830789
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

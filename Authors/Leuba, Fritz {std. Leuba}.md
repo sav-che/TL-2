@@ -6,7 +6,7 @@ tl2_surname: Leuba
 tl2_forenames: Fritz
 tl2_name_abbrev: Leuba
 tl2_dates: 1848-1910
-tl2_page_id: 33069103
+tl2_bhl_page_id: 33069103
 author_lsid: 5525-1
 wikidata_id: Q21518729
 ipni_surname: Leuba
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5525-1), [Wikidata](https://www.wikidata.org/wiki/Q21518729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5525-1) LSID 5525-1, [Wikidata](https://www.wikidata.org/wiki/Q21518729) QID Q21518729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

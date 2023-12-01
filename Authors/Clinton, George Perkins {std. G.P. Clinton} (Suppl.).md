@@ -6,7 +6,7 @@ tl2_surname: Clinton
 tl2_forenames: George Perkins
 tl2_name_abbrev: G.P. Clinton
 tl2_dates: 1867-1937
-tl2_page_id: 33265896
+tl2_bhl_page_id: 33265896
 author_lsid: 1700-1
 wikidata_id: Q21508764
 ipni_surname: Clinton
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265896) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1700-1), [Wikidata](https://www.wikidata.org/wiki/Q21508764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1700-1) LSID 1700-1, [Wikidata](https://www.wikidata.org/wiki/Q21508764) QID Q21508764
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Clinton, George Perkins {std. G.P. Clinton}|first entry]] for this author
 

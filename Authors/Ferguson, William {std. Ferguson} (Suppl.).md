@@ -6,7 +6,7 @@ tl2_surname: Ferguson
 tl2_forenames: William
 tl2_name_abbrev: Ferguson
 tl2_dates: 1820-1887
-tl2_page_id: 33259645
+tl2_bhl_page_id: 33259645
 author_lsid: 2689-1
 wikidata_id: Q8008992
 ipni_surname: Ferguson
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259645) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2689-1), [Wikidata](https://www.wikidata.org/wiki/Q8008992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2689-1) LSID 2689-1, [Wikidata](https://www.wikidata.org/wiki/Q8008992) QID Q8008992
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ferguson, William {std. Ferguson}|first entry]] for this author
 

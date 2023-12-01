@@ -6,7 +6,7 @@ tl2_surname: Cooley
 tl2_forenames: Grace Emily
 tl2_name_abbrev: G.E. Cooley
 tl2_dates: 1857-1916
-tl2_page_id: 33266011
+tl2_bhl_page_id: 33266011
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33266011) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

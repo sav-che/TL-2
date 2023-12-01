@@ -6,7 +6,7 @@ tl2_surname: Stiefelhagen
 tl2_forenames: Heinz
 tl2_name_abbrev: Stiefelh.
 tl2_dates: fl. 1911
-tl2_page_id: 33212093
+tl2_bhl_page_id: 33212093
 author_lsid: 10145-1
 wikidata_id: Q26714575
 ipni_surname: Stiefelhagen
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10145-1), [Wikidata](https://www.wikidata.org/wiki/Q26714575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10145-1) LSID 10145-1, [Wikidata](https://www.wikidata.org/wiki/Q26714575) QID Q26714575
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

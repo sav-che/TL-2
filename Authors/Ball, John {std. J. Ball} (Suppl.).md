@@ -6,7 +6,7 @@ tl2_surname: Ball
 tl2_forenames: John
 tl2_name_abbrev: J. Ball
 tl2_dates: 1818-1889
-tl2_page_id: 33265029
+tl2_bhl_page_id: 33265029
 author_lsid: 428-1
 wikidata_id: Q957519
 ipni_surname: Ball
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265029) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/428-1), [Wikidata](https://www.wikidata.org/wiki/Q957519). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/428-1) LSID 428-1, [Wikidata](https://www.wikidata.org/wiki/Q957519) QID Q957519
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ball, John {std. J. Ball}|first entry]] for this author
 

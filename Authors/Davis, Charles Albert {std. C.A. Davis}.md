@@ -6,7 +6,7 @@ tl2_surname: Davis
 tl2_forenames: Charles Albert
 tl2_name_abbrev: C.A. Davis
 tl2_dates: 1861-1916
-tl2_page_id: 33259151
+tl2_bhl_page_id: 33259151
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33259151) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

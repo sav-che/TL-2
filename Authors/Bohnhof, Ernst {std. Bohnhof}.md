@@ -6,7 +6,7 @@ tl2_surname: Bohnhof
 tl2_forenames: Ernst
 tl2_name_abbrev: Bohnhof
 tl2_dates: fl. 1886-1895
-tl2_page_id: 33265472
+tl2_bhl_page_id: 33265472
 author_lsid: 20011954-2
 wikidata_id: Q36543657
 ipni_surname: Bohnhof
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265472) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/20011954-2), [Wikidata](https://www.wikidata.org/wiki/Q36543657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20011954-2) LSID 20011954-2, [Wikidata](https://www.wikidata.org/wiki/Q36543657) QID Q36543657
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

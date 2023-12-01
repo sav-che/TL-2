@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0387
 tl2_volume: vol5
 tl2_page_printed: 408
 tl2_surname: Schur
-tl2_forenames: [Philipp Johann] Ferdinand
+tl2_forenames: (Philipp Johann) Ferdinand
 tl2_name_abbrev: Schur
 tl2_dates: 1799-1878
-tl2_page_id: 33333547
+tl2_bhl_page_id: 33333547
 author_lsid: 9335-1
 wikidata_id: Q71649
 ipni_surname: Schur
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33333547) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9335-1), [Wikidata](https://www.wikidata.org/wiki/Q71649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9335-1) LSID 9335-1, [Wikidata](https://www.wikidata.org/wiki/Q71649) QID Q71649
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

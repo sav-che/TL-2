@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0202
 tl2_volume: vol3
 tl2_page_printed: 207
 tl2_surname: Mabille
-tl2_forenames: [Jules] Paul
+tl2_forenames: (Jules) Paul
 tl2_name_abbrev: Mabille
 tl2_dates: 1835-1923
-tl2_page_id: 33355294
+tl2_bhl_page_id: 33355294
 author_lsid: 5882-1
 wikidata_id: Q4273734
 ipni_surname: Mabille
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33355294) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5882-1), [Wikidata](https://www.wikidata.org/wiki/Q4273734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5882-1) LSID 5882-1, [Wikidata](https://www.wikidata.org/wiki/Q4273734) QID Q4273734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

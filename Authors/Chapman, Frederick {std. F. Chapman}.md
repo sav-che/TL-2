@@ -6,7 +6,7 @@ tl2_surname: Chapman
 tl2_forenames: Frederick
 tl2_name_abbrev: F. Chapman
 tl2_dates: 1864-1943
-tl2_page_id: 33120617
+tl2_bhl_page_id: 33120617
 author_lsid: 32688-1
 wikidata_id: Q5497505
 ipni_surname: Chapman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/32688-1), [Wikidata](https://www.wikidata.org/wiki/Q5497505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32688-1) LSID 32688-1, [Wikidata](https://www.wikidata.org/wiki/Q5497505) QID Q5497505
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

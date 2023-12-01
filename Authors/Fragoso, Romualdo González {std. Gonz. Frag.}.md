@@ -6,7 +6,7 @@ tl2_surname: Fragoso
 tl2_forenames: Romualdo González
 tl2_name_abbrev: Gonz. Frag.
 tl2_dates: 1862-1928
-tl2_page_id: 33120999
+tl2_bhl_page_id: 33120999
 author_lsid: 2865-1
 wikidata_id: Q10364291
 ipni_surname: González Fragoso
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2865-1), [Wikidata](https://www.wikidata.org/wiki/Q10364291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2865-1) LSID 2865-1, [Wikidata](https://www.wikidata.org/wiki/Q10364291) QID Q10364291
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[González Fragoso (Gonzales Fragoso), Romualdo {std. Gonz. Frag.} (Suppl.)|second entry]] for this author
 

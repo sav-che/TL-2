@@ -6,7 +6,7 @@ tl2_surname: Rowntree
 tl2_forenames: Lester (Gertrud Ellen Lester)
 tl2_name_abbrev: Rowntree
 tl2_dates: 1879-1979
-tl2_page_id: 33190423
+tl2_bhl_page_id: 33190423
 author_lsid: 8680-1
 wikidata_id: Q16749847
 ipni_surname: Rowntree
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/page/33190423) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8680-1), [Wikidata](https://www.wikidata.org/wiki/Q16749847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8680-1) LSID 8680-1, [Wikidata](https://www.wikidata.org/wiki/Q16749847) QID Q16749847
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

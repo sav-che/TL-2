@@ -6,7 +6,7 @@ tl2_surname: Steiner
 tl2_forenames: Maximilian
 tl2_name_abbrev: M. Steiner
 tl2_dates: 1904-x
-tl2_page_id: 33334015
+tl2_bhl_page_id: 33334015
 author_lsid: 10081-1
 wikidata_id: Q21512713
 ipni_surname: Steiner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33334015) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10081-1), [Wikidata](https://www.wikidata.org/wiki/Q21512713). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10081-1) LSID 10081-1, [Wikidata](https://www.wikidata.org/wiki/Q21512713) QID Q21512713
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0036
 tl2_volume: vol6
 tl2_page_printed: 26
 tl2_surname: Stopes
-tl2_forenames: Marie [Charlotte Carmichael]
+tl2_forenames: Marie (Charlotte Carmichael)
 tl2_name_abbrev: Stopes
 tl2_dates: 1880-1958
-tl2_page_id: 33212068
+tl2_bhl_page_id: 33212068
 author_lsid: 12892-1
 wikidata_id: Q442231
 ipni_surname: Stopes
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:29:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33212068) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12892-1), [Wikidata](https://www.wikidata.org/wiki/Q442231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12892-1) LSID 12892-1, [Wikidata](https://www.wikidata.org/wiki/Q442231) QID Q442231
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

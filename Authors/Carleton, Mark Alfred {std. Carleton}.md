@@ -6,7 +6,7 @@ tl2_surname: Carleton
 tl2_forenames: Mark Alfred
 tl2_name_abbrev: Carleton
 tl2_dates: 1866-1925
-tl2_page_id: 33120588
+tl2_bhl_page_id: 33120588
 author_lsid: 16898-1
 wikidata_id: Q6766446
 ipni_surname: Carleton
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16898-1), [Wikidata](https://www.wikidata.org/wiki/Q6766446). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16898-1) LSID 16898-1, [Wikidata](https://www.wikidata.org/wiki/Q6766446) QID Q6766446
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Carleton, Mark Alfred {std. Carleton} (Suppl.)|second entry]] for this author
 

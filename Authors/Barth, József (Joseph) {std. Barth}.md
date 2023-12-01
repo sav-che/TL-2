@@ -6,7 +6,7 @@ tl2_surname: Barth
 tl2_forenames: József (Joseph)
 tl2_name_abbrev: Barth
 tl2_dates: 1833-1915
-tl2_page_id: 33120256
+tl2_bhl_page_id: 33120256
 author_lsid: 31379-1
 wikidata_id: Q12349965
 ipni_surname: Barth
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33120256) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/31379-1), [Wikidata](https://www.wikidata.org/wiki/Q12349965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31379-1) LSID 31379-1, [Wikidata](https://www.wikidata.org/wiki/Q12349965) QID Q12349965
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Barth, József (Joseph) {std. Barth} (Suppl.)|second entry]] for this author
 

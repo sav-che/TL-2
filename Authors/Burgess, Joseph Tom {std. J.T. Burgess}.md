@@ -6,7 +6,7 @@ tl2_surname: Burgess
 tl2_forenames: Joseph Tom
 tl2_name_abbrev: J.T. Burgess
 tl2_dates: 1828-1886
-tl2_page_id: 33266547
+tl2_bhl_page_id: 33266547
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33266547) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

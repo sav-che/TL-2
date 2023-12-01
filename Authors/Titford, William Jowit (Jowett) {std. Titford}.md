@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0393
 tl2_volume: vol6
 tl2_page_printed: 370
 tl2_surname: Titford
-tl2_forenames: William Jowit (Jowett]
+tl2_forenames: William Jowit (Jowett)
 tl2_name_abbrev: Titford
 tl2_dates: 1784-1823/7?
-tl2_page_id: 33212412
+tl2_bhl_page_id: 33212412
 author_lsid: 10693-1
 wikidata_id: Q21610781
 ipni_surname: Titford
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33212412) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10693-1), [Wikidata](https://www.wikidata.org/wiki/Q21610781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10693-1) LSID 10693-1, [Wikidata](https://www.wikidata.org/wiki/Q21610781) QID Q21610781
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

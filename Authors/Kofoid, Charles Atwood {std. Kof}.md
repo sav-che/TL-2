@@ -6,7 +6,7 @@ tl2_surname: Kofoid
 tl2_forenames: Charles Atwood
 tl2_name_abbrev: Kof
 tl2_dates: 1865-1947
-tl2_page_id: 33068848
+tl2_bhl_page_id: 33068848
 author_lsid: 4925-1
 wikidata_id: Q5075236
 ipni_surname: Kofoid
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33068848) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4925-1), [Wikidata](https://www.wikidata.org/wiki/Q5075236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4925-1) LSID 4925-1, [Wikidata](https://www.wikidata.org/wiki/Q5075236) QID Q5075236
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

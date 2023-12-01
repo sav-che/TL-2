@@ -6,7 +6,7 @@ tl2_surname: Kops
 tl2_forenames: Jan
 tl2_name_abbrev: Kops
 tl2_dates: 1765-1849
-tl2_page_id: 33068891
+tl2_bhl_page_id: 33068891
 author_lsid: 4959-1
 wikidata_id: Q2372924
 ipni_surname: Kops
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4959-1), [Wikidata](https://www.wikidata.org/wiki/Q2372924). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4959-1) LSID 4959-1, [Wikidata](https://www.wikidata.org/wiki/Q2372924) QID Q2372924
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

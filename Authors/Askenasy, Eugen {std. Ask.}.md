@@ -6,7 +6,7 @@ tl2_surname: Askenasy
 tl2_forenames: Eugen
 tl2_name_abbrev: Ask.
 tl2_dates: 1845-1903
-tl2_page_id: 33120208
+tl2_bhl_page_id: 33120208
 author_lsid: 314-1
 wikidata_id: Q1372378
 ipni_surname: Askenasy
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33120208) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/314-1), [Wikidata](https://www.wikidata.org/wiki/Q1372378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/314-1) LSID 314-1, [Wikidata](https://www.wikidata.org/wiki/Q1372378) QID Q1372378
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Askenasy, Eugen {std. Ask.} (Suppl.)|second entry]] for this author
 

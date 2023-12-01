@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0076
 tl2_volume: vol6
 tl2_page_printed: 58
 tl2_surname: Stübel
-tl2_forenames: [Moritz] Alphons
+tl2_forenames: (Moritz) Alphons
 tl2_name_abbrev: Stübel
 tl2_dates: 1835-1904
-tl2_page_id: 33212062
+tl2_bhl_page_id: 33212062
 author_lsid: 12895-1
 wikidata_id: Q72798
 ipni_surname: Stübel
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33212062) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12895-1), [Wikidata](https://www.wikidata.org/wiki/Q72798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12895-1) LSID 12895-1, [Wikidata](https://www.wikidata.org/wiki/Q72798) QID Q72798
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

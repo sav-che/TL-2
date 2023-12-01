@@ -6,7 +6,7 @@ tl2_surname: Elliott
 tl2_forenames: Stephen
 tl2_name_abbrev: Elliott
 tl2_dates: 1771-1830
-tl2_page_id: 33120872
+tl2_bhl_page_id: 33120872
 author_lsid: 2516-1
 wikidata_id: Q2982922
 ipni_surname: Elliott
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33120872) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2516-1), [Wikidata](https://www.wikidata.org/wiki/Q2982922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2516-1) LSID 2516-1, [Wikidata](https://www.wikidata.org/wiki/Q2982922) QID Q2982922
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

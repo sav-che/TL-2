@@ -6,7 +6,7 @@ tl2_surname: Ormezzano
 tl2_forenames: Quentin Jean Baptiste
 tl2_name_abbrev: Ormezzano
 tl2_dates: 1854-1912
-tl2_page_id: 33355933
+tl2_bhl_page_id: 33355933
 author_lsid: 7164-1
 wikidata_id: Q21522425
 ipni_surname: Ormezzano
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7164-1), [Wikidata](https://www.wikidata.org/wiki/Q21522425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7164-1) LSID 7164-1, [Wikidata](https://www.wikidata.org/wiki/Q21522425) QID Q21522425
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

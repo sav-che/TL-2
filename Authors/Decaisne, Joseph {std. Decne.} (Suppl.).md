@@ -6,7 +6,7 @@ tl2_surname: Decaisne
 tl2_forenames: Joseph
 tl2_name_abbrev: Decne.
 tl2_dates: 1807-1882
-tl2_page_id: 33259180
+tl2_bhl_page_id: 33259180
 author_lsid: 2063-1
 wikidata_id: Q966069
 ipni_surname: Decaisne
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-14 13:28:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33259180) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2063-1), [Wikidata](https://www.wikidata.org/wiki/Q966069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2063-1) LSID 2063-1, [Wikidata](https://www.wikidata.org/wiki/Q966069) QID Q966069
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Decaisne, Joseph {std. Decne.}|first entry]] for this author
 

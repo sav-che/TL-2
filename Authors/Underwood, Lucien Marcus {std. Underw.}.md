@@ -6,7 +6,7 @@ tl2_surname: Underwood
 tl2_forenames: Lucien Marcus
 tl2_name_abbrev: Underw.
 tl2_dates: 1853-1907
-tl2_page_id: 33212629
+tl2_bhl_page_id: 33212629
 author_lsid: 10982-1
 wikidata_id: Q3038765
 ipni_surname: Underwood
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:40:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33212629) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10982-1), [Wikidata](https://www.wikidata.org/wiki/Q3038765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10982-1) LSID 10982-1, [Wikidata](https://www.wikidata.org/wiki/Q3038765) QID Q3038765
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

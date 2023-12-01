@@ -6,7 +6,7 @@ tl2_surname: Willey
 tl2_forenames: Henry
 tl2_name_abbrev: Willey
 tl2_dates: 1824-1907
-tl2_page_id: 33066654
+tl2_bhl_page_id: 33066654
 author_lsid: 11699-1
 wikidata_id: Q21339555
 ipni_surname: Willey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33066654) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11699-1), [Wikidata](https://www.wikidata.org/wiki/Q21339555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11699-1) LSID 11699-1, [Wikidata](https://www.wikidata.org/wiki/Q21339555) QID Q21339555
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

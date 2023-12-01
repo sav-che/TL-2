@@ -6,7 +6,7 @@ tl2_surname: Schneider
 tl2_forenames: Albert
 tl2_name_abbrev: A. Schneid.
 tl2_dates: 1863-1928
-tl2_page_id: 33333408
+tl2_bhl_page_id: 33333408
 author_lsid: 9188-1
 wikidata_id: Q21510520
 ipni_surname: Schneider
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33333408) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9188-1), [Wikidata](https://www.wikidata.org/wiki/Q21510520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9188-1) LSID 9188-1, [Wikidata](https://www.wikidata.org/wiki/Q21510520) QID Q21510520
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

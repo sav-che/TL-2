@@ -6,7 +6,7 @@ tl2_surname: Schlickum
 tl2_forenames: Oscar
 tl2_name_abbrev: O. Schlickum
 tl2_dates: 1838-1889
-tl2_page_id: 33333361
+tl2_bhl_page_id: 33333361
 author_lsid: 9124-1
 wikidata_id: Q21608059
 ipni_surname: Schlickum
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9124-1), [Wikidata](https://www.wikidata.org/wiki/Q21608059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9124-1) LSID 9124-1, [Wikidata](https://www.wikidata.org/wiki/Q21608059) QID Q21608059
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

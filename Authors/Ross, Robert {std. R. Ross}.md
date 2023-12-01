@@ -6,7 +6,7 @@ tl2_surname: Ross
 tl2_forenames: Robert
 tl2_name_abbrev: R. Ross
 tl2_dates: 1912-x
-tl2_page_id: 33190373
+tl2_bhl_page_id: 33190373
 author_lsid: 8612-1
 wikidata_id: Q7349392
 ipni_surname: Ross
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/page/33190373) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8612-1), [Wikidata](https://www.wikidata.org/wiki/Q7349392). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8612-1) LSID 8612-1, [Wikidata](https://www.wikidata.org/wiki/Q7349392) QID Q7349392
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

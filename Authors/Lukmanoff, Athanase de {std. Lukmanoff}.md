@@ -6,7 +6,7 @@ tl2_surname: Lukmanoff
 tl2_forenames: Athanase de
 tl2_name_abbrev: Lukmanoff
 tl2_dates: fl. 1889
-tl2_page_id: 33355279
+tl2_bhl_page_id: 33355279
 author_lsid: 5829-1
 wikidata_id: Q2868998
 ipni_surname: Lukmanoff
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5829-1), [Wikidata](https://www.wikidata.org/wiki/Q2868998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5829-1) LSID 5829-1, [Wikidata](https://www.wikidata.org/wiki/Q2868998) QID Q2868998
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

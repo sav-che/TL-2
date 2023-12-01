@@ -6,7 +6,7 @@ tl2_surname: Anderson
 tl2_forenames: Charles Wilgress
 tl2_name_abbrev: C.W. Anderson
 tl2_dates: 1867-?
-tl2_page_id: 33264835
+tl2_bhl_page_id: 33264835
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33264835) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

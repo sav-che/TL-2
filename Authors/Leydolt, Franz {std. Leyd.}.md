@@ -6,7 +6,7 @@ tl2_surname: Leydolt
 tl2_forenames: Franz
 tl2_name_abbrev: Leyd.
 tl2_dates: 1810-1859
-tl2_page_id: 33069112
+tl2_bhl_page_id: 33069112
 author_lsid: 5549-1
 wikidata_id: Q21518869
 ipni_surname: Leydolt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33069112) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5549-1), [Wikidata](https://www.wikidata.org/wiki/Q21518869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5549-1) LSID 5549-1, [Wikidata](https://www.wikidata.org/wiki/Q21518869) QID Q21518869
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

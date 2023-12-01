@@ -6,7 +6,7 @@ tl2_surname: Schmidt
 tl2_forenames: Franz
 tl2_name_abbrev: Franz Schmidt
 tl2_dates: 1751-1835
-tl2_page_id: 33333387
+tl2_bhl_page_id: 33333387
 author_lsid: 9157-1
 wikidata_id: Q3083149
 ipni_surname: Schmidt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33333387) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9157-1), [Wikidata](https://www.wikidata.org/wiki/Q3083149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9157-1) LSID 9157-1, [Wikidata](https://www.wikidata.org/wiki/Q3083149) QID Q3083149
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

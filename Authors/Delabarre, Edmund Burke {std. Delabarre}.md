@@ -6,7 +6,7 @@ tl2_surname: Delabarre
 tl2_forenames: Edmund Burke
 tl2_name_abbrev: Delabarre
 tl2_dates: 1863-x
-tl2_page_id: 33259213
+tl2_bhl_page_id: 33259213
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33259213) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

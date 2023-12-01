@@ -6,7 +6,7 @@ tl2_surname: Hoppe
 tl2_forenames: Tobias Konrad
 tl2_name_abbrev: T. Hoppe
 tl2_dates: fl. 1750
-tl2_page_id: 33068574
+tl2_bhl_page_id: 33068574
 author_lsid: 4100-1
 wikidata_id: Q36688313
 ipni_surname: Hoppe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33068574) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4100-1), [Wikidata](https://www.wikidata.org/wiki/Q36688313). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4100-1) LSID 4100-1, [Wikidata](https://www.wikidata.org/wiki/Q36688313) QID Q36688313
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Huth
 tl2_forenames: Ernst
 tl2_name_abbrev: Huth
 tl2_dates: 1845-1897
-tl2_page_id: 33068622
+tl2_bhl_page_id: 33068622
 author_lsid: 4254-1
 wikidata_id: Q4502525
 ipni_surname: Huth
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33068622) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4254-1), [Wikidata](https://www.wikidata.org/wiki/Q4502525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4254-1) LSID 4254-1, [Wikidata](https://www.wikidata.org/wiki/Q4502525) QID Q4502525
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

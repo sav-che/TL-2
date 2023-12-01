@@ -6,7 +6,7 @@ tl2_surname: Ludwig
 tl2_forenames: Rudolph August Birminhold Sebastian
 tl2_name_abbrev: R. Ludw.
 tl2_dates: 1812-1880
-tl2_page_id: 33355271
+tl2_bhl_page_id: 33355271
 author_lsid: 5807-1
 wikidata_id: Q19226069
 ipni_surname: Ludwig
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33355271) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5807-1), [Wikidata](https://www.wikidata.org/wiki/Q19226069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5807-1) LSID 5807-1, [Wikidata](https://www.wikidata.org/wiki/Q19226069) QID Q19226069
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

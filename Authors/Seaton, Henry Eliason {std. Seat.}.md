@@ -6,7 +6,7 @@ tl2_surname: Seaton
 tl2_forenames: Henry Eliason
 tl2_name_abbrev: Seat.
 tl2_dates: 1869-1893
-tl2_page_id: 33333603
+tl2_bhl_page_id: 33333603
 author_lsid: 9402-1
 wikidata_id: Q21340418
 ipni_surname: Seaton
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9402-1), [Wikidata](https://www.wikidata.org/wiki/Q21340418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9402-1) LSID 9402-1, [Wikidata](https://www.wikidata.org/wiki/Q21340418) QID Q21340418
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

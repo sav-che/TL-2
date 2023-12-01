@@ -6,7 +6,7 @@ tl2_surname: Wilcke
 tl2_forenames: Georg Wilhelm Constantin von
 tl2_name_abbrev: G. Wilcke
 tl2_dates: fl. 1788
-tl2_page_id: 33066627
+tl2_bhl_page_id: 33066627
 author_lsid: 11667-1
 wikidata_id: Q36570096
 ipni_surname: Wilcke
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33066627) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11667-1), [Wikidata](https://www.wikidata.org/wiki/Q36570096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11667-1) LSID 11667-1, [Wikidata](https://www.wikidata.org/wiki/Q36570096) QID Q36570096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Galzin
 tl2_forenames: Amédée
 tl2_name_abbrev: Galzin
 tl2_dates: 1853-1925
-tl2_page_id: 33121038
+tl2_bhl_page_id: 33121038
 author_lsid: 19109-1
 wikidata_id: Q3614762
 ipni_surname: Galzin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33121038) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19109-1), [Wikidata](https://www.wikidata.org/wiki/Q3614762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19109-1) LSID 19109-1, [Wikidata](https://www.wikidata.org/wiki/Q3614762) QID Q3614762
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

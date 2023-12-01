@@ -6,7 +6,7 @@ tl2_surname: Knapp
 tl2_forenames: F. H.
 tl2_name_abbrev: F. Knapp
 tl2_dates: fl. 1846
-tl2_page_id: 33068814
+tl2_bhl_page_id: 33068814
 author_lsid: 4860-1
 wikidata_id: Q36555096
 ipni_surname: Knapp
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33068814) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4860-1), [Wikidata](https://www.wikidata.org/wiki/Q36555096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4860-1) LSID 4860-1, [Wikidata](https://www.wikidata.org/wiki/Q36555096) QID Q36555096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

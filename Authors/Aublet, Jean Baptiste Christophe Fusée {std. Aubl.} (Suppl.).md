@@ -6,7 +6,7 @@ tl2_surname: Aublet
 tl2_forenames: Jean Baptiste Christophe Fusée
 tl2_name_abbrev: Aubl.
 tl2_dates: 1720-1778
-tl2_page_id: 33264931
+tl2_bhl_page_id: 33264931
 author_lsid: 327-1
 wikidata_id: Q721482
 ipni_surname: Aublet
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33264931) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/327-1), [Wikidata](https://www.wikidata.org/wiki/Q721482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/327-1) LSID 327-1, [Wikidata](https://www.wikidata.org/wiki/Q721482) QID Q721482
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Aublet, Jean Baptiste Christophe Fusée {std. Aubl.}|first entry]] for this author
 

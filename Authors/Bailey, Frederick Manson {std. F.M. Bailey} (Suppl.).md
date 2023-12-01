@@ -6,7 +6,7 @@ tl2_surname: Bailey
 tl2_forenames: Frederick Manson
 tl2_name_abbrev: F.M. Bailey
 tl2_dates: 1827-1915
-tl2_page_id: 33264984
+tl2_bhl_page_id: 33264984
 author_lsid: 392-1
 wikidata_id: Q2659122
 ipni_surname: Bailey
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33264984) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/392-1), [Wikidata](https://www.wikidata.org/wiki/Q2659122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/392-1) LSID 392-1, [Wikidata](https://www.wikidata.org/wiki/Q2659122) QID Q2659122
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bailey, Frederick Manson {std. F.M. Bailey}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Blochmann
 tl2_forenames: Friedrich
 tl2_name_abbrev: Blochm.
 tl2_dates: 1858-1931
-tl2_page_id: 33265412
+tl2_bhl_page_id: 33265412
 author_lsid: 32468-1
 wikidata_id: Q1458469
 ipni_surname: Blochmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33265412) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32468-1), [Wikidata](https://www.wikidata.org/wiki/Q1458469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32468-1) LSID 32468-1, [Wikidata](https://www.wikidata.org/wiki/Q1458469) QID Q1458469
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

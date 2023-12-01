@@ -6,7 +6,7 @@ tl2_surname: Moe
 tl2_forenames: Asche
 tl2_name_abbrev: A. Moe
 tl2_dates: 1867-1937
-tl2_page_id: 33355617
+tl2_bhl_page_id: 33355617
 author_lsid: 6540-1
 wikidata_id: Q21521592
 ipni_surname: Moe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33355617) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6540-1), [Wikidata](https://www.wikidata.org/wiki/Q21521592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6540-1) LSID 6540-1, [Wikidata](https://www.wikidata.org/wiki/Q21521592) QID Q21521592
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

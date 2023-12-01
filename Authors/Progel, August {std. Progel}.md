@@ -6,7 +6,7 @@ tl2_surname: Progel
 tl2_forenames: August
 tl2_name_abbrev: Progel
 tl2_dates: 1829-1889
-tl2_page_id: 33189887
+tl2_bhl_page_id: 33189887
 author_lsid: 25118-1
 wikidata_id: Q5711533
 ipni_surname: Progel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33189887) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25118-1), [Wikidata](https://www.wikidata.org/wiki/Q5711533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25118-1) LSID 25118-1, [Wikidata](https://www.wikidata.org/wiki/Q5711533) QID Q5711533
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

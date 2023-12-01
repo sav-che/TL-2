@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0084
 tl2_volume: vol5
 tl2_page_printed: 83
 tl2_surname: Savatier
-tl2_forenames: [Paul] Alexandre
+tl2_forenames: (Paul) Alexandre
 tl2_name_abbrev: A. Sav.
 tl2_dates: 1824-1886
-tl2_page_id: 33333222
+tl2_bhl_page_id: 33333222
 author_lsid: 8969-1
 wikidata_id: Q21607788
 ipni_surname: Savatier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33333222) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8969-1), [Wikidata](https://www.wikidata.org/wiki/Q21607788). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8969-1) LSID 8969-1, [Wikidata](https://www.wikidata.org/wiki/Q21607788) QID Q21607788
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

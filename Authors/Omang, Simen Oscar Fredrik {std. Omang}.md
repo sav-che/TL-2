@@ -6,7 +6,7 @@ tl2_surname: Omang
 tl2_forenames: Simen Oscar Fredrik
 tl2_name_abbrev: Omang
 tl2_dates: 1867-1953
-tl2_page_id: 33355924
+tl2_bhl_page_id: 33355924
 author_lsid: 7143-1
 wikidata_id: Q12000505
 ipni_surname: Omang
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7143-1), [Wikidata](https://www.wikidata.org/wiki/Q12000505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7143-1) LSID 7143-1, [Wikidata](https://www.wikidata.org/wiki/Q12000505) QID Q12000505
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

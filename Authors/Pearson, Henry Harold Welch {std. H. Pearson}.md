@@ -6,7 +6,7 @@ tl2_surname: Pearson
 tl2_forenames: Henry Harold Welch
 tl2_name_abbrev: H. Pearson
 tl2_dates: 1870-1916
-tl2_page_id: 33189602
+tl2_bhl_page_id: 33189602
 author_lsid: 7444-1
 wikidata_id: Q5722627
 ipni_surname: Pearson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33189602) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7444-1), [Wikidata](https://www.wikidata.org/wiki/Q5722627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7444-1) LSID 7444-1, [Wikidata](https://www.wikidata.org/wiki/Q5722627) QID Q5722627
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kieffer
 tl2_forenames: Frédéric
 tl2_name_abbrev: F. Kieff.
 tl2_dates: 1827-1927
-tl2_page_id: 33068779
+tl2_bhl_page_id: 33068779
 author_lsid: 4771-1
 wikidata_id: Q21517485
 ipni_surname: Kieffer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4771-1), [Wikidata](https://www.wikidata.org/wiki/Q21517485). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4771-1) LSID 4771-1, [Wikidata](https://www.wikidata.org/wiki/Q21517485) QID Q21517485
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

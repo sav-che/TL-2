@@ -6,7 +6,7 @@ tl2_surname: Cooper
 tl2_forenames: Delmer Clair
 tl2_name_abbrev: D.C. Cooper
 tl2_dates: 1896-x
-tl2_page_id: 33266014
+tl2_bhl_page_id: 33266014
 author_lsid: 17412-1
 wikidata_id: Q21509001
 ipni_surname: Cooper
@@ -24,7 +24,8 @@ ipni_record_modified: 2014-11-04 09:06:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266014) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17412-1), [Wikidata](https://www.wikidata.org/wiki/Q21509001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17412-1) LSID 17412-1, [Wikidata](https://www.wikidata.org/wiki/Q21509001) QID Q21509001
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

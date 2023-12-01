@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0123
 tl2_volume: vol7
 tl2_page_printed: 124
 tl2_surname: Weber
-tl2_forenames: [Frédéric] Albert [Constantin]
+tl2_forenames: (Frédéric) Albert (Constantin)
 tl2_name_abbrev: F.A.C. Weber
 tl2_dates: 1830-1903
-tl2_page_id: 33066464
+tl2_bhl_page_id: 33066464
 author_lsid: 11462-1
 wikidata_id: Q1349350
 ipni_surname: Weber
@@ -24,7 +24,8 @@ ipni_record_modified: 2019-02-25 10:51:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33066464) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11462-1), [Wikidata](https://www.wikidata.org/wiki/Q1349350). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11462-1) LSID 11462-1, [Wikidata](https://www.wikidata.org/wiki/Q1349350) QID Q1349350
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

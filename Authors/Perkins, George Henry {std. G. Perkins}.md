@@ -6,7 +6,7 @@ tl2_surname: Perkins
 tl2_forenames: George Henry
 tl2_name_abbrev: G. Perkins
 tl2_dates: 1844-1933
-tl2_page_id: 33189636
+tl2_bhl_page_id: 33189636
 author_lsid: 7519-1
 wikidata_id: Q5540473
 ipni_surname: Perkins
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7519-1), [Wikidata](https://www.wikidata.org/wiki/Q5540473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7519-1) LSID 7519-1, [Wikidata](https://www.wikidata.org/wiki/Q5540473) QID Q5540473
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

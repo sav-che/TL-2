@@ -6,7 +6,7 @@ tl2_surname: Hegetschweiler-Bodmer
 tl2_forenames: Johannes
 tl2_name_abbrev: Hegetschw.
 tl2_dates: 1789-1839
-tl2_page_id: 33068370
+tl2_bhl_page_id: 33068370
 author_lsid: 3780-1
 wikidata_id: Q61990
 ipni_surname: Hegetschweiler
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:43:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33068370) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3780-1), [Wikidata](https://www.wikidata.org/wiki/Q61990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3780-1) LSID 3780-1, [Wikidata](https://www.wikidata.org/wiki/Q61990) QID Q61990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

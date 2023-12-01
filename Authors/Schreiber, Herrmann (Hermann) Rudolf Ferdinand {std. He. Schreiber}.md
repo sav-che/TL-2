@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0322
 tl2_volume: vol5
 tl2_page_printed: 332
 tl2_surname: Schreiber
-tl2_forenames: Herrmann [Hermann] Rudolf Ferdinand
+tl2_forenames: Herrmann (Hermann) Rudolf Ferdinand
 tl2_name_abbrev: He. Schreiber
 tl2_dates: 1811-1853
-tl2_page_id: 33333471
+tl2_bhl_page_id: 33333471
 author_lsid: 12843-1
 wikidata_id: Q5895683
 ipni_surname: Schreiber
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12843-1), [Wikidata](https://www.wikidata.org/wiki/Q5895683). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12843-1) LSID 12843-1, [Wikidata](https://www.wikidata.org/wiki/Q5895683) QID Q5895683
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

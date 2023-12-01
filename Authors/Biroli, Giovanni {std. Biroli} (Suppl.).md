@@ -6,7 +6,7 @@ tl2_surname: Biroli
 tl2_forenames: Giovanni
 tl2_name_abbrev: Biroli
 tl2_dates: 1772-1825
-tl2_page_id: 33265370
+tl2_bhl_page_id: 33265370
 author_lsid: 16151-1
 wikidata_id: Q18221407
 ipni_surname: Biroli
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265370) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16151-1), [Wikidata](https://www.wikidata.org/wiki/Q18221407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16151-1) LSID 16151-1, [Wikidata](https://www.wikidata.org/wiki/Q18221407) QID Q18221407
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Biroli, Giovanni {std. Biroli}|first entry]] for this author
 

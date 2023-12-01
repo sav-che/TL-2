@@ -6,7 +6,7 @@ tl2_surname: Grognot
 tl2_forenames: Camille
 tl2_name_abbrev: Grognot
 tl2_dates: 1792-1869
-tl2_page_id: 33121142
+tl2_bhl_page_id: 33121142
 author_lsid: 3406-1
 wikidata_id: Q5742011
 ipni_surname: Grognot
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3406-1), [Wikidata](https://www.wikidata.org/wiki/Q5742011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3406-1) LSID 3406-1, [Wikidata](https://www.wikidata.org/wiki/Q5742011) QID Q5742011
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

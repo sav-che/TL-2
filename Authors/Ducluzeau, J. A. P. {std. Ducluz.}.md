@@ -6,7 +6,7 @@ tl2_surname: Ducluzeau
 tl2_forenames: J. A. P.
 tl2_name_abbrev: Ducluz.
 tl2_dates: fl. 1805
-tl2_page_id: 33120821
+tl2_bhl_page_id: 33120821
 author_lsid: 2348-1
 wikidata_id: Q15969009
 ipni_surname: Ducluzeau
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2348-1), [Wikidata](https://www.wikidata.org/wiki/Q15969009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2348-1) LSID 2348-1, [Wikidata](https://www.wikidata.org/wiki/Q15969009) QID Q15969009
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

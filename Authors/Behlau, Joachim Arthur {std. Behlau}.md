@@ -6,7 +6,7 @@ tl2_surname: Behlau
 tl2_forenames: Joachim Arthur
 tl2_name_abbrev: Behlau
 tl2_dates: 1910-x
-tl2_page_id: 33265246
+tl2_bhl_page_id: 33265246
 author_lsid: 32391-1
 wikidata_id: Q36586725
 ipni_surname: Behlau
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265246) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32391-1), [Wikidata](https://www.wikidata.org/wiki/Q36586725). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32391-1) LSID 32391-1, [Wikidata](https://www.wikidata.org/wiki/Q36586725) QID Q36586725
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

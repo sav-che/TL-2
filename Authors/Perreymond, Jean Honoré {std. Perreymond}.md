@@ -6,7 +6,7 @@ tl2_surname: Perreymond
 tl2_forenames: Jean Honoré
 tl2_name_abbrev: Perreymond
 tl2_dates: 1794-1843
-tl2_page_id: 33189640
+tl2_bhl_page_id: 33189640
 author_lsid: 7530-1
 wikidata_id: Q21522840
 ipni_surname: Perreymond
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7530-1), [Wikidata](https://www.wikidata.org/wiki/Q21522840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7530-1) LSID 7530-1, [Wikidata](https://www.wikidata.org/wiki/Q21522840) QID Q21522840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

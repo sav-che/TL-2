@@ -6,7 +6,7 @@ tl2_surname: Procopianu-Procopovici
 tl2_forenames: Aurel
 tl2_name_abbrev: Procopianu
 tl2_dates: fl. 1890-1900
-tl2_page_id: 33189886
+tl2_bhl_page_id: 33189886
 author_lsid: 7981-1
 wikidata_id: Q21523284
 ipni_surname: Procopianu-Procopovici
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7981-1), [Wikidata](https://www.wikidata.org/wiki/Q21523284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7981-1) LSID 7981-1, [Wikidata](https://www.wikidata.org/wiki/Q21523284) QID Q21523284
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Viret
 tl2_forenames: Louis
 tl2_name_abbrev: Viret
 tl2_dates: 1875-1928
-tl2_page_id: 33212793
+tl2_bhl_page_id: 33212793
 author_lsid: 11213-1
 wikidata_id: Q21611783
 ipni_surname: Viret
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33212793) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11213-1), [Wikidata](https://www.wikidata.org/wiki/Q21611783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11213-1) LSID 11213-1, [Wikidata](https://www.wikidata.org/wiki/Q21611783) QID Q21611783
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

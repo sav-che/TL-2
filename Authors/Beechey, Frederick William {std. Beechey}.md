@@ -6,7 +6,7 @@ tl2_surname: Beechey
 tl2_forenames: Frederick William
 tl2_name_abbrev: Beechey
 tl2_dates: 1796-1856
-tl2_page_id: 33120295
+tl2_bhl_page_id: 33120295
 author_lsid: 14231-1
 wikidata_id: Q510721
 ipni_surname: Beechey
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33120295) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/14231-1), [Wikidata](https://www.wikidata.org/wiki/Q510721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14231-1) LSID 14231-1, [Wikidata](https://www.wikidata.org/wiki/Q510721) QID Q510721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beechey, Frederick William {std. Beechey} (Suppl.)|second entry]] for this author
 

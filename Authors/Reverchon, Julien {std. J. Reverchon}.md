@@ -6,7 +6,7 @@ tl2_surname: Reverchon
 tl2_forenames: Julien
 tl2_name_abbrev: J. Reverchon
 tl2_dates: 1834-1905
-tl2_page_id: 33190218
+tl2_bhl_page_id: 33190218
 author_lsid: 8318-1
 wikidata_id: Q3189639
 ipni_surname: Reverchon
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33190218) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8318-1), [Wikidata](https://www.wikidata.org/wiki/Q3189639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8318-1) LSID 8318-1, [Wikidata](https://www.wikidata.org/wiki/Q3189639) QID Q3189639
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

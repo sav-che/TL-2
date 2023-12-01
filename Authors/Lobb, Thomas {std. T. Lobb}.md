@@ -6,7 +6,7 @@ tl2_surname: Lobb
 tl2_forenames: Thomas
 tl2_name_abbrev: T. Lobb
 tl2_dates: 1820-1894
-tl2_page_id: 33355216
+tl2_bhl_page_id: 33355216
 author_lsid: 5686-1
 wikidata_id: Q562900
 ipni_surname: Lobb
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5686-1), [Wikidata](https://www.wikidata.org/wiki/Q562900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5686-1) LSID 5686-1, [Wikidata](https://www.wikidata.org/wiki/Q562900) QID Q562900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

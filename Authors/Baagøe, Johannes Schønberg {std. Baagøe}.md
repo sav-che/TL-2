@@ -6,7 +6,7 @@ tl2_surname: Baagøe
 tl2_forenames: Johannes Schønberg
 tl2_name_abbrev: Baagøe
 tl2_dates: 1838-1905
-tl2_page_id: 33264948
+tl2_bhl_page_id: 33264948
 author_lsid: 356-1
 wikidata_id: Q18982718
 ipni_surname: Baagøe
@@ -24,7 +24,8 @@ ipni_record_modified: 2005-08-02 08:33:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33264948) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/356-1), [Wikidata](https://www.wikidata.org/wiki/Q18982718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/356-1) LSID 356-1, [Wikidata](https://www.wikidata.org/wiki/Q18982718) QID Q18982718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

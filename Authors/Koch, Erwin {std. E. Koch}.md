@@ -6,7 +6,7 @@ tl2_surname: Koch
 tl2_forenames: Erwin
 tl2_name_abbrev: E. Koch
 tl2_dates: fl. 1895
-tl2_page_id: 33068829
+tl2_bhl_page_id: 33068829
 author_lsid: 4895-1
 wikidata_id: Q47120317
 ipni_surname: Koch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4895-1), [Wikidata](https://www.wikidata.org/wiki/Q47120317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4895-1) LSID 4895-1, [Wikidata](https://www.wikidata.org/wiki/Q47120317) QID Q47120317
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

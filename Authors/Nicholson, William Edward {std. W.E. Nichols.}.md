@@ -6,7 +6,7 @@ tl2_surname: Nicholson
 tl2_forenames: William Edward
 tl2_name_abbrev: W.E. Nichols.
 tl2_dates: 1866-1945
-tl2_page_id: 33355829
+tl2_bhl_page_id: 33355829
 author_lsid: 24053-1
 wikidata_id: Q21522135
 ipni_surname: Nicholson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24053-1), [Wikidata](https://www.wikidata.org/wiki/Q21522135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24053-1) LSID 24053-1, [Wikidata](https://www.wikidata.org/wiki/Q21522135) QID Q21522135
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

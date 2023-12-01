@@ -6,7 +6,7 @@ tl2_surname: Förster
 tl2_forenames: Carl Friedrich
 tl2_name_abbrev: C.F. Förster
 tl2_dates: fl. 1846
-tl2_page_id: 33120981
+tl2_bhl_page_id: 33120981
 author_lsid: 2801-1
 wikidata_id: Q5749286
 ipni_surname: Förster
@@ -23,7 +23,8 @@ ipni_record_modified: 2012-01-04 14:54:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2801-1), [Wikidata](https://www.wikidata.org/wiki/Q5749286). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2801-1) LSID 2801-1, [Wikidata](https://www.wikidata.org/wiki/Q5749286) QID Q5749286
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

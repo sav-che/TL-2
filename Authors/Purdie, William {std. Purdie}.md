@@ -6,7 +6,7 @@ tl2_surname: Purdie
 tl2_forenames: William
 tl2_name_abbrev: Purdie
 tl2_dates: c. 1817-1857
-tl2_page_id: 33189916
+tl2_bhl_page_id: 33189916
 author_lsid: 8025-1
 wikidata_id: Q6167706
 ipni_surname: Purdie
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8025-1), [Wikidata](https://www.wikidata.org/wiki/Q6167706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8025-1) LSID 8025-1, [Wikidata](https://www.wikidata.org/wiki/Q6167706) QID Q6167706
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

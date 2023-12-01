@@ -6,7 +6,7 @@ tl2_surname: Delastre
 tl2_forenames: Charles Jean Louis
 tl2_name_abbrev: Delastre
 tl2_dates: 1792-1859
-tl2_page_id: 33120745
+tl2_bhl_page_id: 33120745
 author_lsid: 2097-1
 wikidata_id: Q2959456
 ipni_surname: Delastre
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33120745) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2097-1), [Wikidata](https://www.wikidata.org/wiki/Q2959456). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2097-1) LSID 2097-1, [Wikidata](https://www.wikidata.org/wiki/Q2959456) QID Q2959456
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Delastre, Charles Jean Louis {std. Delastre} (Suppl.)|second entry]] for this author
 

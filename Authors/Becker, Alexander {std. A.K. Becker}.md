@@ -6,7 +6,7 @@ tl2_surname: Becker
 tl2_forenames: Alexander
 tl2_name_abbrev: A. Becker
 tl2_dates: 1818-1901
-tl2_page_id: 33120292
+tl2_bhl_page_id: 33120292
 author_lsid: 598-1
 wikidata_id: Q4719276
 ipni_surname: Becker
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33120292) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/598-1), [Wikidata](https://www.wikidata.org/wiki/Q4719276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/598-1) LSID 598-1, [Wikidata](https://www.wikidata.org/wiki/Q4719276) QID Q4719276
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Becker, Alexander {std. A.K. Becker} (Suppl.)|second entry]] for this author
 

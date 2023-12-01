@@ -6,7 +6,7 @@ tl2_surname: Balsamo
 tl2_forenames: Francesco
 tl2_name_abbrev: Balsamo
 tl2_dates: 1850-1922
-tl2_page_id: 33265034
+tl2_bhl_page_id: 33265034
 author_lsid: 435-1
 wikidata_id: Q21505607
 ipni_surname: Balsamo
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265034) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/435-1), [Wikidata](https://www.wikidata.org/wiki/Q21505607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/435-1) LSID 435-1, [Wikidata](https://www.wikidata.org/wiki/Q21505607) QID Q21505607
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Balsamo, Francesco {std. Balsamo}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Buchanan
 tl2_forenames: John, Rev. C.M.G.
 tl2_name_abbrev: J. Buchanan, C.M.G.
 tl2_dates: 1855-1896
-tl2_page_id: 33266493
+tl2_bhl_page_id: 33266493
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

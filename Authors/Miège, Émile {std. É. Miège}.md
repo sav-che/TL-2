@@ -6,7 +6,7 @@ tl2_surname: Miège
 tl2_forenames: Émile
 tl2_name_abbrev: É. Miège
 tl2_dates: fl. 1910
-tl2_page_id: 33355557
+tl2_bhl_page_id: 33355557
 author_lsid: 6448-1
 wikidata_id: Q47122601
 ipni_surname: Miège
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6448-1), [Wikidata](https://www.wikidata.org/wiki/Q47122601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6448-1) LSID 6448-1, [Wikidata](https://www.wikidata.org/wiki/Q47122601) QID Q47122601
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

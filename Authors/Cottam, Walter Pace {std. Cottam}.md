@@ -6,7 +6,7 @@ tl2_surname: Cottam
 tl2_forenames: Walter Pace
 tl2_name_abbrev: Cottam
 tl2_dates: 1894-x
-tl2_page_id: 33266083
+tl2_bhl_page_id: 33266083
 author_lsid: 1831-1
 wikidata_id: Q21509145
 ipni_surname: Cottam
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33266083) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1831-1), [Wikidata](https://www.wikidata.org/wiki/Q21509145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1831-1) LSID 1831-1, [Wikidata](https://www.wikidata.org/wiki/Q21509145) QID Q21509145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

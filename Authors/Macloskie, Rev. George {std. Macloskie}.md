@@ -6,7 +6,7 @@ tl2_surname: Macloskie
 tl2_forenames: Rev. George
 tl2_name_abbrev: Macloskie
 tl2_dates: 1834-1919
-tl2_page_id: 33355316
+tl2_bhl_page_id: 33355316
 author_lsid: 5946-1
 wikidata_id: Q8963834
 ipni_surname: Macloskie
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:37:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5946-1), [Wikidata](https://www.wikidata.org/wiki/Q8963834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5946-1) LSID 5946-1, [Wikidata](https://www.wikidata.org/wiki/Q8963834) QID Q8963834
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

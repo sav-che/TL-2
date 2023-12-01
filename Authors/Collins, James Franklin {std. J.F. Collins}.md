@@ -6,7 +6,7 @@ tl2_surname: Collins
 tl2_forenames: James Franklin
 tl2_name_abbrev: J.F. Collins
 tl2_dates: 1863-1940
-tl2_page_id: 33265952
+tl2_bhl_page_id: 33265952
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265952) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

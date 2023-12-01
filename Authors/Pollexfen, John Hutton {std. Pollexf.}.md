@@ -6,7 +6,7 @@ tl2_surname: Pollexfen
 tl2_forenames: John Hutton
 tl2_name_abbrev: Pollexf.
 tl2_dates: 1813-1899
-tl2_page_id: 33189801
+tl2_bhl_page_id: 33189801
 author_lsid: 7817-1
 wikidata_id: Q21523088
 ipni_surname: Pollexfen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7817-1), [Wikidata](https://www.wikidata.org/wiki/Q21523088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7817-1) LSID 7817-1, [Wikidata](https://www.wikidata.org/wiki/Q21523088) QID Q21523088
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

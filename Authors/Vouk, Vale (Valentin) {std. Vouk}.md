@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0772
 tl2_volume: vol6
 tl2_page_printed: 787
 tl2_surname: Vouk
-tl2_forenames: Vale [Valentin]
+tl2_forenames: Vale (Valentin)
 tl2_name_abbrev: Vouk
 tl2_dates: 1886-1962
-tl2_page_id: 33212829
+tl2_bhl_page_id: 33212829
 author_lsid: 11272-1
 wikidata_id: Q12644312
 ipni_surname: Vouk
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11272-1), [Wikidata](https://www.wikidata.org/wiki/Q12644312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11272-1) LSID 11272-1, [Wikidata](https://www.wikidata.org/wiki/Q12644312) QID Q12644312
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

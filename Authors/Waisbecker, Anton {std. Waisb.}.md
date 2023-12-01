@@ -6,7 +6,7 @@ tl2_surname: Waisbecker
 tl2_forenames: Anton
 tl2_name_abbrev: Waisb.
 tl2_dates: 1835-1916
-tl2_page_id: 33066363
+tl2_bhl_page_id: 33066363
 author_lsid: 11319-1
 wikidata_id: Q5697511
 ipni_surname: Waisbecker
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11319-1), [Wikidata](https://www.wikidata.org/wiki/Q5697511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11319-1) LSID 11319-1, [Wikidata](https://www.wikidata.org/wiki/Q5697511) QID Q5697511
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

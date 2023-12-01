@@ -6,7 +6,7 @@ tl2_surname: Düben
 tl2_forenames: Magnus Wilhelm von
 tl2_name_abbrev: Düben
 tl2_dates: 1814-1845
-tl2_page_id: 33260133
+tl2_bhl_page_id: 33260133
 author_lsid: 2335-1
 wikidata_id: Q1884616
 ipni_surname: Düben
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33260133) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2335-1), [Wikidata](https://www.wikidata.org/wiki/Q1884616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2335-1) LSID 2335-1, [Wikidata](https://www.wikidata.org/wiki/Q1884616) QID Q1884616
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

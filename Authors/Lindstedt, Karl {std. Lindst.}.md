@@ -6,7 +6,7 @@ tl2_surname: Lindstedt
 tl2_forenames: Karl
 tl2_name_abbrev: Lindst.
 tl2_dates: 1846-?
-tl2_page_id: 33355151
+tl2_bhl_page_id: 33355151
 author_lsid: 22393-1
 wikidata_id: Q21519188
 ipni_surname: Lindstedt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33355151) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22393-1), [Wikidata](https://www.wikidata.org/wiki/Q21519188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22393-1) LSID 22393-1, [Wikidata](https://www.wikidata.org/wiki/Q21519188) QID Q21519188
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

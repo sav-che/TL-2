@@ -6,7 +6,7 @@ tl2_surname: Blytt
 tl2_forenames: Axel Gudbrand
 tl2_name_abbrev: A. Blytt
 tl2_dates: 1843-1898
-tl2_page_id: 33265429
+tl2_bhl_page_id: 33265429
 author_lsid: 16236-1
 wikidata_id: Q610981
 ipni_surname: Blytt
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265429) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16236-1), [Wikidata](https://www.wikidata.org/wiki/Q610981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16236-1) LSID 16236-1, [Wikidata](https://www.wikidata.org/wiki/Q610981) QID Q610981
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blytt, Axel Gudbrand {std. A. Blytt}|first entry]] for this author
 

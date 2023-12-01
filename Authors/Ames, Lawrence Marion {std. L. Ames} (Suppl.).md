@@ -6,7 +6,7 @@ tl2_surname: Ames
 tl2_forenames: Lawrence Marion
 tl2_name_abbrev: L. Ames
 tl2_dates: 1900-1966
-tl2_page_id: 33264825
+tl2_bhl_page_id: 33264825
 author_lsid: 178-1
 wikidata_id: Q21340902
 ipni_surname: Ames
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33264825) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/178-1), [Wikidata](https://www.wikidata.org/wiki/Q21340902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/178-1) LSID 178-1, [Wikidata](https://www.wikidata.org/wiki/Q21340902) QID Q21340902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ames, Lawrence Marion {std. L. Ames}|first entry]] for this author
 

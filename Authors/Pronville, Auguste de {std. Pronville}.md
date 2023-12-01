@@ -6,7 +6,7 @@ tl2_surname: Pronville
 tl2_forenames: Auguste de
 tl2_name_abbrev: Pronville
 tl2_dates: fl. 1818
-tl2_page_id: 33189889
+tl2_bhl_page_id: 33189889
 author_lsid: 7992-1
 wikidata_id: Q36508460
 ipni_surname: Pronville
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7992-1), [Wikidata](https://www.wikidata.org/wiki/Q36508460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7992-1) LSID 7992-1, [Wikidata](https://www.wikidata.org/wiki/Q36508460) QID Q36508460
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

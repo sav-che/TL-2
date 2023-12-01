@@ -6,7 +6,7 @@ tl2_surname: Dale
 tl2_forenames: Elizabeth
 tl2_name_abbrev: E. Dale
 tl2_dates: fl. 1899-1914
-tl2_page_id: 33259070
+tl2_bhl_page_id: 33259070
 author_lsid: 17653-1
 wikidata_id: Q30107575
 ipni_surname: Dale
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259070) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17653-1), [Wikidata](https://www.wikidata.org/wiki/Q30107575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17653-1) LSID 17653-1, [Wikidata](https://www.wikidata.org/wiki/Q30107575) QID Q30107575
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

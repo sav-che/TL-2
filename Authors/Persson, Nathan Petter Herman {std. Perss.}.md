@@ -6,7 +6,7 @@ tl2_surname: Persson
 tl2_forenames: Nathan Petter Herman
 tl2_name_abbrev: Perss.
 tl2_dates: 1893-1978
-tl2_page_id: 33189656
+tl2_bhl_page_id: 33189656
 author_lsid: 7551-1
 wikidata_id: Q19832536
 ipni_surname: Persson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7551-1), [Wikidata](https://www.wikidata.org/wiki/Q19832536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7551-1) LSID 7551-1, [Wikidata](https://www.wikidata.org/wiki/Q19832536) QID Q19832536
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

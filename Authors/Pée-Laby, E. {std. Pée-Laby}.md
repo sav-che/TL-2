@@ -6,7 +6,7 @@ tl2_surname: Pée-Laby
 tl2_forenames: E.
 tl2_name_abbrev: Pée-Laby
 tl2_dates: fl. 1891
-tl2_page_id: 33189616
+tl2_bhl_page_id: 33189616
 author_lsid: 7464-1
 wikidata_id: Q36548677
 ipni_surname: Pée-Laby
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33189616) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7464-1), [Wikidata](https://www.wikidata.org/wiki/Q36548677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7464-1) LSID 7464-1, [Wikidata](https://www.wikidata.org/wiki/Q36548677) QID Q36548677
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

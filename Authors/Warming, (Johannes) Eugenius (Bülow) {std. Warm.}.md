@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0082
 tl2_volume: vol7
 tl2_page_printed: 71
 tl2_surname: Warming
-tl2_forenames: [Johannes] Eugenius [Bülow]
+tl2_forenames: (Johannes) Eugenius (Bülow)
 tl2_name_abbrev: Warm.
 tl2_dates: 1841-1924
-tl2_page_id: 33066411
+tl2_bhl_page_id: 33066411
 author_lsid: 11411-1
 wikidata_id: Q355888
 ipni_surname: Warming
@@ -30,7 +30,8 @@ ipni_record_modified: 2013-05-15 11:35:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11411-1), [Wikidata](https://www.wikidata.org/wiki/Q355888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11411-1) LSID 11411-1, [Wikidata](https://www.wikidata.org/wiki/Q355888) QID Q355888
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

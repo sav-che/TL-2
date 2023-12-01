@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0292
 tl2_volume: suppl1
 tl2_page_printed: 246
 tl2_surname: Baenitz
-tl2_forenames: Carl [Karl] Gabriel
+tl2_forenames: Carl (Karl) Gabriel
 tl2_name_abbrev: Baen.
 tl2_dates: 1837-1913
-tl2_page_id: 33264973
+tl2_bhl_page_id: 33264973
 author_lsid: 31173-1
 wikidata_id: Q5749296
 ipni_surname: Baenitz
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33264973) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31173-1), [Wikidata](https://www.wikidata.org/wiki/Q5749296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31173-1) LSID 31173-1, [Wikidata](https://www.wikidata.org/wiki/Q5749296) QID Q5749296
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baenitz, Karl Gabriel {std. Baen.}|first entry]] for this author
 

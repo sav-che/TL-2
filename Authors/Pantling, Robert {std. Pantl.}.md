@@ -6,7 +6,7 @@ tl2_surname: Pantling
 tl2_forenames: Robert
 tl2_name_abbrev: Pantl.
 tl2_dates: 1856-1910
-tl2_page_id: 33189479
+tl2_bhl_page_id: 33189479
 author_lsid: 7314-1
 wikidata_id: Q4385599
 ipni_surname: Pantling
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:48:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33189479) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7314-1), [Wikidata](https://www.wikidata.org/wiki/Q4385599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7314-1) LSID 7314-1, [Wikidata](https://www.wikidata.org/wiki/Q4385599) QID Q4385599
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

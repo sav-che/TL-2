@@ -6,7 +6,7 @@ tl2_surname: Krieger
 tl2_forenames: Willi
 tl2_name_abbrev: W. Krieg.
 tl2_dates: 1886-1954
-tl2_page_id: 33068917
+tl2_bhl_page_id: 33068917
 author_lsid: 21750-1
 wikidata_id: Q21517933
 ipni_surname: Krieger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21750-1), [Wikidata](https://www.wikidata.org/wiki/Q21517933). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21750-1) LSID 21750-1, [Wikidata](https://www.wikidata.org/wiki/Q21517933) QID Q21517933
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0376
 tl2_volume: vol5
 tl2_page_printed: 393
 tl2_surname: Schulze
-tl2_forenames: [Carl Theodor] Maximilian (Max Schulze (Jena))
+tl2_forenames: (Carl Theodor) Maximilian (Max Schulze (Jena))
 tl2_name_abbrev: M. Schulze
 tl2_dates: 1841-1915
-tl2_page_id: 33333532
+tl2_bhl_page_id: 33333532
 author_lsid: 9319-1
 wikidata_id: Q5749329
 ipni_surname: Schulze
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33333532) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9319-1), [Wikidata](https://www.wikidata.org/wiki/Q5749329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9319-1) LSID 9319-1, [Wikidata](https://www.wikidata.org/wiki/Q5749329) QID Q5749329
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

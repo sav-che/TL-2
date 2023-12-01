@@ -6,7 +6,7 @@ tl2_surname: Saint-Hilaire
 tl2_forenames: Auguste François César Prouvençal de
 tl2_name_abbrev: St. Hil.
 tl2_dates: 1779-1853
-tl2_page_id: 33190535
+tl2_bhl_page_id: 33190535
 author_lsid: 8827-1
 wikidata_id: Q707961
 ipni_surname: Saint-Hilaire
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8827-1), [Wikidata](https://www.wikidata.org/wiki/Q707961). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8827-1) LSID 8827-1, [Wikidata](https://www.wikidata.org/wiki/Q707961) QID Q707961
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

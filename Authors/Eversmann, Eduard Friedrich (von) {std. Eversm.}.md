@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0978
 tl2_volume: vol1
 tl2_page_printed: 807
 tl2_surname: Eversmann
-tl2_forenames: Eduard Friedrich [von]
+tl2_forenames: Eduard Friedrich (von)
 tl2_name_abbrev: Eversm.
 tl2_dates: 1794-1860
-tl2_page_id: 33120938
+tl2_bhl_page_id: 33120938
 author_lsid: 18601-1
 wikidata_id: Q77441
 ipni_surname: Eversmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33120938) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18601-1), [Wikidata](https://www.wikidata.org/wiki/Q77441). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18601-1) LSID 18601-1, [Wikidata](https://www.wikidata.org/wiki/Q77441) QID Q77441
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Delaroche
 tl2_forenames: François
 tl2_name_abbrev: F. Delaroche
 tl2_dates: 1780-1813
-tl2_page_id: 33120744
+tl2_bhl_page_id: 33120744
 author_lsid: 2096-1
 wikidata_id: Q120009
 ipni_surname: Delaroche
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33120744) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2096-1), [Wikidata](https://www.wikidata.org/wiki/Q120009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2096-1) LSID 2096-1, [Wikidata](https://www.wikidata.org/wiki/Q120009) QID Q120009
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schoenlein
 tl2_forenames: Philipp
 tl2_name_abbrev: P. Schoenlein
 tl2_dates: 1834-1856
-tl2_page_id: 33333430
+tl2_bhl_page_id: 33333430
 author_lsid: 9221-1
 wikidata_id: Q21608256
 ipni_surname: Schoenlein
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9221-1), [Wikidata](https://www.wikidata.org/wiki/Q21608256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9221-1) LSID 9221-1, [Wikidata](https://www.wikidata.org/wiki/Q21608256) QID Q21608256
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0356
 tl2_volume: vol7
 tl2_page_printed: 401
 tl2_surname: Witte
-tl2_forenames: [Bror Otto] Hernfrid
+tl2_forenames: (Bror Otto) Hernfrid
 tl2_name_abbrev: Her. Witte
 tl2_dates: 1877-1945
-tl2_page_id: 33066741
+tl2_bhl_page_id: 33066741
 author_lsid: 13027-1
 wikidata_id: Q20789817
 ipni_surname: Witte
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33066741) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13027-1), [Wikidata](https://www.wikidata.org/wiki/Q20789817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13027-1) LSID 13027-1, [Wikidata](https://www.wikidata.org/wiki/Q20789817) QID Q20789817
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

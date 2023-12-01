@@ -6,7 +6,7 @@ tl2_surname: Wall
 tl2_forenames: George
 tl2_name_abbrev: G. Wall
 tl2_dates: 1821-1894
-tl2_page_id: 33066373
+tl2_bhl_page_id: 33066373
 author_lsid: 11343-1
 wikidata_id: Q21612053
 ipni_surname: Wall
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11343-1), [Wikidata](https://www.wikidata.org/wiki/Q21612053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11343-1) LSID 11343-1, [Wikidata](https://www.wikidata.org/wiki/Q21612053) QID Q21612053
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

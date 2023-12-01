@@ -6,7 +6,7 @@ tl2_surname: Gessner
 tl2_forenames: Johannes
 tl2_name_abbrev: Gessner
 tl2_dates: 1709-1790
-tl2_page_id: 33121068
+tl2_bhl_page_id: 33121068
 author_lsid: 3113-1
 wikidata_id: Q117494
 ipni_surname: Gessner
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3113-1), [Wikidata](https://www.wikidata.org/wiki/Q117494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3113-1) LSID 3113-1, [Wikidata](https://www.wikidata.org/wiki/Q117494) QID Q117494
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

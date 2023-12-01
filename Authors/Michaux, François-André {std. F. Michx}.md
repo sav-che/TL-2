@@ -6,7 +6,7 @@ tl2_surname: Michaux
 tl2_forenames: François-André
 tl2_name_abbrev: F. Michx
 tl2_dates: 1770-1855
-tl2_page_id: 33355546
+tl2_bhl_page_id: 33355546
 author_lsid: 12682-1
 wikidata_id: Q2986883
 ipni_surname: Michaux
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33355546) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12682-1), [Wikidata](https://www.wikidata.org/wiki/Q2986883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12682-1) LSID 12682-1, [Wikidata](https://www.wikidata.org/wiki/Q2986883) QID Q2986883
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

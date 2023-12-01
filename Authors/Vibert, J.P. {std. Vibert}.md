@@ -6,7 +6,7 @@ tl2_surname: Vibert
 tl2_forenames: J.P.
 tl2_name_abbrev: Vibert
 tl2_dates: fl. 1824
-tl2_page_id: 33212764
+tl2_bhl_page_id: 33212764
 author_lsid: 11157-1
 wikidata_id: Q3169813
 ipni_surname: Vibert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33212764) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11157-1), [Wikidata](https://www.wikidata.org/wiki/Q3169813). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11157-1) LSID 11157-1, [Wikidata](https://www.wikidata.org/wiki/Q3169813) QID Q3169813
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

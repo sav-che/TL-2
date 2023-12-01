@@ -6,7 +6,7 @@ tl2_surname: Wakefield
 tl2_forenames: Elsie Maud
 tl2_name_abbrev: Wakef.
 tl2_dates: 1886-1972
-tl2_page_id: 33066364
+tl2_bhl_page_id: 33066364
 author_lsid: 11323-1
 wikidata_id: Q5367615
 ipni_surname: Wakefield
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33066364) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11323-1), [Wikidata](https://www.wikidata.org/wiki/Q5367615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11323-1) LSID 11323-1, [Wikidata](https://www.wikidata.org/wiki/Q5367615) QID Q5367615
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

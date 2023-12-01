@@ -6,7 +6,7 @@ tl2_surname: Wahl
 tl2_forenames: Carl Georg von
 tl2_name_abbrev: C. Wahl
 tl2_dates: 1869-?
-tl2_page_id: 33066355
+tl2_bhl_page_id: 33066355
 author_lsid: 11312-1
 wikidata_id: Q21611990
 ipni_surname: Wahl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33066355) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11312-1), [Wikidata](https://www.wikidata.org/wiki/Q21611990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11312-1) LSID 11312-1, [Wikidata](https://www.wikidata.org/wiki/Q21611990) QID Q21611990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Neumayer
 tl2_forenames: Georg Balthasar von
 tl2_name_abbrev: Neumayer
 tl2_dates: 1862-1909
-tl2_page_id: 33355819
+tl2_bhl_page_id: 33355819
 author_lsid: 6934-1
 wikidata_id: Q67471
 ipni_surname: Neumayer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 732](https://www.biodiversitylibrary.org/page/33355819) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6934-1), [Wikidata](https://www.wikidata.org/wiki/Q67471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6934-1) LSID 6934-1, [Wikidata](https://www.wikidata.org/wiki/Q67471) QID Q67471
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

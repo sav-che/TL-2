@@ -6,7 +6,7 @@ tl2_surname: Watanabe
 tl2_forenames: Kiyohiko
 tl2_name_abbrev: Watanabe
 tl2_dates: 1900-x
-tl2_page_id: 33066435
+tl2_bhl_page_id: 33066435
 author_lsid: 11425-1
 wikidata_id: Q20742405
 ipni_surname: Watanabe
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11425-1), [Wikidata](https://www.wikidata.org/wiki/Q20742405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11425-1) LSID 11425-1, [Wikidata](https://www.wikidata.org/wiki/Q20742405) QID Q20742405
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Mason
 tl2_forenames: Francis
 tl2_name_abbrev: F. Mason
 tl2_dates: 1799-1874
-tl2_page_id: 33355435
+tl2_bhl_page_id: 33355435
 author_lsid: 23005-1
 wikidata_id: Q5481875
 ipni_surname: Mason
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:49:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33355435) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23005-1), [Wikidata](https://www.wikidata.org/wiki/Q5481875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23005-1) LSID 23005-1, [Wikidata](https://www.wikidata.org/wiki/Q5481875) QID Q5481875
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

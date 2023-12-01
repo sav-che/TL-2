@@ -6,7 +6,7 @@ tl2_surname: Ekstam
 tl2_forenames: Otto Josef Agaton
 tl2_name_abbrev: Ekstam
 tl2_dates: 1870-1931
-tl2_page_id: 33260285
+tl2_bhl_page_id: 33260285
 author_lsid: 18420-1
 wikidata_id: Q21511702
 ipni_surname: Ekstam
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:44:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33260285) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18420-1), [Wikidata](https://www.wikidata.org/wiki/Q21511702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18420-1) LSID 18420-1, [Wikidata](https://www.wikidata.org/wiki/Q21511702) QID Q21511702
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

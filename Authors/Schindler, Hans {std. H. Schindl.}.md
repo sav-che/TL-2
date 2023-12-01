@@ -6,7 +6,7 @@ tl2_surname: Schindler
 tl2_forenames: Hans
 tl2_name_abbrev: H. Schindl.
 tl2_dates: fl. 1917-1925
-tl2_page_id: 33333312
+tl2_bhl_page_id: 33333312
 author_lsid: 9093-1
 wikidata_id: Q47125729
 ipni_surname: Schindler
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33333312) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9093-1), [Wikidata](https://www.wikidata.org/wiki/Q47125729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9093-1) LSID 9093-1, [Wikidata](https://www.wikidata.org/wiki/Q47125729) QID Q47125729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Boullu
 tl2_forenames: Antoine Étienne
 tl2_name_abbrev: Boullu
 tl2_dates: 1813-1904
-tl2_page_id: 33265583
+tl2_bhl_page_id: 33265583
 author_lsid: 1024-1
 wikidata_id: Q21506361
 ipni_surname: Boullu
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33265583) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1024-1), [Wikidata](https://www.wikidata.org/wiki/Q21506361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1024-1) LSID 1024-1, [Wikidata](https://www.wikidata.org/wiki/Q21506361) QID Q21506361
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

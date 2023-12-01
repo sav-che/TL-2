@@ -6,7 +6,7 @@ tl2_surname: Venanzi
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Venanzi
 tl2_dates: 1851-?
-tl2_page_id: 33212741
+tl2_bhl_page_id: 33212741
 author_lsid: 11123-1
 wikidata_id: Q21611613
 ipni_surname: Venanzi
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33212741) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11123-1), [Wikidata](https://www.wikidata.org/wiki/Q21611613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11123-1) LSID 11123-1, [Wikidata](https://www.wikidata.org/wiki/Q21611613) QID Q21611613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

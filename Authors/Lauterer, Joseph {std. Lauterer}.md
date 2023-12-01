@@ -6,7 +6,7 @@ tl2_surname: Lauterer
 tl2_forenames: Joseph
 tl2_name_abbrev: Lauterer
 tl2_dates: 1848-1911
-tl2_page_id: 33069012
+tl2_bhl_page_id: 33069012
 author_lsid: 31433-1
 wikidata_id: Q1707480
 ipni_surname: Lauterer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/31433-1), [Wikidata](https://www.wikidata.org/wiki/Q1707480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31433-1) LSID 31433-1, [Wikidata](https://www.wikidata.org/wiki/Q1707480) QID Q1707480
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Agosti
 tl2_forenames: Giuseppe, Conte
 tl2_name_abbrev: Agosti
 tl2_dates: 1715-1786
-tl2_page_id: 33264735
+tl2_bhl_page_id: 33264735
 author_lsid: 90-1
 wikidata_id: Q3107968
 ipni_surname: Agosti
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/90-1), [Wikidata](https://www.wikidata.org/wiki/Q3107968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/90-1) LSID 90-1, [Wikidata](https://www.wikidata.org/wiki/Q3107968) QID Q3107968
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Agosti, Guiseppe, Conte {std. Agosti}|first entry]] for this author
 

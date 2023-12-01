@@ -6,7 +6,7 @@ tl2_surname: Rein
 tl2_forenames: Johannes Justus
 tl2_name_abbrev: Rein
 tl2_dates: 1835-1918
-tl2_page_id: 33190168
+tl2_bhl_page_id: 33190168
 author_lsid: 8263-1
 wikidata_id: Q87900
 ipni_surname: Rein
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33190168) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8263-1), [Wikidata](https://www.wikidata.org/wiki/Q87900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8263-1) LSID 8263-1, [Wikidata](https://www.wikidata.org/wiki/Q87900) QID Q87900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Sendtner
 tl2_forenames: Otto
 tl2_name_abbrev: Sendtn.
 tl2_dates: 1813-1859
-tl2_page_id: 33333642
+tl2_bhl_page_id: 33333642
 author_lsid: 9479-1
 wikidata_id: Q70384
 ipni_surname: Sendtner
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33333642) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9479-1), [Wikidata](https://www.wikidata.org/wiki/Q70384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9479-1) LSID 9479-1, [Wikidata](https://www.wikidata.org/wiki/Q70384) QID Q70384
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

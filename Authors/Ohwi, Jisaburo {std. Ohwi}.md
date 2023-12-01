@@ -6,7 +6,7 @@ tl2_surname: Ohwi
 tl2_forenames: Jisaburo
 tl2_name_abbrev: Ohwi
 tl2_dates: 1905-1977
-tl2_page_id: 33355901
+tl2_bhl_page_id: 33355901
 author_lsid: 7112-1
 wikidata_id: Q4332375
 ipni_surname: Ohwi
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:32:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7112-1), [Wikidata](https://www.wikidata.org/wiki/Q4332375). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7112-1) LSID 7112-1, [Wikidata](https://www.wikidata.org/wiki/Q4332375) QID Q4332375
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

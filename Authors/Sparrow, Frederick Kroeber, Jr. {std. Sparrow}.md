@@ -6,7 +6,7 @@ tl2_surname: Sparrow
 tl2_forenames: Frederick Kroeber, Jr.
 tl2_name_abbrev: Sparrow
 tl2_dates: 1903-1977
-tl2_page_id: 33333914
+tl2_bhl_page_id: 33333914
 author_lsid: 12877-1
 wikidata_id: Q18631853
 ipni_surname: Sparrow
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33333914) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12877-1), [Wikidata](https://www.wikidata.org/wiki/Q18631853). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12877-1) LSID 12877-1, [Wikidata](https://www.wikidata.org/wiki/Q18631853) QID Q18631853
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Weise
 tl2_forenames: Johann Christoph Gottlob
 tl2_name_abbrev: Weise
 tl2_dates: 1762-1840
-tl2_page_id: 33066502
+tl2_bhl_page_id: 33066502
 author_lsid: 11519-1
 wikidata_id: Q21612400
 ipni_surname: Weise
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11519-1), [Wikidata](https://www.wikidata.org/wiki/Q21612400). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11519-1) LSID 11519-1, [Wikidata](https://www.wikidata.org/wiki/Q21612400) QID Q21612400
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

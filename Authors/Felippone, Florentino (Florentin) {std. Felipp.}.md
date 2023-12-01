@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0076
 tl2_volume: suppl7
 tl2_page_printed: 122
 tl2_surname: Felippone
-tl2_forenames: Florentino [Florentin]
+tl2_forenames: Florentino (Florentin)
 tl2_name_abbrev: Felipp.
 tl2_dates: 1853-1939
-tl2_page_id: 33259626
+tl2_bhl_page_id: 33259626
 author_lsid: 18713-1
 wikidata_id: Q5863118
 ipni_surname: Felippone
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33259626) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18713-1), [Wikidata](https://www.wikidata.org/wiki/Q5863118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18713-1) LSID 18713-1, [Wikidata](https://www.wikidata.org/wiki/Q5863118) QID Q5863118
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

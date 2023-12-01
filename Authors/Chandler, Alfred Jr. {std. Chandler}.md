@@ -6,7 +6,7 @@ tl2_surname: Chandler
 tl2_forenames: Alfred Jr.
 tl2_name_abbrev: Chandler
 tl2_dates: 1804-1896
-tl2_page_id: 33265725
+tl2_bhl_page_id: 33265725
 author_lsid: 1508-1
 wikidata_id: Q5667424
 ipni_surname: Chandler
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1508-1), [Wikidata](https://www.wikidata.org/wiki/Q5667424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1508-1) LSID 1508-1, [Wikidata](https://www.wikidata.org/wiki/Q5667424) QID Q5667424
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

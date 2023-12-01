@@ -6,7 +6,7 @@ tl2_surname: Weinmann
 tl2_forenames: Johann Wilhelm
 tl2_name_abbrev: J.W. Weinm.
 tl2_dates: 1683-1741
-tl2_page_id: 33066499
+tl2_bhl_page_id: 33066499
 author_lsid: 11514-1
 wikidata_id: Q70646
 ipni_surname: Weinmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33066499) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11514-1), [Wikidata](https://www.wikidata.org/wiki/Q70646). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11514-1) LSID 11514-1, [Wikidata](https://www.wikidata.org/wiki/Q70646) QID Q70646
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

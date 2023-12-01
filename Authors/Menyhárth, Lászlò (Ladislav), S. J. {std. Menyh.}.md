@@ -6,7 +6,7 @@ tl2_surname: Menyhárth
 tl2_forenames: Lászlò (Ladislav), S. J.
 tl2_name_abbrev: Menyh.
 tl2_dates: 1849-1897
-tl2_page_id: 33355503
+tl2_bhl_page_id: 33355503
 author_lsid: 6360-1
 wikidata_id: Q16059798
 ipni_surname: Menyhárth
@@ -25,7 +25,8 @@ ipni_record_modified: 2008-02-07 11:28:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6360-1), [Wikidata](https://www.wikidata.org/wiki/Q16059798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6360-1) LSID 6360-1, [Wikidata](https://www.wikidata.org/wiki/Q16059798) QID Q16059798
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

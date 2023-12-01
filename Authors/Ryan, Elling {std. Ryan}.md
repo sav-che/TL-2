@@ -6,7 +6,7 @@ tl2_surname: Ryan
 tl2_forenames: Elling
 tl2_name_abbrev: Ryan
 tl2_dates: 1849-1905
-tl2_page_id: 33190484
+tl2_bhl_page_id: 33190484
 author_lsid: 8768-1
 wikidata_id: Q21607578
 ipni_surname: Ryan
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8768-1), [Wikidata](https://www.wikidata.org/wiki/Q21607578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8768-1) LSID 8768-1, [Wikidata](https://www.wikidata.org/wiki/Q21607578) QID Q21607578
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

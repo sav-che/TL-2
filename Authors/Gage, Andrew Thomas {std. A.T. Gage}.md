@@ -6,7 +6,7 @@ tl2_surname: Gage
 tl2_forenames: Andrew Thomas
 tl2_name_abbrev: A.T. Gage
 tl2_dates: 1871-1945
-tl2_page_id: 33258572
+tl2_bhl_page_id: 33258572
 author_lsid: 36682-1
 wikidata_id: Q442067
 ipni_surname: Gage
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33258572) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/36682-1), [Wikidata](https://www.wikidata.org/wiki/Q442067). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/36682-1) LSID 36682-1, [Wikidata](https://www.wikidata.org/wiki/Q442067) QID Q442067
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

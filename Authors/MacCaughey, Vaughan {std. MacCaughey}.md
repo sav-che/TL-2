@@ -6,7 +6,7 @@ tl2_surname: MacCaughey
 tl2_forenames: Vaughan
 tl2_name_abbrev: MacCaughey
 tl2_dates: 1887-1954
-tl2_page_id: 33355300
+tl2_bhl_page_id: 33355300
 author_lsid: 5896-1
 wikidata_id: Q21519712
 ipni_surname: MacCaughey
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5896-1), [Wikidata](https://www.wikidata.org/wiki/Q21519712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5896-1) LSID 5896-1, [Wikidata](https://www.wikidata.org/wiki/Q21519712) QID Q21519712
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

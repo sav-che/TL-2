@@ -6,7 +6,7 @@ tl2_surname: Schulz
 tl2_forenames: Paul Franz Ferdinand
 tl2_name_abbrev: P.F.F. Schulz
 tl2_dates: 1872-1919
-tl2_page_id: 33333528
+tl2_bhl_page_id: 33333528
 author_lsid: 9312-1
 wikidata_id: Q21608488
 ipni_surname: Schulz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9312-1), [Wikidata](https://www.wikidata.org/wiki/Q21608488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9312-1) LSID 9312-1, [Wikidata](https://www.wikidata.org/wiki/Q21608488) QID Q21608488
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

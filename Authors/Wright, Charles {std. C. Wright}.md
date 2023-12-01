@@ -6,7 +6,7 @@ tl2_surname: Wright
 tl2_forenames: Charles
 tl2_name_abbrev: C. Wright
 tl2_dates: 1811-1885
-tl2_page_id: 33066804
+tl2_bhl_page_id: 33066804
 author_lsid: 13033-1
 wikidata_id: Q721062
 ipni_surname: Wright
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33066804) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13033-1), [Wikidata](https://www.wikidata.org/wiki/Q721062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13033-1) LSID 13033-1, [Wikidata](https://www.wikidata.org/wiki/Q721062) QID Q721062
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

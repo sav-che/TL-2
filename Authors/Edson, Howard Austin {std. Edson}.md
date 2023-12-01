@@ -6,7 +6,7 @@ tl2_surname: Edson
 tl2_forenames: Howard Austin
 tl2_name_abbrev: Edson
 tl2_dates: 1875-1960
-tl2_page_id: 33260248
+tl2_bhl_page_id: 33260248
 author_lsid: 18371-1
 wikidata_id: Q21511403
 ipni_surname: Edson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33260248) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18371-1), [Wikidata](https://www.wikidata.org/wiki/Q21511403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18371-1) LSID 18371-1, [Wikidata](https://www.wikidata.org/wiki/Q21511403) QID Q21511403
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0143
 tl2_volume: suppl8
 tl2_page_printed: 183
 tl2_surname: Gepp
-tl2_forenames: Antony [Anthony]
+tl2_forenames: Antony (Anthony)
 tl2_name_abbrev: A. Gepp
 tl2_dates: 1862-1955
-tl2_page_id: 33258661
+tl2_bhl_page_id: 33258661
 author_lsid: 3097-1
 wikidata_id: Q21341604
 ipni_surname: Gepp
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33258661) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3097-1), [Wikidata](https://www.wikidata.org/wiki/Q21341604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3097-1) LSID 3097-1, [Wikidata](https://www.wikidata.org/wiki/Q21341604) QID Q21341604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gepp, Antony {std. A. Gepp}|first entry]] for this author
 

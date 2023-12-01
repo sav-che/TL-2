@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0315
 tl2_volume: vol6
 tl2_page_printed: 270
 tl2_surname: Thomas
-tl2_forenames: Berthold [Ernst Friedrich]
+tl2_forenames: Berthold (Ernst Friedrich)
 tl2_name_abbrev: B. Thomas
 tl2_dates: 1910-x
-tl2_page_id: 33212312
+tl2_bhl_page_id: 33212312
 author_lsid: 10587-1
 wikidata_id: Q6395959
 ipni_surname: Thomas
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10587-1), [Wikidata](https://www.wikidata.org/wiki/Q6395959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10587-1) LSID 10587-1, [Wikidata](https://www.wikidata.org/wiki/Q6395959) QID Q6395959
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

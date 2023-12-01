@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0057
 tl2_volume: suppl5
 tl2_page_printed: 49
 tl2_surname: Dangeard
-tl2_forenames: Pierre [Jean Louis]
+tl2_forenames: Pierre (Jean Louis)
 tl2_name_abbrev: P.J.L. Dang.
 tl2_dates: 1895-1970
-tl2_page_id: 33259095
+tl2_bhl_page_id: 33259095
 author_lsid: 1983-1
 wikidata_id: Q977692
 ipni_surname: Dangeard
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-02-13 12:29:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33259095) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1983-1), [Wikidata](https://www.wikidata.org/wiki/Q977692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1983-1) LSID 1983-1, [Wikidata](https://www.wikidata.org/wiki/Q977692) QID Q977692
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dangeard, Pierre Jean Louis {std. P.J.L. Dang.}|first entry]] for this author
 

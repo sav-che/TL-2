@@ -6,7 +6,7 @@ tl2_surname: Ditmar
 tl2_forenames: L. P. Fr.
 tl2_name_abbrev: Ditmar
 tl2_dates: fl. 1809
-tl2_page_id: 33120791
+tl2_bhl_page_id: 33120791
 author_lsid: 18068-1
 wikidata_id: Q36612176
 ipni_surname: Ditmar
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33120791) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18068-1), [Wikidata](https://www.wikidata.org/wiki/Q36612176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18068-1) LSID 18068-1, [Wikidata](https://www.wikidata.org/wiki/Q36612176) QID Q36612176
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

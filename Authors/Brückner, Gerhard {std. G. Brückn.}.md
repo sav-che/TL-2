@@ -6,7 +6,7 @@ tl2_surname: Brückner
 tl2_forenames: Gerhard
 tl2_name_abbrev: G. Brückn.
 tl2_dates: 1902-x
-tl2_page_id: 33266458
+tl2_bhl_page_id: 33266458
 author_lsid: 1208-1
 wikidata_id: Q5878492
 ipni_surname: Brückner
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33266458) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1208-1), [Wikidata](https://www.wikidata.org/wiki/Q5878492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1208-1) LSID 1208-1, [Wikidata](https://www.wikidata.org/wiki/Q5878492) QID Q5878492
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

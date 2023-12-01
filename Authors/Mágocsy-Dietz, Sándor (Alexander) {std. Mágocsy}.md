@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0270
 tl2_volume: vol3
 tl2_page_printed: 248
 tl2_surname: Mágocsy-Dietz
-tl2_forenames: Sándor [Alexander]
+tl2_forenames: Sándor (Alexander)
 tl2_name_abbrev: Mágocsy
 tl2_dates: 1855-1945
-tl2_page_id: 33355335
+tl2_bhl_page_id: 33355335
 author_lsid: 5986-1
 wikidata_id: Q1180650
 ipni_surname: Mágocsy-Dietz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5986-1), [Wikidata](https://www.wikidata.org/wiki/Q1180650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5986-1) LSID 5986-1, [Wikidata](https://www.wikidata.org/wiki/Q1180650) QID Q1180650
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

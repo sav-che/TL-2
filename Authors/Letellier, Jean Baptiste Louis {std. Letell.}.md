@@ -6,7 +6,7 @@ tl2_surname: Letellier
 tl2_forenames: Jean Baptiste Louis
 tl2_name_abbrev: Letell.
 tl2_dates: fl. 1829-1842
-tl2_page_id: 33069099
+tl2_bhl_page_id: 33069099
 author_lsid: 22264-1
 wikidata_id: Q21394987
 ipni_surname: Letellier
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33069099) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22264-1), [Wikidata](https://www.wikidata.org/wiki/Q21394987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22264-1) LSID 22264-1, [Wikidata](https://www.wikidata.org/wiki/Q21394987) QID Q21394987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

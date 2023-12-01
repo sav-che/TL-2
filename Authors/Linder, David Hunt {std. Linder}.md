@@ -6,7 +6,7 @@ tl2_surname: Linder
 tl2_forenames: David Hunt
 tl2_name_abbrev: Linder
 tl2_dates: 1899-1946
-tl2_page_id: 33355096
+tl2_bhl_page_id: 33355096
 author_lsid: 22375-1
 wikidata_id: Q5800069
 ipni_surname: Linder
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33355096) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22375-1), [Wikidata](https://www.wikidata.org/wiki/Q5800069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22375-1) LSID 22375-1, [Wikidata](https://www.wikidata.org/wiki/Q5800069) QID Q5800069
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

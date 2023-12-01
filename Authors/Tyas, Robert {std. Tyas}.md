@@ -6,7 +6,7 @@ tl2_surname: Tyas
 tl2_forenames: Robert
 tl2_name_abbrev: Tyas
 tl2_dates: 1811-1879
-tl2_page_id: 33212602
+tl2_bhl_page_id: 33212602
 author_lsid: 10944-1
 wikidata_id: Q21611098
 ipni_surname: Tyas
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33212602) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10944-1), [Wikidata](https://www.wikidata.org/wiki/Q21611098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10944-1) LSID 10944-1, [Wikidata](https://www.wikidata.org/wiki/Q21611098) QID Q21611098
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

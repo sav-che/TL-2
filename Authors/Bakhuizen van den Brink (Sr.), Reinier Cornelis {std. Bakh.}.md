@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl1_0322
 tl2_volume: suppl1
 tl2_page_printed: 284
-tl2_surname: Bakhuizen van den Brink [Sr.]
+tl2_surname: Bakhuizen van den Brink (Sr.)
 tl2_forenames: Reinier Cornelis
 tl2_name_abbrev: Bakh.
 tl2_dates: 1881-1945
-tl2_page_id: 33265011
+tl2_bhl_page_id: 33265011
 author_lsid: 31947-1
 wikidata_id: Q4076181
 ipni_surname: Bakhuizen van den Brink
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265011) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31947-1), [Wikidata](https://www.wikidata.org/wiki/Q4076181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31947-1) LSID 31947-1, [Wikidata](https://www.wikidata.org/wiki/Q4076181) QID Q4076181
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

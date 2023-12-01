@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0928
 tl2_volume: vol2
 tl2_page_printed: 774
 tl2_surname: Laxman
-tl2_forenames: Erich [Erik]
+tl2_forenames: Erich (Erik)
 tl2_name_abbrev: Laxm.
 tl2_dates: 1737-1796
-tl2_page_id: 33069016
+tl2_bhl_page_id: 33069016
 author_lsid: 5355-1
 wikidata_id: Q938534
 ipni_surname: Laxmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-10-18 20:47:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33069016) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5355-1), [Wikidata](https://www.wikidata.org/wiki/Q938534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5355-1) LSID 5355-1, [Wikidata](https://www.wikidata.org/wiki/Q938534) QID Q938534
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

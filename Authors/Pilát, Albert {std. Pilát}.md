@@ -6,7 +6,7 @@ tl2_surname: Pilát
 tl2_forenames: Albert
 tl2_name_abbrev: Pilát
 tl2_dates: 1903-1974
-tl2_page_id: 33189734
+tl2_bhl_page_id: 33189734
 author_lsid: 24865-1
 wikidata_id: Q329324
 ipni_surname: Pilát
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24865-1), [Wikidata](https://www.wikidata.org/wiki/Q329324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24865-1) LSID 24865-1, [Wikidata](https://www.wikidata.org/wiki/Q329324) QID Q329324
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

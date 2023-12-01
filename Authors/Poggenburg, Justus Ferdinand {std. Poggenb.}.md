@@ -6,7 +6,7 @@ tl2_surname: Poggenburg
 tl2_forenames: Justus Ferdinand
 tl2_name_abbrev: Poggenb.
 tl2_dates: 1840-1893
-tl2_page_id: 33189785
+tl2_bhl_page_id: 33189785
 author_lsid: 7782-1
 wikidata_id: Q4366556
 ipni_surname: Poggenburg
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33189785) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7782-1), [Wikidata](https://www.wikidata.org/wiki/Q4366556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7782-1) LSID 7782-1, [Wikidata](https://www.wikidata.org/wiki/Q4366556) QID Q4366556
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

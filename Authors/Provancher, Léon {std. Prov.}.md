@@ -6,7 +6,7 @@ tl2_surname: Provancher
 tl2_forenames: Léon
 tl2_name_abbrev: Prov.
 tl2_dates: 1820-1892
-tl2_page_id: 33189890
+tl2_bhl_page_id: 33189890
 author_lsid: 8000-1
 wikidata_id: Q3271281
 ipni_surname: Provancher
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33189890) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8000-1), [Wikidata](https://www.wikidata.org/wiki/Q3271281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8000-1) LSID 8000-1, [Wikidata](https://www.wikidata.org/wiki/Q3271281) QID Q3271281
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

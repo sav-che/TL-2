@@ -6,7 +6,7 @@ tl2_surname: Blainville
 tl2_forenames: Henri Marie Ducrotay de
 tl2_name_abbrev: Blainville
 tl2_dates: 1777-1850
-tl2_page_id: 33120358
+tl2_bhl_page_id: 33120358
 author_lsid: 32452-1
 wikidata_id: Q44691
 ipni_surname: Blainville
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/32452-1), [Wikidata](https://www.wikidata.org/wiki/Q44691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32452-1) LSID 32452-1, [Wikidata](https://www.wikidata.org/wiki/Q44691) QID Q44691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blainville, Henri Marie Ducrotay de {std. Blainv.} (Suppl.)|second entry]] for this author
 

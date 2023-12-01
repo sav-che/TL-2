@@ -6,7 +6,7 @@ tl2_surname: Olive
 tl2_forenames: Edgar William
 tl2_name_abbrev: Olive
 tl2_dates: 1870-1971
-tl2_page_id: 33355906
+tl2_bhl_page_id: 33355906
 author_lsid: 24320-1
 wikidata_id: Q15440835
 ipni_surname: Olive
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24320-1), [Wikidata](https://www.wikidata.org/wiki/Q15440835). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24320-1) LSID 24320-1, [Wikidata](https://www.wikidata.org/wiki/Q15440835) QID Q15440835
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Senckenberg
 tl2_forenames: Johann Christian
 tl2_name_abbrev: Senckenberg
 tl2_dates: 1707-1772
-tl2_page_id: 33333641
+tl2_bhl_page_id: 33333641
 author_lsid: 9477-1
 wikidata_id: Q98077
 ipni_surname: Senckenberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9477-1), [Wikidata](https://www.wikidata.org/wiki/Q98077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9477-1) LSID 9477-1, [Wikidata](https://www.wikidata.org/wiki/Q98077) QID Q98077
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

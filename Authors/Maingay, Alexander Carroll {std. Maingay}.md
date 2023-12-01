@@ -6,7 +6,7 @@ tl2_surname: Maingay
 tl2_forenames: Alexander Carroll
 tl2_name_abbrev: Maingay
 tl2_dates: 1836-1869
-tl2_page_id: 33355343
+tl2_bhl_page_id: 33355343
 author_lsid: 5996-1
 wikidata_id: Q5666129
 ipni_surname: Maingay
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5996-1), [Wikidata](https://www.wikidata.org/wiki/Q5666129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5996-1) LSID 5996-1, [Wikidata](https://www.wikidata.org/wiki/Q5666129) QID Q5666129
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

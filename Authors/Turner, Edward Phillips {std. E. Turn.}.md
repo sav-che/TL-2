@@ -6,7 +6,7 @@ tl2_surname: Turner
 tl2_forenames: Edward Phillips
 tl2_name_abbrev: E. Turn.
 tl2_dates: 1865-1937
-tl2_page_id: 33212588
+tl2_bhl_page_id: 33212588
 author_lsid: 10917-1
 wikidata_id: Q21611061
 ipni_surname: Turner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33212588) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10917-1), [Wikidata](https://www.wikidata.org/wiki/Q21611061). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10917-1) LSID 10917-1, [Wikidata](https://www.wikidata.org/wiki/Q21611061) QID Q21611061
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

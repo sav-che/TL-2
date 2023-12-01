@@ -6,7 +6,7 @@ tl2_surname: Sandford
 tl2_forenames: E.
 tl2_name_abbrev: Sandford
 tl2_dates: fl. 1882
-tl2_page_id: 33333133
+tl2_bhl_page_id: 33333133
 author_lsid: 8887-1
 wikidata_id: Q22106656
 ipni_surname: Sandford
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8887-1), [Wikidata](https://www.wikidata.org/wiki/Q22106656). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8887-1) LSID 8887-1, [Wikidata](https://www.wikidata.org/wiki/Q22106656) QID Q22106656
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

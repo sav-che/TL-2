@@ -6,7 +6,7 @@ tl2_surname: David
 tl2_forenames: Georg
 tl2_name_abbrev: G. David
 tl2_dates: 1848-?
-tl2_page_id: 33259142
+tl2_bhl_page_id: 33259142
 author_lsid: 20002716-1
 wikidata_id: Q47116049
 ipni_surname: David
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33259142) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20002716-1), [Wikidata](https://www.wikidata.org/wiki/Q47116049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20002716-1) LSID 20002716-1, [Wikidata](https://www.wikidata.org/wiki/Q47116049) QID Q47116049
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

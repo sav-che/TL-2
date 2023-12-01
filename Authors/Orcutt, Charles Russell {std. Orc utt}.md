@@ -6,7 +6,7 @@ tl2_surname: Orcutt
 tl2_forenames: Charles Russell
 tl2_name_abbrev: Orcutt
 tl2_dates: 1864-1929
-tl2_page_id: 33355931
+tl2_bhl_page_id: 33355931
 author_lsid: 24368-1
 wikidata_id: Q1065962
 ipni_surname: Orcutt
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:39:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33355931) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24368-1), [Wikidata](https://www.wikidata.org/wiki/Q1065962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24368-1) LSID 24368-1, [Wikidata](https://www.wikidata.org/wiki/Q1065962) QID Q1065962
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

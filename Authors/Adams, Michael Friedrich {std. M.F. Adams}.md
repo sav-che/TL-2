@@ -6,7 +6,7 @@ tl2_surname: Adams
 tl2_forenames: Michael Friedrich
 tl2_name_abbrev: M.F. Adams
 tl2_dates: 1780-1829/1832
-tl2_page_id: 33120101
+tl2_bhl_page_id: 33120101
 author_lsid: 64-1
 wikidata_id: Q62840
 ipni_surname: Adams
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33120101) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/64-1), [Wikidata](https://www.wikidata.org/wiki/Q62840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/64-1) LSID 64-1, [Wikidata](https://www.wikidata.org/wiki/Q62840) QID Q62840
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Adams, (Adam), (Johann) Michael Friedrich {std. M.F. Adams} (Suppl.)|second entry]] for this author
 

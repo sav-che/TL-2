@@ -6,7 +6,7 @@ tl2_surname: Durand
 tl2_forenames: Ernest Armand
 tl2_name_abbrev: E.A. Durand
 tl2_dates: 1872-1910
-tl2_page_id: 33120838
+tl2_bhl_page_id: 33120838
 author_lsid: 2395-1
 wikidata_id: Q5836690
 ipni_surname: Durand
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33120838) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2395-1), [Wikidata](https://www.wikidata.org/wiki/Q5836690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2395-1) LSID 2395-1, [Wikidata](https://www.wikidata.org/wiki/Q5836690) QID Q5836690
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

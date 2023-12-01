@@ -6,7 +6,7 @@ tl2_surname: Ekart
 tl2_forenames: Tobias Philipp
 tl2_name_abbrev: Ekart
 tl2_dates: 1799-1877
-tl2_page_id: 33120870
+tl2_bhl_page_id: 33120870
 author_lsid: 18417-1
 wikidata_id: Q21511675
 ipni_surname: Ekart
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33120870) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18417-1), [Wikidata](https://www.wikidata.org/wiki/Q21511675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18417-1) LSID 18417-1, [Wikidata](https://www.wikidata.org/wiki/Q21511675) QID Q21511675
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Glatfelter
 tl2_forenames: Noah Miller
 tl2_name_abbrev: Glatf.
 tl2_dates: 1837-1911
-tl2_page_id: 33258709
+tl2_bhl_page_id: 33258709
 author_lsid: 14328-1
 wikidata_id: Q16043719
 ipni_surname: Glatfelter
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33258709) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/14328-1), [Wikidata](https://www.wikidata.org/wiki/Q16043719). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14328-1) LSID 14328-1, [Wikidata](https://www.wikidata.org/wiki/Q16043719) QID Q16043719
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

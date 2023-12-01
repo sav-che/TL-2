@@ -6,7 +6,7 @@ tl2_surname: Bulliard
 tl2_forenames: Jean Baptiste François, called Pierre
 tl2_name_abbrev: Bull.
 tl2_dates: 1752-1793
-tl2_page_id: 33120533
+tl2_bhl_page_id: 33120533
 author_lsid: 12366-1
 wikidata_id: Q1246173
 ipni_surname: Bulliard
@@ -25,7 +25,8 @@ ipni_record_modified: 2016-11-17 00:02:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33120533) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12366-1), [Wikidata](https://www.wikidata.org/wiki/Q1246173). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12366-1) LSID 12366-1, [Wikidata](https://www.wikidata.org/wiki/Q1246173) QID Q1246173
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

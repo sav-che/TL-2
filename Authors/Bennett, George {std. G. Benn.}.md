@@ -6,7 +6,7 @@ tl2_surname: Bennett
 tl2_forenames: George
 tl2_name_abbrev: G. Benn.
 tl2_dates: 1804-1893
-tl2_page_id: 33265270
+tl2_bhl_page_id: 33265270
 author_lsid: 35220-1
 wikidata_id: Q517936
 ipni_surname: Bennett
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33265270) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/35220-1), [Wikidata](https://www.wikidata.org/wiki/Q517936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35220-1) LSID 35220-1, [Wikidata](https://www.wikidata.org/wiki/Q517936) QID Q517936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

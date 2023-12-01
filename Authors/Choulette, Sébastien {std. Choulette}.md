@@ -6,7 +6,7 @@ tl2_surname: Choulette
 tl2_forenames: Sébastien
 tl2_name_abbrev: Choulette
 tl2_dates: 1803-?
-tl2_page_id: 33120630
+tl2_bhl_page_id: 33120630
 author_lsid: 1619-1
 wikidata_id: Q21508526
 ipni_surname: Choulette
@@ -24,7 +24,8 @@ ipni_record_modified: 2016-11-05 15:00:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33120630) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1619-1), [Wikidata](https://www.wikidata.org/wiki/Q21508526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1619-1) LSID 1619-1, [Wikidata](https://www.wikidata.org/wiki/Q21508526) QID Q21508526
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

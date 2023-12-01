@@ -6,7 +6,7 @@ tl2_surname: Ambrosi
 tl2_forenames: Francesco
 tl2_name_abbrev: Ambrosi
 tl2_dates: 1821-1897
-tl2_page_id: 33120171
+tl2_bhl_page_id: 33120171
 author_lsid: 177-1
 wikidata_id: Q2333145
 ipni_surname: Ambrosi
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33120171) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/177-1), [Wikidata](https://www.wikidata.org/wiki/Q2333145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/177-1) LSID 177-1, [Wikidata](https://www.wikidata.org/wiki/Q2333145) QID Q2333145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ambrosi, Francesco {std. Ambrosi} (Suppl.)|second entry]] for this author
 

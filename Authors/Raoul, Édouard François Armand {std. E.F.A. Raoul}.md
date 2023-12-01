@@ -6,7 +6,7 @@ tl2_surname: Raoul
 tl2_forenames: Édouard François Armand
 tl2_name_abbrev: E.F.A. Raoul
 tl2_dates: 1845-1898
-tl2_page_id: 33190050
+tl2_bhl_page_id: 33190050
 author_lsid: 8141-1
 wikidata_id: Q3579852
 ipni_surname: Raoul
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8141-1), [Wikidata](https://www.wikidata.org/wiki/Q3579852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8141-1) LSID 8141-1, [Wikidata](https://www.wikidata.org/wiki/Q3579852) QID Q3579852
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

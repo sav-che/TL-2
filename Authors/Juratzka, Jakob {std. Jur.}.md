@@ -6,7 +6,7 @@ tl2_surname: Juratzka
 tl2_forenames: Jakob
 tl2_name_abbrev: Jur.
 tl2_dates: 1821-1878
-tl2_page_id: 33068716
+tl2_bhl_page_id: 33068716
 author_lsid: 4588-1
 wikidata_id: Q5924438
 ipni_surname: Juratzka
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4588-1), [Wikidata](https://www.wikidata.org/wiki/Q5924438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4588-1) LSID 4588-1, [Wikidata](https://www.wikidata.org/wiki/Q5924438) QID Q5924438
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

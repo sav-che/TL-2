@@ -6,7 +6,7 @@ tl2_surname: Heimerl
 tl2_forenames: Anton
 tl2_name_abbrev: Heimerl
 tl2_dates: 1857-1942
-tl2_page_id: 33068380
+tl2_bhl_page_id: 33068380
 author_lsid: 3789-1
 wikidata_id: Q85207
 ipni_surname: Heimerl
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:51:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33068380) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3789-1), [Wikidata](https://www.wikidata.org/wiki/Q85207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3789-1) LSID 3789-1, [Wikidata](https://www.wikidata.org/wiki/Q85207) QID Q85207
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

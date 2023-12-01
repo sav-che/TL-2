@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0311
 tl2_volume: vol6
 tl2_page_printed: 269
 tl2_surname: Thomae
-tl2_forenames: Carl [Karl] Th.
+tl2_forenames: Carl (Karl) Th.
 tl2_name_abbrev: Thomae
 tl2_dates: 1808-1885
-tl2_page_id: 33212311
+tl2_bhl_page_id: 33212311
 author_lsid: 10582-1
 wikidata_id: Q21610608
 ipni_surname: Thomae
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10582-1), [Wikidata](https://www.wikidata.org/wiki/Q21610608). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10582-1) LSID 10582-1, [Wikidata](https://www.wikidata.org/wiki/Q21610608) QID Q21610608
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

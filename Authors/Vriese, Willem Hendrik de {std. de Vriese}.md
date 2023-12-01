@@ -6,7 +6,7 @@ tl2_surname: Vriese
 tl2_forenames: Willem Hendrik de
 tl2_name_abbrev: de Vriese
 tl2_dates: 1806-1862
-tl2_page_id: 33212834
+tl2_bhl_page_id: 33212834
 author_lsid: 11274-1
 wikidata_id: Q2101720
 ipni_surname: de Vriese
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:51:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33212834) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11274-1), [Wikidata](https://www.wikidata.org/wiki/Q2101720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11274-1) LSID 11274-1, [Wikidata](https://www.wikidata.org/wiki/Q2101720) QID Q2101720
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Gillies
 tl2_forenames: John
 tl2_name_abbrev: Gillies
 tl2_dates: 1792-1834
-tl2_page_id: 33121077
+tl2_bhl_page_id: 33121077
 author_lsid: 19349-1
 wikidata_id: Q15387
 ipni_surname: Gillies
@@ -30,7 +30,8 @@ ipni_record_modified: 2013-05-15 11:30:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 946](https://www.biodiversitylibrary.org/page/33121077) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19349-1), [Wikidata](https://www.wikidata.org/wiki/Q15387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19349-1) LSID 19349-1, [Wikidata](https://www.wikidata.org/wiki/Q15387) QID Q15387
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

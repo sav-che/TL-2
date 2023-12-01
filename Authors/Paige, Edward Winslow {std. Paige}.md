@@ -6,7 +6,7 @@ tl2_surname: Paige
 tl2_forenames: Edward Winslow
 tl2_name_abbrev: Paige
 tl2_dates: 1844-1918
-tl2_page_id: 33189508
+tl2_bhl_page_id: 33189508
 author_lsid: 7250-1
 wikidata_id: Q21522531
 ipni_surname: Paige
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33189508) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7250-1), [Wikidata](https://www.wikidata.org/wiki/Q21522531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7250-1) LSID 7250-1, [Wikidata](https://www.wikidata.org/wiki/Q21522531) QID Q21522531
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

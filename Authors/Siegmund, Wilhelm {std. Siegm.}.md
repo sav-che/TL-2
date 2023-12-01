@@ -6,7 +6,7 @@ tl2_surname: Siegmund
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Siegm.
 tl2_dates: 1821-1897
-tl2_page_id: 33333733
+tl2_bhl_page_id: 33333733
 author_lsid: 9622-1
 wikidata_id: Q21608864
 ipni_surname: Siegmund
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33333733) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9622-1), [Wikidata](https://www.wikidata.org/wiki/Q21608864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9622-1) LSID 9622-1, [Wikidata](https://www.wikidata.org/wiki/Q21608864) QID Q21608864
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

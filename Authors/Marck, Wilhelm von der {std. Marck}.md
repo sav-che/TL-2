@@ -6,7 +6,7 @@ tl2_surname: Marck
 tl2_forenames: Wilhelm von der
 tl2_name_abbrev: Marck
 tl2_dates: 1814-1900
-tl2_page_id: 33355378
+tl2_bhl_page_id: 33355378
 author_lsid: 6096-1
 wikidata_id: Q1457952
 ipni_surname: Marck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6096-1), [Wikidata](https://www.wikidata.org/wiki/Q1457952). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6096-1) LSID 6096-1, [Wikidata](https://www.wikidata.org/wiki/Q1457952) QID Q1457952
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

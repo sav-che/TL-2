@@ -6,7 +6,7 @@ tl2_surname: Dermen
 tl2_forenames: Haig
 tl2_name_abbrev: Dermen
 tl2_dates: 1895-x
-tl2_page_id: 33259259
+tl2_bhl_page_id: 33259259
 author_lsid: 13384-1
 wikidata_id: Q21510263
 ipni_surname: Dermen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259259) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/13384-1), [Wikidata](https://www.wikidata.org/wiki/Q21510263). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13384-1) LSID 13384-1, [Wikidata](https://www.wikidata.org/wiki/Q21510263) QID Q21510263
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

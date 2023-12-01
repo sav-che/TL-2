@@ -6,7 +6,7 @@ tl2_surname: Schlechtendal
 tl2_forenames: Diederich Friedrich Carl von
 tl2_name_abbrev: D.F.C. Schlechtend.
 tl2_dates: 1767-1842
-tl2_page_id: 33333343
+tl2_bhl_page_id: 33333343
 author_lsid: 9115-1
 wikidata_id: Q21608034
 ipni_surname: Schlechtendal
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-06-10 09:01:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9115-1), [Wikidata](https://www.wikidata.org/wiki/Q21608034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9115-1) LSID 9115-1, [Wikidata](https://www.wikidata.org/wiki/Q21608034) QID Q21608034
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

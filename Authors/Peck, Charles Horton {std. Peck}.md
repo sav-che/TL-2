@@ -6,7 +6,7 @@ tl2_surname: Peck
 tl2_forenames: Charles Horton
 tl2_name_abbrev: Peck
 tl2_dates: 1833-1917
-tl2_page_id: 33189606
+tl2_bhl_page_id: 33189606
 author_lsid: 24675-1
 wikidata_id: Q1064899
 ipni_surname: Peck
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:49:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33189606) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24675-1), [Wikidata](https://www.wikidata.org/wiki/Q1064899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24675-1) LSID 24675-1, [Wikidata](https://www.wikidata.org/wiki/Q1064899) QID Q1064899
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

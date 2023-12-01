@@ -6,7 +6,7 @@ tl2_surname: Ellis
 tl2_forenames: John
 tl2_name_abbrev: J. Ellis
 tl2_dates: 1711-1776
-tl2_page_id: 33120874
+tl2_bhl_page_id: 33120874
 author_lsid: 2518-1
 wikidata_id: Q934747
 ipni_surname: Ellis
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33120874) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2518-1), [Wikidata](https://www.wikidata.org/wiki/Q934747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2518-1) LSID 2518-1, [Wikidata](https://www.wikidata.org/wiki/Q934747) QID Q934747
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ellis, John {std. J. Ellis} (Suppl.)|second entry]] for this author
 

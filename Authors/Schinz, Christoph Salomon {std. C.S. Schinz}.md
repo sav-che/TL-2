@@ -6,7 +6,7 @@ tl2_surname: Schinz
 tl2_forenames: Christoph Salomon
 tl2_name_abbrev: C.S. Schinz
 tl2_dates: 1764-1847
-tl2_page_id: 33333313
+tl2_bhl_page_id: 33333313
 author_lsid: 9097-1
 wikidata_id: Q21607980
 ipni_surname: Schinz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9097-1), [Wikidata](https://www.wikidata.org/wiki/Q21607980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9097-1) LSID 9097-1, [Wikidata](https://www.wikidata.org/wiki/Q21607980) QID Q21607980
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

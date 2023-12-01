@@ -6,7 +6,7 @@ tl2_surname: Drummond
 tl2_forenames: Thomas
 tl2_name_abbrev: Drumm.
 tl2_dates: 1780-1835
-tl2_page_id: 33120816
+tl2_bhl_page_id: 33120816
 author_lsid: 18209-1
 wikidata_id: Q7789064
 ipni_surname: Drummond
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:27:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33120816) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18209-1), [Wikidata](https://www.wikidata.org/wiki/Q7789064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18209-1) LSID 18209-1, [Wikidata](https://www.wikidata.org/wiki/Q7789064) QID Q7789064
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

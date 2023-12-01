@@ -6,7 +6,7 @@ tl2_surname: Cook
 tl2_forenames: Alice (née Carter)
 tl2_name_abbrev: A. Cook
 tl2_dates: 1868-x
-tl2_page_id: 33265996
+tl2_bhl_page_id: 33265996
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33265996) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

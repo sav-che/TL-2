@@ -6,7 +6,7 @@ tl2_surname: Havard
 tl2_forenames: Valéry
 tl2_name_abbrev: Havard
 tl2_dates: 1846-1927
-tl2_page_id: 33068347
+tl2_bhl_page_id: 33068347
 author_lsid: 34830-1
 wikidata_id: Q7911480
 ipni_surname: Havard
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/34830-1), [Wikidata](https://www.wikidata.org/wiki/Q7911480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34830-1) LSID 34830-1, [Wikidata](https://www.wikidata.org/wiki/Q7911480) QID Q7911480
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

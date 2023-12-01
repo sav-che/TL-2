@@ -6,7 +6,7 @@ tl2_surname: Hitchcock
 tl2_forenames: Charles Leo
 tl2_name_abbrev: C. Hitchc.
 tl2_dates: 1902-x
-tl2_page_id: 33068458
+tl2_bhl_page_id: 33068458
 author_lsid: 3972-1
 wikidata_id: Q5080195
 ipni_surname: Hitchcock
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33068458) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3972-1), [Wikidata](https://www.wikidata.org/wiki/Q5080195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3972-1) LSID 3972-1, [Wikidata](https://www.wikidata.org/wiki/Q5080195) QID Q5080195
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

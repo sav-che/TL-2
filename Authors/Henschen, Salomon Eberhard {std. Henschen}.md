@@ -6,7 +6,7 @@ tl2_surname: Henschen
 tl2_forenames: Salomon Eberhard
 tl2_name_abbrev: Henschen
 tl2_dates: 1847-1930
-tl2_page_id: 33068404
+tl2_bhl_page_id: 33068404
 author_lsid: 3856-1
 wikidata_id: Q2214976
 ipni_surname: Henschen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3856-1), [Wikidata](https://www.wikidata.org/wiki/Q2214976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3856-1) LSID 3856-1, [Wikidata](https://www.wikidata.org/wiki/Q2214976) QID Q2214976
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wehmeyer
 tl2_forenames: Lewis Edgar
 tl2_name_abbrev: Wehmeyer
 tl2_dates: 1897-1971
-tl2_page_id: 33066487
+tl2_bhl_page_id: 33066487
 author_lsid: 11487-1
 wikidata_id: Q21340629
 ipni_surname: Wehmeyer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33066487) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11487-1), [Wikidata](https://www.wikidata.org/wiki/Q21340629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11487-1) LSID 11487-1, [Wikidata](https://www.wikidata.org/wiki/Q21340629) QID Q21340629
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pardé
 tl2_forenames: Léon Gabriel Charles
 tl2_name_abbrev: Pardé
 tl2_dates: 1865-1943
-tl2_page_id: 33189488
+tl2_bhl_page_id: 33189488
 author_lsid: 7329-1
 wikidata_id: Q21522630
 ipni_surname: Pardé
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33189488) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7329-1), [Wikidata](https://www.wikidata.org/wiki/Q21522630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7329-1) LSID 7329-1, [Wikidata](https://www.wikidata.org/wiki/Q21522630) QID Q21522630
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

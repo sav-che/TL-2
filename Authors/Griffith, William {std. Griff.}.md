@@ -6,7 +6,7 @@ tl2_surname: Griffith
 tl2_forenames: William
 tl2_name_abbrev: Griff.
 tl2_dates: 1810-1845
-tl2_page_id: 33121136
+tl2_bhl_page_id: 33121136
 author_lsid: 3387-1
 wikidata_id: Q11705310
 ipni_surname: Griffith
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33121136) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3387-1), [Wikidata](https://www.wikidata.org/wiki/Q11705310). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3387-1) LSID 3387-1, [Wikidata](https://www.wikidata.org/wiki/Q11705310) QID Q11705310
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Griffith, William {std. Griff.} (Suppl.)|second entry]] for this author
 

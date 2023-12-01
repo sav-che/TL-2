@@ -6,7 +6,7 @@ tl2_surname: Lacaita
 tl2_forenames: Charles Carmichael
 tl2_name_abbrev: Lacaita
 tl2_dates: 1853-1933
-tl2_page_id: 33068956
+tl2_bhl_page_id: 33068956
 author_lsid: 5179-1
 wikidata_id: Q1634164
 ipni_surname: Lacaita
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:31:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5179-1), [Wikidata](https://www.wikidata.org/wiki/Q1634164). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5179-1) LSID 5179-1, [Wikidata](https://www.wikidata.org/wiki/Q1634164) QID Q1634164
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

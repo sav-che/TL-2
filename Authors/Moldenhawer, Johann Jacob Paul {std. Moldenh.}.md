@@ -6,7 +6,7 @@ tl2_surname: Moldenhawer
 tl2_forenames: Johann Jacob Paul
 tl2_name_abbrev: Moldenh.
 tl2_dates: 1766-1827
-tl2_page_id: 33355633
+tl2_bhl_page_id: 33355633
 author_lsid: 6568-1
 wikidata_id: Q89645
 ipni_surname: Moldenhawer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6568-1), [Wikidata](https://www.wikidata.org/wiki/Q89645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6568-1) LSID 6568-1, [Wikidata](https://www.wikidata.org/wiki/Q89645) QID Q89645
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

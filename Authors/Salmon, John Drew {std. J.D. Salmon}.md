@@ -6,7 +6,7 @@ tl2_surname: Salmon
 tl2_forenames: John Drew
 tl2_name_abbrev: J.D. Salmon
 tl2_dates: ca. 1802-1859
-tl2_page_id: 33333172
+tl2_bhl_page_id: 33333172
 author_lsid: 8850-1
 wikidata_id: Q18071273
 ipni_surname: Salmon
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33333172) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8850-1), [Wikidata](https://www.wikidata.org/wiki/Q18071273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8850-1) LSID 8850-1, [Wikidata](https://www.wikidata.org/wiki/Q18071273) QID Q18071273
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

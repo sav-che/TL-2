@@ -6,7 +6,7 @@ tl2_surname: Frege
 tl2_forenames: Christian August
 tl2_name_abbrev: Frege
 tl2_dates: 1759-1834
-tl2_page_id: 33259904
+tl2_bhl_page_id: 33259904
 author_lsid: 18964-1
 wikidata_id: Q21388721
 ipni_surname: Frege
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33259904) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18964-1), [Wikidata](https://www.wikidata.org/wiki/Q21388721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18964-1) LSID 18964-1, [Wikidata](https://www.wikidata.org/wiki/Q21388721) QID Q21388721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

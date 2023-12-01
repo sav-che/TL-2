@@ -6,7 +6,7 @@ tl2_surname: Buchanan
 tl2_forenames: John
 tl2_name_abbrev: Buchanan
 tl2_dates: 1819-1898
-tl2_page_id: 33266493
+tl2_bhl_page_id: 33266493
 author_lsid: 16656-1
 wikidata_id: Q6223729
 ipni_surname: Buchanan
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:47:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16656-1), [Wikidata](https://www.wikidata.org/wiki/Q6223729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16656-1) LSID 16656-1, [Wikidata](https://www.wikidata.org/wiki/Q6223729) QID Q6223729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

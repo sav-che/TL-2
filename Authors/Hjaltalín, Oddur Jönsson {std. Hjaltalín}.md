@@ -6,7 +6,7 @@ tl2_surname: Hjaltalín
 tl2_forenames: Oddur Jönsson
 tl2_name_abbrev: Hjaltalín
 tl2_dates: 1782-1840
-tl2_page_id: 33068459
+tl2_bhl_page_id: 33068459
 author_lsid: 3975-1
 wikidata_id: Q21515865
 ipni_surname: Hjaltalín
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3975-1), [Wikidata](https://www.wikidata.org/wiki/Q21515865). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3975-1) LSID 3975-1, [Wikidata](https://www.wikidata.org/wiki/Q21515865) QID Q21515865
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

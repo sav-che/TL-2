@@ -6,7 +6,7 @@ tl2_surname: Kamerling
 tl2_forenames: Zeno
 tl2_name_abbrev: Kamerling
 tl2_dates: 1872-?
-tl2_page_id: 33068734
+tl2_bhl_page_id: 33068734
 author_lsid: 4626-1
 wikidata_id: Q21517249
 ipni_surname: Kamerling
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4626-1), [Wikidata](https://www.wikidata.org/wiki/Q21517249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4626-1) LSID 4626-1, [Wikidata](https://www.wikidata.org/wiki/Q21517249) QID Q21517249
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Masters
 tl2_forenames: Maxwell Tylden
 tl2_name_abbrev: Mast.
 tl2_dates: 1833-1907
-tl2_page_id: 33355450
+tl2_bhl_page_id: 33355450
 author_lsid: 6207-1
 wikidata_id: Q787355
 ipni_surname: Masters
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33355450) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6207-1), [Wikidata](https://www.wikidata.org/wiki/Q787355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6207-1) LSID 6207-1, [Wikidata](https://www.wikidata.org/wiki/Q787355) QID Q787355
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kralik
 tl2_forenames: Jean-Louis
 tl2_name_abbrev: Kral.
 tl2_dates: 1813-1892
-tl2_page_id: 33068903
+tl2_bhl_page_id: 33068903
 author_lsid: 5019-1
 wikidata_id: Q5928562
 ipni_surname: Kralik
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33068903) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5019-1), [Wikidata](https://www.wikidata.org/wiki/Q5928562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5019-1) LSID 5019-1, [Wikidata](https://www.wikidata.org/wiki/Q5928562) QID Q5928562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

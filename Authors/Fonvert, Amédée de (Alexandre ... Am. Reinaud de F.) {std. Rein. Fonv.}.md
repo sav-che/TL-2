@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0203
 tl2_volume: suppl7
 tl2_page_printed: 307
 tl2_surname: Fonvert
-tl2_forenames: Amédée de [Alexandre Jean Baptiste Am. Reinaud de Fonvert]
+tl2_forenames: Amédée de (Alexandre Jean Baptiste Am. Reinaud de Fonvert)
 tl2_name_abbrev: Rein. Fonv.
 tl2_dates: 1797-1872
-tl2_page_id: 33259811
+tl2_bhl_page_id: 33259811
 author_lsid: 8264-1
 wikidata_id: Q21607090
 ipni_surname: Reinaud de Fonvert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33259811) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/8264-1), [Wikidata](https://www.wikidata.org/wiki/Q21607090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8264-1) LSID 8264-1, [Wikidata](https://www.wikidata.org/wiki/Q21607090) QID Q21607090
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

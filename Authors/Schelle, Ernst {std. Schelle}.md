@@ -6,7 +6,7 @@ tl2_surname: Schelle
 tl2_forenames: Ernst
 tl2_name_abbrev: Schelle
 tl2_dates: 1864-1929
-tl2_page_id: 33333264
+tl2_bhl_page_id: 33333264
 author_lsid: 9041-1
 wikidata_id: Q4522680
 ipni_surname: Schelle
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9041-1), [Wikidata](https://www.wikidata.org/wiki/Q4522680). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9041-1) LSID 9041-1, [Wikidata](https://www.wikidata.org/wiki/Q4522680) QID Q4522680
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

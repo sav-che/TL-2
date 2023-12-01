@@ -6,7 +6,7 @@ tl2_surname: Sperlich
 tl2_forenames: Adolf
 tl2_name_abbrev: Sperlich
 tl2_dates: 1879-1963
-tl2_page_id: 33333926
+tl2_bhl_page_id: 33333926
 author_lsid: 9962-1
 wikidata_id: Q21609281
 ipni_surname: Sperlich
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9962-1), [Wikidata](https://www.wikidata.org/wiki/Q21609281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9962-1) LSID 9962-1, [Wikidata](https://www.wikidata.org/wiki/Q21609281) QID Q21609281
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

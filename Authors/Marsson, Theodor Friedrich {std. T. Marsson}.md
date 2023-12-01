@@ -6,7 +6,7 @@ tl2_surname: Marsson
 tl2_forenames: Theodor Friedrich
 tl2_name_abbrev: T. Marsson
 tl2_dates: 1816-1892
-tl2_page_id: 33355399
+tl2_bhl_page_id: 33355399
 author_lsid: 6143-1
 wikidata_id: Q96748
 ipni_surname: Marsson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33355399) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6143-1), [Wikidata](https://www.wikidata.org/wiki/Q96748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6143-1) LSID 6143-1, [Wikidata](https://www.wikidata.org/wiki/Q96748) QID Q96748
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

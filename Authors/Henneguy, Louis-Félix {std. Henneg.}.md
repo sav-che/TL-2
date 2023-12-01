@@ -6,7 +6,7 @@ tl2_surname: Henneguy
 tl2_forenames: Louis-Félix
 tl2_name_abbrev: Henneg.
 tl2_dates: 1850-1928
-tl2_page_id: 33068399
+tl2_bhl_page_id: 33068399
 author_lsid: 29507-1
 wikidata_id: Q55045295
 ipni_surname: Henneguy
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/29507-1), [Wikidata](https://www.wikidata.org/wiki/Q55045295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29507-1) LSID 29507-1, [Wikidata](https://www.wikidata.org/wiki/Q55045295) QID Q55045295
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

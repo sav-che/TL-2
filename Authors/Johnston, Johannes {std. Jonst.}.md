@@ -6,7 +6,7 @@ tl2_surname: Johnston
 tl2_forenames: Johannes
 tl2_name_abbrev: Jonst.
 tl2_dates: 1603-1675
-tl2_page_id: 33068702
+tl2_bhl_page_id: 33068702
 author_lsid: 12586-1
 wikidata_id: Q1700641
 ipni_surname: Jonston
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12586-1), [Wikidata](https://www.wikidata.org/wiki/Q1700641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12586-1) LSID 12586-1, [Wikidata](https://www.wikidata.org/wiki/Q1700641) QID Q1700641
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

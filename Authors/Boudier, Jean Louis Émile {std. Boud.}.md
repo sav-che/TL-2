@@ -6,7 +6,7 @@ tl2_surname: Boudier
 tl2_forenames: Jean Louis Émile
 tl2_name_abbrev: Boud.
 tl2_dates: 1828-1920
-tl2_page_id: 33120421
+tl2_bhl_page_id: 33120421
 author_lsid: 1019-1
 wikidata_id: Q374684
 ipni_surname: Boudier
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33120421) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1019-1), [Wikidata](https://www.wikidata.org/wiki/Q374684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1019-1) LSID 1019-1, [Wikidata](https://www.wikidata.org/wiki/Q374684) QID Q374684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boudier, (Jean-Louis) Emile {std. Boud.} (Suppl.)|second entry]] for this author
 

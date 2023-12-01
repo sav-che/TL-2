@@ -6,7 +6,7 @@ tl2_surname: Liou
 tl2_forenames: Tchen-ngo
 tl2_name_abbrev: Liou
 tl2_dates: fl. 1930
-tl2_page_id: 33355202
+tl2_bhl_page_id: 33355202
 author_lsid: 5643-1
 wikidata_id: Q10897570
 ipni_surname: Liou
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33355202) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5643-1), [Wikidata](https://www.wikidata.org/wiki/Q10897570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5643-1) LSID 5643-1, [Wikidata](https://www.wikidata.org/wiki/Q10897570) QID Q10897570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

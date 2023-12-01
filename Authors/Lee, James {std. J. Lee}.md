@@ -6,7 +6,7 @@ tl2_surname: Lee
 tl2_forenames: James
 tl2_name_abbrev: J. Lee
 tl2_dates: 1715-1795
-tl2_page_id: 33069051
+tl2_bhl_page_id: 33069051
 author_lsid: 5400-1
 wikidata_id: Q3161222
 ipni_surname: Lee
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33069051) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5400-1), [Wikidata](https://www.wikidata.org/wiki/Q3161222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5400-1) LSID 5400-1, [Wikidata](https://www.wikidata.org/wiki/Q3161222) QID Q3161222
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

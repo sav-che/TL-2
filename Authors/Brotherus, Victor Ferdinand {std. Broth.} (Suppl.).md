@@ -6,7 +6,7 @@ tl2_surname: Brotherus
 tl2_forenames: Victor Ferdinand
 tl2_name_abbrev: Broth.
 tl2_dates: 1849-1929
-tl2_page_id: 33266431
+tl2_bhl_page_id: 33266431
 author_lsid: 1180-1
 wikidata_id: Q4348569
 ipni_surname: Brotherus
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33266431) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1180-1), [Wikidata](https://www.wikidata.org/wiki/Q4348569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1180-1) LSID 1180-1, [Wikidata](https://www.wikidata.org/wiki/Q4348569) QID Q4348569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brotherus, Viktor Ferdinand {std. Broth.}|first entry]] for this author
 

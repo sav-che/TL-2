@@ -6,7 +6,7 @@ tl2_surname: Jeffs
 tl2_forenames: Royal Edgar
 tl2_name_abbrev: Jeffs
 tl2_dates: 1879-1933
-tl2_page_id: 33068676
+tl2_bhl_page_id: 33068676
 author_lsid: 4458-1
 wikidata_id: Q21516978
 ipni_surname: Jeffs
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4458-1), [Wikidata](https://www.wikidata.org/wiki/Q21516978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4458-1) LSID 4458-1, [Wikidata](https://www.wikidata.org/wiki/Q21516978) QID Q21516978
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

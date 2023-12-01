@@ -6,7 +6,7 @@ tl2_surname: Henderson
 tl2_forenames: Nellie Frater
 tl2_name_abbrev: N. Henderson
 tl2_dates: 1885-1952
-tl2_page_id: 33068396
+tl2_bhl_page_id: 33068396
 author_lsid: 3833-1
 wikidata_id: Q21515698
 ipni_surname: Henderson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3833-1), [Wikidata](https://www.wikidata.org/wiki/Q21515698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3833-1) LSID 3833-1, [Wikidata](https://www.wikidata.org/wiki/Q21515698) QID Q21515698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

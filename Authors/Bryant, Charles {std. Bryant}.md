@@ -6,7 +6,7 @@ tl2_surname: Bryant
 tl2_forenames: Charles
 tl2_name_abbrev: Bryant
 tl2_dates: x-1799
-tl2_page_id: 33120516
+tl2_bhl_page_id: 33120516
 author_lsid: 1235-1
 wikidata_id: Q21506593
 ipni_surname: Bryant
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1235-1), [Wikidata](https://www.wikidata.org/wiki/Q21506593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1235-1) LSID 1235-1, [Wikidata](https://www.wikidata.org/wiki/Q21506593) QID Q21506593
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

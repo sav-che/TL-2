@@ -6,7 +6,7 @@ tl2_surname: Schwaighofer
 tl2_forenames: Anton
 tl2_name_abbrev: Schwaighofer
 tl2_dates: fl. 1892
-tl2_page_id: 33333558
+tl2_bhl_page_id: 33333558
 author_lsid: 9348-1
 wikidata_id: Q36510280
 ipni_surname: Schwaighofer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33333558) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9348-1), [Wikidata](https://www.wikidata.org/wiki/Q36510280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9348-1) LSID 9348-1, [Wikidata](https://www.wikidata.org/wiki/Q36510280) QID Q36510280
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

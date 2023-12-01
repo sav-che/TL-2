@@ -6,7 +6,7 @@ tl2_surname: Walther
 tl2_forenames: Augustin Friedrich
 tl2_name_abbrev: Au. Walther
 tl2_dates: 1688-1746
-tl2_page_id: 33066391
+tl2_bhl_page_id: 33066391
 author_lsid: 11370-1
 wikidata_id: Q85511
 ipni_surname: Walther
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33066391) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11370-1), [Wikidata](https://www.wikidata.org/wiki/Q85511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11370-1) LSID 11370-1, [Wikidata](https://www.wikidata.org/wiki/Q85511) QID Q85511
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

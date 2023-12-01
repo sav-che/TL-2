@@ -6,7 +6,7 @@ tl2_surname: Salisbury
 tl2_forenames: William
 tl2_name_abbrev: W. Salisb.
 tl2_dates: x-1823
-tl2_page_id: 33333177
+tl2_bhl_page_id: 33333177
 author_lsid: 8843-1
 wikidata_id: Q18811409
 ipni_surname: Salisbury
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33333177) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8843-1), [Wikidata](https://www.wikidata.org/wiki/Q18811409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8843-1) LSID 8843-1, [Wikidata](https://www.wikidata.org/wiki/Q18811409) QID Q18811409
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0081
 tl2_volume: vol7
 tl2_page_printed: 71
 tl2_surname: Warion
-tl2_forenames: [Jean Pierre] Adrien
+tl2_forenames: (Jean Pierre) Adrien
 tl2_name_abbrev: Warion
 tl2_dates: 1837-1880
-tl2_page_id: 33066411
+tl2_bhl_page_id: 33066411
 author_lsid: 12993-1
 wikidata_id: Q21612240
 ipni_surname: Warion
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12993-1), [Wikidata](https://www.wikidata.org/wiki/Q21612240). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12993-1) LSID 12993-1, [Wikidata](https://www.wikidata.org/wiki/Q21612240) QID Q21612240
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

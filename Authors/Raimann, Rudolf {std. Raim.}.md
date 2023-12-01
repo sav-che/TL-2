@@ -6,7 +6,7 @@ tl2_surname: Raimann
 tl2_forenames: Rudolf
 tl2_name_abbrev: Raim.
 tl2_dates: 1863-1896
-tl2_page_id: 33190035
+tl2_bhl_page_id: 33190035
 author_lsid: 8104-1
 wikidata_id: Q19361525
 ipni_surname: Raimann
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33190035) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8104-1), [Wikidata](https://www.wikidata.org/wiki/Q19361525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8104-1) LSID 8104-1, [Wikidata](https://www.wikidata.org/wiki/Q19361525) QID Q19361525
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

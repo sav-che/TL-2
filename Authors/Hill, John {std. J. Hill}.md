@@ -6,7 +6,7 @@ tl2_surname: Hill
 tl2_forenames: John
 tl2_name_abbrev: J. Hill
 tl2_dates: 1716-1775
-tl2_page_id: 33068440
+tl2_bhl_page_id: 33068440
 author_lsid: 3946-1
 wikidata_id: Q510400
 ipni_surname: Hill
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:40:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33068440) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3946-1), [Wikidata](https://www.wikidata.org/wiki/Q510400). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3946-1) LSID 3946-1, [Wikidata](https://www.wikidata.org/wiki/Q510400) QID Q510400
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Ghini
 tl2_forenames: Luca
 tl2_name_abbrev: Ghini
 tl2_dates: 1490-1556
-tl2_page_id: 33121070
+tl2_bhl_page_id: 33121070
 author_lsid: 3122-1
 wikidata_id: Q613632
 ipni_surname: Ghini
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3122-1), [Wikidata](https://www.wikidata.org/wiki/Q613632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3122-1) LSID 3122-1, [Wikidata](https://www.wikidata.org/wiki/Q613632) QID Q613632
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

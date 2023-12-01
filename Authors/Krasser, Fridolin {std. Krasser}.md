@@ -6,7 +6,7 @@ tl2_surname: Krasser
 tl2_forenames: Fridolin
 tl2_name_abbrev: Krasser
 tl2_dates: 1863-1922
-tl2_page_id: 33068905
+tl2_bhl_page_id: 33068905
 author_lsid: 5033-1
 wikidata_id: Q88768
 ipni_surname: Krasser
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:41:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5033-1), [Wikidata](https://www.wikidata.org/wiki/Q88768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5033-1) LSID 5033-1, [Wikidata](https://www.wikidata.org/wiki/Q88768) QID Q88768
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

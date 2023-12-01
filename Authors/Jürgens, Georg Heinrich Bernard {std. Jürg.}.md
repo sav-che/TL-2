@@ -6,7 +6,7 @@ tl2_surname: Jürgens
 tl2_forenames: Georg Heinrich Bernard
 tl2_name_abbrev: Jürg.
 tl2_dates: 1771-1846
-tl2_page_id: 33068709
+tl2_bhl_page_id: 33068709
 author_lsid: 4570-1
 wikidata_id: Q21517177
 ipni_surname: Jürgens
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4570-1), [Wikidata](https://www.wikidata.org/wiki/Q21517177). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4570-1) LSID 4570-1, [Wikidata](https://www.wikidata.org/wiki/Q21517177) QID Q21517177
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

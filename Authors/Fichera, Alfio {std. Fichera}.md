@@ -6,7 +6,7 @@ tl2_surname: Fichera
 tl2_forenames: Alfio
 tl2_name_abbrev: Fichera
 tl2_dates: fl. 1895-1909?
-tl2_page_id: 33259679
+tl2_bhl_page_id: 33259679
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259679) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

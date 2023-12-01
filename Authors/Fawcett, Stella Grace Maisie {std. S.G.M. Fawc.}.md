@@ -6,7 +6,7 @@ tl2_surname: Fawcett
 tl2_forenames: Stella Grace Maisie
 tl2_name_abbrev: S.G.M. Fawc.
 tl2_dates: 1912-1988
-tl2_page_id: 33259578
+tl2_bhl_page_id: 33259578
 author_lsid: 18685-1
 wikidata_id: Q5103991
 ipni_surname: Fawcett
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33259578) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18685-1), [Wikidata](https://www.wikidata.org/wiki/Q5103991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18685-1) LSID 18685-1, [Wikidata](https://www.wikidata.org/wiki/Q5103991) QID Q5103991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

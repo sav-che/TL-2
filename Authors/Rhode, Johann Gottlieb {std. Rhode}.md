@@ -6,7 +6,7 @@ tl2_surname: Rhode
 tl2_forenames: Johann Gottlieb
 tl2_name_abbrev: Rhode
 tl2_dates: 1762-1827
-tl2_page_id: 33190226
+tl2_bhl_page_id: 33190226
 author_lsid: 8335-1
 wikidata_id: Q21607154
 ipni_surname: Rhode
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8335-1), [Wikidata](https://www.wikidata.org/wiki/Q21607154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8335-1) LSID 8335-1, [Wikidata](https://www.wikidata.org/wiki/Q21607154) QID Q21607154
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

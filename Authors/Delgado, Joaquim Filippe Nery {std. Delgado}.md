@@ -6,7 +6,7 @@ tl2_surname: Delgado
 tl2_forenames: Joaquim Filippe Nery
 tl2_name_abbrev: Delgado
 tl2_dates: 1835-1908
-tl2_page_id: 33120747
+tl2_bhl_page_id: 33120747
 author_lsid: 2102-1
 wikidata_id: Q10307166
 ipni_surname: Delgado
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2102-1), [Wikidata](https://www.wikidata.org/wiki/Q10307166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2102-1) LSID 2102-1, [Wikidata](https://www.wikidata.org/wiki/Q10307166) QID Q10307166
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

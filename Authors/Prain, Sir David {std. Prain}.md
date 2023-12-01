@@ -6,7 +6,7 @@ tl2_surname: Prain
 tl2_forenames: Sir David
 tl2_name_abbrev: Prain
 tl2_dates: 1857-1944
-tl2_page_id: 33189847
+tl2_bhl_page_id: 33189847
 author_lsid: 7925-1
 wikidata_id: Q689862
 ipni_surname: Prain
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:33:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7925-1), [Wikidata](https://www.wikidata.org/wiki/Q689862). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7925-1) LSID 7925-1, [Wikidata](https://www.wikidata.org/wiki/Q689862) QID Q689862
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

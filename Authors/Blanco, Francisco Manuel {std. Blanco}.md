@@ -6,7 +6,7 @@ tl2_surname: Blanco
 tl2_forenames: Francisco Manuel
 tl2_name_abbrev: Blanco
 tl2_dates: 1778-1845
-tl2_page_id: 33120360
+tl2_bhl_page_id: 33120360
 author_lsid: 848-1
 wikidata_id: Q721827
 ipni_surname: Blanco
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:35:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33120360) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/848-1), [Wikidata](https://www.wikidata.org/wiki/Q721827). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/848-1) LSID 848-1, [Wikidata](https://www.wikidata.org/wiki/Q721827) QID Q721827
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

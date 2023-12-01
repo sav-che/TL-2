@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0053
 tl2_volume: suppl2
 tl2_page_printed: 58
 tl2_surname: Beilschmied
-tl2_forenames: Carl [Karl] Traugott
+tl2_forenames: Carl (Karl) Traugott
 tl2_name_abbrev: Beilschm.
 tl2_dates: 1793-1848
-tl2_page_id: 33265255
+tl2_bhl_page_id: 33265255
 author_lsid: 15887-1
 wikidata_id: Q3658812
 ipni_surname: Beilschmied
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33265255) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/15887-1), [Wikidata](https://www.wikidata.org/wiki/Q3658812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15887-1) LSID 15887-1, [Wikidata](https://www.wikidata.org/wiki/Q3658812) QID Q3658812
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beilschmied, Carl (Karl) Traugott {std. Beilschm.}|first entry]] for this author
 

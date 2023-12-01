@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0288
 tl2_volume: suppl8
 tl2_page_printed: 399
 tl2_surname: Grisebach
-tl2_forenames: August Heinrich Rudolf [Rudolph]
+tl2_forenames: August Heinrich Rudolf (Rudolph)
 tl2_name_abbrev: Griseb.
 tl2_dates: 1814-1879
-tl2_page_id: 33258877
+tl2_bhl_page_id: 33258877
 author_lsid: 3397-1
 wikidata_id: Q76351
 ipni_surname: Grisebach
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33258877) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3397-1), [Wikidata](https://www.wikidata.org/wiki/Q76351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3397-1) LSID 3397-1, [Wikidata](https://www.wikidata.org/wiki/Q76351) QID Q76351
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Grisebach, August Heinrich Rudolph {std. Griseb.}|first entry]] for this author
 

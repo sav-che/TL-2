@@ -6,7 +6,7 @@ tl2_surname: De Moor
 tl2_forenames: V.P.G.
 tl2_name_abbrev: De Moor
 tl2_dates: 1827-1895
-tl2_page_id: 33259244
+tl2_bhl_page_id: 33259244
 author_lsid: 2122-1
 wikidata_id: Q3557502
 ipni_surname: De Moor
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33259244) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2122-1), [Wikidata](https://www.wikidata.org/wiki/Q3557502). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2122-1) LSID 2122-1, [Wikidata](https://www.wikidata.org/wiki/Q3557502) QID Q3557502
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[De Moor, V. P. G. {std. De Moor}|first entry]] for this author
 

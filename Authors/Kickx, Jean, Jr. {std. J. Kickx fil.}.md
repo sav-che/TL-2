@@ -6,7 +6,7 @@ tl2_surname: Kickx
 tl2_forenames: Jean, Jr.
 tl2_name_abbrev: J. Kickx fil.
 tl2_dates: 1803-1864
-tl2_page_id: 33068776
+tl2_bhl_page_id: 33068776
 author_lsid: 12605-1
 wikidata_id: Q1685616
 ipni_surname: Kickx
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:27:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12605-1), [Wikidata](https://www.wikidata.org/wiki/Q1685616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12605-1) LSID 12605-1, [Wikidata](https://www.wikidata.org/wiki/Q1685616) QID Q1685616
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

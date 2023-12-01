@@ -6,7 +6,7 @@ tl2_surname: Stuxberg
 tl2_forenames: Anton Julius
 tl2_name_abbrev: Stuxberg
 tl2_dates: 1849-1902
-tl2_page_id: 33212116
+tl2_bhl_page_id: 33212116
 author_lsid: 10260-1
 wikidata_id: Q6193998
 ipni_surname: Stuxberg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33212116) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10260-1), [Wikidata](https://www.wikidata.org/wiki/Q6193998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10260-1) LSID 10260-1, [Wikidata](https://www.wikidata.org/wiki/Q6193998) QID Q6193998
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

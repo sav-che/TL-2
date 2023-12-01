@@ -6,7 +6,7 @@ tl2_surname: Reinecke
 tl2_forenames: Karl L.
 tl2_name_abbrev: K. Reinecke
 tl2_dates: 1854-1934
-tl2_page_id: 33190171
+tl2_bhl_page_id: 33190171
 author_lsid: 8267-1
 wikidata_id: Q21607092
 ipni_surname: Reinecke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8267-1), [Wikidata](https://www.wikidata.org/wiki/Q21607092). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8267-1) LSID 8267-1, [Wikidata](https://www.wikidata.org/wiki/Q21607092) QID Q21607092
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

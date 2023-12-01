@@ -6,7 +6,7 @@ tl2_surname: Polscher
 tl2_forenames: W.
 tl2_name_abbrev: Polscher
 tl2_dates: 1831-1861
-tl2_page_id: 33189803
+tl2_bhl_page_id: 33189803
 author_lsid: 7821-1
 wikidata_id: Q21523090
 ipni_surname: Polscher
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33189803) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7821-1), [Wikidata](https://www.wikidata.org/wiki/Q21523090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7821-1) LSID 7821-1, [Wikidata](https://www.wikidata.org/wiki/Q21523090) QID Q21523090
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

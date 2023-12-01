@@ -6,7 +6,7 @@ tl2_surname: Butters
 tl2_forenames: Frederick King
 tl2_name_abbrev: Butters
 tl2_dates: 1878-1945
-tl2_page_id: 33266594
+tl2_bhl_page_id: 33266594
 author_lsid: 13203-1
 wikidata_id: Q21388450
 ipni_surname: Butters
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:50:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33266594) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/13203-1), [Wikidata](https://www.wikidata.org/wiki/Q21388450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13203-1) LSID 13203-1, [Wikidata](https://www.wikidata.org/wiki/Q21388450) QID Q21388450
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

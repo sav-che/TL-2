@@ -6,7 +6,7 @@ tl2_surname: Norlindh
 tl2_forenames: Nils Tycho
 tl2_name_abbrev: Norl.
 tl2_dates: 1906-x
-tl2_page_id: 33355857
+tl2_bhl_page_id: 33355857
 author_lsid: 7033-1
 wikidata_id: Q6016999
 ipni_surname: Norlindh
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7033-1), [Wikidata](https://www.wikidata.org/wiki/Q6016999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7033-1) LSID 7033-1, [Wikidata](https://www.wikidata.org/wiki/Q6016999) QID Q6016999
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

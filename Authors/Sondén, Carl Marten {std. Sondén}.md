@@ -6,7 +6,7 @@ tl2_surname: Sondén
 tl2_forenames: Carl Marten
 tl2_name_abbrev: Sondén
 tl2_dates: 1846-1913
-tl2_page_id: 33333880
+tl2_bhl_page_id: 33333880
 author_lsid: 9889-1
 wikidata_id: Q6183770
 ipni_surname: Sondén
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9889-1), [Wikidata](https://www.wikidata.org/wiki/Q6183770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9889-1) LSID 9889-1, [Wikidata](https://www.wikidata.org/wiki/Q6183770) QID Q6183770
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Palmer
 tl2_forenames: Charles Mervin
 tl2_name_abbrev: C. Palmer
 tl2_dates: 1900-x
-tl2_page_id: 33189461
+tl2_bhl_page_id: 33189461
 author_lsid: 7280-1
 wikidata_id: Q21522569
 ipni_surname: Palmer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33189461) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7280-1), [Wikidata](https://www.wikidata.org/wiki/Q21522569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7280-1) LSID 7280-1, [Wikidata](https://www.wikidata.org/wiki/Q21522569) QID Q21522569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Delile
 tl2_forenames: Alire (Raffeneau)
 tl2_name_abbrev: Delile
 tl2_dates: 1778-1850
-tl2_page_id: 33120747
+tl2_bhl_page_id: 33120747
 author_lsid: 17907-1
 wikidata_id: Q1340280
 ipni_surname: Delile
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:29:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17907-1), [Wikidata](https://www.wikidata.org/wiki/Q1340280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17907-1) LSID 17907-1, [Wikidata](https://www.wikidata.org/wiki/Q1340280) QID Q1340280
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Delile (also Raffeneau Delile), Alire {std. Delile} (Suppl.)|second entry]] for this author
 

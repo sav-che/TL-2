@@ -6,7 +6,7 @@ tl2_surname: Echegaray
 tl2_forenames: Saile
 tl2_name_abbrev: Echegaray
 tl2_dates: fl. 1876
-tl2_page_id: 33260239
+tl2_bhl_page_id: 33260239
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33260239) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

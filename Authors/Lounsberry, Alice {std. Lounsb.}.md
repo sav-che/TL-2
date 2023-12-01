@@ -6,7 +6,7 @@ tl2_surname: Lounsberry
 tl2_forenames: Alice
 tl2_name_abbrev: Lounsb.
 tl2_dates: 1872-1949
-tl2_page_id: 33355260
+tl2_bhl_page_id: 33355260
 author_lsid: 5773-1
 wikidata_id: Q4725973
 ipni_surname: Lounsberry
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5773-1), [Wikidata](https://www.wikidata.org/wiki/Q4725973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5773-1) LSID 5773-1, [Wikidata](https://www.wikidata.org/wiki/Q4725973) QID Q4725973
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

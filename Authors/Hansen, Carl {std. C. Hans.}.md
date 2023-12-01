@@ -6,7 +6,7 @@ tl2_surname: Hansen
 tl2_forenames: Carl
 tl2_name_abbrev: C. Hans.
 tl2_dates: 1848-1903
-tl2_page_id: 33068288
+tl2_bhl_page_id: 33068288
 author_lsid: 3627-1
 wikidata_id: Q21514630
 ipni_surname: Hansen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3627-1), [Wikidata](https://www.wikidata.org/wiki/Q21514630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3627-1) LSID 3627-1, [Wikidata](https://www.wikidata.org/wiki/Q21514630) QID Q21514630
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

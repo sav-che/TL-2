@@ -6,7 +6,7 @@ tl2_surname: Mayer
 tl2_forenames: Johann Christoph Andreas
 tl2_name_abbrev: J.C. Mayer
 tl2_dates: 1747-1801
-tl2_page_id: 33355474
+tl2_bhl_page_id: 33355474
 author_lsid: 6276-1
 wikidata_id: Q216295
 ipni_surname: Mayer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33355474) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6276-1), [Wikidata](https://www.wikidata.org/wiki/Q216295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6276-1) LSID 6276-1, [Wikidata](https://www.wikidata.org/wiki/Q216295) QID Q216295
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

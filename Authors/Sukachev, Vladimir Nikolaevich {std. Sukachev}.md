@@ -6,7 +6,7 @@ tl2_surname: Sukachev
 tl2_forenames: Vladimir Nikolaevich
 tl2_name_abbrev: Sukachev
 tl2_dates: 1880-1967
-tl2_page_id: 33212127
+tl2_bhl_page_id: 33212127
 author_lsid: 10286-1
 wikidata_id: Q386698
 ipni_surname: Sukaczev
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10286-1), [Wikidata](https://www.wikidata.org/wiki/Q386698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10286-1) LSID 10286-1, [Wikidata](https://www.wikidata.org/wiki/Q386698) QID Q386698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

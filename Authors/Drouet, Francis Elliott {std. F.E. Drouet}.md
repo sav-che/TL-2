@@ -6,7 +6,7 @@ tl2_surname: Drouet
 tl2_forenames: Francis Elliott
 tl2_name_abbrev: F.E. Drouet
 tl2_dates: 1907-1982
-tl2_page_id: 33260088
+tl2_bhl_page_id: 33260088
 author_lsid: 32980-1
 wikidata_id: Q3081418
 ipni_surname: Drouet
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/32980-1), [Wikidata](https://www.wikidata.org/wiki/Q3081418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32980-1) LSID 32980-1, [Wikidata](https://www.wikidata.org/wiki/Q3081418) QID Q3081418
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

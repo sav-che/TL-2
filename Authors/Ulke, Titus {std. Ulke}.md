@@ -6,7 +6,7 @@ tl2_surname: Ulke
 tl2_forenames: Titus
 tl2_name_abbrev: Ulke
 tl2_dates: 1866-1961
-tl2_page_id: 33212625
+tl2_bhl_page_id: 33212625
 author_lsid: 10972-1
 wikidata_id: Q21611224
 ipni_surname: Ulke
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33212625) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10972-1), [Wikidata](https://www.wikidata.org/wiki/Q21611224). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10972-1) LSID 10972-1, [Wikidata](https://www.wikidata.org/wiki/Q21611224) QID Q21611224
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

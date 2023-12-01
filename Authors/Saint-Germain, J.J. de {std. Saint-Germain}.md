@@ -6,7 +6,7 @@ tl2_surname: Saint-Germain
 tl2_forenames: J.J. de
 tl2_name_abbrev: Saint-Germain
 tl2_dates: fl. 1784
-tl2_page_id: 33190535
+tl2_bhl_page_id: 33190535
 author_lsid: 8826-1
 wikidata_id: Q36598425
 ipni_surname: Saint-Germain
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8826-1), [Wikidata](https://www.wikidata.org/wiki/Q36598425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8826-1) LSID 8826-1, [Wikidata](https://www.wikidata.org/wiki/Q36598425) QID Q36598425
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

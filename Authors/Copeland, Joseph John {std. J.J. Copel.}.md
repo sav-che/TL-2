@@ -6,7 +6,7 @@ tl2_surname: Copeland
 tl2_forenames: Joseph John
 tl2_name_abbrev: J.J. Copel.
 tl2_dates: 1907-x
-tl2_page_id: 33266026
+tl2_bhl_page_id: 33266026
 author_lsid: 32805-1
 wikidata_id: Q21509028
 ipni_surname: Copeland
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33266026) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32805-1), [Wikidata](https://www.wikidata.org/wiki/Q21509028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32805-1) LSID 32805-1, [Wikidata](https://www.wikidata.org/wiki/Q21509028) QID Q21509028
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

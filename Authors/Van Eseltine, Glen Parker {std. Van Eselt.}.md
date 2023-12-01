@@ -6,7 +6,7 @@ tl2_surname: Van Eseltine
 tl2_forenames: Glen Parker
 tl2_name_abbrev: Van Eselt.
 tl2_dates: 1888-1938
-tl2_page_id: 33212706
+tl2_bhl_page_id: 33212706
 author_lsid: 2573-1
 wikidata_id: Q4103245
 ipni_surname: Van Eseltine
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33212706) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/2573-1), [Wikidata](https://www.wikidata.org/wiki/Q4103245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2573-1) LSID 2573-1, [Wikidata](https://www.wikidata.org/wiki/Q4103245) QID Q4103245
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

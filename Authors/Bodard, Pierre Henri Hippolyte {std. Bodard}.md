@@ -6,7 +6,7 @@ tl2_surname: Bodard
 tl2_forenames: Pierre Henri Hippolyte
 tl2_name_abbrev: Bodard
 tl2_dates: fl. 1798-1810
-tl2_page_id: 33265439
+tl2_bhl_page_id: 33265439
 author_lsid: 889-1
 wikidata_id: Q21390046
 ipni_surname: Bodard
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33265439) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/889-1), [Wikidata](https://www.wikidata.org/wiki/Q21390046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/889-1) LSID 889-1, [Wikidata](https://www.wikidata.org/wiki/Q21390046) QID Q21390046
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

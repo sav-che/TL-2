@@ -6,7 +6,7 @@ tl2_surname: Sahni
 tl2_forenames: Birbal
 tl2_name_abbrev: Sahni
 tl2_dates: 1891-1949
-tl2_page_id: 33190530
+tl2_bhl_page_id: 33190530
 author_lsid: 8815-1
 wikidata_id: Q2688170
 ipni_surname: Sahni
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1059](https://www.biodiversitylibrary.org/page/33190530) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8815-1), [Wikidata](https://www.wikidata.org/wiki/Q2688170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8815-1) LSID 8815-1, [Wikidata](https://www.wikidata.org/wiki/Q2688170) QID Q2688170
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

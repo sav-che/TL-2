@@ -6,7 +6,7 @@ tl2_surname: Re
 tl2_forenames: Giovanni Francesco
 tl2_name_abbrev: Re
 tl2_dates: 1773-1833
-tl2_page_id: 33190082
+tl2_bhl_page_id: 33190082
 author_lsid: 8200-1
 wikidata_id: Q5687402
 ipni_surname: Re
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8200-1), [Wikidata](https://www.wikidata.org/wiki/Q5687402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8200-1) LSID 8200-1, [Wikidata](https://www.wikidata.org/wiki/Q5687402) QID Q5687402
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

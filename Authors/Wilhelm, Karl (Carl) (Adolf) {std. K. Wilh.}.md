@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0273
 tl2_volume: vol7
 tl2_page_printed: 294
 tl2_surname: Wilhelm
-tl2_forenames: Karl [Carl] [Adolf]
+tl2_forenames: Karl (Carl) (Adolf)
 tl2_name_abbrev: K. Wilh.
 tl2_dates: 1848-1933
-tl2_page_id: 33066634
+tl2_bhl_page_id: 33066634
 author_lsid: 13016-1
 wikidata_id: Q6372358
 ipni_surname: Wilhelm
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33066634) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13016-1), [Wikidata](https://www.wikidata.org/wiki/Q6372358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13016-1) LSID 13016-1, [Wikidata](https://www.wikidata.org/wiki/Q6372358) QID Q6372358
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

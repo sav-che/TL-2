@@ -6,7 +6,7 @@ tl2_surname: Johnson
 tl2_forenames: Arthur Monrad
 tl2_name_abbrev: A.M. Johns.
 tl2_dates: 1878-1943
-tl2_page_id: 33068690
+tl2_bhl_page_id: 33068690
 author_lsid: 4507-1
 wikidata_id: Q5706987
 ipni_surname: Johnson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33068690) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4507-1), [Wikidata](https://www.wikidata.org/wiki/Q5706987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4507-1) LSID 4507-1, [Wikidata](https://www.wikidata.org/wiki/Q5706987) QID Q5706987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

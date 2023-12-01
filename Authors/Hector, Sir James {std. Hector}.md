@@ -6,7 +6,7 @@ tl2_surname: Hector
 tl2_forenames: Sir James
 tl2_name_abbrev: Hector
 tl2_dates: 1834-1907
-tl2_page_id: 33068360
+tl2_bhl_page_id: 33068360
 author_lsid: 3765-1
 wikidata_id: Q675726
 ipni_surname: Hector
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33068360) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3765-1), [Wikidata](https://www.wikidata.org/wiki/Q675726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3765-1) LSID 3765-1, [Wikidata](https://www.wikidata.org/wiki/Q675726) QID Q675726
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

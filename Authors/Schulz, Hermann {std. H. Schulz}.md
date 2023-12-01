@@ -6,7 +6,7 @@ tl2_surname: Schulz
 tl2_forenames: Hermann
 tl2_name_abbrev: H. Schulz
 tl2_dates: 1882-1970
-tl2_page_id: 33333526
+tl2_bhl_page_id: 33333526
 author_lsid: 9309-1
 wikidata_id: Q21608486
 ipni_surname: Schulz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9309-1), [Wikidata](https://www.wikidata.org/wiki/Q21608486). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9309-1) LSID 9309-1, [Wikidata](https://www.wikidata.org/wiki/Q21608486) QID Q21608486
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

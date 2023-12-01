@@ -6,7 +6,7 @@ tl2_surname: Puigdullés
 tl2_forenames: Emilio Maffei
 tl2_name_abbrev: Puigd.
 tl2_dates: fl. 1895
-tl2_page_id: 33189895
+tl2_bhl_page_id: 33189895
 author_lsid: 8015-1
 wikidata_id: Q36549027
 ipni_surname: Puigdullés
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33189895) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8015-1), [Wikidata](https://www.wikidata.org/wiki/Q36549027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8015-1) LSID 8015-1, [Wikidata](https://www.wikidata.org/wiki/Q36549027) QID Q36549027
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

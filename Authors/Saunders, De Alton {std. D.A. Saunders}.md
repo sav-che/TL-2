@@ -6,7 +6,7 @@ tl2_surname: Saunders
 tl2_forenames: De Alton
 tl2_name_abbrev: D.A. Saunders
 tl2_dates: 1870-1940
-tl2_page_id: 33333204
+tl2_bhl_page_id: 33333204
 author_lsid: 8952-1
 wikidata_id: Q21607776
 ipni_surname: Saunders
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8952-1), [Wikidata](https://www.wikidata.org/wiki/Q21607776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8952-1) LSID 8952-1, [Wikidata](https://www.wikidata.org/wiki/Q21607776) QID Q21607776
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

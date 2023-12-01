@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol5_0336
 tl2_volume: vol5
 tl2_page_printed: 353
-tl2_surname: Schubert [Szubert]
-tl2_forenames: Michael [Mikael]
+tl2_surname: Schubert (Szubert)
+tl2_forenames: Michael (Mikael)
 tl2_name_abbrev: M. Schub.
 tl2_dates: 1787-1860
-tl2_page_id: 33333492
+tl2_bhl_page_id: 33333492
 author_lsid: 9278-1
 wikidata_id: Q11779272
 ipni_surname: Schubert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33333492) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9278-1), [Wikidata](https://www.wikidata.org/wiki/Q11779272). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9278-1) LSID 9278-1, [Wikidata](https://www.wikidata.org/wiki/Q11779272) QID Q11779272
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

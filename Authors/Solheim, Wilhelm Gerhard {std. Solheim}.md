@@ -6,7 +6,7 @@ tl2_surname: Solheim
 tl2_forenames: Wilhelm Gerhard
 tl2_name_abbrev: Solheim
 tl2_dates: 1898-1978
-tl2_page_id: 33333865
+tl2_bhl_page_id: 33333865
 author_lsid: 9875-1
 wikidata_id: Q4428527
 ipni_surname: Solheim
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33333865) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9875-1), [Wikidata](https://www.wikidata.org/wiki/Q4428527). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9875-1) LSID 9875-1, [Wikidata](https://www.wikidata.org/wiki/Q4428527) QID Q4428527
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

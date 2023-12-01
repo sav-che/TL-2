@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0074
 tl2_volume: vol3
 tl2_page_printed: 121
-tl2_surname: Litvinov [Litwinow]
+tl2_surname: Litvinov (Litwinow)
 tl2_forenames: Dimitri Ivanovich
 tl2_name_abbrev: Litv.
 tl2_dates: 1854-1929
-tl2_page_id: 33355208
+tl2_bhl_page_id: 33355208
 author_lsid: 5663-1
 wikidata_id: Q4263637
 ipni_surname: Litvinov
@@ -25,7 +25,8 @@ ipni_record_modified: 2009-12-15 13:49:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5663-1), [Wikidata](https://www.wikidata.org/wiki/Q4263637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5663-1) LSID 5663-1, [Wikidata](https://www.wikidata.org/wiki/Q4263637) QID Q4263637
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

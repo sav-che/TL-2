@@ -6,7 +6,7 @@ tl2_surname: Lyon
 tl2_forenames: Harold Lloyd
 tl2_name_abbrev: Lyon
 tl2_dates: 1879-1957
-tl2_page_id: 33355290
+tl2_bhl_page_id: 33355290
 author_lsid: 22656-1
 wikidata_id: Q18911234
 ipni_surname: Lyon
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:44:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33355290) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22656-1), [Wikidata](https://www.wikidata.org/wiki/Q18911234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22656-1) LSID 22656-1, [Wikidata](https://www.wikidata.org/wiki/Q18911234) QID Q18911234
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

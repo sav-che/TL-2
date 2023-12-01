@@ -6,7 +6,7 @@ tl2_surname: Seliger
 tl2_forenames: Ignaz
 tl2_name_abbrev: Seliger
 tl2_dates: 1752-1812
-tl2_page_id: 33333637
+tl2_bhl_page_id: 33333637
 author_lsid: 9456-1
 wikidata_id: Q12318106
 ipni_surname: Seliger
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9456-1), [Wikidata](https://www.wikidata.org/wiki/Q12318106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9456-1) LSID 9456-1, [Wikidata](https://www.wikidata.org/wiki/Q12318106) QID Q12318106
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

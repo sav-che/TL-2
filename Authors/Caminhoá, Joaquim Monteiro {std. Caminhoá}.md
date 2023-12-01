@@ -6,7 +6,7 @@ tl2_surname: Caminhoá
 tl2_forenames: Joaquim Monteiro
 tl2_name_abbrev: Caminhoá
 tl2_dates: 1835-?
-tl2_page_id: 33266628
+tl2_bhl_page_id: 33266628
 author_lsid: 1372-1
 wikidata_id: Q10307320
 ipni_surname: Caminhoá
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33266628) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1372-1), [Wikidata](https://www.wikidata.org/wiki/Q10307320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1372-1) LSID 1372-1, [Wikidata](https://www.wikidata.org/wiki/Q10307320) QID Q10307320
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

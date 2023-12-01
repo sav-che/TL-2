@@ -6,27 +6,30 @@ tl2_surname: Bentzel-Sternau
 tl2_forenames: Albert Graf
 tl2_name_abbrev: Bentzel-Sternau
 tl2_dates: 1806-1878
-tl2_page_id: 33265277
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33265277
+author_lsid: 20035030-1
+wikidata_id: Q88811035
+ipni_surname: Bentzel-Sternau
+ipni_forenames: Albert Alexander von
+ipni_standard_form: Bentz.-Stern
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33265277) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20035030-1) LSID 20035030-1, [Wikidata](https://www.wikidata.org/wiki/Q88811035) QID Q88811035
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Bentzel-Sternau, Albert Graf (1806-1878), Austrian Rittmeister in Dürnkrut, from 1863 retired in Innsbruck. 
-**Abbreviated name**: *Bentzel-Sternau*
+**Abbreviated name**: *Bentzel-Sternau* \[standard form in IPNI: *Bentz.-Stern*\]
 
 #### Herbarium and types
 

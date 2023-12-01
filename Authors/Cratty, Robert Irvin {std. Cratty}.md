@@ -6,7 +6,7 @@ tl2_surname: Cratty
 tl2_forenames: Robert Irvin
 tl2_name_abbrev: Cratty
 tl2_dates: 1853-1940
-tl2_page_id: 33266127
+tl2_bhl_page_id: 33266127
 author_lsid: 1867-1
 wikidata_id: Q21509223
 ipni_surname: Cratty
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1867-1), [Wikidata](https://www.wikidata.org/wiki/Q21509223). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1867-1) LSID 1867-1, [Wikidata](https://www.wikidata.org/wiki/Q21509223) QID Q21509223
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

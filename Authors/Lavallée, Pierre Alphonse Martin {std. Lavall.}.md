@@ -6,7 +6,7 @@ tl2_surname: Lavallée
 tl2_forenames: Pierre Alphonse Martin
 tl2_name_abbrev: Lavall.
 tl2_dates: 1836-1884
-tl2_page_id: 33069013
+tl2_bhl_page_id: 33069013
 author_lsid: 5337-1
 wikidata_id: Q2093144
 ipni_surname: Lavallée
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5337-1), [Wikidata](https://www.wikidata.org/wiki/Q2093144). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5337-1) LSID 5337-1, [Wikidata](https://www.wikidata.org/wiki/Q2093144) QID Q2093144
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

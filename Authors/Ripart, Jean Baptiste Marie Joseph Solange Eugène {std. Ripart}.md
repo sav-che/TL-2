@@ -6,7 +6,7 @@ tl2_surname: Ripart
 tl2_forenames: Jean Baptiste Marie Joseph Solange Eugène
 tl2_name_abbrev: Ripart
 tl2_dates: 1814-1878
-tl2_page_id: 33190269
+tl2_bhl_page_id: 33190269
 author_lsid: 8405-1
 wikidata_id: Q5928624
 ipni_surname: Ripart
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:52:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33190269) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8405-1), [Wikidata](https://www.wikidata.org/wiki/Q5928624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8405-1) LSID 8405-1, [Wikidata](https://www.wikidata.org/wiki/Q5928624) QID Q5928624
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

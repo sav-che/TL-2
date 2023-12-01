@@ -6,7 +6,7 @@ tl2_surname: Moricand
 tl2_forenames: Moïse Étienne, called Stefano
 tl2_name_abbrev: Moric.
 tl2_dates: 1779-1854
-tl2_page_id: 33355669
+tl2_bhl_page_id: 33355669
 author_lsid: 12691-1
 wikidata_id: Q4302711
 ipni_surname: Moricand
@@ -24,7 +24,8 @@ ipni_record_modified: 2009-01-07 09:59:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33355669) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12691-1), [Wikidata](https://www.wikidata.org/wiki/Q4302711). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12691-1) LSID 12691-1, [Wikidata](https://www.wikidata.org/wiki/Q4302711) QID Q4302711
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

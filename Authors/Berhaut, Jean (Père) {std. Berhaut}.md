@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0113
 tl2_volume: suppl2
 tl2_page_printed: 97
 tl2_surname: Berhaut
-tl2_forenames: Jean [Père]
+tl2_forenames: Jean (Père)
 tl2_name_abbrev: Berhaut
 tl2_dates: 1902-1977
-tl2_page_id: 33265294
+tl2_bhl_page_id: 33265294
 author_lsid: 694-1
 wikidata_id: Q5928644
 ipni_surname: Berhaut
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:50:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/694-1), [Wikidata](https://www.wikidata.org/wiki/Q5928644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/694-1) LSID 694-1, [Wikidata](https://www.wikidata.org/wiki/Q5928644) QID Q5928644
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

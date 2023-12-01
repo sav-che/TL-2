@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0034
 tl2_volume: suppl5
 tl2_page_printed: 28
 tl2_surname: Dalla Torre von Thunberg-Sternhoff
-tl2_forenames: Carl [Karl] Wilhelm
+tl2_forenames: Carl (Karl) Wilhelm
 tl2_name_abbrev: Dalla Torre
 tl2_dates: 1850-1928
-tl2_page_id: 33259074
+tl2_bhl_page_id: 33259074
 author_lsid: 1964-1
 wikidata_id: Q79155
 ipni_surname: Dalla Torre
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:51:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259074) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1964-1), [Wikidata](https://www.wikidata.org/wiki/Q79155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1964-1) LSID 1964-1, [Wikidata](https://www.wikidata.org/wiki/Q79155) QID Q79155
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dalla Torre von Thurnberg-Sternhoff, Karl Wilhelm von {std. Dalla Torre}|first entry]] for this author
 

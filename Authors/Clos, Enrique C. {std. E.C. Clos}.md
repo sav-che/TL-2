@@ -6,7 +6,7 @@ tl2_surname: Clos
 tl2_forenames: Enrique C.
 tl2_name_abbrev: E.C. Clos
 tl2_dates: 1894-1977
-tl2_page_id: 33265905
+tl2_bhl_page_id: 33265905
 author_lsid: 1704-1
 wikidata_id: Q21508767
 ipni_surname: Clos
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33265905) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1704-1), [Wikidata](https://www.wikidata.org/wiki/Q21508767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1704-1) LSID 1704-1, [Wikidata](https://www.wikidata.org/wiki/Q21508767) QID Q21508767
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

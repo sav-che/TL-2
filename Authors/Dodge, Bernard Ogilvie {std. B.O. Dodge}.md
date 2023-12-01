@@ -6,7 +6,7 @@ tl2_surname: Dodge
 tl2_forenames: Bernard Ogilvie
 tl2_name_abbrev: B.O. Dodge
 tl2_dates: 1872-1960
-tl2_page_id: 33120792
+tl2_bhl_page_id: 33120792
 author_lsid: 18103-1
 wikidata_id: Q2397814
 ipni_surname: Dodge
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18103-1), [Wikidata](https://www.wikidata.org/wiki/Q2397814). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18103-1) LSID 18103-1, [Wikidata](https://www.wikidata.org/wiki/Q2397814) QID Q2397814
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dodge, Bernard Ogilvie {std. B.O. Dodge} (Suppl.)|second entry]] for this author
 

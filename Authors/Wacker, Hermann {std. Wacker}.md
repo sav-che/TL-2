@@ -6,7 +6,7 @@ tl2_surname: Wacker
 tl2_forenames: Hermann
 tl2_name_abbrev: Wacker
 tl2_dates: x-1899
-tl2_page_id: 33066304
+tl2_bhl_page_id: 33066304
 author_lsid: 11286-1
 wikidata_id: Q21611932
 ipni_surname: Wacker
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33066304) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11286-1), [Wikidata](https://www.wikidata.org/wiki/Q21611932). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11286-1) LSID 11286-1, [Wikidata](https://www.wikidata.org/wiki/Q21611932) QID Q21611932
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Weiss
 tl2_forenames: Friedrich Wilhelm
 tl2_name_abbrev: F.W. Weiss
 tl2_dates: 1744-1826
-tl2_page_id: 33066507
+tl2_bhl_page_id: 33066507
 author_lsid: 11517-1
 wikidata_id: Q19003293
 ipni_surname: Weiss
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:46:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33066507) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11517-1), [Wikidata](https://www.wikidata.org/wiki/Q19003293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11517-1) LSID 11517-1, [Wikidata](https://www.wikidata.org/wiki/Q19003293) QID Q19003293
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

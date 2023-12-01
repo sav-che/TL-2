@@ -6,7 +6,7 @@ tl2_surname: Westendorp
 tl2_forenames: Gerard Daniel
 tl2_name_abbrev: Westend.
 tl2_dates: 1813-1869
-tl2_page_id: 33066547
+tl2_bhl_page_id: 33066547
 author_lsid: 11584-1
 wikidata_id: Q4109572
 ipni_surname: Westendorp
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33066547) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11584-1), [Wikidata](https://www.wikidata.org/wiki/Q4109572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11584-1) LSID 11584-1, [Wikidata](https://www.wikidata.org/wiki/Q4109572) QID Q4109572
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

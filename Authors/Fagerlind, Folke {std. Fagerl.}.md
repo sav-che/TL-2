@@ -6,7 +6,7 @@ tl2_surname: Fagerlind
 tl2_forenames: Folke
 tl2_name_abbrev: Fagerl.
 tl2_dates: 1907-1996
-tl2_page_id: 33259516
+tl2_bhl_page_id: 33259516
 author_lsid: 2618-1
 wikidata_id: Q5722737
 ipni_surname: Fagerlind
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33259516) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2618-1), [Wikidata](https://www.wikidata.org/wiki/Q5722737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2618-1) LSID 2618-1, [Wikidata](https://www.wikidata.org/wiki/Q5722737) QID Q5722737
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

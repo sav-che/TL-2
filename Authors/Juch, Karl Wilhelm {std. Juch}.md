@@ -6,7 +6,7 @@ tl2_surname: Juch
 tl2_forenames: Karl Wilhelm
 tl2_name_abbrev: Juch
 tl2_dates: 1774-1821
-tl2_page_id: 33068707
+tl2_bhl_page_id: 33068707
 author_lsid: 4567-1
 wikidata_id: Q55057646
 ipni_surname: Juch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33068707) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4567-1), [Wikidata](https://www.wikidata.org/wiki/Q55057646). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4567-1) LSID 4567-1, [Wikidata](https://www.wikidata.org/wiki/Q55057646) QID Q55057646
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

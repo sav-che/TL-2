@@ -6,7 +6,7 @@ tl2_surname: Schenk
 tl2_forenames: Ernst
 tl2_name_abbrev: E. Schenk
 tl2_dates: 1796-1859
-tl2_page_id: 33333277
+tl2_bhl_page_id: 33333277
 author_lsid: 9054-1
 wikidata_id: Q10274128
 ipni_surname: Schenk
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33333277) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9054-1), [Wikidata](https://www.wikidata.org/wiki/Q10274128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9054-1) LSID 9054-1, [Wikidata](https://www.wikidata.org/wiki/Q10274128) QID Q10274128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

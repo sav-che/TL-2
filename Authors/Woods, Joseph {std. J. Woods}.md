@@ -6,7 +6,7 @@ tl2_surname: Woods
 tl2_forenames: Joseph
 tl2_name_abbrev: J. Woods
 tl2_dates: 1776-1864
-tl2_page_id: 33066784
+tl2_bhl_page_id: 33066784
 author_lsid: 11856-1
 wikidata_id: Q920730
 ipni_surname: Woods
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11856-1), [Wikidata](https://www.wikidata.org/wiki/Q920730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11856-1) LSID 11856-1, [Wikidata](https://www.wikidata.org/wiki/Q920730) QID Q920730
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

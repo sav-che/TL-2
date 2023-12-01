@@ -6,7 +6,7 @@ tl2_surname: Breutel
 tl2_forenames: Johann Christian
 tl2_name_abbrev: Breut.
 tl2_dates: 1788-1875
-tl2_page_id: 33120451
+tl2_bhl_page_id: 33120451
 author_lsid: 1128-1
 wikidata_id: Q21415674
 ipni_surname: Breutel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33120451) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1128-1), [Wikidata](https://www.wikidata.org/wiki/Q21415674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1128-1) LSID 1128-1, [Wikidata](https://www.wikidata.org/wiki/Q21415674) QID Q21415674
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

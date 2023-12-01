@@ -6,7 +6,7 @@ tl2_surname: Lea
 tl2_forenames: Thomas Gibson
 tl2_name_abbrev: Lea
 tl2_dates: 1785-1844
-tl2_page_id: 33069018
+tl2_bhl_page_id: 33069018
 author_lsid: 22141-1
 wikidata_id: Q6146042
 ipni_surname: Lea
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22141-1), [Wikidata](https://www.wikidata.org/wiki/Q6146042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22141-1) LSID 22141-1, [Wikidata](https://www.wikidata.org/wiki/Q6146042) QID Q6146042
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

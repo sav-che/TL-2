@@ -6,7 +6,7 @@ tl2_surname: Degland
 tl2_forenames: Jean Vincent Yves
 tl2_name_abbrev: Degl.
 tl2_dates: 1773-1841
-tl2_page_id: 33259208
+tl2_bhl_page_id: 33259208
 author_lsid: 2081-1
 wikidata_id: Q3170078
 ipni_surname: Degland
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2081-1), [Wikidata](https://www.wikidata.org/wiki/Q3170078). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2081-1) LSID 2081-1, [Wikidata](https://www.wikidata.org/wiki/Q3170078) QID Q3170078
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

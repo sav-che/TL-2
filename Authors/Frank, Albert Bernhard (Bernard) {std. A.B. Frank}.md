@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0252
 tl2_volume: suppl7
 tl2_page_printed: 386
 tl2_surname: Frank
-tl2_forenames: Albert Bernhard [Bernard]
+tl2_forenames: Albert Bernhard (Bernard)
 tl2_name_abbrev: A.B. Frank
 tl2_dates: 1839-1900
-tl2_page_id: 33259890
+tl2_bhl_page_id: 33259890
 author_lsid: 18939-1
 wikidata_id: Q67239
 ipni_surname: Frank
@@ -25,7 +25,8 @@ ipni_record_modified: 2016-01-22 16:56:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33259890) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18939-1), [Wikidata](https://www.wikidata.org/wiki/Q67239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18939-1) LSID 18939-1, [Wikidata](https://www.wikidata.org/wiki/Q67239) QID Q67239
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

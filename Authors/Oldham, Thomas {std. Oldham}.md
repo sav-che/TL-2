@@ -6,7 +6,7 @@ tl2_surname: Oldham
 tl2_forenames: Thomas
 tl2_name_abbrev: Oldham
 tl2_dates: 1816-1878
-tl2_page_id: 33355905
+tl2_bhl_page_id: 33355905
 author_lsid: 7123-1
 wikidata_id: Q7792882
 ipni_surname: Oldham
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33355905) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7123-1), [Wikidata](https://www.wikidata.org/wiki/Q7792882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7123-1) LSID 7123-1, [Wikidata](https://www.wikidata.org/wiki/Q7792882) QID Q7792882
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

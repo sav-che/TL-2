@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0276
 tl2_volume: suppl1
 tl2_page_printed: 232
 tl2_surname: Bachmann
-tl2_forenames: [Franz] Ewald [Theodor]
+tl2_forenames: (Franz) Ewald (Theodor)
 tl2_name_abbrev: Bachm.
 tl2_dates: 1850-1937
-tl2_page_id: 33264959
+tl2_bhl_page_id: 33264959
 author_lsid: 31151-1
 wikidata_id: Q81723778
 ipni_surname: Bachmann
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33264959) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31151-1), [Wikidata](https://www.wikidata.org/wiki/Q81723778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31151-1) LSID 31151-1, [Wikidata](https://www.wikidata.org/wiki/Q81723778) QID Q81723778
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bachmann, Franz Ewald Theodor {std. Bachm.}|first entry]] for this author
 

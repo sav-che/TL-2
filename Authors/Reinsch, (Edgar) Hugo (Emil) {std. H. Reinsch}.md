@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0694
 tl2_volume: vol4
 tl2_page_printed: 706
 tl2_surname: Reinsch
-tl2_forenames: [Edgar] Hugo [Emil]
+tl2_forenames: (Edgar) Hugo (Emil)
 tl2_name_abbrev: H. Reinsch
 tl2_dates: 1809-1884
-tl2_page_id: 33190177
+tl2_bhl_page_id: 33190177
 author_lsid: 12765-1
 wikidata_id: Q21607098
 ipni_surname: Reinsch
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33190177) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12765-1), [Wikidata](https://www.wikidata.org/wiki/Q21607098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12765-1) LSID 12765-1, [Wikidata](https://www.wikidata.org/wiki/Q21607098) QID Q21607098
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

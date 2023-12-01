@@ -6,7 +6,7 @@ tl2_surname: Mauri
 tl2_forenames: Ernesto
 tl2_name_abbrev: Mauri
 tl2_dates: 1791-1836
-tl2_page_id: 33355465
+tl2_bhl_page_id: 33355465
 author_lsid: 6258-1
 wikidata_id: Q5805798
 ipni_surname: Mauri
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33355465) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6258-1), [Wikidata](https://www.wikidata.org/wiki/Q5805798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6258-1) LSID 6258-1, [Wikidata](https://www.wikidata.org/wiki/Q5805798) QID Q5805798
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

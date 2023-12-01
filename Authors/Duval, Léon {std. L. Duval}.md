@@ -6,7 +6,7 @@ tl2_surname: Duval
 tl2_forenames: Léon
 tl2_name_abbrev: L. Duval
 tl2_dates: 1844-1907
-tl2_page_id: 33260203
+tl2_bhl_page_id: 33260203
 author_lsid: 20031140-1
 wikidata_id: Q47116743
 ipni_surname: Duval
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20031140-1), [Wikidata](https://www.wikidata.org/wiki/Q47116743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20031140-1) LSID 20031140-1, [Wikidata](https://www.wikidata.org/wiki/Q47116743) QID Q47116743
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

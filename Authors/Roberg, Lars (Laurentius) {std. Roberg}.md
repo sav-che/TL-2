@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0811
 tl2_volume: vol4
 tl2_page_printed: 809
 tl2_surname: Roberg
-tl2_forenames: Lars [Laurentius]
+tl2_forenames: Lars (Laurentius)
 tl2_name_abbrev: Roberg
 tl2_dates: 1664-1742
-tl2_page_id: 33190280
+tl2_bhl_page_id: 33190280
 author_lsid: 8438-1
 wikidata_id: Q55071968
 ipni_surname: Roberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33190280) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8438-1), [Wikidata](https://www.wikidata.org/wiki/Q55071968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8438-1) LSID 8438-1, [Wikidata](https://www.wikidata.org/wiki/Q55071968) QID Q55071968
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

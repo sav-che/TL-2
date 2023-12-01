@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0339
 tl2_volume: suppl1
 tl2_page_printed: 307
 tl2_surname: Bálmis
-tl2_forenames: Francisco Xavier [de]
+tl2_forenames: Francisco Xavier (de)
 tl2_name_abbrev: Bálmis
 tl2_dates: fl. 1794
-tl2_page_id: 33265034
+tl2_bhl_page_id: 33265034
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265034) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

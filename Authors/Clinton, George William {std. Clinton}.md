@@ -6,7 +6,7 @@ tl2_surname: Clinton
 tl2_forenames: George William
 tl2_name_abbrev: G.W. Clinton
 tl2_dates: 1807-1885
-tl2_page_id: 33120643
+tl2_bhl_page_id: 33120643
 author_lsid: 1701-1
 wikidata_id: Q282329
 ipni_surname: Clinton
@@ -25,7 +25,8 @@ ipni_record_modified: 2006-07-10 09:37:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33120643) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1701-1), [Wikidata](https://www.wikidata.org/wiki/Q282329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1701-1) LSID 1701-1, [Wikidata](https://www.wikidata.org/wiki/Q282329) QID Q282329
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Clinton, Georges William {std. Clinton} (Suppl.)|second entry]] for this author
 

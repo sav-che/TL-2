@@ -6,7 +6,7 @@ tl2_surname: Cusson
 tl2_forenames: Pierre
 tl2_name_abbrev: Cusson
 tl2_dates: 1727-1783
-tl2_page_id: 33120715
+tl2_bhl_page_id: 33120715
 author_lsid: 1933-1
 wikidata_id: Q7192159
 ipni_surname: Cusson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33120715) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1933-1), [Wikidata](https://www.wikidata.org/wiki/Q7192159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1933-1) LSID 1933-1, [Wikidata](https://www.wikidata.org/wiki/Q7192159) QID Q7192159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

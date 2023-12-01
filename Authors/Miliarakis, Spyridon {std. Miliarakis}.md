@@ -6,7 +6,7 @@ tl2_surname: Miliarakis
 tl2_forenames: Spyridon
 tl2_name_abbrev: Miliarakis
 tl2_dates: x-1919
-tl2_page_id: 33355575
+tl2_bhl_page_id: 33355575
 author_lsid: 6472-1
 wikidata_id: Q12157060
 ipni_surname: Miliarakis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6472-1), [Wikidata](https://www.wikidata.org/wiki/Q12157060). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6472-1) LSID 6472-1, [Wikidata](https://www.wikidata.org/wiki/Q12157060) QID Q12157060
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

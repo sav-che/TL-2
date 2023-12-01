@@ -6,7 +6,7 @@ tl2_surname: Moss
 tl2_forenames: Ezra Henry
 tl2_name_abbrev: E. Moss
 tl2_dates: 1892-1963
-tl2_page_id: 33355689
+tl2_bhl_page_id: 33355689
 author_lsid: 6699-1
 wikidata_id: Q20722972
 ipni_surname: Moss
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33355689) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6699-1), [Wikidata](https://www.wikidata.org/wiki/Q20722972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6699-1) LSID 6699-1, [Wikidata](https://www.wikidata.org/wiki/Q20722972) QID Q20722972
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

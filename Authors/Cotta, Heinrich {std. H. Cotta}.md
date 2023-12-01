@@ -6,7 +6,7 @@ tl2_surname: Cotta
 tl2_forenames: Heinrich
 tl2_name_abbrev: H. Cotta
 tl2_dates: 1763-1844
-tl2_page_id: 33266083
+tl2_bhl_page_id: 33266083
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33266083) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

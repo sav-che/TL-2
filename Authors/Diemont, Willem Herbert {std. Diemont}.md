@@ -6,7 +6,7 @@ tl2_surname: Diemont
 tl2_forenames: Willem Herbert
 tl2_name_abbrev: Diemont
 tl2_dates: 1907-1972
-tl2_page_id: 33259362
+tl2_bhl_page_id: 33259362
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259362) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

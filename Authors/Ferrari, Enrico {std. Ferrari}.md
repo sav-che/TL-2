@@ -6,7 +6,7 @@ tl2_surname: Ferrari
 tl2_forenames: Enrico
 tl2_name_abbrev: Ferrari
 tl2_dates: 1845-1921
-tl2_page_id: 33259663
+tl2_bhl_page_id: 33259663
 author_lsid: 34878-1
 wikidata_id: Q21512906
 ipni_surname: Ferrari
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33259663) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/34878-1), [Wikidata](https://www.wikidata.org/wiki/Q21512906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34878-1) LSID 34878-1, [Wikidata](https://www.wikidata.org/wiki/Q21512906) QID Q21512906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

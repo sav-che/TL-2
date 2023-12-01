@@ -6,7 +6,7 @@ tl2_surname: Hall
 tl2_forenames: James (of Albany)
 tl2_name_abbrev: J. Hall
 tl2_dates: 1811-1898
-tl2_page_id: 33068264
+tl2_bhl_page_id: 33068264
 author_lsid: 3576-1
 wikidata_id: Q970914
 ipni_surname: Hall
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33068264) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3576-1), [Wikidata](https://www.wikidata.org/wiki/Q970914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3576-1) LSID 3576-1, [Wikidata](https://www.wikidata.org/wiki/Q970914) QID Q970914
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

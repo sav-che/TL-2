@@ -6,7 +6,7 @@ tl2_surname: Guba
 tl2_forenames: Emil Frederick
 tl2_name_abbrev: Guba
 tl2_dates: 1897-1999
-tl2_page_id: 33258911
+tl2_bhl_page_id: 33258911
 author_lsid: 19710-1
 wikidata_id: Q21514347
 ipni_surname: Guba
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33258911) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19710-1), [Wikidata](https://www.wikidata.org/wiki/Q21514347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19710-1) LSID 19710-1, [Wikidata](https://www.wikidata.org/wiki/Q21514347) QID Q21514347
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

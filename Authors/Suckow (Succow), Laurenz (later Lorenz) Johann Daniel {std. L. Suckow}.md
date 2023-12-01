@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol6_0097
 tl2_volume: vol6
 tl2_page_printed: 77
-tl2_surname: Suckow [Succow]
+tl2_surname: Suckow (Succow)
 tl2_forenames: Laurenz (later Lorenz) Johann Daniel
 tl2_name_abbrev: L. Suckow
 tl2_dates: 1722-1801
-tl2_page_id: 33212119
+tl2_bhl_page_id: 33212119
 author_lsid: 12899-1
 wikidata_id: Q1870088
 ipni_surname: Suckow
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12899-1), [Wikidata](https://www.wikidata.org/wiki/Q1870088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12899-1) LSID 12899-1, [Wikidata](https://www.wikidata.org/wiki/Q1870088) QID Q1870088
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

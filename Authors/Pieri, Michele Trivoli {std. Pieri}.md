@@ -6,7 +6,7 @@ tl2_surname: Pieri
 tl2_forenames: Michele Trivoli
 tl2_name_abbrev: Pieri
 tl2_dates: x-1834
-tl2_page_id: 33189729
+tl2_bhl_page_id: 33189729
 author_lsid: 7686-1
 wikidata_id: Q21522998
 ipni_surname: Pieri
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7686-1), [Wikidata](https://www.wikidata.org/wiki/Q21522998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7686-1) LSID 7686-1, [Wikidata](https://www.wikidata.org/wiki/Q21522998) QID Q21522998
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

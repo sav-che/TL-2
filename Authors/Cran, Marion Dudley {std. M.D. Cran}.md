@@ -6,7 +6,7 @@ tl2_surname: Cran
 tl2_forenames: Marion Dudley
 tl2_name_abbrev: M.D. Cran
 tl2_dates: 1879-1942
-tl2_page_id: 33266124
+tl2_bhl_page_id: 33266124
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266124) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

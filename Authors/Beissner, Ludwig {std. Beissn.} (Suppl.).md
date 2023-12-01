@@ -6,7 +6,7 @@ tl2_surname: Beissner
 tl2_forenames: Ludwig
 tl2_name_abbrev: Beissn.
 tl2_dates: 1843-1927
-tl2_page_id: 33265257
+tl2_bhl_page_id: 33265257
 author_lsid: 625-1
 wikidata_id: Q65688
 ipni_surname: Beissner
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265257) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/625-1), [Wikidata](https://www.wikidata.org/wiki/Q65688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/625-1) LSID 625-1, [Wikidata](https://www.wikidata.org/wiki/Q65688) QID Q65688
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beissner, Ludwig {std. Beissn.}|first entry]] for this author
 

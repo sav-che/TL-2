@@ -6,7 +6,7 @@ tl2_surname: Loeske
 tl2_forenames: Leopold
 tl2_name_abbrev: Loeske
 tl2_dates: 1865-1935
-tl2_page_id: 33355230
+tl2_bhl_page_id: 33355230
 author_lsid: 22489-1
 wikidata_id: Q15300538
 ipni_surname: Loeske
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33355230) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22489-1), [Wikidata](https://www.wikidata.org/wiki/Q15300538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22489-1) LSID 22489-1, [Wikidata](https://www.wikidata.org/wiki/Q15300538) QID Q15300538
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

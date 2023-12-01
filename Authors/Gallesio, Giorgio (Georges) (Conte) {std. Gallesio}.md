@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0081
 tl2_volume: suppl8
 tl2_page_printed: 108
 tl2_surname: Gallesio
-tl2_forenames: Giorgio [Georges] (Conte)
+tl2_forenames: Giorgio (Georges) (Conte)
 tl2_name_abbrev: Gallesio
 tl2_dates: 1772-1839
-tl2_page_id: 33258586
+tl2_bhl_page_id: 33258586
 author_lsid: 2996-1
 wikidata_id: Q762092
 ipni_surname: Gallesio
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33258586) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2996-1), [Wikidata](https://www.wikidata.org/wiki/Q762092). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2996-1) LSID 2996-1, [Wikidata](https://www.wikidata.org/wiki/Q762092) QID Q762092
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

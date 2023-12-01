@@ -6,7 +6,7 @@ tl2_surname: Fergusson
 tl2_forenames: John
 tl2_name_abbrev: Fergusson
 tl2_dates: 1834-1907
-tl2_page_id: 33259647
+tl2_bhl_page_id: 33259647
 author_lsid: 18726-1
 wikidata_id: Q21512868
 ipni_surname: Fergusson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33259647) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18726-1), [Wikidata](https://www.wikidata.org/wiki/Q21512868). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18726-1) LSID 18726-1, [Wikidata](https://www.wikidata.org/wiki/Q21512868) QID Q21512868
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

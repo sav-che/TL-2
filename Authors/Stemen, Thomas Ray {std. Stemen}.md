@@ -6,7 +6,7 @@ tl2_surname: Stemen
 tl2_forenames: Thomas Ray
 tl2_name_abbrev: Stemen
 tl2_dates: 1892-1968
-tl2_page_id: 33334021
+tl2_bhl_page_id: 33334021
 author_lsid: 10090-1
 wikidata_id: Q21609751
 ipni_surname: Stemen
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33334021) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10090-1), [Wikidata](https://www.wikidata.org/wiki/Q21609751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10090-1) LSID 10090-1, [Wikidata](https://www.wikidata.org/wiki/Q21609751) QID Q21609751
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

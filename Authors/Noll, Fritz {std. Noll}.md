@@ -6,7 +6,7 @@ tl2_surname: Noll
 tl2_forenames: Fritz
 tl2_name_abbrev: Noll
 tl2_dates: 1858-1908
-tl2_page_id: 33355850
+tl2_bhl_page_id: 33355850
 author_lsid: 7018-1
 wikidata_id: Q97073
 ipni_surname: Noll
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33355850) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7018-1), [Wikidata](https://www.wikidata.org/wiki/Q97073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7018-1) LSID 7018-1, [Wikidata](https://www.wikidata.org/wiki/Q97073) QID Q97073
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

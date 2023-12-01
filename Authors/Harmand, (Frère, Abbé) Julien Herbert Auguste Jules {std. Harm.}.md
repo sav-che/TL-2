@@ -6,7 +6,7 @@ tl2_surname: Harmand
 tl2_forenames: (Frère, Abbé) Julien Herbert Auguste Jules
 tl2_name_abbrev: Harm.
 tl2_dates: 1844-1915
-tl2_page_id: 33068296
+tl2_bhl_page_id: 33068296
 author_lsid: 3665-1
 wikidata_id: Q21339306
 ipni_surname: Harmand
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33068296) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3665-1), [Wikidata](https://www.wikidata.org/wiki/Q21339306). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3665-1) LSID 3665-1, [Wikidata](https://www.wikidata.org/wiki/Q21339306) QID Q21339306
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Müller (Thurgau)
 tl2_forenames: Herman
 tl2_name_abbrev: H. Müll.-Thurg.
 tl2_dates: 1850-1927
-tl2_page_id: 33355715
+tl2_bhl_page_id: 33355715
 author_lsid: 12698-1
 wikidata_id: Q120437
 ipni_surname: Müller Thurgau
@@ -24,7 +24,8 @@ ipni_record_modified: 2006-01-13 14:47:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12698-1), [Wikidata](https://www.wikidata.org/wiki/Q120437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12698-1) LSID 12698-1, [Wikidata](https://www.wikidata.org/wiki/Q120437) QID Q120437
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

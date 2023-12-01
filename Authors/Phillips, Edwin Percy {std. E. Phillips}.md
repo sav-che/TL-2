@@ -6,7 +6,7 @@ tl2_surname: Phillips
 tl2_forenames: Edwin Percy
 tl2_name_abbrev: E. Phillips
 tl2_dates: 1884-1967
-tl2_page_id: 33189711
+tl2_bhl_page_id: 33189711
 author_lsid: 7641-1
 wikidata_id: Q5346743
 ipni_surname: Phillips
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33189711) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7641-1), [Wikidata](https://www.wikidata.org/wiki/Q5346743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7641-1) LSID 7641-1, [Wikidata](https://www.wikidata.org/wiki/Q5346743) QID Q5346743
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

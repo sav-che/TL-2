@@ -6,7 +6,7 @@ tl2_surname: Phelps
 tl2_forenames: William
 tl2_name_abbrev: W. Phelps
 tl2_dates: 1776-1856
-tl2_page_id: 33189702
+tl2_bhl_page_id: 33189702
 author_lsid: 7629-1
 wikidata_id: Q18672958
 ipni_surname: Phelps
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7629-1), [Wikidata](https://www.wikidata.org/wiki/Q18672958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7629-1) LSID 7629-1, [Wikidata](https://www.wikidata.org/wiki/Q18672958) QID Q18672958
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

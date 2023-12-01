@@ -6,7 +6,7 @@ tl2_surname: Austin
 tl2_forenames: Coe Finch
 tl2_name_abbrev: Aust.
 tl2_dates: 1831-1880
-tl2_page_id: 33120212
+tl2_bhl_page_id: 33120212
 author_lsid: 338-1
 wikidata_id: Q5140488
 ipni_surname: Austin
@@ -25,7 +25,8 @@ ipni_record_modified: 2015-02-17 14:14:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33120212) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/338-1), [Wikidata](https://www.wikidata.org/wiki/Q5140488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/338-1) LSID 338-1, [Wikidata](https://www.wikidata.org/wiki/Q5140488) QID Q5140488
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Austin, Coe Finch {std. Aust.} (Suppl.)|second entry]] for this author
 

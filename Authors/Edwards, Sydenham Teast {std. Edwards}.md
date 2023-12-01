@@ -6,7 +6,7 @@ tl2_surname: Edwards
 tl2_forenames: Sydenham Teast
 tl2_name_abbrev: Edwards
 tl2_dates: 1769(?)-1819
-tl2_page_id: 33120855
+tl2_bhl_page_id: 33120855
 author_lsid: 2470-1
 wikidata_id: Q1118055
 ipni_surname: Edwards
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33120855) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2470-1), [Wikidata](https://www.wikidata.org/wiki/Q1118055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2470-1) LSID 2470-1, [Wikidata](https://www.wikidata.org/wiki/Q1118055) QID Q1118055
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

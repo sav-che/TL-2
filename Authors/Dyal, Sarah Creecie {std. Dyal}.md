@@ -6,7 +6,7 @@ tl2_surname: Dyal
 tl2_forenames: Sarah Creecie
 tl2_name_abbrev: Dyal
 tl2_dates: 1907-x
-tl2_page_id: 33260213
+tl2_bhl_page_id: 33260213
 author_lsid: 2429-1
 wikidata_id: Q21393570
 ipni_surname: Dyal
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33260213) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2429-1), [Wikidata](https://www.wikidata.org/wiki/Q21393570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2429-1) LSID 2429-1, [Wikidata](https://www.wikidata.org/wiki/Q21393570) QID Q21393570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

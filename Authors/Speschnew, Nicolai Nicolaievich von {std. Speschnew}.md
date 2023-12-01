@@ -6,7 +6,7 @@ tl2_surname: Speschnew
 tl2_forenames: Nicolai Nicolaievich von
 tl2_name_abbrev: Speschnew
 tl2_dates: 1844-1907
-tl2_page_id: 33333927
+tl2_bhl_page_id: 33333927
 author_lsid: 9964-1
 wikidata_id: Q18808407
 ipni_surname: Speschnew
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9964-1), [Wikidata](https://www.wikidata.org/wiki/Q18808407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9964-1) LSID 9964-1, [Wikidata](https://www.wikidata.org/wiki/Q18808407) QID Q18808407
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bocquillon
 tl2_forenames: Henri Théophile
 tl2_name_abbrev: Bocquillon
 tl2_dates: 1834-1883
-tl2_page_id: 33120376
+tl2_bhl_page_id: 33120376
 author_lsid: 886-1
 wikidata_id: Q3130701
 ipni_surname: Bocquillon
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33120376) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/886-1), [Wikidata](https://www.wikidata.org/wiki/Q3130701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/886-1) LSID 886-1, [Wikidata](https://www.wikidata.org/wiki/Q3130701) QID Q3130701
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bocquillon, Henri Théophile {std. Bocq.} (Suppl.)|second entry]] for this author
 

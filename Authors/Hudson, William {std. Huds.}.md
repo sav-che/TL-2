@@ -6,7 +6,7 @@ tl2_surname: Hudson
 tl2_forenames: William
 tl2_name_abbrev: Huds.
 tl2_dates: 1730-1793
-tl2_page_id: 33068596
+tl2_bhl_page_id: 33068596
 author_lsid: 4198-1
 wikidata_id: Q982798
 ipni_surname: Hudson
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:39:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4198-1), [Wikidata](https://www.wikidata.org/wiki/Q982798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4198-1) LSID 4198-1, [Wikidata](https://www.wikidata.org/wiki/Q982798) QID Q982798
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

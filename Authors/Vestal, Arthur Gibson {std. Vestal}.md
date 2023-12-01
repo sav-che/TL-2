@@ -6,7 +6,7 @@ tl2_surname: Vestal
 tl2_forenames: Arthur Gibson
 tl2_name_abbrev: Vestal
 tl2_dates: 1888-1964
-tl2_page_id: 33212759
+tl2_bhl_page_id: 33212759
 author_lsid: 11150-1
 wikidata_id: Q21611681
 ipni_surname: Vestal
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33212759) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11150-1), [Wikidata](https://www.wikidata.org/wiki/Q21611681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11150-1) LSID 11150-1, [Wikidata](https://www.wikidata.org/wiki/Q21611681) QID Q21611681
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Conrad
 tl2_forenames: Solomon White
 tl2_name_abbrev: Conrad
 tl2_dates: 1779-1831
-tl2_page_id: 33265980
+tl2_bhl_page_id: 33265980
 author_lsid: 1764-1
 wikidata_id: Q9078739
 ipni_surname: Conrad
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33265980) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1764-1), [Wikidata](https://www.wikidata.org/wiki/Q9078739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1764-1) LSID 1764-1, [Wikidata](https://www.wikidata.org/wiki/Q9078739) QID Q9078739
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

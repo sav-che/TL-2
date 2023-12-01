@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0210
 tl2_volume: suppl1
 tl2_page_printed: 170
 tl2_surname: Arrhenius
-tl2_forenames: Johan Peter [Pehr Petter]
+tl2_forenames: Johan Peter (Pehr Petter)
 tl2_name_abbrev: Arrh.
 tl2_dates: 1811-1889
-tl2_page_id: 33264897
+tl2_bhl_page_id: 33264897
 author_lsid: 285-1
 wikidata_id: Q4069879
 ipni_surname: Arrhenius
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33264897) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/285-1), [Wikidata](https://www.wikidata.org/wiki/Q4069879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/285-1) LSID 285-1, [Wikidata](https://www.wikidata.org/wiki/Q4069879) QID Q4069879
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arrhenius, Johan Peter (Pehr, Petter) {std. Arrh.}|first entry]] for this author
 

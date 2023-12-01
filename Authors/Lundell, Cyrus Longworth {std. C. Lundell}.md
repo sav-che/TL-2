@@ -6,7 +6,7 @@ tl2_surname: Lundell
 tl2_forenames: Cyrus Longworth
 tl2_name_abbrev: C. Lundell
 tl2_dates: 1907-x
-tl2_page_id: 33355281
+tl2_bhl_page_id: 33355281
 author_lsid: 5838-1
 wikidata_id: Q3009490
 ipni_surname: Lundell
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:50:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5838-1), [Wikidata](https://www.wikidata.org/wiki/Q3009490). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5838-1) LSID 5838-1, [Wikidata](https://www.wikidata.org/wiki/Q3009490) QID Q3009490
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Oyster
 tl2_forenames: John Houck
 tl2_name_abbrev: Oyster
 tl2_dates: 1849-after 1904
-tl2_page_id: 33355954
+tl2_bhl_page_id: 33355954
 author_lsid: 7223-1
 wikidata_id: Q21522491
 ipni_surname: Oyster
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7223-1), [Wikidata](https://www.wikidata.org/wiki/Q21522491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7223-1) LSID 7223-1, [Wikidata](https://www.wikidata.org/wiki/Q21522491) QID Q21522491
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

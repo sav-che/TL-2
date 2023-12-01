@@ -6,7 +6,7 @@ tl2_surname: Coincy
 tl2_forenames: Auguste Henri Cornu de la Fontaine de
 tl2_name_abbrev: Coincy
 tl2_dates: 1837-1903
-tl2_page_id: 33120651
+tl2_bhl_page_id: 33120651
 author_lsid: 1726-1
 wikidata_id: Q615827
 ipni_surname: Coincy
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33120651) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1726-1), [Wikidata](https://www.wikidata.org/wiki/Q615827). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1726-1) LSID 1726-1, [Wikidata](https://www.wikidata.org/wiki/Q615827) QID Q615827
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Coincy, Auguste Henri (Cornut de la Fontaine de) {std. Coincy} (Suppl.)|second entry]] for this author
 

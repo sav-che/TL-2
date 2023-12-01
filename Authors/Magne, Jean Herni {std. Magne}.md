@@ -6,7 +6,7 @@ tl2_surname: Magne
 tl2_forenames: Jean Herni
 tl2_name_abbrev: Magne
 tl2_dates: 1804-1885
-tl2_page_id: 33355328
+tl2_bhl_page_id: 33355328
 author_lsid: 5979-1
 wikidata_id: Q3166113
 ipni_surname: Magne
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33355328) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5979-1), [Wikidata](https://www.wikidata.org/wiki/Q3166113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5979-1) LSID 5979-1, [Wikidata](https://www.wikidata.org/wiki/Q3166113) QID Q3166113
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

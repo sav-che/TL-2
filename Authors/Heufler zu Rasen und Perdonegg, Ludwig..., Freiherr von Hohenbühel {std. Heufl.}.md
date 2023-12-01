@@ -6,7 +6,7 @@ tl2_surname: Heufler zu Rasen und Perdonegg
 tl2_forenames: Ludwig Samuel..., (later) Freiherr von Hohenbühel
 tl2_name_abbrev: Heufl.
 tl2_dates: 1817-1885
-tl2_page_id: 33068426
+tl2_bhl_page_id: 33068426
 author_lsid: 12548-1
 wikidata_id: Q18985450
 ipni_surname: Heufler zu Rasen und Perdonneg
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33068426) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12548-1), [Wikidata](https://www.wikidata.org/wiki/Q18985450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12548-1) LSID 12548-1, [Wikidata](https://www.wikidata.org/wiki/Q18985450) QID Q18985450
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: De Ville
 tl2_forenames: Jean Baptiste
 tl2_name_abbrev: De Ville
 tl2_dates: fl. 1689
-tl2_page_id: 33120769
+tl2_bhl_page_id: 33120769
 author_lsid: 2168-1
 wikidata_id: Q47116182
 ipni_surname: De Ville
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33120769) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2168-1), [Wikidata](https://www.wikidata.org/wiki/Q47116182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2168-1) LSID 2168-1, [Wikidata](https://www.wikidata.org/wiki/Q47116182) QID Q47116182
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

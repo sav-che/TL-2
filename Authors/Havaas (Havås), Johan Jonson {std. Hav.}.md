@@ -6,7 +6,7 @@ tl2_surname: Havaas (Havås)
 tl2_forenames: Johan Jonson
 tl2_name_abbrev: Hav.
 tl2_dates: 1864-1956
-tl2_page_id: 33068346
+tl2_bhl_page_id: 33068346
 author_lsid: 3733-1
 wikidata_id: Q11049437
 ipni_surname: Havaas
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33068346) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3733-1), [Wikidata](https://www.wikidata.org/wiki/Q11049437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3733-1) LSID 3733-1, [Wikidata](https://www.wikidata.org/wiki/Q11049437) QID Q11049437
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

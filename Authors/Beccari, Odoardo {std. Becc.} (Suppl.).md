@@ -6,7 +6,7 @@ tl2_surname: Beccari
 tl2_forenames: Odoardo
 tl2_name_abbrev: Becc.
 tl2_dates: 1843-1920
-tl2_page_id: 33265207
+tl2_bhl_page_id: 33265207
 author_lsid: 15852-1
 wikidata_id: Q361037
 ipni_surname: Beccari
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33265207) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/15852-1), [Wikidata](https://www.wikidata.org/wiki/Q361037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15852-1) LSID 15852-1, [Wikidata](https://www.wikidata.org/wiki/Q361037) QID Q361037
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beccari, Odoardo {std. Becc.}|first entry]] for this author
 

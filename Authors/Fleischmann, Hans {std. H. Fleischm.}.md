@@ -6,7 +6,7 @@ tl2_surname: Fleischmann
 tl2_forenames: Hans
 tl2_name_abbrev: H. Fleischm.
 tl2_dates: x-1925
-tl2_page_id: 33259754
+tl2_bhl_page_id: 33259754
 author_lsid: 2779-1
 wikidata_id: Q5891876
 ipni_surname: Fleischmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2010-05-18 13:00:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33259754) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2779-1), [Wikidata](https://www.wikidata.org/wiki/Q5891876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2779-1) LSID 2779-1, [Wikidata](https://www.wikidata.org/wiki/Q5891876) QID Q5891876
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

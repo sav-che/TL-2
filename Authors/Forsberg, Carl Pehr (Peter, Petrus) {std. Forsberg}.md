@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0215
 tl2_volume: suppl7
 tl2_page_printed: 321
 tl2_surname: Forsberg
-tl2_forenames: Carl Pehr [Peter, Petrus]
+tl2_forenames: Carl Pehr (Peter, Petrus)
 tl2_name_abbrev: Forsberg
 tl2_dates: 1793-1832
-tl2_page_id: 33259825
+tl2_bhl_page_id: 33259825
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259825) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

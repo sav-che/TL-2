@@ -6,7 +6,7 @@ tl2_surname: Lawson
 tl2_forenames: Marmaduke Alexander
 tl2_name_abbrev: M.A. Laws.
 tl2_dates: 1840-1896
-tl2_page_id: 33069016
+tl2_bhl_page_id: 33069016
 author_lsid: 5352-1
 wikidata_id: Q5999683
 ipni_surname: Lawson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33069016) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5352-1), [Wikidata](https://www.wikidata.org/wiki/Q5999683). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5352-1) LSID 5352-1, [Wikidata](https://www.wikidata.org/wiki/Q5999683) QID Q5999683
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bauke
 tl2_forenames: Hermann
 tl2_name_abbrev: H. Bauke
 tl2_dates: 1852-1879
-tl2_page_id: 33265112
+tl2_bhl_page_id: 33265112
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265112) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

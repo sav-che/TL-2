@@ -6,7 +6,7 @@ tl2_surname: Nelson
 tl2_forenames: Aven
 tl2_name_abbrev: A. Nels.
 tl2_dates: 1859-1952
-tl2_page_id: 33355809
+tl2_bhl_page_id: 33355809
 author_lsid: 12706-1
 wikidata_id: Q4316797
 ipni_surname: Nelson
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12706-1), [Wikidata](https://www.wikidata.org/wiki/Q4316797). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12706-1) LSID 12706-1, [Wikidata](https://www.wikidata.org/wiki/Q4316797) QID Q4316797
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

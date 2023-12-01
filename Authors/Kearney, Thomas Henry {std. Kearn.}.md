@@ -6,7 +6,7 @@ tl2_surname: Kearney
 tl2_forenames: Thomas Henry
 tl2_name_abbrev: Kearn.
 tl2_dates: 1874-1956
-tl2_page_id: 33068752
+tl2_bhl_page_id: 33068752
 author_lsid: 4689-1
 wikidata_id: Q15726720
 ipni_surname: Kearney
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4689-1), [Wikidata](https://www.wikidata.org/wiki/Q15726720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4689-1) LSID 4689-1, [Wikidata](https://www.wikidata.org/wiki/Q15726720) QID Q15726720
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

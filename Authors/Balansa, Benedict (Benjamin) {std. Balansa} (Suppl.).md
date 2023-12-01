@@ -6,7 +6,7 @@ tl2_surname: Balansa
 tl2_forenames: Benedict (Benjamin)
 tl2_name_abbrev: Balansa
 tl2_dates: 1825-1891
-tl2_page_id: 33265013
+tl2_bhl_page_id: 33265013
 author_lsid: 416-1
 wikidata_id: Q536946
 ipni_surname: Balansa
@@ -30,7 +30,8 @@ ipni_record_modified: 2006-01-19 09:14:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265013) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/416-1), [Wikidata](https://www.wikidata.org/wiki/Q536946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/416-1) LSID 416-1, [Wikidata](https://www.wikidata.org/wiki/Q536946) QID Q536946
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Balansa, Benedict (Benjamin) {std. Balansa}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Oelhafen von Schoellenbach
 tl2_forenames: Carl Christoph
 tl2_name_abbrev: Oelhafen
 tl2_dates: 1709-1783
-tl2_page_id: 33355894
+tl2_bhl_page_id: 33355894
 author_lsid: 7089-1
 wikidata_id: Q21522325
 ipni_surname: Oelhafen von Schoellenbach
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7089-1), [Wikidata](https://www.wikidata.org/wiki/Q21522325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7089-1) LSID 7089-1, [Wikidata](https://www.wikidata.org/wiki/Q21522325) QID Q21522325
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

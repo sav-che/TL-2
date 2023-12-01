@@ -6,7 +6,7 @@ tl2_surname: Lawson
 tl2_forenames: Charles
 tl2_name_abbrev: C. Laws.
 tl2_dates: 1794-1873
-tl2_page_id: 33069015
+tl2_bhl_page_id: 33069015
 author_lsid: 5350-1
 wikidata_id: Q2959591
 ipni_surname: Lawson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5350-1), [Wikidata](https://www.wikidata.org/wiki/Q2959591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5350-1) LSID 5350-1, [Wikidata](https://www.wikidata.org/wiki/Q2959591) QID Q2959591
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

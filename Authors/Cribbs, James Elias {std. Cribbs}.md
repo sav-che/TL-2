@@ -6,7 +6,7 @@ tl2_surname: Cribbs
 tl2_forenames: James Elias
 tl2_name_abbrev: Cribbs
 tl2_dates: 1891-x
-tl2_page_id: 33266145
+tl2_bhl_page_id: 33266145
 author_lsid: 33982-1
 wikidata_id: Q36588371
 ipni_surname: Cribbs
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/33982-1), [Wikidata](https://www.wikidata.org/wiki/Q36588371). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33982-1) LSID 33982-1, [Wikidata](https://www.wikidata.org/wiki/Q36588371) QID Q36588371
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

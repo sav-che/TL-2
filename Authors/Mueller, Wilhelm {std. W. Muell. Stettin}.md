@@ -6,7 +6,7 @@ tl2_surname: Mueller
 tl2_forenames: Wilhelm
 tl2_name_abbrev: W. Muell. Stettin
 tl2_dates: fl. 1898
-tl2_page_id: 33355739
+tl2_bhl_page_id: 33355739
 author_lsid: 6750-1
 wikidata_id: Q47123042
 ipni_surname: Mueller
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33355739) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6750-1), [Wikidata](https://www.wikidata.org/wiki/Q47123042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6750-1) LSID 6750-1, [Wikidata](https://www.wikidata.org/wiki/Q47123042) QID Q47123042
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

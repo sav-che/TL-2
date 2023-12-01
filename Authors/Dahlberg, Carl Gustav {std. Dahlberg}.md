@@ -6,7 +6,7 @@ tl2_surname: Dahlberg
 tl2_forenames: Carl Gustav
 tl2_name_abbrev: Dahlberg
 tl2_dates: fl. 1753
-tl2_page_id: 33120719
+tl2_bhl_page_id: 33120719
 author_lsid: 1955-1
 wikidata_id: Q21509717
 ipni_surname: Dahlberg
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-10-19 01:43:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33120719) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1955-1), [Wikidata](https://www.wikidata.org/wiki/Q21509717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1955-1) LSID 1955-1, [Wikidata](https://www.wikidata.org/wiki/Q21509717) QID Q21509717
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

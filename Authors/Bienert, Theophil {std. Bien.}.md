@@ -6,7 +6,7 @@ tl2_surname: Bienert
 tl2_forenames: Theophil
 tl2_name_abbrev: Bien.
 tl2_dates: x-1873
-tl2_page_id: 33265357
+tl2_bhl_page_id: 33265357
 author_lsid: 12346-1
 wikidata_id: Q6145762
 ipni_surname: Bienert
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33265357) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/12346-1), [Wikidata](https://www.wikidata.org/wiki/Q6145762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12346-1) LSID 12346-1, [Wikidata](https://www.wikidata.org/wiki/Q6145762) QID Q6145762
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

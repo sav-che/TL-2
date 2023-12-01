@@ -6,7 +6,7 @@ tl2_surname: Hartman
 tl2_forenames: Carl Johan
 tl2_name_abbrev: Hartm.
 tl2_dates: 1790-1849
-tl2_page_id: 33068307
+tl2_bhl_page_id: 33068307
 author_lsid: 3691-1
 wikidata_id: Q4352379
 ipni_surname: Hartman
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:33:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33068307) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3691-1), [Wikidata](https://www.wikidata.org/wiki/Q4352379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3691-1) LSID 3691-1, [Wikidata](https://www.wikidata.org/wiki/Q4352379) QID Q4352379
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Robinson
 tl2_forenames: Benjamin Lincoln
 tl2_name_abbrev: B.L. Robinson
 tl2_dates: 1864-1935
-tl2_page_id: 33190284
+tl2_bhl_page_id: 33190284
 author_lsid: 8454-1
 wikidata_id: Q817600
 ipni_surname: Robinson
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:51:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33190284) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8454-1), [Wikidata](https://www.wikidata.org/wiki/Q817600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8454-1) LSID 8454-1, [Wikidata](https://www.wikidata.org/wiki/Q817600) QID Q817600
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

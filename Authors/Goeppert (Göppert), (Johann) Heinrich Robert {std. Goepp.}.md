@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol1_1219
 tl2_volume: vol1
 tl2_page_printed: 964
-tl2_surname: Goeppert [Göppert]
-tl2_forenames: [Johann] Heinrich Robert
+tl2_surname: Goeppert (Göppert)
+tl2_forenames: (Johann) Heinrich Robert
 tl2_name_abbrev: Goepp.
 tl2_dates: 1800-1884
-tl2_page_id: 33121095
+tl2_bhl_page_id: 33121095
 author_lsid: 3224-1
 wikidata_id: Q62670
 ipni_surname: Göppert
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/page/33121095) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3224-1), [Wikidata](https://www.wikidata.org/wiki/Q62670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3224-1) LSID 3224-1, [Wikidata](https://www.wikidata.org/wiki/Q62670) QID Q62670
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Goeppert (Göppert), (Johann) Heinrich (Robert) {std. Goepp.} (Suppl.)|second entry]] for this author
 

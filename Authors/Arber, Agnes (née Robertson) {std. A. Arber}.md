@@ -6,7 +6,7 @@ tl2_surname: Arber
 tl2_forenames: Agnes (née Robertson)
 tl2_name_abbrev: A. Arber
 tl2_dates: 1879-1960
-tl2_page_id: 33120187
+tl2_bhl_page_id: 33120187
 author_lsid: 12328-1
 wikidata_id: Q394451
 ipni_surname: Arber
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33120187) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12328-1), [Wikidata](https://www.wikidata.org/wiki/Q394451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12328-1) LSID 12328-1, [Wikidata](https://www.wikidata.org/wiki/Q394451) QID Q394451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arber, Agnes (née Robertson) {std. A. Arber} (Suppl.)|second entry]] for this author
 

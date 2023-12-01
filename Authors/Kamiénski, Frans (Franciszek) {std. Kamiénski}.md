@@ -6,7 +6,7 @@ tl2_surname: Kamiénski
 tl2_forenames: Frans (Franciszek)
 tl2_name_abbrev: Kamiénski
 tl2_dates: 1851-1912
-tl2_page_id: 33068734
+tl2_bhl_page_id: 33068734
 author_lsid: 4627-1
 wikidata_id: Q5484291
 ipni_surname: Kamieński
@@ -24,7 +24,8 @@ ipni_record_modified: 2007-07-31 09:29:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4627-1), [Wikidata](https://www.wikidata.org/wiki/Q5484291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4627-1) LSID 4627-1, [Wikidata](https://www.wikidata.org/wiki/Q5484291) QID Q5484291
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

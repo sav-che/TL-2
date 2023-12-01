@@ -6,7 +6,7 @@ tl2_surname: Johnson
 tl2_forenames: Carl Johan
 tl2_name_abbrev: Johans.
 tl2_dates: 1858-1888
-tl2_page_id: 33068688
+tl2_bhl_page_id: 33068688
 author_lsid: 12581-1
 wikidata_id: Q20652193
 ipni_surname: Johanson
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33068688) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12581-1), [Wikidata](https://www.wikidata.org/wiki/Q20652193). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12581-1) LSID 12581-1, [Wikidata](https://www.wikidata.org/wiki/Q20652193) QID Q20652193
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

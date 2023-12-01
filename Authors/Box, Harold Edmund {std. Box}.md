@@ -6,7 +6,7 @@ tl2_surname: Box
 tl2_forenames: Harold Edmund
 tl2_name_abbrev: Box
 tl2_dates: 1898-1972(?)
-tl2_page_id: 33265600
+tl2_bhl_page_id: 33265600
 author_lsid: 1049-1
 wikidata_id: Q21506386
 ipni_surname: Box
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1049-1), [Wikidata](https://www.wikidata.org/wiki/Q21506386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1049-1) LSID 1049-1, [Wikidata](https://www.wikidata.org/wiki/Q21506386) QID Q21506386
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

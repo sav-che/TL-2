@@ -6,7 +6,7 @@ tl2_surname: Lange
 tl2_forenames: Jakob Emanuel
 tl2_name_abbrev: J.E. Lange
 tl2_dates: 1864-1941
-tl2_page_id: 33068987
+tl2_bhl_page_id: 33068987
 author_lsid: 5260-1
 wikidata_id: Q2628991
 ipni_surname: Lange
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5260-1), [Wikidata](https://www.wikidata.org/wiki/Q2628991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5260-1) LSID 5260-1, [Wikidata](https://www.wikidata.org/wiki/Q2628991) QID Q2628991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

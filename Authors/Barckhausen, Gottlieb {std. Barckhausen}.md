@@ -6,7 +6,7 @@ tl2_surname: Barckhausen
 tl2_forenames: Gottlieb
 tl2_name_abbrev: Barckhausen
 tl2_dates: fl. 1775
-tl2_page_id: 33120252
+tl2_bhl_page_id: 33120252
 author_lsid: 473-1
 wikidata_id: Q36559839
 ipni_surname: Barckhausen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/473-1), [Wikidata](https://www.wikidata.org/wiki/Q36559839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/473-1) LSID 473-1, [Wikidata](https://www.wikidata.org/wiki/Q36559839) QID Q36559839
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Barckhausen, Justus Christian Gottlieb Willibald {std. Barckhausen} (Suppl.)|second entry]] for this author
 

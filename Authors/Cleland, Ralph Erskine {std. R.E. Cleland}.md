@@ -6,7 +6,7 @@ tl2_surname: Cleland
 tl2_forenames: Ralph Erskine
 tl2_name_abbrev: R.E. Cleland
 tl2_dates: 1892-1971
-tl2_page_id: 33265880
+tl2_bhl_page_id: 33265880
 author_lsid: 1686-1
 wikidata_id: Q7287465
 ipni_surname: Cleland
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265880) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1686-1), [Wikidata](https://www.wikidata.org/wiki/Q7287465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1686-1) LSID 1686-1, [Wikidata](https://www.wikidata.org/wiki/Q7287465) QID Q7287465
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

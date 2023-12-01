@@ -6,7 +6,7 @@ tl2_surname: Jörgensen
 tl2_forenames: Eugen Honoratius
 tl2_name_abbrev: Jörg.
 tl2_dates: 1862-1938
-tl2_page_id: 33068687
+tl2_bhl_page_id: 33068687
 author_lsid: 4495-1
 wikidata_id: Q11968073
 ipni_surname: Jørgensen
@@ -25,7 +25,8 @@ ipni_record_modified: 2009-12-15 09:23:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4495-1), [Wikidata](https://www.wikidata.org/wiki/Q11968073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4495-1) LSID 4495-1, [Wikidata](https://www.wikidata.org/wiki/Q11968073) QID Q11968073
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

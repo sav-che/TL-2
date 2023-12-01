@@ -6,7 +6,7 @@ tl2_surname: Raunkiaer
 tl2_forenames: Christen Christiansen
 tl2_name_abbrev: Raunk.
 tl2_dates: 1860-1938
-tl2_page_id: 33190061
+tl2_bhl_page_id: 33190061
 author_lsid: 25371-1
 wikidata_id: Q444984
 ipni_surname: Raunkiaer
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:42:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33190061) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25371-1), [Wikidata](https://www.wikidata.org/wiki/Q444984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25371-1) LSID 25371-1, [Wikidata](https://www.wikidata.org/wiki/Q444984) QID Q444984
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Capellini
 tl2_forenames: Giovanni
 tl2_name_abbrev: Capellini
 tl2_dates: 1833-1922
-tl2_page_id: 33266701
+tl2_bhl_page_id: 33266701
 author_lsid: 1388-1
 wikidata_id: Q451416
 ipni_surname: Capellini
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33266701) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1388-1), [Wikidata](https://www.wikidata.org/wiki/Q451416). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1388-1) LSID 1388-1, [Wikidata](https://www.wikidata.org/wiki/Q451416) QID Q451416
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Capellini, Giovanni {std. Capellini}|first entry]] for this author
 

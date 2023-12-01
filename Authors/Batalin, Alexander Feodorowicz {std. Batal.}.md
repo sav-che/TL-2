@@ -6,7 +6,7 @@ tl2_surname: Batalin
 tl2_forenames: Alexander Feodorowicz
 tl2_name_abbrev: Batal.
 tl2_dates: 1847-1896
-tl2_page_id: 33265099
+tl2_bhl_page_id: 33265099
 author_lsid: 535-1
 wikidata_id: Q1992260
 ipni_surname: Batalin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265099) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/535-1), [Wikidata](https://www.wikidata.org/wiki/Q1992260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/535-1) LSID 535-1, [Wikidata](https://www.wikidata.org/wiki/Q1992260) QID Q1992260
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

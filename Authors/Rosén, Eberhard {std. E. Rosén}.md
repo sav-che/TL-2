@@ -6,7 +6,7 @@ tl2_surname: Rosén
 tl2_forenames: Eberhard
 tl2_name_abbrev: E. Rosén
 tl2_dates: 1714-1796
-tl2_page_id: 33190358
+tl2_bhl_page_id: 33190358
 author_lsid: 8588-1
 wikidata_id: Q21607411
 ipni_surname: Rosén
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8588-1), [Wikidata](https://www.wikidata.org/wiki/Q21607411). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8588-1) LSID 8588-1, [Wikidata](https://www.wikidata.org/wiki/Q21607411) QID Q21607411
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

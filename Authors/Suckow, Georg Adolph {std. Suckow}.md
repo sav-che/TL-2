@@ -6,7 +6,7 @@ tl2_surname: Suckow
 tl2_forenames: Georg Adolph
 tl2_name_abbrev: Suckow
 tl2_dates: 1751-1813
-tl2_page_id: 33212118
+tl2_bhl_page_id: 33212118
 author_lsid: 10271-1
 wikidata_id: Q73824
 ipni_surname: Suckow
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33212118) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10271-1), [Wikidata](https://www.wikidata.org/wiki/Q73824). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10271-1) LSID 10271-1, [Wikidata](https://www.wikidata.org/wiki/Q73824) QID Q73824
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

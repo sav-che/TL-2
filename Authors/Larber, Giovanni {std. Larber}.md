@@ -6,7 +6,7 @@ tl2_surname: Larber
 tl2_forenames: Giovanni
 tl2_name_abbrev: Larber
 tl2_dates: 1785-1845
-tl2_page_id: 33069002
+tl2_bhl_page_id: 33069002
 author_lsid: 5289-1
 wikidata_id: Q21518393
 ipni_surname: Larber
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5289-1), [Wikidata](https://www.wikidata.org/wiki/Q21518393). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5289-1) LSID 5289-1, [Wikidata](https://www.wikidata.org/wiki/Q21518393) QID Q21518393
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

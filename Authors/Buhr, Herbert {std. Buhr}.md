@@ -6,7 +6,7 @@ tl2_surname: Buhr
 tl2_forenames: Herbert
 tl2_name_abbrev: Buhr
 tl2_dates: 1902-1968
-tl2_page_id: 33266521
+tl2_bhl_page_id: 33266521
 author_lsid: 16685-1
 wikidata_id: Q1608109
 ipni_surname: Buhr
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33266521) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16685-1), [Wikidata](https://www.wikidata.org/wiki/Q1608109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16685-1) LSID 16685-1, [Wikidata](https://www.wikidata.org/wiki/Q1608109) QID Q1608109
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

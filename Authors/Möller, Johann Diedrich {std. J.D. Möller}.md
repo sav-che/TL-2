@@ -6,7 +6,7 @@ tl2_surname: Möller
 tl2_forenames: Johann Diedrich
 tl2_name_abbrev: J.D. Möller
 tl2_dates: 1844-1907
-tl2_page_id: 33355622
+tl2_bhl_page_id: 33355622
 author_lsid: 6548-1
 wikidata_id: Q1693232
 ipni_surname: Möller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33355622) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6548-1), [Wikidata](https://www.wikidata.org/wiki/Q1693232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6548-1) LSID 6548-1, [Wikidata](https://www.wikidata.org/wiki/Q1693232) QID Q1693232
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

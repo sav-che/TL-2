@@ -6,7 +6,7 @@ tl2_surname: McDermott
 tl2_forenames: Laura Frances
 tl2_name_abbrev: McDermott
 tl2_dates: 1882-1923
-tl2_page_id: 33355303
+tl2_bhl_page_id: 33355303
 author_lsid: 13590-1
 wikidata_id: Q21520227
 ipni_surname: McDermott
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33355303) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/13590-1), [Wikidata](https://www.wikidata.org/wiki/Q21520227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13590-1) LSID 13590-1, [Wikidata](https://www.wikidata.org/wiki/Q21520227) QID Q21520227
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

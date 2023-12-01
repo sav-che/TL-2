@@ -6,7 +6,7 @@ tl2_surname: Spruce
 tl2_forenames: Richard
 tl2_name_abbrev: Spruce
 tl2_dates: 1817-1893
-tl2_page_id: 33333955
+tl2_bhl_page_id: 33333955
 author_lsid: 9995-1
 wikidata_id: Q1349394
 ipni_surname: Spruce
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:32:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33333955) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9995-1), [Wikidata](https://www.wikidata.org/wiki/Q1349394). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9995-1) LSID 9995-1, [Wikidata](https://www.wikidata.org/wiki/Q1349394) QID Q1349394
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

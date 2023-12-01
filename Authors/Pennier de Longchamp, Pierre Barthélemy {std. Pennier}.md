@@ -6,7 +6,7 @@ tl2_surname: Pennier de Longchamp
 tl2_forenames: Pierre Barthélemy
 tl2_name_abbrev: Pennier
 tl2_dates: fl. 1766
-tl2_page_id: 33189626
+tl2_bhl_page_id: 33189626
 author_lsid: 7492-1
 wikidata_id: Q36654436
 ipni_surname: Pennier de Longchamp
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33189626) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7492-1), [Wikidata](https://www.wikidata.org/wiki/Q36654436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7492-1) LSID 7492-1, [Wikidata](https://www.wikidata.org/wiki/Q36654436) QID Q36654436
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

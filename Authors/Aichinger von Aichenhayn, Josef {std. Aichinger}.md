@@ -6,7 +6,7 @@ tl2_surname: Aichinger von Aichenhayn
 tl2_forenames: Josef
 tl2_name_abbrev: Aichinger
 tl2_dates: 1789-1870
-tl2_page_id: 33264740
+tl2_bhl_page_id: 33264740
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33264740) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

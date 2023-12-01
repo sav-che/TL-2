@@ -6,27 +6,30 @@ tl2_surname: Dill
 tl2_forenames: Ernst Oscar
 tl2_name_abbrev: E.O. Dill
 tl2_dates: fl. 1895
-tl2_page_id: 33259385
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33259385
+author_lsid: 32931-1
+wikidata_id: Q47116483
+ipni_surname: Dill
+ipni_forenames: Ernst Oscar
+ipni_standard_form: O.Dill
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Algae
+ipni_geo_scope:
+ipni_version: 1.3
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33259385) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32931-1) LSID 32931-1, [Wikidata](https://www.wikidata.org/wiki/Q47116483) QID Q47116483
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Dill, Ernst Oscar (fl. 1895), Swiss botanist at Basel, Dr. phil. 1895 at the University of Basel. 
-**Abbreviated name**: *E.O. Dill*
+**Abbreviated name**: *E.O. Dill* \[standard form in IPNI: *O.Dill*\]
 
 #### Herbarium and types
 

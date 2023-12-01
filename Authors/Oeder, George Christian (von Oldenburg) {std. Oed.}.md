@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0955
 tl2_volume: vol3
 tl2_page_printed: 803
 tl2_surname: Oeder
-tl2_forenames: George Christian [von Oldenburg]
+tl2_forenames: George Christian (von Oldenburg)
 tl2_name_abbrev: Oed.
 tl2_dates: 1728-1791
-tl2_page_id: 33355890
+tl2_bhl_page_id: 33355890
 author_lsid: 24254-1
 wikidata_id: Q64346
 ipni_surname: Oeder
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:36:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24254-1), [Wikidata](https://www.wikidata.org/wiki/Q64346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24254-1) LSID 24254-1, [Wikidata](https://www.wikidata.org/wiki/Q64346) QID Q64346
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

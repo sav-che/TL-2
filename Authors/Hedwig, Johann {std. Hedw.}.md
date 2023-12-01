@@ -6,7 +6,7 @@ tl2_surname: Hedwig
 tl2_forenames: Johann
 tl2_name_abbrev: Hedw.
 tl2_dates: 1730-1799
-tl2_page_id: 33068361
+tl2_bhl_page_id: 33068361
 author_lsid: 3773-1
 wikidata_id: Q64256
 ipni_surname: Hedwig
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3773-1), [Wikidata](https://www.wikidata.org/wiki/Q64256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3773-1) LSID 3773-1, [Wikidata](https://www.wikidata.org/wiki/Q64256) QID Q64256
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

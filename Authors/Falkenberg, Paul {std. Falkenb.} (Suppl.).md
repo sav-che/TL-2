@@ -6,7 +6,7 @@ tl2_surname: Falkenberg
 tl2_forenames: Paul
 tl2_name_abbrev: Falkenb.
 tl2_dates: 1848-1925
-tl2_page_id: 33259532
+tl2_bhl_page_id: 33259532
 author_lsid: 2628-1
 wikidata_id: Q84485
 ipni_surname: Falkenberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2628-1), [Wikidata](https://www.wikidata.org/wiki/Q84485). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2628-1) LSID 2628-1, [Wikidata](https://www.wikidata.org/wiki/Q84485) QID Q84485
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Falkenberg, Paul {std. Falkenb.}|first entry]] for this author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0339
 tl2_volume: suppl8
 tl2_page_printed: 466
-tl2_surname: Gutwiński [Gutwinski]
+tl2_surname: Gutwiński (Gutwinski)
 tl2_forenames: Roman
 tl2_name_abbrev: Gutw.
 tl2_dates: 1860-1932
-tl2_page_id: 33258944
+tl2_bhl_page_id: 33258944
 author_lsid: 29411-1
 wikidata_id: Q21514438
 ipni_surname: Gutwinski
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33258944) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/29411-1), [Wikidata](https://www.wikidata.org/wiki/Q21514438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29411-1) LSID 29411-1, [Wikidata](https://www.wikidata.org/wiki/Q21514438) QID Q21514438
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

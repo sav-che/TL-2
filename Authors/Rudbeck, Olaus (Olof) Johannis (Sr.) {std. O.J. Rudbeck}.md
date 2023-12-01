@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0997
 tl2_volume: vol4
 tl2_page_printed: 968
 tl2_surname: Rudbeck
-tl2_forenames: Olaus [Olof] Johannis [Sr.]
+tl2_forenames: Olaus (Olof) Johannis (Sr.)
 tl2_name_abbrev: O.J. Rudbeck
 tl2_dates: 1630-1702
-tl2_page_id: 33190439
+tl2_bhl_page_id: 33190439
 author_lsid: 8703-1
 wikidata_id: Q350198
 ipni_surname: Rudbeck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8703-1), [Wikidata](https://www.wikidata.org/wiki/Q350198). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8703-1) LSID 8703-1, [Wikidata](https://www.wikidata.org/wiki/Q350198) QID Q350198
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

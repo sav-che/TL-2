@@ -6,7 +6,7 @@ tl2_surname: Kauffman
 tl2_forenames: Calvin Henry
 tl2_name_abbrev: Kauffm.
 tl2_dates: 1869-1931
-tl2_page_id: 33068749
+tl2_bhl_page_id: 33068749
 author_lsid: 4671-1
 wikidata_id: Q4217653
 ipni_surname: Kauffman
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33068749) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4671-1), [Wikidata](https://www.wikidata.org/wiki/Q4217653). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4671-1) LSID 4671-1, [Wikidata](https://www.wikidata.org/wiki/Q4217653) QID Q4217653
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

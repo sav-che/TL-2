@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0753
 tl2_volume: vol2
 tl2_page_printed: 649
 tl2_surname: Koppe
-tl2_forenames: Carl [Karl] Friedrich August
+tl2_forenames: Carl (Karl) Friedrich August
 tl2_name_abbrev: Koppe
 tl2_dates: 1803-1874
-tl2_page_id: 33068891
+tl2_bhl_page_id: 33068891
 author_lsid: 4958-1
 wikidata_id: Q21517729
 ipni_surname: Koppe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4958-1), [Wikidata](https://www.wikidata.org/wiki/Q21517729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4958-1) LSID 4958-1, [Wikidata](https://www.wikidata.org/wiki/Q21517729) QID Q21517729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

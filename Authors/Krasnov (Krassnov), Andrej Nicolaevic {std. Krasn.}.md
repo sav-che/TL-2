@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol2_0775
 tl2_volume: vol2
 tl2_page_printed: 663
-tl2_surname: Krasnov [Krassnov]
+tl2_surname: Krasnov (Krassnov)
 tl2_forenames: Andrej Nicolaevic
 tl2_name_abbrev: Krasn.
 tl2_dates: 1862-1914
-tl2_page_id: 33068905
+tl2_bhl_page_id: 33068905
 author_lsid: 5030-1
 wikidata_id: Q2846818
 ipni_surname: Krasnov
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5030-1), [Wikidata](https://www.wikidata.org/wiki/Q2846818). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5030-1) LSID 5030-1, [Wikidata](https://www.wikidata.org/wiki/Q2846818) QID Q2846818
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

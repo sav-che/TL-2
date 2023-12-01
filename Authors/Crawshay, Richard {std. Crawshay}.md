@@ -6,7 +6,7 @@ tl2_surname: Crawshay
 tl2_forenames: Richard
 tl2_name_abbrev: Crawshay
 tl2_dates: 1862-1958
-tl2_page_id: 33266130
+tl2_bhl_page_id: 33266130
 author_lsid: 17502-1
 wikidata_id: Q21509500
 ipni_surname: Crawshay
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266130) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17502-1), [Wikidata](https://www.wikidata.org/wiki/Q21509500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17502-1) LSID 17502-1, [Wikidata](https://www.wikidata.org/wiki/Q21509500) QID Q21509500
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

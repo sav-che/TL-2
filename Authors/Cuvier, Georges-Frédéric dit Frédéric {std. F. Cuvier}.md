@@ -6,7 +6,7 @@ tl2_surname: Cuvier
 tl2_forenames: Georges-Frédéric dit Frédéric
 tl2_name_abbrev: F. Cuvier
 tl2_dates: 1773-1838
-tl2_page_id: 33120716
+tl2_bhl_page_id: 33120716
 author_lsid: 13057-1
 wikidata_id: Q467962
 ipni_surname: Cuvier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33120716) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/13057-1), [Wikidata](https://www.wikidata.org/wiki/Q467962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13057-1) LSID 13057-1, [Wikidata](https://www.wikidata.org/wiki/Q467962) QID Q467962
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

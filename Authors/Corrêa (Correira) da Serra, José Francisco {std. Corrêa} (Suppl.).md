@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl4_0300
 tl2_volume: suppl4
 tl2_page_printed: 369
-tl2_surname: Corrêa [Correira] da Serra
+tl2_surname: Corrêa (Correira) da Serra
 tl2_forenames: José Francisco
 tl2_name_abbrev: Corrêa
 tl2_dates: 1751-1823
-tl2_page_id: 33266046
+tl2_bhl_page_id: 33266046
 author_lsid: 1812-1
 wikidata_id: Q2656605
 ipni_surname: Corrêa da Serra
@@ -24,7 +24,8 @@ ipni_record_modified: 2007-12-11 09:57:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33266046) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1812-1), [Wikidata](https://www.wikidata.org/wiki/Q2656605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1812-1) LSID 1812-1, [Wikidata](https://www.wikidata.org/wiki/Q2656605) QID Q2656605
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Corrêa da Serra, José Francisco {std. Corrêa}|first entry]] for this author
 

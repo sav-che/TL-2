@@ -6,7 +6,7 @@ tl2_surname: Tullberg
 tl2_forenames: Sven Axel Teodor
 tl2_name_abbrev: Tullberg
 tl2_dates: 1852-1886
-tl2_page_id: 33212577
+tl2_bhl_page_id: 33212577
 author_lsid: 10900-1
 wikidata_id: Q6335227
 ipni_surname: Tullberg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33212577) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10900-1), [Wikidata](https://www.wikidata.org/wiki/Q6335227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10900-1) LSID 10900-1, [Wikidata](https://www.wikidata.org/wiki/Q6335227) QID Q6335227
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

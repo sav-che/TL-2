@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0335
 tl2_volume: suppl3
 tl2_page_printed: 350
 tl2_surname: Camus
-tl2_forenames: Fernand [Antonin]
+tl2_forenames: Fernand (Antonin)
 tl2_name_abbrev: F. Camus
 tl2_dates: 1852-1922
-tl2_page_id: 33266657
+tl2_bhl_page_id: 33266657
 author_lsid: 16853-1
 wikidata_id: Q15974143
 ipni_surname: Camus
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266657) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16853-1), [Wikidata](https://www.wikidata.org/wiki/Q15974143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16853-1) LSID 16853-1, [Wikidata](https://www.wikidata.org/wiki/Q15974143) QID Q15974143
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Berthelot
 tl2_forenames: Sabin
 tl2_name_abbrev: Berthel.
 tl2_dates: 1794-1880
-tl2_page_id: 33120333
+tl2_bhl_page_id: 33120333
 author_lsid: 16032-1
 wikidata_id: Q204261
 ipni_surname: Berthelot
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16032-1), [Wikidata](https://www.wikidata.org/wiki/Q204261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16032-1) LSID 16032-1, [Wikidata](https://www.wikidata.org/wiki/Q204261) QID Q204261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Berthelot, Sabin {std. Berthel.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Groenhart
 tl2_forenames: Pieter
 tl2_name_abbrev: Groenh.
 tl2_dates: 1894-1965
-tl2_page_id: 33258883
+tl2_bhl_page_id: 33258883
 author_lsid: 3402-1
 wikidata_id: Q19560623
 ipni_surname: Groenhart
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3402-1), [Wikidata](https://www.wikidata.org/wiki/Q19560623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3402-1) LSID 3402-1, [Wikidata](https://www.wikidata.org/wiki/Q19560623) QID Q19560623
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Groenhart, Pieter {std. Groenh.}|first entry]] for this author
 

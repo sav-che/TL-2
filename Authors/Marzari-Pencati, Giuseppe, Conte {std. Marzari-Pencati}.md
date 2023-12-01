@@ -6,7 +6,7 @@ tl2_surname: Marzari-Pencati
 tl2_forenames: Giuseppe, Conte
 tl2_name_abbrev: Marzari-Pencati
 tl2_dates: 1779-1836
-tl2_page_id: 33355433
+tl2_bhl_page_id: 33355433
 author_lsid: 6184-1
 wikidata_id: Q5880543
 ipni_surname: Marzari-Pencati
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6184-1), [Wikidata](https://www.wikidata.org/wiki/Q5880543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6184-1) LSID 6184-1, [Wikidata](https://www.wikidata.org/wiki/Q5880543) QID Q5880543
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

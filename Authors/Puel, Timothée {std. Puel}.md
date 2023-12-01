@@ -6,7 +6,7 @@ tl2_surname: Puel
 tl2_forenames: Timothée
 tl2_name_abbrev: Puel
 tl2_dates: 1812-1890
-tl2_page_id: 33189894
+tl2_bhl_page_id: 33189894
 author_lsid: 8009-1
 wikidata_id: Q16062567
 ipni_surname: Puel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8009-1), [Wikidata](https://www.wikidata.org/wiki/Q16062567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8009-1) LSID 8009-1, [Wikidata](https://www.wikidata.org/wiki/Q16062567) QID Q16062567
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl8_0299
 tl2_volume: suppl8
 tl2_page_printed: 413
-tl2_surname: Grossheim [Grossgeim]
+tl2_surname: Grossheim (Grossgeim)
 tl2_forenames: Alexander Alphonsovitch
 tl2_name_abbrev: Grossh.
 tl2_dates: 1888-1948
-tl2_page_id: 33258891
+tl2_bhl_page_id: 33258891
 author_lsid: 3417-1
 wikidata_id: Q2368398
 ipni_surname: Grossheim
@@ -28,7 +28,8 @@ ipni_record_modified: 2018-10-25 09:15:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33258891) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3417-1), [Wikidata](https://www.wikidata.org/wiki/Q2368398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3417-1) LSID 3417-1, [Wikidata](https://www.wikidata.org/wiki/Q2368398) QID Q2368398
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

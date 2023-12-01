@@ -6,7 +6,7 @@ tl2_surname: Gaterau
 tl2_forenames: Jean-Pierre
 tl2_name_abbrev: Gaterau
 tl2_dates: 1763-1794
-tl2_page_id: 33258612
+tl2_bhl_page_id: 33258612
 author_lsid: 3040-1
 wikidata_id: Q5797016
 ipni_surname: Gaterau
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33258612) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3040-1), [Wikidata](https://www.wikidata.org/wiki/Q5797016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3040-1) LSID 3040-1, [Wikidata](https://www.wikidata.org/wiki/Q5797016) QID Q5797016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gaterau {std. Gaterau}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Berlese
 tl2_forenames: Augusto Napoleone
 tl2_name_abbrev: Berl.
 tl2_dates: 1864-1903
-tl2_page_id: 33265298
+tl2_bhl_page_id: 33265298
 author_lsid: 16001-1
 wikidata_id: Q3629679
 ipni_surname: Berlese
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265298) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16001-1), [Wikidata](https://www.wikidata.org/wiki/Q3629679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16001-1) LSID 16001-1, [Wikidata](https://www.wikidata.org/wiki/Q3629679) QID Q3629679
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Berlese, Augusto Napoleone {std. Berl.}|first entry]] for this author
 

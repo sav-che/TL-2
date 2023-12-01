@@ -6,7 +6,7 @@ tl2_surname: Cruchet
 tl2_forenames: Denis
 tl2_name_abbrev: Cruchet
 tl2_dates: 1847-1926
-tl2_page_id: 33266161
+tl2_bhl_page_id: 33266161
 author_lsid: 1894-1
 wikidata_id: Q21509570
 ipni_surname: Cruchet
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:48:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33266161) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1894-1), [Wikidata](https://www.wikidata.org/wiki/Q21509570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1894-1) LSID 1894-1, [Wikidata](https://www.wikidata.org/wiki/Q21509570) QID Q21509570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

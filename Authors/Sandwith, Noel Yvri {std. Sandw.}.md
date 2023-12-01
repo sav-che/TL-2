@@ -6,7 +6,7 @@ tl2_surname: Sandwith
 tl2_forenames: Noel Yvri
 tl2_name_abbrev: Sandw.
 tl2_dates: 1901-1965
-tl2_page_id: 33333136
+tl2_bhl_page_id: 33333136
 author_lsid: 8895-1
 wikidata_id: Q346126
 ipni_surname: Sandwith
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8895-1), [Wikidata](https://www.wikidata.org/wiki/Q346126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8895-1) LSID 8895-1, [Wikidata](https://www.wikidata.org/wiki/Q346126) QID Q346126
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

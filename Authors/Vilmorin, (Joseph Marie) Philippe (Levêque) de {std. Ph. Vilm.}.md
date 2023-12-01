@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0726
 tl2_volume: vol6
 tl2_page_printed: 746
 tl2_surname: Vilmorin
-tl2_forenames: [Joseph Marie] Philippe [Levêque] de
+tl2_forenames: (Joseph Marie) Philippe (Levêque) de
 tl2_name_abbrev: Ph. Vilm.
 tl2_dates: 1872-1917
-tl2_page_id: 33212788
+tl2_bhl_page_id: 33212788
 author_lsid: 11200-1
 wikidata_id: Q3381015
 ipni_surname: Vilmorin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33212788) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11200-1), [Wikidata](https://www.wikidata.org/wiki/Q3381015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11200-1) LSID 11200-1, [Wikidata](https://www.wikidata.org/wiki/Q3381015) QID Q3381015
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

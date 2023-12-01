@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0401
 tl2_volume: vol6
 tl2_page_printed: 377
 tl2_surname: Tobler
-tl2_forenames: Gertrud [Paula], née Wolff
+tl2_forenames: Gertrud (Paula), née Wolff
 tl2_name_abbrev: G. Tobl.
 tl2_dates: 1877-1948
-tl2_page_id: 33212419
+tl2_bhl_page_id: 33212419
 author_lsid: 12937-1
 wikidata_id: Q21610810
 ipni_surname: Tobler
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33212419) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12937-1), [Wikidata](https://www.wikidata.org/wiki/Q21610810). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12937-1) LSID 12937-1, [Wikidata](https://www.wikidata.org/wiki/Q21610810) QID Q21610810
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Gilbert
 tl2_forenames: Édouard-Jean
 tl2_name_abbrev: É.-J. Gilbert
 tl2_dates: 1888-1954
-tl2_page_id: 33258683
+tl2_bhl_page_id: 33258683
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33258683) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

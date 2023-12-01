@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0756
 tl2_volume: vol6
 tl2_page_printed: 773
 tl2_surname: Vogtherr
-tl2_forenames: Max [Adalbert Theodor Eugen]
+tl2_forenames: Max (Adalbert Theodor Eugen)
 tl2_name_abbrev: Vogtherr
 tl2_dates: 1850-1915
-tl2_page_id: 33212815
+tl2_bhl_page_id: 33212815
 author_lsid: 12976-1
 wikidata_id: Q21611846
 ipni_surname: Vogtherr
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33212815) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12976-1), [Wikidata](https://www.wikidata.org/wiki/Q21611846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12976-1) LSID 12976-1, [Wikidata](https://www.wikidata.org/wiki/Q21611846) QID Q21611846
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

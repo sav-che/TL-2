@@ -6,7 +6,7 @@ tl2_surname: Biswas
 tl2_forenames: Kalipada P.
 tl2_name_abbrev: Biswas
 tl2_dates: 1899-x
-tl2_page_id: 33120353
+tl2_bhl_page_id: 33120353
 author_lsid: 812-1
 wikidata_id: Q18983084
 ipni_surname: Biswas
@@ -26,7 +26,8 @@ ipni_record_modified: 2011-12-12 13:21:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33120353) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/812-1), [Wikidata](https://www.wikidata.org/wiki/Q18983084). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/812-1) LSID 812-1, [Wikidata](https://www.wikidata.org/wiki/Q18983084) QID Q18983084
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Biswas, Kalipada P. {std. Biswas} (Suppl.)|second entry]] for this author
 

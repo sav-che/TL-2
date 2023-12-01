@@ -6,7 +6,7 @@ tl2_surname: Schrader
 tl2_forenames: Christian Friedrich
 tl2_name_abbrev: C. Schrad.
 tl2_dates: 174.-1816
-tl2_page_id: 33333454
+tl2_bhl_page_id: 33333454
 author_lsid: 9246-1
 wikidata_id: Q20243227
 ipni_surname: Schrader
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33333454) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9246-1), [Wikidata](https://www.wikidata.org/wiki/Q20243227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9246-1) LSID 9246-1, [Wikidata](https://www.wikidata.org/wiki/Q20243227) QID Q20243227
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

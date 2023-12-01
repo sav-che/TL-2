@@ -6,7 +6,7 @@ tl2_surname: Saxén
 tl2_forenames: Uno Alfons
 tl2_name_abbrev: Saxén
 tl2_dates: 1863-1948
-tl2_page_id: 33333233
+tl2_bhl_page_id: 33333233
 author_lsid: 8986-1
 wikidata_id: Q17383673
 ipni_surname: Saxén
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8986-1), [Wikidata](https://www.wikidata.org/wiki/Q17383673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8986-1) LSID 8986-1, [Wikidata](https://www.wikidata.org/wiki/Q17383673) QID Q17383673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

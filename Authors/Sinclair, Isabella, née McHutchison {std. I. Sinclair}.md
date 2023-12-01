@@ -6,7 +6,7 @@ tl2_surname: Sinclair
 tl2_forenames: Isabella, née McHutchison
 tl2_name_abbrev: I. Sinclair
 tl2_dates: 1842-1900
-tl2_page_id: 33333753
+tl2_bhl_page_id: 33333753
 author_lsid: 12867-1
 wikidata_id: Q21608950
 ipni_surname: Sinclair
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33333753) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12867-1), [Wikidata](https://www.wikidata.org/wiki/Q21608950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12867-1) LSID 12867-1, [Wikidata](https://www.wikidata.org/wiki/Q21608950) QID Q21608950
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

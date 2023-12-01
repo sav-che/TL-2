@@ -6,7 +6,7 @@ tl2_surname: Hollós
 tl2_forenames: Ladislaus (Lászlo)
 tl2_name_abbrev: Hollós
 tl2_dates: 1859-1940
-tl2_page_id: 33068500
+tl2_bhl_page_id: 33068500
 author_lsid: 4044-1
 wikidata_id: Q1037876
 ipni_surname: Hollós
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4044-1), [Wikidata](https://www.wikidata.org/wiki/Q1037876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4044-1) LSID 4044-1, [Wikidata](https://www.wikidata.org/wiki/Q1037876) QID Q1037876
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

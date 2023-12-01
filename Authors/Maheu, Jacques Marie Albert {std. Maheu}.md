@@ -6,7 +6,7 @@ tl2_surname: Maheu
 tl2_forenames: Jacques Marie Albert
 tl2_name_abbrev: Maheu
 tl2_dates: 1873-1937
-tl2_page_id: 33355336
+tl2_bhl_page_id: 33355336
 author_lsid: 22753-1
 wikidata_id: Q16354756
 ipni_surname: Maheu
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33355336) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22753-1), [Wikidata](https://www.wikidata.org/wiki/Q16354756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22753-1) LSID 22753-1, [Wikidata](https://www.wikidata.org/wiki/Q16354756) QID Q16354756
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

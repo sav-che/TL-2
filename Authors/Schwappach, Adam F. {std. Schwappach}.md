@@ -6,7 +6,7 @@ tl2_surname: Schwappach
 tl2_forenames: Adam F.
 tl2_name_abbrev: Schwappach
 tl2_dates: 1851-1932
-tl2_page_id: 33333561
+tl2_bhl_page_id: 33333561
 author_lsid: 9353-1
 wikidata_id: Q106152
 ipni_surname: Schwappach
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33333561) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9353-1), [Wikidata](https://www.wikidata.org/wiki/Q106152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9353-1) LSID 9353-1, [Wikidata](https://www.wikidata.org/wiki/Q106152) QID Q106152
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

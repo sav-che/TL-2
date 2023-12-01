@@ -6,7 +6,7 @@ tl2_surname: Bernátzsky
 tl2_forenames: Jenö Emlékezette
 tl2_name_abbrev: Bernátzky
 tl2_dates: 1873-1945
-tl2_page_id: 33265305
+tl2_bhl_page_id: 33265305
 author_lsid: 13461-1
 wikidata_id: Q21506014
 ipni_surname: Bernátsky
@@ -23,7 +23,8 @@ ipni_record_modified: 2017-09-15 16:02:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33265305) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/13461-1), [Wikidata](https://www.wikidata.org/wiki/Q21506014). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13461-1) LSID 13461-1, [Wikidata](https://www.wikidata.org/wiki/Q21506014) QID Q21506014
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

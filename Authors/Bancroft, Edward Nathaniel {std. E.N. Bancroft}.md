@@ -6,7 +6,7 @@ tl2_surname: Bancroft
 tl2_forenames: Edward Nathaniel
 tl2_name_abbrev: E.N. Bancroft
 tl2_dates: 1772-1842
-tl2_page_id: 33265037
+tl2_bhl_page_id: 33265037
 author_lsid: 440-1
 wikidata_id: Q3048451
 ipni_surname: Bancroft
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:43:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265037) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/440-1), [Wikidata](https://www.wikidata.org/wiki/Q3048451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/440-1) LSID 440-1, [Wikidata](https://www.wikidata.org/wiki/Q3048451) QID Q3048451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

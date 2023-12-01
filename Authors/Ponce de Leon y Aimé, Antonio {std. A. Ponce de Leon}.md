@@ -6,7 +6,7 @@ tl2_surname: Ponce de Leon y Aimé
 tl2_forenames: Antonio
 tl2_name_abbrev: A. Ponce de Leon
 tl2_dates: 1887-1961
-tl2_page_id: 33189805
+tl2_bhl_page_id: 33189805
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33189805) of TL-2 Vol. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

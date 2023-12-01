@@ -6,7 +6,7 @@ tl2_surname: Moffatt
 tl2_forenames: Will (William) Sayer
 tl2_name_abbrev: Moffatt
 tl2_dates: 1847-1941
-tl2_page_id: 33355627
+tl2_bhl_page_id: 33355627
 author_lsid: 34607-1
 wikidata_id: Q36702937
 ipni_surname: Moffatt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33355627) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/34607-1), [Wikidata](https://www.wikidata.org/wiki/Q36702937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34607-1) LSID 34607-1, [Wikidata](https://www.wikidata.org/wiki/Q36702937) QID Q36702937
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

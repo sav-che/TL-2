@@ -6,7 +6,7 @@ tl2_surname: Lamotte
 tl2_forenames: Martial
 tl2_name_abbrev: Lamotte
 tl2_dates: 1820-1883
-tl2_page_id: 33068981
+tl2_bhl_page_id: 33068981
 author_lsid: 5240-1
 wikidata_id: Q6002190
 ipni_surname: Lamotte
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33068981) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5240-1), [Wikidata](https://www.wikidata.org/wiki/Q6002190). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5240-1) LSID 5240-1, [Wikidata](https://www.wikidata.org/wiki/Q6002190) QID Q6002190
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

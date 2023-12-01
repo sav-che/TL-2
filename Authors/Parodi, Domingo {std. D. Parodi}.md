@@ -6,7 +6,7 @@ tl2_surname: Parodi
 tl2_forenames: Domingo
 tl2_name_abbrev: D. Parodi
 tl2_dates: 1823-1890
-tl2_page_id: 33189546
+tl2_bhl_page_id: 33189546
 author_lsid: 7361-1
 wikidata_id: Q5812867
 ipni_surname: Parodi
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33189546) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7361-1), [Wikidata](https://www.wikidata.org/wiki/Q5812867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7361-1) LSID 7361-1, [Wikidata](https://www.wikidata.org/wiki/Q5812867) QID Q5812867
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

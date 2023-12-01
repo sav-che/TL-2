@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0530
 tl2_volume: vol6
 tl2_page_printed: 520
 tl2_surname: Tubeuf
-tl2_forenames: Carl [Karl] [Freiherr] von
+tl2_forenames: Carl (Karl) (Freiherr) von
 tl2_name_abbrev: Tub.
 tl2_dates: 1862-1941
-tl2_page_id: 33212562
+tl2_bhl_page_id: 33212562
 author_lsid: 10887-1
 wikidata_id: Q1041447
 ipni_surname: Tubeuf
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33212562) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10887-1), [Wikidata](https://www.wikidata.org/wiki/Q1041447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10887-1) LSID 10887-1, [Wikidata](https://www.wikidata.org/wiki/Q1041447) QID Q1041447
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

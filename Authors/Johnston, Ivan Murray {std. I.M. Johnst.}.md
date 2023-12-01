@@ -6,7 +6,7 @@ tl2_surname: Johnston
 tl2_forenames: Ivan Murray
 tl2_name_abbrev: I.M. Johnst.
 tl2_dates: 1898-1960
-tl2_page_id: 33068692
+tl2_bhl_page_id: 33068692
 author_lsid: 4519-1
 wikidata_id: Q729850
 ipni_surname: Johnston
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4519-1), [Wikidata](https://www.wikidata.org/wiki/Q729850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4519-1) LSID 4519-1, [Wikidata](https://www.wikidata.org/wiki/Q729850) QID Q729850
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

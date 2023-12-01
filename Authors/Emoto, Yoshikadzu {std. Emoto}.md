@@ -6,7 +6,7 @@ tl2_surname: Emoto
 tl2_forenames: Yoshikadzu
 tl2_name_abbrev: Emoto
 tl2_dates: 1892-x
-tl2_page_id: 33260323
+tl2_bhl_page_id: 33260323
 author_lsid: 18483-1
 wikidata_id: Q21512076
 ipni_surname: Emoto
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33260323) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18483-1), [Wikidata](https://www.wikidata.org/wiki/Q21512076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18483-1) LSID 18483-1, [Wikidata](https://www.wikidata.org/wiki/Q21512076) QID Q21512076
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

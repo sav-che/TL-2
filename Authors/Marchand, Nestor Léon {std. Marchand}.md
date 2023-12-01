@@ -6,7 +6,7 @@ tl2_surname: Marchand
 tl2_forenames: Nestor Léon
 tl2_name_abbrev: Marchand
 tl2_dates: 1833-1911
-tl2_page_id: 33355375
+tl2_bhl_page_id: 33355375
 author_lsid: 6089-1
 wikidata_id: Q6998001
 ipni_surname: Marchand
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6089-1), [Wikidata](https://www.wikidata.org/wiki/Q6998001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6089-1) LSID 6089-1, [Wikidata](https://www.wikidata.org/wiki/Q6998001) QID Q6998001
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

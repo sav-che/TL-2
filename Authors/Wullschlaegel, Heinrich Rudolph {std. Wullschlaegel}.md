@@ -6,7 +6,7 @@ tl2_surname: Wullschlaegel
 tl2_forenames: Heinrich Rudolph
 tl2_name_abbrev: Wullschlaegel
 tl2_dates: 1805-1864
-tl2_page_id: 33066819
+tl2_bhl_page_id: 33066819
 author_lsid: 11904-1
 wikidata_id: Q205828
 ipni_surname: Wullschlaegel
@@ -24,7 +24,8 @@ ipni_record_modified: 2017-03-28 15:13:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33066819) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11904-1), [Wikidata](https://www.wikidata.org/wiki/Q205828). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11904-1) LSID 11904-1, [Wikidata](https://www.wikidata.org/wiki/Q205828) QID Q205828
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

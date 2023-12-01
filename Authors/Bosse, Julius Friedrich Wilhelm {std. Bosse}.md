@@ -6,7 +6,7 @@ tl2_surname: Bosse
 tl2_forenames: Julius Friedrich Wilhelm
 tl2_name_abbrev: Bosse
 tl2_dates: 1788-1864
-tl2_page_id: 33265567
+tl2_bhl_page_id: 33265567
 author_lsid: 1008-1
 wikidata_id: Q5687713
 ipni_surname: Bosse
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33265567) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1008-1), [Wikidata](https://www.wikidata.org/wiki/Q5687713). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1008-1) LSID 1008-1, [Wikidata](https://www.wikidata.org/wiki/Q5687713) QID Q5687713
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

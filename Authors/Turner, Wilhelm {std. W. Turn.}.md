@@ -6,7 +6,7 @@ tl2_surname: Turner
 tl2_forenames: Wilhelm
 tl2_name_abbrev: W. Turn.
 tl2_dates: 1860-?
-tl2_page_id: 33212590
+tl2_bhl_page_id: 33212590
 author_lsid: 10920-1
 wikidata_id: Q21611069
 ipni_surname: Turner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33212590) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10920-1), [Wikidata](https://www.wikidata.org/wiki/Q21611069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10920-1) LSID 10920-1, [Wikidata](https://www.wikidata.org/wiki/Q21611069) QID Q21611069
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0544
 tl2_volume: vol6
 tl2_page_printed: 537
 tl2_surname: Turczaninow
-tl2_forenames: Nicolai Stepanowitsch [von]
+tl2_forenames: Nicolai Stepanowitsch (von)
 tl2_name_abbrev: Turcz.
 tl2_dates: 1796-1863
-tl2_page_id: 33212579
+tl2_bhl_page_id: 33212579
 author_lsid: 10909-1
 wikidata_id: Q2640364
 ipni_surname: Turczaninow
@@ -24,7 +24,8 @@ ipni_record_modified: 2012-03-06 13:11:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10909-1), [Wikidata](https://www.wikidata.org/wiki/Q2640364). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10909-1) LSID 10909-1, [Wikidata](https://www.wikidata.org/wiki/Q2640364) QID Q2640364
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schmidtke
 tl2_forenames: Ernst
 tl2_name_abbrev: E. Schmidtke
 tl2_dates: fl. 1934
-tl2_page_id: 33333400
+tl2_bhl_page_id: 33333400
 author_lsid: 9172-1
 wikidata_id: Q36550152
 ipni_surname: Schmidtke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33333400) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9172-1), [Wikidata](https://www.wikidata.org/wiki/Q36550152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9172-1) LSID 9172-1, [Wikidata](https://www.wikidata.org/wiki/Q36550152) QID Q36550152
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Stiebel
 tl2_forenames: Salomon Friedrich
 tl2_name_abbrev: Stiebel
 tl2_dates: 1792-1868
-tl2_page_id: 33212093
+tl2_bhl_page_id: 33212093
 author_lsid: 10144-1
 wikidata_id: Q2214957
 ipni_surname: Stiebel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10144-1), [Wikidata](https://www.wikidata.org/wiki/Q2214957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10144-1) LSID 10144-1, [Wikidata](https://www.wikidata.org/wiki/Q2214957) QID Q2214957
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

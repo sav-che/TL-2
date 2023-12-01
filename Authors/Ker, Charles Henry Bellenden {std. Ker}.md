@@ -6,7 +6,7 @@ tl2_surname: Ker
 tl2_forenames: Charles Henry Bellenden
 tl2_name_abbrev: Ker
 tl2_dates: 1785?-1871
-tl2_page_id: 33068764
+tl2_bhl_page_id: 33068764
 author_lsid: 4733-1
 wikidata_id: Q5764886
 ipni_surname: Ker
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4733-1), [Wikidata](https://www.wikidata.org/wiki/Q5764886). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4733-1) LSID 4733-1, [Wikidata](https://www.wikidata.org/wiki/Q5764886) QID Q5764886
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

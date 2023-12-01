@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl6_0134
 tl2_volume: suppl6
 tl2_page_printed: 135
 tl2_surname: Du Chastel
-tl2_forenames: Ferdinand [Comte]
+tl2_forenames: Ferdinand (Comte)
 tl2_name_abbrev: Du Chastel
 tl2_dates: fl. 1849
-tl2_page_id: 33260123
+tl2_bhl_page_id: 33260123
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33260123) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

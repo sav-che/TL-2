@@ -6,7 +6,7 @@ tl2_surname: Dickie
 tl2_forenames: George
 tl2_name_abbrev: Dickie
 tl2_dates: 1812-1882
-tl2_page_id: 33120774
+tl2_bhl_page_id: 33120774
 author_lsid: 18018-1
 wikidata_id: Q13108100
 ipni_surname: Dickie
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18018-1), [Wikidata](https://www.wikidata.org/wiki/Q13108100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18018-1) LSID 18018-1, [Wikidata](https://www.wikidata.org/wiki/Q13108100) QID Q13108100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dickie, George (A.) {std. Dickie} (Suppl.)|second entry]] for this author
 

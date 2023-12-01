@@ -6,7 +6,7 @@ tl2_surname: Lloyd
 tl2_forenames: George N.
 tl2_name_abbrev: G.N. Lloyd
 tl2_dates: 1804-1889
-tl2_page_id: 33355214
+tl2_bhl_page_id: 33355214
 author_lsid: 5679-1
 wikidata_id: Q21519395
 ipni_surname: Lloyd
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33355214) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5679-1), [Wikidata](https://www.wikidata.org/wiki/Q21519395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5679-1) LSID 5679-1, [Wikidata](https://www.wikidata.org/wiki/Q21519395) QID Q21519395
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

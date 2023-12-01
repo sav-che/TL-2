@@ -6,7 +6,7 @@ tl2_surname: Colenso
 tl2_forenames: William
 tl2_name_abbrev: Colenso
 tl2_dates: 1811-1899
-tl2_page_id: 33265941
+tl2_bhl_page_id: 33265941
 author_lsid: 1736-1
 wikidata_id: Q2624463
 ipni_surname: Colenso
@@ -28,7 +28,8 @@ ipni_record_modified: 2011-10-12 06:52:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1736-1), [Wikidata](https://www.wikidata.org/wiki/Q2624463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1736-1) LSID 1736-1, [Wikidata](https://www.wikidata.org/wiki/Q2624463) QID Q2624463
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Colenso, William {std. Colenso}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Chiovenda
 tl2_forenames: Emilio
 tl2_name_abbrev: Chiov.
 tl2_dates: 1871-1940
-tl2_page_id: 33120627
+tl2_bhl_page_id: 33120627
 author_lsid: 1600-1
 wikidata_id: Q2348823
 ipni_surname: Chiovenda
@@ -27,7 +27,8 @@ ipni_record_modified: 2007-01-03 02:30:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33120627) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1600-1), [Wikidata](https://www.wikidata.org/wiki/Q2348823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1600-1) LSID 1600-1, [Wikidata](https://www.wikidata.org/wiki/Q2348823) QID Q2348823
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Chiovenda, Emilio {std. Chiov.} (Suppl.)|second entry]] for this author
 

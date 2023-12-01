@@ -6,7 +6,7 @@ tl2_surname: Heering
 tl2_forenames: Christian August
 tl2_name_abbrev: Heering
 tl2_dates: 1876-1916
-tl2_page_id: 33068369
+tl2_bhl_page_id: 33068369
 author_lsid: 3777-1
 wikidata_id: Q20979844
 ipni_surname: Heering
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3777-1), [Wikidata](https://www.wikidata.org/wiki/Q20979844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3777-1) LSID 3777-1, [Wikidata](https://www.wikidata.org/wiki/Q20979844) QID Q20979844
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

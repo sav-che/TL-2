@@ -6,7 +6,7 @@ tl2_surname: Daniell
 tl2_forenames: William Freeman
 tl2_name_abbrev: Daniell
 tl2_dates: 1818-1865
-tl2_page_id: 33259100
+tl2_bhl_page_id: 33259100
 author_lsid: 13641-1
 wikidata_id: Q8009422
 ipni_surname: Daniell
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33259100) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/13641-1), [Wikidata](https://www.wikidata.org/wiki/Q8009422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13641-1) LSID 13641-1, [Wikidata](https://www.wikidata.org/wiki/Q8009422) QID Q8009422
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

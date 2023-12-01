@@ -6,7 +6,7 @@ tl2_surname: Georgii
 tl2_forenames: Adolf
 tl2_name_abbrev: A. Georgii
 tl2_dates: fl. 1891-1894
-tl2_page_id: 33258661
+tl2_bhl_page_id: 33258661
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33258661) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

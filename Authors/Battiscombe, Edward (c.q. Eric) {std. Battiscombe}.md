@@ -6,7 +6,7 @@ tl2_surname: Battiscombe
 tl2_forenames: Edward (c.q. Eric)
 tl2_name_abbrev: Battiscombe
 tl2_dates: c. 1875-1971
-tl2_page_id: 33265108
+tl2_bhl_page_id: 33265108
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33265108) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

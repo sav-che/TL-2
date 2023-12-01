@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0155
 tl2_volume: suppl7
 tl2_page_printed: 228
 tl2_surname: Fitzgerald
-tl2_forenames: Carlo [Charles]
+tl2_forenames: Carlo (Charles)
 tl2_name_abbrev: C. Fitzg.
 tl2_dates: 1850-1894?
-tl2_page_id: 33259732
+tl2_bhl_page_id: 33259732
 author_lsid: 20043492-1
 wikidata_id: Q88815891
 ipni_surname: Fitzgerald
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33259732) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/20043492-1), [Wikidata](https://www.wikidata.org/wiki/Q88815891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20043492-1) LSID 20043492-1, [Wikidata](https://www.wikidata.org/wiki/Q88815891) QID Q88815891
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

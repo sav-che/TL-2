@@ -6,7 +6,7 @@ tl2_surname: Sennholz
 tl2_forenames: Gustav
 tl2_name_abbrev: Sennholz
 tl2_dates: 1850-1895
-tl2_page_id: 33333651
+tl2_bhl_page_id: 33333651
 author_lsid: 9489-1
 wikidata_id: Q9001489
 ipni_surname: Sennholz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9489-1), [Wikidata](https://www.wikidata.org/wiki/Q9001489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9489-1) LSID 9489-1, [Wikidata](https://www.wikidata.org/wiki/Q9001489) QID Q9001489
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

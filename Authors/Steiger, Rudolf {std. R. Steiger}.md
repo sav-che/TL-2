@@ -6,7 +6,7 @@ tl2_surname: Steiger
 tl2_forenames: Rudolf
 tl2_name_abbrev: R. Steiger
 tl2_dates: 1823-1908
-tl2_page_id: 33334011
+tl2_bhl_page_id: 33334011
 author_lsid: 10075-1
 wikidata_id: Q21609699
 ipni_surname: Steiger
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33334011) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10075-1), [Wikidata](https://www.wikidata.org/wiki/Q21609699). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10075-1) LSID 10075-1, [Wikidata](https://www.wikidata.org/wiki/Q21609699) QID Q21609699
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

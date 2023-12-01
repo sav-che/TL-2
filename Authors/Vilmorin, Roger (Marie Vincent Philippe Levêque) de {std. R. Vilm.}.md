@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0727
 tl2_volume: vol6
 tl2_page_printed: 747
 tl2_surname: Vilmorin
-tl2_forenames: Roger [Marie Vincent Philippe Levêque] de
+tl2_forenames: Roger (Marie Vincent Philippe Levêque) de
 tl2_name_abbrev: R. Vilm.
 tl2_dates: 1905-1980
-tl2_page_id: 33212789
+tl2_bhl_page_id: 33212789
 author_lsid: 11203-1
 wikidata_id: Q970135
 ipni_surname: Vilmorin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33212789) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11203-1), [Wikidata](https://www.wikidata.org/wiki/Q970135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11203-1) LSID 11203-1, [Wikidata](https://www.wikidata.org/wiki/Q970135) QID Q970135
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

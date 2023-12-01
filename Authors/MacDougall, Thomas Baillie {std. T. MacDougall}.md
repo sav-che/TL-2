@@ -6,7 +6,7 @@ tl2_surname: MacDougall
 tl2_forenames: Thomas Baillie
 tl2_name_abbrev: T. MacDougall
 tl2_dates: 1895-1973
-tl2_page_id: 33355304
+tl2_bhl_page_id: 33355304
 author_lsid: 5908-1
 wikidata_id: Q6146019
 ipni_surname: MacDougall
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33355304) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5908-1), [Wikidata](https://www.wikidata.org/wiki/Q6146019). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5908-1) LSID 5908-1, [Wikidata](https://www.wikidata.org/wiki/Q6146019) QID Q6146019
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

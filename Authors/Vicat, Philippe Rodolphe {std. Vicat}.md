@@ -6,7 +6,7 @@ tl2_surname: Vicat
 tl2_forenames: Philippe Rodolphe
 tl2_name_abbrev: Vicat
 tl2_dates: 1720-1783
-tl2_page_id: 33212766
+tl2_bhl_page_id: 33212766
 author_lsid: 11160-1
 wikidata_id: Q21611705
 ipni_surname: Vicat
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33212766) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11160-1), [Wikidata](https://www.wikidata.org/wiki/Q21611705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11160-1) LSID 11160-1, [Wikidata](https://www.wikidata.org/wiki/Q21611705) QID Q21611705
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

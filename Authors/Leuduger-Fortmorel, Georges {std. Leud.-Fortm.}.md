@@ -6,7 +6,7 @@ tl2_surname: Leuduger-Fortmorel
 tl2_forenames: Georges
 tl2_name_abbrev: Leud.-Fortm.
 tl2_dates: 1830-1902
-tl2_page_id: 33069103
+tl2_bhl_page_id: 33069103
 author_lsid: 5526-1
 wikidata_id: Q21518733
 ipni_surname: Leuduger-Fortmorel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5526-1), [Wikidata](https://www.wikidata.org/wiki/Q21518733). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5526-1) LSID 5526-1, [Wikidata](https://www.wikidata.org/wiki/Q21518733) QID Q21518733
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

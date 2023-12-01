@@ -6,7 +6,7 @@ tl2_surname: Bertrand
 tl2_forenames: Charles Eugène
 tl2_name_abbrev: C.E. Bertrand
 tl2_dates: 1851-1917
-tl2_page_id: 33265326
+tl2_bhl_page_id: 33265326
 author_lsid: 728-1
 wikidata_id: Q2959038
 ipni_surname: Bertrand
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33265326) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/728-1), [Wikidata](https://www.wikidata.org/wiki/Q2959038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/728-1) LSID 728-1, [Wikidata](https://www.wikidata.org/wiki/Q2959038) QID Q2959038
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bertrand, Charles Eugène {std. C.E. Bertrand}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Lörch
 tl2_forenames: Ph, J.
 tl2_name_abbrev: Lörch
 tl2_dates: fl. 1890
-tl2_page_id: 33355228
+tl2_bhl_page_id: 33355228
 author_lsid: 5702-1
 wikidata_id: Q36653013
 ipni_surname: Lörch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5702-1), [Wikidata](https://www.wikidata.org/wiki/Q36653013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5702-1) LSID 5702-1, [Wikidata](https://www.wikidata.org/wiki/Q36653013) QID Q36653013
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

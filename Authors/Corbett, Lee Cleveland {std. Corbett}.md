@@ -6,7 +6,7 @@ tl2_surname: Corbett
 tl2_forenames: Lee Cleveland
 tl2_name_abbrev: Corbett
 tl2_dates: 1867-?
-tl2_page_id: 33266028
+tl2_bhl_page_id: 33266028
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33266028) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

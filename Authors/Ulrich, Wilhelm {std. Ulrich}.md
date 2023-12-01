@@ -6,7 +6,7 @@ tl2_surname: Ulrich
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Ulrich
 tl2_dates: fl. 1870-1890
-tl2_page_id: 33212627
+tl2_bhl_page_id: 33212627
 author_lsid: 10975-1
 wikidata_id: Q47127781
 ipni_surname: Ulrich
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33212627) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10975-1), [Wikidata](https://www.wikidata.org/wiki/Q47127781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10975-1) LSID 10975-1, [Wikidata](https://www.wikidata.org/wiki/Q47127781) QID Q47127781
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

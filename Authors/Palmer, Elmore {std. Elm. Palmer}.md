@@ -6,7 +6,7 @@ tl2_surname: Palmer
 tl2_forenames: Elmore
 tl2_name_abbrev: Elm. Palmer
 tl2_dates: 1839-1910/1911
-tl2_page_id: 33189462
+tl2_bhl_page_id: 33189462
 author_lsid: 7282-1
 wikidata_id: Q21522570
 ipni_surname: Palmer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33189462) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7282-1), [Wikidata](https://www.wikidata.org/wiki/Q21522570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7282-1) LSID 7282-1, [Wikidata](https://www.wikidata.org/wiki/Q21522570) QID Q21522570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

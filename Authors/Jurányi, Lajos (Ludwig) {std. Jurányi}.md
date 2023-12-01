@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0554
 tl2_volume: vol2
 tl2_page_printed: 474
 tl2_surname: Jurányi
-tl2_forenames: Lajos [Ludwig]
+tl2_forenames: Lajos (Ludwig)
 tl2_name_abbrev: Jurányi
 tl2_dates: 1837-1897
-tl2_page_id: 33068716
+tl2_bhl_page_id: 33068716
 author_lsid: 12591-1
 wikidata_id: Q1102236
 ipni_surname: Jurányi
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12591-1), [Wikidata](https://www.wikidata.org/wiki/Q1102236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12591-1) LSID 12591-1, [Wikidata](https://www.wikidata.org/wiki/Q1102236) QID Q1102236
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

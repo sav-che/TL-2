@@ -6,7 +6,7 @@ tl2_surname: Liégard
 tl2_forenames: Auguste
 tl2_name_abbrev: Liég.
 tl2_dates: 1801?-1892
-tl2_page_id: 33355113
+tl2_bhl_page_id: 33355113
 author_lsid: 5578-1
 wikidata_id: Q21519067
 ipni_surname: Liégard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5578-1), [Wikidata](https://www.wikidata.org/wiki/Q21519067). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5578-1) LSID 5578-1, [Wikidata](https://www.wikidata.org/wiki/Q21519067) QID Q21519067
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

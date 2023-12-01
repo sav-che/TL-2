@@ -6,7 +6,7 @@ tl2_surname: Elenkin
 tl2_forenames: Aleksander Aleksandrovitch
 tl2_name_abbrev: Elenkin
 tl2_dates: 1873-1942
-tl2_page_id: 33120871
+tl2_bhl_page_id: 33120871
 author_lsid: 18437-1
 wikidata_id: Q660174
 ipni_surname: Elenkin
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18437-1), [Wikidata](https://www.wikidata.org/wiki/Q660174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18437-1) LSID 18437-1, [Wikidata](https://www.wikidata.org/wiki/Q660174) QID Q660174
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Elenkin, Alexander Alexandrowitsch {std. Elenkin} (Suppl.)|second entry]] for this author
 

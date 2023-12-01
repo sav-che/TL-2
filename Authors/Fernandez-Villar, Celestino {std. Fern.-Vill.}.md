@@ -6,7 +6,7 @@ tl2_surname: Fernandez-Villar
 tl2_forenames: Celestino
 tl2_name_abbrev: Fern.-Vill.
 tl2_dates: 1838-1907
-tl2_page_id: 33120957
+tl2_bhl_page_id: 33120957
 author_lsid: 2698-1
 wikidata_id: Q5760146
 ipni_surname: Fernández-Villar
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2698-1), [Wikidata](https://www.wikidata.org/wiki/Q5760146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2698-1) LSID 2698-1, [Wikidata](https://www.wikidata.org/wiki/Q5760146) QID Q5760146
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Junge
 tl2_forenames: Paul
 tl2_name_abbrev: Junge
 tl2_dates: 1881-1919
-tl2_page_id: 33068712
+tl2_bhl_page_id: 33068712
 author_lsid: 4583-1
 wikidata_id: Q6067204
 ipni_surname: Junge
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4583-1), [Wikidata](https://www.wikidata.org/wiki/Q6067204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4583-1) LSID 4583-1, [Wikidata](https://www.wikidata.org/wiki/Q6067204) QID Q6067204
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

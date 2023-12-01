@@ -6,7 +6,7 @@ tl2_surname: Jacquemart
 tl2_forenames: Albert
 tl2_name_abbrev: Jacquemart
 tl2_dates: fl. 1840
-tl2_page_id: 33068644
+tl2_bhl_page_id: 33068644
 author_lsid: 4382-1
 wikidata_id: Q352361
 ipni_surname: Jacquemart
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4382-1), [Wikidata](https://www.wikidata.org/wiki/Q352361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4382-1) LSID 4382-1, [Wikidata](https://www.wikidata.org/wiki/Q352361) QID Q352361
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

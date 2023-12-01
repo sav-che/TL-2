@@ -6,7 +6,7 @@ tl2_surname: Murphy
 tl2_forenames: Edmund
 tl2_name_abbrev: Murphy
 tl2_dates: 1828-1866
-tl2_page_id: 33355753
+tl2_bhl_page_id: 33355753
 author_lsid: 6800-1
 wikidata_id: Q5818770
 ipni_surname: Murphy
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33355753) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6800-1), [Wikidata](https://www.wikidata.org/wiki/Q5818770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6800-1) LSID 6800-1, [Wikidata](https://www.wikidata.org/wiki/Q5818770) QID Q5818770
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

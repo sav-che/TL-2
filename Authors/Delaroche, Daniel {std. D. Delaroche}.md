@@ -6,7 +6,7 @@ tl2_surname: Delaroche
 tl2_forenames: Daniel
 tl2_name_abbrev: D. Delaroche
 tl2_dates: 1743-1812
-tl2_page_id: 33120744
+tl2_bhl_page_id: 33120744
 author_lsid: 2095-1
 wikidata_id: Q121955
 ipni_surname: Delaroche
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33120744) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2095-1), [Wikidata](https://www.wikidata.org/wiki/Q121955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2095-1) LSID 2095-1, [Wikidata](https://www.wikidata.org/wiki/Q121955) QID Q121955
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Seurat
 tl2_forenames: Léon Gaston
 tl2_name_abbrev: Seurat
 tl2_dates: 1872-?
-tl2_page_id: 33333678
+tl2_bhl_page_id: 33333678
 author_lsid: 9519-1
 wikidata_id: Q16864242
 ipni_surname: Seurat
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9519-1), [Wikidata](https://www.wikidata.org/wiki/Q16864242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9519-1) LSID 9519-1, [Wikidata](https://www.wikidata.org/wiki/Q16864242) QID Q16864242
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

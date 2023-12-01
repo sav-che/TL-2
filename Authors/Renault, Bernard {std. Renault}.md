@@ -6,7 +6,7 @@ tl2_surname: Renault
 tl2_forenames: Bernard
 tl2_name_abbrev: Renault
 tl2_dates: 1836-1904
-tl2_page_id: 33190191
+tl2_bhl_page_id: 33190191
 author_lsid: 8285-1
 wikidata_id: Q2898521
 ipni_surname: Renault
@@ -28,7 +28,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33190191) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8285-1), [Wikidata](https://www.wikidata.org/wiki/Q2898521). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8285-1) LSID 8285-1, [Wikidata](https://www.wikidata.org/wiki/Q2898521) QID Q2898521
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

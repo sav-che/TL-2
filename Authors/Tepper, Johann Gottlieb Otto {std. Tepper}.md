@@ -6,7 +6,7 @@ tl2_surname: Tepper
 tl2_forenames: Johann Gottlieb Otto
 tl2_name_abbrev: Tepper
 tl2_dates: 1841-1923
-tl2_page_id: 33212263
+tl2_bhl_page_id: 33212263
 author_lsid: 10515-1
 wikidata_id: Q2891010
 ipni_surname: Tepper
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33212263) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10515-1), [Wikidata](https://www.wikidata.org/wiki/Q2891010). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10515-1) LSID 10515-1, [Wikidata](https://www.wikidata.org/wiki/Q2891010) QID Q2891010
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

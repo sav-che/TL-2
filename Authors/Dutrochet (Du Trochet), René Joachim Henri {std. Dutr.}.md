@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl6_0223
 tl2_volume: suppl6
 tl2_page_printed: 212
-tl2_surname: Dutrochet [Du Trochet]
+tl2_surname: Dutrochet (Du Trochet)
 tl2_forenames: René Joachim Henri
 tl2_name_abbrev: Dutr.
 tl2_dates: 1776-1847
-tl2_page_id: 33260200
+tl2_bhl_page_id: 33260200
 author_lsid: 12416-1
 wikidata_id: Q1191107
 ipni_surname: Dutrochet
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33260200) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/12416-1), [Wikidata](https://www.wikidata.org/wiki/Q1191107). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12416-1) LSID 12416-1, [Wikidata](https://www.wikidata.org/wiki/Q1191107) QID Q1191107
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

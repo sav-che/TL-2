@@ -6,7 +6,7 @@ tl2_surname: Barnes
 tl2_forenames: Edward
 tl2_name_abbrev: E. Barnes
 tl2_dates: c. 1892-1941
-tl2_page_id: 33265059
+tl2_bhl_page_id: 33265059
 author_lsid: 489-1
 wikidata_id: Q21505682
 ipni_surname: Barnes
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265059) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/489-1), [Wikidata](https://www.wikidata.org/wiki/Q21505682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/489-1) LSID 489-1, [Wikidata](https://www.wikidata.org/wiki/Q21505682) QID Q21505682
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

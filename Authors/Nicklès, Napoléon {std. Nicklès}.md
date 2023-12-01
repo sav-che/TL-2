@@ -6,7 +6,7 @@ tl2_surname: Nicklès
 tl2_forenames: Napoléon
 tl2_name_abbrev: Nicklès
 tl2_dates: x-1878
-tl2_page_id: 33355830
+tl2_bhl_page_id: 33355830
 author_lsid: 6965-1
 wikidata_id: Q21522140
 ipni_surname: Nicklès
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33355830) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6965-1), [Wikidata](https://www.wikidata.org/wiki/Q21522140). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6965-1) LSID 6965-1, [Wikidata](https://www.wikidata.org/wiki/Q21522140) QID Q21522140
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

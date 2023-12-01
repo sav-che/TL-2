@@ -6,7 +6,7 @@ tl2_surname: Alston
 tl2_forenames: Arthur Hugh Garfit
 tl2_name_abbrev: Alston
 tl2_dates: 1902-1958
-tl2_page_id: 33264814
+tl2_bhl_page_id: 33264814
 author_lsid: 170-1
 wikidata_id: Q674391
 ipni_surname: Alston
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-14 13:46:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33264814) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/170-1), [Wikidata](https://www.wikidata.org/wiki/Q674391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/170-1) LSID 170-1, [Wikidata](https://www.wikidata.org/wiki/Q674391) QID Q674391
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Alston, Arthur Hugh Garfit {std. Alston}|first entry]] for this author
 

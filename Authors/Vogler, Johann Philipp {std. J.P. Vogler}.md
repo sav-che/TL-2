@@ -6,7 +6,7 @@ tl2_surname: Vogler
 tl2_forenames: Johann Philipp
 tl2_name_abbrev: J.P. Vogler
 tl2_dates: 1746-1816
-tl2_page_id: 33212813
+tl2_bhl_page_id: 33212813
 author_lsid: 11241-1
 wikidata_id: Q21611839
 ipni_surname: Vogler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11241-1), [Wikidata](https://www.wikidata.org/wiki/Q21611839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11241-1) LSID 11241-1, [Wikidata](https://www.wikidata.org/wiki/Q21611839) QID Q21611839
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

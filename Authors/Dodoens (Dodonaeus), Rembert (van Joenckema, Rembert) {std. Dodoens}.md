@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol1_0840
 tl2_volume: vol1
 tl2_page_printed: 661
-tl2_surname: Dodoens [Dodonaeus]
-tl2_forenames: Rembert [van Joenckema, Rembert]
+tl2_surname: Dodoens (Dodonaeus)
+tl2_forenames: Rembert (van Joenckema, Rembert)
 tl2_name_abbrev: Dodoens
 tl2_dates: 1518-1585
-tl2_page_id: 33120792
+tl2_bhl_page_id: 33120792
 author_lsid: 2247-1
 wikidata_id: Q437466
 ipni_surname: Dodoens
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2247-1), [Wikidata](https://www.wikidata.org/wiki/Q437466). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2247-1) LSID 2247-1, [Wikidata](https://www.wikidata.org/wiki/Q437466) QID Q437466
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

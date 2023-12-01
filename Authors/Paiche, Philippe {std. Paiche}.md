@@ -6,7 +6,7 @@ tl2_surname: Paiche
 tl2_forenames: Philippe
 tl2_name_abbrev: Paiche
 tl2_dates: 1842-1911
-tl2_page_id: 33189509
+tl2_bhl_page_id: 33189509
 author_lsid: 7249-1
 wikidata_id: Q21522530
 ipni_surname: Paiche
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33189509) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7249-1), [Wikidata](https://www.wikidata.org/wiki/Q21522530). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7249-1) LSID 7249-1, [Wikidata](https://www.wikidata.org/wiki/Q21522530) QID Q21522530
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

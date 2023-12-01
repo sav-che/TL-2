@@ -6,7 +6,7 @@ tl2_surname: Ramírez Goyena
 tl2_forenames: Miguel
 tl2_name_abbrev: Ramírez Goyena
 tl2_dates: 1857-1927
-tl2_page_id: 33190042
+tl2_bhl_page_id: 33190042
 author_lsid: 8124-1
 wikidata_id: Q9032825
 ipni_surname: Ramírez Goyena
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8124-1), [Wikidata](https://www.wikidata.org/wiki/Q9032825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8124-1) LSID 8124-1, [Wikidata](https://www.wikidata.org/wiki/Q9032825) QID Q9032825
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

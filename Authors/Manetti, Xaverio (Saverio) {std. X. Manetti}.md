@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0299
 tl2_volume: vol3
 tl2_page_printed: 274
 tl2_surname: Manetti
-tl2_forenames: Xaverio [Saverio]
+tl2_forenames: Xaverio (Saverio)
 tl2_name_abbrev: X. Manetti
 tl2_dates: 1723-1785
-tl2_page_id: 33355361
+tl2_bhl_page_id: 33355361
 author_lsid: 6058-1
 wikidata_id: Q377320
 ipni_surname: Manetti
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6058-1), [Wikidata](https://www.wikidata.org/wiki/Q377320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6058-1) LSID 6058-1, [Wikidata](https://www.wikidata.org/wiki/Q377320) QID Q377320
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

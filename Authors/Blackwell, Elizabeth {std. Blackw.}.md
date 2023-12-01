@@ -6,7 +6,7 @@ tl2_surname: Blackwell
 tl2_forenames: Elizabeth
 tl2_name_abbrev: Blackw.
 tl2_dates: c. 1700-1758
-tl2_page_id: 33120355
+tl2_bhl_page_id: 33120355
 author_lsid: 830-1
 wikidata_id: Q469844
 ipni_surname: Blackwell
@@ -24,7 +24,8 @@ ipni_record_modified: 2018-11-20 12:35:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33120355) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/830-1), [Wikidata](https://www.wikidata.org/wiki/Q469844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/830-1) LSID 830-1, [Wikidata](https://www.wikidata.org/wiki/Q469844) QID Q469844
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

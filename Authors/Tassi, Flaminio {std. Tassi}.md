@@ -6,7 +6,7 @@ tl2_surname: Tassi
 tl2_forenames: Flaminio
 tl2_name_abbrev: Tassi
 tl2_dates: 1851-?
-tl2_page_id: 33212216
+tl2_bhl_page_id: 33212216
 author_lsid: 27543-1
 wikidata_id: Q21392362
 ipni_surname: Tassi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33212216) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27543-1), [Wikidata](https://www.wikidata.org/wiki/Q21392362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27543-1) LSID 27543-1, [Wikidata](https://www.wikidata.org/wiki/Q21392362) QID Q21392362
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

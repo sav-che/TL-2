@@ -6,7 +6,7 @@ tl2_surname: Mundkur
 tl2_forenames: Bhalchendra Bhavanishankar
 tl2_name_abbrev: Mundk.
 tl2_dates: 1896-1952
-tl2_page_id: 33355747
+tl2_bhl_page_id: 33355747
 author_lsid: 23759-1
 wikidata_id: Q21521888
 ipni_surname: Mundkur
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33355747) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23759-1), [Wikidata](https://www.wikidata.org/wiki/Q21521888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23759-1) LSID 23759-1, [Wikidata](https://www.wikidata.org/wiki/Q21521888) QID Q21521888
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

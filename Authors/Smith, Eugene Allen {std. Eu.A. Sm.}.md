@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Eugene Allen
 tl2_name_abbrev: Eu.A. Sm.
 tl2_dates: 1841-1927
-tl2_page_id: 33333809
+tl2_bhl_page_id: 33333809
 author_lsid: 9788-1
 wikidata_id: Q5850351
 ipni_surname: Smith
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33333809) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9788-1), [Wikidata](https://www.wikidata.org/wiki/Q5850351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9788-1) LSID 9788-1, [Wikidata](https://www.wikidata.org/wiki/Q5850351) QID Q5850351
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

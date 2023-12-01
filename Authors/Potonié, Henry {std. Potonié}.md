@@ -6,7 +6,7 @@ tl2_surname: Potonié
 tl2_forenames: Henry
 tl2_name_abbrev: Potonié
 tl2_dates: 1857-1913
-tl2_page_id: 33189829
+tl2_bhl_page_id: 33189829
 author_lsid: 7888-1
 wikidata_id: Q97218
 ipni_surname: Potonié
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33189829) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7888-1), [Wikidata](https://www.wikidata.org/wiki/Q97218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7888-1) LSID 7888-1, [Wikidata](https://www.wikidata.org/wiki/Q97218) QID Q97218
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

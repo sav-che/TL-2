@@ -6,7 +6,7 @@ tl2_surname: Mettenius
 tl2_forenames: Georg Heinrich
 tl2_name_abbrev: Mett.
 tl2_dates: 1823-1866
-tl2_page_id: 33355519
+tl2_bhl_page_id: 33355519
 author_lsid: 6393-1
 wikidata_id: Q70825
 ipni_surname: Mettenius
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33355519) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6393-1), [Wikidata](https://www.wikidata.org/wiki/Q70825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6393-1) LSID 6393-1, [Wikidata](https://www.wikidata.org/wiki/Q70825) QID Q70825
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

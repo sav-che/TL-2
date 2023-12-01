@@ -6,7 +6,7 @@ tl2_surname: Schulz-Korth
 tl2_forenames: Karl
 tl2_name_abbrev: Schulz-Korth
 tl2_dates: 1906-1931
-tl2_page_id: 33333529
+tl2_bhl_page_id: 33333529
 author_lsid: 9316-1
 wikidata_id: Q21608490
 ipni_surname: Schulz-Korth
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9316-1), [Wikidata](https://www.wikidata.org/wiki/Q21608490). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9316-1) LSID 9316-1, [Wikidata](https://www.wikidata.org/wiki/Q21608490) QID Q21608490
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0676
 tl2_volume: vol4
 tl2_page_printed: 666
 tl2_surname: Reichenbach
-tl2_forenames: [Heinrich Gottlieb] Ludwig
+tl2_forenames: (Heinrich Gottlieb) Ludwig
 tl2_name_abbrev: Rchb.
 tl2_dates: 1793-1879
-tl2_page_id: 33190137
+tl2_bhl_page_id: 33190137
 author_lsid: 8253-1
 wikidata_id: Q58053
 ipni_surname: Reichenbach
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:33:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33190137) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8253-1), [Wikidata](https://www.wikidata.org/wiki/Q58053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8253-1) LSID 8253-1, [Wikidata](https://www.wikidata.org/wiki/Q58053) QID Q58053
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

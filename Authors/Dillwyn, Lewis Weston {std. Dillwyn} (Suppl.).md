@@ -6,7 +6,7 @@ tl2_surname: Dillwyn
 tl2_forenames: Lewis Weston
 tl2_name_abbrev: Dillwyn
 tl2_dates: 1778-1855
-tl2_page_id: 33259386
+tl2_bhl_page_id: 33259386
 author_lsid: 2213-1
 wikidata_id: Q438932
 ipni_surname: Dillwyn
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2213-1), [Wikidata](https://www.wikidata.org/wiki/Q438932). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2213-1) LSID 2213-1, [Wikidata](https://www.wikidata.org/wiki/Q438932) QID Q438932
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dillwyn, Lewis Weston {std. Dillwyn}|first entry]] for this author
 

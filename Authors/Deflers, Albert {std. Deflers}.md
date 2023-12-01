@@ -6,7 +6,7 @@ tl2_surname: Deflers
 tl2_forenames: Albert
 tl2_name_abbrev: Deflers
 tl2_dates: 1841-1921
-tl2_page_id: 33259193
+tl2_bhl_page_id: 33259193
 author_lsid: 17881-1
 wikidata_id: Q5687736
 ipni_surname: Deflers
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33259193) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17881-1), [Wikidata](https://www.wikidata.org/wiki/Q5687736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17881-1) LSID 17881-1, [Wikidata](https://www.wikidata.org/wiki/Q5687736) QID Q5687736
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

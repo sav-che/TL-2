@@ -6,7 +6,7 @@ tl2_surname: Mueller
 tl2_forenames: Sir Ferdinand Jacob Heinrich (Baron) von
 tl2_name_abbrev: F. v. Muell.
 tl2_dates: 1825-1896
-tl2_page_id: 33355702
+tl2_bhl_page_id: 33355702
 author_lsid: 6732-1
 wikidata_id: Q708002
 ipni_surname: Mueller
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:38:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33355702) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6732-1), [Wikidata](https://www.wikidata.org/wiki/Q708002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6732-1) LSID 6732-1, [Wikidata](https://www.wikidata.org/wiki/Q708002) QID Q708002
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

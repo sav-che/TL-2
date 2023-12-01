@@ -6,7 +6,7 @@ tl2_surname: Tode
 tl2_forenames: Heinrich Julius
 tl2_name_abbrev: Tode
 tl2_dates: 1733-1797
-tl2_page_id: 33212424
+tl2_bhl_page_id: 33212424
 author_lsid: 10705-1
 wikidata_id: Q1586758
 ipni_surname: Tode
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33212424) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10705-1), [Wikidata](https://www.wikidata.org/wiki/Q1586758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10705-1) LSID 10705-1, [Wikidata](https://www.wikidata.org/wiki/Q1586758) QID Q1586758
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

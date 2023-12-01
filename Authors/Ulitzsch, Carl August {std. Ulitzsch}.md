@@ -6,7 +6,7 @@ tl2_surname: Ulitzsch
 tl2_forenames: Carl August
 tl2_name_abbrev: Ulitzsch
 tl2_dates: fl. 1796
-tl2_page_id: 33212625
+tl2_bhl_page_id: 33212625
 author_lsid: 10970-1
 wikidata_id: Q36531940
 ipni_surname: Ulitzsch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33212625) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10970-1), [Wikidata](https://www.wikidata.org/wiki/Q36531940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10970-1) LSID 10970-1, [Wikidata](https://www.wikidata.org/wiki/Q36531940) QID Q36531940
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

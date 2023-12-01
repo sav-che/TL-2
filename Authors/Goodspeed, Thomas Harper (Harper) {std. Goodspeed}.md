@@ -6,7 +6,7 @@ tl2_surname: Goodspeed
 tl2_forenames: Thomas Harper (Harper)
 tl2_name_abbrev: Goodspeed
 tl2_dates: 1887-1966
-tl2_page_id: 33258784
+tl2_bhl_page_id: 33258784
 author_lsid: 3271-1
 wikidata_id: Q7790438
 ipni_surname: Goodspeed
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33258784) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3271-1), [Wikidata](https://www.wikidata.org/wiki/Q7790438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3271-1) LSID 3271-1, [Wikidata](https://www.wikidata.org/wiki/Q7790438) QID Q7790438
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

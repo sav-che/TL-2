@@ -6,7 +6,7 @@ tl2_surname: Saporta
 tl2_forenames: (Louis Charles Joseph) Gaston, marquis de
 tl2_name_abbrev: Saporta
 tl2_dates: 1823-1895
-tl2_page_id: 33333144
+tl2_bhl_page_id: 33333144
 author_lsid: 8911-1
 wikidata_id: Q327351
 ipni_surname: Saporta
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33333144) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8911-1), [Wikidata](https://www.wikidata.org/wiki/Q327351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8911-1) LSID 8911-1, [Wikidata](https://www.wikidata.org/wiki/Q327351) QID Q327351
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Shannon
 tl2_forenames: William Cummings
 tl2_name_abbrev: Shannon
 tl2_dates: 1851-1905
-tl2_page_id: 33333688
+tl2_bhl_page_id: 33333688
 author_lsid: 9538-1
 wikidata_id: Q21608732
 ipni_surname: Shannon
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33333688) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9538-1), [Wikidata](https://www.wikidata.org/wiki/Q21608732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9538-1) LSID 9538-1, [Wikidata](https://www.wikidata.org/wiki/Q21608732) QID Q21608732
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

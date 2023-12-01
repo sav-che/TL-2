@@ -6,7 +6,7 @@ tl2_surname: Burbidge
 tl2_forenames: Frederick William Thomas
 tl2_name_abbrev: Burbidge
 tl2_dates: 1847-1905
-tl2_page_id: 33120540
+tl2_bhl_page_id: 33120540
 author_lsid: 1286-1
 wikidata_id: Q5499059
 ipni_surname: Burbidge
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1286-1), [Wikidata](https://www.wikidata.org/wiki/Q5499059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1286-1) LSID 1286-1, [Wikidata](https://www.wikidata.org/wiki/Q5499059) QID Q5499059
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Burbidge, Frederick William Thomas {std. Burb.} (Suppl.)|second entry]] for this author
 

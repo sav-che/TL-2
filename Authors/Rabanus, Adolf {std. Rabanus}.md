@@ -6,7 +6,7 @@ tl2_surname: Rabanus
 tl2_forenames: Adolf
 tl2_name_abbrev: Rabanus
 tl2_dates: 1890-?
-tl2_page_id: 33189931
+tl2_bhl_page_id: 33189931
 author_lsid: 8067-1
 wikidata_id: Q21606818
 ipni_surname: Rabanus
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8067-1), [Wikidata](https://www.wikidata.org/wiki/Q21606818). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8067-1) LSID 8067-1, [Wikidata](https://www.wikidata.org/wiki/Q21606818) QID Q21606818
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

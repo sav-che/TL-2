@@ -6,7 +6,7 @@ tl2_surname: Noë
 tl2_forenames: Friedrich Wilhelm
 tl2_name_abbrev: Noë
 tl2_dates: 18..-1858
-tl2_page_id: 33355847
+tl2_bhl_page_id: 33355847
 author_lsid: 7010-1
 wikidata_id: Q5869633
 ipni_surname: Noë
@@ -23,7 +23,8 @@ ipni_record_modified: 2012-10-07 21:52:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7010-1), [Wikidata](https://www.wikidata.org/wiki/Q5869633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7010-1) LSID 7010-1, [Wikidata](https://www.wikidata.org/wiki/Q5869633) QID Q5869633
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

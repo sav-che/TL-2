@@ -6,7 +6,7 @@ tl2_surname: Erdtman
 tl2_forenames: Otto Gunnar Elias
 tl2_name_abbrev: Erdtman
 tl2_dates: 1897-1973
-tl2_page_id: 33260372
+tl2_bhl_page_id: 33260372
 author_lsid: 18525-1
 wikidata_id: Q1554730
 ipni_surname: Erdtman
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33260372) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18525-1), [Wikidata](https://www.wikidata.org/wiki/Q1554730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18525-1) LSID 18525-1, [Wikidata](https://www.wikidata.org/wiki/Q1554730) QID Q1554730
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Erdtman, Otto Gunnar Elias {std. Erdtman}|first entry]] for this author
 

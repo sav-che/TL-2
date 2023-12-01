@@ -6,7 +6,7 @@ tl2_surname: Bouly de Lesdain
 tl2_forenames: Maurice
 tl2_name_abbrev: B. de Lesd.
 tl2_dates: 1869-1965
-tl2_page_id: 33120425
+tl2_bhl_page_id: 33120425
 author_lsid: 1027-1
 wikidata_id: Q21338745
 ipni_surname: Bouly de Lesdain
@@ -25,7 +25,8 @@ ipni_record_modified: 2008-04-21 07:07:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33120425) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1027-1), [Wikidata](https://www.wikidata.org/wiki/Q21338745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1027-1) LSID 1027-1, [Wikidata](https://www.wikidata.org/wiki/Q21338745) QID Q21338745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bouly de Lesdain, Maurice {std. B. de Lesd.} (Suppl.)|second entry]] for this author
 

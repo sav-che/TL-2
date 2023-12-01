@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0013
 tl2_volume: suppl5
 tl2_page_printed: 9
 tl2_surname: Dahl
-tl2_forenames: Ove [Christian]
+tl2_forenames: Ove (Christian)
 tl2_name_abbrev: O.C. Dahl
 tl2_dates: 1862-1940
-tl2_page_id: 33259055
+tl2_bhl_page_id: 33259055
 author_lsid: 1954-1
 wikidata_id: Q5615062
 ipni_surname: Dahl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33259055) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1954-1), [Wikidata](https://www.wikidata.org/wiki/Q5615062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1954-1) LSID 1954-1, [Wikidata](https://www.wikidata.org/wiki/Q5615062) QID Q5615062
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Beurling
 tl2_forenames: Pehr Johan
 tl2_name_abbrev: Beurl.
 tl2_dates: 1800-1866
-tl2_page_id: 33265346
+tl2_bhl_page_id: 33265346
 author_lsid: 746-1
 wikidata_id: Q3374267
 ipni_surname: Beurling
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33265346) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/746-1), [Wikidata](https://www.wikidata.org/wiki/Q3374267). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/746-1) LSID 746-1, [Wikidata](https://www.wikidata.org/wiki/Q3374267) QID Q3374267
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beurling, Pehr Johan {std. Beurl.}|first entry]] for this author
 

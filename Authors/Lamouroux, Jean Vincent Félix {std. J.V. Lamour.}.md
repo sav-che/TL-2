@@ -6,7 +6,7 @@ tl2_surname: Lamouroux
 tl2_forenames: Jean Vincent Félix
 tl2_name_abbrev: J.V. Lamour.
 tl2_dates: 1779-1825
-tl2_page_id: 33068982
+tl2_bhl_page_id: 33068982
 author_lsid: 5243-1
 wikidata_id: Q2366296
 ipni_surname: Lamouroux
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33068982) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5243-1), [Wikidata](https://www.wikidata.org/wiki/Q2366296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5243-1) LSID 5243-1, [Wikidata](https://www.wikidata.org/wiki/Q2366296) QID Q2366296
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

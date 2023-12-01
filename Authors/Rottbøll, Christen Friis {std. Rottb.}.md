@@ -6,7 +6,7 @@ tl2_surname: Rottbøll
 tl2_forenames: Christen Friis
 tl2_name_abbrev: Rottb.
 tl2_dates: 1727-1797
-tl2_page_id: 33190401
+tl2_bhl_page_id: 33190401
 author_lsid: 12797-1
 wikidata_id: Q2615816
 ipni_surname: Rottbøll
@@ -24,7 +24,8 @@ ipni_record_modified: 2005-06-16 04:27:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12797-1), [Wikidata](https://www.wikidata.org/wiki/Q2615816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12797-1) LSID 12797-1, [Wikidata](https://www.wikidata.org/wiki/Q2615816) QID Q2615816
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

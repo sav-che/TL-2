@@ -6,7 +6,7 @@ tl2_surname: Pahnsch
 tl2_forenames: Gerhard
 tl2_name_abbrev: Pahnsch
 tl2_dates: x-1880
-tl2_page_id: 33189509
+tl2_bhl_page_id: 33189509
 author_lsid: 7247-1
 wikidata_id: Q12362983
 ipni_surname: Pahnsch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33189509) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7247-1), [Wikidata](https://www.wikidata.org/wiki/Q12362983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7247-1) LSID 7247-1, [Wikidata](https://www.wikidata.org/wiki/Q12362983) QID Q12362983
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

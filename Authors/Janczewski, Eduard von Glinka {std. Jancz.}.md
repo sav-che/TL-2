@@ -6,7 +6,7 @@ tl2_surname: Janczewski
 tl2_forenames: Eduard von Glinka
 tl2_name_abbrev: Jancz.
 tl2_dates: 1846-1918
-tl2_page_id: 33068665
+tl2_bhl_page_id: 33068665
 author_lsid: 4418-1
 wikidata_id: Q942550
 ipni_surname: Janczewski
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4418-1), [Wikidata](https://www.wikidata.org/wiki/Q942550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4418-1) LSID 4418-1, [Wikidata](https://www.wikidata.org/wiki/Q942550) QID Q942550
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

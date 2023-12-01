@@ -6,7 +6,7 @@ tl2_surname: Sandifort
 tl2_forenames: Gerard
 tl2_name_abbrev: Sandif.
 tl2_dates: 1779-1848
-tl2_page_id: 33333134
+tl2_bhl_page_id: 33333134
 author_lsid: 8889-1
 wikidata_id: Q2315806
 ipni_surname: Sandifort
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8889-1), [Wikidata](https://www.wikidata.org/wiki/Q2315806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8889-1) LSID 8889-1, [Wikidata](https://www.wikidata.org/wiki/Q2315806) QID Q2315806
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

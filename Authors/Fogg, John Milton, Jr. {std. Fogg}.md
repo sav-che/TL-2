@@ -6,7 +6,7 @@ tl2_surname: Fogg
 tl2_forenames: John Milton, Jr.
 tl2_name_abbrev: Fogg
 tl2_dates: 1898-1982
-tl2_page_id: 33259793
+tl2_bhl_page_id: 33259793
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259793) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

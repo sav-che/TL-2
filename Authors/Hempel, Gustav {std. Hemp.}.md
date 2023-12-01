@@ -6,7 +6,7 @@ tl2_surname: Hempel
 tl2_forenames: Gustav
 tl2_name_abbrev: Hemp.
 tl2_dates: 1842-1904
-tl2_page_id: 33068391
+tl2_bhl_page_id: 33068391
 author_lsid: 3822-1
 wikidata_id: Q15444962
 ipni_surname: Hempel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3822-1), [Wikidata](https://www.wikidata.org/wiki/Q15444962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3822-1) LSID 3822-1, [Wikidata](https://www.wikidata.org/wiki/Q15444962) QID Q15444962
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

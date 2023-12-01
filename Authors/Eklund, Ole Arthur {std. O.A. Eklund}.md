@@ -6,7 +6,7 @@ tl2_surname: Eklund
 tl2_forenames: Ole Arthur
 tl2_name_abbrev: O.A. Eklund
 tl2_dates: 1899-1946
-tl2_page_id: 33260279
+tl2_bhl_page_id: 33260279
 author_lsid: 18419-1
 wikidata_id: Q11885337
 ipni_surname: Eklund
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33260279) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18419-1), [Wikidata](https://www.wikidata.org/wiki/Q11885337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18419-1) LSID 18419-1, [Wikidata](https://www.wikidata.org/wiki/Q11885337) QID Q11885337
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

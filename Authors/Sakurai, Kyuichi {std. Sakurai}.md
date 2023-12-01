@@ -6,7 +6,7 @@ tl2_surname: Sakurai
 tl2_forenames: Kyuichi
 tl2_name_abbrev: Sakurai
 tl2_dates: 1889-1963
-tl2_page_id: 33190551
+tl2_bhl_page_id: 33190551
 author_lsid: 8839-1
 wikidata_id: Q19001625
 ipni_surname: Sakurai
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1080](https://www.biodiversitylibrary.org/page/33190551) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8839-1), [Wikidata](https://www.wikidata.org/wiki/Q19001625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8839-1) LSID 8839-1, [Wikidata](https://www.wikidata.org/wiki/Q19001625) QID Q19001625
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

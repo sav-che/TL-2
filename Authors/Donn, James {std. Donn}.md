@@ -6,7 +6,7 @@ tl2_surname: Donn
 tl2_forenames: James
 tl2_name_abbrev: Donn
 tl2_dates: 1758-1813
-tl2_page_id: 33120804
+tl2_bhl_page_id: 33120804
 author_lsid: 2275-1
 wikidata_id: Q1466901
 ipni_surname: Donn
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 673](https://www.biodiversitylibrary.org/page/33120804) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2275-1), [Wikidata](https://www.wikidata.org/wiki/Q1466901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2275-1) LSID 2275-1, [Wikidata](https://www.wikidata.org/wiki/Q1466901) QID Q1466901
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

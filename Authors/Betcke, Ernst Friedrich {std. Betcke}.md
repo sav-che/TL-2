@@ -6,7 +6,7 @@ tl2_surname: Betcke
 tl2_forenames: Ernst Friedrich
 tl2_name_abbrev: Betcke
 tl2_dates: x-1865
-tl2_page_id: 33120340
+tl2_bhl_page_id: 33120340
 author_lsid: 739-1
 wikidata_id: Q21506041
 ipni_surname: Betcke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33120340) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/739-1), [Wikidata](https://www.wikidata.org/wiki/Q21506041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/739-1) LSID 739-1, [Wikidata](https://www.wikidata.org/wiki/Q21506041) QID Q21506041
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Betcke, Ernst Friedrich {std. Betcke} (Suppl.)|second entry]] for this author
 

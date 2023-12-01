@@ -6,7 +6,7 @@ tl2_surname: Rawton
 tl2_forenames: Olivier de
 tl2_name_abbrev: Rawton
 tl2_dates: fl. 1882
-tl2_page_id: 33190075
+tl2_bhl_page_id: 33190075
 author_lsid: 8189-1
 wikidata_id: Q36647616
 ipni_surname: Rawton
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33190075) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8189-1), [Wikidata](https://www.wikidata.org/wiki/Q36647616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8189-1) LSID 8189-1, [Wikidata](https://www.wikidata.org/wiki/Q36647616) QID Q36647616
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

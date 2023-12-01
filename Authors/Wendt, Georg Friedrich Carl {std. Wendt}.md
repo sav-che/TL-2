@@ -6,7 +6,7 @@ tl2_surname: Wendt
 tl2_forenames: Georg Friedrich Carl
 tl2_name_abbrev: Wendt
 tl2_dates: fl. 1804
-tl2_page_id: 33066524
+tl2_bhl_page_id: 33066524
 author_lsid: 11550-1
 wikidata_id: Q36570061
 ipni_surname: Wendt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33066524) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11550-1), [Wikidata](https://www.wikidata.org/wiki/Q36570061). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11550-1) LSID 11550-1, [Wikidata](https://www.wikidata.org/wiki/Q36570061) QID Q36570061
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0037
 tl2_volume: suppl2
 tl2_page_printed: 42
 tl2_surname: Beetle
-tl2_forenames: Alan [Allen] Ackerman
+tl2_forenames: Alan (Allen) Ackerman
 tl2_name_abbrev: Beetle
 tl2_dates: 1913-x
-tl2_page_id: 33265239
+tl2_bhl_page_id: 33265239
 author_lsid: 613-1
 wikidata_id: Q4706055
 ipni_surname: Beetle
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-10-28 20:46:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265239) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/613-1), [Wikidata](https://www.wikidata.org/wiki/Q4706055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/613-1) LSID 613-1, [Wikidata](https://www.wikidata.org/wiki/Q4706055) QID Q4706055
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

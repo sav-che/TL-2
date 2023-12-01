@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0017
 tl2_volume: vol4
 tl2_page_printed: 10
 tl2_surname: Palacký
-tl2_forenames: Johann Baptist [Jan]
+tl2_forenames: Johann Baptist (Jan)
 tl2_name_abbrev: Palacký
 tl2_dates: 1830-1908
-tl2_page_id: 33189505
+tl2_bhl_page_id: 33189505
 author_lsid: 7262-1
 wikidata_id: Q11706403
 ipni_surname: Palacký
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33189505) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7262-1), [Wikidata](https://www.wikidata.org/wiki/Q11706403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7262-1) LSID 7262-1, [Wikidata](https://www.wikidata.org/wiki/Q11706403) QID Q11706403
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

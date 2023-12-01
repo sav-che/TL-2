@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0257
 tl2_volume: vol6
 tl2_page_printed: 221
 tl2_surname: Teplouchow
-tl2_forenames: Feodor [Theodor] Alexandrowitsch
+tl2_forenames: Feodor (Theodor) Alexandrowitsch
 tl2_name_abbrev: Teplouchow
 tl2_dates: 1845-1905
-tl2_page_id: 33212263
+tl2_bhl_page_id: 33212263
 author_lsid: 10514-1
 wikidata_id: Q4455333
 ipni_surname: Teplouchow
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33212263) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10514-1), [Wikidata](https://www.wikidata.org/wiki/Q4455333). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10514-1) LSID 10514-1, [Wikidata](https://www.wikidata.org/wiki/Q4455333) QID Q4455333
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

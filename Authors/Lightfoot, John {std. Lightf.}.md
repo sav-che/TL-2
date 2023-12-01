@@ -6,7 +6,7 @@ tl2_surname: Lightfoot
 tl2_forenames: John
 tl2_name_abbrev: Lightf.
 tl2_dates: 1735-1788
-tl2_page_id: 33355112
+tl2_bhl_page_id: 33355112
 author_lsid: 22340-1
 wikidata_id: Q1659410
 ipni_surname: Lightfoot
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:25:43.0
 ---
 
  [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33355112) of TL-2 Vol. III.
-> Author links: [IPNI](https://www.ipni.org/a/22340-1), [Wikidata](https://www.wikidata.org/wiki/Q1659410). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22340-1) LSID 22340-1, [Wikidata](https://www.wikidata.org/wiki/Q1659410) QID Q1659410
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

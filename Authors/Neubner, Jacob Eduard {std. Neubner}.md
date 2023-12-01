@@ -6,7 +6,7 @@ tl2_surname: Neubner
 tl2_forenames: Jacob Eduard
 tl2_name_abbrev: Neubner
 tl2_dates: 1855-?
-tl2_page_id: 33355817
+tl2_bhl_page_id: 33355817
 author_lsid: 6924-1
 wikidata_id: Q21522076
 ipni_surname: Neubner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6924-1), [Wikidata](https://www.wikidata.org/wiki/Q21522076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6924-1) LSID 6924-1, [Wikidata](https://www.wikidata.org/wiki/Q21522076) QID Q21522076
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0135
 tl2_volume: vol6
 tl2_page_printed: 115
 tl2_surname: Swanton
-tl2_forenames: Ernest William [Brockton]
+tl2_forenames: Ernest William (Brockton)
 tl2_name_abbrev: Swanton
 tl2_dates: 1870-1958
-tl2_page_id: 33212157
+tl2_bhl_page_id: 33212157
 author_lsid: 12909-1
 wikidata_id: Q21610094
 ipni_surname: Swanton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33212157) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12909-1), [Wikidata](https://www.wikidata.org/wiki/Q21610094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12909-1) LSID 12909-1, [Wikidata](https://www.wikidata.org/wiki/Q21610094) QID Q21610094
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

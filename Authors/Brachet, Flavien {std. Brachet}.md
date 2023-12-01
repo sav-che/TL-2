@@ -6,7 +6,7 @@ tl2_surname: Brachet
 tl2_forenames: Flavien
 tl2_name_abbrev: Brachet
 tl2_dates: x-1910
-tl2_page_id: 33266309
+tl2_bhl_page_id: 33266309
 author_lsid: 20000062-2
 wikidata_id: Q21506403
 ipni_surname: Brachet
@@ -22,7 +22,8 @@ ipni_record_modified: 2004-03-31 04:32:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/20000062-2), [Wikidata](https://www.wikidata.org/wiki/Q21506403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20000062-2) LSID 20000062-2, [Wikidata](https://www.wikidata.org/wiki/Q21506403) QID Q21506403
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

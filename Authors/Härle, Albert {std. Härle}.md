@@ -6,7 +6,7 @@ tl2_surname: Härle
 tl2_forenames: Albert
 tl2_name_abbrev: Härle
 tl2_dates: 1905-x
-tl2_page_id: 33068250
+tl2_bhl_page_id: 33068250
 author_lsid: 3539-1
 wikidata_id: Q21515503
 ipni_surname: Härle
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33068250) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3539-1), [Wikidata](https://www.wikidata.org/wiki/Q21515503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3539-1) LSID 3539-1, [Wikidata](https://www.wikidata.org/wiki/Q21515503) QID Q21515503
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

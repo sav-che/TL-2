@@ -6,7 +6,7 @@ tl2_surname: Trimmer
 tl2_forenames: Kirby
 tl2_name_abbrev: Trimmer
 tl2_dates: 1804-1887
-tl2_page_id: 33212534
+tl2_bhl_page_id: 33212534
 author_lsid: 10824-1
 wikidata_id: Q21610957
 ipni_surname: Trimmer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33212534) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10824-1), [Wikidata](https://www.wikidata.org/wiki/Q21610957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10824-1) LSID 10824-1, [Wikidata](https://www.wikidata.org/wiki/Q21610957) QID Q21610957
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

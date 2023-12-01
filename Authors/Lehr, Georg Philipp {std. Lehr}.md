@@ -6,7 +6,7 @@ tl2_surname: Lehr
 tl2_forenames: Georg Philipp
 tl2_name_abbrev: Lehr
 tl2_dates: 1756-1807
-tl2_page_id: 33069066
+tl2_bhl_page_id: 33069066
 author_lsid: 5436-1
 wikidata_id: Q21518596
 ipni_surname: Lehr
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33069066) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5436-1), [Wikidata](https://www.wikidata.org/wiki/Q21518596). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5436-1) LSID 5436-1, [Wikidata](https://www.wikidata.org/wiki/Q21518596) QID Q21518596
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

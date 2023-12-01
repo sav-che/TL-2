@@ -6,7 +6,7 @@ tl2_surname: Pellanda
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Pellanda
 tl2_dates: fl. 1904
-tl2_page_id: 33189618
+tl2_bhl_page_id: 33189618
 author_lsid: 7473-1
 wikidata_id: Q36566283
 ipni_surname: Pellanda
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33189618) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7473-1), [Wikidata](https://www.wikidata.org/wiki/Q36566283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7473-1) LSID 7473-1, [Wikidata](https://www.wikidata.org/wiki/Q36566283) QID Q36566283
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

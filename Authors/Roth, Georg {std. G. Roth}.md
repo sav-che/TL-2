@@ -6,7 +6,7 @@ tl2_surname: Roth
 tl2_forenames: Georg
 tl2_name_abbrev: G. Roth
 tl2_dates: 1842-1915
-tl2_page_id: 33190391
+tl2_bhl_page_id: 33190391
 author_lsid: 8638-1
 wikidata_id: Q12313728
 ipni_surname: Roth
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33190391) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8638-1), [Wikidata](https://www.wikidata.org/wiki/Q12313728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8638-1) LSID 8638-1, [Wikidata](https://www.wikidata.org/wiki/Q12313728) QID Q12313728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

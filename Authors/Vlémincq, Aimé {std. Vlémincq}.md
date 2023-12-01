@@ -6,7 +6,7 @@ tl2_surname: Vlémincq
 tl2_forenames: Aimé
 tl2_name_abbrev: Vlémincq
 tl2_dates: fl. 1937
-tl2_page_id: 33212805
+tl2_bhl_page_id: 33212805
 author_lsid: 11228-1
 wikidata_id: Q36512758
 ipni_surname: Vlémincq
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11228-1), [Wikidata](https://www.wikidata.org/wiki/Q36512758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11228-1) LSID 11228-1, [Wikidata](https://www.wikidata.org/wiki/Q36512758) QID Q36512758
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

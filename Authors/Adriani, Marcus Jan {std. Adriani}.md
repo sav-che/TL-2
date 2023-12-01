@@ -6,7 +6,7 @@ tl2_surname: Adriani
 tl2_forenames: Marcus Jan
 tl2_name_abbrev: Adriani
 tl2_dates: 1908-x
-tl2_page_id: 33264720
+tl2_bhl_page_id: 33264720
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33264720) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

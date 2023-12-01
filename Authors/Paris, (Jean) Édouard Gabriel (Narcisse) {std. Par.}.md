@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0070
 tl2_volume: vol4
 tl2_page_printed: 56
 tl2_surname: Paris
-tl2_forenames: [Jean] Édouard Gabriel [Narcisse]
+tl2_forenames: (Jean) Édouard Gabriel (Narcisse)
 tl2_name_abbrev: Par.
 tl2_dates: 1827-1911
-tl2_page_id: 33189489
+tl2_bhl_page_id: 33189489
 author_lsid: 24547-1
 wikidata_id: Q5928874
 ipni_surname: Paris
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24547-1), [Wikidata](https://www.wikidata.org/wiki/Q5928874). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24547-1) LSID 24547-1, [Wikidata](https://www.wikidata.org/wiki/Q5928874) QID Q5928874
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

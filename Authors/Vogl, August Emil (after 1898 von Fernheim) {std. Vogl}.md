@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0750
 tl2_volume: vol6
 tl2_page_printed: 769
 tl2_surname: Vogl
-tl2_forenames: August Emil [after 1898 von Fernheim]
+tl2_forenames: August Emil (after 1898 von Fernheim)
 tl2_name_abbrev: Vogl
 tl2_dates: 1833-1909
-tl2_page_id: 33212811
+tl2_bhl_page_id: 33212811
 author_lsid: 12975-1
 wikidata_id: Q21611837
 ipni_surname: Vogl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33212811) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12975-1), [Wikidata](https://www.wikidata.org/wiki/Q21611837). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12975-1) LSID 12975-1, [Wikidata](https://www.wikidata.org/wiki/Q21611837) QID Q21611837
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

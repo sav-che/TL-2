@@ -6,7 +6,7 @@ tl2_surname: Kiggelaer
 tl2_forenames: François (Franciscus)
 tl2_name_abbrev: Kiggel.
 tl2_dates: 1648-1722
-tl2_page_id: 33068780
+tl2_bhl_page_id: 33068780
 author_lsid: 4782-1
 wikidata_id: Q1375945
 ipni_surname: Kiggelaer
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4782-1), [Wikidata](https://www.wikidata.org/wiki/Q1375945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4782-1) LSID 4782-1, [Wikidata](https://www.wikidata.org/wiki/Q1375945) QID Q1375945
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

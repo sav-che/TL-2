@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0987
 tl2_volume: vol2
 tl2_page_printed: 834
 tl2_surname: Lemaire
-tl2_forenames: [Antoine] Charles
+tl2_forenames: (Antoine) Charles
 tl2_name_abbrev: Lem.
 tl2_dates: 1800-1871
-tl2_page_id: 33069076
+tl2_bhl_page_id: 33069076
 author_lsid: 5457-1
 wikidata_id: Q942880
 ipni_surname: Lemaire
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:47:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33069076) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5457-1), [Wikidata](https://www.wikidata.org/wiki/Q942880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5457-1) LSID 5457-1, [Wikidata](https://www.wikidata.org/wiki/Q942880) QID Q942880
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

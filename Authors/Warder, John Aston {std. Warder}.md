@@ -6,7 +6,7 @@ tl2_surname: Warder
 tl2_forenames: John Aston
 tl2_name_abbrev: Warder
 tl2_dates: 1812-1883
-tl2_page_id: 33066410
+tl2_bhl_page_id: 33066410
 author_lsid: 11408-1
 wikidata_id: Q6219657
 ipni_surname: Warder
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11408-1), [Wikidata](https://www.wikidata.org/wiki/Q6219657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11408-1) LSID 11408-1, [Wikidata](https://www.wikidata.org/wiki/Q6219657) QID Q6219657
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

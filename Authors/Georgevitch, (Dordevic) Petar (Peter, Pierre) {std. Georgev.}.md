@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0139
 tl2_volume: suppl8
 tl2_page_printed: 182
 tl2_surname: Georgevitch
-tl2_forenames: [Dordevic] Petar [Peter, Pierre]
+tl2_forenames: (Dordevic) Petar (Peter, Pierre)
 tl2_name_abbrev: Georgev.
 tl2_dates: 1874-1947
-tl2_page_id: 33258660
+tl2_bhl_page_id: 33258660
 author_lsid: 18153-1
 wikidata_id: Q21513901
 ipni_surname: Georgevitch
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33258660) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/18153-1), [Wikidata](https://www.wikidata.org/wiki/Q21513901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18153-1) LSID 18153-1, [Wikidata](https://www.wikidata.org/wiki/Q21513901) QID Q21513901
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Deleuze
 tl2_forenames: Joseph Philippe François
 tl2_name_abbrev: Deleuze
 tl2_dates: 1753-1835
-tl2_page_id: 33259221
+tl2_bhl_page_id: 33259221
 author_lsid: 2101-1
 wikidata_id: Q277326
 ipni_surname: Deleuze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2101-1), [Wikidata](https://www.wikidata.org/wiki/Q277326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2101-1) LSID 2101-1, [Wikidata](https://www.wikidata.org/wiki/Q277326) QID Q277326
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

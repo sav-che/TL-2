@@ -6,7 +6,7 @@ tl2_surname: Montagne
 tl2_forenames: Jean Pierre François Camille
 tl2_name_abbrev: Mont.
 tl2_dates: 1784-1866
-tl2_page_id: 33355644
+tl2_bhl_page_id: 33355644
 author_lsid: 23560-1
 wikidata_id: Q1029228
 ipni_surname: Montagne
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:50:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33355644) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23560-1), [Wikidata](https://www.wikidata.org/wiki/Q1029228). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23560-1) LSID 23560-1, [Wikidata](https://www.wikidata.org/wiki/Q1029228) QID Q1029228
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

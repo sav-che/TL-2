@@ -6,7 +6,7 @@ tl2_surname: Petagna
 tl2_forenames: Luigi
 tl2_name_abbrev: L. Petagna
 tl2_dates: 1779-1832
-tl2_page_id: 33189658
+tl2_bhl_page_id: 33189658
 author_lsid: 7558-1
 wikidata_id: Q21522866
 ipni_surname: Petagna
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33189658) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7558-1), [Wikidata](https://www.wikidata.org/wiki/Q21522866). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7558-1) LSID 7558-1, [Wikidata](https://www.wikidata.org/wiki/Q21522866) QID Q21522866
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

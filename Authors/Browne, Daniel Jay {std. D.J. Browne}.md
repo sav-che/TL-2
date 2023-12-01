@@ -6,7 +6,7 @@ tl2_surname: Browne
 tl2_forenames: Daniel Jay
 tl2_name_abbrev: D.J. Browne
 tl2_dates: 1804-1867
-tl2_page_id: 33120501
+tl2_bhl_page_id: 33120501
 author_lsid: 1200-1
 wikidata_id: Q21506554
 ipni_surname: Browne
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33120501) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1200-1), [Wikidata](https://www.wikidata.org/wiki/Q21506554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1200-1) LSID 1200-1, [Wikidata](https://www.wikidata.org/wiki/Q21506554) QID Q21506554
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

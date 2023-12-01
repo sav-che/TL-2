@@ -6,7 +6,7 @@ tl2_surname: Buen y del Cos
 tl2_forenames: Odón de
 tl2_name_abbrev: Buen
 tl2_dates: 1863-?
-tl2_page_id: 33266514
+tl2_bhl_page_id: 33266514
 author_lsid: 35586-1
 wikidata_id: Q3825435
 ipni_surname: Buen y del Cos
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33266514) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/35586-1), [Wikidata](https://www.wikidata.org/wiki/Q3825435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35586-1) LSID 35586-1, [Wikidata](https://www.wikidata.org/wiki/Q3825435) QID Q3825435
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

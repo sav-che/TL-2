@@ -6,7 +6,7 @@ tl2_surname: Mann
 tl2_forenames: Benjamin Pickmann
 tl2_name_abbrev: B. Mann
 tl2_dates: 1848-1926
-tl2_page_id: 33355364
+tl2_bhl_page_id: 33355364
 author_lsid: 6069-1
 wikidata_id: Q2896195
 ipni_surname: Mann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6069-1), [Wikidata](https://www.wikidata.org/wiki/Q2896195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6069-1) LSID 6069-1, [Wikidata](https://www.wikidata.org/wiki/Q2896195) QID Q2896195
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Rothmayr
 tl2_forenames: Julius
 tl2_name_abbrev: Rothmayr
 tl2_dates: fl. 1910-1913
-tl2_page_id: 33190398
+tl2_bhl_page_id: 33190398
 author_lsid: 8649-1
 wikidata_id: Q36598190
 ipni_surname: Rothmayr
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/page/33190398) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8649-1), [Wikidata](https://www.wikidata.org/wiki/Q36598190). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8649-1) LSID 8649-1, [Wikidata](https://www.wikidata.org/wiki/Q36598190) QID Q36598190
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

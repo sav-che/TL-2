@@ -6,7 +6,7 @@ tl2_surname: Sillén
 tl2_forenames: Olof Leopold
 tl2_name_abbrev: Sillén
 tl2_dates: 1813-1894
-tl2_page_id: 33333737
+tl2_bhl_page_id: 33333737
 author_lsid: 9640-1
 wikidata_id: Q21608886
 ipni_surname: Sillén
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33333737) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9640-1), [Wikidata](https://www.wikidata.org/wiki/Q21608886). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9640-1) LSID 9640-1, [Wikidata](https://www.wikidata.org/wiki/Q21608886) QID Q21608886
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

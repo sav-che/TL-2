@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0062
 tl2_volume: vol5
 tl2_page_printed: 64
 tl2_surname: Sauer
-tl2_forenames: Friedrich [Fritz] Ludwig Ferdinand
+tl2_forenames: Friedrich (Fritz) Ludwig Ferdinand
 tl2_name_abbrev: Sauer
 tl2_dates: 1852-?
-tl2_page_id: 33333203
+tl2_bhl_page_id: 33333203
 author_lsid: 8945-1
 wikidata_id: Q21387811
 ipni_surname: Sauer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8945-1), [Wikidata](https://www.wikidata.org/wiki/Q21387811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8945-1) LSID 8945-1, [Wikidata](https://www.wikidata.org/wiki/Q21387811) QID Q21387811
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

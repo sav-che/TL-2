@@ -6,7 +6,7 @@ tl2_surname: Bertoloni
 tl2_forenames: Antonio
 tl2_name_abbrev: Bertol.
 tl2_dates: 1775-1869
-tl2_page_id: 33120333
+tl2_bhl_page_id: 33120333
 author_lsid: 16042-1
 wikidata_id: Q599936
 ipni_surname: Bertoloni
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16042-1), [Wikidata](https://www.wikidata.org/wiki/Q599936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16042-1) LSID 16042-1, [Wikidata](https://www.wikidata.org/wiki/Q599936) QID Q599936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bertoloni, Antonio {std. Bertol.} (Suppl.)|second entry]] for this author
 

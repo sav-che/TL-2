@@ -6,7 +6,7 @@ tl2_surname: Arvet-Touvet
 tl2_forenames: Jean Maurice Casimir
 tl2_name_abbrev: Årv.-Touv.
 tl2_dates: 1841-1913
-tl2_page_id: 33120202
+tl2_bhl_page_id: 33120202
 author_lsid: 298-1
 wikidata_id: Q1226882
 ipni_surname: Arvet-Touvet
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/298-1), [Wikidata](https://www.wikidata.org/wiki/Q1226882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/298-1) LSID 298-1, [Wikidata](https://www.wikidata.org/wiki/Q1226882) QID Q1226882
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arvet-Touvet, (Jean Maurice) Casimir {std. Arv.-Touv.} (Suppl.)|second entry]] for this author
 

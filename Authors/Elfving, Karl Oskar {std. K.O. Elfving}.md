@@ -6,7 +6,7 @@ tl2_surname: Elfving
 tl2_forenames: Karl Oskar
 tl2_name_abbrev: K.O. Elfving
 tl2_dates: 1872-1946
-tl2_page_id: 33260291
+tl2_bhl_page_id: 33260291
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33260291) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

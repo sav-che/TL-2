@@ -6,7 +6,7 @@ tl2_surname: Diesing
 tl2_forenames: Carl Moritz
 tl2_name_abbrev: Diesing
 tl2_dates: 1800-1867
-tl2_page_id: 33120779
+tl2_bhl_page_id: 33120779
 author_lsid: 2202-1
 wikidata_id: Q2722447
 ipni_surname: Diesing
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33120779) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2202-1), [Wikidata](https://www.wikidata.org/wiki/Q2722447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2202-1) LSID 2202-1, [Wikidata](https://www.wikidata.org/wiki/Q2722447) QID Q2722447
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Diesing, Karl Moritz {std. Diesing} (Suppl.)|second entry]] for this author
 

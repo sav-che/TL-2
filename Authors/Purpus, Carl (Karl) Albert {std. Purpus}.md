@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0523
 tl2_volume: vol4
 tl2_page_printed: 445
 tl2_surname: Purpus
-tl2_forenames: Carl [Karl] Albert
+tl2_forenames: Carl (Karl) Albert
 tl2_name_abbrev: Purpus
 tl2_dates: 1851-1941
-tl2_page_id: 33189916
+tl2_bhl_page_id: 33189916
 author_lsid: 8032-1
 wikidata_id: Q104661
 ipni_surname: Purpus
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8032-1), [Wikidata](https://www.wikidata.org/wiki/Q104661). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8032-1) LSID 8032-1, [Wikidata](https://www.wikidata.org/wiki/Q104661) QID Q104661
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

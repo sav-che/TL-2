@@ -6,7 +6,7 @@ tl2_surname: Broughton
 tl2_forenames: Arthur
 tl2_name_abbrev: Broughton
 tl2_dates: x-1796
-tl2_page_id: 33120491
+tl2_bhl_page_id: 33120491
 author_lsid: 1182-1
 wikidata_id: Q4798104
 ipni_surname: Broughton
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33120491) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1182-1), [Wikidata](https://www.wikidata.org/wiki/Q4798104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1182-1) LSID 1182-1, [Wikidata](https://www.wikidata.org/wiki/Q4798104) QID Q4798104
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Curtiss
 tl2_forenames: Allen Hiram
 tl2_name_abbrev: Curtiss
 tl2_dates: 1845-1907
-tl2_page_id: 33266196
+tl2_bhl_page_id: 33266196
 author_lsid: 17599-1
 wikidata_id: Q16031427
 ipni_surname: Curtiss
@@ -25,7 +25,8 @@ ipni_record_modified: 2015-07-20 19:54:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33266196) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17599-1), [Wikidata](https://www.wikidata.org/wiki/Q16031427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17599-1) LSID 17599-1, [Wikidata](https://www.wikidata.org/wiki/Q16031427) QID Q16031427
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

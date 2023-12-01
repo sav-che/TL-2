@@ -6,7 +6,7 @@ tl2_surname: Cushman
 tl2_forenames: Joseph Augustine
 tl2_name_abbrev: Cushman
 tl2_dates: 1881-1949
-tl2_page_id: 33266199
+tl2_bhl_page_id: 33266199
 author_lsid: 32848-1
 wikidata_id: Q1706544
 ipni_surname: Cushman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33266199) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32848-1), [Wikidata](https://www.wikidata.org/wiki/Q1706544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32848-1) LSID 32848-1, [Wikidata](https://www.wikidata.org/wiki/Q1706544) QID Q1706544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

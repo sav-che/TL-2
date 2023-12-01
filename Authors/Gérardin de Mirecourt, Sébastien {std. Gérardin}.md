@@ -6,7 +6,7 @@ tl2_surname: Gérardin de Mirecourt
 tl2_forenames: Sébastien
 tl2_name_abbrev: Gérardin
 tl2_dates: 1751-1816
-tl2_page_id: 33121065
+tl2_bhl_page_id: 33121065
 author_lsid: 3101-1
 wikidata_id: Q3510118
 ipni_surname: Gérardin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/page/33121065) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3101-1), [Wikidata](https://www.wikidata.org/wiki/Q3510118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3101-1) LSID 3101-1, [Wikidata](https://www.wikidata.org/wiki/Q3510118) QID Q3510118
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gérardin (de Mirecourt), Sébastien {std. Gérardin} (Suppl.)|second entry]] for this author
 

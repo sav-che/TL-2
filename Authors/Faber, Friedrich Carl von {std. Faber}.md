@@ -6,7 +6,7 @@ tl2_surname: Faber
 tl2_forenames: Friedrich Carl von
 tl2_name_abbrev: Faber
 tl2_dates: 1880-1954
-tl2_page_id: 33259505
+tl2_bhl_page_id: 33259505
 author_lsid: 33059-1
 wikidata_id: Q21512517
 ipni_surname: Faber
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259505) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/33059-1), [Wikidata](https://www.wikidata.org/wiki/Q21512517). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33059-1) LSID 33059-1, [Wikidata](https://www.wikidata.org/wiki/Q21512517) QID Q21512517
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

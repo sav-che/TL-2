@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0550
 tl2_volume: vol4
 tl2_page_printed: 529
 tl2_surname: Raciborski
-tl2_forenames: Marjan [Marian, Maryan]
+tl2_forenames: Marjan (Marian, Maryan)
 tl2_name_abbrev: Racib.
 tl2_dates: 1863-1917
-tl2_page_id: 33190000
+tl2_bhl_page_id: 33190000
 author_lsid: 8071-1
 wikidata_id: Q3045640
 ipni_surname: Raciborski
@@ -30,7 +30,8 @@ ipni_record_modified: 2013-05-15 11:52:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33190000) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8071-1), [Wikidata](https://www.wikidata.org/wiki/Q3045640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8071-1) LSID 8071-1, [Wikidata](https://www.wikidata.org/wiki/Q3045640) QID Q3045640
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

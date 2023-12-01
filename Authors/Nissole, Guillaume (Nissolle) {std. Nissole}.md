@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0896
 tl2_volume: vol3
 tl2_page_printed: 755
 tl2_surname: Nissole
-tl2_forenames: Guillaume [Nissolle]
+tl2_forenames: Guillaume (Nissolle)
 tl2_name_abbrev: Nissole
 tl2_dates: 1647-1735
-tl2_page_id: 33355842
+tl2_bhl_page_id: 33355842
 author_lsid: 7000-1
 wikidata_id: Q3120098
 ipni_surname: Nissole
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7000-1), [Wikidata](https://www.wikidata.org/wiki/Q3120098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7000-1) LSID 7000-1, [Wikidata](https://www.wikidata.org/wiki/Q3120098) QID Q3120098
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

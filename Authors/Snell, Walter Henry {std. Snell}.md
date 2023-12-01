@@ -6,7 +6,7 @@ tl2_surname: Snell
 tl2_forenames: Walter Henry
 tl2_name_abbrev: Snell
 tl2_dates: 1889-1980
-tl2_page_id: 33333849
+tl2_bhl_page_id: 33333849
 author_lsid: 26959-1
 wikidata_id: Q4425579
 ipni_surname: Snell
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33333849) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26959-1), [Wikidata](https://www.wikidata.org/wiki/Q4425579). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26959-1) LSID 26959-1, [Wikidata](https://www.wikidata.org/wiki/Q4425579) QID Q4425579
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

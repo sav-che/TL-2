@@ -6,7 +6,7 @@ tl2_surname: Pawlowski
 tl2_forenames: Bogumil
 tl2_name_abbrev: Pawl.
 tl2_dates: 1898-1971
-tl2_page_id: 33189589
+tl2_bhl_page_id: 33189589
 author_lsid: 7424-1
 wikidata_id: Q9175591
 ipni_surname: Pawłowski
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-02-08 12:55:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33189589) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7424-1), [Wikidata](https://www.wikidata.org/wiki/Q9175591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7424-1) LSID 7424-1, [Wikidata](https://www.wikidata.org/wiki/Q9175591) QID Q9175591
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

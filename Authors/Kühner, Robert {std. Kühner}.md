@@ -6,7 +6,7 @@ tl2_surname: Kühner
 tl2_forenames: Robert
 tl2_name_abbrev: Kühner
 tl2_dates: 1904-x
-tl2_page_id: 33068925
+tl2_bhl_page_id: 33068925
 author_lsid: 21788-1
 wikidata_id: Q2226482
 ipni_surname: Kühner
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33068925) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21788-1), [Wikidata](https://www.wikidata.org/wiki/Q2226482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21788-1) LSID 21788-1, [Wikidata](https://www.wikidata.org/wiki/Q2226482) QID Q2226482
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

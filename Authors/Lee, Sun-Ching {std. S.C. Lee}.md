@@ -6,7 +6,7 @@ tl2_surname: Lee
 tl2_forenames: Sun-Ching
 tl2_name_abbrev: S.C. Lee
 tl2_dates: 1892-x
-tl2_page_id: 33069053
+tl2_bhl_page_id: 33069053
 author_lsid: 12640-1
 wikidata_id: Q21518556
 ipni_surname: Lee
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33069053) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12640-1), [Wikidata](https://www.wikidata.org/wiki/Q21518556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12640-1) LSID 12640-1, [Wikidata](https://www.wikidata.org/wiki/Q21518556) QID Q21518556
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

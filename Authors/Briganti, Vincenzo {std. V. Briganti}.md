@@ -6,7 +6,7 @@ tl2_surname: Briganti
 tl2_forenames: Vincenzo
 tl2_name_abbrev: V. Briganti
 tl2_dates: 1766-1836
-tl2_page_id: 33120456
+tl2_bhl_page_id: 33120456
 author_lsid: 1141-1
 wikidata_id: Q15435
 ipni_surname: Briganti
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33120456) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1141-1), [Wikidata](https://www.wikidata.org/wiki/Q15435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1141-1) LSID 1141-1, [Wikidata](https://www.wikidata.org/wiki/Q15435) QID Q15435
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

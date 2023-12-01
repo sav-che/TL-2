@@ -6,7 +6,7 @@ tl2_surname: Condit
 tl2_forenames: Carlton
 tl2_name_abbrev: Condit
 tl2_dates: 1906-x
-tl2_page_id: 33265976
+tl2_bhl_page_id: 33265976
 author_lsid: 33979-1
 wikidata_id: Q36523548
 ipni_surname: Condit
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265976) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/33979-1), [Wikidata](https://www.wikidata.org/wiki/Q36523548). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33979-1) LSID 33979-1, [Wikidata](https://www.wikidata.org/wiki/Q36523548) QID Q36523548
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

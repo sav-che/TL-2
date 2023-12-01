@@ -6,7 +6,7 @@ tl2_surname: Williams
 tl2_forenames: Louis Otho
 tl2_name_abbrev: L.O. Williams
 tl2_dates: 1908-x
-tl2_page_id: 33066660
+tl2_bhl_page_id: 33066660
 author_lsid: 11706-1
 wikidata_id: Q1871895
 ipni_surname: Williams
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33066660) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11706-1), [Wikidata](https://www.wikidata.org/wiki/Q1871895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11706-1) LSID 11706-1, [Wikidata](https://www.wikidata.org/wiki/Q1871895) QID Q1871895
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

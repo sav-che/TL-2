@@ -6,7 +6,7 @@ tl2_surname: Miltitz
 tl2_forenames: Friedrich Joseph Franz Xaver von
 tl2_name_abbrev: Miltitz
 tl2_dates: x-1840
-tl2_page_id: 33355592
+tl2_bhl_page_id: 33355592
 author_lsid: 6496-1
 wikidata_id: Q21521528
 ipni_surname: Miltitz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33355592) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6496-1), [Wikidata](https://www.wikidata.org/wiki/Q21521528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6496-1) LSID 6496-1, [Wikidata](https://www.wikidata.org/wiki/Q21521528) QID Q21521528
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0728
 tl2_volume: vol5
 tl2_page_printed: 735
 tl2_surname: Soltwedel
-tl2_forenames: Friedrich [Wilhelm Otto]
+tl2_forenames: Friedrich (Wilhelm Otto)
 tl2_name_abbrev: Soltwedel
 tl2_dates: 1858-1890
-tl2_page_id: 33333874
+tl2_bhl_page_id: 33333874
 author_lsid: 12873-1
 wikidata_id: Q21609196
 ipni_surname: Soltwedel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33333874) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12873-1), [Wikidata](https://www.wikidata.org/wiki/Q21609196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12873-1) LSID 12873-1, [Wikidata](https://www.wikidata.org/wiki/Q21609196) QID Q21609196
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

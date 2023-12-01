@@ -6,7 +6,7 @@ tl2_surname: Renault
 tl2_forenames: Pierre-Antoine
 tl2_name_abbrev: P. Renault
 tl2_dates: 1750-1835
-tl2_page_id: 33190198
+tl2_bhl_page_id: 33190198
 author_lsid: 8286-1
 wikidata_id: Q3383751
 ipni_surname: Renault
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8286-1), [Wikidata](https://www.wikidata.org/wiki/Q3383751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8286-1) LSID 8286-1, [Wikidata](https://www.wikidata.org/wiki/Q3383751) QID Q3383751
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

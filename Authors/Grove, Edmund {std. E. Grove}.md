@@ -6,7 +6,7 @@ tl2_surname: Grove
 tl2_forenames: Edmund
 tl2_name_abbrev: E. Grove
 tl2_dates: fl. 1886
-tl2_page_id: 33121146
+tl2_bhl_page_id: 33121146
 author_lsid: 3420-1
 wikidata_id: Q47118203
 ipni_surname: Grove
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/page/33121146) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3420-1), [Wikidata](https://www.wikidata.org/wiki/Q47118203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3420-1) LSID 3420-1, [Wikidata](https://www.wikidata.org/wiki/Q47118203) QID Q47118203
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

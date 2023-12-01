@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0026
 tl2_volume: vol7
 tl2_page_printed: 23
 tl2_surname: Wahrlich
-tl2_forenames: Woldemar [Karlowitsch]
+tl2_forenames: Woldemar (Karlowitsch)
 tl2_name_abbrev: Wahrlich
 tl2_dates: 1859-1923
-tl2_page_id: 33066363
+tl2_bhl_page_id: 33066363
 author_lsid: 13078-1
 wikidata_id: Q21612004
 ipni_surname: Wahrlich
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13078-1), [Wikidata](https://www.wikidata.org/wiki/Q21612004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13078-1) LSID 13078-1, [Wikidata](https://www.wikidata.org/wiki/Q21612004) QID Q21612004
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0768
 tl2_volume: vol4
 tl2_page_printed: 780
 tl2_surname: Rick
-tl2_forenames: Johann [Johannes]
+tl2_forenames: Johann (Johannes)
 tl2_name_abbrev: Rick
 tl2_dates: 1869-1946
-tl2_page_id: 33190251
+tl2_bhl_page_id: 33190251
 author_lsid: 8373-1
 wikidata_id: Q15740229
 ipni_surname: Rick
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33190251) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8373-1), [Wikidata](https://www.wikidata.org/wiki/Q15740229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8373-1) LSID 8373-1, [Wikidata](https://www.wikidata.org/wiki/Q15740229) QID Q15740229
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

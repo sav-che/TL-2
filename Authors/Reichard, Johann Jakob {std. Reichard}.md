@@ -6,7 +6,7 @@ tl2_surname: Reichard
 tl2_forenames: Johann Jakob
 tl2_name_abbrev: Reichard
 tl2_dates: 1743-1782
-tl2_page_id: 33190128
+tl2_bhl_page_id: 33190128
 author_lsid: 8246-1
 wikidata_id: Q4389251
 ipni_surname: Reichard
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:38:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33190128) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8246-1), [Wikidata](https://www.wikidata.org/wiki/Q4389251). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8246-1) LSID 8246-1, [Wikidata](https://www.wikidata.org/wiki/Q4389251) QID Q4389251
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

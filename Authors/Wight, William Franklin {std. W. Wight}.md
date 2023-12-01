@@ -6,7 +6,7 @@ tl2_surname: Wight
 tl2_forenames: William Franklin
 tl2_name_abbrev: W. Wight
 tl2_dates: 1874-1954
-tl2_page_id: 33066622
+tl2_bhl_page_id: 33066622
 author_lsid: 11659-1
 wikidata_id: Q433419
 ipni_surname: Wight
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33066622) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11659-1), [Wikidata](https://www.wikidata.org/wiki/Q433419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11659-1) LSID 11659-1, [Wikidata](https://www.wikidata.org/wiki/Q433419) QID Q433419
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

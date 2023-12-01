@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0283
 tl2_volume: vol4
 tl2_page_printed: 246
 tl2_surname: Pia
-tl2_forenames: Julius [von]
+tl2_forenames: Julius (von)
 tl2_name_abbrev: Pia
 tl2_dates: 1887-1943
-tl2_page_id: 33189717
+tl2_bhl_page_id: 33189717
 author_lsid: 24829-1
 wikidata_id: Q19060038
 ipni_surname: Pia
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33189717) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24829-1), [Wikidata](https://www.wikidata.org/wiki/Q19060038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24829-1) LSID 24829-1, [Wikidata](https://www.wikidata.org/wiki/Q19060038) QID Q19060038
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

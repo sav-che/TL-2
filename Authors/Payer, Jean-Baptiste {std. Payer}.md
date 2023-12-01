@@ -6,7 +6,7 @@ tl2_surname: Payer
 tl2_forenames: Jean-Baptiste
 tl2_name_abbrev: Payer
 tl2_dates: 1818-1860
-tl2_page_id: 33189596
+tl2_bhl_page_id: 33189596
 author_lsid: 24657-1
 wikidata_id: Q1684677
 ipni_surname: Payer
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33189596) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24657-1), [Wikidata](https://www.wikidata.org/wiki/Q1684677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24657-1) LSID 24657-1, [Wikidata](https://www.wikidata.org/wiki/Q1684677) QID Q1684677
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

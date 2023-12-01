@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0024
 tl2_volume: vol5
 tl2_page_printed: 27
 tl2_surname: Sandberger
-tl2_forenames: Karl [Carl] Ludwig Fridolin von
+tl2_forenames: Karl (Carl) Ludwig Fridolin von
 tl2_name_abbrev: K. Sandberger
 tl2_dates: 1826-1898
-tl2_page_id: 33333128
+tl2_bhl_page_id: 33333128
 author_lsid: 8881-1
 wikidata_id: Q84736
 ipni_surname: Sandberger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33333128) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8881-1), [Wikidata](https://www.wikidata.org/wiki/Q84736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8881-1) LSID 8881-1, [Wikidata](https://www.wikidata.org/wiki/Q84736) QID Q84736
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

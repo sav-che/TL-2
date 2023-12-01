@@ -6,7 +6,7 @@ tl2_surname: Medicus
 tl2_forenames: W.
 tl2_name_abbrev: W. Medicus
 tl2_dates: ± 1892
-tl2_page_id: 33355480
+tl2_bhl_page_id: 33355480
 author_lsid: 6295-1
 wikidata_id: Q47122386
 ipni_surname: Medicus
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6295-1), [Wikidata](https://www.wikidata.org/wiki/Q47122386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6295-1) LSID 6295-1, [Wikidata](https://www.wikidata.org/wiki/Q47122386) QID Q47122386
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

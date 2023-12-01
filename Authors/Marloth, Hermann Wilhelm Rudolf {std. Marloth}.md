@@ -6,7 +6,7 @@ tl2_surname: Marloth
 tl2_forenames: Hermann Wilhelm Rudolf
 tl2_name_abbrev: Marloth
 tl2_dates: 1855-1931
-tl2_page_id: 33355387
+tl2_bhl_page_id: 33355387
 author_lsid: 6116-1
 wikidata_id: Q7377264
 ipni_surname: Marloth
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33355387) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6116-1), [Wikidata](https://www.wikidata.org/wiki/Q7377264). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6116-1) LSID 6116-1, [Wikidata](https://www.wikidata.org/wiki/Q7377264) QID Q7377264
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Rabenhorst
 tl2_forenames: Gottlob Ludwig
 tl2_name_abbrev: Rabenh.
 tl2_dates: 1806-1881
-tl2_page_id: 33189931
+tl2_bhl_page_id: 33189931
 author_lsid: 8068-1
 wikidata_id: Q65090
 ipni_surname: Rabenhorst
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:48:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8068-1), [Wikidata](https://www.wikidata.org/wiki/Q65090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8068-1) LSID 8068-1, [Wikidata](https://www.wikidata.org/wiki/Q65090) QID Q65090
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

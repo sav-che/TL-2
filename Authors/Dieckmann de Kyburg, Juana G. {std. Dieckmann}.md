@@ -6,7 +6,7 @@ tl2_surname: Dieckmann de Kyburg
 tl2_forenames: Juana G.
 tl2_name_abbrev: Dieckmann
 tl2_dates: fl. 1916
-tl2_page_id: 33259340
+tl2_bhl_page_id: 33259340
 author_lsid: 20011717-2
 wikidata_id: Q5953793
 ipni_surname: Dieckmann
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33259340) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20011717-2), [Wikidata](https://www.wikidata.org/wiki/Q5953793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20011717-2) LSID 20011717-2, [Wikidata](https://www.wikidata.org/wiki/Q5953793) QID Q5953793
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

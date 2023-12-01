@@ -6,7 +6,7 @@ tl2_surname: Lam
 tl2_forenames: Herman Johannes
 tl2_name_abbrev: H.J. Lam
 tl2_dates: 1892-1977
-tl2_page_id: 33068971
+tl2_bhl_page_id: 33068971
 author_lsid: 21994-1
 wikidata_id: Q2193621
 ipni_surname: Lam
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33068971) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21994-1), [Wikidata](https://www.wikidata.org/wiki/Q2193621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21994-1) LSID 21994-1, [Wikidata](https://www.wikidata.org/wiki/Q2193621) QID Q2193621
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

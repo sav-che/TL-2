@@ -6,7 +6,7 @@ tl2_surname: Pallas
 tl2_forenames: Johann Dietrich
 tl2_name_abbrev: J. Pall.
 tl2_dates: fl. 1758
-tl2_page_id: 33189495
+tl2_bhl_page_id: 33189495
 author_lsid: 7275-1
 wikidata_id: Q36596523
 ipni_surname: Pallas
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7275-1), [Wikidata](https://www.wikidata.org/wiki/Q36596523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7275-1) LSID 7275-1, [Wikidata](https://www.wikidata.org/wiki/Q36596523) QID Q36596523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

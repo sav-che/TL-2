@@ -6,7 +6,7 @@ tl2_surname: Hassler
 tl2_forenames: Émile
 tl2_name_abbrev: Hassl.
 tl2_dates: 1861-1937
-tl2_page_id: 33068340
+tl2_bhl_page_id: 33068340
 author_lsid: 3720-1
 wikidata_id: Q116720
 ipni_surname: Hassler
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:28:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33068340) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3720-1), [Wikidata](https://www.wikidata.org/wiki/Q116720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3720-1) LSID 3720-1, [Wikidata](https://www.wikidata.org/wiki/Q116720) QID Q116720
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

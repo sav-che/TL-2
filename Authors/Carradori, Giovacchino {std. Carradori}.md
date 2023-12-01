@@ -6,7 +6,7 @@ tl2_surname: Carradori
 tl2_forenames: Giovacchino
 tl2_name_abbrev: Carradori
 tl2_dates: 1758-1818
-tl2_page_id: 33120590
+tl2_bhl_page_id: 33120590
 author_lsid: 1417-1
 wikidata_id: Q5659206
 ipni_surname: Carradori
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1417-1), [Wikidata](https://www.wikidata.org/wiki/Q5659206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1417-1) LSID 1417-1, [Wikidata](https://www.wikidata.org/wiki/Q5659206) QID Q5659206
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

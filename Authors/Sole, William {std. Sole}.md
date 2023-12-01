@@ -6,7 +6,7 @@ tl2_surname: Sole
 tl2_forenames: William
 tl2_name_abbrev: Sole
 tl2_dates: 1741-1802
-tl2_page_id: 33333862
+tl2_bhl_page_id: 33333862
 author_lsid: 9872-1
 wikidata_id: Q8018602
 ipni_surname: Sole
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33333862) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9872-1), [Wikidata](https://www.wikidata.org/wiki/Q8018602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9872-1) LSID 9872-1, [Wikidata](https://www.wikidata.org/wiki/Q8018602) QID Q8018602
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schindler
 tl2_forenames: Anton Karl
 tl2_name_abbrev: Schiudl.
 tl2_dates: 1879-1964
-tl2_page_id: 33333311
+tl2_bhl_page_id: 33333311
 author_lsid: 9092-1
 wikidata_id: Q21388096
 ipni_surname: Schindler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33333311) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9092-1), [Wikidata](https://www.wikidata.org/wiki/Q21388096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9092-1) LSID 9092-1, [Wikidata](https://www.wikidata.org/wiki/Q21388096) QID Q21388096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

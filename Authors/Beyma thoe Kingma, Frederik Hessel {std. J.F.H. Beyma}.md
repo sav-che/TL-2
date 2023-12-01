@@ -6,7 +6,7 @@ tl2_surname: Beyma thoe Kingma
 tl2_forenames: Frederik Hessel
 tl2_name_abbrev: J.F.H. Beyma
 tl2_dates: 1885-1966
-tl2_page_id: 33265349
+tl2_bhl_page_id: 33265349
 author_lsid: 28164-1
 wikidata_id: Q21506052
 ipni_surname: Beyma
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33265349) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/28164-1), [Wikidata](https://www.wikidata.org/wiki/Q21506052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28164-1) LSID 28164-1, [Wikidata](https://www.wikidata.org/wiki/Q21506052) QID Q21506052
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

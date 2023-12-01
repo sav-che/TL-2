@@ -6,7 +6,7 @@ tl2_surname: Edwards
 tl2_forenames: John
 tl2_name_abbrev: J. Edwards
 tl2_dates: fl. 1763-1806
-tl2_page_id: 33120854
+tl2_bhl_page_id: 33120854
 author_lsid: 2469-1
 wikidata_id: Q11685183
 ipni_surname: Edwards
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2469-1), [Wikidata](https://www.wikidata.org/wiki/Q11685183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2469-1) LSID 2469-1, [Wikidata](https://www.wikidata.org/wiki/Q11685183) QID Q11685183
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

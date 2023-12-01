@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0209
 tl2_volume: suppl1
 tl2_page_printed: 168
 tl2_surname: Arnott
-tl2_forenames: George Arnott [sometimes Arnold] Walker
+tl2_forenames: George Arnott (sometimes Arnold) Walker
 tl2_name_abbrev: Arnott
 tl2_dates: 1799-1868
-tl2_page_id: 33264895
+tl2_bhl_page_id: 33264895
 author_lsid: 281-1
 wikidata_id: Q730292
 ipni_surname: Arnott
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33264895) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/281-1), [Wikidata](https://www.wikidata.org/wiki/Q730292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/281-1) LSID 281-1, [Wikidata](https://www.wikidata.org/wiki/Q730292) QID Q730292
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arnott, George Arnott (sometimes Arnold) Walker {std. Arnott}|first entry]] for this author
 

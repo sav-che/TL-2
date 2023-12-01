@@ -6,7 +6,7 @@ tl2_surname: Popovici
 tl2_forenames: Alexandru P.
 tl2_name_abbrev: Popovici
 tl2_dates: 1866-?
-tl2_page_id: 33189810
+tl2_bhl_page_id: 33189810
 author_lsid: 7852-1
 wikidata_id: Q20819562
 ipni_surname: Popovici
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7852-1), [Wikidata](https://www.wikidata.org/wiki/Q20819562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7852-1) LSID 7852-1, [Wikidata](https://www.wikidata.org/wiki/Q20819562) QID Q20819562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Wachendorff
 tl2_forenames: Evert Jacob van
 tl2_name_abbrev: Wachendorff
 tl2_dates: 1702-1758
-tl2_page_id: 33066303
+tl2_bhl_page_id: 33066303
 author_lsid: 11284-1
 wikidata_id: Q1382171
 ipni_surname: Wachendorff
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11284-1), [Wikidata](https://www.wikidata.org/wiki/Q1382171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11284-1) LSID 11284-1, [Wikidata](https://www.wikidata.org/wiki/Q1382171) QID Q1382171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

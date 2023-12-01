@@ -6,7 +6,7 @@ tl2_surname: Jacobsen
 tl2_forenames: Jens Peter
 tl2_name_abbrev: J. Jacobsen
 tl2_dates: 1847-1885
-tl2_page_id: 33068644
+tl2_bhl_page_id: 33068644
 author_lsid: 4380-1
 wikidata_id: Q370246
 ipni_surname: Jacobsen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4380-1), [Wikidata](https://www.wikidata.org/wiki/Q370246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4380-1) LSID 4380-1, [Wikidata](https://www.wikidata.org/wiki/Q370246) QID Q370246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

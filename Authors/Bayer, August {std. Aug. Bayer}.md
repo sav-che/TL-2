@@ -6,27 +6,30 @@ tl2_surname: Bayer
 tl2_forenames: August
 tl2_name_abbrev: Aug. Bayer
 tl2_dates: 1882-1942
-tl2_page_id: 33265123
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33265123
+author_lsid: 15824-1
+wikidata_id: Q21596748
+ipni_surname: Bayer
+ipni_forenames: August
+ipni_standard_form: A.Bayer
+ipni_dates: 1882-1941
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+ipni_version: 1.2
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2014-02-19 08:50:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15824-1) LSID 15824-1, [Wikidata](https://www.wikidata.org/wiki/Q21596748) QID Q21596748
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Bayer, August (1882-1942), Czecho-slovak botanist, originally in Prague, lecturer in botany at the Agricultural University in Brno, professor and director of the Botanical Garden of Masaryk University, Brno, 1938-1942, died 23 Feb 1942 in the concentration camp Mauthausen. 
-**Abbreviated name**: *Aug. Bayer*
+**Abbreviated name**: *Aug. Bayer* \[standard form in IPNI: *A.Bayer*\]
 
 #### Herbarium and types
 

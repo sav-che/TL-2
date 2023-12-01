@@ -6,7 +6,7 @@ tl2_surname: Agardh
 tl2_forenames: Carl Adolph
 tl2_name_abbrev: C. Agardh
 tl2_dates: 1785-1859
-tl2_page_id: 33264726
+tl2_bhl_page_id: 33264726
 author_lsid: 30668-1
 wikidata_id: Q345654
 ipni_surname: Agardh
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33264726) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30668-1), [Wikidata](https://www.wikidata.org/wiki/Q345654). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30668-1) LSID 30668-1, [Wikidata](https://www.wikidata.org/wiki/Q345654) QID Q345654
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Agardh, Carl Adolf {std. C. Agardh}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Hitchcock
 tl2_forenames: Edward
 tl2_name_abbrev: E. Hitchc.
 tl2_dates: 1793-1864
-tl2_page_id: 33068459
+tl2_bhl_page_id: 33068459
 author_lsid: 3973-1
 wikidata_id: Q322185
 ipni_surname: Hitchcock
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3973-1), [Wikidata](https://www.wikidata.org/wiki/Q322185). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3973-1) LSID 3973-1, [Wikidata](https://www.wikidata.org/wiki/Q322185) QID Q322185
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

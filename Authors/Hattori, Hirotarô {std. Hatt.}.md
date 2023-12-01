@@ -6,7 +6,7 @@ tl2_surname: Hattori
 tl2_forenames: Hirotarô
 tl2_name_abbrev: Hatt.
 tl2_dates: 1875-1965
-tl2_page_id: 33068341
+tl2_bhl_page_id: 33068341
 author_lsid: 3724-1
 wikidata_id: Q21515577
 ipni_surname: Hattori
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33068341) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3724-1), [Wikidata](https://www.wikidata.org/wiki/Q21515577). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3724-1) LSID 3724-1, [Wikidata](https://www.wikidata.org/wiki/Q21515577) QID Q21515577
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

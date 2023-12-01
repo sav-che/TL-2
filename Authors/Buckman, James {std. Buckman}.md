@@ -6,7 +6,7 @@ tl2_surname: Buckman
 tl2_forenames: James
 tl2_name_abbrev: Buckman
 tl2_dates: 1814-1884
-tl2_page_id: 33120529
+tl2_bhl_page_id: 33120529
 author_lsid: 1258-1
 wikidata_id: Q6130450
 ipni_surname: Buckman
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1258-1), [Wikidata](https://www.wikidata.org/wiki/Q6130450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1258-1) LSID 1258-1, [Wikidata](https://www.wikidata.org/wiki/Q6130450) QID Q6130450
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

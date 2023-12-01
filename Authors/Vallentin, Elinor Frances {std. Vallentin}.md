@@ -6,7 +6,7 @@ tl2_surname: Vallentin (formerly Nichol; née Bertrand)
 tl2_forenames: Elinor Frances
 tl2_name_abbrev: Vallentin
 tl2_dates: 1873-1924
-tl2_page_id: 33212693
+tl2_bhl_page_id: 33212693
 author_lsid: 12961-1
 wikidata_id: Q21548950
 ipni_surname: Vallentin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33212693) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12961-1), [Wikidata](https://www.wikidata.org/wiki/Q21548950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12961-1) LSID 12961-1, [Wikidata](https://www.wikidata.org/wiki/Q21548950) QID Q21548950
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

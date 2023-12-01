@@ -6,7 +6,7 @@ tl2_surname: Lorey
 tl2_forenames: A.
 tl2_name_abbrev: A. Lorey
 tl2_dates: fl. 1851
-tl2_page_id: 33355248
+tl2_bhl_page_id: 33355248
 author_lsid: 5756-1
 wikidata_id: Q47121570
 ipni_surname: Lorey
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33355248) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5756-1), [Wikidata](https://www.wikidata.org/wiki/Q47121570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5756-1) LSID 5756-1, [Wikidata](https://www.wikidata.org/wiki/Q47121570) QID Q47121570
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

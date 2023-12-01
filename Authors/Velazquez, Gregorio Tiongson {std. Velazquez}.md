@@ -6,7 +6,7 @@ tl2_surname: Velazquez
 tl2_forenames: Gregorio Tiongson
 tl2_name_abbrev: Velazquez
 tl2_dates: 1901-x
-tl2_page_id: 33212732
+tl2_bhl_page_id: 33212732
 author_lsid: 11112-1
 wikidata_id: Q21611591
 ipni_surname: Velazquez
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33212732) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11112-1), [Wikidata](https://www.wikidata.org/wiki/Q21611591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11112-1) LSID 11112-1, [Wikidata](https://www.wikidata.org/wiki/Q21611591) QID Q21611591
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

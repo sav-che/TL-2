@@ -6,7 +6,7 @@ tl2_surname: Carlson
 tl2_forenames: Gusten Wilhelm Fredrik
 tl2_name_abbrev: G.W.F. Carlson
 tl2_dates: 1877-1947
-tl2_page_id: 33266725
+tl2_bhl_page_id: 33266725
 author_lsid: 32636-1
 wikidata_id: Q36560607
 ipni_surname: Carlson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33266725) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/32636-1), [Wikidata](https://www.wikidata.org/wiki/Q36560607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32636-1) LSID 32636-1, [Wikidata](https://www.wikidata.org/wiki/Q36560607) QID Q36560607
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

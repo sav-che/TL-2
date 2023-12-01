@@ -6,7 +6,7 @@ tl2_surname: Agnér
 tl2_forenames: Gustaf Frederik Hjalmar
 tl2_name_abbrev: Agnér
 tl2_dates: 1854-1898
-tl2_page_id: 33264734
+tl2_bhl_page_id: 33264734
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33264734) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

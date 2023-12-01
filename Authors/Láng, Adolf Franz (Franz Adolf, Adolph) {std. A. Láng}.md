@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0878
 tl2_volume: vol2
 tl2_page_printed: 745
 tl2_surname: Láng
-tl2_forenames: Adolf Franz [Franz Adolf, Adolph]
+tl2_forenames: Adolf Franz (Franz Adolf, Adolph)
 tl2_name_abbrev: A. Láng
 tl2_dates: 1795-1863
-tl2_page_id: 33068987
+tl2_bhl_page_id: 33068987
 author_lsid: 5254-1
 wikidata_id: Q1160114
 ipni_surname: Láng
@@ -25,7 +25,8 @@ ipni_record_modified: 2008-02-20 15:06:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5254-1), [Wikidata](https://www.wikidata.org/wiki/Q1160114). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5254-1) LSID 5254-1, [Wikidata](https://www.wikidata.org/wiki/Q1160114) QID Q1160114
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Kaulfuss
 tl2_forenames: Georg Friedrich
 tl2_name_abbrev: Kaulf.
 tl2_dates: 1786-1830
-tl2_page_id: 33068750
+tl2_bhl_page_id: 33068750
 author_lsid: 4673-1
 wikidata_id: Q102493
 ipni_surname: Kaulfuss
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33068750) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4673-1), [Wikidata](https://www.wikidata.org/wiki/Q102493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4673-1) LSID 4673-1, [Wikidata](https://www.wikidata.org/wiki/Q102493) QID Q102493
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

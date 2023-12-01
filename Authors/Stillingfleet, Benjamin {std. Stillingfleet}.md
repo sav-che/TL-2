@@ -6,7 +6,7 @@ tl2_surname: Stillingfleet
 tl2_forenames: Benjamin
 tl2_name_abbrev: Stillingfleet
 tl2_dates: 1702-1771
-tl2_page_id: 33212092
+tl2_bhl_page_id: 33212092
 author_lsid: 10147-1
 wikidata_id: Q4889258
 ipni_surname: Stillingfleet
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33212092) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10147-1), [Wikidata](https://www.wikidata.org/wiki/Q4889258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10147-1) LSID 10147-1, [Wikidata](https://www.wikidata.org/wiki/Q4889258) QID Q4889258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

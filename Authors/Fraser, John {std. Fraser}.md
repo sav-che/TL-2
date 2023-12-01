@@ -6,7 +6,7 @@ tl2_surname: Fraser
 tl2_forenames: John
 tl2_name_abbrev: Fraser
 tl2_dates: 1750-1811
-tl2_page_id: 33121004
+tl2_bhl_page_id: 33121004
 author_lsid: 2885-1
 wikidata_id: Q1337783
 ipni_surname: Fraser
@@ -25,7 +25,8 @@ ipni_record_modified: 2005-10-17 04:14:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2885-1), [Wikidata](https://www.wikidata.org/wiki/Q1337783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2885-1) LSID 2885-1, [Wikidata](https://www.wikidata.org/wiki/Q1337783) QID Q1337783
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fraser, John {std. Fraser} (Suppl.)|second entry]] for this author
 

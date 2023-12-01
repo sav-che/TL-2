@@ -6,7 +6,7 @@ tl2_surname: Kneiff
 tl2_forenames: Friedrich Gotthard
 tl2_name_abbrev: Kneiff
 tl2_dates: 1785-1832
-tl2_page_id: 33068816
+tl2_bhl_page_id: 33068816
 author_lsid: 4866-1
 wikidata_id: Q21517621
 ipni_surname: Kneiff
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4866-1), [Wikidata](https://www.wikidata.org/wiki/Q21517621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4866-1) LSID 4866-1, [Wikidata](https://www.wikidata.org/wiki/Q21517621) QID Q21517621
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

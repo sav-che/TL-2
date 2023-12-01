@@ -6,7 +6,7 @@ tl2_surname: Czurda-Denk
 tl2_forenames: Viktor
 tl2_name_abbrev: Czurda
 tl2_dates: 1897-1945
-tl2_page_id: 33266208
+tl2_bhl_page_id: 33266208
 author_lsid: 32853-1
 wikidata_id: Q21509702
 ipni_surname: Czurda
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33266208) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32853-1), [Wikidata](https://www.wikidata.org/wiki/Q21509702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32853-1) LSID 32853-1, [Wikidata](https://www.wikidata.org/wiki/Q21509702) QID Q21509702
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

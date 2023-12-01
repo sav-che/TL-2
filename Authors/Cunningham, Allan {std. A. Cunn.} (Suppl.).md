@@ -6,7 +6,7 @@ tl2_surname: Cunningham
 tl2_forenames: Allan
 tl2_name_abbrev: A. Cunn.
 tl2_dates: 1791-1839
-tl2_page_id: 33266180
+tl2_bhl_page_id: 33266180
 author_lsid: 1916-1
 wikidata_id: Q545888
 ipni_surname: Cunningham
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33266180) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1916-1), [Wikidata](https://www.wikidata.org/wiki/Q545888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1916-1) LSID 1916-1, [Wikidata](https://www.wikidata.org/wiki/Q545888) QID Q545888
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cunningham, Allan {std. A. Cunn.}|first entry]] for this author
 

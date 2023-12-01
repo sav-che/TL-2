@@ -6,7 +6,7 @@ tl2_surname: Decary
 tl2_forenames: Raymond
 tl2_name_abbrev: Decary
 tl2_dates: 1891-1973
-tl2_page_id: 33259186
+tl2_bhl_page_id: 33259186
 author_lsid: 13940-1
 wikidata_id: Q346745
 ipni_surname: Decary
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33259186) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/13940-1), [Wikidata](https://www.wikidata.org/wiki/Q346745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13940-1) LSID 13940-1, [Wikidata](https://www.wikidata.org/wiki/Q346745) QID Q346745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

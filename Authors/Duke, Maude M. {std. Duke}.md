@@ -6,7 +6,7 @@ tl2_surname: Duke
 tl2_forenames: Maude M.
 tl2_name_abbrev: Duke
 tl2_dates: fl. 1926
-tl2_page_id: 33260145
+tl2_bhl_page_id: 33260145
 author_lsid: 18263-1
 wikidata_id: Q33670182
 ipni_surname: Duke
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33260145) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18263-1), [Wikidata](https://www.wikidata.org/wiki/Q33670182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18263-1) LSID 18263-1, [Wikidata](https://www.wikidata.org/wiki/Q33670182) QID Q33670182
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

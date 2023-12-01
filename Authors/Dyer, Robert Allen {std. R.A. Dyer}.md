@@ -6,7 +6,7 @@ tl2_surname: Dyer
 tl2_forenames: Robert Allen
 tl2_name_abbrev: R.A. Dyer
 tl2_dates: 1900-1987
-tl2_page_id: 33260214
+tl2_bhl_page_id: 33260214
 author_lsid: 2431-1
 wikidata_id: Q2062617
 ipni_surname: Dyer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33260214) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2431-1), [Wikidata](https://www.wikidata.org/wiki/Q2062617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2431-1) LSID 2431-1, [Wikidata](https://www.wikidata.org/wiki/Q2062617) QID Q2062617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

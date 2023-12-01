@@ -6,7 +6,7 @@ tl2_surname: Choux
 tl2_forenames: Pierre
 tl2_name_abbrev: Choux
 tl2_dates: 1890-1983
-tl2_page_id: 33265815
+tl2_bhl_page_id: 33265815
 author_lsid: 1620-1
 wikidata_id: Q6075520
 ipni_surname: Choux
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33265815) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1620-1), [Wikidata](https://www.wikidata.org/wiki/Q6075520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1620-1) LSID 1620-1, [Wikidata](https://www.wikidata.org/wiki/Q6075520) QID Q6075520
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Cooke
 tl2_forenames: Charles Montague
 tl2_name_abbrev: C.M. Cooke
 tl2_dates: 1874-1948
-tl2_page_id: 33266004
+tl2_bhl_page_id: 33266004
 author_lsid: 17398-1
 wikidata_id: Q548569
 ipni_surname: Cooke
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:31:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33266004) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17398-1), [Wikidata](https://www.wikidata.org/wiki/Q548569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17398-1) LSID 17398-1, [Wikidata](https://www.wikidata.org/wiki/Q548569) QID Q548569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,27 +6,31 @@ tl2_surname: Guyot
 tl2_forenames: Henry
 tl2_name_abbrev: H. Guyot
 tl2_dates: 1891-1950
-tl2_page_id: 33258948
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33258948
+author_lsid: 34530-1
+wikidata_id: Q47118339
+ipni_surname: Guyot
+ipni_forenames: Henry
+ipni_standard_form: Guyot
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+- Switzerland
+ipni_version: 1.1.2.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33258948) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34530-1) LSID 34530-1, [Wikidata](https://www.wikidata.org/wiki/Q47118339) QID Q47118339
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Guyot, Henry (1891-1950), Swiss pharmaceutical researcher and botanist with a keen interest in floristic botany and geology, born 26 Mai 1891 in Saint Imier (Ct. Berne), studied at the Collège de Porrentruy, passed his pharmacy examination 1915, Dr. ès-sciences naturelles 1917 Univ. of Geneva, taught school nr. Geneva 1918-1921, asst. to R.-H. Chodat 1918-1922, employed as a research scientist at Hoffmann-La Roche (pharmaceutical firm), Basel 1922-1950, died 12 Apr 1950 nr. Montreux. 
-**Abbreviated name**: *H. Guyot*
+**Abbreviated name**: *H. Guyot* \[standard form in IPNI: *Guyot*\]
 
 #### Note
 

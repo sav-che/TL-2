@@ -6,7 +6,7 @@ tl2_surname: Schnegg
 tl2_forenames: Hans
 tl2_name_abbrev: Schnegg
 tl2_dates: 1875-1950
-tl2_page_id: 33333407
+tl2_bhl_page_id: 33333407
 author_lsid: 9187-1
 wikidata_id: Q1698362
 ipni_surname: Schnegg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33333407) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9187-1), [Wikidata](https://www.wikidata.org/wiki/Q1698362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9187-1) LSID 9187-1, [Wikidata](https://www.wikidata.org/wiki/Q1698362) QID Q1698362
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0966
 tl2_volume: vol3
 tl2_page_printed: 814
 tl2_surname: Ohlert
-tl2_forenames: [Otto Ludwig] Arnold
+tl2_forenames: (Otto Ludwig) Arnold
 tl2_name_abbrev: Ohlert
 tl2_dates: 1816-1875
-tl2_page_id: 33355901
+tl2_bhl_page_id: 33355901
 author_lsid: 24288-1
 wikidata_id: Q21339311
 ipni_surname: Ohlert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24288-1), [Wikidata](https://www.wikidata.org/wiki/Q21339311). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24288-1) LSID 24288-1, [Wikidata](https://www.wikidata.org/wiki/Q21339311) QID Q21339311
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

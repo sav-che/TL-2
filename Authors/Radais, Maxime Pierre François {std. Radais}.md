@@ -6,7 +6,7 @@ tl2_surname: Radais
 tl2_forenames: Maxime Pierre François
 tl2_name_abbrev: Radais
 tl2_dates: 1861-?
-tl2_page_id: 33190004
+tl2_bhl_page_id: 33190004
 author_lsid: 8074-1
 wikidata_id: Q21606826
 ipni_surname: Radais
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33190004) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8074-1), [Wikidata](https://www.wikidata.org/wiki/Q21606826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8074-1) LSID 8074-1, [Wikidata](https://www.wikidata.org/wiki/Q21606826) QID Q21606826
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

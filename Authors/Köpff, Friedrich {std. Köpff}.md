@@ -6,7 +6,7 @@ tl2_surname: Köpff
 tl2_forenames: Friedrich
 tl2_name_abbrev: Köpff
 tl2_dates: fl. 1892
-tl2_page_id: 33068844
+tl2_bhl_page_id: 33068844
 author_lsid: 4921-1
 wikidata_id: Q36555144
 ipni_surname: Köpff
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33068844) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4921-1), [Wikidata](https://www.wikidata.org/wiki/Q36555144). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4921-1) LSID 4921-1, [Wikidata](https://www.wikidata.org/wiki/Q36555144) QID Q36555144
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol5_0660
 tl2_volume: vol5
 tl2_page_printed: 659
-tl2_surname: Smirnov [Smirnow, Smirnoff]
+tl2_surname: Smirnov (Smirnow, Smirnoff)
 tl2_forenames: Michael Nikolajèwitsch
 tl2_name_abbrev: M. Smirn.
 tl2_dates: 1849-1889
-tl2_page_id: 33333798
+tl2_bhl_page_id: 33333798
 author_lsid: 9763-1
 wikidata_id: Q61739290
 ipni_surname: Smirnov
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9763-1), [Wikidata](https://www.wikidata.org/wiki/Q61739290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9763-1) LSID 9763-1, [Wikidata](https://www.wikidata.org/wiki/Q61739290) QID Q61739290
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

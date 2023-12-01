@@ -6,7 +6,7 @@ tl2_surname: Chalk
 tl2_forenames: Laurence
 tl2_name_abbrev: Chalk
 tl2_dates: 1895-1979
-tl2_page_id: 33265716
+tl2_bhl_page_id: 33265716
 author_lsid: 1498-1
 wikidata_id: Q21387682
 ipni_surname: Chalk
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265716) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1498-1), [Wikidata](https://www.wikidata.org/wiki/Q21387682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1498-1) LSID 1498-1, [Wikidata](https://www.wikidata.org/wiki/Q21387682) QID Q21387682
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

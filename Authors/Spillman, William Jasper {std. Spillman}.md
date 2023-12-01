@@ -6,7 +6,7 @@ tl2_surname: Spillman
 tl2_forenames: William Jasper
 tl2_name_abbrev: Spillman
 tl2_dates: 1863-1931
-tl2_page_id: 33333930
+tl2_bhl_page_id: 33333930
 author_lsid: 9971-1
 wikidata_id: Q8013515
 ipni_surname: Spillman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9971-1), [Wikidata](https://www.wikidata.org/wiki/Q8013515). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9971-1) LSID 9971-1, [Wikidata](https://www.wikidata.org/wiki/Q8013515) QID Q8013515
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

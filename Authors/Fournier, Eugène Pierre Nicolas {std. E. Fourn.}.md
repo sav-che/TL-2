@@ -6,7 +6,7 @@ tl2_surname: Fournier
 tl2_forenames: Eugène Pierre Nicolas
 tl2_name_abbrev: E. Fourn.
 tl2_dates: 1834-1884
-tl2_page_id: 33120996
+tl2_bhl_page_id: 33120996
 author_lsid: 2857-1
 wikidata_id: Q2616180
 ipni_surname: Fournier
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33120996) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2857-1), [Wikidata](https://www.wikidata.org/wiki/Q2616180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2857-1) LSID 2857-1, [Wikidata](https://www.wikidata.org/wiki/Q2616180) QID Q2616180
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fournier, Eugène Pierre Nicolas {std. E. Fourn.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Cunningham
 tl2_forenames: Richard
 tl2_name_abbrev: R. Cunn.
 tl2_dates: 1793-1835
-tl2_page_id: 33120704
+tl2_bhl_page_id: 33120704
 author_lsid: 1920-1
 wikidata_id: Q4212532
 ipni_surname: Cunningham
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1920-1), [Wikidata](https://www.wikidata.org/wiki/Q4212532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1920-1) LSID 1920-1, [Wikidata](https://www.wikidata.org/wiki/Q4212532) QID Q4212532
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cunningham, Richard {std. R. Cunn.} (Suppl.)|second entry]] for this author
 

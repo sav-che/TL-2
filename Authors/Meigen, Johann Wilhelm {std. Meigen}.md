@@ -6,7 +6,7 @@ tl2_surname: Meigen
 tl2_forenames: Johann Wilhelm
 tl2_name_abbrev: Meigen
 tl2_dates: 1764-1845
-tl2_page_id: 33355487
+tl2_bhl_page_id: 33355487
 author_lsid: 6312-1
 wikidata_id: Q77463
 ipni_surname: Meigen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6312-1), [Wikidata](https://www.wikidata.org/wiki/Q77463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6312-1) LSID 6312-1, [Wikidata](https://www.wikidata.org/wiki/Q77463) QID Q77463
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

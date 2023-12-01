@@ -6,7 +6,7 @@ tl2_surname: Correll
 tl2_forenames: Donovan Stewart
 tl2_name_abbrev: Correll
 tl2_dates: 1908-1983
-tl2_page_id: 33266048
+tl2_bhl_page_id: 33266048
 author_lsid: 1814-1
 wikidata_id: Q1242094
 ipni_surname: Correll
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:29:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33266048) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1814-1), [Wikidata](https://www.wikidata.org/wiki/Q1242094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1814-1) LSID 1814-1, [Wikidata](https://www.wikidata.org/wiki/Q1242094) QID Q1242094
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

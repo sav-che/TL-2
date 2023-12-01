@@ -6,7 +6,7 @@ tl2_surname: Schopfer
 tl2_forenames: William Henri
 tl2_name_abbrev: Schopfer
 tl2_dates: 1900-1962
-tl2_page_id: 33333441
+tl2_bhl_page_id: 33333441
 author_lsid: 9233-1
 wikidata_id: Q17194423
 ipni_surname: Schopfer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33333441) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9233-1), [Wikidata](https://www.wikidata.org/wiki/Q17194423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9233-1) LSID 9233-1, [Wikidata](https://www.wikidata.org/wiki/Q17194423) QID Q17194423
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

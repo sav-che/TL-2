@@ -6,7 +6,7 @@ tl2_surname: Prollius
 tl2_forenames: Friedrich
 tl2_name_abbrev: Prollius
 tl2_dates: fl. 1882
-tl2_page_id: 33189888
+tl2_bhl_page_id: 33189888
 author_lsid: 7990-1
 wikidata_id: Q36556734
 ipni_surname: Prollius
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33189888) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7990-1), [Wikidata](https://www.wikidata.org/wiki/Q36556734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7990-1) LSID 7990-1, [Wikidata](https://www.wikidata.org/wiki/Q36556734) QID Q36556734
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

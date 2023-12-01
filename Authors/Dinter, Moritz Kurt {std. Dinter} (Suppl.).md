@@ -6,7 +6,7 @@ tl2_surname: Dinter
 tl2_forenames: Moritz Kurt
 tl2_name_abbrev: Dinter
 tl2_dates: 1868-1945
-tl2_page_id: 33259393
+tl2_bhl_page_id: 33259393
 author_lsid: 2224-1
 wikidata_id: Q76164
 ipni_surname: Dinter
@@ -23,7 +23,8 @@ ipni_record_modified: 2010-03-24 14:19:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33259393) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2224-1), [Wikidata](https://www.wikidata.org/wiki/Q76164). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2224-1) LSID 2224-1, [Wikidata](https://www.wikidata.org/wiki/Q76164) QID Q76164
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dinter, Kurt {std. Dinter}|first entry]] for this author
 

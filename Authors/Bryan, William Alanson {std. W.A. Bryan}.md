@@ -6,7 +6,7 @@ tl2_surname: Bryan
 tl2_forenames: William Alanson
 tl2_name_abbrev: W.A. Bryan
 tl2_dates: 1875-1942
-tl2_page_id: 33266476
+tl2_bhl_page_id: 33266476
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

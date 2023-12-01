@@ -6,7 +6,7 @@ tl2_surname: Zermann
 tl2_forenames: Chrysostomus Alexander
 tl2_name_abbrev: Zermann
 tl2_dates: fl. 1893-1895
-tl2_page_id: 33066870
+tl2_bhl_page_id: 33066870
 author_lsid: 12016-1
 wikidata_id: Q36533143
 ipni_surname: Zermann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33066870) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12016-1), [Wikidata](https://www.wikidata.org/wiki/Q36533143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12016-1) LSID 12016-1, [Wikidata](https://www.wikidata.org/wiki/Q36533143) QID Q36533143
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

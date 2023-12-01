@@ -6,7 +6,7 @@ tl2_surname: Steyermark
 tl2_forenames: Julian Alfred
 tl2_name_abbrev: Steyerm.
 tl2_dates: 1909-x
-tl2_page_id: 33334064
+tl2_bhl_page_id: 33334064
 author_lsid: 10143-1
 wikidata_id: Q250148
 ipni_surname: Steyermark
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:37:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33334064) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10143-1), [Wikidata](https://www.wikidata.org/wiki/Q250148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10143-1) LSID 10143-1, [Wikidata](https://www.wikidata.org/wiki/Q250148) QID Q250148
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

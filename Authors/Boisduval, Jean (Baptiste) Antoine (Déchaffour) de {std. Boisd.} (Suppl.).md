@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0334
 tl2_volume: suppl2
 tl2_page_printed: 278
 tl2_surname: Boisduval
-tl2_forenames: Jean [Baptiste] Antoine [Déchaffour] de
+tl2_forenames: Jean (Baptiste) Antoine (Déchaffour) de
 tl2_name_abbrev: Boisd.
 tl2_dates: 1801 (1799?)-1879
-tl2_page_id: 33265475
+tl2_bhl_page_id: 33265475
 author_lsid: 912-1
 wikidata_id: Q722712
 ipni_surname: Boisduval
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33265475) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/912-1), [Wikidata](https://www.wikidata.org/wiki/Q722712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/912-1) LSID 912-1, [Wikidata](https://www.wikidata.org/wiki/Q722712) QID Q722712
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boisduval, Jean Baptiste Alphonse Déchauffour(e) de {std. Boisd.}|first entry]] for this author
 

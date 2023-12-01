@@ -6,7 +6,7 @@ tl2_surname: Krauss
 tl2_forenames: Christian Ferdinand Friedrich von
 tl2_name_abbrev: C. Krauss
 tl2_dates: 1812-1890
-tl2_page_id: 33068910
+tl2_bhl_page_id: 33068910
 author_lsid: 5047-1
 wikidata_id: Q5109597
 ipni_surname: Krauss
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33068910) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5047-1), [Wikidata](https://www.wikidata.org/wiki/Q5109597). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5047-1) LSID 5047-1, [Wikidata](https://www.wikidata.org/wiki/Q5109597) QID Q5109597
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Thomas
 tl2_forenames: Benjamin Waiden
 tl2_name_abbrev: B.W. Thomas
 tl2_dates: fl. 1886
-tl2_page_id: 33212312
+tl2_bhl_page_id: 33212312
 author_lsid: 10586-1
 wikidata_id: Q36519775
 ipni_surname: Thomas
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10586-1), [Wikidata](https://www.wikidata.org/wiki/Q36519775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10586-1) LSID 10586-1, [Wikidata](https://www.wikidata.org/wiki/Q36519775) QID Q36519775
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Whitford
 tl2_forenames: Harry Nichols
 tl2_name_abbrev: Whitford
 tl2_dates: 1872-1941
-tl2_page_id: 33066596
+tl2_bhl_page_id: 33066596
 author_lsid: 11629-1
 wikidata_id: Q18911341
 ipni_surname: Whitford
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33066596) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11629-1), [Wikidata](https://www.wikidata.org/wiki/Q18911341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11629-1) LSID 11629-1, [Wikidata](https://www.wikidata.org/wiki/Q18911341) QID Q18911341
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

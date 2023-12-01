@@ -6,7 +6,7 @@ tl2_surname: Gottsche
 tl2_forenames: Carl Moritz
 tl2_name_abbrev: Gottsche
 tl2_dates: 1808-1892
-tl2_page_id: 33121105
+tl2_bhl_page_id: 33121105
 author_lsid: 19524-1
 wikidata_id: Q115257
 ipni_surname: Gottsche
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33121105) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19524-1), [Wikidata](https://www.wikidata.org/wiki/Q115257). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19524-1) LSID 19524-1, [Wikidata](https://www.wikidata.org/wiki/Q115257) QID Q115257
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gottsche, Carl (Karl) Moritz {std. Gottsche} (Suppl.)|second entry]] for this author
 

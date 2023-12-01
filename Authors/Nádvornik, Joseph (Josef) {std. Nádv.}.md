@@ -6,7 +6,7 @@ tl2_surname: Nádvornik
 tl2_forenames: Joseph (Josef)
 tl2_name_abbrev: Nádv.
 tl2_dates: 1906-1977
-tl2_page_id: 33355768
+tl2_bhl_page_id: 33355768
 author_lsid: 6832-1
 wikidata_id: Q21339575
 ipni_surname: Nádvorník
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6832-1), [Wikidata](https://www.wikidata.org/wiki/Q21339575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6832-1) LSID 6832-1, [Wikidata](https://www.wikidata.org/wiki/Q21339575) QID Q21339575
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

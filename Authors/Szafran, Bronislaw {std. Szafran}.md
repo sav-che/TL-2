@@ -6,7 +6,7 @@ tl2_surname: Szafran
 tl2_forenames: Bronislaw
 tl2_name_abbrev: Szafran
 tl2_dates: 1897-1968
-tl2_page_id: 33212185
+tl2_bhl_page_id: 33212185
 author_lsid: 10364-1
 wikidata_id: Q16533694
 ipni_surname: Szafran
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33212185) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10364-1), [Wikidata](https://www.wikidata.org/wiki/Q16533694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10364-1) LSID 10364-1, [Wikidata](https://www.wikidata.org/wiki/Q16533694) QID Q16533694
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

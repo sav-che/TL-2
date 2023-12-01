@@ -6,7 +6,7 @@ tl2_surname: Sava
 tl2_forenames: Roberto
 tl2_name_abbrev: Sava
 tl2_dates: fl. 1844
-tl2_page_id: 33333220
+tl2_bhl_page_id: 33333220
 author_lsid: 8967-1
 wikidata_id: Q47125681
 ipni_surname: Sava
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33333220) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8967-1), [Wikidata](https://www.wikidata.org/wiki/Q47125681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8967-1) LSID 8967-1, [Wikidata](https://www.wikidata.org/wiki/Q47125681) QID Q47125681
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

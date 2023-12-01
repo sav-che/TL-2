@@ -6,7 +6,7 @@ tl2_surname: Tahourdin
 tl2_forenames: Charles Baynard
 tl2_name_abbrev: Tahourdin
 tl2_dates: 1872-1942
-tl2_page_id: 33212193
+tl2_bhl_page_id: 33212193
 author_lsid: 10387-1
 wikidata_id: Q21610150
 ipni_surname: Tahourdin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10387-1), [Wikidata](https://www.wikidata.org/wiki/Q21610150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10387-1) LSID 10387-1, [Wikidata](https://www.wikidata.org/wiki/Q21610150) QID Q21610150
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Barnes
 tl2_forenames: Bertie Frank
 tl2_name_abbrev: B.F. Barnes
 tl2_dates: 1888-1965
-tl2_page_id: 33265057
+tl2_bhl_page_id: 33265057
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33265057) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

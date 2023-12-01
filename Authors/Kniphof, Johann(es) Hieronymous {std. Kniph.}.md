@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0701
 tl2_volume: vol2
 tl2_page_printed: 578
 tl2_surname: Kniphof
-tl2_forenames: Johann[es] Hieronymous
+tl2_forenames: Johann(es) Hieronymous
 tl2_name_abbrev: Kniph.
 tl2_dates: 1704-1763
-tl2_page_id: 33068820
+tl2_bhl_page_id: 33068820
 author_lsid: 4874-1
 wikidata_id: Q90471
 ipni_surname: Kniphof
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33068820) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4874-1), [Wikidata](https://www.wikidata.org/wiki/Q90471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4874-1) LSID 4874-1, [Wikidata](https://www.wikidata.org/wiki/Q90471) QID Q90471
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

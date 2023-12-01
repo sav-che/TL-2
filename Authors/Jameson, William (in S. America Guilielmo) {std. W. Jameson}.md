@@ -6,7 +6,7 @@ tl2_surname: Jameson
 tl2_forenames: William (in S. America Guilielmo)
 tl2_name_abbrev: W. Jameson
 tl2_dates: 1796-1873
-tl2_page_id: 33068663
+tl2_bhl_page_id: 33068663
 author_lsid: 4415-1
 wikidata_id: Q8013504
 ipni_surname: Jameson
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:44:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33068663) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4415-1), [Wikidata](https://www.wikidata.org/wiki/Q8013504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4415-1) LSID 4415-1, [Wikidata](https://www.wikidata.org/wiki/Q8013504) QID Q8013504
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

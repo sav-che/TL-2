@@ -6,7 +6,7 @@ tl2_surname: Minà-Palumbo
 tl2_forenames: Francesco
 tl2_name_abbrev: Minà-Palumbo
 tl2_dates: 1814-1899
-tl2_page_id: 33355593
+tl2_bhl_page_id: 33355593
 author_lsid: 6498-1
 wikidata_id: Q3750305
 ipni_surname: Minà-Palumbo
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6498-1), [Wikidata](https://www.wikidata.org/wiki/Q3750305). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6498-1) LSID 6498-1, [Wikidata](https://www.wikidata.org/wiki/Q3750305) QID Q3750305
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

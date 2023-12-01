@@ -6,7 +6,7 @@ tl2_surname: Schlümbach
 tl2_forenames: Friedrich Alexander von
 tl2_name_abbrev: Schlümbach
 tl2_dates: fl. 1809-1811
-tl2_page_id: 33333368
+tl2_bhl_page_id: 33333368
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33333368) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

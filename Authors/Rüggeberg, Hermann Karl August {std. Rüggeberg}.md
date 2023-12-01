@@ -6,7 +6,7 @@ tl2_surname: Rüggeberg
 tl2_forenames: Hermann Karl August
 tl2_name_abbrev: Rüggeberg
 tl2_dates: 1886-?
-tl2_page_id: 33190447
+tl2_bhl_page_id: 33190447
 author_lsid: 8721-1
 wikidata_id: Q21607534
 ipni_surname: Rüggeberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8721-1), [Wikidata](https://www.wikidata.org/wiki/Q21607534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8721-1) LSID 8721-1, [Wikidata](https://www.wikidata.org/wiki/Q21607534) QID Q21607534
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

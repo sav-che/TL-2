@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0456
 tl2_volume: suppl1
 tl2_page_printed: 394
 tl2_surname: Bay
-tl2_forenames: Jens Christian [Ballien]
+tl2_forenames: Jens Christian (Ballien)
 tl2_name_abbrev: J.C. Bay
 tl2_dates: 1871-1962
-tl2_page_id: 33265121
+tl2_bhl_page_id: 33265121
 author_lsid: 15823-1
 wikidata_id: Q6179637
 ipni_surname: Bay
@@ -25,7 +25,8 @@ ipni_record_modified: 2017-11-16 12:03:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/15823-1), [Wikidata](https://www.wikidata.org/wiki/Q6179637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15823-1) LSID 15823-1, [Wikidata](https://www.wikidata.org/wiki/Q6179637) QID Q6179637
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

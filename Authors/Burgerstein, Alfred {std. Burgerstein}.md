@@ -6,27 +6,31 @@ tl2_surname: Burgerstein
 tl2_forenames: Alfred
 tl2_name_abbrev: Burgerstein
 tl2_dates: 1850-1929
-tl2_page_id: 33266543
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33266543
+author_lsid: 20018610-2
+wikidata_id: Q36499945
+ipni_surname: Burgerstein
+ipni_forenames: Alfred
+ipni_standard_form: Burgerst.
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+- Austria
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33266543) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20018610-2) LSID 20018610-2, [Wikidata](https://www.wikidata.org/wiki/Q36499945) QID Q36499945
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Burgerstein, Alfred (1850-1929), Austrian botanist and teacher, born and died in Vienna, Dr. phil. University of Vienna, lecturer at this university in anatomy and physiology 1894, professor of natural history at the Leopoldst. Realgymnasium 1875, extraordinary professor at the University 1903, next to his gymnasium teaching, extraordinary professor of physiology and anatomy of plants at the University of Vienna 1908, "Regierungsrat" 1909. 
-**Abbreviated name**: *Burgerstein*
+**Abbreviated name**: *Burgerstein* \[standard form in IPNI: *Burgerst.*\]
 
 #### Herbarium and types
 

@@ -6,7 +6,7 @@ tl2_surname: Planchon
 tl2_forenames: Jules Émile
 tl2_name_abbrev: Planch.
 tl2_dates: 1823-1888
-tl2_page_id: 33189755
+tl2_bhl_page_id: 33189755
 author_lsid: 7738-1
 wikidata_id: Q1387276
 ipni_surname: Planchon
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:53:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33189755) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7738-1), [Wikidata](https://www.wikidata.org/wiki/Q1387276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7738-1) LSID 7738-1, [Wikidata](https://www.wikidata.org/wiki/Q1387276) QID Q1387276
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

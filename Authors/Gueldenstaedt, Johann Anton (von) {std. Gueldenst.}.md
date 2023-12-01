@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_1274
 tl2_volume: vol1
 tl2_page_printed: 1018
 tl2_surname: Gueldenstaedt
-tl2_forenames: Johann Anton [von]
+tl2_forenames: Johann Anton (von)
 tl2_name_abbrev: Gueldenst.
 tl2_dates: 1745-1781
-tl2_page_id: 33121149
+tl2_bhl_page_id: 33121149
 author_lsid: 12522-1
 wikidata_id: Q529222
 ipni_surname: Gueldenstaedt
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12522-1), [Wikidata](https://www.wikidata.org/wiki/Q529222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12522-1) LSID 12522-1, [Wikidata](https://www.wikidata.org/wiki/Q529222) QID Q529222
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

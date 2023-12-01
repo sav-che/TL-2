@@ -6,7 +6,7 @@ tl2_surname: Buse
 tl2_forenames: L. H.
 tl2_name_abbrev: Buse
 tl2_dates: 1819-1888
-tl2_page_id: 33120551
+tl2_bhl_page_id: 33120551
 author_lsid: 1321-1
 wikidata_id: Q5978322
 ipni_surname: Buse
@@ -24,7 +24,8 @@ ipni_record_modified: 2012-07-24 12:55:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33120551) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1321-1), [Wikidata](https://www.wikidata.org/wiki/Q5978322). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1321-1) LSID 1321-1, [Wikidata](https://www.wikidata.org/wiki/Q5978322) QID Q5978322
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Buse, Lodewijk Hendrik {std. Buse} (Suppl.)|second entry]] for this author
 

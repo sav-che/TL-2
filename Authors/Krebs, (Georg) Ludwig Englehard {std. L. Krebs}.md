@@ -6,7 +6,7 @@ tl2_surname: Krebs
 tl2_forenames: (Georg) Ludwig Englehard
 tl2_name_abbrev: L. Krebs
 tl2_dates: 1792-1844
-tl2_page_id: 33068911
+tl2_bhl_page_id: 33068911
 author_lsid: 5053-1
 wikidata_id: Q5982493
 ipni_surname: Krebs
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5053-1), [Wikidata](https://www.wikidata.org/wiki/Q5982493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5053-1) LSID 5053-1, [Wikidata](https://www.wikidata.org/wiki/Q5982493) QID Q5982493
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

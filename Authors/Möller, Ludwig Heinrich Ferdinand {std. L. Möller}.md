@@ -6,7 +6,7 @@ tl2_surname: Möller
 tl2_forenames: Ludwig Heinrich Ferdinand
 tl2_name_abbrev: L. Möller
 tl2_dates: 1820-1877
-tl2_page_id: 33355622
+tl2_bhl_page_id: 33355622
 author_lsid: 6549-1
 wikidata_id: Q21521629
 ipni_surname: Möller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33355622) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6549-1), [Wikidata](https://www.wikidata.org/wiki/Q21521629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6549-1) LSID 6549-1, [Wikidata](https://www.wikidata.org/wiki/Q21521629) QID Q21521629
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

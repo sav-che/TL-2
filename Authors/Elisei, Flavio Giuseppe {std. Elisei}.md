@@ -6,7 +6,7 @@ tl2_surname: Elisei
 tl2_forenames: Flavio Giuseppe
 tl2_name_abbrev: Elisei
 tl2_dates: fl. 1937
-tl2_page_id: 33260293
+tl2_bhl_page_id: 33260293
 author_lsid: 18443-1
 wikidata_id: Q36553673
 ipni_surname: Elisei
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33260293) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18443-1), [Wikidata](https://www.wikidata.org/wiki/Q36553673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18443-1) LSID 18443-1, [Wikidata](https://www.wikidata.org/wiki/Q36553673) QID Q36553673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

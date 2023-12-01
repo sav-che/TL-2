@@ -6,7 +6,7 @@ tl2_surname: Cejp
 tl2_forenames: Karel
 tl2_name_abbrev: Cejp
 tl2_dates: 1900-x
-tl2_page_id: 33120607
+tl2_bhl_page_id: 33120607
 author_lsid: 1476-1
 wikidata_id: Q3193057
 ipni_surname: Cejp
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33120607) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1476-1), [Wikidata](https://www.wikidata.org/wiki/Q3193057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1476-1) LSID 1476-1, [Wikidata](https://www.wikidata.org/wiki/Q3193057) QID Q3193057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cejp, Karel {std. Cejp} (Suppl.)|second entry]] for this author
 

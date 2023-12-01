@@ -6,7 +6,7 @@ tl2_surname: Stephenson
 tl2_forenames: John
 tl2_name_abbrev: Stephenson
 tl2_dates: fl. 1820-1830
-tl2_page_id: 33334035
+tl2_bhl_page_id: 33334035
 author_lsid: 10107-1
 wikidata_id: Q33694336
 ipni_surname: Stephenson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/page/33334035) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10107-1), [Wikidata](https://www.wikidata.org/wiki/Q33694336). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10107-1) LSID 10107-1, [Wikidata](https://www.wikidata.org/wiki/Q33694336) QID Q33694336
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Domke
 tl2_forenames: Friedrich Walter
 tl2_name_abbrev: Domke
 tl2_dates: 1899-1988
-tl2_page_id: 33260034
+tl2_bhl_page_id: 33260034
 author_lsid: 2265-1
 wikidata_id: Q5807969
 ipni_surname: Domke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33260034) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2265-1), [Wikidata](https://www.wikidata.org/wiki/Q5807969). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2265-1) LSID 2265-1, [Wikidata](https://www.wikidata.org/wiki/Q5807969) QID Q5807969
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

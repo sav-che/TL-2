@@ -6,7 +6,7 @@ tl2_surname: Demidow
 tl2_forenames: Anatoli Nikolajewitsch
 tl2_name_abbrev: A.N. Demidow
 tl2_dates: 1812-1870
-tl2_page_id: 33120751
+tl2_bhl_page_id: 33120751
 author_lsid: 2116-1
 wikidata_id: Q487488
 ipni_surname: Demidov
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33120751) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2116-1), [Wikidata](https://www.wikidata.org/wiki/Q487488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2116-1) LSID 2116-1, [Wikidata](https://www.wikidata.org/wiki/Q487488) QID Q487488
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

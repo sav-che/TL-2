@@ -6,7 +6,7 @@ tl2_surname: Helwing
 tl2_forenames: Georg Andreas
 tl2_name_abbrev: Helw.
 tl2_dates: 1668-1748
-tl2_page_id: 33068391
+tl2_bhl_page_id: 33068391
 author_lsid: 3819-1
 wikidata_id: Q88202
 ipni_surname: Helwing
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3819-1), [Wikidata](https://www.wikidata.org/wiki/Q88202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3819-1) LSID 3819-1, [Wikidata](https://www.wikidata.org/wiki/Q88202) QID Q88202
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

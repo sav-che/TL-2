@@ -6,7 +6,7 @@ tl2_surname: Dochnahl
 tl2_forenames: Friedrich Jakob
 tl2_name_abbrev: Dochnahl
 tl2_dates: 1820-1904
-tl2_page_id: 33259991
+tl2_bhl_page_id: 33259991
 author_lsid: 13955-1
 wikidata_id: Q102563
 ipni_surname: Dochnahl
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259991) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/13955-1), [Wikidata](https://www.wikidata.org/wiki/Q102563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13955-1) LSID 13955-1, [Wikidata](https://www.wikidata.org/wiki/Q102563) QID Q102563
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

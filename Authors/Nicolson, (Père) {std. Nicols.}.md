@@ -6,27 +6,31 @@ tl2_surname: Nicolson
 tl2_forenames: (Père)
 tl2_name_abbrev: Nicols.
 tl2_dates: 1734-ca. 1790
-tl2_page_id: 33355831
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33355831
+author_lsid: 20012095-2
+wikidata_id: Q21522145
+ipni_surname: Nicolson
+ipni_forenames: (Père)
+ipni_standard_form: Nicolson bis
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+- Dominican Republic
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33355831) of TL-2 Vol. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20012095-2) LSID 20012095-2, [Wikidata](https://www.wikidata.org/wiki/Q21522145) QID Q21522145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Nicolson, (Père) (1734-ca. 1790), Dominican priest in Paris who lived about four years on Santo Domingo. 
-**Abbreviated name**: *Nicols.*
+**Abbreviated name**: *Nicols.* \[standard form in IPNI: *Nicolson bis*\]
 
 #### Herbarium and types
 

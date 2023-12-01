@@ -6,7 +6,7 @@ tl2_surname: Kindt
 tl2_forenames: Christian Sommer
 tl2_name_abbrev: Kindt
 tl2_dates: 1816-1903
-tl2_page_id: 33068786
+tl2_bhl_page_id: 33068786
 author_lsid: 4796-1
 wikidata_id: Q15430086
 ipni_surname: Kindt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33068786) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4796-1), [Wikidata](https://www.wikidata.org/wiki/Q15430086). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4796-1) LSID 4796-1, [Wikidata](https://www.wikidata.org/wiki/Q15430086) QID Q15430086
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

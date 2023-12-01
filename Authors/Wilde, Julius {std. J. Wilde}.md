@@ -6,7 +6,7 @@ tl2_surname: Wilde
 tl2_forenames: Julius
 tl2_name_abbrev: J. Wilde
 tl2_dates: 1864-1947
-tl2_page_id: 33066631
+tl2_bhl_page_id: 33066631
 author_lsid: 11676-1
 wikidata_id: Q21612684
 ipni_surname: Wilde
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33066631) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11676-1), [Wikidata](https://www.wikidata.org/wiki/Q21612684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11676-1) LSID 11676-1, [Wikidata](https://www.wikidata.org/wiki/Q21612684) QID Q21612684
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

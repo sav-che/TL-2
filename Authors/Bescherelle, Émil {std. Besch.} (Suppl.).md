@@ -6,7 +6,7 @@ tl2_surname: Bescherelle
 tl2_forenames: Émil
 tl2_name_abbrev: Besch.
 tl2_dates: 1828-1903
-tl2_page_id: 33265331
+tl2_bhl_page_id: 33265331
 author_lsid: 16055-1
 wikidata_id: Q8078265
 ipni_surname: Bescherelle
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33265331) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16055-1), [Wikidata](https://www.wikidata.org/wiki/Q8078265). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16055-1) LSID 16055-1, [Wikidata](https://www.wikidata.org/wiki/Q8078265) QID Q8078265
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bescherelle, Émile {std. Besch.}|first entry]] for this author
 

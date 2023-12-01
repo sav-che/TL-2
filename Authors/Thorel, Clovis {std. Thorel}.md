@@ -6,7 +6,7 @@ tl2_surname: Thorel
 tl2_forenames: Clovis
 tl2_name_abbrev: Thorel
 tl2_dates: 1833-1911
-tl2_page_id: 33212333
+tl2_bhl_page_id: 33212333
 author_lsid: 10626-1
 wikidata_id: Q2979757
 ipni_surname: Thorel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33212333) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10626-1), [Wikidata](https://www.wikidata.org/wiki/Q2979757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10626-1) LSID 10626-1, [Wikidata](https://www.wikidata.org/wiki/Q2979757) QID Q2979757
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

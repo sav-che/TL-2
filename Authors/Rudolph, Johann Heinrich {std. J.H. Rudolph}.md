@@ -6,7 +6,7 @@ tl2_surname: Rudolph
 tl2_forenames: Johann Heinrich
 tl2_name_abbrev: J.H. Rudolph
 tl2_dates: 1744-1809
-tl2_page_id: 33190443
+tl2_bhl_page_id: 33190443
 author_lsid: 8710-1
 wikidata_id: Q4399726
 ipni_surname: Rudolph
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8710-1), [Wikidata](https://www.wikidata.org/wiki/Q4399726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8710-1) LSID 8710-1, [Wikidata](https://www.wikidata.org/wiki/Q4399726) QID Q4399726
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Seits
 tl2_forenames: Tobias Anton
 tl2_name_abbrev: Seits
 tl2_dates: 1772-1833
-tl2_page_id: 33333633
+tl2_bhl_page_id: 33333633
 author_lsid: 9447-1
 wikidata_id: Q21608635
 ipni_surname: Seits
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33333633) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9447-1), [Wikidata](https://www.wikidata.org/wiki/Q21608635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9447-1) LSID 9447-1, [Wikidata](https://www.wikidata.org/wiki/Q21608635) QID Q21608635
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

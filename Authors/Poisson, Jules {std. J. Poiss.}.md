@@ -6,7 +6,7 @@ tl2_surname: Poisson
 tl2_forenames: Jules
 tl2_name_abbrev: J. Poiss.
 tl2_dates: 1833-1919
-tl2_page_id: 33189793
+tl2_bhl_page_id: 33189793
 author_lsid: 7794-1
 wikidata_id: Q3188854
 ipni_surname: Poisson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33189793) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7794-1), [Wikidata](https://www.wikidata.org/wiki/Q3188854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7794-1) LSID 7794-1, [Wikidata](https://www.wikidata.org/wiki/Q3188854) QID Q3188854
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

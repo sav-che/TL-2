@@ -6,7 +6,7 @@ tl2_surname: Hamilton
 tl2_forenames: William
 tl2_name_abbrev: W. Ham.
 tl2_dates: 1783-1856
-tl2_page_id: 33068277
+tl2_bhl_page_id: 33068277
 author_lsid: 3599-1
 wikidata_id: Q15443
 ipni_surname: Hamilton
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33068277) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3599-1), [Wikidata](https://www.wikidata.org/wiki/Q15443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3599-1) LSID 3599-1, [Wikidata](https://www.wikidata.org/wiki/Q15443) QID Q15443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

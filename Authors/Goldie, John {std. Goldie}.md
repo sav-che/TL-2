@@ -6,7 +6,7 @@ tl2_surname: Goldie
 tl2_forenames: John
 tl2_name_abbrev: Goldie
 tl2_dates: 1793-1886
-tl2_page_id: 33258760
+tl2_bhl_page_id: 33258760
 author_lsid: 3238-1
 wikidata_id: Q6235633
 ipni_surname: Goldie
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33258760) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3238-1), [Wikidata](https://www.wikidata.org/wiki/Q6235633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3238-1) LSID 3238-1, [Wikidata](https://www.wikidata.org/wiki/Q6235633) QID Q6235633
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

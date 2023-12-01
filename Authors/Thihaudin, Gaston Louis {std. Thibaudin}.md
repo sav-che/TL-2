@@ -6,7 +6,7 @@ tl2_surname: Thihaudin
 tl2_forenames: Gaston Louis
 tl2_name_abbrev: Thibaudin
 tl2_dates: 1727-1776
-tl2_page_id: 33212298
+tl2_bhl_page_id: 33212298
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

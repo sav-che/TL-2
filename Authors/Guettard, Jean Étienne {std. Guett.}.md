@@ -6,7 +6,7 @@ tl2_surname: Guettard
 tl2_forenames: Jean Étienne
 tl2_name_abbrev: Guett.
 tl2_dates: 1715-1786
-tl2_page_id: 33121151
+tl2_bhl_page_id: 33121151
 author_lsid: 3454-1
 wikidata_id: Q43273
 ipni_surname: Guettard
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33121151) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3454-1), [Wikidata](https://www.wikidata.org/wiki/Q43273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3454-1) LSID 3454-1, [Wikidata](https://www.wikidata.org/wiki/Q43273) QID Q43273
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Guettard, Jean-Étienne {std. Guett.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Heim
 tl2_forenames: Georg Christoph
 tl2_name_abbrev: G. Heim
 tl2_dates: 1743-1807
-tl2_page_id: 33068379
+tl2_bhl_page_id: 33068379
 author_lsid: 3785-1
 wikidata_id: Q21388439
 ipni_surname: Heim
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3785-1), [Wikidata](https://www.wikidata.org/wiki/Q21388439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3785-1) LSID 3785-1, [Wikidata](https://www.wikidata.org/wiki/Q21388439) QID Q21388439
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

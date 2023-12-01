@@ -6,7 +6,7 @@ tl2_surname: Christensen
 tl2_forenames: Carl Frederik Albert
 tl2_name_abbrev: C.Chr.
 tl2_dates: 1872-1942
-tl2_page_id: 33265833
+tl2_bhl_page_id: 33265833
 author_lsid: 1629-1
 wikidata_id: Q2114106
 ipni_surname: Christensen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1629-1), [Wikidata](https://www.wikidata.org/wiki/Q2114106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1629-1) LSID 1629-1, [Wikidata](https://www.wikidata.org/wiki/Q2114106) QID Q2114106
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Christensen, Carl Frederik Albert {std. C. Chr.}|first entry]] for this author
 

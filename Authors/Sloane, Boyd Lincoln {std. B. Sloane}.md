@@ -6,7 +6,7 @@ tl2_surname: Sloane
 tl2_forenames: Boyd Lincoln
 tl2_name_abbrev: B. Sloane
 tl2_dates: 1885-?
-tl2_page_id: 33333783
+tl2_bhl_page_id: 33333783
 author_lsid: 9745-1
 wikidata_id: Q5732971
 ipni_surname: Sloane
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33333783) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9745-1), [Wikidata](https://www.wikidata.org/wiki/Q5732971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9745-1) LSID 9745-1, [Wikidata](https://www.wikidata.org/wiki/Q5732971) QID Q5732971
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

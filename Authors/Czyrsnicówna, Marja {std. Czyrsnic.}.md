@@ -6,7 +6,7 @@ tl2_surname: Czyrsnicówna
 tl2_forenames: Marja
 tl2_name_abbrev: Czyrsnic.
 tl2_dates: fl. 1939
-tl2_page_id: 33266209
+tl2_bhl_page_id: 33266209
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33266209) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

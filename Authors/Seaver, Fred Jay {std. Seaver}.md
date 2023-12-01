@@ -6,7 +6,7 @@ tl2_surname: Seaver
 tl2_forenames: Fred Jay
 tl2_name_abbrev: Seaver
 tl2_dates: 1877-1970
-tl2_page_id: 33333604
+tl2_bhl_page_id: 33333604
 author_lsid: 26466-1
 wikidata_id: Q3296491
 ipni_surname: Seaver
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33333604) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26466-1), [Wikidata](https://www.wikidata.org/wiki/Q3296491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26466-1) LSID 26466-1, [Wikidata](https://www.wikidata.org/wiki/Q3296491) QID Q3296491
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

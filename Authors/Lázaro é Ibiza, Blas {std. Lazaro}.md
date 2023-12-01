@@ -6,7 +6,7 @@ tl2_surname: Lázaro é Ibiza
 tl2_forenames: Blas
 tl2_name_abbrev: Lazaro
 tl2_dates: 1858-1921
-tl2_page_id: 33069018
+tl2_bhl_page_id: 33069018
 author_lsid: 5362-1
 wikidata_id: Q4254726
 ipni_surname: Lázaro é Ibiza
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5362-1), [Wikidata](https://www.wikidata.org/wiki/Q4254726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5362-1) LSID 5362-1, [Wikidata](https://www.wikidata.org/wiki/Q4254726) QID Q4254726
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

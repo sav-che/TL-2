@@ -6,7 +6,7 @@ tl2_surname: Peirson
 tl2_forenames: Frank Warrington
 tl2_name_abbrev: Peirson
 tl2_dates: 1865-1951
-tl2_page_id: 33189617
+tl2_bhl_page_id: 33189617
 author_lsid: 7470-1
 wikidata_id: Q4363492
 ipni_surname: Peirson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33189617) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7470-1), [Wikidata](https://www.wikidata.org/wiki/Q4363492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7470-1) LSID 7470-1, [Wikidata](https://www.wikidata.org/wiki/Q4363492) QID Q4363492
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0776
 tl2_volume: vol6
 tl2_page_printed: 801
 tl2_surname: Vuillemin
-tl2_forenames: [Jean] Paul
+tl2_forenames: (Jean) Paul
 tl2_name_abbrev: Vuill.
 tl2_dates: 1861-1933
-tl2_page_id: 33212843
+tl2_bhl_page_id: 33212843
 author_lsid: 28465-1
 wikidata_id: Q717870
 ipni_surname: Vuillemin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33212843) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/28465-1), [Wikidata](https://www.wikidata.org/wiki/Q717870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28465-1) LSID 28465-1, [Wikidata](https://www.wikidata.org/wiki/Q717870) QID Q717870
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

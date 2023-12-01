@@ -6,7 +6,7 @@ tl2_surname: Combes
 tl2_forenames: Jacques-Ludomir
 tl2_name_abbrev: Combes
 tl2_dates: 1824-1892
-tl2_page_id: 33265960
+tl2_bhl_page_id: 33265960
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33265960) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Coons
 tl2_forenames: George Herbert
 tl2_name_abbrev: Coons
 tl2_dates: 1885-x
-tl2_page_id: 33266012
+tl2_bhl_page_id: 33266012
 author_lsid: 17410-1
 wikidata_id: Q21508997
 ipni_surname: Coons
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33266012) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17410-1), [Wikidata](https://www.wikidata.org/wiki/Q21508997). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17410-1) LSID 17410-1, [Wikidata](https://www.wikidata.org/wiki/Q21508997) QID Q21508997
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Albert Charles
 tl2_name_abbrev: A.C. Sm.
 tl2_dates: 1906-x
-tl2_page_id: 33333798
+tl2_bhl_page_id: 33333798
 author_lsid: 9770-1
 wikidata_id: Q1922675
 ipni_surname: Smith
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9770-1), [Wikidata](https://www.wikidata.org/wiki/Q1922675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9770-1) LSID 9770-1, [Wikidata](https://www.wikidata.org/wiki/Q1922675) QID Q1922675
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

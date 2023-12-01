@@ -6,7 +6,7 @@ tl2_surname: Rodway
 tl2_forenames: Leonard
 tl2_name_abbrev: Rodway
 tl2_dates: 1853-1936
-tl2_page_id: 33190305
+tl2_bhl_page_id: 33190305
 author_lsid: 8494-1
 wikidata_id: Q4396077
 ipni_surname: Rodway
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:29:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33190305) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8494-1), [Wikidata](https://www.wikidata.org/wiki/Q4396077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8494-1) LSID 8494-1, [Wikidata](https://www.wikidata.org/wiki/Q4396077) QID Q4396077
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

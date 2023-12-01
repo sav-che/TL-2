@@ -6,7 +6,7 @@ tl2_surname: Coyte
 tl2_forenames: William Beeston
 tl2_name_abbrev: Coyte
 tl2_dates: 1741-1810
-tl2_page_id: 33266116
+tl2_bhl_page_id: 33266116
 author_lsid: 20043537-1
 wikidata_id: Q18546921
 ipni_surname: Coyte
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/20043537-1), [Wikidata](https://www.wikidata.org/wiki/Q18546921). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20043537-1) LSID 20043537-1, [Wikidata](https://www.wikidata.org/wiki/Q18546921) QID Q18546921
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

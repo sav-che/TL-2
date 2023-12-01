@@ -6,7 +6,7 @@ tl2_surname: Lilja
 tl2_forenames: Nils
 tl2_name_abbrev: Lilja
 tl2_dates: 1808-1870
-tl2_page_id: 33355110
+tl2_bhl_page_id: 33355110
 author_lsid: 5585-1
 wikidata_id: Q5951483
 ipni_surname: Lilja
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33355110) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5585-1), [Wikidata](https://www.wikidata.org/wiki/Q5951483). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5585-1) LSID 5585-1, [Wikidata](https://www.wikidata.org/wiki/Q5951483) QID Q5951483
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

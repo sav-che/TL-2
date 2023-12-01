@@ -6,7 +6,7 @@ tl2_surname: Stakman
 tl2_forenames: Elvin Charles
 tl2_name_abbrev: Stakman
 tl2_dates: 1885-1979
-tl2_page_id: 33333969
+tl2_bhl_page_id: 33333969
 author_lsid: 27120-1
 wikidata_id: Q374025
 ipni_surname: Stakman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33333969) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/27120-1), [Wikidata](https://www.wikidata.org/wiki/Q374025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27120-1) LSID 27120-1, [Wikidata](https://www.wikidata.org/wiki/Q374025) QID Q374025
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

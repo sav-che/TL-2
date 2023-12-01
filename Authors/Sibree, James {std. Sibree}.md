@@ -6,7 +6,7 @@ tl2_surname: Sibree
 tl2_forenames: James
 tl2_name_abbrev: Sibree
 tl2_dates: 1836-1929
-tl2_page_id: 33333715
+tl2_bhl_page_id: 33333715
 author_lsid: 9604-1
 wikidata_id: Q18764259
 ipni_surname: Sibree
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33333715) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9604-1), [Wikidata](https://www.wikidata.org/wiki/Q18764259). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9604-1) LSID 9604-1, [Wikidata](https://www.wikidata.org/wiki/Q18764259) QID Q18764259
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

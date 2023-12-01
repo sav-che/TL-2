@@ -6,7 +6,7 @@ tl2_surname: Clements
 tl2_forenames: Frederic Edward
 tl2_name_abbrev: Clements
 tl2_dates: 1874-1945
-tl2_page_id: 33120641
+tl2_bhl_page_id: 33120641
 author_lsid: 17308-1
 wikidata_id: Q920184
 ipni_surname: Clements
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33120641) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17308-1), [Wikidata](https://www.wikidata.org/wiki/Q920184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17308-1) LSID 17308-1, [Wikidata](https://www.wikidata.org/wiki/Q920184) QID Q920184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Clements, Frederic Edward {std. Clem.} (Suppl.)|second entry]] for this author
 

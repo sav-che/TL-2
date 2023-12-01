@@ -6,7 +6,7 @@ tl2_surname: Bureau
 tl2_forenames: Louis Édouard
 tl2_name_abbrev: Bureau
 tl2_dates: 1830-1918
-tl2_page_id: 33266538
+tl2_bhl_page_id: 33266538
 author_lsid: 1295-1
 wikidata_id: Q723391
 ipni_surname: Bureau
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33266538) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1295-1), [Wikidata](https://www.wikidata.org/wiki/Q723391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1295-1) LSID 1295-1, [Wikidata](https://www.wikidata.org/wiki/Q723391) QID Q723391
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bureau, Louis Édouard {std. Bureau}|first entry]] for this author
 

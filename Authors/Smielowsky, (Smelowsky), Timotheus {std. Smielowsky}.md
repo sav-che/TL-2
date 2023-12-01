@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol5_0658
 tl2_volume: vol5
 tl2_page_printed: 658
-tl2_surname: Smielowsky [Smelowsky]
+tl2_surname: Smielowsky (Smelowsky)
 tl2_forenames: Timotheus
 tl2_name_abbrev: Smielowsky
 tl2_dates: 1769-1815
-tl2_page_id: 33333797
+tl2_bhl_page_id: 33333797
 author_lsid: 9761-1
 wikidata_id: Q4424246
 ipni_surname: Smielowsky
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9761-1), [Wikidata](https://www.wikidata.org/wiki/Q4424246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9761-1) LSID 9761-1, [Wikidata](https://www.wikidata.org/wiki/Q4424246) QID Q4424246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

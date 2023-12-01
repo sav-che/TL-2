@@ -6,7 +6,7 @@ tl2_surname: Dykes
 tl2_forenames: William Rickatson
 tl2_name_abbrev: Dykes
 tl2_dates: 1877-1925
-tl2_page_id: 33260216
+tl2_bhl_page_id: 33260216
 author_lsid: 2432-1
 wikidata_id: Q5649235
 ipni_surname: Dykes
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33260216) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2432-1), [Wikidata](https://www.wikidata.org/wiki/Q5649235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2432-1) LSID 2432-1, [Wikidata](https://www.wikidata.org/wiki/Q5649235) QID Q5649235
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

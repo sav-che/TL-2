@@ -6,7 +6,7 @@ tl2_surname: Anderson
 tl2_forenames: Alexander
 tl2_name_abbrev: A. Anderson
 tl2_dates: x-1811
-tl2_page_id: 33120175
+tl2_bhl_page_id: 33120175
 author_lsid: 187-1
 wikidata_id: Q4718216
 ipni_surname: Anderson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/187-1), [Wikidata](https://www.wikidata.org/wiki/Q4718216). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/187-1) LSID 187-1, [Wikidata](https://www.wikidata.org/wiki/Q4718216) QID Q4718216
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

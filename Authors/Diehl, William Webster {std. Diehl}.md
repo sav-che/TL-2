@@ -6,7 +6,7 @@ tl2_surname: Diehl
 tl2_forenames: William Webster
 tl2_name_abbrev: Diehl
 tl2_dates: 1891-1978
-tl2_page_id: 33259343
+tl2_bhl_page_id: 33259343
 author_lsid: 18029-1
 wikidata_id: Q21062306
 ipni_surname: Diehl
@@ -23,7 +23,8 @@ ipni_record_modified: 2017-09-28 09:50:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18029-1), [Wikidata](https://www.wikidata.org/wiki/Q21062306). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18029-1) LSID 18029-1, [Wikidata](https://www.wikidata.org/wiki/Q21062306) QID Q21062306
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

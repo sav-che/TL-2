@@ -6,7 +6,7 @@ tl2_surname: House
 tl2_forenames: Homer Doliver
 tl2_name_abbrev: House
 tl2_dates: 1878-1949
-tl2_page_id: 33068584
+tl2_bhl_page_id: 33068584
 author_lsid: 4143-1
 wikidata_id: Q3139666
 ipni_surname: House
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:54:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33068584) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4143-1), [Wikidata](https://www.wikidata.org/wiki/Q3139666). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4143-1) LSID 4143-1, [Wikidata](https://www.wikidata.org/wiki/Q3139666) QID Q3139666
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lopriore (Lo Priore)
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Lopriore
 tl2_dates: 1865-1928
-tl2_page_id: 33355242
+tl2_bhl_page_id: 33355242
 author_lsid: 5742-1
 wikidata_id: Q5880538
 ipni_surname: Lopriore
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5742-1), [Wikidata](https://www.wikidata.org/wiki/Q5880538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5742-1) LSID 5742-1, [Wikidata](https://www.wikidata.org/wiki/Q5880538) QID Q5880538
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

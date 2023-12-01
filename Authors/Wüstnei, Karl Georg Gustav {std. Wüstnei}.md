@@ -6,7 +6,7 @@ tl2_surname: Wüstnei
 tl2_forenames: Karl Georg Gustav
 tl2_name_abbrev: Wüstnei
 tl2_dates: 1810-1858
-tl2_page_id: 33066814
+tl2_bhl_page_id: 33066814
 author_lsid: 11896-1
 wikidata_id: Q21613123
 ipni_surname: Wüstnei
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11896-1), [Wikidata](https://www.wikidata.org/wiki/Q21613123). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11896-1) LSID 11896-1, [Wikidata](https://www.wikidata.org/wiki/Q21613123) QID Q21613123
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

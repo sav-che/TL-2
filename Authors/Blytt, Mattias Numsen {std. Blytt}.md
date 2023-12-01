@@ -6,7 +6,7 @@ tl2_surname: Blytt
 tl2_forenames: Mattias Numsen
 tl2_name_abbrev: M.N. Blytt
 tl2_dates: 1789-1862
-tl2_page_id: 33120373
+tl2_bhl_page_id: 33120373
 author_lsid: 878-1
 wikidata_id: Q2037491
 ipni_surname: Blytt
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33120373) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/878-1), [Wikidata](https://www.wikidata.org/wiki/Q2037491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/878-1) LSID 878-1, [Wikidata](https://www.wikidata.org/wiki/Q2037491) QID Q2037491
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blytt, Matthias Numsen {std. Blytt} (Suppl.)|second entry]] for this author
 

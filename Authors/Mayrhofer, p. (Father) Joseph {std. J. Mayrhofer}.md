@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0452
 tl2_volume: vol3
 tl2_page_printed: 390
 tl2_surname: Mayrhofer
-tl2_forenames: p. [Father] Joseph
+tl2_forenames: p. (Father) Joseph
 tl2_name_abbrev: J. Mayrhofer
 tl2_dates: 1831-1880
-tl2_page_id: 33355477
+tl2_bhl_page_id: 33355477
 author_lsid: 35189-1
 wikidata_id: Q21520179
 ipni_surname: Mayrhofer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35189-1), [Wikidata](https://www.wikidata.org/wiki/Q21520179). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35189-1) LSID 35189-1, [Wikidata](https://www.wikidata.org/wiki/Q21520179) QID Q21520179
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

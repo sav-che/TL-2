@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0270
 tl2_volume: suppl3
 tl2_page_printed: 281
 tl2_surname: Busse
-tl2_forenames: Walter [Karl Otto]
+tl2_forenames: Walter (Karl Otto)
 tl2_name_abbrev: Busse
 tl2_dates: 1865-1933
-tl2_page_id: 33266588
+tl2_bhl_page_id: 33266588
 author_lsid: 1325-1
 wikidata_id: Q21395016
 ipni_surname: Busse
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33266588) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1325-1), [Wikidata](https://www.wikidata.org/wiki/Q21395016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1325-1) LSID 1325-1, [Wikidata](https://www.wikidata.org/wiki/Q21395016) QID Q21395016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

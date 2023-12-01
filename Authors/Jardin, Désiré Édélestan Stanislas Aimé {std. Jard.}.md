@@ -6,7 +6,7 @@ tl2_surname: Jardin
 tl2_forenames: Désiré Édélestan Stanislas Aimé
 tl2_name_abbrev: Jard.
 tl2_dates: 1822-1896
-tl2_page_id: 33068667
+tl2_bhl_page_id: 33068667
 author_lsid: 4431-1
 wikidata_id: Q2880493
 ipni_surname: Jardin
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4431-1), [Wikidata](https://www.wikidata.org/wiki/Q2880493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4431-1) LSID 4431-1, [Wikidata](https://www.wikidata.org/wiki/Q2880493) QID Q2880493
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

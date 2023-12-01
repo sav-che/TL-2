@@ -6,7 +6,7 @@ tl2_surname: Cluysenaar
 tl2_forenames: P.-G.
 tl2_name_abbrev: Cluysenaar
 tl2_dates: fl. 1890
-tl2_page_id: 33265907
+tl2_bhl_page_id: 33265907
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265907) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

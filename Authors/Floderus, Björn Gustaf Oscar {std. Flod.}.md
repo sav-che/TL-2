@@ -6,7 +6,7 @@ tl2_surname: Floderus
 tl2_forenames: Björn Gustaf Oscar
 tl2_name_abbrev: Flod.
 tl2_dates: 1867-1941
-tl2_page_id: 33259764
+tl2_bhl_page_id: 33259764
 author_lsid: 2787-1
 wikidata_id: Q5733753
 ipni_surname: Floderus
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33259764) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2787-1), [Wikidata](https://www.wikidata.org/wiki/Q5733753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2787-1) LSID 2787-1, [Wikidata](https://www.wikidata.org/wiki/Q5733753) QID Q5733753
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

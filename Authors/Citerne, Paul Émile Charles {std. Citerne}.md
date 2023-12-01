@@ -6,7 +6,7 @@ tl2_surname: Citerne
 tl2_forenames: Paul Émile Charles
 tl2_name_abbrev: Citerne
 tl2_dates: 1857-x
-tl2_page_id: 33265856
+tl2_bhl_page_id: 33265856
 author_lsid: 1656-1
 wikidata_id: Q21508639
 ipni_surname: Citerne
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1656-1), [Wikidata](https://www.wikidata.org/wiki/Q21508639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1656-1) LSID 1656-1, [Wikidata](https://www.wikidata.org/wiki/Q21508639) QID Q21508639
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

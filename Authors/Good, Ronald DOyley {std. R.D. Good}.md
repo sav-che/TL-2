@@ -6,7 +6,7 @@ tl2_surname: Good
 tl2_forenames: Ronald DOyley
 tl2_name_abbrev: R.D. Good
 tl2_dates: 1896-1992
-tl2_page_id: 33258778
+tl2_bhl_page_id: 33258778
 author_lsid: 3267-1
 wikidata_id: Q1989490
 ipni_surname: Good
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33258778) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3267-1), [Wikidata](https://www.wikidata.org/wiki/Q1989490). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3267-1) LSID 3267-1, [Wikidata](https://www.wikidata.org/wiki/Q1989490) QID Q1989490
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

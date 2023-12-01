@@ -6,7 +6,7 @@ tl2_surname: Lidforss
 tl2_forenames: Bengt
 tl2_name_abbrev: Lidf.
 tl2_dates: 1868-1913
-tl2_page_id: 33355116
+tl2_bhl_page_id: 33355116
 author_lsid: 5573-1
 wikidata_id: Q4349605
 ipni_surname: Lidforss
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33355116) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5573-1), [Wikidata](https://www.wikidata.org/wiki/Q4349605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5573-1) LSID 5573-1, [Wikidata](https://www.wikidata.org/wiki/Q4349605) QID Q4349605
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

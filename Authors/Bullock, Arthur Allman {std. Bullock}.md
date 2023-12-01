@@ -6,7 +6,7 @@ tl2_surname: Bullock
 tl2_forenames: Arthur Allman
 tl2_name_abbrev: Bullock
 tl2_dates: 1906-1980
-tl2_page_id: 33266526
+tl2_bhl_page_id: 33266526
 author_lsid: 1281-1
 wikidata_id: Q708394
 ipni_surname: Bullock
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33266526) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1281-1), [Wikidata](https://www.wikidata.org/wiki/Q708394). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1281-1) LSID 1281-1, [Wikidata](https://www.wikidata.org/wiki/Q708394) QID Q708394
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

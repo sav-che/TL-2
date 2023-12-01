@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0747
 tl2_volume: vol6
 tl2_page_printed: 767
 tl2_surname: Vogel
-tl2_forenames: [Julius Rudolph] Theodor
+tl2_forenames: (Julius Rudolph) Theodor
 tl2_name_abbrev: Vogel
 tl2_dates: 1812-1841
-tl2_page_id: 33212809
+tl2_bhl_page_id: 33212809
 author_lsid: 11235-1
 wikidata_id: Q86254
 ipni_surname: Vogel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33212809) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11235-1), [Wikidata](https://www.wikidata.org/wiki/Q86254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11235-1) LSID 11235-1, [Wikidata](https://www.wikidata.org/wiki/Q86254) QID Q86254
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Ahlner
 tl2_forenames: Klas
 tl2_name_abbrev: K. Ahlner
 tl2_dates: 1845-1932
-tl2_page_id: 33264737
+tl2_bhl_page_id: 33264737
 author_lsid: 97-1
 wikidata_id: Q10314484
 ipni_surname: Ahlner
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/97-1), [Wikidata](https://www.wikidata.org/wiki/Q10314484). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/97-1) LSID 97-1, [Wikidata](https://www.wikidata.org/wiki/Q10314484) QID Q10314484
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ahlner, Klas {std. K. Ahlner}|first entry]] for this author
 

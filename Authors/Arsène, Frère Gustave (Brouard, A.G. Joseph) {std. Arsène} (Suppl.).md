@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0212
 tl2_volume: suppl1
 tl2_page_printed: 172
 tl2_surname: Arsène
-tl2_forenames: Frère Gustave [also as Gerfroy] (Brouard, A.G. Joseph)
+tl2_forenames: Frère Gustave (also as Gerfroy) (Brouard, A.G. Joseph)
 tl2_name_abbrev: Arsène
 tl2_dates: 1867-1938
-tl2_page_id: 33264899
+tl2_bhl_page_id: 33264899
 author_lsid: 292-1
 wikidata_id: Q21390575
 ipni_surname: Arsène
@@ -25,7 +25,8 @@ ipni_record_modified: 2010-03-15 11:23:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33264899) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/292-1), [Wikidata](https://www.wikidata.org/wiki/Q21390575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/292-1) LSID 292-1, [Wikidata](https://www.wikidata.org/wiki/Q21390575) QID Q21390575
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arsène, Frère Gustave (also Gerfroy) (Brouard, A.G. Joseph) {std. Arsène}|first entry]] for this author
 

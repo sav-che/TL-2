@@ -6,7 +6,7 @@ tl2_surname: Rosenberg
 tl2_forenames: Mary Elizabeth (afterwards Duffield)
 tl2_name_abbrev: M. Rosenberg
 tl2_dates: 1820-1914
-tl2_page_id: 33190360
+tl2_bhl_page_id: 33190360
 author_lsid: 12790-1
 wikidata_id: Q19324905
 ipni_surname: Rosenberg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33190360) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12790-1), [Wikidata](https://www.wikidata.org/wiki/Q19324905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12790-1) LSID 12790-1, [Wikidata](https://www.wikidata.org/wiki/Q19324905) QID Q19324905
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

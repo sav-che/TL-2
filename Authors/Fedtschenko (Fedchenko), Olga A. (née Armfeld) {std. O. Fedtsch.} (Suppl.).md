@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl7_0067
 tl2_volume: suppl7
 tl2_page_printed: 98
-tl2_surname: Fedtschenko [Fedchenko]
+tl2_surname: Fedtschenko (Fedchenko)
 tl2_forenames: Olga Alexandrovna (née Armfeld)
 tl2_name_abbrev: O. Fedtsch.
 tl2_dates: 1845-1921
-tl2_page_id: 33259602
+tl2_bhl_page_id: 33259602
 author_lsid: 12497-1
 wikidata_id: Q3350415
 ipni_surname: Fedtschenko
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259602) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/12497-1), [Wikidata](https://www.wikidata.org/wiki/Q3350415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12497-1) LSID 12497-1, [Wikidata](https://www.wikidata.org/wiki/Q3350415) QID Q3350415
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fedchenko, Olga Aleksandrovna (née Armfeld) {std. O. Fedtsch.}|first entry]] for this author
 

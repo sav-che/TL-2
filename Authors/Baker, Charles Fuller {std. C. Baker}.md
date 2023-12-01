@@ -6,7 +6,7 @@ tl2_surname: Baker
 tl2_forenames: Charles Fuller
 tl2_name_abbrev: C. Baker
 tl2_dates: 1872-1927
-tl2_page_id: 33120233
+tl2_bhl_page_id: 33120233
 author_lsid: 403-1
 wikidata_id: Q933820
 ipni_surname: Baker
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/403-1), [Wikidata](https://www.wikidata.org/wiki/Q933820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/403-1) LSID 403-1, [Wikidata](https://www.wikidata.org/wiki/Q933820) QID Q933820
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baker, Charles Fuller {std. C. Baker} (Suppl.)|second entry]] for this author
 

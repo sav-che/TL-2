@@ -6,7 +6,7 @@ tl2_surname: Pohl
 tl2_forenames: Julius
 tl2_name_abbrev: Jul. Pohl
 tl2_dates: 1861-1939
-tl2_page_id: 33189788
+tl2_bhl_page_id: 33189788
 author_lsid: 7785-1
 wikidata_id: Q21523065
 ipni_surname: Pohl
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7785-1), [Wikidata](https://www.wikidata.org/wiki/Q21523065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7785-1) LSID 7785-1, [Wikidata](https://www.wikidata.org/wiki/Q21523065) QID Q21523065
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

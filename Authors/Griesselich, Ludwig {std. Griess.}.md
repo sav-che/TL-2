@@ -6,7 +6,7 @@ tl2_surname: Griesselich
 tl2_forenames: Ludwig
 tl2_name_abbrev: Griess.
 tl2_dates: 1804-1848
-tl2_page_id: 33121135
+tl2_bhl_page_id: 33121135
 author_lsid: 3385-1
 wikidata_id: Q5982494
 ipni_surname: Griesselich
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33121135) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3385-1), [Wikidata](https://www.wikidata.org/wiki/Q5982494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3385-1) LSID 3385-1, [Wikidata](https://www.wikidata.org/wiki/Q5982494) QID Q5982494
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

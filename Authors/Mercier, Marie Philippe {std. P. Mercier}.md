@@ -6,7 +6,7 @@ tl2_surname: Mercier
 tl2_forenames: Marie Philippe
 tl2_name_abbrev: P. Mercier
 tl2_dates: 1781-1831
-tl2_page_id: 33355508
+tl2_bhl_page_id: 33355508
 author_lsid: 6366-1
 wikidata_id: Q21520439
 ipni_surname: Mercier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33355508) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6366-1), [Wikidata](https://www.wikidata.org/wiki/Q21520439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6366-1) LSID 6366-1, [Wikidata](https://www.wikidata.org/wiki/Q21520439) QID Q21520439
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: West
 tl2_forenames: Hans
 tl2_name_abbrev: H. West
 tl2_dates: 1758-1811
-tl2_page_id: 33066543
+tl2_bhl_page_id: 33066543
 author_lsid: 11578-1
 wikidata_id: Q12315588
 ipni_surname: West
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33066543) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11578-1), [Wikidata](https://www.wikidata.org/wiki/Q12315588). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11578-1) LSID 11578-1, [Wikidata](https://www.wikidata.org/wiki/Q12315588) QID Q12315588
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Eliasson
 tl2_forenames: Albin Gottfrid
 tl2_name_abbrev: A.G. Eliasson
 tl2_dates: 1860-1933
-tl2_page_id: 33260292
+tl2_bhl_page_id: 33260292
 author_lsid: 18440-1
 wikidata_id: Q21511816
 ipni_surname: Eliasson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33260292) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18440-1), [Wikidata](https://www.wikidata.org/wiki/Q21511816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18440-1) LSID 18440-1, [Wikidata](https://www.wikidata.org/wiki/Q21511816) QID Q21511816
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

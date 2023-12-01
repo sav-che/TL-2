@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl4_0130
 tl2_volume: suppl4
 tl2_page_printed: 178
-tl2_surname: Cirillo [Cyrillus]
+tl2_surname: Cirillo (Cyrillus)
 tl2_forenames: Domenico Maria Leone
 tl2_name_abbrev: Cirillo
 tl2_dates: 1739-1799
-tl2_page_id: 33265855
+tl2_bhl_page_id: 33265855
 author_lsid: 1653-1
 wikidata_id: Q2524905
 ipni_surname: Cirillo
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33265855) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1653-1), [Wikidata](https://www.wikidata.org/wiki/Q2524905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1653-1) LSID 1653-1, [Wikidata](https://www.wikidata.org/wiki/Q2524905) QID Q2524905
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cirillo, Domenico Maria Leone {std. Cirillo}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Maycock
 tl2_forenames: James Dottin
 tl2_name_abbrev: Maycock
 tl2_dates: x-1837
-tl2_page_id: 33355473
+tl2_bhl_page_id: 33355473
 author_lsid: 6270-1
 wikidata_id: Q21520165
 ipni_surname: Maycock
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33355473) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6270-1), [Wikidata](https://www.wikidata.org/wiki/Q21520165). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6270-1) LSID 6270-1, [Wikidata](https://www.wikidata.org/wiki/Q21520165) QID Q21520165
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

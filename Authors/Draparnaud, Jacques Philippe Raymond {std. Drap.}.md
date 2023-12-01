@@ -6,7 +6,7 @@ tl2_surname: Draparnaud
 tl2_forenames: Jacques Philippe Raymond
 tl2_name_abbrev: Drap.
 tl2_dates: 1772-1804
-tl2_page_id: 33120810
+tl2_bhl_page_id: 33120810
 author_lsid: 2304-1
 wikidata_id: Q930547
 ipni_surname: Draparnaud
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33120810) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2304-1), [Wikidata](https://www.wikidata.org/wiki/Q930547). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2304-1) LSID 2304-1, [Wikidata](https://www.wikidata.org/wiki/Q930547) QID Q930547
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

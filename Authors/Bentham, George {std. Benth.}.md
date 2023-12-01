@@ -6,7 +6,7 @@ tl2_surname: Bentham
 tl2_forenames: George
 tl2_name_abbrev: Benth.
 tl2_dates: 1800-1884
-tl2_page_id: 33120304
+tl2_bhl_page_id: 33120304
 author_lsid: 15956-1
 wikidata_id: Q731808
 ipni_surname: Bentham
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33120304) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15956-1), [Wikidata](https://www.wikidata.org/wiki/Q731808). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15956-1) LSID 15956-1, [Wikidata](https://www.wikidata.org/wiki/Q731808) QID Q731808
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bentham, George {std. Benth.} (Suppl.)|second entry]] for this author
 

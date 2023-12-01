@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0112
 tl2_volume: suppl8
 tl2_page_printed: 160
 tl2_surname: Gáyer
-tl2_forenames: Gyula [Julius in German]
+tl2_forenames: Gyula (Julius in German)
 tl2_name_abbrev: Gáyer
 tl2_dates: 1883-1932
-tl2_page_id: 33258638
+tl2_bhl_page_id: 33258638
 author_lsid: 12509-1
 wikidata_id: Q1031241
 ipni_surname: Gáyer
@@ -24,7 +24,8 @@ ipni_record_modified: 2010-07-02 14:32:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33258638) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/12509-1), [Wikidata](https://www.wikidata.org/wiki/Q1031241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12509-1) LSID 12509-1, [Wikidata](https://www.wikidata.org/wiki/Q1031241) QID Q1031241
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Marchal
 tl2_forenames: Émile Jules Joseph
 tl2_name_abbrev: Ém. Marchal
 tl2_dates: 1871-1954
-tl2_page_id: 33355375
+tl2_bhl_page_id: 33355375
 author_lsid: 22894-1
 wikidata_id: Q18753081
 ipni_surname: Marchal
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22894-1), [Wikidata](https://www.wikidata.org/wiki/Q18753081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22894-1) LSID 22894-1, [Wikidata](https://www.wikidata.org/wiki/Q18753081) QID Q18753081
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

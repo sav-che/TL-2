@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0352
 tl2_volume: vol5
 tl2_page_printed: 370
 tl2_surname: Schultz
-tl2_forenames: Carl [Karl] Heinrich Bipontinus
+tl2_forenames: Carl (Karl) Heinrich Bipontinus
 tl2_name_abbrev: Schultz-Bip.
 tl2_dates: 1805-1867
-tl2_page_id: 33333509
+tl2_bhl_page_id: 33333509
 author_lsid: 9294-1
 wikidata_id: Q65685
 ipni_surname: Schultz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33333509) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9294-1), [Wikidata](https://www.wikidata.org/wiki/Q65685). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9294-1) LSID 9294-1, [Wikidata](https://www.wikidata.org/wiki/Q65685) QID Q65685
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

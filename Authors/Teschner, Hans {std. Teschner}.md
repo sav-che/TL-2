@@ -6,7 +6,7 @@ tl2_surname: Teschner
 tl2_forenames: Hans
 tl2_name_abbrev: Teschner
 tl2_dates: 1894-x
-tl2_page_id: 33212270
+tl2_bhl_page_id: 33212270
 author_lsid: 10530-1
 wikidata_id: Q5891949
 ipni_surname: Teschner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10530-1), [Wikidata](https://www.wikidata.org/wiki/Q5891949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10530-1) LSID 10530-1, [Wikidata](https://www.wikidata.org/wiki/Q5891949) QID Q5891949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

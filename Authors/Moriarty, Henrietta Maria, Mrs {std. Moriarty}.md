@@ -6,7 +6,7 @@ tl2_surname: Moriarty
 tl2_forenames: Henrietta Maria, Mrs
 tl2_name_abbrev: Moriarty
 tl2_dates: fl. 1806, d. 1843?
-tl2_page_id: 33355669
+tl2_bhl_page_id: 33355669
 author_lsid: 6649-1
 wikidata_id: Q36576638
 ipni_surname: Moriarty
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33355669) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6649-1), [Wikidata](https://www.wikidata.org/wiki/Q36576638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6649-1) LSID 6649-1, [Wikidata](https://www.wikidata.org/wiki/Q36576638) QID Q36576638
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

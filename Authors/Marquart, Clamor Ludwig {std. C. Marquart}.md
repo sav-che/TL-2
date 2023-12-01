@@ -6,7 +6,7 @@ tl2_surname: Marquart
 tl2_forenames: Clamor Ludwig
 tl2_name_abbrev: C. Marquart
 tl2_dates: 1804-1881
-tl2_page_id: 33355389
+tl2_bhl_page_id: 33355389
 author_lsid: 6124-1
 wikidata_id: Q90097
 ipni_surname: Marquart
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33355389) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6124-1), [Wikidata](https://www.wikidata.org/wiki/Q90097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6124-1) LSID 6124-1, [Wikidata](https://www.wikidata.org/wiki/Q90097) QID Q90097
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

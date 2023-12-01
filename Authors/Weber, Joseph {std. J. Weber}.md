@@ -6,7 +6,7 @@ tl2_surname: Weber
 tl2_forenames: Joseph
 tl2_name_abbrev: J. Weber
 tl2_dates: 1856-1908
-tl2_page_id: 33066470
+tl2_bhl_page_id: 33066470
 author_lsid: 35139-1
 wikidata_id: Q13103378
 ipni_surname: Weber
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33066470) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/35139-1), [Wikidata](https://www.wikidata.org/wiki/Q13103378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35139-1) LSID 35139-1, [Wikidata](https://www.wikidata.org/wiki/Q13103378) QID Q13103378
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

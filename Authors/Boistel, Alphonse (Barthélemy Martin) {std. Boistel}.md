@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0338
 tl2_volume: suppl2
 tl2_page_printed: 285
 tl2_surname: Boistel
-tl2_forenames: Alphonse [Barthélemy Martin]
+tl2_forenames: Alphonse (Barthélemy Martin)
 tl2_name_abbrev: Boistel
 tl2_dates: 1836-1908
-tl2_page_id: 33265482
+tl2_bhl_page_id: 33265482
 author_lsid: 16285-1
 wikidata_id: Q2839728
 ipni_surname: Boistel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33265482) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16285-1), [Wikidata](https://www.wikidata.org/wiki/Q2839728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16285-1) LSID 16285-1, [Wikidata](https://www.wikidata.org/wiki/Q2839728) QID Q2839728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

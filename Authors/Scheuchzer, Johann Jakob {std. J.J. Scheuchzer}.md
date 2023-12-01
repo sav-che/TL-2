@@ -6,7 +6,7 @@ tl2_surname: Scheuchzer
 tl2_forenames: Johann Jakob
 tl2_name_abbrev: J.J. Scheuchzer
 tl2_dates: 1672-1733
-tl2_page_id: 33333281
+tl2_bhl_page_id: 33333281
 author_lsid: 9063-1
 wikidata_id: Q123900
 ipni_surname: Scheuchzer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33333281) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9063-1), [Wikidata](https://www.wikidata.org/wiki/Q123900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9063-1) LSID 9063-1, [Wikidata](https://www.wikidata.org/wiki/Q123900) QID Q123900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

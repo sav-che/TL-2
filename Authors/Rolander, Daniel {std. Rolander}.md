@@ -6,7 +6,7 @@ tl2_surname: Rolander
 tl2_forenames: Daniel
 tl2_name_abbrev: Rolander
 tl2_dates: 1725-1793
-tl2_page_id: 33190339
+tl2_bhl_page_id: 33190339
 author_lsid: 8548-1
 wikidata_id: Q1162358
 ipni_surname: Rolander
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8548-1), [Wikidata](https://www.wikidata.org/wiki/Q1162358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8548-1) LSID 8548-1, [Wikidata](https://www.wikidata.org/wiki/Q1162358) QID Q1162358
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

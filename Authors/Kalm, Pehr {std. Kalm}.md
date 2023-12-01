@@ -6,7 +6,7 @@ tl2_surname: Kalm
 tl2_forenames: Pehr
 tl2_name_abbrev: Kalm
 tl2_dates: 1716-1779
-tl2_page_id: 33068729
+tl2_bhl_page_id: 33068729
 author_lsid: 4622-1
 wikidata_id: Q719204
 ipni_surname: Kalm
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:27:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33068729) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4622-1), [Wikidata](https://www.wikidata.org/wiki/Q719204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4622-1) LSID 4622-1, [Wikidata](https://www.wikidata.org/wiki/Q719204) QID Q719204
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

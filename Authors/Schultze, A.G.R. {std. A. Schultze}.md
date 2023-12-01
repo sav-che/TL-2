@@ -6,7 +6,7 @@ tl2_surname: Schultze
 tl2_forenames: A.G.R.
 tl2_name_abbrev: A. Schultze
 tl2_dates: fl. 1840
-tl2_page_id: 33333520
+tl2_bhl_page_id: 33333520
 author_lsid: 9299-1
 wikidata_id: Q36510262
 ipni_surname: Schultze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9299-1), [Wikidata](https://www.wikidata.org/wiki/Q36510262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9299-1) LSID 9299-1, [Wikidata](https://www.wikidata.org/wiki/Q36510262) QID Q36510262
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

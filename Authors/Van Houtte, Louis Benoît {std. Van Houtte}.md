@@ -6,7 +6,7 @@ tl2_surname: Van Houtte
 tl2_forenames: Louis Benoît
 tl2_name_abbrev: Van Houtte
 tl2_dates: 1810-1876
-tl2_page_id: 33212712
+tl2_bhl_page_id: 33212712
 author_lsid: 34342-1
 wikidata_id: Q2073003
 ipni_surname: Van Houtte
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/34342-1), [Wikidata](https://www.wikidata.org/wiki/Q2073003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34342-1) LSID 34342-1, [Wikidata](https://www.wikidata.org/wiki/Q2073003) QID Q2073003
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

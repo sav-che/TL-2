@@ -6,7 +6,7 @@ tl2_surname: Chrysler
 tl2_forenames: Mintin Asbury
 tl2_name_abbrev: Chrysler
 tl2_dates: 1871-1963
-tl2_page_id: 33265844
+tl2_bhl_page_id: 33265844
 author_lsid: 1639-1
 wikidata_id: Q21395669
 ipni_surname: Chrysler
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:33:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265844) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1639-1), [Wikidata](https://www.wikidata.org/wiki/Q21395669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1639-1) LSID 1639-1, [Wikidata](https://www.wikidata.org/wiki/Q21395669) QID Q21395669
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

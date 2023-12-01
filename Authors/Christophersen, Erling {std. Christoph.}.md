@@ -6,7 +6,7 @@ tl2_surname: Christophersen
 tl2_forenames: Erling
 tl2_name_abbrev: Christoph.
 tl2_dates: 1898-x
-tl2_page_id: 33265842
+tl2_bhl_page_id: 33265842
 author_lsid: 1636-1
 wikidata_id: Q2037059
 ipni_surname: Christophersen
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:39:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265842) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1636-1), [Wikidata](https://www.wikidata.org/wiki/Q2037059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1636-1) LSID 1636-1, [Wikidata](https://www.wikidata.org/wiki/Q2037059) QID Q2037059
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

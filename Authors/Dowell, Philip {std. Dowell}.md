@@ -6,7 +6,7 @@ tl2_surname: Dowell
 tl2_forenames: Philip
 tl2_name_abbrev: Dowell
 tl2_dates: 1864-1936
-tl2_page_id: 33260068
+tl2_bhl_page_id: 33260068
 author_lsid: 2294-1
 wikidata_id: Q18910841
 ipni_surname: Dowell
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2294-1), [Wikidata](https://www.wikidata.org/wiki/Q18910841). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2294-1) LSID 2294-1, [Wikidata](https://www.wikidata.org/wiki/Q18910841) QID Q18910841
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

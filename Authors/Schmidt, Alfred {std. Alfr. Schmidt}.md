@@ -6,7 +6,7 @@ tl2_surname: Schmidt
 tl2_forenames: Alfred
 tl2_name_abbrev: Alfr. Schmidt
 tl2_dates: 1886-?
-tl2_page_id: 33333384
+tl2_bhl_page_id: 33333384
 author_lsid: 9153-1
 wikidata_id: Q21608133
 ipni_surname: Schmidt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33333384) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9153-1), [Wikidata](https://www.wikidata.org/wiki/Q21608133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9153-1) LSID 9153-1, [Wikidata](https://www.wikidata.org/wiki/Q21608133) QID Q21608133
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

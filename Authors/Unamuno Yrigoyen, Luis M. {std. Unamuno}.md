@@ -6,7 +6,7 @@ tl2_surname: Unamuno Yrigoyen
 tl2_forenames: Luis M.
 tl2_name_abbrev: Unamuno
 tl2_dates: 1873-1943
-tl2_page_id: 33212628
+tl2_bhl_page_id: 33212628
 author_lsid: 10978-1
 wikidata_id: Q9025217
 ipni_surname: Unamuno Yrigoyen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33212628) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10978-1), [Wikidata](https://www.wikidata.org/wiki/Q9025217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10978-1) LSID 10978-1, [Wikidata](https://www.wikidata.org/wiki/Q9025217) QID Q9025217
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

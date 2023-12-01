@@ -6,7 +6,7 @@ tl2_surname: Lakowitz
 tl2_forenames: Conrad Waldemar
 tl2_name_abbrev: Lakow.
 tl2_dates: 1859-1945
-tl2_page_id: 33068970
+tl2_bhl_page_id: 33068970
 author_lsid: 5222-1
 wikidata_id: Q21518320
 ipni_surname: Lakowitz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5222-1), [Wikidata](https://www.wikidata.org/wiki/Q21518320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5222-1) LSID 5222-1, [Wikidata](https://www.wikidata.org/wiki/Q21518320) QID Q21518320
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

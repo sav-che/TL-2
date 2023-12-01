@@ -6,7 +6,7 @@ tl2_surname: Winslow
 tl2_forenames: Evelyn James
 tl2_name_abbrev: E. Winslow
 tl2_dates: 1870-1949
-tl2_page_id: 33066720
+tl2_bhl_page_id: 33066720
 author_lsid: 11771-1
 wikidata_id: Q18911132
 ipni_surname: Winslow
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11771-1), [Wikidata](https://www.wikidata.org/wiki/Q18911132). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11771-1) LSID 11771-1, [Wikidata](https://www.wikidata.org/wiki/Q18911132) QID Q18911132
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: McCoy
 tl2_forenames: (Sir) Frederick
 tl2_name_abbrev: McCoy
 tl2_dates: 1817-1899
-tl2_page_id: 33355302
+tl2_bhl_page_id: 33355302
 author_lsid: 12670-1
 wikidata_id: Q347883
 ipni_surname: McCoy
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12670-1), [Wikidata](https://www.wikidata.org/wiki/Q347883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12670-1) LSID 12670-1, [Wikidata](https://www.wikidata.org/wiki/Q347883) QID Q347883
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

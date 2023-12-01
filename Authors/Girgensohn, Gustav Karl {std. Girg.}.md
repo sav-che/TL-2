@@ -6,7 +6,7 @@ tl2_surname: Girgensohn
 tl2_forenames: Gustav Karl
 tl2_name_abbrev: Girg.
 tl2_dates: fl. 1856
-tl2_page_id: 33121079
+tl2_bhl_page_id: 33121079
 author_lsid: 19373-1
 wikidata_id: Q12363153
 ipni_surname: Girgensohn
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 948](https://www.biodiversitylibrary.org/page/33121079) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19373-1), [Wikidata](https://www.wikidata.org/wiki/Q12363153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19373-1) LSID 19373-1, [Wikidata](https://www.wikidata.org/wiki/Q12363153) QID Q12363153
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

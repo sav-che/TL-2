@@ -6,7 +6,7 @@ tl2_surname: Drury
 tl2_forenames: Heber
 tl2_name_abbrev: Drury
 tl2_dates: 1819-1872
-tl2_page_id: 33260106
+tl2_bhl_page_id: 33260106
 author_lsid: 2329-1
 wikidata_id: Q21510954
 ipni_surname: Drury
@@ -25,7 +25,8 @@ ipni_record_modified: 2018-12-13 09:18:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33260106) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2329-1), [Wikidata](https://www.wikidata.org/wiki/Q21510954). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2329-1) LSID 2329-1, [Wikidata](https://www.wikidata.org/wiki/Q21510954) QID Q21510954
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Drury, Heber {std. Drury}|first entry]] for this author
 

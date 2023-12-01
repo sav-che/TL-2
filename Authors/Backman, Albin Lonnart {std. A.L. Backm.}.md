@@ -6,7 +6,7 @@ tl2_surname: Backman
 tl2_forenames: Albin Lonnart
 tl2_name_abbrev: A.L. Backm.
 tl2_dates: 1880-?
-tl2_page_id: 33264969
+tl2_bhl_page_id: 33264969
 author_lsid: 32324-1
 wikidata_id: Q11850619
 ipni_surname: Backman
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33264969) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/32324-1), [Wikidata](https://www.wikidata.org/wiki/Q11850619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32324-1) LSID 32324-1, [Wikidata](https://www.wikidata.org/wiki/Q11850619) QID Q11850619
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0126
 tl2_volume: suppl8
 tl2_page_printed: 170
 tl2_surname: Gelert
-tl2_forenames: Otto Carl [Christian, Kristian] Leonor [Laurtis, Lauritz]
+tl2_forenames: Otto Carl (Christian, Kristian) Leonor (Laurtis, Lauritz)
 tl2_name_abbrev: Gelert
 tl2_dates: 1862-1899
-tl2_page_id: 33258648
+tl2_bhl_page_id: 33258648
 author_lsid: 3075-1
 wikidata_id: Q4993035
 ipni_surname: Gelert
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33258648) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3075-1), [Wikidata](https://www.wikidata.org/wiki/Q4993035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3075-1) LSID 3075-1, [Wikidata](https://www.wikidata.org/wiki/Q4993035) QID Q4993035
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

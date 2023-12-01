@@ -6,7 +6,7 @@ tl2_surname: Eberhard
 tl2_forenames: Carl
 tl2_name_abbrev: Eberhard
 tl2_dates: 1873-x
-tl2_page_id: 33260235
+tl2_bhl_page_id: 33260235
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33260235) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0249
 tl2_volume: vol7
 tl2_page_printed: 267
 tl2_surname: Wierzbicki
-tl2_forenames: Peter [baptised Petrus Paulus Wirzbicki]
+tl2_forenames: Peter (baptised Petrus Paulus Wirzbicki)
 tl2_name_abbrev: Wierzb.
 tl2_dates: 
-tl2_page_id: 33066607
+tl2_bhl_page_id: 33066607
 author_lsid: 11651-1
 wikidata_id: Q6076533
 ipni_surname: Wierzbicki
@@ -24,7 +24,8 @@ ipni_record_modified: 2019-04-25 10:40:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33066607) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11651-1), [Wikidata](https://www.wikidata.org/wiki/Q6076533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11651-1) LSID 11651-1, [Wikidata](https://www.wikidata.org/wiki/Q6076533) QID Q6076533
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

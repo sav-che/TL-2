@@ -6,7 +6,7 @@ tl2_surname: Andres
 tl2_forenames: Heinrich
 tl2_name_abbrev: Andres
 tl2_dates: 1883-1970
-tl2_page_id: 33264849
+tl2_bhl_page_id: 33264849
 author_lsid: 210-1
 wikidata_id: Q5893518
 ipni_surname: Andres
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33264849) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/210-1), [Wikidata](https://www.wikidata.org/wiki/Q5893518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/210-1) LSID 210-1, [Wikidata](https://www.wikidata.org/wiki/Q5893518) QID Q5893518
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Andres, Heinrich {std. Andres}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Gaudin
 tl2_forenames: Charles Théophile
 tl2_name_abbrev: C.T. Gaudin
 tl2_dates: 1822-1866
-tl2_page_id: 33258626
+tl2_bhl_page_id: 33258626
 author_lsid: 20008598-1
 wikidata_id: Q2958318
 ipni_surname: Gaudin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33258626) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20008598-1), [Wikidata](https://www.wikidata.org/wiki/Q2958318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20008598-1) LSID 20008598-1, [Wikidata](https://www.wikidata.org/wiki/Q2958318) QID Q2958318
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

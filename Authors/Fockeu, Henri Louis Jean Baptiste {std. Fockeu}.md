@@ -6,7 +6,7 @@ tl2_surname: Fockeu
 tl2_forenames: Henri Louis Jean Baptiste
 tl2_name_abbrev: Fockeu
 tl2_dates: 1864-x
-tl2_page_id: 33259791
+tl2_bhl_page_id: 33259791
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259791) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

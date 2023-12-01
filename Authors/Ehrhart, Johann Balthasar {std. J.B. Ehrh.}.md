@@ -6,7 +6,7 @@ tl2_surname: Ehrhart
 tl2_forenames: Johann Balthasar
 tl2_name_abbrev: J.B. Ehrh.
 tl2_dates: 1700-1756
-tl2_page_id: 33120865
+tl2_bhl_page_id: 33120865
 author_lsid: 2485-1
 wikidata_id: Q21511550
 ipni_surname: Ehrhart
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33120865) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2485-1), [Wikidata](https://www.wikidata.org/wiki/Q21511550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2485-1) LSID 2485-1, [Wikidata](https://www.wikidata.org/wiki/Q21511550) QID Q21511550
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

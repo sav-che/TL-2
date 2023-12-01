@@ -6,7 +6,7 @@ tl2_surname: Quélet
 tl2_forenames: Lucien
 tl2_name_abbrev: Quél.
 tl2_dates: 1832-1899
-tl2_page_id: 33189924
+tl2_bhl_page_id: 33189924
 author_lsid: 25180-1
 wikidata_id: Q932451
 ipni_surname: Quélet
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33189924) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25180-1), [Wikidata](https://www.wikidata.org/wiki/Q932451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25180-1) LSID 25180-1, [Wikidata](https://www.wikidata.org/wiki/Q932451) QID Q932451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

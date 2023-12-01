@@ -6,7 +6,7 @@ tl2_surname: Reichenau
 tl2_forenames: Wilhelm von
 tl2_name_abbrev: Reichenau
 tl2_dates: 1847-after 1913
-tl2_page_id: 33190136
+tl2_bhl_page_id: 33190136
 author_lsid: 8251-1
 wikidata_id: Q2576017
 ipni_surname: Reichenau
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33190136) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8251-1), [Wikidata](https://www.wikidata.org/wiki/Q2576017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8251-1) LSID 8251-1, [Wikidata](https://www.wikidata.org/wiki/Q2576017) QID Q2576017
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

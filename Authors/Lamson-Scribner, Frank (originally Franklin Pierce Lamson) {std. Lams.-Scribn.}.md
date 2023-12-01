@@ -6,7 +6,7 @@ tl2_surname: Lamson-Scribner
 tl2_forenames: Frank (originally Franklin Pierce Lamson)
 tl2_name_abbrev: Lams.-Scribn.
 tl2_dates: 1851-1938
-tl2_page_id: 33068984
+tl2_bhl_page_id: 33068984
 author_lsid: 9397-1
 wikidata_id: Q2458459
 ipni_surname: Scribner
@@ -25,7 +25,8 @@ ipni_record_modified: 2007-10-26 09:16:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33068984) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/9397-1), [Wikidata](https://www.wikidata.org/wiki/Q2458459). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9397-1) LSID 9397-1, [Wikidata](https://www.wikidata.org/wiki/Q2458459) QID Q2458459
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

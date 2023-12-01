@@ -6,7 +6,7 @@ tl2_surname: Eggert
 tl2_forenames: Heinrich Karl Daniel (later Henry)
 tl2_name_abbrev: Eggert
 tl2_dates: 1841-1904
-tl2_page_id: 33260256
+tl2_bhl_page_id: 33260256
 author_lsid: 2475-1
 wikidata_id: Q21511521
 ipni_surname: Eggert
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33260256) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2475-1), [Wikidata](https://www.wikidata.org/wiki/Q21511521). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2475-1) LSID 2475-1, [Wikidata](https://www.wikidata.org/wiki/Q21511521) QID Q21511521
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

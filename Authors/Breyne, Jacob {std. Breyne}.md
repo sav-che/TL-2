@@ -6,7 +6,7 @@ tl2_surname: Breyne
 tl2_forenames: Jacob
 tl2_name_abbrev: Breyne
 tl2_dates: 1637-1697
-tl2_page_id: 33120452
+tl2_bhl_page_id: 33120452
 author_lsid: 1132-1
 wikidata_id: Q77266
 ipni_surname: Breyne
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33120452) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1132-1), [Wikidata](https://www.wikidata.org/wiki/Q77266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1132-1) LSID 1132-1, [Wikidata](https://www.wikidata.org/wiki/Q77266) QID Q77266
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

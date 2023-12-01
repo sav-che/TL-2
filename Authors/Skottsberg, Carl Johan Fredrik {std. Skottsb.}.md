@@ -6,7 +6,7 @@ tl2_surname: Skottsberg
 tl2_forenames: Carl Johan Fredrik
 tl2_name_abbrev: Skottsb.
 tl2_dates: 1880-1963
-tl2_page_id: 33333766
+tl2_bhl_page_id: 33333766
 author_lsid: 9724-1
 wikidata_id: Q942078
 ipni_surname: Skottsberg
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:43:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33333766) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9724-1), [Wikidata](https://www.wikidata.org/wiki/Q942078). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9724-1) LSID 9724-1, [Wikidata](https://www.wikidata.org/wiki/Q942078) QID Q942078
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

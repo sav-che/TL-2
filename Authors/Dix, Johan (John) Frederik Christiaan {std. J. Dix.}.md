@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0357
 tl2_volume: suppl5
 tl2_page_printed: 360
 tl2_surname: Dix
-tl2_forenames: Johan [John] Frederik Christiaan
+tl2_forenames: Johan (John) Frederik Christiaan
 tl2_name_abbrev: J. Dix.
 tl2_dates: 1881-1988
-tl2_page_id: 33259406
+tl2_bhl_page_id: 33259406
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33259406) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

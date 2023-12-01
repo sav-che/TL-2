@@ -6,7 +6,7 @@ tl2_surname: Cotton
 tl2_forenames: John Storrs
 tl2_name_abbrev: J.S. Cotton
 tl2_dates: 1875-?
-tl2_page_id: 33266087
+tl2_bhl_page_id: 33266087
 author_lsid: 1834-1
 wikidata_id: Q21509152
 ipni_surname: Cotton
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33266087) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1834-1), [Wikidata](https://www.wikidata.org/wiki/Q21509152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1834-1) LSID 1834-1, [Wikidata](https://www.wikidata.org/wiki/Q21509152) QID Q21509152
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

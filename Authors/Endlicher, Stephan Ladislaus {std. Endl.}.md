@@ -6,7 +6,7 @@ tl2_surname: Endlicher
 tl2_forenames: Stephan Ladislaus
 tl2_name_abbrev: Endl.
 tl2_dates: 1804-1849
-tl2_page_id: 33120879
+tl2_bhl_page_id: 33120879
 author_lsid: 18490-1
 wikidata_id: Q78605
 ipni_surname: Endlicher
@@ -29,7 +29,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33120879) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18490-1), [Wikidata](https://www.wikidata.org/wiki/Q78605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18490-1) LSID 18490-1, [Wikidata](https://www.wikidata.org/wiki/Q78605) QID Q78605
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Endlicher, Stephan Ladislaus (István Lászlo) {std. Endl.} (Suppl.)|second entry]] for this author
 

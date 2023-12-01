@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_1006
 tl2_volume: vol4
 tl2_page_printed: 974
 tl2_surname: Rudolphi
-tl2_forenames: [Israel] Karl Asmund [Asmus]
+tl2_forenames: (Israel) Karl Asmund (Asmus)
 tl2_name_abbrev: Rudolphi
 tl2_dates: 1771-1832
-tl2_page_id: 33190445
+tl2_bhl_page_id: 33190445
 author_lsid: 8714-1
 wikidata_id: Q63159
 ipni_surname: Rudolphi
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8714-1), [Wikidata](https://www.wikidata.org/wiki/Q63159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8714-1) LSID 8714-1, [Wikidata](https://www.wikidata.org/wiki/Q63159) QID Q63159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

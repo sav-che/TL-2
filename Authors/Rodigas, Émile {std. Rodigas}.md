@@ -6,7 +6,7 @@ tl2_surname: Rodigas
 tl2_forenames: Émile
 tl2_name_abbrev: Rodigas
 tl2_dates: 1831-1902
-tl2_page_id: 33190299
+tl2_bhl_page_id: 33190299
 author_lsid: 8481-1
 wikidata_id: Q6174240
 ipni_surname: Rodigas
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8481-1), [Wikidata](https://www.wikidata.org/wiki/Q6174240). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8481-1) LSID 8481-1, [Wikidata](https://www.wikidata.org/wiki/Q6174240) QID Q6174240
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

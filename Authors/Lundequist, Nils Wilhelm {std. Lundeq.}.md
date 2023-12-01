@@ -6,7 +6,7 @@ tl2_surname: Lundequist
 tl2_forenames: Nils Wilhelm
 tl2_name_abbrev: Lundeq.
 tl2_dates: 1804-1863
-tl2_page_id: 33355283
+tl2_bhl_page_id: 33355283
 author_lsid: 5841-1
 wikidata_id: Q5966451
 ipni_surname: Lundequist
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33355283) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5841-1), [Wikidata](https://www.wikidata.org/wiki/Q5966451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5841-1) LSID 5841-1, [Wikidata](https://www.wikidata.org/wiki/Q5966451) QID Q5966451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

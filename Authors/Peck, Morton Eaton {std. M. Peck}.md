@@ -6,7 +6,7 @@ tl2_surname: Peck
 tl2_forenames: Morton Eaton
 tl2_name_abbrev: M. Peck
 tl2_dates: 1871-1959
-tl2_page_id: 33189612
+tl2_bhl_page_id: 33189612
 author_lsid: 7451-1
 wikidata_id: Q5645546
 ipni_surname: Peck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33189612) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7451-1), [Wikidata](https://www.wikidata.org/wiki/Q5645546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7451-1) LSID 7451-1, [Wikidata](https://www.wikidata.org/wiki/Q5645546) QID Q5645546
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

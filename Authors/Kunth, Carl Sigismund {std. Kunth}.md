@@ -6,7 +6,7 @@ tl2_surname: Kunth
 tl2_forenames: Carl Sigismund
 tl2_name_abbrev: Kunth
 tl2_dates: 1788-1850
-tl2_page_id: 33068934
+tl2_bhl_page_id: 33068934
 author_lsid: 21866-1
 wikidata_id: Q77074
 ipni_surname: Kunth
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:53:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33068934) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21866-1), [Wikidata](https://www.wikidata.org/wiki/Q77074). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21866-1) LSID 21866-1, [Wikidata](https://www.wikidata.org/wiki/Q77074) QID Q77074
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

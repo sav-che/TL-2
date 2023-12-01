@@ -6,7 +6,7 @@ tl2_surname: Geuns
 tl2_forenames: Steven Jan van
 tl2_name_abbrev: S. Geuns
 tl2_dates: 1767-1795
-tl2_page_id: 33121068
+tl2_bhl_page_id: 33121068
 author_lsid: 3116-1
 wikidata_id: Q6134284
 ipni_surname: Geuns
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3116-1), [Wikidata](https://www.wikidata.org/wiki/Q6134284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3116-1) LSID 3116-1, [Wikidata](https://www.wikidata.org/wiki/Q6134284) QID Q6134284
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

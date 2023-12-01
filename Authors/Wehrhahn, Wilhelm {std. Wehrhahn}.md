@@ -6,7 +6,7 @@ tl2_surname: Wehrhahn
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Wehrhahn
 tl2_dates: 1857-1926
-tl2_page_id: 33066488
+tl2_bhl_page_id: 33066488
 author_lsid: 11490-1
 wikidata_id: Q18417512
 ipni_surname: Wehrhahn
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33066488) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11490-1), [Wikidata](https://www.wikidata.org/wiki/Q18417512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11490-1) LSID 11490-1, [Wikidata](https://www.wikidata.org/wiki/Q18417512) QID Q18417512
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

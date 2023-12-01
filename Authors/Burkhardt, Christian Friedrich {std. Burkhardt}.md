@@ -6,7 +6,7 @@ tl2_surname: Burkhardt
 tl2_forenames: Christian Friedrich
 tl2_name_abbrev: Burkhardt
 tl2_dates: 1785-1854
-tl2_page_id: 33266550
+tl2_bhl_page_id: 33266550
 author_lsid: 1303-1
 wikidata_id: Q21506687
 ipni_surname: Burkhardt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33266550) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1303-1), [Wikidata](https://www.wikidata.org/wiki/Q21506687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1303-1) LSID 1303-1, [Wikidata](https://www.wikidata.org/wiki/Q21506687) QID Q21506687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

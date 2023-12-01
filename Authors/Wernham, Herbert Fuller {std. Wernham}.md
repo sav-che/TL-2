@@ -6,7 +6,7 @@ tl2_surname: Wernham
 tl2_forenames: Herbert Fuller
 tl2_name_abbrev: Wernham
 tl2_dates: 1879-1941
-tl2_page_id: 33066535
+tl2_bhl_page_id: 33066535
 author_lsid: 11566-1
 wikidata_id: Q5894710
 ipni_surname: Wernham
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33066535) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11566-1), [Wikidata](https://www.wikidata.org/wiki/Q5894710). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11566-1) LSID 11566-1, [Wikidata](https://www.wikidata.org/wiki/Q5894710) QID Q5894710
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

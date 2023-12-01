@@ -6,7 +6,7 @@ tl2_surname: Kreutzer
 tl2_forenames: Karl (Carl) Joseph
 tl2_name_abbrev: Kreutz.
 tl2_dates: 1809-1866
-tl2_page_id: 33068915
+tl2_bhl_page_id: 33068915
 author_lsid: 5060-1
 wikidata_id: Q13414858
 ipni_surname: Kreutzer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 673](https://www.biodiversitylibrary.org/page/33068915) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5060-1), [Wikidata](https://www.wikidata.org/wiki/Q13414858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5060-1) LSID 5060-1, [Wikidata](https://www.wikidata.org/wiki/Q13414858) QID Q13414858
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Saunders
 tl2_forenames: William Wilson
 tl2_name_abbrev: W.W. Saunders
 tl2_dates: 1809-1879
-tl2_page_id: 33333207
+tl2_bhl_page_id: 33333207
 author_lsid: 8957-1
 wikidata_id: Q1223057
 ipni_surname: Saunders
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33333207) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8957-1), [Wikidata](https://www.wikidata.org/wiki/Q1223057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8957-1) LSID 8957-1, [Wikidata](https://www.wikidata.org/wiki/Q1223057) QID Q1223057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

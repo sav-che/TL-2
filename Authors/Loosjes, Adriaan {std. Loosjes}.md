@@ -6,7 +6,7 @@ tl2_surname: Loosjes
 tl2_forenames: Adriaan
 tl2_name_abbrev: Loosjes
 tl2_dates: 1761-1818
-tl2_page_id: 33355242
+tl2_bhl_page_id: 33355242
 author_lsid: 5736-1
 wikidata_id: Q4684780
 ipni_surname: Loosjes
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5736-1), [Wikidata](https://www.wikidata.org/wiki/Q4684780). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5736-1) LSID 5736-1, [Wikidata](https://www.wikidata.org/wiki/Q4684780) QID Q4684780
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

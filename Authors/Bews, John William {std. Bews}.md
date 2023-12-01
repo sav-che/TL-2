@@ -6,7 +6,7 @@ tl2_surname: Bews
 tl2_forenames: John William
 tl2_name_abbrev: Bews
 tl2_dates: 1884-1938
-tl2_page_id: 33265347
+tl2_bhl_page_id: 33265347
 author_lsid: 752-1
 wikidata_id: Q42143225
 ipni_surname: Bews
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33265347) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/752-1), [Wikidata](https://www.wikidata.org/wiki/Q42143225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/752-1) LSID 752-1, [Wikidata](https://www.wikidata.org/wiki/Q42143225) QID Q42143225
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

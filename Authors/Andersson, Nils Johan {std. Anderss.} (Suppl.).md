@@ -6,7 +6,7 @@ tl2_surname: Andersson
 tl2_forenames: Nils Johan
 tl2_name_abbrev: N.J. Anderss.
 tl2_dates: 1821-1880
-tl2_page_id: 33264842
+tl2_bhl_page_id: 33264842
 author_lsid: 203-1
 wikidata_id: Q1348854
 ipni_surname: Andersson
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33264842) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/203-1), [Wikidata](https://www.wikidata.org/wiki/Q1348854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/203-1) LSID 203-1, [Wikidata](https://www.wikidata.org/wiki/Q1348854) QID Q1348854
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Andersson, Nils Johan {std. Anderss.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Casaretto
 tl2_forenames: Giovanni
 tl2_name_abbrev: Casar.
 tl2_dates: 1812-1879
-tl2_page_id: 33266752
+tl2_bhl_page_id: 33266752
 author_lsid: 1435-1
 wikidata_id: Q3107130
 ipni_surname: Casaretto
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266752) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1435-1), [Wikidata](https://www.wikidata.org/wiki/Q3107130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1435-1) LSID 1435-1, [Wikidata](https://www.wikidata.org/wiki/Q3107130) QID Q3107130
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Casaretto, Giovanni {std. Casar.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Vermeiden
 tl2_forenames: Pieter
 tl2_name_abbrev: Vermeulen
 tl2_dates: 1899-1981
-tl2_page_id: 33212755
+tl2_bhl_page_id: 33212755
 author_lsid: 11143-1
 wikidata_id: Q5841576
 ipni_surname: Vermeulen
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11143-1), [Wikidata](https://www.wikidata.org/wiki/Q5841576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11143-1) LSID 11143-1, [Wikidata](https://www.wikidata.org/wiki/Q5841576) QID Q5841576
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

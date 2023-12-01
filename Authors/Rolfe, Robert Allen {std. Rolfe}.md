@@ -6,7 +6,7 @@ tl2_surname: Rolfe
 tl2_forenames: Robert Allen
 tl2_name_abbrev: Rolfe
 tl2_dates: 1855-1921
-tl2_page_id: 33190340
+tl2_bhl_page_id: 33190340
 author_lsid: 8550-1
 wikidata_id: Q2635543
 ipni_surname: Rolfe
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33190340) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8550-1), [Wikidata](https://www.wikidata.org/wiki/Q2635543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8550-1) LSID 8550-1, [Wikidata](https://www.wikidata.org/wiki/Q2635543) QID Q2635543
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

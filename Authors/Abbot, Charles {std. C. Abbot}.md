@@ -6,7 +6,7 @@ tl2_surname: Abbot
 tl2_forenames: Charles
 tl2_name_abbrev: C. Abbot
 tl2_dates: 1761-1817
-tl2_page_id: 33120094
+tl2_bhl_page_id: 33120094
 author_lsid: 28-1
 wikidata_id: Q1063507
 ipni_surname: Abbot
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/28-1), [Wikidata](https://www.wikidata.org/wiki/Q1063507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28-1) LSID 28-1, [Wikidata](https://www.wikidata.org/wiki/Q1063507) QID Q1063507
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Abbot, Charles {std. C. Abbot} (Suppl.)|second entry]] for this author
 

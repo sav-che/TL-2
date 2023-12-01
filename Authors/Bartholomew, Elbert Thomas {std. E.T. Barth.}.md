@@ -6,7 +6,7 @@ tl2_surname: Bartholomew
 tl2_forenames: Elbert Thomas
 tl2_name_abbrev: E.T. Barth.
 tl2_dates: 1878-?
-tl2_page_id: 33265071
+tl2_bhl_page_id: 33265071
 author_lsid: 15737-1
 wikidata_id: Q21505728
 ipni_surname: Bartholomew
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/15737-1), [Wikidata](https://www.wikidata.org/wiki/Q21505728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15737-1) LSID 15737-1, [Wikidata](https://www.wikidata.org/wiki/Q21505728) QID Q21505728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

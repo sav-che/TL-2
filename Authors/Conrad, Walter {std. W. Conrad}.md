@@ -6,7 +6,7 @@ tl2_surname: Conrad
 tl2_forenames: Walter
 tl2_name_abbrev: W. Conrad
 tl2_dates: 1888-1943
-tl2_page_id: 33265981
+tl2_bhl_page_id: 33265981
 author_lsid: 32800-1
 wikidata_id: Q21508959
 ipni_surname: Conrad
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265981) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32800-1), [Wikidata](https://www.wikidata.org/wiki/Q21508959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32800-1) LSID 32800-1, [Wikidata](https://www.wikidata.org/wiki/Q21508959) QID Q21508959
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

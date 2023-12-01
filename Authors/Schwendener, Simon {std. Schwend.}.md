@@ -6,7 +6,7 @@ tl2_surname: Schwendener
 tl2_forenames: Simon
 tl2_name_abbrev: Schwend.
 tl2_dates: 1829-1919
-tl2_page_id: 33333582
+tl2_bhl_page_id: 33333582
 author_lsid: 9371-1
 wikidata_id: Q115641
 ipni_surname: Schwendener
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33333582) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9371-1), [Wikidata](https://www.wikidata.org/wiki/Q115641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9371-1) LSID 9371-1, [Wikidata](https://www.wikidata.org/wiki/Q115641) QID Q115641
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

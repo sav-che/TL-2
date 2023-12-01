@@ -6,7 +6,7 @@ tl2_surname: Hiern
 tl2_forenames: William Philip
 tl2_name_abbrev: Hiern
 tl2_dates: 1839-1925
-tl2_page_id: 33068433
+tl2_bhl_page_id: 33068433
 author_lsid: 3932-1
 wikidata_id: Q3568881
 ipni_surname: Hiern
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33068433) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3932-1), [Wikidata](https://www.wikidata.org/wiki/Q3568881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3932-1) LSID 3932-1, [Wikidata](https://www.wikidata.org/wiki/Q3568881) QID Q3568881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

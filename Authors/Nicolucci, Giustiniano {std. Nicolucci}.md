@@ -6,7 +6,7 @@ tl2_surname: Nicolucci
 tl2_forenames: Giustiniano
 tl2_name_abbrev: Nicolucci
 tl2_dates: 1818-1904
-tl2_page_id: 33355831
+tl2_bhl_page_id: 33355831
 author_lsid: 6969-1
 wikidata_id: Q3771719
 ipni_surname: Nicolucci
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33355831) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6969-1), [Wikidata](https://www.wikidata.org/wiki/Q3771719). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6969-1) LSID 6969-1, [Wikidata](https://www.wikidata.org/wiki/Q3771719) QID Q3771719
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

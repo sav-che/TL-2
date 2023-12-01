@@ -6,7 +6,7 @@ tl2_surname: Duhamel du Monceau
 tl2_forenames: Henri Louis
 tl2_name_abbrev: Duhamel
 tl2_dates: 1700-1782
-tl2_page_id: 33260143
+tl2_bhl_page_id: 33260143
 author_lsid: 2362-1
 wikidata_id: Q525949
 ipni_surname: Duhamel du Monceau
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33260143) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2362-1), [Wikidata](https://www.wikidata.org/wiki/Q525949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2362-1) LSID 2362-1, [Wikidata](https://www.wikidata.org/wiki/Q525949) QID Q525949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Duhamel du Monceau, Henri Louis {std. Duhamel}|first entry]] for this author
 

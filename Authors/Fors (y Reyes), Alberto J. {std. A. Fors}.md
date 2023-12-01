@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl7_0213
 tl2_volume: suppl7
 tl2_page_printed: 320
-tl2_surname: Fors [y Reyes]
+tl2_surname: Fors (y Reyes)
 tl2_forenames: Alberto J.
 tl2_name_abbrev: A. Fors
 tl2_dates: fl. 1912-1947
-tl2_page_id: 33259824
+tl2_bhl_page_id: 33259824
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33259824) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

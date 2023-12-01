@@ -6,7 +6,7 @@ tl2_surname: Chabrey
 tl2_forenames: Dominique (lat. Chabraeus)
 tl2_name_abbrev: Chabrey
 tl2_dates: 1610-1669
-tl2_page_id: 33120612
+tl2_bhl_page_id: 33120612
 author_lsid: 1490-1
 wikidata_id: Q21508118
 ipni_surname: Chabrey
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1490-1), [Wikidata](https://www.wikidata.org/wiki/Q21508118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1490-1) LSID 1490-1, [Wikidata](https://www.wikidata.org/wiki/Q21508118) QID Q21508118
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

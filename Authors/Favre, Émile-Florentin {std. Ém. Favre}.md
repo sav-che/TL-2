@@ -6,7 +6,7 @@ tl2_surname: Favre
 tl2_forenames: Émile-Florentin
 tl2_name_abbrev: Ém. Favre
 tl2_dates: 1843-1905
-tl2_page_id: 33259575
+tl2_bhl_page_id: 33259575
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33259575) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

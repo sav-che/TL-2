@@ -6,7 +6,7 @@ tl2_surname: Parodi
 tl2_forenames: Lorenzo Raimundo
 tl2_name_abbrev: Parodi
 tl2_dates: 1895-1966
-tl2_page_id: 33189547
+tl2_bhl_page_id: 33189547
 author_lsid: 7362-1
 wikidata_id: Q359462
 ipni_surname: Parodi
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:49:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33189547) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7362-1), [Wikidata](https://www.wikidata.org/wiki/Q359462). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7362-1) LSID 7362-1, [Wikidata](https://www.wikidata.org/wiki/Q359462) QID Q359462
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

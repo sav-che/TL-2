@@ -6,7 +6,7 @@ tl2_surname: Nägeli
 tl2_forenames: Otto
 tl2_name_abbrev: O. Näg.
 tl2_dates: 1871-1938
-tl2_page_id: 33355772
+tl2_bhl_page_id: 33355772
 author_lsid: 6833-1
 wikidata_id: Q6054730
 ipni_surname: Nägeli
@@ -23,7 +23,8 @@ ipni_record_modified: 2007-07-06 06:28:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33355772) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6833-1), [Wikidata](https://www.wikidata.org/wiki/Q6054730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6833-1) LSID 6833-1, [Wikidata](https://www.wikidata.org/wiki/Q6054730) QID Q6054730
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

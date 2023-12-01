@@ -6,7 +6,7 @@ tl2_surname: Appun
 tl2_forenames: Carl Ferdinand
 tl2_name_abbrev: Appun
 tl2_dates: 1820-1872
-tl2_page_id: 33264865
+tl2_bhl_page_id: 33264865
 author_lsid: 35749-1
 wikidata_id: Q65980
 ipni_surname: Appun
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/35749-1), [Wikidata](https://www.wikidata.org/wiki/Q65980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35749-1) LSID 35749-1, [Wikidata](https://www.wikidata.org/wiki/Q65980) QID Q65980
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

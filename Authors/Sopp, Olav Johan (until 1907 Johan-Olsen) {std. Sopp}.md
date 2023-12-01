@@ -6,7 +6,7 @@ tl2_surname: Sopp
 tl2_forenames: Olav Johan (until 1907 Johan-Olsen)
 tl2_name_abbrev: Sopp
 tl2_dates: 1860-1931
-tl2_page_id: 33333887
+tl2_bhl_page_id: 33333887
 author_lsid: 9899-1
 wikidata_id: Q3294542
 ipni_surname: Sopp
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33333887) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9899-1), [Wikidata](https://www.wikidata.org/wiki/Q3294542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9899-1) LSID 9899-1, [Wikidata](https://www.wikidata.org/wiki/Q3294542) QID Q3294542
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

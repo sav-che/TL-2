@@ -6,7 +6,7 @@ tl2_surname: Bonafous
 tl2_forenames: Matthieu
 tl2_name_abbrev: Bonaf.
 tl2_dates: 1793-1852
-tl2_page_id: 33265501
+tl2_bhl_page_id: 33265501
 author_lsid: 942-1
 wikidata_id: Q1107072
 ipni_surname: Bonafous
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/942-1), [Wikidata](https://www.wikidata.org/wiki/Q1107072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/942-1) LSID 942-1, [Wikidata](https://www.wikidata.org/wiki/Q1107072) QID Q1107072
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

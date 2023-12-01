@@ -6,7 +6,7 @@ tl2_surname: Burman
 tl2_forenames: Nicolaas Laurens
 tl2_name_abbrev: Burm. f.
 tl2_dates: 1733-1793
-tl2_page_id: 33266560
+tl2_bhl_page_id: 33266560
 author_lsid: 12368-1
 wikidata_id: Q716978
 ipni_surname: Burman
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:48:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33266560) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/12368-1), [Wikidata](https://www.wikidata.org/wiki/Q716978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12368-1) LSID 12368-1, [Wikidata](https://www.wikidata.org/wiki/Q716978) QID Q716978
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Burman, Nicolaas Laurens {std. Burm. f.}|first entry]] for this author
 

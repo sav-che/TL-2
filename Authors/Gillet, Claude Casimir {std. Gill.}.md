@@ -6,7 +6,7 @@ tl2_surname: Gillet
 tl2_forenames: Claude Casimir
 tl2_name_abbrev: Gill.
 tl2_dates: 1806-1896
-tl2_page_id: 33121075
+tl2_bhl_page_id: 33121075
 author_lsid: 19344-1
 wikidata_id: Q2701424
 ipni_surname: Gillet
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33121075) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19344-1), [Wikidata](https://www.wikidata.org/wiki/Q2701424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19344-1) LSID 19344-1, [Wikidata](https://www.wikidata.org/wiki/Q2701424) QID Q2701424
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gillet, Claude (Casimir) {std. Gill.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Sahlberg
 tl2_forenames: Carl Reinhold
 tl2_name_abbrev: C. Sahlberg
 tl2_dates: 1779-1860
-tl2_page_id: 33190528
+tl2_bhl_page_id: 33190528
 author_lsid: 8812-1
 wikidata_id: Q2361145
 ipni_surname: Sahlberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1057](https://www.biodiversitylibrary.org/page/33190528) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8812-1), [Wikidata](https://www.wikidata.org/wiki/Q2361145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8812-1) LSID 8812-1, [Wikidata](https://www.wikidata.org/wiki/Q2361145) QID Q2361145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

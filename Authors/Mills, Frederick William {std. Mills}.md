@@ -6,7 +6,7 @@ tl2_surname: Mills
 tl2_forenames: Frederick William
 tl2_name_abbrev: Mills
 tl2_dates: 1868-1949
-tl2_page_id: 33355587
+tl2_bhl_page_id: 33355587
 author_lsid: 6490-1
 wikidata_id: Q21521523
 ipni_surname: Mills
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33355587) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6490-1), [Wikidata](https://www.wikidata.org/wiki/Q21521523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6490-1) LSID 6490-1, [Wikidata](https://www.wikidata.org/wiki/Q21521523) QID Q21521523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

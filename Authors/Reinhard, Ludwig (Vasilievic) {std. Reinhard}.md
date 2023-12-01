@@ -6,7 +6,7 @@ tl2_surname: Reinhard
 tl2_forenames: Ludwig (Vasilievic)
 tl2_name_abbrev: Reinhard
 tl2_dates: 1846-1922
-tl2_page_id: 33190172
+tl2_bhl_page_id: 33190172
 author_lsid: 8271-1
 wikidata_id: Q4392648
 ipni_surname: Reinhard
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8271-1), [Wikidata](https://www.wikidata.org/wiki/Q4392648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8271-1) LSID 8271-1, [Wikidata](https://www.wikidata.org/wiki/Q4392648) QID Q4392648
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

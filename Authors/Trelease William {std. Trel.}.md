@@ -6,7 +6,7 @@ tl2_surname: Trelease William
 tl2_forenames: Trelease William
 tl2_name_abbrev: Trel.
 tl2_dates: 1857-1945
-tl2_page_id: 33212500
+tl2_bhl_page_id: 33212500
 author_lsid: 10807-1
 wikidata_id: Q1380171
 ipni_surname: Trelease
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33212500) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10807-1), [Wikidata](https://www.wikidata.org/wiki/Q1380171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10807-1) LSID 10807-1, [Wikidata](https://www.wikidata.org/wiki/Q1380171) QID Q1380171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

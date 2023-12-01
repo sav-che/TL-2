@@ -6,7 +6,7 @@ tl2_surname: Grummann
 tl2_forenames: Vitus Johannes
 tl2_name_abbrev: Grumm.
 tl2_dates: 1899-1967
-tl2_page_id: 33258906
+tl2_bhl_page_id: 33258906
 author_lsid: 3430-1
 wikidata_id: Q21338949
 ipni_surname: Grummann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33258906) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3430-1), [Wikidata](https://www.wikidata.org/wiki/Q21338949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3430-1) LSID 3430-1, [Wikidata](https://www.wikidata.org/wiki/Q21338949) QID Q21338949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Grumman, Vitus Johannes {std. Grumm.}|first entry]] for this author
 

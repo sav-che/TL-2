@@ -6,7 +6,7 @@ tl2_surname: Rhiner
 tl2_forenames: Joseph
 tl2_name_abbrev: Rhiner
 tl2_dates: 1830-1897
-tl2_page_id: 33190225
+tl2_bhl_page_id: 33190225
 author_lsid: 8334-1
 wikidata_id: Q21607152
 ipni_surname: Rhiner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33190225) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8334-1), [Wikidata](https://www.wikidata.org/wiki/Q21607152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8334-1) LSID 8334-1, [Wikidata](https://www.wikidata.org/wiki/Q21607152) QID Q21607152
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

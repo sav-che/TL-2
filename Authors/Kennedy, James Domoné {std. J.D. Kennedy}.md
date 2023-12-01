@@ -6,7 +6,7 @@ tl2_surname: Kennedy
 tl2_forenames: James Domoné
 tl2_name_abbrev: J.D. Kennedy
 tl2_dates: 1898-x
-tl2_page_id: 33068763
+tl2_bhl_page_id: 33068763
 author_lsid: 4726-1
 wikidata_id: Q21395334
 ipni_surname: Kennedy
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4726-1), [Wikidata](https://www.wikidata.org/wiki/Q21395334). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4726-1) LSID 4726-1, [Wikidata](https://www.wikidata.org/wiki/Q21395334) QID Q21395334
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

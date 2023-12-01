@@ -6,7 +6,7 @@ tl2_surname: Thomson
 tl2_forenames: John Walter
 tl2_name_abbrev: J.W. Thomson
 tl2_dates: 1913-x
-tl2_page_id: 33212326
+tl2_bhl_page_id: 33212326
 author_lsid: 27697-1
 wikidata_id: Q21387738
 ipni_surname: Thomson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33212326) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27697-1), [Wikidata](https://www.wikidata.org/wiki/Q21387738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27697-1) LSID 27697-1, [Wikidata](https://www.wikidata.org/wiki/Q21387738) QID Q21387738
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

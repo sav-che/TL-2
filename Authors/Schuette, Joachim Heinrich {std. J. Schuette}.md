@@ -6,7 +6,7 @@ tl2_surname: Schuette
 tl2_forenames: Joachim Heinrich
 tl2_name_abbrev: J. Schuette
 tl2_dates: 1821-1908
-tl2_page_id: 33333503
+tl2_bhl_page_id: 33333503
 author_lsid: 9284-1
 wikidata_id: Q21608462
 ipni_surname: Schuette
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9284-1), [Wikidata](https://www.wikidata.org/wiki/Q21608462). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9284-1) LSID 9284-1, [Wikidata](https://www.wikidata.org/wiki/Q21608462) QID Q21608462
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

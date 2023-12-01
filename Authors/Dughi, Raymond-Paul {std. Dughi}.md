@@ -6,7 +6,7 @@ tl2_surname: Dughi
 tl2_forenames: Raymond-Paul
 tl2_name_abbrev: Dughi
 tl2_dates: fl. 1932-1963
-tl2_page_id: 33260142
+tl2_bhl_page_id: 33260142
 author_lsid: 18256-1
 wikidata_id: Q21447623
 ipni_surname: Dughi
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33260142) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18256-1), [Wikidata](https://www.wikidata.org/wiki/Q21447623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18256-1) LSID 18256-1, [Wikidata](https://www.wikidata.org/wiki/Q21447623) QID Q21447623
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

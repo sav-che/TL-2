@@ -6,7 +6,7 @@ tl2_surname: Lösecke
 tl2_forenames: August Georg von
 tl2_name_abbrev: Lösecke
 tl2_dates: 1837-1912
-tl2_page_id: 33355228
+tl2_bhl_page_id: 33355228
 author_lsid: 5704-1
 wikidata_id: Q21519518
 ipni_surname: Lösecke
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5704-1), [Wikidata](https://www.wikidata.org/wiki/Q21519518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5704-1) LSID 5704-1, [Wikidata](https://www.wikidata.org/wiki/Q21519518) QID Q21519518
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

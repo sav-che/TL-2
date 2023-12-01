@@ -6,7 +6,7 @@ tl2_surname: Kampe
 tl2_forenames: E.
 tl2_name_abbrev: Kampe
 tl2_dates: fl. 1888
-tl2_page_id: 33068734
+tl2_bhl_page_id: 33068734
 author_lsid: 4631-1
 wikidata_id: Q47119859
 ipni_surname: Kampe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4631-1), [Wikidata](https://www.wikidata.org/wiki/Q47119859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4631-1) LSID 4631-1, [Wikidata](https://www.wikidata.org/wiki/Q47119859) QID Q47119859
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

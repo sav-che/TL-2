@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0358
 tl2_volume: vol3
 tl2_page_printed: 310
 tl2_surname: Marshall
-tl2_forenames: [Caroline] Nina Lovering
+tl2_forenames: (Caroline) Nina Lovering
 tl2_name_abbrev: N. Marsh.
 tl2_dates: 1861-1921
-tl2_page_id: 33355397
+tl2_bhl_page_id: 33355397
 author_lsid: 22936-1
 wikidata_id: Q21519989
 ipni_surname: Marshall
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33355397) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22936-1), [Wikidata](https://www.wikidata.org/wiki/Q21519989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22936-1) LSID 22936-1, [Wikidata](https://www.wikidata.org/wiki/Q21519989) QID Q21519989
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

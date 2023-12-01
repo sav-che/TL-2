@@ -6,7 +6,7 @@ tl2_surname: Regnault
 tl2_forenames: Nicolas François
 tl2_name_abbrev: Regnault
 tl2_dates: 1746-?
-tl2_page_id: 33190119
+tl2_bhl_page_id: 33190119
 author_lsid: 8239-1
 wikidata_id: Q21607068
 ipni_surname: Regnault
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33190119) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8239-1), [Wikidata](https://www.wikidata.org/wiki/Q21607068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8239-1) LSID 8239-1, [Wikidata](https://www.wikidata.org/wiki/Q21607068) QID Q21607068
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Barthel
 tl2_forenames: ...
 tl2_name_abbrev: Barthel
 tl2_dates: fl. 1869
-tl2_page_id: 33265069
+tl2_bhl_page_id: 33265069
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265069) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Irénée-Marie
 tl2_forenames: Frère (Thomas Joseph Caron)
 tl2_name_abbrev: Irénée-Marie
 tl2_dates: 1898-x
-tl2_page_id: 33068627
+tl2_bhl_page_id: 33068627
 author_lsid: 12572-1
 wikidata_id: Q21516778
 ipni_surname: Irénée-Marie
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12572-1), [Wikidata](https://www.wikidata.org/wiki/Q21516778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12572-1) LSID 12572-1, [Wikidata](https://www.wikidata.org/wiki/Q21516778) QID Q21516778
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

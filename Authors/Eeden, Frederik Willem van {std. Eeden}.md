@@ -6,7 +6,7 @@ tl2_surname: Eeden
 tl2_forenames: Frederik Willem van
 tl2_name_abbrev: Eeden
 tl2_dates: 1829-1901
-tl2_page_id: 33120856
+tl2_bhl_page_id: 33120856
 author_lsid: 2472-1
 wikidata_id: Q1985029
 ipni_surname: Eeden
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33120856) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2472-1), [Wikidata](https://www.wikidata.org/wiki/Q1985029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2472-1) LSID 2472-1, [Wikidata](https://www.wikidata.org/wiki/Q1985029) QID Q1985029
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Eeden, Frederik Willem van {std. Eeden} (Suppl.)|second entry]] for this author
 

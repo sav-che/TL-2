@@ -6,7 +6,7 @@ tl2_surname: Stellati
 tl2_forenames: Vincenzo
 tl2_name_abbrev: Stellati
 tl2_dates: 1780-1852
-tl2_page_id: 33334020
+tl2_bhl_page_id: 33334020
 author_lsid: 10087-1
 wikidata_id: Q21609745
 ipni_surname: Stellati
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33334020) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10087-1), [Wikidata](https://www.wikidata.org/wiki/Q21609745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10087-1) LSID 10087-1, [Wikidata](https://www.wikidata.org/wiki/Q21609745) QID Q21609745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

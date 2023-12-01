@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0092
 tl2_volume: suppl8
 tl2_page_printed: 131
 tl2_surname: Garsault
-tl2_forenames: François Alexandre [Pierre] de
+tl2_forenames: François Alexandre (Pierre) de
 tl2_name_abbrev: Garsault
 tl2_dates: 1691/1693-1778
-tl2_page_id: 33258609
+tl2_bhl_page_id: 33258609
 author_lsid: 3033-1
 wikidata_id: Q5493154
 ipni_surname: Garsault
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33258609) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3033-1), [Wikidata](https://www.wikidata.org/wiki/Q5493154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3033-1) LSID 3033-1, [Wikidata](https://www.wikidata.org/wiki/Q5493154) QID Q5493154
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Garsault, François Alexandre Pierre de {std. Garsault}|first entry]] for this author
 

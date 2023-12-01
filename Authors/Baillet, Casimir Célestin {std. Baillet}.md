@@ -6,7 +6,7 @@ tl2_surname: Baillet
 tl2_forenames: Casimir Célestin
 tl2_name_abbrev: Baillet
 tl2_dates: 1820-1900
-tl2_page_id: 33264996
+tl2_bhl_page_id: 33264996
 author_lsid: 396-1
 wikidata_id: Q21505557
 ipni_surname: Baillet
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33264996) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/396-1), [Wikidata](https://www.wikidata.org/wiki/Q21505557). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/396-1) LSID 396-1, [Wikidata](https://www.wikidata.org/wiki/Q21505557) QID Q21505557
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

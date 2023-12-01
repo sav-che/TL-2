@@ -6,7 +6,7 @@ tl2_surname: Woodhead
 tl2_forenames: Thomas William
 tl2_name_abbrev: T.W. Woodhead
 tl2_dates: 1863-1940
-tl2_page_id: 33066783
+tl2_bhl_page_id: 33066783
 author_lsid: 11854-1
 wikidata_id: Q21612970
 ipni_surname: Woodhead
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11854-1), [Wikidata](https://www.wikidata.org/wiki/Q21612970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11854-1) LSID 11854-1, [Wikidata](https://www.wikidata.org/wiki/Q21612970) QID Q21612970
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

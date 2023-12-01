@@ -2,15 +2,15 @@
 tl2_entry_id: tl2_suppl7_0169
 tl2_volume: suppl7
 tl2_page_printed: 252
-tl2_surname: Flerov [Fleroff, Flerow]
+tl2_surname: Flerov (Fleroff, Flerow)
 tl2_forenames: Alexandr Fedorovich
 tl2_name_abbrev: Flerov
 tl2_dates: 1872-1960
-tl2_page_id: 33259756
+tl2_bhl_page_id: 33259756
 author_lsid: 20035717-1
 wikidata_id: Q88822605
 ipni_surname: Flerov
-ipni_forenames: Aleksandr [Alexander] Fedorovitch [Fedorovic, Theodorovich, Theodorowitsch]
+ipni_forenames: Aleksandr (Alexander) Fedorovitch (Fedorovic, Theodorovich, Theodorowitsch)
 ipni_standard_form: Flerov
 ipni_dates: 
 ipni_taxon_scope: 
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33259756) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/20035717-1), [Wikidata](https://www.wikidata.org/wiki/Q88822605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20035717-1) LSID 20035717-1, [Wikidata](https://www.wikidata.org/wiki/Q88822605) QID Q88822605
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

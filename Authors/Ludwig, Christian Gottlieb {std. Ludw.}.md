@@ -6,7 +6,7 @@ tl2_surname: Ludwig
 tl2_forenames: Christian Gottlieb
 tl2_name_abbrev: Ludw.
 tl2_dates: 1709-1773
-tl2_page_id: 33355269
+tl2_bhl_page_id: 33355269
 author_lsid: 5804-1
 wikidata_id: Q66324
 ipni_surname: Ludwig
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:38:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33355269) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5804-1), [Wikidata](https://www.wikidata.org/wiki/Q66324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5804-1) LSID 5804-1, [Wikidata](https://www.wikidata.org/wiki/Q66324) QID Q66324
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

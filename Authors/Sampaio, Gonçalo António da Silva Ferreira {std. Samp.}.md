@@ -6,7 +6,7 @@ tl2_surname: Sampaio
 tl2_forenames: Gonçalo António da Silva Ferreira
 tl2_name_abbrev: Samp.
 tl2_dates: 1865-1937
-tl2_page_id: 33333164
+tl2_bhl_page_id: 33333164
 author_lsid: 8866-1
 wikidata_id: Q459037
 ipni_surname: Sampaio
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:44:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33333164) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8866-1), [Wikidata](https://www.wikidata.org/wiki/Q459037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8866-1) LSID 8866-1, [Wikidata](https://www.wikidata.org/wiki/Q459037) QID Q459037
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

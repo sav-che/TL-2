@@ -6,7 +6,7 @@ tl2_surname: Armitage
 tl2_forenames: Rev. Edward
 tl2_name_abbrev: Edw. Armitage
 tl2_dates: 1822-1906
-tl2_page_id: 33264886
+tl2_bhl_page_id: 33264886
 author_lsid: 13856-1
 wikidata_id: Q1291558
 ipni_surname: Armitage
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:40:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33264886) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/13856-1), [Wikidata](https://www.wikidata.org/wiki/Q1291558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13856-1) LSID 13856-1, [Wikidata](https://www.wikidata.org/wiki/Q1291558) QID Q1291558
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

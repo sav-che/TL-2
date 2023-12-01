@@ -6,7 +6,7 @@ tl2_surname: Philippe
 tl2_forenames: Xavier (earlier Philippe Xavier Camus)
 tl2_name_abbrev: Philippe
 tl2_dates: 1802-1866
-tl2_page_id: 33189705
+tl2_bhl_page_id: 33189705
 author_lsid: 7637-1
 wikidata_id: Q19001500
 ipni_surname: Philippe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7637-1), [Wikidata](https://www.wikidata.org/wiki/Q19001500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7637-1) LSID 7637-1, [Wikidata](https://www.wikidata.org/wiki/Q19001500) QID Q19001500
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

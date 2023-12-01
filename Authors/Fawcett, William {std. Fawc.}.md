@@ -6,7 +6,7 @@ tl2_surname: Fawcett
 tl2_forenames: William
 tl2_name_abbrev: Fawc.
 tl2_dates: 1851-1926
-tl2_page_id: 33120946
+tl2_bhl_page_id: 33120946
 author_lsid: 2652-1
 wikidata_id: Q3568610
 ipni_surname: Fawcett
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33120946) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2652-1), [Wikidata](https://www.wikidata.org/wiki/Q3568610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2652-1) LSID 2652-1, [Wikidata](https://www.wikidata.org/wiki/Q3568610) QID Q3568610
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fawcett, William {std. Fawc.} (Suppl.)|second entry]] for this author
 

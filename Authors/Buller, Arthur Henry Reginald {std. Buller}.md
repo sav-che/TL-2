@@ -6,7 +6,7 @@ tl2_surname: Buller
 tl2_forenames: Arthur Henry Reginald
 tl2_name_abbrev: Buller
 tl2_dates: 1879-1944
-tl2_page_id: 33120532
+tl2_bhl_page_id: 33120532
 author_lsid: 1280-1
 wikidata_id: Q4799048
 ipni_surname: Buller
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33120532) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1280-1), [Wikidata](https://www.wikidata.org/wiki/Q4799048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1280-1) LSID 1280-1, [Wikidata](https://www.wikidata.org/wiki/Q4799048) QID Q4799048
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Buller, Arthur Henry Reginald {std. Buller} (Suppl.)|second entry]] for this author
 

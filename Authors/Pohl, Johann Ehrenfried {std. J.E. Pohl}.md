@@ -6,7 +6,7 @@ tl2_surname: Pohl
 tl2_forenames: Johann Ehrenfried
 tl2_name_abbrev: J.E. Pohl
 tl2_dates: 1746-1800
-tl2_page_id: 33189788
+tl2_bhl_page_id: 33189788
 author_lsid: 7784-1
 wikidata_id: Q1674510
 ipni_surname: Pohl
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7784-1), [Wikidata](https://www.wikidata.org/wiki/Q1674510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7784-1) LSID 7784-1, [Wikidata](https://www.wikidata.org/wiki/Q1674510) QID Q1674510
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

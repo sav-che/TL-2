@@ -6,7 +6,7 @@ tl2_surname: Ramis
 tl2_forenames: Aly Ibrahim (Bey)
 tl2_name_abbrev: Ramis
 tl2_dates: 1875-1928
-tl2_page_id: 33190042
+tl2_bhl_page_id: 33190042
 author_lsid: 8125-1
 wikidata_id: Q21606936
 ipni_surname: Ramis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8125-1), [Wikidata](https://www.wikidata.org/wiki/Q21606936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8125-1) LSID 8125-1, [Wikidata](https://www.wikidata.org/wiki/Q21606936) QID Q21606936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

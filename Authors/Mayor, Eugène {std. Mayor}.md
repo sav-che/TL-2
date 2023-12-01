@@ -6,7 +6,7 @@ tl2_surname: Mayor
 tl2_forenames: Eugène
 tl2_name_abbrev: Mayor
 tl2_dates: 1877-1976
-tl2_page_id: 33355475
+tl2_bhl_page_id: 33355475
 author_lsid: 23101-1
 wikidata_id: Q21502929
 ipni_surname: Mayor
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23101-1), [Wikidata](https://www.wikidata.org/wiki/Q21502929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23101-1) LSID 23101-1, [Wikidata](https://www.wikidata.org/wiki/Q21502929) QID Q21502929
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

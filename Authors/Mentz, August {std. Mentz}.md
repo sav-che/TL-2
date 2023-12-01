@@ -6,7 +6,7 @@ tl2_surname: Mentz
 tl2_forenames: August
 tl2_name_abbrev: Mentz
 tl2_dates: 1867-1944
-tl2_page_id: 33355503
+tl2_bhl_page_id: 33355503
 author_lsid: 6359-1
 wikidata_id: Q4820779
 ipni_surname: Mentz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6359-1), [Wikidata](https://www.wikidata.org/wiki/Q4820779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6359-1) LSID 6359-1, [Wikidata](https://www.wikidata.org/wiki/Q4820779) QID Q4820779
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

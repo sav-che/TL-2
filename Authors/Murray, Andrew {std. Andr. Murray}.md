@@ -6,7 +6,7 @@ tl2_surname: Murray
 tl2_forenames: Andrew
 tl2_name_abbrev: Andr. Murray
 tl2_dates: 1812-1878
-tl2_page_id: 33355754
+tl2_bhl_page_id: 33355754
 author_lsid: 6806-1
 wikidata_id: Q506448
 ipni_surname: Murray
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-09-10 16:56:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33355754) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6806-1), [Wikidata](https://www.wikidata.org/wiki/Q506448). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6806-1) LSID 6806-1, [Wikidata](https://www.wikidata.org/wiki/Q506448) QID Q506448
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Menge
 tl2_forenames: Franz Anton
 tl2_name_abbrev: Menge
 tl2_dates: 1808-1880
-tl2_page_id: 33355502
+tl2_bhl_page_id: 33355502
 author_lsid: 23266-1
 wikidata_id: Q66322
 ipni_surname: Menge
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23266-1), [Wikidata](https://www.wikidata.org/wiki/Q66322). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23266-1) LSID 23266-1, [Wikidata](https://www.wikidata.org/wiki/Q66322) QID Q66322
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

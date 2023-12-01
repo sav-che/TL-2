@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0329
 tl2_volume: vol5
 tl2_page_printed: 338
 tl2_surname: Schröder
-tl2_forenames: [Theodor] Julius [Reinhold] von
+tl2_forenames: (Theodor) Julius (Reinhold) von
 tl2_name_abbrev: J. Schröd.
 tl2_dates: 1843-1895
-tl2_page_id: 33333477
+tl2_bhl_page_id: 33333477
 author_lsid: 12846-1
 wikidata_id: Q21608444
 ipni_surname: Schröder
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33333477) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12846-1), [Wikidata](https://www.wikidata.org/wiki/Q21608444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12846-1) LSID 12846-1, [Wikidata](https://www.wikidata.org/wiki/Q21608444) QID Q21608444
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

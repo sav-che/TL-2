@@ -6,7 +6,7 @@ tl2_surname: Billings
 tl2_forenames: Elkanah
 tl2_name_abbrev: Billings
 tl2_dates: 1820-1876
-tl2_page_id: 33120346
+tl2_bhl_page_id: 33120346
 author_lsid: 792-1
 wikidata_id: Q1331443
 ipni_surname: Billings
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/792-1), [Wikidata](https://www.wikidata.org/wiki/Q1331443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/792-1) LSID 792-1, [Wikidata](https://www.wikidata.org/wiki/Q1331443) QID Q1331443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

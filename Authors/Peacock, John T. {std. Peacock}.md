@@ -6,7 +6,7 @@ tl2_surname: Peacock
 tl2_forenames: John T.
 tl2_name_abbrev: Peacock
 tl2_dates: fl. 1878
-tl2_page_id: 33189600
+tl2_bhl_page_id: 33189600
 author_lsid: 7437-1
 wikidata_id: Q36596724
 ipni_surname: Peacock
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33189600) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7437-1), [Wikidata](https://www.wikidata.org/wiki/Q36596724). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7437-1) LSID 7437-1, [Wikidata](https://www.wikidata.org/wiki/Q36596724) QID Q36596724
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

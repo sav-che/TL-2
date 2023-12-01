@@ -6,7 +6,7 @@ tl2_surname: Miner
 tl2_forenames: Harriet Stewart
 tl2_name_abbrev: Miner
 tl2_dates: fl. 1885
-tl2_page_id: 33355593
+tl2_bhl_page_id: 33355593
 author_lsid: 6502-1
 wikidata_id: Q36576539
 ipni_surname: Miner
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6502-1), [Wikidata](https://www.wikidata.org/wiki/Q36576539). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6502-1) LSID 6502-1, [Wikidata](https://www.wikidata.org/wiki/Q36576539) QID Q36576539
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

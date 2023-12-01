@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0486
 tl2_volume: vol7
 tl2_page_printed: 536
 tl2_surname: Ziegenspeck
-tl2_forenames: Hermann [Robert Theodor]
+tl2_forenames: Hermann (Robert Theodor)
 tl2_name_abbrev: Ziegensp.
 tl2_dates: 1891-1959
-tl2_page_id: 33066876
+tl2_bhl_page_id: 33066876
 author_lsid: 13044-1
 wikidata_id: Q21613648
 ipni_surname: Ziegenspeck
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13044-1), [Wikidata](https://www.wikidata.org/wiki/Q21613648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13044-1) LSID 13044-1, [Wikidata](https://www.wikidata.org/wiki/Q21613648) QID Q21613648
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

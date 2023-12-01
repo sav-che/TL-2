@@ -6,7 +6,7 @@ tl2_surname: Noulet
 tl2_forenames: Jean Baptiste
 tl2_name_abbrev: Noulet
 tl2_dates: 1802-1890
-tl2_page_id: 33355865
+tl2_bhl_page_id: 33355865
 author_lsid: 7047-1
 wikidata_id: Q983569
 ipni_surname: Noulet
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:47:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33355865) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7047-1), [Wikidata](https://www.wikidata.org/wiki/Q983569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7047-1) LSID 7047-1, [Wikidata](https://www.wikidata.org/wiki/Q983569) QID Q983569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

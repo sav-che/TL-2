@@ -6,7 +6,7 @@ tl2_surname: Dahl
 tl2_forenames: Å. Eilif
 tl2_name_abbrev: Å.E. Dahl
 tl2_dates: 1916-1993
-tl2_page_id: 33259054
+tl2_bhl_page_id: 33259054
 author_lsid: 17643-1
 wikidata_id: Q4154201
 ipni_surname: Dahl
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33259054) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17643-1), [Wikidata](https://www.wikidata.org/wiki/Q4154201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17643-1) LSID 17643-1, [Wikidata](https://www.wikidata.org/wiki/Q4154201) QID Q4154201
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

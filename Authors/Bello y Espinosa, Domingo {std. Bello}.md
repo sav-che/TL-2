@@ -6,7 +6,7 @@ tl2_surname: Bello y Espinosa
 tl2_forenames: Domingo
 tl2_name_abbrev: Bello
 tl2_dates: 1817-1884
-tl2_page_id: 33120301
+tl2_bhl_page_id: 33120301
 author_lsid: 636-1
 wikidata_id: Q1237477
 ipni_surname: Bello y Espinosa
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33120301) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/636-1), [Wikidata](https://www.wikidata.org/wiki/Q1237477). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/636-1) LSID 636-1, [Wikidata](https://www.wikidata.org/wiki/Q1237477) QID Q1237477
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

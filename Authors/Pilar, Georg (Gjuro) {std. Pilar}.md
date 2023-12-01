@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0312
 tl2_volume: vol4
 tl2_page_printed: 263
 tl2_surname: Pilar
-tl2_forenames: Georg [Gjuro]
+tl2_forenames: Georg (Gjuro)
 tl2_name_abbrev: Pilar
 tl2_dates: 1847-1893
-tl2_page_id: 33189734
+tl2_bhl_page_id: 33189734
 author_lsid: 7698-1
 wikidata_id: Q21523012
 ipni_surname: Pilar
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7698-1), [Wikidata](https://www.wikidata.org/wiki/Q21523012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7698-1) LSID 7698-1, [Wikidata](https://www.wikidata.org/wiki/Q21523012) QID Q21523012
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

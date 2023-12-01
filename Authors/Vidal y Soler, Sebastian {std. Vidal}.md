@@ -6,7 +6,7 @@ tl2_surname: Vidal y Soler
 tl2_forenames: Sebastian
 tl2_name_abbrev: Vidal
 tl2_dates: 1842-1889
-tl2_page_id: 33212769
+tl2_bhl_page_id: 33212769
 author_lsid: 11174-1
 wikidata_id: Q7442690
 ipni_surname: Vidal
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33212769) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11174-1), [Wikidata](https://www.wikidata.org/wiki/Q7442690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11174-1) LSID 11174-1, [Wikidata](https://www.wikidata.org/wiki/Q7442690) QID Q7442690
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

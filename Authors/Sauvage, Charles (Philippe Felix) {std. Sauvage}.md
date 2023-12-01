@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0074
 tl2_volume: vol5
 tl2_page_printed: 75
 tl2_surname: Sauvage
-tl2_forenames: Charles [Philippe Felix]
+tl2_forenames: Charles (Philippe Felix)
 tl2_name_abbrev: Sauvage
 tl2_dates: 1909-1980
-tl2_page_id: 33333214
+tl2_bhl_page_id: 33333214
 author_lsid: 8962-1
 wikidata_id: Q2960192
 ipni_surname: Sauvage
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33333214) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8962-1), [Wikidata](https://www.wikidata.org/wiki/Q2960192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8962-1) LSID 8962-1, [Wikidata](https://www.wikidata.org/wiki/Q2960192) QID Q2960192
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

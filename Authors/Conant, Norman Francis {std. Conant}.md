@@ -6,7 +6,7 @@ tl2_surname: Conant
 tl2_forenames: Norman Francis
 tl2_name_abbrev: Conant
 tl2_dates: 1908-x
-tl2_page_id: 33265970
+tl2_bhl_page_id: 33265970
 author_lsid: 17370-1
 wikidata_id: Q5552381
 ipni_surname: Conant
@@ -24,7 +24,8 @@ ipni_record_modified: 2018-07-06 15:30:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33265970) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17370-1), [Wikidata](https://www.wikidata.org/wiki/Q5552381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17370-1) LSID 17370-1, [Wikidata](https://www.wikidata.org/wiki/Q5552381) QID Q5552381
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

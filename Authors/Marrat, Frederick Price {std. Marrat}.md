@@ -6,7 +6,7 @@ tl2_surname: Marrat
 tl2_forenames: Frederick Price
 tl2_name_abbrev: Marrat
 tl2_dates: 1820-1904
-tl2_page_id: 33355391
+tl2_bhl_page_id: 33355391
 author_lsid: 6127-1
 wikidata_id: Q21519978
 ipni_surname: Marrat
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33355391) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6127-1), [Wikidata](https://www.wikidata.org/wiki/Q21519978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6127-1) LSID 6127-1, [Wikidata](https://www.wikidata.org/wiki/Q21519978) QID Q21519978
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

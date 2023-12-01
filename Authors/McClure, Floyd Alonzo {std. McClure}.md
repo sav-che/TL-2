@@ -6,7 +6,7 @@ tl2_surname: McClure
 tl2_forenames: Floyd Alonzo
 tl2_name_abbrev: McClure
 tl2_dates: 1897-1970
-tl2_page_id: 33355302
+tl2_bhl_page_id: 33355302
 author_lsid: 5903-1
 wikidata_id: Q1430344
 ipni_surname: McClure
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5903-1), [Wikidata](https://www.wikidata.org/wiki/Q1430344). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5903-1) LSID 5903-1, [Wikidata](https://www.wikidata.org/wiki/Q1430344) QID Q1430344
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

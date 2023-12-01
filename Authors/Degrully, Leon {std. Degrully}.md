@@ -6,7 +6,7 @@ tl2_surname: Degrully
 tl2_forenames: Leon
 tl2_name_abbrev: Degrully
 tl2_dates: fl. 1887-1907
-tl2_page_id: 33259208
+tl2_bhl_page_id: 33259208
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

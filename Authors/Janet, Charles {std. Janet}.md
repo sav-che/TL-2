@@ -6,7 +6,7 @@ tl2_surname: Janet
 tl2_forenames: Charles
 tl2_name_abbrev: Janet
 tl2_dates: 1849-1932
-tl2_page_id: 33068665
+tl2_bhl_page_id: 33068665
 author_lsid: 4419-1
 wikidata_id: Q2959440
 ipni_surname: Janet
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4419-1), [Wikidata](https://www.wikidata.org/wiki/Q2959440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4419-1) LSID 4419-1, [Wikidata](https://www.wikidata.org/wiki/Q2959440) QID Q2959440
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

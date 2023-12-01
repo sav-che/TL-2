@@ -6,7 +6,7 @@ tl2_surname: Cobres
 tl2_forenames: Joseph Paul von
 tl2_name_abbrev: Cobres
 tl2_dates: 1747-1823
-tl2_page_id: 33120646
+tl2_bhl_page_id: 33120646
 author_lsid: 1708-1
 wikidata_id: Q21508771
 ipni_surname: Cobres
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33120646) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1708-1), [Wikidata](https://www.wikidata.org/wiki/Q21508771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1708-1) LSID 1708-1, [Wikidata](https://www.wikidata.org/wiki/Q21508771) QID Q21508771
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Theobald
 tl2_forenames: Gottfried Ludwig
 tl2_name_abbrev: Theobald
 tl2_dates: 1810-1869
-tl2_page_id: 33212287
+tl2_bhl_page_id: 33212287
 author_lsid: 10553-1
 wikidata_id: Q1539346
 ipni_surname: Theobald
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10553-1), [Wikidata](https://www.wikidata.org/wiki/Q1539346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10553-1) LSID 10553-1, [Wikidata](https://www.wikidata.org/wiki/Q1539346) QID Q1539346
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

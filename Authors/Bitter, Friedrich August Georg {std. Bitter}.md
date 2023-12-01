@@ -6,7 +6,7 @@ tl2_surname: Bitter
 tl2_forenames: Friedrich August Georg
 tl2_name_abbrev: Bitter
 tl2_dates: 1873-1927
-tl2_page_id: 33120353
+tl2_bhl_page_id: 33120353
 author_lsid: 814-1
 wikidata_id: Q68945
 ipni_surname: Bitter
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33120353) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/814-1), [Wikidata](https://www.wikidata.org/wiki/Q68945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/814-1) LSID 814-1, [Wikidata](https://www.wikidata.org/wiki/Q68945) QID Q68945
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bitter, (Friedrich August) Georg {std. Bitter} (Suppl.)|second entry]] for this author
 

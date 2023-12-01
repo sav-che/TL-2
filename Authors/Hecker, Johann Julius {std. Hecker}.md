@@ -6,7 +6,7 @@ tl2_surname: Hecker
 tl2_forenames: Johann Julius
 tl2_name_abbrev: Hecker
 tl2_dates: 1707-1768
-tl2_page_id: 33068359
+tl2_bhl_page_id: 33068359
 author_lsid: 3764-1
 wikidata_id: Q629451
 ipni_surname: Hecker
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33068359) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3764-1), [Wikidata](https://www.wikidata.org/wiki/Q629451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3764-1) LSID 3764-1, [Wikidata](https://www.wikidata.org/wiki/Q629451) QID Q629451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

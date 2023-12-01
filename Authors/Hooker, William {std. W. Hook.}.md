@@ -6,7 +6,7 @@ tl2_surname: Hooker
 tl2_forenames: William
 tl2_name_abbrev: W. Hook.
 tl2_dates: 1779-1832
-tl2_page_id: 33068525
+tl2_bhl_page_id: 33068525
 author_lsid: 4085-1
 wikidata_id: Q3568709
 ipni_surname: Hooker
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33068525) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4085-1), [Wikidata](https://www.wikidata.org/wiki/Q3568709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4085-1) LSID 4085-1, [Wikidata](https://www.wikidata.org/wiki/Q3568709) QID Q3568709
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Saint-Gal
 tl2_forenames: Marie Joseph
 tl2_name_abbrev: Saint-Gal
 tl2_dates: 1841-1932
-tl2_page_id: 33190534
+tl2_bhl_page_id: 33190534
 author_lsid: 8825-1
 wikidata_id: Q21607621
 ipni_surname: Saint-Gal
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8825-1), [Wikidata](https://www.wikidata.org/wiki/Q21607621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8825-1) LSID 8825-1, [Wikidata](https://www.wikidata.org/wiki/Q21607621) QID Q21607621
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

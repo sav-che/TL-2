@@ -6,7 +6,7 @@ tl2_surname: Pottier
 tl2_forenames: Jacques Georges
 tl2_name_abbrev: Pottier
 tl2_dates: 1892-x
-tl2_page_id: 33189835
+tl2_bhl_page_id: 33189835
 author_lsid: 7892-1
 wikidata_id: Q5924657
 ipni_surname: Pottier
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7892-1), [Wikidata](https://www.wikidata.org/wiki/Q5924657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7892-1) LSID 7892-1, [Wikidata](https://www.wikidata.org/wiki/Q5924657) QID Q5924657
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

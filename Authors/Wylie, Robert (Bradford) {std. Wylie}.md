@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0441
 tl2_volume: vol7
 tl2_page_printed: 483
 tl2_surname: Wylie
-tl2_forenames: Robert [Bradford]
+tl2_forenames: Robert (Bradford)
 tl2_name_abbrev: Wylie
 tl2_dates: 1870-1959
-tl2_page_id: 33066823
+tl2_bhl_page_id: 33066823
 author_lsid: 13035-1
 wikidata_id: Q21613129
 ipni_surname: Wylie
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33066823) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13035-1), [Wikidata](https://www.wikidata.org/wiki/Q21613129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13035-1) LSID 13035-1, [Wikidata](https://www.wikidata.org/wiki/Q21613129) QID Q21613129
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

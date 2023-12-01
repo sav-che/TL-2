@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0086
 tl2_volume: vol3
 tl2_page_printed: 130
 tl2_surname: L'Obel
-tl2_forenames: Mathias de [Lobel, Lobelius]
+tl2_forenames: Mathias de (Lobel, Lobelius)
 tl2_name_abbrev: Lobel
 tl2_dates: 1538-1616
-tl2_page_id: 33355217
+tl2_bhl_page_id: 33355217
 author_lsid: 5688-1
 wikidata_id: Q1860320
 ipni_surname: Lobel
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33355217) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5688-1), [Wikidata](https://www.wikidata.org/wiki/Q1860320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5688-1) LSID 5688-1, [Wikidata](https://www.wikidata.org/wiki/Q1860320) QID Q1860320
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

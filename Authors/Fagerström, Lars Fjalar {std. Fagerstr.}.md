@@ -6,7 +6,7 @@ tl2_surname: Fagerström
 tl2_forenames: Lars Fjalar
 tl2_name_abbrev: Fagerstr.
 tl2_dates: 1914-2001
-tl2_page_id: 33259517
+tl2_bhl_page_id: 33259517
 author_lsid: 2619-1
 wikidata_id: Q21512540
 ipni_surname: Fagerström
@@ -24,7 +24,8 @@ ipni_record_modified: 2009-06-19 09:30:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33259517) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2619-1), [Wikidata](https://www.wikidata.org/wiki/Q21512540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2619-1) LSID 2619-1, [Wikidata](https://www.wikidata.org/wiki/Q21512540) QID Q21512540
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

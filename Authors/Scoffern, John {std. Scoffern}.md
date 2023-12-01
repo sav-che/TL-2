@@ -6,7 +6,7 @@ tl2_surname: Scoffern
 tl2_forenames: John
 tl2_name_abbrev: Scoffern
 tl2_dates: 1814-1882
-tl2_page_id: 33333591
+tl2_bhl_page_id: 33333591
 author_lsid: 9382-1
 wikidata_id: Q21608557
 ipni_surname: Scoffern
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9382-1), [Wikidata](https://www.wikidata.org/wiki/Q21608557). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9382-1) LSID 9382-1, [Wikidata](https://www.wikidata.org/wiki/Q21608557) QID Q21608557
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

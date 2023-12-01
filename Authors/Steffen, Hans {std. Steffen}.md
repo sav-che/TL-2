@@ -6,7 +6,7 @@ tl2_surname: Steffen
 tl2_forenames: Hans
 tl2_name_abbrev: Steffen
 tl2_dates: 1891-?
-tl2_page_id: 33334008
+tl2_bhl_page_id: 33334008
 author_lsid: 10068-1
 wikidata_id: Q21609671
 ipni_surname: Steffen
@@ -23,7 +23,8 @@ ipni_record_modified: 2005-04-26 02:45:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33334008) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10068-1), [Wikidata](https://www.wikidata.org/wiki/Q21609671). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10068-1) LSID 10068-1, [Wikidata](https://www.wikidata.org/wiki/Q21609671) QID Q21609671
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

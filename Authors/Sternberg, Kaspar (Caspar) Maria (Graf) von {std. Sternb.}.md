@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0908
 tl2_volume: vol5
 tl2_page_printed: 899
 tl2_surname: Sternberg
-tl2_forenames: Kaspar [Caspar] Maria (Graf) von
+tl2_forenames: Kaspar (Caspar) Maria (Graf) von
 tl2_name_abbrev: Sternb.
 tl2_dates: 1761-1838
-tl2_page_id: 33334038
+tl2_bhl_page_id: 33334038
 author_lsid: 12887-1
 wikidata_id: Q78564
 ipni_surname: Sternberg
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:30:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33334038) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12887-1), [Wikidata](https://www.wikidata.org/wiki/Q78564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12887-1) LSID 12887-1, [Wikidata](https://www.wikidata.org/wiki/Q78564) QID Q78564
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

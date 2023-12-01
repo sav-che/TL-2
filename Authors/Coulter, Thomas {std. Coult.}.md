@@ -6,7 +6,7 @@ tl2_surname: Coulter
 tl2_forenames: Thomas
 tl2_name_abbrev: T. Coulter
 tl2_dates: 1793-1846
-tl2_page_id: 33120690
+tl2_bhl_page_id: 33120690
 author_lsid: 1839-1
 wikidata_id: Q2029038
 ipni_surname: Coulter
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33120690) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1839-1), [Wikidata](https://www.wikidata.org/wiki/Q2029038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1839-1) LSID 1839-1, [Wikidata](https://www.wikidata.org/wiki/Q2029038) QID Q2029038
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Coulter, Thomas {std. Coult.} (Suppl.)|second entry]] for this author
 

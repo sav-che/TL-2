@@ -6,7 +6,7 @@ tl2_surname: Pope
 tl2_forenames: Willis Thomas
 tl2_name_abbrev: Pope
 tl2_dates: 1873-1961
-tl2_page_id: 33189808
+tl2_bhl_page_id: 33189808
 author_lsid: 7841-1
 wikidata_id: Q6167823
 ipni_surname: Pope
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7841-1), [Wikidata](https://www.wikidata.org/wiki/Q6167823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7841-1) LSID 7841-1, [Wikidata](https://www.wikidata.org/wiki/Q6167823) QID Q6167823
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

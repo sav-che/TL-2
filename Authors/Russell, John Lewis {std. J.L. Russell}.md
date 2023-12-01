@@ -6,7 +6,7 @@ tl2_surname: Russell
 tl2_forenames: John Lewis
 tl2_name_abbrev: J.L. Russell
 tl2_dates: 1808-1873
-tl2_page_id: 33190475
+tl2_bhl_page_id: 33190475
 author_lsid: 25913-1
 wikidata_id: Q4390386
 ipni_surname: Russell
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33190475) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25913-1), [Wikidata](https://www.wikidata.org/wiki/Q4390386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25913-1) LSID 25913-1, [Wikidata](https://www.wikidata.org/wiki/Q4390386) QID Q4390386
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

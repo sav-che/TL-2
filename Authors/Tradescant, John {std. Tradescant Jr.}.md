@@ -6,7 +6,7 @@ tl2_surname: Tradescant
 tl2_forenames: John
 tl2_name_abbrev: Tradescant Jr.
 tl2_dates: 1608-1662
-tl2_page_id: 33212469
+tl2_bhl_page_id: 33212469
 author_lsid: 10785-1
 wikidata_id: Q1701960
 ipni_surname: Tradescant
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33212469) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10785-1), [Wikidata](https://www.wikidata.org/wiki/Q1701960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10785-1) LSID 10785-1, [Wikidata](https://www.wikidata.org/wiki/Q1701960) QID Q1701960
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Buisson
 tl2_forenames: J. P.
 tl2_name_abbrev: Buisson
 tl2_dates: fl. 1779
-tl2_page_id: 33120532
+tl2_bhl_page_id: 33120532
 author_lsid: 1275-1
 wikidata_id: Q36587446
 ipni_surname: Buisson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33120532) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1275-1), [Wikidata](https://www.wikidata.org/wiki/Q36587446). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1275-1) LSID 1275-1, [Wikidata](https://www.wikidata.org/wiki/Q36587446) QID Q36587446
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

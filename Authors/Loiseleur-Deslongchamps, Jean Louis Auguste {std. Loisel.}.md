@@ -6,7 +6,7 @@ tl2_surname: Loiseleur-Deslongchamps
 tl2_forenames: Jean Louis Auguste
 tl2_name_abbrev: Loisel.
 tl2_dates: 1774-1849
-tl2_page_id: 33355234
+tl2_bhl_page_id: 33355234
 author_lsid: 12663-1
 wikidata_id: Q2624786
 ipni_surname: Loiseleur-Deslongchamps
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:45:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33355234) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12663-1), [Wikidata](https://www.wikidata.org/wiki/Q2624786). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12663-1) LSID 12663-1, [Wikidata](https://www.wikidata.org/wiki/Q2624786) QID Q2624786
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

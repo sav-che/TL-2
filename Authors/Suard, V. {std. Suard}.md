@@ -6,7 +6,7 @@ tl2_surname: Suard
 tl2_forenames: V.
 tl2_name_abbrev: Suard
 tl2_dates: fl. 1843
-tl2_page_id: 33212117
+tl2_bhl_page_id: 33212117
 author_lsid: 10263-1
 wikidata_id: Q36698778
 ipni_surname: Suard
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10263-1), [Wikidata](https://www.wikidata.org/wiki/Q36698778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10263-1) LSID 10263-1, [Wikidata](https://www.wikidata.org/wiki/Q36698778) QID Q36698778
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

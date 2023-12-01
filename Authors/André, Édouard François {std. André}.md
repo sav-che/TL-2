@@ -6,7 +6,7 @@ tl2_surname: André
 tl2_forenames: Édouard François
 tl2_name_abbrev: André
 tl2_dates: 1840-1911
-tl2_page_id: 33120179
+tl2_bhl_page_id: 33120179
 author_lsid: 207-1
 wikidata_id: Q274317
 ipni_surname: André
@@ -24,7 +24,8 @@ ipni_record_modified: 2007-11-26 09:03:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33120179) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/207-1), [Wikidata](https://www.wikidata.org/wiki/Q274317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/207-1) LSID 207-1, [Wikidata](https://www.wikidata.org/wiki/Q274317) QID Q274317
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[André, Édouard (François) {std. André} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Boulay
 tl2_forenames: Abbé Jean Nicolas
 tl2_name_abbrev: Boulay
 tl2_dates: 1837-1905
-tl2_page_id: 33120424
+tl2_bhl_page_id: 33120424
 author_lsid: 16398-1
 wikidata_id: Q3339971
 ipni_surname: Boulay
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33120424) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16398-1), [Wikidata](https://www.wikidata.org/wiki/Q3339971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16398-1) LSID 16398-1, [Wikidata](https://www.wikidata.org/wiki/Q3339971) QID Q3339971
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boulay, Nicolas-Jean {std. Boulay} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Miller
 tl2_forenames: John Frederick
 tl2_name_abbrev: J.F. Mill.
 tl2_dates: 1715-c. 1790
-tl2_page_id: 33355578
+tl2_bhl_page_id: 33355578
 author_lsid: 6480-1
 wikidata_id: Q2700645
 ipni_surname: Miller
@@ -23,7 +23,8 @@ ipni_record_modified: 2017-10-31 14:07:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33355578) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6480-1), [Wikidata](https://www.wikidata.org/wiki/Q2700645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6480-1) LSID 6480-1, [Wikidata](https://www.wikidata.org/wiki/Q2700645) QID Q2700645
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

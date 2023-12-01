@@ -6,7 +6,7 @@ tl2_surname: Nocca
 tl2_forenames: Domenico
 tl2_name_abbrev: Nocca
 tl2_dates: 1758-1841
-tl2_page_id: 33355844
+tl2_bhl_page_id: 33355844
 author_lsid: 24127-1
 wikidata_id: Q1107041
 ipni_surname: Nocca
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:43:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33355844) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24127-1), [Wikidata](https://www.wikidata.org/wiki/Q1107041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24127-1) LSID 24127-1, [Wikidata](https://www.wikidata.org/wiki/Q1107041) QID Q1107041
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

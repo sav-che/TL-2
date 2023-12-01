@@ -6,7 +6,7 @@ tl2_surname: Eiben
 tl2_forenames: C. E.
 tl2_name_abbrev: Eiben
 tl2_dates: fl. 1870
-tl2_page_id: 33120866
+tl2_bhl_page_id: 33120866
 author_lsid: 2486-1
 wikidata_id: Q36524221
 ipni_surname: Eiben
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33120866) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2486-1), [Wikidata](https://www.wikidata.org/wiki/Q36524221). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2486-1) LSID 2486-1, [Wikidata](https://www.wikidata.org/wiki/Q36524221) QID Q36524221
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

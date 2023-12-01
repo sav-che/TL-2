@@ -6,7 +6,7 @@ tl2_surname: Buddin
 tl2_forenames: Walter
 tl2_name_abbrev: Buddin
 tl2_dates: 1890-1962
-tl2_page_id: 33266512
+tl2_bhl_page_id: 33266512
 author_lsid: 16678-1
 wikidata_id: Q21506616
 ipni_surname: Buddin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16678-1), [Wikidata](https://www.wikidata.org/wiki/Q21506616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16678-1) LSID 16678-1, [Wikidata](https://www.wikidata.org/wiki/Q21506616) QID Q21506616
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

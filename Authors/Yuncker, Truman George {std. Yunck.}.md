@@ -6,7 +6,7 @@ tl2_surname: Yuncker
 tl2_forenames: Truman George
 tl2_name_abbrev: Yunck.
 tl2_dates: 1891-1964
-tl2_page_id: 33066835
+tl2_bhl_page_id: 33066835
 author_lsid: 11964-1
 wikidata_id: Q726241
 ipni_surname: Yuncker
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33066835) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11964-1), [Wikidata](https://www.wikidata.org/wiki/Q726241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11964-1) LSID 11964-1, [Wikidata](https://www.wikidata.org/wiki/Q726241) QID Q726241
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

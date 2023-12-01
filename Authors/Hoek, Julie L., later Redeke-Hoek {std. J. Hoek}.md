@@ -6,7 +6,7 @@ tl2_surname: Hoek, later Redeke-Hoek
 tl2_forenames: Julie L.
 tl2_name_abbrev: J. Hoek
 tl2_dates: fl. 1901
-tl2_page_id: 33068475
+tl2_bhl_page_id: 33068475
 author_lsid: 4003-1
 wikidata_id: Q36591762
 ipni_surname: Hoek
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4003-1), [Wikidata](https://www.wikidata.org/wiki/Q36591762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4003-1) LSID 4003-1, [Wikidata](https://www.wikidata.org/wiki/Q36591762) QID Q36591762
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

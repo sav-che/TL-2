@@ -6,7 +6,7 @@ tl2_surname: Hillebrand
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Hillebr.
 tl2_dates: 1821-1886
-tl2_page_id: 33068447
+tl2_bhl_page_id: 33068447
 author_lsid: 3948-1
 wikidata_id: Q77663
 ipni_surname: Hillebrand
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33068447) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3948-1), [Wikidata](https://www.wikidata.org/wiki/Q77663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3948-1) LSID 3948-1, [Wikidata](https://www.wikidata.org/wiki/Q77663) QID Q77663
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

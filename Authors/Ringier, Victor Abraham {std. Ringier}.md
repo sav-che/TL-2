@@ -6,7 +6,7 @@ tl2_surname: Ringier
 tl2_forenames: Victor Abraham
 tl2_name_abbrev: Ringier
 tl2_dates: fl. 1823
-tl2_page_id: 33190266
+tl2_bhl_page_id: 33190266
 author_lsid: 8401-1
 wikidata_id: Q36698139
 ipni_surname: Ringier
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8401-1), [Wikidata](https://www.wikidata.org/wiki/Q36698139). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8401-1) LSID 8401-1, [Wikidata](https://www.wikidata.org/wiki/Q36698139) QID Q36698139
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

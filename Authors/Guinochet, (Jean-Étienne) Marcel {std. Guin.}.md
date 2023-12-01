@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0333
 tl2_volume: suppl8
 tl2_page_printed: 460
 tl2_surname: Guinochet
-tl2_forenames: [Jean-Étienne] Marcel
+tl2_forenames: (Jean-Étienne) Marcel
 tl2_name_abbrev: Guin.
 tl2_dates: 1909-1997
-tl2_page_id: 33258938
+tl2_bhl_page_id: 33258938
 author_lsid: 3475-1
 wikidata_id: Q2880912
 ipni_surname: Guinochet
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33258938) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3475-1), [Wikidata](https://www.wikidata.org/wiki/Q2880912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3475-1) LSID 3475-1, [Wikidata](https://www.wikidata.org/wiki/Q2880912) QID Q2880912
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

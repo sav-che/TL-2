@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl3_0367
 tl2_volume: suppl3
 tl2_page_printed: 401
-tl2_surname: Cardoso [Junior]
-tl2_forenames: João [Antonio]
+tl2_surname: Cardoso (Junior)
+tl2_forenames: João (Antonio)
 tl2_name_abbrev: Cardoso Jr.
 tl2_dates: 1857-1937
-tl2_page_id: 33266708
+tl2_bhl_page_id: 33266708
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266708) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

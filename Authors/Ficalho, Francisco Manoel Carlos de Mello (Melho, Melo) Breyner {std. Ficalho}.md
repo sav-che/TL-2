@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0112
 tl2_volume: suppl7
 tl2_page_printed: 172
 tl2_surname: Ficalho
-tl2_forenames: Francisco Manoel Carlos de Mello [Melho, Melo] Breyner
+tl2_forenames: Francisco Manoel Carlos de Mello (Melho, Melo) Breyner
 tl2_name_abbrev: Ficalho
 tl2_dates: 1837-1903
-tl2_page_id: 33259676
+tl2_bhl_page_id: 33259676
 author_lsid: 2709-1
 wikidata_id: Q10284967
 ipni_surname: Ficalho
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259676) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2709-1), [Wikidata](https://www.wikidata.org/wiki/Q10284967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2709-1) LSID 2709-1, [Wikidata](https://www.wikidata.org/wiki/Q10284967) QID Q10284967
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Godron
 tl2_forenames: Dominique Alexandre
 tl2_name_abbrev: Godr.
 tl2_dates: 1807-1880
-tl2_page_id: 33121092
+tl2_bhl_page_id: 33121092
 author_lsid: 3218-1
 wikidata_id: Q975562
 ipni_surname: Godron
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33121092) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3218-1), [Wikidata](https://www.wikidata.org/wiki/Q975562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3218-1) LSID 3218-1, [Wikidata](https://www.wikidata.org/wiki/Q975562) QID Q975562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Godron, Dominique (Alexandre) {std. Godr.} (Suppl.)|second entry]] for this author
 

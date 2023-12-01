@@ -6,7 +6,7 @@ tl2_surname: Quartin-Dillon
 tl2_forenames: Richard
 tl2_name_abbrev: Quart.-Dill.
 tl2_dates: x-1841
-tl2_page_id: 33189923
+tl2_bhl_page_id: 33189923
 author_lsid: 8045-1
 wikidata_id: Q10361286
 ipni_surname: Quartin-Dillon
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8045-1), [Wikidata](https://www.wikidata.org/wiki/Q10361286). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8045-1) LSID 8045-1, [Wikidata](https://www.wikidata.org/wiki/Q10361286) QID Q10361286
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

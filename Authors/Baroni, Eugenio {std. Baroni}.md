@@ -6,7 +6,7 @@ tl2_surname: Baroni
 tl2_forenames: Eugenio
 tl2_name_abbrev: Baroni
 tl2_dates: 1865-1943
-tl2_page_id: 33120255
+tl2_bhl_page_id: 33120255
 author_lsid: 31345-1
 wikidata_id: Q5850435
 ipni_surname: Baroni
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33120255) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/31345-1), [Wikidata](https://www.wikidata.org/wiki/Q5850435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31345-1) LSID 31345-1, [Wikidata](https://www.wikidata.org/wiki/Q5850435) QID Q5850435
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baroni, Eugenio {std. Baroni} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Reuss
 tl2_forenames: Gustáv
 tl2_name_abbrev: G. Reuss
 tl2_dates: 1818-1861
-tl2_page_id: 33190212
+tl2_bhl_page_id: 33190212
 author_lsid: 8311-1
 wikidata_id: Q9001544
 ipni_surname: Reuss
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33190212) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8311-1), [Wikidata](https://www.wikidata.org/wiki/Q9001544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8311-1) LSID 8311-1, [Wikidata](https://www.wikidata.org/wiki/Q9001544) QID Q9001544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

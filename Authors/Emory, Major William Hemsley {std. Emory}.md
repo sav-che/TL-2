@@ -6,7 +6,7 @@ tl2_surname: Emory
 tl2_forenames: Major William Hemsley
 tl2_name_abbrev: Emory
 tl2_dates: 1811-1887
-tl2_page_id: 33120877
+tl2_bhl_page_id: 33120877
 author_lsid: 12425-1
 wikidata_id: Q780105
 ipni_surname: Emory
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33120877) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12425-1), [Wikidata](https://www.wikidata.org/wiki/Q780105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12425-1) LSID 12425-1, [Wikidata](https://www.wikidata.org/wiki/Q780105) QID Q780105
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

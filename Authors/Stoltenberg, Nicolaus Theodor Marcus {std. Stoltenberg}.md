@@ -6,7 +6,7 @@ tl2_surname: Stoltenberg
 tl2_forenames: Nicolaus Theodor Marcus
 tl2_name_abbrev: Stoltenberg
 tl2_dates: 1844-?
-tl2_page_id: 33212075
+tl2_bhl_page_id: 33212075
 author_lsid: 10173-1
 wikidata_id: Q21609889
 ipni_surname: Stoltenberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33212075) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10173-1), [Wikidata](https://www.wikidata.org/wiki/Q21609889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10173-1) LSID 10173-1, [Wikidata](https://www.wikidata.org/wiki/Q21609889) QID Q21609889
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

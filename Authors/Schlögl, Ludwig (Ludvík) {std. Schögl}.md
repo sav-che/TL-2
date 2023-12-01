@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0207
 tl2_volume: vol5
 tl2_page_printed: 224
 tl2_surname: Schlögl
-tl2_forenames: Ludwig [Ludvík]
+tl2_forenames: Ludwig (Ludvík)
 tl2_name_abbrev: Schögl
 tl2_dates: 1846-1899
-tl2_page_id: 33333363
+tl2_bhl_page_id: 33333363
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33333363) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

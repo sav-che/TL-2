@@ -6,7 +6,7 @@ tl2_surname: Kain
 tl2_forenames: Charles Henri
 tl2_name_abbrev: Kain
 tl2_dates: x-1913
-tl2_page_id: 33068727
+tl2_bhl_page_id: 33068727
 author_lsid: 4615-1
 wikidata_id: Q21517216
 ipni_surname: Kain
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4615-1), [Wikidata](https://www.wikidata.org/wiki/Q21517216). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4615-1) LSID 4615-1, [Wikidata](https://www.wikidata.org/wiki/Q21517216) QID Q21517216
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

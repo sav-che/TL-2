@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0378
 tl2_volume: vol6
 tl2_page_printed: 355
 tl2_surname: Tillandz (Til-landz)
-tl2_forenames: Elias Erici [orig. Tillander]
+tl2_forenames: Elias Erici (orig. Tillander)
 tl2_name_abbrev: Tillandz
 tl2_dates: 1640-1693
-tl2_page_id: 33212397
+tl2_bhl_page_id: 33212397
 author_lsid: 10670-1
 wikidata_id: Q557382
 ipni_surname: Tillandz
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33212397) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10670-1), [Wikidata](https://www.wikidata.org/wiki/Q557382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10670-1) LSID 10670-1, [Wikidata](https://www.wikidata.org/wiki/Q557382) QID Q557382
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

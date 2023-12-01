@@ -6,7 +6,7 @@ tl2_surname: Theorin
 tl2_forenames: Gustav Robert Alfons
 tl2_name_abbrev: G. Theorin
 tl2_dates: 1841-1881
-tl2_page_id: 33212288
+tl2_bhl_page_id: 33212288
 author_lsid: 10556-1
 wikidata_id: Q21610562
 ipni_surname: Theorin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33212288) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10556-1), [Wikidata](https://www.wikidata.org/wiki/Q21610562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10556-1) LSID 10556-1, [Wikidata](https://www.wikidata.org/wiki/Q21610562) QID Q21610562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

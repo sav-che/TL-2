@@ -6,7 +6,7 @@ tl2_surname: Boissier
 tl2_forenames: Pierre Edmond
 tl2_name_abbrev: Boiss.
 tl2_dates: 1810-1885
-tl2_page_id: 33120386
+tl2_bhl_page_id: 33120386
 author_lsid: 16284-1
 wikidata_id: Q34430
 ipni_surname: Boissier
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33120386) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16284-1), [Wikidata](https://www.wikidata.org/wiki/Q34430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16284-1) LSID 16284-1, [Wikidata](https://www.wikidata.org/wiki/Q34430) QID Q34430
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boissier, Pierre-Edmond {std. Boiss.} (Suppl.)|second entry]] for this author
 

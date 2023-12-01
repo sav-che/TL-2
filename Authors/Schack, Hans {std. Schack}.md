@@ -6,7 +6,7 @@ tl2_surname: Schack
 tl2_forenames: Hans
 tl2_name_abbrev: Schack
 tl2_dates: 1878-1946
-tl2_page_id: 33333240
+tl2_bhl_page_id: 33333240
 author_lsid: 9001-1
 wikidata_id: Q1583166
 ipni_surname: Schack
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33333240) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9001-1), [Wikidata](https://www.wikidata.org/wiki/Q1583166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9001-1) LSID 9001-1, [Wikidata](https://www.wikidata.org/wiki/Q1583166) QID Q1583166
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

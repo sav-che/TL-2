@@ -6,7 +6,7 @@ tl2_surname: Uline
 tl2_forenames: Edwin Burton
 tl2_name_abbrev: Uline
 tl2_dates: 1867-1933
-tl2_page_id: 33212624
+tl2_bhl_page_id: 33212624
 author_lsid: 10969-1
 wikidata_id: Q5820049
 ipni_surname: Uline
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33212624) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10969-1), [Wikidata](https://www.wikidata.org/wiki/Q5820049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10969-1) LSID 10969-1, [Wikidata](https://www.wikidata.org/wiki/Q5820049) QID Q5820049
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

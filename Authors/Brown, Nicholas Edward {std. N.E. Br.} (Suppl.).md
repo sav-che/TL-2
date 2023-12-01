@@ -6,7 +6,7 @@ tl2_surname: Brown
 tl2_forenames: Nicholas Edward
 tl2_name_abbrev: N.E. Br.
 tl2_dates: 1849-1934
-tl2_page_id: 33266443
+tl2_bhl_page_id: 33266443
 author_lsid: 1191-1
 wikidata_id: Q721850
 ipni_surname: Brown
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-12-09 09:26:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1191-1), [Wikidata](https://www.wikidata.org/wiki/Q721850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1191-1) LSID 1191-1, [Wikidata](https://www.wikidata.org/wiki/Q721850) QID Q721850
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brown, Nicholas Edward {std. N.E. Br.}|first entry]] for this author
 

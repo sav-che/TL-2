@@ -6,7 +6,7 @@ tl2_surname: Cowles
 tl2_forenames: Henry Chandler
 tl2_name_abbrev: Cowles
 tl2_dates: 1869-1939
-tl2_page_id: 33266113
+tl2_bhl_page_id: 33266113
 author_lsid: 20005053-2
 wikidata_id: Q324510
 ipni_surname: Cowles
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33266113) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/20005053-2), [Wikidata](https://www.wikidata.org/wiki/Q324510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20005053-2) LSID 20005053-2, [Wikidata](https://www.wikidata.org/wiki/Q324510) QID Q324510
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

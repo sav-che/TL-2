@@ -6,7 +6,7 @@ tl2_surname: Evans
 tl2_forenames: Alexander William
 tl2_name_abbrev: A. Evans
 tl2_dates: 1868-1959
-tl2_page_id: 33120937
+tl2_bhl_page_id: 33120937
 author_lsid: 2589-1
 wikidata_id: Q15627363
 ipni_surname: Evans
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2589-1), [Wikidata](https://www.wikidata.org/wiki/Q15627363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2589-1) LSID 2589-1, [Wikidata](https://www.wikidata.org/wiki/Q15627363) QID Q15627363
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Evans, Alexander William {std. A. Evans} (Suppl.)|second entry]] for this author
 

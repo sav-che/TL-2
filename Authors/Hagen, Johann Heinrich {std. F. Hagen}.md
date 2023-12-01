@@ -6,7 +6,7 @@ tl2_surname: Hagen
 tl2_forenames: Johann Heinrich
 tl2_name_abbrev: F. Hagen
 tl2_dates: 1738-1775
-tl2_page_id: 33068253
+tl2_bhl_page_id: 33068253
 author_lsid: 3545-1
 wikidata_id: Q21514487
 ipni_surname: Hagen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33068253) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3545-1), [Wikidata](https://www.wikidata.org/wiki/Q21514487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3545-1) LSID 3545-1, [Wikidata](https://www.wikidata.org/wiki/Q21514487) QID Q21514487
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

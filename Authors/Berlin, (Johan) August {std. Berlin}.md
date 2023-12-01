@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0120
 tl2_volume: suppl2
 tl2_page_printed: 104
 tl2_surname: Berlin
-tl2_forenames: [Johan] August
+tl2_forenames: (Johan) August
 tl2_name_abbrev: Berlin
 tl2_dates: 1851-1910
-tl2_page_id: 33265301
+tl2_bhl_page_id: 33265301
 author_lsid: 702-1
 wikidata_id: Q5932836
 ipni_surname: Berlin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265301) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/702-1), [Wikidata](https://www.wikidata.org/wiki/Q5932836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/702-1) LSID 702-1, [Wikidata](https://www.wikidata.org/wiki/Q5932836) QID Q5932836
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

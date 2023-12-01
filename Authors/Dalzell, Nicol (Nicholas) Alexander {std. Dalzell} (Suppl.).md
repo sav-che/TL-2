@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0041
 tl2_volume: suppl5
 tl2_page_printed: 33
 tl2_surname: Dalzell
-tl2_forenames: Nicol [Nicholas] Alexander
+tl2_forenames: Nicol (Nicholas) Alexander
 tl2_name_abbrev: Dalzell
 tl2_dates: 1817-1878
-tl2_page_id: 33259079
+tl2_bhl_page_id: 33259079
 author_lsid: 1968-1
 wikidata_id: Q4154159
 ipni_surname: Dalzell
@@ -26,7 +26,8 @@ ipni_record_modified: 2009-09-14 09:02:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33259079) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1968-1), [Wikidata](https://www.wikidata.org/wiki/Q4154159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1968-1) LSID 1968-1, [Wikidata](https://www.wikidata.org/wiki/Q4154159) QID Q4154159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dalzell, Nicol (Nicholas) Alexander {std. Dalzell}|first entry]] for this author
 

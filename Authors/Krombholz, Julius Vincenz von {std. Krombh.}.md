@@ -6,7 +6,7 @@ tl2_surname: Krombholz
 tl2_forenames: Julius Vincenz von
 tl2_name_abbrev: Krombh.
 tl2_dates: 1782-1843
-tl2_page_id: 33068920
+tl2_bhl_page_id: 33068920
 author_lsid: 5075-1
 wikidata_id: Q2506142
 ipni_surname: Krombholz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5075-1), [Wikidata](https://www.wikidata.org/wiki/Q2506142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5075-1) LSID 5075-1, [Wikidata](https://www.wikidata.org/wiki/Q2506142) QID Q2506142
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

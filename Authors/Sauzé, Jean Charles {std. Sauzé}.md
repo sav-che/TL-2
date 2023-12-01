@@ -6,7 +6,7 @@ tl2_surname: Sauzé
 tl2_forenames: Jean Charles
 tl2_name_abbrev: Sauzé
 tl2_dates: 1815-1889
-tl2_page_id: 33333220
+tl2_bhl_page_id: 33333220
 author_lsid: 8966-1
 wikidata_id: Q21607785
 ipni_surname: Sauzé
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33333220) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8966-1), [Wikidata](https://www.wikidata.org/wiki/Q21607785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8966-1) LSID 8966-1, [Wikidata](https://www.wikidata.org/wiki/Q21607785) QID Q21607785
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Burman
 tl2_forenames: Johannes
 tl2_name_abbrev: J. Burm.
 tl2_dates: 1707-1779
-tl2_page_id: 33120544
+tl2_bhl_page_id: 33120544
 author_lsid: 1307-1
 wikidata_id: Q957115
 ipni_surname: Burman
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33120544) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1307-1), [Wikidata](https://www.wikidata.org/wiki/Q957115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1307-1) LSID 1307-1, [Wikidata](https://www.wikidata.org/wiki/Q957115) QID Q957115
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

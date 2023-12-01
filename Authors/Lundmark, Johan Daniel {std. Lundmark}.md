@@ -6,7 +6,7 @@ tl2_surname: Lundmark
 tl2_forenames: Johan Daniel
 tl2_name_abbrev: Lundmark
 tl2_dates: 1755-1792
-tl2_page_id: 33355283
+tl2_bhl_page_id: 33355283
 author_lsid: 5844-1
 wikidata_id: Q16581881
 ipni_surname: Lundmark
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33355283) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5844-1), [Wikidata](https://www.wikidata.org/wiki/Q16581881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5844-1) LSID 5844-1, [Wikidata](https://www.wikidata.org/wiki/Q16581881) QID Q16581881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

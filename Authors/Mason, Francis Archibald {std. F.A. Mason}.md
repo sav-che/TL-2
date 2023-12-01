@@ -6,7 +6,7 @@ tl2_surname: Mason
 tl2_forenames: Francis Archibald
 tl2_name_abbrev: F. Mason
 tl2_dates: 1878-1936
-tl2_page_id: 33355436
+tl2_bhl_page_id: 33355436
 author_lsid: 6193-1
 wikidata_id: Q21520081
 ipni_surname: Mason
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6193-1), [Wikidata](https://www.wikidata.org/wiki/Q21520081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6193-1) LSID 6193-1, [Wikidata](https://www.wikidata.org/wiki/Q21520081) QID Q21520081
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

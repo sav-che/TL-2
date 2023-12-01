@@ -6,7 +6,7 @@ tl2_surname: Barratt
 tl2_forenames: Joseph
 tl2_name_abbrev: Barratt
 tl2_dates: 1796-1882
-tl2_page_id: 33265065
+tl2_bhl_page_id: 33265065
 author_lsid: 500-1
 wikidata_id: Q5936967
 ipni_surname: Barratt
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:28:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33265065) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/500-1), [Wikidata](https://www.wikidata.org/wiki/Q5936967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/500-1) LSID 500-1, [Wikidata](https://www.wikidata.org/wiki/Q5936967) QID Q5936967
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

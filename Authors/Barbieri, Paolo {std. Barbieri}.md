@@ -6,7 +6,7 @@ tl2_surname: Barbieri
 tl2_forenames: Paolo
 tl2_name_abbrev: Barbieri
 tl2_dates: 1789-1875
-tl2_page_id: 33265048
+tl2_bhl_page_id: 33265048
 author_lsid: 34859-1
 wikidata_id: Q21505649
 ipni_surname: Barbieri
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/34859-1), [Wikidata](https://www.wikidata.org/wiki/Q21505649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34859-1) LSID 34859-1, [Wikidata](https://www.wikidata.org/wiki/Q21505649) QID Q21505649
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

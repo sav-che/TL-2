@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0996
 tl2_volume: vol3
 tl2_page_printed: 841
 tl2_surname: Oppenheimer
-tl2_forenames: Hillel [Heinz] Reinhard
+tl2_forenames: Hillel (Heinz) Reinhard
 tl2_name_abbrev: Oppenheimer
 tl2_dates: 1900-x
-tl2_page_id: 33355928
+tl2_bhl_page_id: 33355928
 author_lsid: 7155-1
 wikidata_id: Q5762986
 ipni_surname: Oppenheimer
@@ -24,7 +24,8 @@ ipni_record_modified: 2005-06-22 10:59:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33355928) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7155-1), [Wikidata](https://www.wikidata.org/wiki/Q5762986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7155-1) LSID 7155-1, [Wikidata](https://www.wikidata.org/wiki/Q5762986) QID Q5762986
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

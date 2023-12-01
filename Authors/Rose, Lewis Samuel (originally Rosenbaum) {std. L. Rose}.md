@@ -6,7 +6,7 @@ tl2_surname: Rose
 tl2_forenames: Lewis Samuel (originally Rosenbaum)
 tl2_name_abbrev: L. Rose
 tl2_dates: 1893-1973
-tl2_page_id: 33190358
+tl2_bhl_page_id: 33190358
 author_lsid: 12789-1
 wikidata_id: Q21607408
 ipni_surname: Rose
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12789-1), [Wikidata](https://www.wikidata.org/wiki/Q21607408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12789-1) LSID 12789-1, [Wikidata](https://www.wikidata.org/wiki/Q21607408) QID Q21607408
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

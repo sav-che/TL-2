@@ -6,7 +6,7 @@ tl2_surname: Philippi
 tl2_forenames: Federico (baptized Friedrich Heinrich Eunom)
 tl2_name_abbrev: F. Philippi
 tl2_dates: 1838-1910
-tl2_page_id: 33189705
+tl2_bhl_page_id: 33189705
 author_lsid: 12734-1
 wikidata_id: Q55070761
 ipni_surname: Philippi
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12734-1), [Wikidata](https://www.wikidata.org/wiki/Q55070761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12734-1) LSID 12734-1, [Wikidata](https://www.wikidata.org/wiki/Q55070761) QID Q55070761
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Baskerville
 tl2_forenames: Thomas
 tl2_name_abbrev: Baskerville
 tl2_dates: 1812-1840
-tl2_page_id: 33265093
+tl2_bhl_page_id: 33265093
 author_lsid: 20008581-2
 wikidata_id: Q3990580
 ipni_surname: Baskerville
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33265093) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/20008581-2), [Wikidata](https://www.wikidata.org/wiki/Q3990580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20008581-2) LSID 20008581-2, [Wikidata](https://www.wikidata.org/wiki/Q3990580) QID Q3990580
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

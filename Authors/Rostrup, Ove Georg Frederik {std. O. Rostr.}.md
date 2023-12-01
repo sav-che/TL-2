@@ -6,7 +6,7 @@ tl2_surname: Rostrup
 tl2_forenames: Ove Georg Frederik
 tl2_name_abbrev: O. Rostr.
 tl2_dates: 1864-1933
-tl2_page_id: 33190386
+tl2_bhl_page_id: 33190386
 author_lsid: 25809-1
 wikidata_id: Q12330677
 ipni_surname: Rostrup
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33190386) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/25809-1), [Wikidata](https://www.wikidata.org/wiki/Q12330677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/25809-1) LSID 25809-1, [Wikidata](https://www.wikidata.org/wiki/Q12330677) QID Q12330677
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

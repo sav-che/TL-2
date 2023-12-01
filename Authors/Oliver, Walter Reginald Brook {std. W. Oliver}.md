@@ -6,7 +6,7 @@ tl2_surname: Oliver
 tl2_forenames: Walter Reginald Brook
 tl2_name_abbrev: W. Oliver
 tl2_dates: 1883-1957
-tl2_page_id: 33355916
+tl2_bhl_page_id: 33355916
 author_lsid: 7132-1
 wikidata_id: Q2033290
 ipni_surname: Oliver
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33355916) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7132-1), [Wikidata](https://www.wikidata.org/wiki/Q2033290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7132-1) LSID 7132-1, [Wikidata](https://www.wikidata.org/wiki/Q2033290) QID Q2033290
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

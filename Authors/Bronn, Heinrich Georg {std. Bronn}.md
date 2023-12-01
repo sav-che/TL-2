@@ -6,7 +6,7 @@ tl2_surname: Bronn
 tl2_forenames: Heinrich Georg
 tl2_name_abbrev: Bronn
 tl2_dates: 1800-1862
-tl2_page_id: 33120486
+tl2_bhl_page_id: 33120486
 author_lsid: 1173-1
 wikidata_id: Q64395
 ipni_surname: Bronn
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33120486) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1173-1), [Wikidata](https://www.wikidata.org/wiki/Q64395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1173-1) LSID 1173-1, [Wikidata](https://www.wikidata.org/wiki/Q64395) QID Q64395
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bronn, Heinrich Georg {std. Bronn} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Chaborski
 tl2_forenames: Gabriela
 tl2_name_abbrev: Chaborski
 tl2_dates: fl. 1918
-tl2_page_id: 33120611
+tl2_bhl_page_id: 33120611
 author_lsid: 1489-1
 wikidata_id: Q36560711
 ipni_surname: Chaborski
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33120611) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1489-1), [Wikidata](https://www.wikidata.org/wiki/Q36560711). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1489-1) LSID 1489-1, [Wikidata](https://www.wikidata.org/wiki/Q36560711) QID Q36560711
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

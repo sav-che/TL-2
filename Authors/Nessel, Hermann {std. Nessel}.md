@@ -6,7 +6,7 @@ tl2_surname: Nessel
 tl2_forenames: Hermann
 tl2_name_abbrev: Nessel
 tl2_dates: 1877-1949
-tl2_page_id: 33355814
+tl2_bhl_page_id: 33355814
 author_lsid: 6918-1
 wikidata_id: Q21522068
 ipni_surname: Nessel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6918-1), [Wikidata](https://www.wikidata.org/wiki/Q21522068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6918-1) LSID 6918-1, [Wikidata](https://www.wikidata.org/wiki/Q21522068) QID Q21522068
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

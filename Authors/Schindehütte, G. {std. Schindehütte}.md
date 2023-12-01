@@ -6,27 +6,30 @@ tl2_surname: Schindehütte
 tl2_forenames: G.
 tl2_name_abbrev: Schindehütte
 tl2_dates: fl. 1907
-tl2_page_id: 33333311
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33333311
+author_lsid: 9091-1
+wikidata_id: Q36568134
+ipni_surname: Schindehütte
+ipni_forenames: G.
+ipni_standard_form: Schindeh.
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Fossils
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33333311) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9091-1) LSID 9091-1, [Wikidata](https://www.wikidata.org/wiki/Q36568134) QID Q36568134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Schindehütte, G. (*fl*. 1907), German paleobotanist. 
-**Abbreviated name**: *Schindehütte*
+**Abbreviated name**: *Schindehütte* \[standard form in IPNI: *Schindeh.*\]
 
 #### Herbarium and types
 

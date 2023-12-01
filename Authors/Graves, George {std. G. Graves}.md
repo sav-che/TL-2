@@ -6,7 +6,7 @@ tl2_surname: Graves
 tl2_forenames: George
 tl2_name_abbrev: G. Graves
 tl2_dates: 1784-1839
-tl2_page_id: 33121113
+tl2_bhl_page_id: 33121113
 author_lsid: 3347-1
 wikidata_id: Q5539867
 ipni_surname: Graves
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 982](https://www.biodiversitylibrary.org/page/33121113) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3347-1), [Wikidata](https://www.wikidata.org/wiki/Q5539867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3347-1) LSID 3347-1, [Wikidata](https://www.wikidata.org/wiki/Q5539867) QID Q5539867
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Rietsch
 tl2_forenames: Maximilian
 tl2_name_abbrev: Rietsch
 tl2_dates: fl. 1882
-tl2_page_id: 33190261
+tl2_bhl_page_id: 33190261
 author_lsid: 35158-1
 wikidata_id: Q36634574
 ipni_surname: Rietsch
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/page/33190261) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/35158-1), [Wikidata](https://www.wikidata.org/wiki/Q36634574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35158-1) LSID 35158-1, [Wikidata](https://www.wikidata.org/wiki/Q36634574) QID Q36634574
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

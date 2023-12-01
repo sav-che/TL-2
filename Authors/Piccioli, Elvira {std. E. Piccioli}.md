@@ -6,7 +6,7 @@ tl2_surname: Piccioli
 tl2_forenames: Elvira
 tl2_name_abbrev: E. Piccioli
 tl2_dates: fl. 1932
-tl2_page_id: 33189719
+tl2_bhl_page_id: 33189719
 author_lsid: 24836-1
 wikidata_id: Q36548801
 ipni_surname: Piccioli
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33189719) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24836-1), [Wikidata](https://www.wikidata.org/wiki/Q36548801). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24836-1) LSID 24836-1, [Wikidata](https://www.wikidata.org/wiki/Q36548801) QID Q36548801
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

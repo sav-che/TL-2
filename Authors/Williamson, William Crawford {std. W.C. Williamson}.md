@@ -6,7 +6,7 @@ tl2_surname: Williamson
 tl2_forenames: William Crawford
 tl2_name_abbrev: W.C. Williamson
 tl2_dates: 1816-1895
-tl2_page_id: 33066668
+tl2_bhl_page_id: 33066668
 author_lsid: 11715-1
 wikidata_id: Q930185
 ipni_surname: Williamson
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33066668) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11715-1), [Wikidata](https://www.wikidata.org/wiki/Q930185). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11715-1) LSID 11715-1, [Wikidata](https://www.wikidata.org/wiki/Q930185) QID Q930185
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

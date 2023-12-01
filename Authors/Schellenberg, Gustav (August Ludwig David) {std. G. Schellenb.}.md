@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0137
 tl2_volume: vol5
 tl2_page_printed: 126
 tl2_surname: Schellenberg
-tl2_forenames: Gustav [August Ludwig David]
+tl2_forenames: Gustav (August Ludwig David)
 tl2_name_abbrev: G. Schellenb.
 tl2_dates: 1882-1963
-tl2_page_id: 33333265
+tl2_bhl_page_id: 33333265
 author_lsid: 9042-1
 wikidata_id: Q570881
 ipni_surname: Schellenberg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33333265) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9042-1), [Wikidata](https://www.wikidata.org/wiki/Q570881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9042-1) LSID 9042-1, [Wikidata](https://www.wikidata.org/wiki/Q570881) QID Q570881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

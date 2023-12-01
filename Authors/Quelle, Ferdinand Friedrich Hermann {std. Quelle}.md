@@ -6,7 +6,7 @@ tl2_surname: Quelle
 tl2_forenames: Ferdinand Friedrich Hermann
 tl2_name_abbrev: Quelle
 tl2_dates: 1876-1963
-tl2_page_id: 33189926
+tl2_bhl_page_id: 33189926
 author_lsid: 8050-1
 wikidata_id: Q21606804
 ipni_surname: Quelle
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33189926) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8050-1), [Wikidata](https://www.wikidata.org/wiki/Q21606804). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8050-1) LSID 8050-1, [Wikidata](https://www.wikidata.org/wiki/Q21606804) QID Q21606804
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

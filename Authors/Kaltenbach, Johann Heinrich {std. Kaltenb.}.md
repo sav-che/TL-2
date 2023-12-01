@@ -6,7 +6,7 @@ tl2_surname: Kaltenbach
 tl2_forenames: Johann Heinrich
 tl2_name_abbrev: Kaltenb.
 tl2_dates: 1807-1876
-tl2_page_id: 33068733
+tl2_bhl_page_id: 33068733
 author_lsid: 4623-1
 wikidata_id: Q95468
 ipni_surname: Kaltenbach
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33068733) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4623-1), [Wikidata](https://www.wikidata.org/wiki/Q95468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4623-1) LSID 4623-1, [Wikidata](https://www.wikidata.org/wiki/Q95468) QID Q95468
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Zollinger
 tl2_forenames: Heinrich
 tl2_name_abbrev: Zoll.
 tl2_dates: 1818-1859
-tl2_page_id: 33066890
+tl2_bhl_page_id: 33066890
 author_lsid: 12060-1
 wikidata_id: Q124330
 ipni_surname: Zollinger
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:52:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33066890) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12060-1), [Wikidata](https://www.wikidata.org/wiki/Q124330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12060-1) LSID 12060-1, [Wikidata](https://www.wikidata.org/wiki/Q124330) QID Q124330
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

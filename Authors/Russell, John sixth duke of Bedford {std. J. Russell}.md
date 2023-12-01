@@ -6,7 +6,7 @@ tl2_surname: Russell
 tl2_forenames: John sixth duke of Bedford
 tl2_name_abbrev: J. Russell
 tl2_dates: 1766-1839
-tl2_page_id: 33190474
+tl2_bhl_page_id: 33190474
 author_lsid: 8752-1
 wikidata_id: Q25690
 ipni_surname: Russell
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1003](https://www.biodiversitylibrary.org/page/33190474) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8752-1), [Wikidata](https://www.wikidata.org/wiki/Q25690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8752-1) LSID 8752-1, [Wikidata](https://www.wikidata.org/wiki/Q25690) QID Q25690
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

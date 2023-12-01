@@ -6,7 +6,7 @@ tl2_surname: Georgia
 tl2_forenames: Ada E.
 tl2_name_abbrev: Georgia
 tl2_dates: x-1921
-tl2_page_id: 33121063
+tl2_bhl_page_id: 33121063
 author_lsid: 3094-1
 wikidata_id: Q21513902
 ipni_surname: Georgia
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3094-1), [Wikidata](https://www.wikidata.org/wiki/Q21513902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3094-1) LSID 3094-1, [Wikidata](https://www.wikidata.org/wiki/Q21513902) QID Q21513902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Georgia, Ada Eljiva {std. Georgia} (Suppl.)|second entry]] for this author
 

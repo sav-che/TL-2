@@ -6,7 +6,7 @@ tl2_surname: Tamburlini
 tl2_forenames: Francesco
 tl2_name_abbrev: Tamburlini
 tl2_dates: 1859-?
-tl2_page_id: 33212198
+tl2_bhl_page_id: 33212198
 author_lsid: 10406-1
 wikidata_id: Q21610166
 ipni_surname: Tamburlini
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33212198) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10406-1), [Wikidata](https://www.wikidata.org/wiki/Q21610166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10406-1) LSID 10406-1, [Wikidata](https://www.wikidata.org/wiki/Q21610166) QID Q21610166
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

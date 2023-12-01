@@ -6,7 +6,7 @@ tl2_surname: Coventry
 tl2_forenames: Bernard Okes
 tl2_name_abbrev: Coventry
 tl2_dates: x-1929
-tl2_page_id: 33266106
+tl2_bhl_page_id: 33266106
 author_lsid: 1847-1
 wikidata_id: Q21509178
 ipni_surname: Coventry
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33266106) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1847-1), [Wikidata](https://www.wikidata.org/wiki/Q21509178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1847-1) LSID 1847-1, [Wikidata](https://www.wikidata.org/wiki/Q21509178) QID Q21509178
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

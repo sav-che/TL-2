@@ -6,7 +6,7 @@ tl2_surname: Lyons
 tl2_forenames: John Charles
 tl2_name_abbrev: J. Lyons
 tl2_dates: 1792-1874
-tl2_page_id: 33355292
+tl2_bhl_page_id: 33355292
 author_lsid: 5872-1
 wikidata_id: Q18731332
 ipni_surname: Lyons
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5872-1), [Wikidata](https://www.wikidata.org/wiki/Q18731332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5872-1) LSID 5872-1, [Wikidata](https://www.wikidata.org/wiki/Q18731332) QID Q18731332
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

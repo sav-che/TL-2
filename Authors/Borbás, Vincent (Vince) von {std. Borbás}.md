@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0363
 tl2_volume: vol1
 tl2_page_printed: 278
 tl2_surname: Borbás
-tl2_forenames: Vincent [Vince] von
+tl2_forenames: Vincent (Vince) von
 tl2_name_abbrev: Borbás
 tl2_dates: 1844-1905
-tl2_page_id: 33120409
+tl2_bhl_page_id: 33120409
 author_lsid: 977-1
 wikidata_id: Q584241
 ipni_surname: Borbás
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33120409) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/977-1), [Wikidata](https://www.wikidata.org/wiki/Q584241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/977-1) LSID 977-1, [Wikidata](https://www.wikidata.org/wiki/Q584241) QID Q584241
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Borbás, Vincent (Vince, Vincenz) von {std. Borbás} (Suppl.)|second entry]] for this author
 

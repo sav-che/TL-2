@@ -6,7 +6,7 @@ tl2_surname: Hegi
 tl2_forenames: Gustav
 tl2_name_abbrev: Hegi
 tl2_dates: 1876-1932
-tl2_page_id: 33068372
+tl2_bhl_page_id: 33068372
 author_lsid: 3781-1
 wikidata_id: Q116048
 ipni_surname: Hegi
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33068372) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3781-1), [Wikidata](https://www.wikidata.org/wiki/Q116048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3781-1) LSID 3781-1, [Wikidata](https://www.wikidata.org/wiki/Q116048) QID Q116048
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

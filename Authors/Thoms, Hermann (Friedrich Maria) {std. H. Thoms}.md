@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0330
 tl2_volume: vol6
 tl2_page_printed: 282
 tl2_surname: Thoms
-tl2_forenames: Hermann [Friedrich Maria]
+tl2_forenames: Hermann (Friedrich Maria)
 tl2_name_abbrev: H. Thoms
 tl2_dates: 1859-1931
-tl2_page_id: 33212324
+tl2_bhl_page_id: 33212324
 author_lsid: 10611-1
 wikidata_id: Q95604
 ipni_surname: Thoms
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33212324) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10611-1), [Wikidata](https://www.wikidata.org/wiki/Q95604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10611-1) LSID 10611-1, [Wikidata](https://www.wikidata.org/wiki/Q95604) QID Q95604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

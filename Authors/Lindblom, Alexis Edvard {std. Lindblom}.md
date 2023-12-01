@@ -6,7 +6,7 @@ tl2_surname: Lindblom
 tl2_forenames: Alexis Edvard
 tl2_name_abbrev: Lindblom
 tl2_dates: 1807-1853
-tl2_page_id: 33355088
+tl2_bhl_page_id: 33355088
 author_lsid: 5607-1
 wikidata_id: Q5954302
 ipni_surname: Lindblom
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33355088) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5607-1), [Wikidata](https://www.wikidata.org/wiki/Q5954302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5607-1) LSID 5607-1, [Wikidata](https://www.wikidata.org/wiki/Q5954302) QID Q5954302
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

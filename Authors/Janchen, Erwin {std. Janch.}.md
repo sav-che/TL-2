@@ -6,7 +6,7 @@ tl2_surname: Janchen
 tl2_forenames: Erwin
 tl2_name_abbrev: Janch.
 tl2_dates: 1882-1970
-tl2_page_id: 33068664
+tl2_bhl_page_id: 33068664
 author_lsid: 4417-1
 wikidata_id: Q88755
 ipni_surname: Janchen
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33068664) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4417-1), [Wikidata](https://www.wikidata.org/wiki/Q88755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4417-1) LSID 4417-1, [Wikidata](https://www.wikidata.org/wiki/Q88755) QID Q88755
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

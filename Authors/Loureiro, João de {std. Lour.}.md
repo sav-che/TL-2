@@ -6,7 +6,7 @@ tl2_surname: Loureiro
 tl2_forenames: João de
 tl2_name_abbrev: Lour.
 tl2_dates: 1717-1791
-tl2_page_id: 33355260
+tl2_bhl_page_id: 33355260
 author_lsid: 22557-1
 wikidata_id: Q729917
 ipni_surname: Loureiro
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:47:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22557-1), [Wikidata](https://www.wikidata.org/wiki/Q729917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22557-1) LSID 22557-1, [Wikidata](https://www.wikidata.org/wiki/Q729917) QID Q729917
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

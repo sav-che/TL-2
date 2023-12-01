@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0430
 tl2_volume: suppl1
 tl2_page_printed: 376
 tl2_surname: Batsch
-tl2_forenames: August Johann Georg Carl [Karl]
+tl2_forenames: August Johann Georg Carl (Karl)
 tl2_name_abbrev: Batsch
 tl2_dates: 1761-1802
-tl2_page_id: 33265103
+tl2_bhl_page_id: 33265103
 author_lsid: 15791-1
 wikidata_id: Q213687
 ipni_surname: Batsch
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265103) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/15791-1), [Wikidata](https://www.wikidata.org/wiki/Q213687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15791-1) LSID 15791-1, [Wikidata](https://www.wikidata.org/wiki/Q213687) QID Q213687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Batsch, August Johann Georg Carl {std. Batsch}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Rupin
 tl2_forenames: Ernest (Jean Baptiste)
 tl2_name_abbrev: Rupin
 tl2_dates: 1845-1909
-tl2_page_id: 33190461
+tl2_bhl_page_id: 33190461
 author_lsid: 12800-1
 wikidata_id: Q21607549
 ipni_surname: Rupin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 990](https://www.biodiversitylibrary.org/page/33190461) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12800-1), [Wikidata](https://www.wikidata.org/wiki/Q21607549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12800-1) LSID 12800-1, [Wikidata](https://www.wikidata.org/wiki/Q21607549) QID Q21607549
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

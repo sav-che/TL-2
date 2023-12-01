@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0917
 tl2_volume: vol4
 tl2_page_printed: 890
 tl2_surname: Rosenberg
-tl2_forenames: [Gustaf] Otto
+tl2_forenames: (Gustaf) Otto
 tl2_name_abbrev: O. Rosenberg
 tl2_dates: 1872-1948
-tl2_page_id: 33190361
+tl2_bhl_page_id: 33190361
 author_lsid: 8593-1
 wikidata_id: Q6079541
 ipni_surname: Rosenberg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/page/33190361) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8593-1), [Wikidata](https://www.wikidata.org/wiki/Q6079541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8593-1) LSID 8593-1, [Wikidata](https://www.wikidata.org/wiki/Q6079541) QID Q6079541
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

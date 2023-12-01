@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0269
 tl2_volume: vol6
 tl2_page_printed: 229
 tl2_surname: Teuscher
-tl2_forenames: Heinrich [Henry]
+tl2_forenames: Heinrich (Henry)
 tl2_name_abbrev: Teusch.
 tl2_dates: 1891-1984
-tl2_page_id: 33212271
+tl2_bhl_page_id: 33212271
 author_lsid: 10535-1
 wikidata_id: Q5729092
 ipni_surname: Teuscher
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33212271) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10535-1), [Wikidata](https://www.wikidata.org/wiki/Q5729092). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10535-1) LSID 10535-1, [Wikidata](https://www.wikidata.org/wiki/Q5729092) QID Q5729092
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

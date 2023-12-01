@@ -6,7 +6,7 @@ tl2_surname: Derx
 tl2_forenames: Henry George
 tl2_name_abbrev: Derx
 tl2_dates: 1898-1953
-tl2_page_id: 33259260
+tl2_bhl_page_id: 33259260
 author_lsid: 17948-1
 wikidata_id: Q36572024
 ipni_surname: Derx
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17948-1), [Wikidata](https://www.wikidata.org/wiki/Q36572024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17948-1) LSID 17948-1, [Wikidata](https://www.wikidata.org/wiki/Q36572024) QID Q36572024
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

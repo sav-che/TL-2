@@ -6,7 +6,7 @@ tl2_surname: Chirtoiu
 tl2_forenames: Marie
 tl2_name_abbrev: Chirtoiu
 tl2_dates: 1892-x
-tl2_page_id: 33265788
+tl2_bhl_page_id: 33265788
 author_lsid: 20012474-1
 wikidata_id: Q21508460
 ipni_surname: Chirtoiu
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/20012474-1), [Wikidata](https://www.wikidata.org/wiki/Q21508460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20012474-1) LSID 20012474-1, [Wikidata](https://www.wikidata.org/wiki/Q21508460) QID Q21508460
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

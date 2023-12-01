@@ -6,7 +6,7 @@ tl2_surname: Doncaster
 tl2_forenames: Leonard
 tl2_name_abbrev: Doncaster
 tl2_dates: fl. 1910
-tl2_page_id: 33260040
+tl2_bhl_page_id: 33260040
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33260040) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

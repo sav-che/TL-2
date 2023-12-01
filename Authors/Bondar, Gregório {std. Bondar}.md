@@ -6,7 +6,7 @@ tl2_surname: Bondar
 tl2_forenames: Gregório
 tl2_name_abbrev: Bondar
 tl2_dates: 1881-1959
-tl2_page_id: 33265507
+tl2_bhl_page_id: 33265507
 author_lsid: 16319-1
 wikidata_id: Q8965083
 ipni_surname: Bondar
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16319-1), [Wikidata](https://www.wikidata.org/wiki/Q8965083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16319-1) LSID 16319-1, [Wikidata](https://www.wikidata.org/wiki/Q8965083) QID Q8965083
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

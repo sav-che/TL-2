@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0696
 tl2_volume: vol1
 tl2_page_printed: 557
 tl2_surname: Cotta
-tl2_forenames: Carl Bernhard [von]
+tl2_forenames: Carl Bernhard (von)
 tl2_name_abbrev: Cotta
 tl2_dates: 1808-1879
-tl2_page_id: 33120688
+tl2_bhl_page_id: 33120688
 author_lsid: 13056-1
 wikidata_id: Q70211
 ipni_surname: Cotta
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33120688) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/13056-1), [Wikidata](https://www.wikidata.org/wiki/Q70211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13056-1) LSID 13056-1, [Wikidata](https://www.wikidata.org/wiki/Q70211) QID Q70211
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Forbes
 tl2_forenames: Edward
 tl2_name_abbrev: E. Forbes
 tl2_dates: 1815-1854
-tl2_page_id: 33259814
+tl2_bhl_page_id: 33259814
 author_lsid: 2812-1
 wikidata_id: Q1248394
 ipni_surname: Forbes
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33259814) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2812-1), [Wikidata](https://www.wikidata.org/wiki/Q1248394). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2812-1) LSID 2812-1, [Wikidata](https://www.wikidata.org/wiki/Q1248394) QID Q1248394
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Forbes, Edward {std. E. Forbes}|first entry]] for this author
 

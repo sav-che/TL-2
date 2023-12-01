@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0038
 tl2_volume: vol6
 tl2_page_printed: 28
 tl2_surname: Storm
-tl2_forenames: Vilhelm [Ferdinand Johan]
+tl2_forenames: Vilhelm (Ferdinand Johan)
 tl2_name_abbrev: Storm
 tl2_dates: 1835-1913
-tl2_page_id: 33212066
+tl2_bhl_page_id: 33212066
 author_lsid: 10188-1
 wikidata_id: Q19723432
 ipni_surname: Storm
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33212066) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10188-1), [Wikidata](https://www.wikidata.org/wiki/Q19723432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10188-1) LSID 10188-1, [Wikidata](https://www.wikidata.org/wiki/Q19723432) QID Q19723432
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

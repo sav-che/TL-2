@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol4_1012
 tl2_volume: vol4
 tl2_page_printed: 978
-tl2_surname: Rüppell [Rüppel]
-tl2_forenames: [Wilhelm Peter] Eduard [Simon]
+tl2_surname: Rüppell (Rüppel)
+tl2_forenames: (Wilhelm Peter) Eduard (Simon)
 tl2_name_abbrev: Rüppell
 tl2_dates: 1794-1884
-tl2_page_id: 33190449
+tl2_bhl_page_id: 33190449
 author_lsid: 12799-1
 wikidata_id: Q60542
 ipni_surname: Rüppell
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33190449) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12799-1), [Wikidata](https://www.wikidata.org/wiki/Q60542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12799-1) LSID 12799-1, [Wikidata](https://www.wikidata.org/wiki/Q60542) QID Q60542
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

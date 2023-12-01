@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0248
 tl2_volume: vol5
 tl2_page_printed: 262
 tl2_surname: Schmitz
-tl2_forenames: [Carl Johann] Friedrich
+tl2_forenames: (Carl Johann) Friedrich
 tl2_name_abbrev: F. Schmitz
 tl2_dates: 1850-1895
-tl2_page_id: 33333401
+tl2_bhl_page_id: 33333401
 author_lsid: 12834-1
 wikidata_id: Q100616
 ipni_surname: Schmitz
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33333401) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12834-1), [Wikidata](https://www.wikidata.org/wiki/Q100616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12834-1) LSID 12834-1, [Wikidata](https://www.wikidata.org/wiki/Q100616) QID Q100616
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Moruzi
 tl2_forenames: Constance
 tl2_name_abbrev: Moruzi
 tl2_dates: 1899-x
-tl2_page_id: 33355686
+tl2_bhl_page_id: 33355686
 author_lsid: 6690-1
 wikidata_id: Q21521768
 ipni_surname: Moruzi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6690-1), [Wikidata](https://www.wikidata.org/wiki/Q21521768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6690-1) LSID 6690-1, [Wikidata](https://www.wikidata.org/wiki/Q21521768) QID Q21521768
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dickson
 tl2_forenames: James Geere
 tl2_name_abbrev: J.G. Dicks.
 tl2_dates: 1891-1962
-tl2_page_id: 33259336
+tl2_bhl_page_id: 33259336
 author_lsid: 20002205-1
 wikidata_id: Q6134338
 ipni_surname: Dickson
@@ -23,7 +23,8 @@ ipni_record_modified: 2005-01-07 11:05:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33259336) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20002205-1), [Wikidata](https://www.wikidata.org/wiki/Q6134338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20002205-1) LSID 20002205-1, [Wikidata](https://www.wikidata.org/wiki/Q6134338) QID Q6134338
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

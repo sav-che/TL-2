@@ -6,7 +6,7 @@ tl2_surname: Douin
 tl2_forenames: Robert Charles Victor
 tl2_name_abbrev: R.C.V. Douin
 tl2_dates: 1892-x
-tl2_page_id: 33260063
+tl2_bhl_page_id: 33260063
 author_lsid: 18177-1
 wikidata_id: Q21510867
 ipni_surname: Douin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33260063) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18177-1), [Wikidata](https://www.wikidata.org/wiki/Q21510867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18177-1) LSID 18177-1, [Wikidata](https://www.wikidata.org/wiki/Q21510867) QID Q21510867
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

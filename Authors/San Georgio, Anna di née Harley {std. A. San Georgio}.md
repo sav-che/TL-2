@@ -6,7 +6,7 @@ tl2_surname: San Georgio
 tl2_forenames: Anna di née Harley
 tl2_name_abbrev: A. San Georgio
 tl2_dates: 1803-1874
-tl2_page_id: 33333137
+tl2_bhl_page_id: 33333137
 author_lsid: 12811-1
 wikidata_id: Q21607672
 ipni_surname: San Georgio
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33333137) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12811-1), [Wikidata](https://www.wikidata.org/wiki/Q21607672). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12811-1) LSID 12811-1, [Wikidata](https://www.wikidata.org/wiki/Q21607672) QID Q21607672
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Gerard
 tl2_forenames: John
 tl2_name_abbrev: J. Gerard
 tl2_dates: 1545-1612
-tl2_page_id: 33121064
+tl2_bhl_page_id: 33121064
 author_lsid: 13091-1
 wikidata_id: Q1333338
 ipni_surname: Gerard
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33121064) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/13091-1), [Wikidata](https://www.wikidata.org/wiki/Q1333338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13091-1) LSID 13091-1, [Wikidata](https://www.wikidata.org/wiki/Q1333338) QID Q1333338
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

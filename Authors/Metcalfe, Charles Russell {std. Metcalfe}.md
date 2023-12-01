@@ -6,7 +6,7 @@ tl2_surname: Metcalfe
 tl2_forenames: Charles Russell
 tl2_name_abbrev: Metcalfe
 tl2_dates: 1904-x
-tl2_page_id: 33355519
+tl2_bhl_page_id: 33355519
 author_lsid: 6390-1
 wikidata_id: Q19950341
 ipni_surname: Metcalfe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33355519) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6390-1), [Wikidata](https://www.wikidata.org/wiki/Q19950341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6390-1) LSID 6390-1, [Wikidata](https://www.wikidata.org/wiki/Q19950341) QID Q19950341
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

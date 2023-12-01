@@ -6,7 +6,7 @@ tl2_surname: Almquist
 tl2_forenames: Sigfrid Oskar Imanuel
 tl2_name_abbrev: S. Almq.
 tl2_dates: 1844-1923
-tl2_page_id: 33264811
+tl2_bhl_page_id: 33264811
 author_lsid: 30799-1
 wikidata_id: Q5547566
 ipni_surname: Almquist
@@ -25,7 +25,8 @@ ipni_record_modified: 2015-08-26 00:40:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33264811) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30799-1), [Wikidata](https://www.wikidata.org/wiki/Q5547566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30799-1) LSID 30799-1, [Wikidata](https://www.wikidata.org/wiki/Q5547566) QID Q5547566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Almquist, Sigfrid Oscar Immanuel {std. Almq.}|first entry]] for this author
 

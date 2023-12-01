@@ -6,7 +6,7 @@ tl2_surname: Rostovzev
 tl2_forenames: Semen Ivanovich
 tl2_name_abbrev: Rostovzev
 tl2_dates: ca. 1862-1916
-tl2_page_id: 33190383
+tl2_bhl_page_id: 33190383
 author_lsid: 8633-1
 wikidata_id: Q4398540
 ipni_surname: Rostovzev
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33190383) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8633-1), [Wikidata](https://www.wikidata.org/wiki/Q4398540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8633-1) LSID 8633-1, [Wikidata](https://www.wikidata.org/wiki/Q4398540) QID Q4398540
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

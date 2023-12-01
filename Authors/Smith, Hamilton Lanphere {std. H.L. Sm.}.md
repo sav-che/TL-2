@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: Hamilton Lanphere
 tl2_name_abbrev: H.L. Sm.
 tl2_dates: 1819-1903
-tl2_page_id: 33333813
+tl2_bhl_page_id: 33333813
 author_lsid: 9796-1
 wikidata_id: Q5645042
 ipni_surname: Smith
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33333813) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9796-1), [Wikidata](https://www.wikidata.org/wiki/Q5645042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9796-1) LSID 9796-1, [Wikidata](https://www.wikidata.org/wiki/Q5645042) QID Q5645042
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

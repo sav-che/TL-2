@@ -6,7 +6,7 @@ tl2_surname: Gombocz
 tl2_forenames: Endre A.
 tl2_name_abbrev: Gombocz
 tl2_dates: 1882-1945
-tl2_page_id: 33258764
+tl2_bhl_page_id: 33258764
 author_lsid: 3249-1
 wikidata_id: Q1011740
 ipni_surname: Gombócz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3249-1), [Wikidata](https://www.wikidata.org/wiki/Q1011740). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3249-1) LSID 3249-1, [Wikidata](https://www.wikidata.org/wiki/Q1011740) QID Q1011740
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol6_0255
 tl2_volume: vol6
 tl2_page_printed: 219
-tl2_surname: Teodoresco [Teodorescu]
-tl2_forenames: Emanoil [Emmanuel] Constantin
+tl2_surname: Teodoresco (Teodorescu)
+tl2_forenames: Emanoil (Emmanuel) Constantin
 tl2_name_abbrev: Teodor.
 tl2_dates: 1866-1949
-tl2_page_id: 33212261
+tl2_bhl_page_id: 33212261
 author_lsid: 10510-1
 wikidata_id: Q18548524
 ipni_surname: Teodoresco
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33212261) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10510-1), [Wikidata](https://www.wikidata.org/wiki/Q18548524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10510-1) LSID 10510-1, [Wikidata](https://www.wikidata.org/wiki/Q18548524) QID Q18548524
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

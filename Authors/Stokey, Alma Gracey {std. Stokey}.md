@@ -6,7 +6,7 @@ tl2_surname: Stokey
 tl2_forenames: Alma Gracey
 tl2_name_abbrev: Stokey
 tl2_dates: 1877-1968
-tl2_page_id: 33212077
+tl2_bhl_page_id: 33212077
 author_lsid: 10168-1
 wikidata_id: Q21609881
 ipni_surname: Stokey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33212077) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10168-1), [Wikidata](https://www.wikidata.org/wiki/Q21609881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10168-1) LSID 10168-1, [Wikidata](https://www.wikidata.org/wiki/Q21609881) QID Q21609881
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

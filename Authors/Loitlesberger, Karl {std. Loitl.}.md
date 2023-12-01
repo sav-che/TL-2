@@ -6,7 +6,7 @@ tl2_surname: Loitlesberger
 tl2_forenames: Karl
 tl2_name_abbrev: Loitl.
 tl2_dates: 1857-1943
-tl2_page_id: 33355237
+tl2_bhl_page_id: 33355237
 author_lsid: 22502-1
 wikidata_id: Q21519430
 ipni_surname: Loitlesberger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33355237) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22502-1), [Wikidata](https://www.wikidata.org/wiki/Q21519430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22502-1) LSID 22502-1, [Wikidata](https://www.wikidata.org/wiki/Q21519430) QID Q21519430
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

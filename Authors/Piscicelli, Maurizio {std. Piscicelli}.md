@@ -6,7 +6,7 @@ tl2_surname: Piscicelli
 tl2_forenames: Maurizio
 tl2_name_abbrev: Piscicelli
 tl2_dates: 1871-?
-tl2_page_id: 33189747
+tl2_bhl_page_id: 33189747
 author_lsid: 7728-1
 wikidata_id: Q21523033
 ipni_surname: Piscicelli
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7728-1), [Wikidata](https://www.wikidata.org/wiki/Q21523033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7728-1) LSID 7728-1, [Wikidata](https://www.wikidata.org/wiki/Q21523033) QID Q21523033
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

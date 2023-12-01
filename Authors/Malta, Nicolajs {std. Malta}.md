@@ -6,7 +6,7 @@ tl2_surname: Malta
 tl2_forenames: Nicolajs
 tl2_name_abbrev: Malta
 tl2_dates: 1890-1944
-tl2_page_id: 33355356
+tl2_bhl_page_id: 33355356
 author_lsid: 22828-1
 wikidata_id: Q4278489
 ipni_surname: Malta
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33355356) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22828-1), [Wikidata](https://www.wikidata.org/wiki/Q4278489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22828-1) LSID 22828-1, [Wikidata](https://www.wikidata.org/wiki/Q4278489) QID Q4278489
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

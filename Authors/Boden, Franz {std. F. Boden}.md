@@ -6,7 +6,7 @@ tl2_surname: Boden
 tl2_forenames: Franz
 tl2_name_abbrev: F. Boden
 tl2_dates: fl. 1899
-tl2_page_id: 33265440
+tl2_bhl_page_id: 33265440
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

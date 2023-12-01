@@ -6,7 +6,7 @@ tl2_surname: De Toni
 tl2_forenames: Giovanni Batista
 tl2_name_abbrev: De Toni
 tl2_dates: 1864-1924
-tl2_page_id: 33120768
+tl2_bhl_page_id: 33120768
 author_lsid: 17850-1
 wikidata_id: Q1628506
 ipni_surname: De Toni
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33120768) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17850-1), [Wikidata](https://www.wikidata.org/wiki/Q1628506). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17850-1) LSID 17850-1, [Wikidata](https://www.wikidata.org/wiki/Q1628506) QID Q1628506
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[De Toni, Giovanni Batista {std. De Toni} (Suppl.)|second entry]] for this author
 

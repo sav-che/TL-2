@@ -6,7 +6,7 @@ tl2_surname: Klement
 tl2_forenames: Oscar
 tl2_name_abbrev: Klem.
 tl2_dates: 1897-x
-tl2_page_id: 33068807
+tl2_bhl_page_id: 33068807
 author_lsid: 4841-1
 wikidata_id: Q21337455
 ipni_surname: Klement
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33068807) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4841-1), [Wikidata](https://www.wikidata.org/wiki/Q21337455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4841-1) LSID 4841-1, [Wikidata](https://www.wikidata.org/wiki/Q21337455) QID Q21337455
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

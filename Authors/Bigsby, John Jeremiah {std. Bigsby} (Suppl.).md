@@ -6,7 +6,7 @@ tl2_surname: Bigsby
 tl2_forenames: John Jeremiah
 tl2_name_abbrev: Bigsby
 tl2_dates: 1792-1881
-tl2_page_id: 33265361
+tl2_bhl_page_id: 33265361
 author_lsid: 785-1
 wikidata_id: Q4086441
 ipni_surname: Bigsby
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265361) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/785-1), [Wikidata](https://www.wikidata.org/wiki/Q4086441). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/785-1) LSID 785-1, [Wikidata](https://www.wikidata.org/wiki/Q4086441) QID Q4086441
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bigsby, John Jeremiah {std. Bigsby}|first entry]] for this author
 

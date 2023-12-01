@@ -6,7 +6,7 @@ tl2_surname: Aucher-Éloy
 tl2_forenames: Pierre Martin Rémi
 tl2_name_abbrev: Aucher
 tl2_dates: 1793-1838
-tl2_page_id: 33264934
+tl2_bhl_page_id: 33264934
 author_lsid: 330-1
 wikidata_id: Q351508
 ipni_surname: Aucher-Éloy
@@ -24,7 +24,8 @@ ipni_record_modified: 2017-03-29 14:41:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33264934) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/330-1), [Wikidata](https://www.wikidata.org/wiki/Q351508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/330-1) LSID 330-1, [Wikidata](https://www.wikidata.org/wiki/Q351508) QID Q351508
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Aucher-Éloy, Pierre Martin Rémi {std. Aucher}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Blake
 tl2_forenames: Sidney Fay
 tl2_name_abbrev: S.F. Blake
 tl2_dates: 1892-1959
-tl2_page_id: 33265387
+tl2_bhl_page_id: 33265387
 author_lsid: 16195-1
 wikidata_id: Q2332170
 ipni_surname: Blake
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265387) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16195-1), [Wikidata](https://www.wikidata.org/wiki/Q2332170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16195-1) LSID 16195-1, [Wikidata](https://www.wikidata.org/wiki/Q2332170) QID Q2332170
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Blake, Sidney Fay {std. S.F. Blake}|first entry]] for this author
 

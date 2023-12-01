@@ -6,7 +6,7 @@ tl2_surname: Lerche
 tl2_forenames: Johann Jakob
 tl2_name_abbrev: Lerche
 tl2_dates: 1703-1780
-tl2_page_id: 33069088
+tl2_bhl_page_id: 33069088
 author_lsid: 5493-1
 wikidata_id: Q21518696
 ipni_surname: Lerche
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5493-1), [Wikidata](https://www.wikidata.org/wiki/Q21518696). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5493-1) LSID 5493-1, [Wikidata](https://www.wikidata.org/wiki/Q21518696) QID Q21518696
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

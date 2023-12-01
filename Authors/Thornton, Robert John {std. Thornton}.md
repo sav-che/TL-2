@@ -6,7 +6,7 @@ tl2_surname: Thornton
 tl2_forenames: Robert John
 tl2_name_abbrev: Thornton
 tl2_dates: 1768(?)-1837
-tl2_page_id: 33212335
+tl2_bhl_page_id: 33212335
 author_lsid: 10631-1
 wikidata_id: Q5928444
 ipni_surname: Thornton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33212335) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10631-1), [Wikidata](https://www.wikidata.org/wiki/Q5928444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10631-1) LSID 10631-1, [Wikidata](https://www.wikidata.org/wiki/Q5928444) QID Q5928444
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

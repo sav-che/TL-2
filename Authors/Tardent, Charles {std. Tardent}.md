@@ -6,7 +6,7 @@ tl2_surname: Tardent
 tl2_forenames: Charles
 tl2_name_abbrev: Tardent
 tl2_dates: fl. 1841
-tl2_page_id: 33212207
+tl2_bhl_page_id: 33212207
 author_lsid: 10427-1
 wikidata_id: Q36531601
 ipni_surname: Tardent
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10427-1), [Wikidata](https://www.wikidata.org/wiki/Q36531601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10427-1) LSID 10427-1, [Wikidata](https://www.wikidata.org/wiki/Q36531601) QID Q36531601
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0765
 tl2_volume: vol2
 tl2_page_printed: 658
 tl2_surname: Krabbe
-tl2_forenames: Gustav [Heinrich]
+tl2_forenames: Gustav (Heinrich)
 tl2_name_abbrev: Krabbe
 tl2_dates: 1855-1895
-tl2_page_id: 33068900
+tl2_bhl_page_id: 33068900
 author_lsid: 35180-1
 wikidata_id: Q21517878
 ipni_surname: Krabbe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33068900) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/35180-1), [Wikidata](https://www.wikidata.org/wiki/Q21517878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35180-1) LSID 35180-1, [Wikidata](https://www.wikidata.org/wiki/Q21517878) QID Q21517878
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

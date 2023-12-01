@@ -6,7 +6,7 @@ tl2_surname: Heldmann
 tl2_forenames: C.
 tl2_name_abbrev: Heldmann
 tl2_dates: fl. 1837
-tl2_page_id: 33068384
+tl2_bhl_page_id: 33068384
 author_lsid: 3802-1
 wikidata_id: Q980331
 ipni_surname: Heldmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3802-1), [Wikidata](https://www.wikidata.org/wiki/Q980331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3802-1) LSID 3802-1, [Wikidata](https://www.wikidata.org/wiki/Q980331) QID Q980331
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

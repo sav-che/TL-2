@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0964
 tl2_volume: vol1
 tl2_page_printed: 799
 tl2_surname: Ernst
-tl2_forenames: Adolf [Adolfo]
+tl2_forenames: Adolf (Adolfo)
 tl2_name_abbrev: Ernst
 tl2_dates: 1832-1899
-tl2_page_id: 33120930
+tl2_bhl_page_id: 33120930
 author_lsid: 2563-1
 wikidata_id: Q3208542
 ipni_surname: Ernst
@@ -24,7 +24,8 @@ ipni_record_modified: 2010-09-13 08:23:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33120930) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2563-1), [Wikidata](https://www.wikidata.org/wiki/Q3208542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2563-1) LSID 2563-1, [Wikidata](https://www.wikidata.org/wiki/Q3208542) QID Q3208542
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ernst, Gustav Adolf (Adolfo) {std. Ernst} (Suppl.)|second entry]] for this author
 

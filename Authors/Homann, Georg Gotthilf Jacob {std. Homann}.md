@@ -6,7 +6,7 @@ tl2_surname: Homann
 tl2_forenames: Georg Gotthilf Jacob
 tl2_name_abbrev: Homann
 tl2_dates: fl. 1828-1835
-tl2_page_id: 33068507
+tl2_bhl_page_id: 33068507
 author_lsid: 4073-1
 wikidata_id: Q36563068
 ipni_surname: Homann
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33068507) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4073-1), [Wikidata](https://www.wikidata.org/wiki/Q36563068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4073-1) LSID 4073-1, [Wikidata](https://www.wikidata.org/wiki/Q36563068) QID Q36563068
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

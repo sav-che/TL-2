@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0148
 tl2_volume: vol1
 tl2_page_printed: 111
 tl2_surname: Balfour
-tl2_forenames: [Sir] Isaac Bayley
+tl2_forenames: (Sir) Isaac Bayley
 tl2_name_abbrev: I.B. Balf.
 tl2_dates: 1853-1922
-tl2_page_id: 33120242
+tl2_bhl_page_id: 33120242
 author_lsid: 423-1
 wikidata_id: Q670050
 ipni_surname: Balfour
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33120242) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/423-1), [Wikidata](https://www.wikidata.org/wiki/Q670050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/423-1) LSID 423-1, [Wikidata](https://www.wikidata.org/wiki/Q670050) QID Q670050
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Balfour, Isaac Bayley {std. I.B. Balf.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Neger
 tl2_forenames: Johannes
 tl2_name_abbrev: J. Neger
 tl2_dates: fl. 1871
-tl2_page_id: 33355804
+tl2_bhl_page_id: 33355804
 author_lsid: 6891-1
 wikidata_id: Q36595919
 ipni_surname: Neger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33355804) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6891-1), [Wikidata](https://www.wikidata.org/wiki/Q36595919). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6891-1) LSID 6891-1, [Wikidata](https://www.wikidata.org/wiki/Q36595919) QID Q36595919
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

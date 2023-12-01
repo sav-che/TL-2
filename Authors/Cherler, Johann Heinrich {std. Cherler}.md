@@ -6,7 +6,7 @@ tl2_surname: Cherler
 tl2_forenames: Johann Heinrich
 tl2_name_abbrev: Cherler
 tl2_dates: 1570-1610
-tl2_page_id: 33120623
+tl2_bhl_page_id: 33120623
 author_lsid: 34741-1
 wikidata_id: Q1694368
 ipni_surname: Cherler
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/34741-1), [Wikidata](https://www.wikidata.org/wiki/Q1694368). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34741-1) LSID 34741-1, [Wikidata](https://www.wikidata.org/wiki/Q1694368) QID Q1694368
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Fedchenko
 tl2_forenames: Aleksei Pavlovich
 tl2_name_abbrev: A. Fedch.
 tl2_dates: 1844-1873
-tl2_page_id: 33120947
+tl2_bhl_page_id: 33120947
 author_lsid: 2661-1
 wikidata_id: Q258817
 ipni_surname: Fedtschenko
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2661-1), [Wikidata](https://www.wikidata.org/wiki/Q258817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2661-1) LSID 2661-1, [Wikidata](https://www.wikidata.org/wiki/Q258817) QID Q258817
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

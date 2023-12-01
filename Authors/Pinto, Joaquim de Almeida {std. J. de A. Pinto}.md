@@ -6,7 +6,7 @@ tl2_surname: Pinto
 tl2_forenames: Joaquim de Almeida
 tl2_name_abbrev: J. de A. Pinto
 tl2_dates: x-1870
-tl2_page_id: 33189740
+tl2_bhl_page_id: 33189740
 author_lsid: 161-1
 wikidata_id: Q17198523
 ipni_surname: Almeida
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-01-03 13:52:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/161-1), [Wikidata](https://www.wikidata.org/wiki/Q17198523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/161-1) LSID 161-1, [Wikidata](https://www.wikidata.org/wiki/Q17198523) QID Q17198523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

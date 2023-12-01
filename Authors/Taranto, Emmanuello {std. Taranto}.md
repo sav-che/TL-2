@@ -6,7 +6,7 @@ tl2_surname: Taranto
 tl2_forenames: Emmanuello
 tl2_name_abbrev: Taranto
 tl2_dates: fl. 1845
-tl2_page_id: 33212207
+tl2_bhl_page_id: 33212207
 author_lsid: 10424-1
 wikidata_id: Q36550771
 ipni_surname: Taranto
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10424-1), [Wikidata](https://www.wikidata.org/wiki/Q36550771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10424-1) LSID 10424-1, [Wikidata](https://www.wikidata.org/wiki/Q36550771) QID Q36550771
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

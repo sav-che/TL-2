@@ -6,7 +6,7 @@ tl2_surname: Preuss
 tl2_forenames: Paul Rudolf
 tl2_name_abbrev: P. Preuss
 tl2_dates: 1861-?
-tl2_page_id: 33189868
+tl2_bhl_page_id: 33189868
 author_lsid: 13687-1
 wikidata_id: Q21388687
 ipni_surname: Preuss
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33189868) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/13687-1), [Wikidata](https://www.wikidata.org/wiki/Q21388687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13687-1) LSID 13687-1, [Wikidata](https://www.wikidata.org/wiki/Q21388687) QID Q21388687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

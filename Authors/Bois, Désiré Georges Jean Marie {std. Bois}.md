@@ -6,7 +6,7 @@ tl2_surname: Bois
 tl2_forenames: Désiré Georges Jean Marie
 tl2_name_abbrev: D. Bois
 tl2_dates: 1856-1946
-tl2_page_id: 33120385
+tl2_bhl_page_id: 33120385
 author_lsid: 911-1
 wikidata_id: Q3045181
 ipni_surname: Bois
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33120385) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/911-1), [Wikidata](https://www.wikidata.org/wiki/Q3045181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/911-1) LSID 911-1, [Wikidata](https://www.wikidata.org/wiki/Q3045181) QID Q3045181
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bois, Désiré (Georges Jean Marie) {std. Bois} (Suppl.)|second entry]] for this author
 

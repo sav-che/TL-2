@@ -6,7 +6,7 @@ tl2_surname: Marsh
 tl2_forenames: Charles Dwight
 tl2_name_abbrev: Marsh
 tl2_dates: 1855-1932
-tl2_page_id: 33355394
+tl2_bhl_page_id: 33355394
 author_lsid: 6132-1
 wikidata_id: Q2958991
 ipni_surname: Marsh
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33355394) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6132-1), [Wikidata](https://www.wikidata.org/wiki/Q2958991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6132-1) LSID 6132-1, [Wikidata](https://www.wikidata.org/wiki/Q2958991) QID Q2958991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

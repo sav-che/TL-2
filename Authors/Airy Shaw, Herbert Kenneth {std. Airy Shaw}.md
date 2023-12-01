@@ -6,7 +6,7 @@ tl2_surname: Airy Shaw
 tl2_forenames: Herbert Kenneth
 tl2_name_abbrev: Airy Shaw
 tl2_dates: 1902-1985
-tl2_page_id: 33264743
+tl2_bhl_page_id: 33264743
 author_lsid: 107-1
 wikidata_id: Q939981
 ipni_surname: Airy Shaw
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33264743) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/107-1), [Wikidata](https://www.wikidata.org/wiki/Q939981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/107-1) LSID 107-1, [Wikidata](https://www.wikidata.org/wiki/Q939981) QID Q939981
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

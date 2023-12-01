@@ -6,7 +6,7 @@ tl2_surname: Cheel
 tl2_forenames: Edwin
 tl2_name_abbrev: Cheel
 tl2_dates: 1872-1951
-tl2_page_id: 33265747
+tl2_bhl_page_id: 33265747
 author_lsid: 1562-1
 wikidata_id: Q2612815
 ipni_surname: Cheel
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33265747) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1562-1), [Wikidata](https://www.wikidata.org/wiki/Q2612815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1562-1) LSID 1562-1, [Wikidata](https://www.wikidata.org/wiki/Q2612815) QID Q2612815
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

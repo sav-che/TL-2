@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0875
 tl2_volume: vol4
 tl2_page_printed: 863
 tl2_surname: Rohlfs
-tl2_forenames: Gerhard [Friedrich]
+tl2_forenames: Gerhard (Friedrich)
 tl2_name_abbrev: Rohlfs
 tl2_dates: 1831-1896
-tl2_page_id: 33190334
+tl2_bhl_page_id: 33190334
 author_lsid: 8534-1
 wikidata_id: Q63209
 ipni_surname: Rohlfs
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33190334) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8534-1), [Wikidata](https://www.wikidata.org/wiki/Q63209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8534-1) LSID 8534-1, [Wikidata](https://www.wikidata.org/wiki/Q63209) QID Q63209
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

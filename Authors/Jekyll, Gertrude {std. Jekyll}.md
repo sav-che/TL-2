@@ -6,7 +6,7 @@ tl2_surname: Jekyll
 tl2_forenames: Gertrude
 tl2_name_abbrev: Jekyll
 tl2_dates: 1843-1932
-tl2_page_id: 33068676
+tl2_bhl_page_id: 33068676
 author_lsid: 4460-1
 wikidata_id: Q452354
 ipni_surname: Jekyll
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4460-1), [Wikidata](https://www.wikidata.org/wiki/Q452354). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4460-1) LSID 4460-1, [Wikidata](https://www.wikidata.org/wiki/Q452354) QID Q452354
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

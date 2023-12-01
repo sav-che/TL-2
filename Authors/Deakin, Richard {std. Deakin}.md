@@ -6,7 +6,7 @@ tl2_surname: Deakin
 tl2_forenames: Richard
 tl2_name_abbrev: Deakin
 tl2_dates: 1809-1873
-tl2_page_id: 33120734
+tl2_bhl_page_id: 33120734
 author_lsid: 17864-1
 wikidata_id: Q18984122
 ipni_surname: Deakin
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17864-1), [Wikidata](https://www.wikidata.org/wiki/Q18984122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17864-1) LSID 17864-1, [Wikidata](https://www.wikidata.org/wiki/Q18984122) QID Q18984122
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Deakin, Richard {std. Deakin} (Suppl.)|second entry]] for this author
 

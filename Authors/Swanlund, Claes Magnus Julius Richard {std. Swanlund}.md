@@ -6,7 +6,7 @@ tl2_surname: Swanlund
 tl2_forenames: Claes Magnus Julius Richard
 tl2_name_abbrev: Swanlund
 tl2_dates: 1875-1952
-tl2_page_id: 33212156
+tl2_bhl_page_id: 33212156
 author_lsid: 10335-1
 wikidata_id: Q21610093
 ipni_surname: Swanlund
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33212156) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10335-1), [Wikidata](https://www.wikidata.org/wiki/Q21610093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10335-1) LSID 10335-1, [Wikidata](https://www.wikidata.org/wiki/Q21610093) QID Q21610093
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

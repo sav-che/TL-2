@@ -6,7 +6,7 @@ tl2_surname: Niethammer
 tl2_forenames: Anneliese
 tl2_name_abbrev: Niethammer
 tl2_dates: 1901-x
-tl2_page_id: 33355839
+tl2_bhl_page_id: 33355839
 author_lsid: 6982-1
 wikidata_id: Q566171
 ipni_surname: Niethammer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33355839) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6982-1), [Wikidata](https://www.wikidata.org/wiki/Q566171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6982-1) LSID 6982-1, [Wikidata](https://www.wikidata.org/wiki/Q566171) QID Q566171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

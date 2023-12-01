@@ -6,7 +6,7 @@ tl2_surname: Dietel
 tl2_forenames: Paul
 tl2_name_abbrev: Dietel
 tl2_dates: 1860-1947
-tl2_page_id: 33259367
+tl2_bhl_page_id: 33259367
 author_lsid: 18034-1
 wikidata_id: Q6067159
 ipni_surname: Dietel
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259367) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18034-1), [Wikidata](https://www.wikidata.org/wiki/Q6067159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18034-1) LSID 18034-1, [Wikidata](https://www.wikidata.org/wiki/Q6067159) QID Q6067159
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dietel, Paul {std. Dietel}|first entry]] for this author
 

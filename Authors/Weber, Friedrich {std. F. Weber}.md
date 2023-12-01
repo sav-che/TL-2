@@ -6,7 +6,7 @@ tl2_surname: Weber
 tl2_forenames: Friedrich
 tl2_name_abbrev: F. Weber
 tl2_dates: 1781-1823
-tl2_page_id: 33066466
+tl2_bhl_page_id: 33066466
 author_lsid: 11463-1
 wikidata_id: Q2586034
 ipni_surname: Weber
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:26:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33066466) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11463-1), [Wikidata](https://www.wikidata.org/wiki/Q2586034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11463-1) LSID 11463-1, [Wikidata](https://www.wikidata.org/wiki/Q2586034) QID Q2586034
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Davie
 tl2_forenames: Robert Chapman
 tl2_name_abbrev: Davie
 tl2_dates: 1887-1919
-tl2_page_id: 33259144
+tl2_bhl_page_id: 33259144
 author_lsid: 20045466-1
 wikidata_id: Q106889647
 ipni_surname: Davie
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259144) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20045466-1), [Wikidata](https://www.wikidata.org/wiki/Q106889647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20045466-1) LSID 20045466-1, [Wikidata](https://www.wikidata.org/wiki/Q106889647) QID Q106889647
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Burrill
 tl2_forenames: Thomas Jonathan
 tl2_name_abbrev: Burrill
 tl2_dates: 1839-1916
-tl2_page_id: 33266574
+tl2_bhl_page_id: 33266574
 author_lsid: 16748-1
 wikidata_id: Q626705
 ipni_surname: Burrill
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33266574) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16748-1), [Wikidata](https://www.wikidata.org/wiki/Q626705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16748-1) LSID 16748-1, [Wikidata](https://www.wikidata.org/wiki/Q626705) QID Q626705
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

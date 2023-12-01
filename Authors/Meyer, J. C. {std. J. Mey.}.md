@@ -6,7 +6,7 @@ tl2_surname: Meyer
 tl2_forenames: J. C.
 tl2_name_abbrev: J. Mey.
 tl2_dates: fl. 1854
-tl2_page_id: 33355537
+tl2_bhl_page_id: 33355537
 author_lsid: 6416-1
 wikidata_id: Q47122544
 ipni_surname: Meyer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6416-1), [Wikidata](https://www.wikidata.org/wiki/Q47122544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6416-1) LSID 6416-1, [Wikidata](https://www.wikidata.org/wiki/Q47122544) QID Q47122544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Oettel
 tl2_forenames: Karl Christian
 tl2_name_abbrev: Oettel
 tl2_dates: 1742-1819
-tl2_page_id: 33355900
+tl2_bhl_page_id: 33355900
 author_lsid: 7095-1
 wikidata_id: Q21522329
 ipni_surname: Oettel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7095-1), [Wikidata](https://www.wikidata.org/wiki/Q21522329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7095-1) LSID 7095-1, [Wikidata](https://www.wikidata.org/wiki/Q21522329) QID Q21522329
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

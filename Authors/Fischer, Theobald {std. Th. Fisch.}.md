@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Theobald
 tl2_name_abbrev: Th. Fisch.
 tl2_dates: 1846-1910
-tl2_page_id: 33259721
+tl2_bhl_page_id: 33259721
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33259721) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

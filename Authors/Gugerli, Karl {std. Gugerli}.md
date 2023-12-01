@@ -6,7 +6,7 @@ tl2_surname: Gugerli
 tl2_forenames: Karl
 tl2_name_abbrev: Gugerli
 tl2_dates: 1910-x
-tl2_page_id: 33258922
+tl2_bhl_page_id: 33258922
 author_lsid: 3456-1
 wikidata_id: Q18985155
 ipni_surname: Gugerli
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33258922) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3456-1), [Wikidata](https://www.wikidata.org/wiki/Q18985155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3456-1) LSID 3456-1, [Wikidata](https://www.wikidata.org/wiki/Q18985155) QID Q18985155
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Viborg
 tl2_forenames: Erik
 tl2_name_abbrev: Viborg
 tl2_dates: 1759-1822
-tl2_page_id: 33212765
+tl2_bhl_page_id: 33212765
 author_lsid: 11158-1
 wikidata_id: Q353390
 ipni_surname: Viborg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33212765) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11158-1), [Wikidata](https://www.wikidata.org/wiki/Q353390). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11158-1) LSID 11158-1, [Wikidata](https://www.wikidata.org/wiki/Q353390) QID Q353390
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

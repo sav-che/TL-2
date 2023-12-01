@@ -6,7 +6,7 @@ tl2_surname: Bicknell
 tl2_forenames: Eugene Pintard
 tl2_name_abbrev: E.P. Bicknell
 tl2_dates: 1859-1925
-tl2_page_id: 33120343
+tl2_bhl_page_id: 33120343
 author_lsid: 773-1
 wikidata_id: Q5407654
 ipni_surname: Bicknell
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33120343) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/773-1), [Wikidata](https://www.wikidata.org/wiki/Q5407654). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/773-1) LSID 773-1, [Wikidata](https://www.wikidata.org/wiki/Q5407654) QID Q5407654
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bicknell, Eugene Pintard {std. E.P. Bicknell} (Suppl.)|second entry]] for this author
 

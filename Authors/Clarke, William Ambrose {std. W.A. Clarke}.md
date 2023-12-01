@@ -6,7 +6,7 @@ tl2_surname: Clarke
 tl2_forenames: William Ambrose
 tl2_name_abbrev: W.A. Clarke
 tl2_dates: 1841-1911
-tl2_page_id: 33265864
+tl2_bhl_page_id: 33265864
 author_lsid: 20012695-2
 wikidata_id: Q21508691
 ipni_surname: Clarke
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33265864) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/20012695-2), [Wikidata](https://www.wikidata.org/wiki/Q21508691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20012695-2) LSID 20012695-2, [Wikidata](https://www.wikidata.org/wiki/Q21508691) QID Q21508691
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

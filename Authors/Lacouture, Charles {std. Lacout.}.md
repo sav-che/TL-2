@@ -6,7 +6,7 @@ tl2_surname: Lacouture
 tl2_forenames: Charles
 tl2_name_abbrev: Lacout.
 tl2_dates: 1832-1908
-tl2_page_id: 33068959
+tl2_bhl_page_id: 33068959
 author_lsid: 21947-1
 wikidata_id: Q21518279
 ipni_surname: Lacouture
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/21947-1), [Wikidata](https://www.wikidata.org/wiki/Q21518279). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/21947-1) LSID 21947-1, [Wikidata](https://www.wikidata.org/wiki/Q21518279) QID Q21518279
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Tollard
 tl2_forenames: Claude
 tl2_name_abbrev: Tollard
 tl2_dates: fl. 1805
-tl2_page_id: 33212427
+tl2_bhl_page_id: 33212427
 author_lsid: 10718-1
 wikidata_id: Q47127493
 ipni_surname: Tollard
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10718-1), [Wikidata](https://www.wikidata.org/wiki/Q47127493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10718-1) LSID 10718-1, [Wikidata](https://www.wikidata.org/wiki/Q47127493) QID Q47127493
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

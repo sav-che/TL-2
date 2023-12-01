@@ -6,7 +6,7 @@ tl2_surname: Colladon
 tl2_forenames: Louis Théodore Frédéric
 tl2_name_abbrev: Collad.
 tl2_dates: 1792-1862
-tl2_page_id: 33120656
+tl2_bhl_page_id: 33120656
 author_lsid: 1739-1
 wikidata_id: Q5981500
 ipni_surname: Colladon
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33120656) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1739-1), [Wikidata](https://www.wikidata.org/wiki/Q5981500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1739-1) LSID 1739-1, [Wikidata](https://www.wikidata.org/wiki/Q5981500) QID Q5981500
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

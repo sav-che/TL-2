@@ -6,7 +6,7 @@ tl2_surname: Voümann
 tl2_forenames: Franz
 tl2_name_abbrev: Vollmann
 tl2_dates: 1858-1917
-tl2_page_id: 33212823
+tl2_bhl_page_id: 33212823
 author_lsid: 11257-1
 wikidata_id: Q5868701
 ipni_surname: Vollmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33212823) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11257-1), [Wikidata](https://www.wikidata.org/wiki/Q5868701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11257-1) LSID 11257-1, [Wikidata](https://www.wikidata.org/wiki/Q5868701) QID Q5868701
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

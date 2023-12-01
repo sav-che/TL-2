@@ -6,7 +6,7 @@ tl2_surname: Knebel
 tl2_forenames: Gottfried
 tl2_name_abbrev: Knebel
 tl2_dates: 1908-x
-tl2_page_id: 33068816
+tl2_bhl_page_id: 33068816
 author_lsid: 4865-1
 wikidata_id: Q11923755
 ipni_surname: Knebel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4865-1), [Wikidata](https://www.wikidata.org/wiki/Q11923755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4865-1) LSID 4865-1, [Wikidata](https://www.wikidata.org/wiki/Q11923755) QID Q11923755
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

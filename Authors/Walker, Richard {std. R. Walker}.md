@@ -6,7 +6,7 @@ tl2_surname: Walker
 tl2_forenames: Richard
 tl2_name_abbrev: R. Walker
 tl2_dates: 1791-1870
-tl2_page_id: 33066372
+tl2_bhl_page_id: 33066372
 author_lsid: 11339-1
 wikidata_id: Q21612046
 ipni_surname: Walker
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33066372) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11339-1), [Wikidata](https://www.wikidata.org/wiki/Q21612046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11339-1) LSID 11339-1, [Wikidata](https://www.wikidata.org/wiki/Q21612046) QID Q21612046
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Daines
 tl2_forenames: Lyman Luther
 tl2_name_abbrev: Daines
 tl2_dates: fl. 1912-1913
-tl2_page_id: 33259068
+tl2_bhl_page_id: 33259068
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259068) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0271
 tl2_volume: vol6
 tl2_page_printed: 230
 tl2_surname: Thaer
-tl2_forenames: [Konrad Wilhelm] Albrecht
+tl2_forenames: (Konrad Wilhelm) Albrecht
 tl2_name_abbrev: Thaer
 tl2_dates: 1828-1906
-tl2_page_id: 33212272
+tl2_bhl_page_id: 33212272
 author_lsid: 12924-1
 wikidata_id: Q1290187
 ipni_surname: Thaer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12924-1), [Wikidata](https://www.wikidata.org/wiki/Q1290187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12924-1) LSID 12924-1, [Wikidata](https://www.wikidata.org/wiki/Q1290187) QID Q1290187
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

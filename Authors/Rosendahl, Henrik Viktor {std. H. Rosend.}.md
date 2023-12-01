@@ -6,7 +6,7 @@ tl2_surname: Rosendahl
 tl2_forenames: Henrik Viktor
 tl2_name_abbrev: H. Rosend.
 tl2_dates: 1855-1918
-tl2_page_id: 33190364
+tl2_bhl_page_id: 33190364
 author_lsid: 8597-1
 wikidata_id: Q6079687
 ipni_surname: Rosendahl
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8597-1), [Wikidata](https://www.wikidata.org/wiki/Q6079687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8597-1) LSID 8597-1, [Wikidata](https://www.wikidata.org/wiki/Q6079687) QID Q6079687
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

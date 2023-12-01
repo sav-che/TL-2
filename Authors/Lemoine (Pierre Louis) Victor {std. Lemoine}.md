@@ -6,7 +6,7 @@ tl2_surname: Lemoine (Pierre Louis) Victor
 tl2_forenames: Lemoine (Pierre Louis) Victor
 tl2_name_abbrev: Lemoine
 tl2_dates: 1823-1911
-tl2_page_id: 33069083
+tl2_bhl_page_id: 33069083
 author_lsid: 5468-1
 wikidata_id: Q1974313
 ipni_surname: Lemoine
@@ -24,7 +24,8 @@ ipni_record_modified: 2012-01-04 07:42:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33069083) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5468-1), [Wikidata](https://www.wikidata.org/wiki/Q1974313). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5468-1) LSID 5468-1, [Wikidata](https://www.wikidata.org/wiki/Q1974313) QID Q1974313
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

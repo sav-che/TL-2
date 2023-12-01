@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0889
 tl2_volume: vol3
 tl2_page_printed: 753
 tl2_surname: Nieuwland
-tl2_forenames: Julius [Aloysius] Arthur, C. S. C.
+tl2_forenames: Julius (Aloysius) Arthur, C. S. C.
 tl2_name_abbrev: Nieuwl.
 tl2_dates: 1878-1936
-tl2_page_id: 33355840
+tl2_bhl_page_id: 33355840
 author_lsid: 6983-1
 wikidata_id: Q88145
 ipni_surname: Nieuwland
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:52:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33355840) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6983-1), [Wikidata](https://www.wikidata.org/wiki/Q88145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6983-1) LSID 6983-1, [Wikidata](https://www.wikidata.org/wiki/Q88145) QID Q88145
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

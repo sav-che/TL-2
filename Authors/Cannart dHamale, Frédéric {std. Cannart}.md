@@ -6,7 +6,7 @@ tl2_surname: Cannart d'Hamale
 tl2_forenames: Frédéric
 tl2_name_abbrev: Cannart
 tl2_dates: 1804-1888
-tl2_page_id: 33120584
+tl2_bhl_page_id: 33120584
 author_lsid: 1385-1
 wikidata_id: Q21506930
 ipni_surname: Cannart d'Hamale
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1385-1), [Wikidata](https://www.wikidata.org/wiki/Q21506930). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1385-1) LSID 1385-1, [Wikidata](https://www.wikidata.org/wiki/Q21506930) QID Q21506930
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

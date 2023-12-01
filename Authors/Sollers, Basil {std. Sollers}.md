@@ -6,7 +6,7 @@ tl2_surname: Sollers
 tl2_forenames: Basil
 tl2_name_abbrev: Sollers
 tl2_dates: 1853-1909
-tl2_page_id: 33333867
+tl2_bhl_page_id: 33333867
 author_lsid: 9878-1
 wikidata_id: Q21609191
 ipni_surname: Sollers
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33333867) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9878-1), [Wikidata](https://www.wikidata.org/wiki/Q21609191). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9878-1) LSID 9878-1, [Wikidata](https://www.wikidata.org/wiki/Q21609191) QID Q21609191
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

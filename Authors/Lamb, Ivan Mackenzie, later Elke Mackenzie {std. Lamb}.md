@@ -6,7 +6,7 @@ tl2_surname: Lamb
 tl2_forenames: Ivan Mackenzie, later Elke Mackenzie
 tl2_name_abbrev: Lamb
 tl2_dates: 1911-x
-tl2_page_id: 33068977
+tl2_bhl_page_id: 33068977
 author_lsid: 5230-1
 wikidata_id: Q16003604
 ipni_surname: Lamb
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33068977) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5230-1), [Wikidata](https://www.wikidata.org/wiki/Q16003604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5230-1) LSID 5230-1, [Wikidata](https://www.wikidata.org/wiki/Q16003604) QID Q16003604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

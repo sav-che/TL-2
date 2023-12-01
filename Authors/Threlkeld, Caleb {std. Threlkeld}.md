@@ -6,7 +6,7 @@ tl2_surname: Threlkeld
 tl2_forenames: Caleb
 tl2_name_abbrev: Threlkeld
 tl2_dates: 1676-1728
-tl2_page_id: 33212342
+tl2_bhl_page_id: 33212342
 author_lsid: 10642-1
 wikidata_id: Q621821
 ipni_surname: Threlkeld
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33212342) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10642-1), [Wikidata](https://www.wikidata.org/wiki/Q621821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10642-1) LSID 10642-1, [Wikidata](https://www.wikidata.org/wiki/Q621821) QID Q621821
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

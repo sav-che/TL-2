@@ -6,7 +6,7 @@ tl2_surname: Rückert
 tl2_forenames: Ernst Ferdinand
 tl2_name_abbrev: Rückert
 tl2_dates: 1794-1843
-tl2_page_id: 33190447
+tl2_bhl_page_id: 33190447
 author_lsid: 8719-1
 wikidata_id: Q21607513
 ipni_surname: Rückert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8719-1), [Wikidata](https://www.wikidata.org/wiki/Q21607513). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8719-1) LSID 8719-1, [Wikidata](https://www.wikidata.org/wiki/Q21607513) QID Q21607513
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

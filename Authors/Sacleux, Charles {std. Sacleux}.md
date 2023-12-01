@@ -6,7 +6,7 @@ tl2_surname: Sacleux
 tl2_forenames: Charles
 tl2_name_abbrev: Sacleux
 tl2_dates: 1856-1943
-tl2_page_id: 33190515
+tl2_bhl_page_id: 33190515
 author_lsid: 8793-1
 wikidata_id: Q8344967
 ipni_surname: Sacleux
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8793-1), [Wikidata](https://www.wikidata.org/wiki/Q8344967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8793-1) LSID 8793-1, [Wikidata](https://www.wikidata.org/wiki/Q8344967) QID Q8344967
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

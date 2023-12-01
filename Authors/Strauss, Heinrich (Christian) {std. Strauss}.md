@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0051
 tl2_volume: vol6
 tl2_page_printed: 43
 tl2_surname: Strauss
-tl2_forenames: Heinrich [Christian]
+tl2_forenames: Heinrich (Christian)
 tl2_name_abbrev: Strauss
 tl2_dates: 1850-1922
-tl2_page_id: 33212047
+tl2_bhl_page_id: 33212047
 author_lsid: 13089-1
 wikidata_id: Q21609942
 ipni_surname: Strauss
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33212047) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/13089-1), [Wikidata](https://www.wikidata.org/wiki/Q21609942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13089-1) LSID 13089-1, [Wikidata](https://www.wikidata.org/wiki/Q21609942) QID Q21609942
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

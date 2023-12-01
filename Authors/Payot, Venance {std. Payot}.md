@@ -6,7 +6,7 @@ tl2_surname: Payot
 tl2_forenames: Venance
 tl2_name_abbrev: Payot
 tl2_dates: 1826-1902
-tl2_page_id: 33189598
+tl2_bhl_page_id: 33189598
 author_lsid: 24660-1
 wikidata_id: Q3555389
 ipni_surname: Payot
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33189598) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24660-1), [Wikidata](https://www.wikidata.org/wiki/Q3555389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24660-1) LSID 24660-1, [Wikidata](https://www.wikidata.org/wiki/Q3555389) QID Q3555389
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

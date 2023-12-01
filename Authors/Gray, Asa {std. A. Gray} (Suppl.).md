@@ -6,7 +6,7 @@ tl2_surname: Gray
 tl2_forenames: Asa
 tl2_name_abbrev: A. Gray
 tl2_dates: 1810-1888
-tl2_page_id: 33258809
+tl2_bhl_page_id: 33258809
 author_lsid: 19574-1
 wikidata_id: Q347356
 ipni_surname: Gray
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33258809) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19574-1), [Wikidata](https://www.wikidata.org/wiki/Q347356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19574-1) LSID 19574-1, [Wikidata](https://www.wikidata.org/wiki/Q347356) QID Q347356
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gray, Asa {std. A. Gray}|first entry]] for this author
 

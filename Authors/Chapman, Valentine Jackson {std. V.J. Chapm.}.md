@@ -6,7 +6,7 @@ tl2_surname: Chapman
 tl2_forenames: Valentine Jackson
 tl2_name_abbrev: V.J. Chapm.
 tl2_dates: 1910-1980
-tl2_page_id: 33265728
+tl2_bhl_page_id: 33265728
 author_lsid: 32689-1
 wikidata_id: Q7910974
 ipni_surname: Chapman
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33265728) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32689-1), [Wikidata](https://www.wikidata.org/wiki/Q7910974). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32689-1) LSID 32689-1, [Wikidata](https://www.wikidata.org/wiki/Q7910974) QID Q7910974
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

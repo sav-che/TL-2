@@ -6,7 +6,7 @@ tl2_surname: Murray
 tl2_forenames: Johan Andreas (Anders)
 tl2_name_abbrev: J.A. Murray
 tl2_dates: 1740-1791
-tl2_page_id: 33355756
+tl2_bhl_page_id: 33355756
 author_lsid: 6809-1
 wikidata_id: Q761545
 ipni_surname: Murray
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:25:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33355756) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6809-1), [Wikidata](https://www.wikidata.org/wiki/Q761545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6809-1) LSID 6809-1, [Wikidata](https://www.wikidata.org/wiki/Q761545) QID Q761545
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

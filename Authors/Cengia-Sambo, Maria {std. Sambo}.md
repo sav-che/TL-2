@@ -6,7 +6,7 @@ tl2_surname: Cengia-Sambo
 tl2_forenames: Maria
 tl2_name_abbrev: Sambo
 tl2_dates: 1888-1939
-tl2_page_id: 33265697
+tl2_bhl_page_id: 33265697
 author_lsid: 26053-1
 wikidata_id: Q5997323
 ipni_surname: Sambo
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33265697) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/26053-1), [Wikidata](https://www.wikidata.org/wiki/Q5997323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26053-1) LSID 26053-1, [Wikidata](https://www.wikidata.org/wiki/Q5997323) QID Q5997323
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

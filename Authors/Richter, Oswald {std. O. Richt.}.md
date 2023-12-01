@@ -6,7 +6,7 @@ tl2_surname: Richter
 tl2_forenames: Oswald
 tl2_name_abbrev: O. Richt.
 tl2_dates: 1878-1955
-tl2_page_id: 33190249
+tl2_bhl_page_id: 33190249
 author_lsid: 8369-1
 wikidata_id: Q2036451
 ipni_surname: Richter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33190249) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8369-1), [Wikidata](https://www.wikidata.org/wiki/Q2036451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8369-1) LSID 8369-1, [Wikidata](https://www.wikidata.org/wiki/Q2036451) QID Q2036451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

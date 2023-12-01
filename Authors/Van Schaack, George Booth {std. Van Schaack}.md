@@ -6,7 +6,7 @@ tl2_surname: Van Schaack
 tl2_forenames: George Booth
 tl2_name_abbrev: Van Schaack
 tl2_dates: 1903-1983
-tl2_page_id: 33212717
+tl2_bhl_page_id: 33212717
 author_lsid: 11066-1
 wikidata_id: Q21611435
 ipni_surname: Van Schaack
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:38:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33212717) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11066-1), [Wikidata](https://www.wikidata.org/wiki/Q21611435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11066-1) LSID 11066-1, [Wikidata](https://www.wikidata.org/wiki/Q21611435) QID Q21611435
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

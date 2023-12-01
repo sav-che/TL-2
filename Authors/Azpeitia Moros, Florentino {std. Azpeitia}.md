@@ -6,7 +6,7 @@ tl2_surname: Azpeitia Moros
 tl2_forenames: Florentino
 tl2_name_abbrev: Azpeitia
 tl2_dates: 1859-?
-tl2_page_id: 33120213
+tl2_bhl_page_id: 33120213
 author_lsid: 353-1
 wikidata_id: Q8961857
 ipni_surname: Azpeitia Moros
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/353-1), [Wikidata](https://www.wikidata.org/wiki/Q8961857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/353-1) LSID 353-1, [Wikidata](https://www.wikidata.org/wiki/Q8961857) QID Q8961857
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

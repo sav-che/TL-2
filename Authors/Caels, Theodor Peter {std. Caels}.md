@@ -6,7 +6,7 @@ tl2_surname: Caels
 tl2_forenames: Theodor Peter
 tl2_name_abbrev: Caels
 tl2_dates: 1739-1819
-tl2_page_id: 33120553
+tl2_bhl_page_id: 33120553
 author_lsid: 1347-1
 wikidata_id: Q21506815
 ipni_surname: Caels
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33120553) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1347-1), [Wikidata](https://www.wikidata.org/wiki/Q21506815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1347-1) LSID 1347-1, [Wikidata](https://www.wikidata.org/wiki/Q21506815) QID Q21506815
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Caels, Theodor Peter {std. Caels} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Schildknecht
 tl2_forenames: J.
 tl2_name_abbrev: Schildknecht
 tl2_dates: fl. 1863
-tl2_page_id: 33333297
+tl2_bhl_page_id: 33333297
 author_lsid: 35154-1
 wikidata_id: Q36598717
 ipni_surname: Schildknecht
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/35154-1), [Wikidata](https://www.wikidata.org/wiki/Q36598717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35154-1) LSID 35154-1, [Wikidata](https://www.wikidata.org/wiki/Q36598717) QID Q36598717
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

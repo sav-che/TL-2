@@ -6,7 +6,7 @@ tl2_surname: Myrin
 tl2_forenames: Claës Gustaf
 tl2_name_abbrev: Myrin
 tl2_dates: 1803-1835
-tl2_page_id: 33355765
+tl2_bhl_page_id: 33355765
 author_lsid: 6823-1
 wikidata_id: Q21340690
 ipni_surname: Myrin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6823-1), [Wikidata](https://www.wikidata.org/wiki/Q21340690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6823-1) LSID 6823-1, [Wikidata](https://www.wikidata.org/wiki/Q21340690) QID Q21340690
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

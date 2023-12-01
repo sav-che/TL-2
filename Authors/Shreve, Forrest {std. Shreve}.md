@@ -6,7 +6,7 @@ tl2_surname: Shreve
 tl2_forenames: Forrest
 tl2_name_abbrev: Shreve
 tl2_dates: 1878-1950
-tl2_page_id: 33333710
+tl2_bhl_page_id: 33333710
 author_lsid: 12270-1
 wikidata_id: Q2051280
 ipni_surname: Shreve
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33333710) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12270-1), [Wikidata](https://www.wikidata.org/wiki/Q2051280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12270-1) LSID 12270-1, [Wikidata](https://www.wikidata.org/wiki/Q2051280) QID Q2051280
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

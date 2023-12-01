@@ -6,7 +6,7 @@ tl2_surname: Chaillet
 tl2_forenames: Jean Frédéric de
 tl2_name_abbrev: Chaillet
 tl2_dates: 1747-1839
-tl2_page_id: 33120612
+tl2_bhl_page_id: 33120612
 author_lsid: 17042-1
 wikidata_id: Q21338227
 ipni_surname: Chaillet
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17042-1), [Wikidata](https://www.wikidata.org/wiki/Q21338227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17042-1) LSID 17042-1, [Wikidata](https://www.wikidata.org/wiki/Q21338227) QID Q21338227
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

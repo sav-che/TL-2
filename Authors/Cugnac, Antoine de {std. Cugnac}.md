@@ -6,7 +6,7 @@ tl2_surname: Cugnac
 tl2_forenames: Antoine de
 tl2_name_abbrev: Cugnac
 tl2_dates: 1895-?
-tl2_page_id: 33266172
+tl2_bhl_page_id: 33266172
 author_lsid: 1909-1
 wikidata_id: Q21509617
 ipni_surname: Cugnac
@@ -24,7 +24,8 @@ ipni_record_modified: 2016-07-26 12:24:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1909-1), [Wikidata](https://www.wikidata.org/wiki/Q21509617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1909-1) LSID 1909-1, [Wikidata](https://www.wikidata.org/wiki/Q21509617) QID Q21509617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

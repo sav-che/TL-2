@@ -6,7 +6,7 @@ tl2_surname: Dekker
 tl2_forenames: Johannes
 tl2_name_abbrev: Dekker
 tl2_dates: 1879-x
-tl2_page_id: 33259212
+tl2_bhl_page_id: 33259212
 author_lsid: 17892-1
 wikidata_id: Q21510134
 ipni_surname: Dekker
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17892-1), [Wikidata](https://www.wikidata.org/wiki/Q21510134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17892-1) LSID 17892-1, [Wikidata](https://www.wikidata.org/wiki/Q21510134) QID Q21510134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

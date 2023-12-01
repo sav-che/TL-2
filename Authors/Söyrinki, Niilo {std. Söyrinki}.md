@@ -6,7 +6,7 @@ tl2_surname: Söyrinki
 tl2_forenames: Niilo
 tl2_name_abbrev: Söyrinki
 tl2_dates: 1907-x
-tl2_page_id: 33333859
+tl2_bhl_page_id: 33333859
 author_lsid: 9863-1
 wikidata_id: Q11884399
 ipni_surname: Söyrinki
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33333859) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9863-1), [Wikidata](https://www.wikidata.org/wiki/Q11884399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9863-1) LSID 9863-1, [Wikidata](https://www.wikidata.org/wiki/Q11884399) QID Q11884399
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

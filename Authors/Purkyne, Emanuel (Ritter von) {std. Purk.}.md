@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0522
 tl2_volume: vol4
 tl2_page_printed: 445
 tl2_surname: Purkyne
-tl2_forenames: Emanuel [Ritter von]
+tl2_forenames: Emanuel (Ritter von)
 tl2_name_abbrev: Purk.
 tl2_dates: 1831-1882
-tl2_page_id: 33189916
+tl2_bhl_page_id: 33189916
 author_lsid: 8031-1
 wikidata_id: Q3500532
 ipni_surname: Purkyně
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8031-1), [Wikidata](https://www.wikidata.org/wiki/Q3500532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8031-1) LSID 8031-1, [Wikidata](https://www.wikidata.org/wiki/Q3500532) QID Q3500532
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

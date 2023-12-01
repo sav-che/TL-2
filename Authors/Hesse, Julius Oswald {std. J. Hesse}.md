@@ -6,7 +6,7 @@ tl2_surname: Hesse
 tl2_forenames: Julius Oswald
 tl2_name_abbrev: J. Hesse
 tl2_dates: 1835-1917
-tl2_page_id: 33068423
+tl2_bhl_page_id: 33068423
 author_lsid: 3906-1
 wikidata_id: Q1620027
 ipni_surname: Hesse
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33068423) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3906-1), [Wikidata](https://www.wikidata.org/wiki/Q1620027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3906-1) LSID 3906-1, [Wikidata](https://www.wikidata.org/wiki/Q1620027) QID Q1620027
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

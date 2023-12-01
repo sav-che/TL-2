@@ -6,7 +6,7 @@ tl2_surname: Caldas
 tl2_forenames: Francisco José de
 tl2_name_abbrev: Caldas
 tl2_dates: 1768-1816
-tl2_page_id: 33120555
+tl2_bhl_page_id: 33120555
 author_lsid: 12108-1
 wikidata_id: Q1442069
 ipni_surname: Caldas
@@ -24,7 +24,8 @@ ipni_record_modified: 2019-02-21 11:51:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12108-1), [Wikidata](https://www.wikidata.org/wiki/Q1442069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12108-1) LSID 12108-1, [Wikidata](https://www.wikidata.org/wiki/Q1442069) QID Q1442069
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

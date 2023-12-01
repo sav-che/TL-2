@@ -6,7 +6,7 @@ tl2_surname: Layens
 tl2_forenames: George de
 tl2_name_abbrev: Layens
 tl2_dates: 1834-1897
-tl2_page_id: 33069017
+tl2_bhl_page_id: 33069017
 author_lsid: 5357-1
 wikidata_id: Q3103705
 ipni_surname: Layens
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33069017) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5357-1), [Wikidata](https://www.wikidata.org/wiki/Q3103705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5357-1) LSID 5357-1, [Wikidata](https://www.wikidata.org/wiki/Q3103705) QID Q3103705
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

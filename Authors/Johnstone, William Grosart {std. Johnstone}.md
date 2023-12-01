@@ -6,7 +6,7 @@ tl2_surname: Johnstone
 tl2_forenames: William Grosart
 tl2_name_abbrev: Johnstone
 tl2_dates: died c. 1860
-tl2_page_id: 33068694
+tl2_bhl_page_id: 33068694
 author_lsid: 4525-1
 wikidata_id: Q36701522
 ipni_surname: Johnstone
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33068694) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4525-1), [Wikidata](https://www.wikidata.org/wiki/Q36701522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4525-1) LSID 4525-1, [Wikidata](https://www.wikidata.org/wiki/Q36701522) QID Q36701522
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

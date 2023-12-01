@@ -6,7 +6,7 @@ tl2_surname: Kerchove de Denterghem
 tl2_forenames: Oswald Charles Eugène Marie Ghislain de
 tl2_name_abbrev: Kerch.
 tl2_dates: 1844-1906
-tl2_page_id: 33068765
+tl2_bhl_page_id: 33068765
 author_lsid: 4736-1
 wikidata_id: Q945098
 ipni_surname: Kerchove de Denterghem
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33068765) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4736-1), [Wikidata](https://www.wikidata.org/wiki/Q945098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4736-1) LSID 4736-1, [Wikidata](https://www.wikidata.org/wiki/Q945098) QID Q945098
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

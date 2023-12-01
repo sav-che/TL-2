@@ -6,7 +6,7 @@ tl2_surname: Launay
 tl2_forenames: de
 tl2_name_abbrev: Laun.
 tl2_dates: fl. 1993
-tl2_page_id: 33069008
+tl2_bhl_page_id: 33069008
 author_lsid: 5321-1
 wikidata_id: Q3164795
 ipni_surname: Launay
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33069008) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5321-1), [Wikidata](https://www.wikidata.org/wiki/Q3164795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5321-1) LSID 5321-1, [Wikidata](https://www.wikidata.org/wiki/Q3164795) QID Q3164795
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

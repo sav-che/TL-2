@@ -6,7 +6,7 @@ tl2_surname: Noël
 tl2_forenames: Paul
 tl2_name_abbrev: P. Noël
 tl2_dates: fl. 1910
-tl2_page_id: 33355848
+tl2_bhl_page_id: 33355848
 author_lsid: 7013-1
 wikidata_id: Q47123536
 ipni_surname: Noël
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7013-1), [Wikidata](https://www.wikidata.org/wiki/Q47123536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7013-1) LSID 7013-1, [Wikidata](https://www.wikidata.org/wiki/Q47123536) QID Q47123536
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: White
 tl2_forenames: Violetta Susan Elizabeth
 tl2_name_abbrev: V.S. White
 tl2_dates: 1875-1949
-tl2_page_id: 33066595
+tl2_bhl_page_id: 33066595
 author_lsid: 11624-1
 wikidata_id: Q21612598
 ipni_surname: White
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11624-1), [Wikidata](https://www.wikidata.org/wiki/Q21612598). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11624-1) LSID 11624-1, [Wikidata](https://www.wikidata.org/wiki/Q21612598) QID Q21612598
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Reboul
 tl2_forenames: Eugène de
 tl2_name_abbrev: Reboul
 tl2_dates: 1781-1851
-tl2_page_id: 33190087
+tl2_bhl_page_id: 33190087
 author_lsid: 8210-1
 wikidata_id: Q21607043
 ipni_surname: Reboul
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33190087) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8210-1), [Wikidata](https://www.wikidata.org/wiki/Q21607043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8210-1) LSID 8210-1, [Wikidata](https://www.wikidata.org/wiki/Q21607043) QID Q21607043
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

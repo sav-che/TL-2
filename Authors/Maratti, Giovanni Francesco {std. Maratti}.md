@@ -6,7 +6,7 @@ tl2_surname: Maratti
 tl2_forenames: Giovanni Francesco
 tl2_name_abbrev: Maratti
 tl2_dates: 1723-1777
-tl2_page_id: 33355371
+tl2_bhl_page_id: 33355371
 author_lsid: 6084-1
 wikidata_id: Q4281099
 ipni_surname: Maratti
@@ -26,7 +26,8 @@ ipni_record_modified: 2017-12-03 02:49:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33355371) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6084-1), [Wikidata](https://www.wikidata.org/wiki/Q4281099). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6084-1) LSID 6084-1, [Wikidata](https://www.wikidata.org/wiki/Q4281099) QID Q4281099
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

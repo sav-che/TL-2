@@ -6,7 +6,7 @@ tl2_surname: Petch
 tl2_forenames: Thomas
 tl2_name_abbrev: Petch
 tl2_dates: 1870-1948
-tl2_page_id: 33189659
+tl2_bhl_page_id: 33189659
 author_lsid: 24762-1
 wikidata_id: Q7817222
 ipni_surname: Petch
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33189659) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24762-1), [Wikidata](https://www.wikidata.org/wiki/Q7817222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24762-1) LSID 24762-1, [Wikidata](https://www.wikidata.org/wiki/Q7817222) QID Q7817222
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

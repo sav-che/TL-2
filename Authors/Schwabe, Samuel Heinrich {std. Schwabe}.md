@@ -6,7 +6,7 @@ tl2_surname: Schwabe
 tl2_forenames: Samuel Heinrich
 tl2_name_abbrev: Schwabe
 tl2_dates: 1789-1875
-tl2_page_id: 33333554
+tl2_bhl_page_id: 33333554
 author_lsid: 9346-1
 wikidata_id: Q77209
 ipni_surname: Schwabe
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33333554) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9346-1), [Wikidata](https://www.wikidata.org/wiki/Q77209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9346-1) LSID 9346-1, [Wikidata](https://www.wikidata.org/wiki/Q77209) QID Q77209
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

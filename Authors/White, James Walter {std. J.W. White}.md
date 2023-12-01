@@ -6,7 +6,7 @@ tl2_surname: White
 tl2_forenames: James Walter
 tl2_name_abbrev: J.W. White
 tl2_dates: 1846-1932
-tl2_page_id: 33066592
+tl2_bhl_page_id: 33066592
 author_lsid: 11621-1
 wikidata_id: Q19003327
 ipni_surname: White
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33066592) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11621-1), [Wikidata](https://www.wikidata.org/wiki/Q19003327). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11621-1) LSID 11621-1, [Wikidata](https://www.wikidata.org/wiki/Q19003327) QID Q19003327
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Butler
 tl2_forenames: Edwin John
 tl2_name_abbrev: E.J. Butler
 tl2_dates: 1874-1943
-tl2_page_id: 33266592
+tl2_bhl_page_id: 33266592
 author_lsid: 16765-1
 wikidata_id: Q5346564
 ipni_surname: Butler
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33266592) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16765-1), [Wikidata](https://www.wikidata.org/wiki/Q5346564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16765-1) LSID 16765-1, [Wikidata](https://www.wikidata.org/wiki/Q5346564) QID Q5346564
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

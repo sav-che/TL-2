@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0068
 tl2_volume: suppl8
 tl2_page_printed: 87
 tl2_surname: Gadeceau
-tl2_forenames: Émile [Jules Arthur]
+tl2_forenames: Émile (Jules Arthur)
 tl2_name_abbrev: Gadeceau
 tl2_dates: 1845-1928
-tl2_page_id: 33258565
+tl2_bhl_page_id: 33258565
 author_lsid: 20009620-1
 wikidata_id: Q21516550
 ipni_surname: Gadeceau
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33258565) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/20009620-1), [Wikidata](https://www.wikidata.org/wiki/Q21516550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20009620-1) LSID 20009620-1, [Wikidata](https://www.wikidata.org/wiki/Q21516550) QID Q21516550
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

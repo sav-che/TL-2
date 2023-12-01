@@ -6,7 +6,7 @@ tl2_surname: Sudre
 tl2_forenames: Henri
 tl2_name_abbrev: Sudre
 tl2_dates: 1862-1918
-tl2_page_id: 33212119
+tl2_bhl_page_id: 33212119
 author_lsid: 10273-1
 wikidata_id: Q3132046
 ipni_surname: Sudre
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10273-1), [Wikidata](https://www.wikidata.org/wiki/Q3132046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10273-1) LSID 10273-1, [Wikidata](https://www.wikidata.org/wiki/Q3132046) QID Q3132046
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

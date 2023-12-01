@@ -6,7 +6,7 @@ tl2_surname: Pavlov
 tl2_forenames: Nikolai Vasilievich
 tl2_name_abbrev: Pavlov
 tl2_dates: 1893-1971
-tl2_page_id: 33189587
+tl2_bhl_page_id: 33189587
 author_lsid: 7418-1
 wikidata_id: Q4341533
 ipni_surname: Pavlov
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:33:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33189587) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7418-1), [Wikidata](https://www.wikidata.org/wiki/Q4341533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7418-1) LSID 7418-1, [Wikidata](https://www.wikidata.org/wiki/Q4341533) QID Q4341533
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

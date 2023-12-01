@@ -6,7 +6,7 @@ tl2_surname: Lee
 tl2_forenames: John Ramsay
 tl2_name_abbrev: J.R. Lee
 tl2_dates: 1868-1959
-tl2_page_id: 33069052
+tl2_bhl_page_id: 33069052
 author_lsid: 5401-1
 wikidata_id: Q21518549
 ipni_surname: Lee
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33069052) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5401-1), [Wikidata](https://www.wikidata.org/wiki/Q21518549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5401-1) LSID 5401-1, [Wikidata](https://www.wikidata.org/wiki/Q21518549) QID Q21518549
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

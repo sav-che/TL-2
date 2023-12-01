@@ -6,7 +6,7 @@ tl2_surname: Berendt
 tl2_forenames: Georg Carl (Karl)
 tl2_name_abbrev: Berendt
 tl2_dates: 1790-1850
-tl2_page_id: 33120315
+tl2_bhl_page_id: 33120315
 author_lsid: 15970-1
 wikidata_id: Q71348
 ipni_surname: Berendt
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33120315) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15970-1), [Wikidata](https://www.wikidata.org/wiki/Q71348). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15970-1) LSID 15970-1, [Wikidata](https://www.wikidata.org/wiki/Q71348) QID Q71348
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

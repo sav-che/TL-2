@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0509
 tl2_volume: vol5
 tl2_page_printed: 522
 tl2_surname: Serres
-tl2_forenames: [Pierre] Marcel [Toussaint] de
+tl2_forenames: (Pierre) Marcel (Toussaint) de
 tl2_name_abbrev: M. Serres
 tl2_dates: 1780/1783-1862
-tl2_page_id: 33333661
+tl2_bhl_page_id: 33333661
 author_lsid: 13076-1
 wikidata_id: Q3387149
 ipni_surname: Serres de Mesplès
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33333661) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/13076-1), [Wikidata](https://www.wikidata.org/wiki/Q3387149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13076-1) LSID 13076-1, [Wikidata](https://www.wikidata.org/wiki/Q3387149) QID Q3387149
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

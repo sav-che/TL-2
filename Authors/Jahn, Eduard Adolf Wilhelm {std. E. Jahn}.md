@@ -6,7 +6,7 @@ tl2_surname: Jahn
 tl2_forenames: Eduard Adolf Wilhelm
 tl2_name_abbrev: E. Jahn
 tl2_dates: 1871-1942
-tl2_page_id: 33068660
+tl2_bhl_page_id: 33068660
 author_lsid: 4402-1
 wikidata_id: Q18222345
 ipni_surname: Jahn
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33068660) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4402-1), [Wikidata](https://www.wikidata.org/wiki/Q18222345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4402-1) LSID 4402-1, [Wikidata](https://www.wikidata.org/wiki/Q18222345) QID Q18222345
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

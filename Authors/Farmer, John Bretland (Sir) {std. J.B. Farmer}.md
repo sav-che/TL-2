@@ -6,7 +6,7 @@ tl2_surname: Farmer
 tl2_forenames: John Bretland (Sir)
 tl2_name_abbrev: J.B. Farmer
 tl2_dates: 1865-1944
-tl2_page_id: 33259549
+tl2_bhl_page_id: 33259549
 author_lsid: 20016438-1
 wikidata_id: Q6223090
 ipni_surname: Farmer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/20016438-1), [Wikidata](https://www.wikidata.org/wiki/Q6223090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20016438-1) LSID 20016438-1, [Wikidata](https://www.wikidata.org/wiki/Q6223090) QID Q6223090
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

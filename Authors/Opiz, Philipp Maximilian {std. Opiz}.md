@@ -6,7 +6,7 @@ tl2_surname: Opiz
 tl2_forenames: Philipp Maximilian
 tl2_name_abbrev: Opiz
 tl2_dates: 1787-1858
-tl2_page_id: 33355926
+tl2_bhl_page_id: 33355926
 author_lsid: 24358-1
 wikidata_id: Q55069871
 ipni_surname: Opiz
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:52:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24358-1), [Wikidata](https://www.wikidata.org/wiki/Q55069871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24358-1) LSID 24358-1, [Wikidata](https://www.wikidata.org/wiki/Q55069871) QID Q55069871
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

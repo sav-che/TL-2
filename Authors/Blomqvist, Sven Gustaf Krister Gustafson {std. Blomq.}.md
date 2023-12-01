@@ -6,7 +6,7 @@ tl2_surname: Blomqvist
 tl2_forenames: Sven Gustaf Krister Gustafson
 tl2_name_abbrev: Blomq.
 tl2_dates: 1882-1953
-tl2_page_id: 33265420
+tl2_bhl_page_id: 33265420
 author_lsid: 864-1
 wikidata_id: Q21506209
 ipni_surname: Blomquist
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/864-1), [Wikidata](https://www.wikidata.org/wiki/Q21506209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/864-1) LSID 864-1, [Wikidata](https://www.wikidata.org/wiki/Q21506209) QID Q21506209
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

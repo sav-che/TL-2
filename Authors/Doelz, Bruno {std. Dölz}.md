@@ -6,7 +6,7 @@ tl2_surname: Doelz
 tl2_forenames: Bruno
 tl2_name_abbrev: Dölz
 tl2_dates: 1906-1945
-tl2_page_id: 33260010
+tl2_bhl_page_id: 33260010
 author_lsid: 2250-1
 wikidata_id: Q5734517
 ipni_surname: Dölz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2250-1), [Wikidata](https://www.wikidata.org/wiki/Q5734517). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2250-1) LSID 2250-1, [Wikidata](https://www.wikidata.org/wiki/Q5734517) QID Q5734517
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

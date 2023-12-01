@@ -6,7 +6,7 @@ tl2_surname: Pratesi
 tl2_forenames: Pietro
 tl2_name_abbrev: Pratesi
 tl2_dates: fl. 1800
-tl2_page_id: 33189854
+tl2_bhl_page_id: 33189854
 author_lsid: 7932-1
 wikidata_id: Q36654653
 ipni_surname: Pratesi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33189854) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7932-1), [Wikidata](https://www.wikidata.org/wiki/Q36654653). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7932-1) LSID 7932-1, [Wikidata](https://www.wikidata.org/wiki/Q36654653) QID Q36654653
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

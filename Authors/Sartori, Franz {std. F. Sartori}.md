@@ -6,7 +6,7 @@ tl2_surname: Sartori
 tl2_forenames: Franz
 tl2_name_abbrev: F. Sartori
 tl2_dates: 1782-1832
-tl2_page_id: 33333158
+tl2_bhl_page_id: 33333158
 author_lsid: 8926-1
 wikidata_id: Q1448847
 ipni_surname: Sartori
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8926-1), [Wikidata](https://www.wikidata.org/wiki/Q1448847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8926-1) LSID 8926-1, [Wikidata](https://www.wikidata.org/wiki/Q1448847) QID Q1448847
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

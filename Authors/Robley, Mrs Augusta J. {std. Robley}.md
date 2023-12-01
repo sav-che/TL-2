@@ -6,7 +6,7 @@ tl2_surname: Robley
 tl2_forenames: Mrs Augusta J.
 tl2_name_abbrev: Robley
 tl2_dates: fl. 1840
-tl2_page_id: 33190289
+tl2_bhl_page_id: 33190289
 author_lsid: 12777-1
 wikidata_id: Q36509146
 ipni_surname: Robley
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33190289) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12777-1), [Wikidata](https://www.wikidata.org/wiki/Q36509146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12777-1) LSID 12777-1, [Wikidata](https://www.wikidata.org/wiki/Q36509146) QID Q36509146
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

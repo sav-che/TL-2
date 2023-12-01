@@ -6,7 +6,7 @@ tl2_surname: Soulavie
 tl2_forenames: Jean Louis Giraud
 tl2_name_abbrev: Soulavie
 tl2_dates: 1752-1813
-tl2_page_id: 33333895
+tl2_bhl_page_id: 33333895
 author_lsid: 9918-1
 wikidata_id: Q3166791
 ipni_surname: Soulavie
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9918-1), [Wikidata](https://www.wikidata.org/wiki/Q3166791). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9918-1) LSID 9918-1, [Wikidata](https://www.wikidata.org/wiki/Q3166791) QID Q3166791
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

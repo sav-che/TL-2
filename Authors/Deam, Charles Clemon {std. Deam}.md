@@ -6,7 +6,7 @@ tl2_surname: Deam
 tl2_forenames: Charles Clemon
 tl2_name_abbrev: Deam
 tl2_dates: 1865-1953
-tl2_page_id: 33120735
+tl2_bhl_page_id: 33120735
 author_lsid: 2050-1
 wikidata_id: Q5075976
 ipni_surname: Deam
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33120735) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2050-1), [Wikidata](https://www.wikidata.org/wiki/Q5075976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2050-1) LSID 2050-1, [Wikidata](https://www.wikidata.org/wiki/Q5075976) QID Q5075976
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Deam, Charles Clemon {std. Deam} (Suppl.)|second entry]] for this author
 

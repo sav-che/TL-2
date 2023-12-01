@@ -6,7 +6,7 @@ tl2_surname: Nelson
 tl2_forenames: Edward Milles
 tl2_name_abbrev: E.M. Nels.
 tl2_dates: 1851-1938
-tl2_page_id: 33355811
+tl2_bhl_page_id: 33355811
 author_lsid: 6904-1
 wikidata_id: Q21522048
 ipni_surname: Nelson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33355811) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6904-1), [Wikidata](https://www.wikidata.org/wiki/Q21522048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6904-1) LSID 6904-1, [Wikidata](https://www.wikidata.org/wiki/Q21522048) QID Q21522048
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

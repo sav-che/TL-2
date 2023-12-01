@@ -6,7 +6,7 @@ tl2_surname: Manguin
 tl2_forenames: Émile Etienne
 tl2_name_abbrev: Manguin
 tl2_dates: 1893-1966
-tl2_page_id: 33355363
+tl2_bhl_page_id: 33355363
 author_lsid: 6066-1
 wikidata_id: Q21519896
 ipni_surname: Manguin
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33355363) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6066-1), [Wikidata](https://www.wikidata.org/wiki/Q21519896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6066-1) LSID 6066-1, [Wikidata](https://www.wikidata.org/wiki/Q21519896) QID Q21519896
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

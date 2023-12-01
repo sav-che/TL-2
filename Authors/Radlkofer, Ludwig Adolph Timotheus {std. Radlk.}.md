@@ -6,7 +6,7 @@ tl2_surname: Radlkofer
 tl2_forenames: Ludwig Adolph Timotheus
 tl2_name_abbrev: Radlk.
 tl2_dates: 1829-1927
-tl2_page_id: 33190012
+tl2_bhl_page_id: 33190012
 author_lsid: 8088-1
 wikidata_id: Q62865
 ipni_surname: Radlkofer
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33190012) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8088-1), [Wikidata](https://www.wikidata.org/wiki/Q62865). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8088-1) LSID 8088-1, [Wikidata](https://www.wikidata.org/wiki/Q62865) QID Q62865
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

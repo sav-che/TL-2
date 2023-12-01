@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0003
 tl2_volume: suppl7
 tl2_page_printed: 3
 tl2_surname: Fabre
-tl2_forenames: Jean-Henri [Casimir]
+tl2_forenames: Jean-Henri (Casimir)
 tl2_name_abbrev: Fabre
 tl2_dates: 1823-1915
-tl2_page_id: 33259507
+tl2_bhl_page_id: 33259507
 author_lsid: 18621-1
 wikidata_id: Q313348
 ipni_surname: Fabre
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18621-1), [Wikidata](https://www.wikidata.org/wiki/Q313348). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18621-1) LSID 18621-1, [Wikidata](https://www.wikidata.org/wiki/Q313348) QID Q313348
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fabre, Jean Henri Casimir {std. Fabre}|first entry]] for this author
 

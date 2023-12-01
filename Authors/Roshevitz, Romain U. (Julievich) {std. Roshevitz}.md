@@ -6,7 +6,7 @@ tl2_surname: Roshevitz
 tl2_forenames: Romain U. (Julievich)
 tl2_name_abbrev: Roshevitz
 tl2_dates: 1882-1949
-tl2_page_id: 33190369
+tl2_bhl_page_id: 33190369
 author_lsid: 12787-1
 wikidata_id: Q4120909
 ipni_surname: Roshevitz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33190369) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12787-1), [Wikidata](https://www.wikidata.org/wiki/Q4120909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12787-1) LSID 12787-1, [Wikidata](https://www.wikidata.org/wiki/Q4120909) QID Q4120909
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

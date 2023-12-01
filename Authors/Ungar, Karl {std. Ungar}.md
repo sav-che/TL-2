@@ -6,7 +6,7 @@ tl2_surname: Ungar
 tl2_forenames: Karl
 tl2_name_abbrev: Ungar
 tl2_dates: 1869-?
-tl2_page_id: 33212636
+tl2_bhl_page_id: 33212636
 author_lsid: 10983-1
 wikidata_id: Q21611250
 ipni_surname: Ungar
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33212636) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10983-1), [Wikidata](https://www.wikidata.org/wiki/Q21611250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10983-1) LSID 10983-1, [Wikidata](https://www.wikidata.org/wiki/Q21611250) QID Q21611250
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

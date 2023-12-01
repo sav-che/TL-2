@@ -6,7 +6,7 @@ tl2_surname: Clemente y Rubio
 tl2_forenames: Simón de Roxas
 tl2_name_abbrev: Clemente
 tl2_dates: 1777-1827
-tl2_page_id: 33265882
+tl2_bhl_page_id: 33265882
 author_lsid: 12384-1
 wikidata_id: Q2983280
 ipni_surname: Clemente y Rubio
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/12384-1), [Wikidata](https://www.wikidata.org/wiki/Q2983280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12384-1) LSID 12384-1, [Wikidata](https://www.wikidata.org/wiki/Q2983280) QID Q2983280
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Clemente y Rubio, Simon de Rojas {std. Clemente}|first entry]] for this author
 

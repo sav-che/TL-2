@@ -6,7 +6,7 @@ tl2_surname: Mason
 tl2_forenames: Herbert Louis
 tl2_name_abbrev: H. Mason
 tl2_dates: 1896-x
-tl2_page_id: 33355436
+tl2_bhl_page_id: 33355436
 author_lsid: 6194-1
 wikidata_id: Q11925452
 ipni_surname: Mason
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6194-1), [Wikidata](https://www.wikidata.org/wiki/Q11925452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6194-1) LSID 6194-1, [Wikidata](https://www.wikidata.org/wiki/Q11925452) QID Q11925452
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Petri
 tl2_forenames: Friedrich
 tl2_name_abbrev: F. Petri
 tl2_dates: 1837-1896
-tl2_page_id: 33189679
+tl2_bhl_page_id: 33189679
 author_lsid: 7589-1
 wikidata_id: Q21522903
 ipni_surname: Petri
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33189679) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7589-1), [Wikidata](https://www.wikidata.org/wiki/Q21522903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7589-1) LSID 7589-1, [Wikidata](https://www.wikidata.org/wiki/Q21522903) QID Q21522903
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

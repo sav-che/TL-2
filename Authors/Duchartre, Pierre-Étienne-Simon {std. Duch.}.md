@@ -6,7 +6,7 @@ tl2_surname: Duchartre
 tl2_forenames: Pierre-Étienne-Simon
 tl2_name_abbrev: Duchartre
 tl2_dates: 1811-1894
-tl2_page_id: 33120819
+tl2_bhl_page_id: 33120819
 author_lsid: 2344-1
 wikidata_id: Q452900
 ipni_surname: Duchartre
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/page/33120819) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2344-1), [Wikidata](https://www.wikidata.org/wiki/Q452900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2344-1) LSID 2344-1, [Wikidata](https://www.wikidata.org/wiki/Q452900) QID Q452900
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Duchartre, Pierre Étienne Simon {std. Duch.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Sullivant
 tl2_forenames: William Starling
 tl2_name_abbrev: Sull.
 tl2_dates: 1803-1873
-tl2_page_id: 33212129
+tl2_bhl_page_id: 33212129
 author_lsid: 27345-1
 wikidata_id: Q1343134
 ipni_surname: Sullivant
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33212129) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27345-1), [Wikidata](https://www.wikidata.org/wiki/Q1343134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27345-1) LSID 27345-1, [Wikidata](https://www.wikidata.org/wiki/Q1343134) QID Q1343134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

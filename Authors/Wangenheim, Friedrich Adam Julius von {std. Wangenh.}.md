@@ -6,7 +6,7 @@ tl2_surname: Wangenheim
 tl2_forenames: Friedrich Adam Julius von
 tl2_name_abbrev: Wangenh.
 tl2_dates: 1749-1800
-tl2_page_id: 33066396
+tl2_bhl_page_id: 33066396
 author_lsid: 11394-1
 wikidata_id: Q1457992
 ipni_surname: Wangenheim
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33066396) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11394-1), [Wikidata](https://www.wikidata.org/wiki/Q1457992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11394-1) LSID 11394-1, [Wikidata](https://www.wikidata.org/wiki/Q1457992) QID Q1457992
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

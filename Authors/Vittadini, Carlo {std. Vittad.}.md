@@ -6,7 +6,7 @@ tl2_surname: Vittadini
 tl2_forenames: Carlo
 tl2_name_abbrev: Vittad.
 tl2_dates: 1800-1865
-tl2_page_id: 33212802
+tl2_bhl_page_id: 33212802
 author_lsid: 28402-1
 wikidata_id: Q2572302
 ipni_surname: Vittadini
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33212802) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/28402-1), [Wikidata](https://www.wikidata.org/wiki/Q2572302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28402-1) LSID 28402-1, [Wikidata](https://www.wikidata.org/wiki/Q2572302) QID Q2572302
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

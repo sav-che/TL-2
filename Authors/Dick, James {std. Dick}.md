@@ -6,7 +6,7 @@ tl2_surname: Dick
 tl2_forenames: James
 tl2_name_abbrev: Dick
 tl2_dates: x-1775
-tl2_page_id: 33120774
+tl2_bhl_page_id: 33120774
 author_lsid: 2189-1
 wikidata_id: Q21510351
 ipni_surname: Dick
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2189-1), [Wikidata](https://www.wikidata.org/wiki/Q21510351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2189-1) LSID 2189-1, [Wikidata](https://www.wikidata.org/wiki/Q21510351) QID Q21510351
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

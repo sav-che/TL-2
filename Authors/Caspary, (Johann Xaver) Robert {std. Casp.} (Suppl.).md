@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0410
 tl2_volume: suppl3
 tl2_page_printed: 447
 tl2_surname: Caspary
-tl2_forenames: [Johann Xaver] Robert
+tl2_forenames: (Johann Xaver) Robert
 tl2_name_abbrev: Casp.
 tl2_dates: 1818-1887
-tl2_page_id: 33266754
+tl2_bhl_page_id: 33266754
 author_lsid: 16962-1
 wikidata_id: Q65869
 ipni_surname: Caspary
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266754) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16962-1), [Wikidata](https://www.wikidata.org/wiki/Q65869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16962-1) LSID 16962-1, [Wikidata](https://www.wikidata.org/wiki/Q65869) QID Q65869
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Caspary, Johann Xaver Robert {std. Casp.}|first entry]] for this author
 

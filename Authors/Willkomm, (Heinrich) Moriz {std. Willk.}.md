@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0298
 tl2_volume: vol7
 tl2_page_printed: 336
 tl2_surname: Willkomm
-tl2_forenames: [Heinrich] Moriz
+tl2_forenames: (Heinrich) Moriz
 tl2_name_abbrev: Willk.
 tl2_dates: 1821-1895
-tl2_page_id: 33066676
+tl2_bhl_page_id: 33066676
 author_lsid: 11723-1
 wikidata_id: Q64566
 ipni_surname: Willkomm
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:33:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33066676) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11723-1), [Wikidata](https://www.wikidata.org/wiki/Q64566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11723-1) LSID 11723-1, [Wikidata](https://www.wikidata.org/wiki/Q64566) QID Q64566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

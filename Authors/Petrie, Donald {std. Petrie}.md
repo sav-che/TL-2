@@ -6,7 +6,7 @@ tl2_surname: Petrie
 tl2_forenames: Donald
 tl2_name_abbrev: Petrie
 tl2_dates: 1846-1925
-tl2_page_id: 33189680
+tl2_bhl_page_id: 33189680
 author_lsid: 7591-1
 wikidata_id: Q5294994
 ipni_surname: Petrie
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33189680) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7591-1), [Wikidata](https://www.wikidata.org/wiki/Q5294994). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7591-1) LSID 7591-1, [Wikidata](https://www.wikidata.org/wiki/Q5294994) QID Q5294994
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

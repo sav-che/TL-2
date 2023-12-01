@@ -6,7 +6,7 @@ tl2_surname: Poederlé
 tl2_forenames: Eugène Joseph Charles Gilain Hubert dOlmen baron de
 tl2_name_abbrev: Poederlé
 tl2_dates: 1742-1813
-tl2_page_id: 33189779
+tl2_bhl_page_id: 33189779
 author_lsid: 7775-1
 wikidata_id: Q5850355
 ipni_surname: Poederlé
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7775-1), [Wikidata](https://www.wikidata.org/wiki/Q5850355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7775-1) LSID 7775-1, [Wikidata](https://www.wikidata.org/wiki/Q5850355) QID Q5850355
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

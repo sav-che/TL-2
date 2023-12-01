@@ -6,7 +6,7 @@ tl2_surname: Dahlstedt
 tl2_forenames: Gustav Adolf Hugo
 tl2_name_abbrev: Dahlst.
 tl2_dates: 1856-1934
-tl2_page_id: 33120720
+tl2_bhl_page_id: 33120720
 author_lsid: 12493-1
 wikidata_id: Q1937128
 ipni_surname: Dahlstedt
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12493-1), [Wikidata](https://www.wikidata.org/wiki/Q1937128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12493-1) LSID 12493-1, [Wikidata](https://www.wikidata.org/wiki/Q1937128) QID Q1937128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dahlstedt, Gustav Adolf Hugo {std. Dahlst.} (Suppl.)|second entry]] for this author
 

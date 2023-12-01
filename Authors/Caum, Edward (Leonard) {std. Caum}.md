@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0429
 tl2_volume: suppl3
 tl2_page_printed: 464
 tl2_surname: Caum
-tl2_forenames: Edward [Leonard]
+tl2_forenames: Edward (Leonard)
 tl2_name_abbrev: Caum
 tl2_dates: 1893-x
-tl2_page_id: 33266771
+tl2_bhl_page_id: 33266771
 author_lsid: 16998-1
 wikidata_id: Q5344117
 ipni_surname: Caum
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:36:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33266771) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16998-1), [Wikidata](https://www.wikidata.org/wiki/Q5344117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16998-1) LSID 16998-1, [Wikidata](https://www.wikidata.org/wiki/Q5344117) QID Q5344117
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

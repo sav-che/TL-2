@@ -6,7 +6,7 @@ tl2_surname: Piquet
 tl2_forenames: John
 tl2_name_abbrev: Piquet
 tl2_dates: 1825-1912
-tl2_page_id: 33189743
+tl2_bhl_page_id: 33189743
 author_lsid: 7722-1
 wikidata_id: Q21523023
 ipni_surname: Piquet
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7722-1), [Wikidata](https://www.wikidata.org/wiki/Q21523023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7722-1) LSID 7722-1, [Wikidata](https://www.wikidata.org/wiki/Q21523023) QID Q21523023
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

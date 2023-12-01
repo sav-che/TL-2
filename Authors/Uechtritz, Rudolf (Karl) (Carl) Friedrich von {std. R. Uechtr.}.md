@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0572
 tl2_volume: vol6
 tl2_page_printed: 562
 tl2_surname: Uechtritz
-tl2_forenames: Rudolf [Karl] [Carl] Friedrich von
+tl2_forenames: Rudolf (Karl) (Carl) Friedrich von
 tl2_name_abbrev: R. Uechtr.
 tl2_dates: 1838-1886
-tl2_page_id: 33212604
+tl2_bhl_page_id: 33212604
 author_lsid: 10952-1
 wikidata_id: Q98280
 ipni_surname: Uechtritz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10952-1), [Wikidata](https://www.wikidata.org/wiki/Q98280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10952-1) LSID 10952-1, [Wikidata](https://www.wikidata.org/wiki/Q98280) QID Q98280
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

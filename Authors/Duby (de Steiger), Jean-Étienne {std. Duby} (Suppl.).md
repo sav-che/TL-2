@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl6_0126
 tl2_volume: suppl6
 tl2_page_printed: 122
-tl2_surname: Duby [de Steiger]
+tl2_surname: Duby (de Steiger)
 tl2_forenames: Jean-Étienne
 tl2_name_abbrev: Duby
 tl2_dates: 1798-1885
-tl2_page_id: 33260110
+tl2_bhl_page_id: 33260110
 author_lsid: 18234-1
 wikidata_id: Q4172141
 ipni_surname: Duby
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:31:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33260110) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18234-1), [Wikidata](https://www.wikidata.org/wiki/Q4172141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18234-1) LSID 18234-1, [Wikidata](https://www.wikidata.org/wiki/Q4172141) QID Q4172141
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Duby, Jean Étienne {std. Duby}|first entry]] for this author
 

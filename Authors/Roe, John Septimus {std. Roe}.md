@@ -6,7 +6,7 @@ tl2_surname: Roe
 tl2_forenames: John Septimus
 tl2_name_abbrev: Roe
 tl2_dates: 1797-1878
-tl2_page_id: 33190306
+tl2_bhl_page_id: 33190306
 author_lsid: 8495-1
 wikidata_id: Q1701718
 ipni_surname: Roe
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:27:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33190306) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8495-1), [Wikidata](https://www.wikidata.org/wiki/Q1701718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8495-1) LSID 8495-1, [Wikidata](https://www.wikidata.org/wiki/Q1701718) QID Q1701718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

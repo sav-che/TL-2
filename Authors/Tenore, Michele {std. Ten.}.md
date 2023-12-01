@@ -6,7 +6,7 @@ tl2_surname: Tenore
 tl2_forenames: Michele
 tl2_name_abbrev: Ten.
 tl2_dates: 1780-1861
-tl2_page_id: 33212254
+tl2_bhl_page_id: 33212254
 author_lsid: 10507-1
 wikidata_id: Q947973
 ipni_surname: Tenore
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33212254) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10507-1), [Wikidata](https://www.wikidata.org/wiki/Q947973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10507-1) LSID 10507-1, [Wikidata](https://www.wikidata.org/wiki/Q947973) QID Q947973
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

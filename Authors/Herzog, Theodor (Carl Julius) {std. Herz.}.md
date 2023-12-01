@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0216
 tl2_volume: vol2
 tl2_page_printed: 178
 tl2_surname: Herzog
-tl2_forenames: Theodor [Carl Julius]
+tl2_forenames: Theodor (Carl Julius)
 tl2_name_abbrev: Herz.
 tl2_dates: 1880-1961
-tl2_page_id: 33068420
+tl2_bhl_page_id: 33068420
 author_lsid: 3895-1
 wikidata_id: Q98278
 ipni_surname: Herzog
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:43:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3895-1), [Wikidata](https://www.wikidata.org/wiki/Q98278). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3895-1) LSID 3895-1, [Wikidata](https://www.wikidata.org/wiki/Q98278) QID Q98278
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

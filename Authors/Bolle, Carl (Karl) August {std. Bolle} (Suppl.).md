@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0349
 tl2_volume: suppl2
 tl2_page_printed: 292
 tl2_surname: Bolle
-tl2_forenames: Carl [Karl] August
+tl2_forenames: Carl (Karl) August
 tl2_name_abbrev: Bolle
 tl2_dates: 1821-1909
-tl2_page_id: 33265489
+tl2_bhl_page_id: 33265489
 author_lsid: 16300-1
 wikidata_id: Q63426
 ipni_surname: Bolle
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265489) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16300-1), [Wikidata](https://www.wikidata.org/wiki/Q63426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16300-1) LSID 16300-1, [Wikidata](https://www.wikidata.org/wiki/Q63426) QID Q63426
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bolle, Carl (Karl) August {std. Bolle}|first entry]] for this author
 

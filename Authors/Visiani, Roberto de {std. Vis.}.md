@@ -6,7 +6,7 @@ tl2_surname: Visiani
 tl2_forenames: Roberto de
 tl2_name_abbrev: Vis.
 tl2_dates: 1800-1878
-tl2_page_id: 33212796
+tl2_bhl_page_id: 33212796
 author_lsid: 11218-1
 wikidata_id: Q1389217
 ipni_surname: Visiani
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33212796) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11218-1), [Wikidata](https://www.wikidata.org/wiki/Q1389217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11218-1) LSID 11218-1, [Wikidata](https://www.wikidata.org/wiki/Q1389217) QID Q1389217
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

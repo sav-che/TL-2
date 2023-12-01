@@ -6,7 +6,7 @@ tl2_surname: Stahlecker
 tl2_forenames: Eugen
 tl2_name_abbrev: Stahlecker
 tl2_dates: 1867-?
-tl2_page_id: 33333969
+tl2_bhl_page_id: 33333969
 author_lsid: 10015-1
 wikidata_id: Q21609451
 ipni_surname: Stahlecker
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33333969) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10015-1), [Wikidata](https://www.wikidata.org/wiki/Q21609451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10015-1) LSID 10015-1, [Wikidata](https://www.wikidata.org/wiki/Q21609451) QID Q21609451
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

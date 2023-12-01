@@ -6,7 +6,7 @@ tl2_surname: Fischer
 tl2_forenames: Cecil Ernest Claude
 tl2_name_abbrev: C. Fisch.
 tl2_dates: 1874-1950
-tl2_page_id: 33120965
+tl2_bhl_page_id: 33120965
 author_lsid: 2742-1
 wikidata_id: Q5759745
 ipni_surname: Fischer
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33120965) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2742-1), [Wikidata](https://www.wikidata.org/wiki/Q5759745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2742-1) LSID 2742-1, [Wikidata](https://www.wikidata.org/wiki/Q5759745) QID Q5759745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fischer, Cecil Ernest Claude {std. C.E.C. Fischer} (Suppl.)|second entry]] for this author
 

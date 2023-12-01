@@ -6,7 +6,7 @@ tl2_surname: Diddens
 tl2_forenames: Harmanna Antonia
 tl2_name_abbrev: Diddens
 tl2_dates: fl. 1929-1944
-tl2_page_id: 33259337
+tl2_bhl_page_id: 33259337
 author_lsid: 18025-1
 wikidata_id: Q36572055
 ipni_surname: Diddens
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18025-1), [Wikidata](https://www.wikidata.org/wiki/Q36572055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18025-1) LSID 18025-1, [Wikidata](https://www.wikidata.org/wiki/Q36572055) QID Q36572055
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

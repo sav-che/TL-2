@@ -6,27 +6,30 @@ tl2_surname: Fahrendorff
 tl2_forenames: Ernst
 tl2_name_abbrev: Fahrendorff
 tl2_dates: fl. 1920-1940
-tl2_page_id: 33259519
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
-ipni_record_modified:
+tl2_bhl_page_id: 33259519
+author_lsid: 18626-1
+wikidata_id: Q21392469
+ipni_surname: Fahrendorff
+ipni_forenames: Ernst
+ipni_standard_form: Fahrend.
+ipni_dates: fl. 1941
+ipni_taxon_scope:
+- Botany
+- Mycology
+ipni_geo_scope:
+ipni_version: 1.1
+ipni_record_created: 2003-07-02 00:00:00.0
+ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33259519) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18626-1) LSID 18626-1, [Wikidata](https://www.wikidata.org/wiki/Q21392469) QID Q21392469
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Fahrendorff, Ernst (fl. 1920-1940), German priest and mycologist in Berlin. 
-**Abbreviated name**: *Fahrendorff*
+**Abbreviated name**: *Fahrendorff* \[standard form in IPNI: *Fahrend.*\]
 
 #### Herbarium and types
 

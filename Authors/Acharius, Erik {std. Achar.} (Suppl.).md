@@ -6,7 +6,7 @@ tl2_surname: Acharius
 tl2_forenames: Erik
 tl2_name_abbrev: Achar.
 tl2_dates: 1757-1819
-tl2_page_id: 33264761
+tl2_bhl_page_id: 33264761
 author_lsid: 50-1
 wikidata_id: Q365923
 ipni_surname: Acharius
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33264761) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/50-1), [Wikidata](https://www.wikidata.org/wiki/Q365923). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/50-1) LSID 50-1, [Wikidata](https://www.wikidata.org/wiki/Q365923) QID Q365923
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Acharius, Erik {std. Achar.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Stapf
 tl2_forenames: Otto
 tl2_name_abbrev: Stapf.
 tl2_dates: 1857-1933
-tl2_page_id: 33333978
+tl2_bhl_page_id: 33333978
 author_lsid: 27136-1
 wikidata_id: Q78630
 ipni_surname: Stapf
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:28:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33333978) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/27136-1), [Wikidata](https://www.wikidata.org/wiki/Q78630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27136-1) LSID 27136-1, [Wikidata](https://www.wikidata.org/wiki/Q78630) QID Q78630
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

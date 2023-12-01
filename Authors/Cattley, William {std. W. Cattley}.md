@@ -6,7 +6,7 @@ tl2_surname: Cattley
 tl2_forenames: William
 tl2_name_abbrev: W. Cattley
 tl2_dates: 1788-1835
-tl2_page_id: 33266770
+tl2_bhl_page_id: 33266770
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33266770) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

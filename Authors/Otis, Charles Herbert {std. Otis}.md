@@ -6,7 +6,7 @@ tl2_surname: Otis
 tl2_forenames: Charles Herbert
 tl2_name_abbrev: Otis
 tl2_dates: 1886-1979
-tl2_page_id: 33355943
+tl2_bhl_page_id: 33355943
 author_lsid: 7198-1
 wikidata_id: Q21522475
 ipni_surname: Otis
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7198-1), [Wikidata](https://www.wikidata.org/wiki/Q21522475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7198-1) LSID 7198-1, [Wikidata](https://www.wikidata.org/wiki/Q21522475) QID Q21522475
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

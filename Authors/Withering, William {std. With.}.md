@@ -6,7 +6,7 @@ tl2_surname: Withering
 tl2_forenames: William
 tl2_name_abbrev: With.
 tl2_dates: 1741-1799
-tl2_page_id: 33066738
+tl2_bhl_page_id: 33066738
 author_lsid: 11795-1
 wikidata_id: Q715949
 ipni_surname: Withering
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:28:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33066738) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11795-1), [Wikidata](https://www.wikidata.org/wiki/Q715949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11795-1) LSID 11795-1, [Wikidata](https://www.wikidata.org/wiki/Q715949) QID Q715949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

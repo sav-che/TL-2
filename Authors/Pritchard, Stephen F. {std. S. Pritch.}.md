@@ -6,7 +6,7 @@ tl2_surname: Pritchard
 tl2_forenames: Stephen F.
 tl2_name_abbrev: S. Pritch.
 tl2_dates: fl. 1836
-tl2_page_id: 33189880
+tl2_bhl_page_id: 33189880
 author_lsid: 7973-1
 wikidata_id: Q36681482
 ipni_surname: Pritchard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7973-1), [Wikidata](https://www.wikidata.org/wiki/Q36681482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7973-1) LSID 7973-1, [Wikidata](https://www.wikidata.org/wiki/Q36681482) QID Q36681482
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

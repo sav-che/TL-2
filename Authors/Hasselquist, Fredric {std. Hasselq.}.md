@@ -6,7 +6,7 @@ tl2_surname: Hasselquist
 tl2_forenames: Fredric
 tl2_name_abbrev: Hasselq.
 tl2_dates: 1722-1752
-tl2_page_id: 33068335
+tl2_bhl_page_id: 33068335
 author_lsid: 3716-1
 wikidata_id: Q720017
 ipni_surname: Hasselquist
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:27:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33068335) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3716-1), [Wikidata](https://www.wikidata.org/wiki/Q720017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3716-1) LSID 3716-1, [Wikidata](https://www.wikidata.org/wiki/Q720017) QID Q720017
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

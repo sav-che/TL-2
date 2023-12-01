@@ -6,7 +6,7 @@ tl2_surname: Lund
 tl2_forenames: Anders Axel Wilhelm
 tl2_name_abbrev: A. Lund
 tl2_dates: 1839-1925
-tl2_page_id: 33355280
+tl2_bhl_page_id: 33355280
 author_lsid: 5834-1
 wikidata_id: Q5965480
 ipni_surname: Lund
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5834-1), [Wikidata](https://www.wikidata.org/wiki/Q5965480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5834-1) LSID 5834-1, [Wikidata](https://www.wikidata.org/wiki/Q5965480) QID Q5965480
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

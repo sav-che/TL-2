@@ -6,7 +6,7 @@ tl2_surname: Stewart
 tl2_forenames: John Lindsay
 tl2_name_abbrev: J.L. Stewart
 tl2_dates: ca. 1832-1873
-tl2_page_id: 33334061
+tl2_bhl_page_id: 33334061
 author_lsid: 10137-1
 wikidata_id: Q21388768
 ipni_surname: Stewart
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33334061) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10137-1), [Wikidata](https://www.wikidata.org/wiki/Q21388768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10137-1) LSID 10137-1, [Wikidata](https://www.wikidata.org/wiki/Q21388768) QID Q21388768
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

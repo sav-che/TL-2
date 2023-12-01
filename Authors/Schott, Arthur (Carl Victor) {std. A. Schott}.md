@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0302
 tl2_volume: vol5
 tl2_page_printed: 303
 tl2_surname: Schott
-tl2_forenames: Arthur [Carl Victor]
+tl2_forenames: Arthur (Carl Victor)
 tl2_name_abbrev: A. Schott
 tl2_dates: 1814-1875
-tl2_page_id: 33333442
+tl2_bhl_page_id: 33333442
 author_lsid: 9239-1
 wikidata_id: Q4798203
 ipni_surname: Schott
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33333442) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9239-1), [Wikidata](https://www.wikidata.org/wiki/Q4798203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9239-1) LSID 9239-1, [Wikidata](https://www.wikidata.org/wiki/Q4798203) QID Q4798203
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

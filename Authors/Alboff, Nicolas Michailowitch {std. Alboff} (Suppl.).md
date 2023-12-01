@@ -6,7 +6,7 @@ tl2_surname: Alboff
 tl2_forenames: Nicolas Michailowitch
 tl2_name_abbrev: Alboff
 tl2_dates: 1866-1897
-tl2_page_id: 33264788
+tl2_bhl_page_id: 33264788
 author_lsid: 12323-1
 wikidata_id: Q724538
 ipni_surname: Albov
@@ -25,7 +25,8 @@ ipni_record_modified: 2008-02-18 11:51:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/12323-1), [Wikidata](https://www.wikidata.org/wiki/Q724538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12323-1) LSID 12323-1, [Wikidata](https://www.wikidata.org/wiki/Q724538) QID Q724538
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Alboff (Albov), Nicolai Michailowitch {std. Alboff}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Scherffel
 tl2_forenames: Aladár
 tl2_name_abbrev: Scherff.
 tl2_dates: 1865-1938
-tl2_page_id: 33333279
+tl2_bhl_page_id: 33333279
 author_lsid: 9059-1
 wikidata_id: Q20480728
 ipni_surname: Scherffel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33333279) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9059-1), [Wikidata](https://www.wikidata.org/wiki/Q20480728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9059-1) LSID 9059-1, [Wikidata](https://www.wikidata.org/wiki/Q20480728) QID Q20480728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

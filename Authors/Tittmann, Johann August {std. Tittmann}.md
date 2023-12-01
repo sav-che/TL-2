@@ -6,7 +6,7 @@ tl2_surname: Tittmann
 tl2_forenames: Johann August
 tl2_name_abbrev: Tittmann
 tl2_dates: 1774-1840
-tl2_page_id: 33212414
+tl2_bhl_page_id: 33212414
 author_lsid: 10697-1
 wikidata_id: Q21610791
 ipni_surname: Tittmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33212414) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10697-1), [Wikidata](https://www.wikidata.org/wiki/Q21610791). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10697-1) LSID 10697-1, [Wikidata](https://www.wikidata.org/wiki/Q21610791) QID Q21610791
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

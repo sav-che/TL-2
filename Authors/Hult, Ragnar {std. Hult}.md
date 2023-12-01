@@ -6,7 +6,7 @@ tl2_surname: Hult
 tl2_forenames: Ragnar
 tl2_name_abbrev: Hult
 tl2_dates: 1857-1899
-tl2_page_id: 33068603
+tl2_bhl_page_id: 33068603
 author_lsid: 4218-1
 wikidata_id: Q446745
 ipni_surname: Hult
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4218-1), [Wikidata](https://www.wikidata.org/wiki/Q446745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4218-1) LSID 4218-1, [Wikidata](https://www.wikidata.org/wiki/Q446745) QID Q446745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dalton
 tl2_forenames: John
 tl2_name_abbrev: John Dalton
 tl2_dates: 1766-1844
-tl2_page_id: 33120724
+tl2_bhl_page_id: 33120724
 author_lsid: 1967-1
 wikidata_id: Q41284
 ipni_surname: Dalton
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33120724) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1967-1), [Wikidata](https://www.wikidata.org/wiki/Q41284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1967-1) LSID 1967-1, [Wikidata](https://www.wikidata.org/wiki/Q41284) QID Q41284
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

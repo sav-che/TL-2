@@ -6,7 +6,7 @@ tl2_surname: Eig
 tl2_forenames: Alexander
 tl2_name_abbrev: Eig
 tl2_dates: 1894(1895?)-1938
-tl2_page_id: 33260273
+tl2_bhl_page_id: 33260273
 author_lsid: 2493-1
 wikidata_id: Q2622975
 ipni_surname: Eig
@@ -24,7 +24,8 @@ ipni_record_modified: 2005-06-22 12:54:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33260273) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2493-1), [Wikidata](https://www.wikidata.org/wiki/Q2622975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2493-1) LSID 2493-1, [Wikidata](https://www.wikidata.org/wiki/Q2622975) QID Q2622975
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Eig, Alexander {std. Eig}|first entry]] for this author
 

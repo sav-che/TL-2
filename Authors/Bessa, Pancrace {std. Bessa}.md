@@ -6,7 +6,7 @@ tl2_surname: Bessa
 tl2_forenames: Pancrace
 tl2_name_abbrev: Bessa
 tl2_dates: 1772-1835
-tl2_page_id: 33120338
+tl2_bhl_page_id: 33120338
 author_lsid: 735-1
 wikidata_id: Q2559115
 ipni_surname: Bessa
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/735-1), [Wikidata](https://www.wikidata.org/wiki/Q2559115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/735-1) LSID 735-1, [Wikidata](https://www.wikidata.org/wiki/Q2559115) QID Q2559115
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

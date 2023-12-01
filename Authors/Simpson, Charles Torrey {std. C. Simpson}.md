@@ -6,7 +6,7 @@ tl2_surname: Simpson
 tl2_forenames: Charles Torrey
 tl2_name_abbrev: C. Simpson
 tl2_dates: 1826-1932
-tl2_page_id: 33333750
+tl2_bhl_page_id: 33333750
 author_lsid: 9680-1
 wikidata_id: Q256452
 ipni_surname: Simpson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9680-1), [Wikidata](https://www.wikidata.org/wiki/Q256452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9680-1) LSID 9680-1, [Wikidata](https://www.wikidata.org/wiki/Q256452) QID Q256452
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

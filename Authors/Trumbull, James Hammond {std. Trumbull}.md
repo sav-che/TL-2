@@ -6,7 +6,7 @@ tl2_surname: Trumbull
 tl2_forenames: James Hammond
 tl2_name_abbrev: Trumbull
 tl2_dates: 1821-1897
-tl2_page_id: 33212555
+tl2_bhl_page_id: 33212555
 author_lsid: 10863-1
 wikidata_id: Q6135478
 ipni_surname: Trumbull
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10863-1), [Wikidata](https://www.wikidata.org/wiki/Q6135478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10863-1) LSID 10863-1, [Wikidata](https://www.wikidata.org/wiki/Q6135478) QID Q6135478
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

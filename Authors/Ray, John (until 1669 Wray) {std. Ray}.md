@@ -6,7 +6,7 @@ tl2_surname: Ray
 tl2_forenames: John (until 1669 Wray)
 tl2_name_abbrev: Ray
 tl2_dates: 1627-1705
-tl2_page_id: 33190075
+tl2_bhl_page_id: 33190075
 author_lsid: 8190-1
 wikidata_id: Q316949
 ipni_surname: Ray
@@ -28,7 +28,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33190075) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8190-1), [Wikidata](https://www.wikidata.org/wiki/Q316949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8190-1) LSID 8190-1, [Wikidata](https://www.wikidata.org/wiki/Q316949) QID Q316949
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

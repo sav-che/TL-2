@@ -6,7 +6,7 @@ tl2_surname: Fontaine
 tl2_forenames: William Morris
 tl2_name_abbrev: Fontaine
 tl2_dates: 1835-1913
-tl2_page_id: 33120982
+tl2_bhl_page_id: 33120982
 author_lsid: 2807-1
 wikidata_id: Q21513303
 ipni_surname: Fontaine
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/page/33120982) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2807-1), [Wikidata](https://www.wikidata.org/wiki/Q21513303). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2807-1) LSID 2807-1, [Wikidata](https://www.wikidata.org/wiki/Q21513303) QID Q21513303
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fontaine, William Morris {std. Fontaine} (Suppl.)|second entry]] for this author
 

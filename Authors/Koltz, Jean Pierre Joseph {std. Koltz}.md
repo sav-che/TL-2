@@ -6,7 +6,7 @@ tl2_surname: Koltz
 tl2_forenames: Jean Pierre Joseph
 tl2_name_abbrev: Koltz
 tl2_dates: 1827-1907
-tl2_page_id: 33068852
+tl2_bhl_page_id: 33068852
 author_lsid: 4946-1
 wikidata_id: Q16439583
 ipni_surname: Koltz
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4946-1), [Wikidata](https://www.wikidata.org/wiki/Q16439583). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4946-1) LSID 4946-1, [Wikidata](https://www.wikidata.org/wiki/Q16439583) QID Q16439583
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

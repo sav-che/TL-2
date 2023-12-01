@@ -6,7 +6,7 @@ tl2_surname: Browne
 tl2_forenames: Patrick
 tl2_name_abbrev: P. Browne
 tl2_dates: 1720-1790
-tl2_page_id: 33266453
+tl2_bhl_page_id: 33266453
 author_lsid: 1201-1
 wikidata_id: Q15480
 ipni_surname: Browne
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33266453) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1201-1), [Wikidata](https://www.wikidata.org/wiki/Q15480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1201-1) LSID 1201-1, [Wikidata](https://www.wikidata.org/wiki/Q15480) QID Q15480
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Browne, Patrick {std. P. Browne}|first entry]] for this author
 

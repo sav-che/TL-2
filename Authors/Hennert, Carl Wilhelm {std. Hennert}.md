@@ -6,7 +6,7 @@ tl2_surname: Hennert
 tl2_forenames: Carl Wilhelm
 tl2_name_abbrev: Hennert
 tl2_dates: 1739-1800
-tl2_page_id: 33068399
+tl2_bhl_page_id: 33068399
 author_lsid: 3841-1
 wikidata_id: Q1688693
 ipni_surname: Hennert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3841-1), [Wikidata](https://www.wikidata.org/wiki/Q1688693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3841-1) LSID 3841-1, [Wikidata](https://www.wikidata.org/wiki/Q1688693) QID Q1688693
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

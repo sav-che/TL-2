@@ -6,7 +6,7 @@ tl2_surname: Brown
 tl2_forenames: William Henry
 tl2_name_abbrev: W.H. Br.
 tl2_dates: 1884-1939
-tl2_page_id: 33266450
+tl2_bhl_page_id: 33266450
 author_lsid: 39274-1
 wikidata_id: Q21506552
 ipni_surname: Brown
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33266450) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/39274-1), [Wikidata](https://www.wikidata.org/wiki/Q21506552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/39274-1) LSID 39274-1, [Wikidata](https://www.wikidata.org/wiki/Q21506552) QID Q21506552
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

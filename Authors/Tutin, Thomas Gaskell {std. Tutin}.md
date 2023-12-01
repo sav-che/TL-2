@@ -6,7 +6,7 @@ tl2_surname: Tutin
 tl2_forenames: Thomas Gaskell
 tl2_name_abbrev: Tutin
 tl2_dates: 1908-x
-tl2_page_id: 33212598
+tl2_bhl_page_id: 33212598
 author_lsid: 10931-1
 wikidata_id: Q543782
 ipni_surname: Tutin
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:46:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33212598) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10931-1), [Wikidata](https://www.wikidata.org/wiki/Q543782). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10931-1) LSID 10931-1, [Wikidata](https://www.wikidata.org/wiki/Q543782) QID Q543782
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

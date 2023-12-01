@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0036
 tl2_volume: suppl8
 tl2_page_printed: 61
 tl2_surname: Fröhlich
-tl2_forenames: Anton[ín]
+tl2_forenames: Anton(ín)
 tl2_name_abbrev: A. Fröhl.
 tl2_dates: 1882-1969
-tl2_page_id: 33258539
+tl2_bhl_page_id: 33258539
 author_lsid: 2929-1
 wikidata_id: Q21513582
 ipni_surname: Fröhlich
@@ -23,7 +23,8 @@ ipni_record_modified: 2011-11-24 13:24:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2929-1), [Wikidata](https://www.wikidata.org/wiki/Q21513582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2929-1) LSID 2929-1, [Wikidata](https://www.wikidata.org/wiki/Q21513582) QID Q21513582
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

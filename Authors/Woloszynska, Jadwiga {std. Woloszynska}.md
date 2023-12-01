@@ -6,7 +6,7 @@ tl2_surname: Woloszynska
 tl2_forenames: Jadwiga
 tl2_name_abbrev: Woloszynska
 tl2_dates: 1882-1951
-tl2_page_id: 33066771
+tl2_bhl_page_id: 33066771
 author_lsid: 11832-1
 wikidata_id: Q11715998
 ipni_surname: Wołoszyńska
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33066771) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11832-1), [Wikidata](https://www.wikidata.org/wiki/Q11715998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11832-1) LSID 11832-1, [Wikidata](https://www.wikidata.org/wiki/Q11715998) QID Q11715998
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

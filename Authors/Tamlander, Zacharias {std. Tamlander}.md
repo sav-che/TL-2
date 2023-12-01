@@ -6,7 +6,7 @@ tl2_surname: Tamlander
 tl2_forenames: Zacharias
 tl2_name_abbrev: Tamlander
 tl2_dates: fl. 1791
-tl2_page_id: 33212198
+tl2_bhl_page_id: 33212198
 author_lsid: 10408-1
 wikidata_id: Q36712419
 ipni_surname: Tamlander
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33212198) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10408-1), [Wikidata](https://www.wikidata.org/wiki/Q36712419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10408-1) LSID 10408-1, [Wikidata](https://www.wikidata.org/wiki/Q36712419) QID Q36712419
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

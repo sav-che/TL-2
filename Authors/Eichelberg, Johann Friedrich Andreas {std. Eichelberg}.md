@@ -6,7 +6,7 @@ tl2_surname: Eichelberg
 tl2_forenames: Johann Friedrich Andreas
 tl2_name_abbrev: Eichelberg
 tl2_dates: 1808-1871
-tl2_page_id: 33120866
+tl2_bhl_page_id: 33120866
 author_lsid: 2487-1
 wikidata_id: Q21511566
 ipni_surname: Eichelberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33120866) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2487-1), [Wikidata](https://www.wikidata.org/wiki/Q21511566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2487-1) LSID 2487-1, [Wikidata](https://www.wikidata.org/wiki/Q21511566) QID Q21511566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

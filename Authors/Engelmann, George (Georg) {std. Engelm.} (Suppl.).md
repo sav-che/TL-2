@@ -6,7 +6,7 @@ tl2_surname: Engelmann
 tl2_forenames: George (Georg)
 tl2_name_abbrev: Engelm.
 tl2_dates: 1809-1884
-tl2_page_id: 33260333
+tl2_bhl_page_id: 33260333
 author_lsid: 18505-1
 wikidata_id: Q214946
 ipni_surname: Engelmann
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33260333) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18505-1), [Wikidata](https://www.wikidata.org/wiki/Q214946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18505-1) LSID 18505-1, [Wikidata](https://www.wikidata.org/wiki/Q214946) QID Q214946
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Engelmann, Georg {std. Engelm.}|first entry]] for this author
 

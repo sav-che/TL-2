@@ -6,7 +6,7 @@ tl2_surname: Malte
 tl2_forenames: Malte Oskar
 tl2_name_abbrev: Malte
 tl2_dates: 1880-1933
-tl2_page_id: 33355357
+tl2_bhl_page_id: 33355357
 author_lsid: 6041-1
 wikidata_id: Q13490369
 ipni_surname: Malte
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6041-1), [Wikidata](https://www.wikidata.org/wiki/Q13490369). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6041-1) LSID 6041-1, [Wikidata](https://www.wikidata.org/wiki/Q13490369) QID Q13490369
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

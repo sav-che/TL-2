@@ -6,7 +6,7 @@ tl2_surname: SchürhofF
 tl2_forenames: Paul Norbert
 tl2_name_abbrev: Schürhoff
 tl2_dates: 1878-1939
-tl2_page_id: 33333501
+tl2_bhl_page_id: 33333501
 author_lsid: 9281-1
 wikidata_id: Q21392072
 ipni_surname: Schürhoff
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9281-1), [Wikidata](https://www.wikidata.org/wiki/Q21392072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9281-1) LSID 9281-1, [Wikidata](https://www.wikidata.org/wiki/Q21392072) QID Q21392072
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

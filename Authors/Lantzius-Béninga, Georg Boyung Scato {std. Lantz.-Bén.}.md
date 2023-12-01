@@ -6,7 +6,7 @@ tl2_surname: Lantzius-Béninga
 tl2_forenames: Georg Boyung Scato
 tl2_name_abbrev: Lantz.-Bén.
 tl2_dates: 1815-1871
-tl2_page_id: 33068996
+tl2_bhl_page_id: 33068996
 author_lsid: 5275-1
 wikidata_id: Q21485192
 ipni_surname: Lantzius-Béninga
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5275-1), [Wikidata](https://www.wikidata.org/wiki/Q21485192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5275-1) LSID 5275-1, [Wikidata](https://www.wikidata.org/wiki/Q21485192) QID Q21485192
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

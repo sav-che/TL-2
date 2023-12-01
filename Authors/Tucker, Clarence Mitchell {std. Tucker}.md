@@ -6,7 +6,7 @@ tl2_surname: Tucker
 tl2_forenames: Clarence Mitchell
 tl2_name_abbrev: Tucker
 tl2_dates: 1897-1954
-tl2_page_id: 33212564
+tl2_bhl_page_id: 33212564
 author_lsid: 10889-1
 wikidata_id: Q21611016
 ipni_surname: Tucker
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33212564) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10889-1), [Wikidata](https://www.wikidata.org/wiki/Q21611016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10889-1) LSID 10889-1, [Wikidata](https://www.wikidata.org/wiki/Q21611016) QID Q21611016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

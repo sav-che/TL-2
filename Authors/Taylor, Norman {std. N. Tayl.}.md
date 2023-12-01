@@ -6,7 +6,7 @@ tl2_surname: Taylor
 tl2_forenames: Norman
 tl2_name_abbrev: N. Tayl.
 tl2_dates: 1883-1967
-tl2_page_id: 33212231
+tl2_bhl_page_id: 33212231
 author_lsid: 10469-1
 wikidata_id: Q3343826
 ipni_surname: Taylor
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33212231) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10469-1), [Wikidata](https://www.wikidata.org/wiki/Q3343826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10469-1) LSID 10469-1, [Wikidata](https://www.wikidata.org/wiki/Q3343826) QID Q3343826
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

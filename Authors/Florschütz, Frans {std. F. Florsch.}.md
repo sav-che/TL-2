@@ -6,7 +6,7 @@ tl2_surname: Florschütz
 tl2_forenames: Frans
 tl2_name_abbrev: F. Florsch.
 tl2_dates: 1887-1965
-tl2_page_id: 33259773
+tl2_bhl_page_id: 33259773
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33259773) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

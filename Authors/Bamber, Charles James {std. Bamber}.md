@@ -6,7 +6,7 @@ tl2_surname: Bamber
 tl2_forenames: Charles James
 tl2_name_abbrev: Bamber
 tl2_dates: 1855-x
-tl2_page_id: 33120245
+tl2_bhl_page_id: 33120245
 author_lsid: 438-1
 wikidata_id: Q21505610
 ipni_surname: Bamber
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/438-1), [Wikidata](https://www.wikidata.org/wiki/Q21505610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/438-1) LSID 438-1, [Wikidata](https://www.wikidata.org/wiki/Q21505610) QID Q21505610
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bamber, Charles James {std. Bamber} (Suppl.)|second entry]] for this author
 

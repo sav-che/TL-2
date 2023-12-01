@@ -6,7 +6,7 @@ tl2_surname: Michelis
 tl2_forenames: Friedrich Bernard Ferdinand
 tl2_name_abbrev: Michelis
 tl2_dates: 1818-1886
-tl2_page_id: 33355555
+tl2_bhl_page_id: 33355555
 author_lsid: 6439-1
 wikidata_id: Q1461156
 ipni_surname: Michelis
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6439-1), [Wikidata](https://www.wikidata.org/wiki/Q1461156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6439-1) LSID 6439-1, [Wikidata](https://www.wikidata.org/wiki/Q1461156) QID Q1461156
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Redmond
 tl2_forenames: Paul John Dominic
 tl2_name_abbrev: Redmond
 tl2_dates: 1901-x
-tl2_page_id: 33190094
+tl2_bhl_page_id: 33190094
 author_lsid: 8221-1
 wikidata_id: Q21607057
 ipni_surname: Redmond
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8221-1), [Wikidata](https://www.wikidata.org/wiki/Q21607057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8221-1) LSID 8221-1, [Wikidata](https://www.wikidata.org/wiki/Q21607057) QID Q21607057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

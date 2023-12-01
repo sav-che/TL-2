@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0463
 tl2_volume: suppl1
 tl2_page_printed: 398
 tl2_surname: Bazot
-tl2_forenames: [Marie] Louis
+tl2_forenames: (Marie) Louis
 tl2_name_abbrev: Bazot
 tl2_dates: 1825-1910
-tl2_page_id: 33265125
+tl2_bhl_page_id: 33265125
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

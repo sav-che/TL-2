@@ -6,7 +6,7 @@ tl2_surname: Rochel
 tl2_forenames: Anton
 tl2_name_abbrev: Rochel
 tl2_dates: 1770-1847
-tl2_page_id: 33190293
+tl2_bhl_page_id: 33190293
 author_lsid: 8471-1
 wikidata_id: Q369737
 ipni_surname: Rochel
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33190293) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8471-1), [Wikidata](https://www.wikidata.org/wiki/Q369737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8471-1) LSID 8471-1, [Wikidata](https://www.wikidata.org/wiki/Q369737) QID Q369737
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

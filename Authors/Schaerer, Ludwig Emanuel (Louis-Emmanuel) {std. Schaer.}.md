@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0117
 tl2_volume: vol5
 tl2_page_printed: 108
 tl2_surname: Schaerer
-tl2_forenames: Ludwig Emanuel [Louis-Emmanuel]
+tl2_forenames: Ludwig Emanuel (Louis-Emmanuel)
 tl2_name_abbrev: Schaer.
 tl2_dates: 1785-1853
-tl2_page_id: 33333247
+tl2_bhl_page_id: 33333247
 author_lsid: 9008-1
 wikidata_id: Q6096135
 ipni_surname: Schaerer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33333247) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9008-1), [Wikidata](https://www.wikidata.org/wiki/Q6096135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9008-1) LSID 9008-1, [Wikidata](https://www.wikidata.org/wiki/Q6096135) QID Q6096135
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

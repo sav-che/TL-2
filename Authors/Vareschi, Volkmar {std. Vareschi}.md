@@ -6,7 +6,7 @@ tl2_surname: Vareschi
 tl2_forenames: Volkmar
 tl2_name_abbrev: Vareschi
 tl2_dates: 1906-x
-tl2_page_id: 33212718
+tl2_bhl_page_id: 33212718
 author_lsid: 28249-1
 wikidata_id: Q21611474
 ipni_surname: Vareschi
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:33:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33212718) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/28249-1), [Wikidata](https://www.wikidata.org/wiki/Q21611474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/28249-1) LSID 28249-1, [Wikidata](https://www.wikidata.org/wiki/Q21611474) QID Q21611474
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

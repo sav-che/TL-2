@@ -6,7 +6,7 @@ tl2_surname: Aiton
 tl2_forenames: William
 tl2_name_abbrev: Aiton
 tl2_dates: 1731-1793
-tl2_page_id: 33264745
+tl2_bhl_page_id: 33264745
 author_lsid: 110-1
 wikidata_id: Q465898
 ipni_surname: Aiton
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33264745) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/110-1), [Wikidata](https://www.wikidata.org/wiki/Q465898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/110-1) LSID 110-1, [Wikidata](https://www.wikidata.org/wiki/Q465898) QID Q465898
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Aiton, William {std. Aiton}|first entry]] for this author
 

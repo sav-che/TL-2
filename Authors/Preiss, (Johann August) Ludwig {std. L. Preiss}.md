@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0468
 tl2_volume: vol4
 tl2_page_printed: 386
 tl2_surname: Preiss
-tl2_forenames: [Johann August] Ludwig
+tl2_forenames: (Johann August) Ludwig
 tl2_name_abbrev: L. Preiss
 tl2_dates: 1811-1883
-tl2_page_id: 33189857
+tl2_bhl_page_id: 33189857
 author_lsid: 13320-1
 wikidata_id: Q6699308
 ipni_surname: Preiss
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33189857) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/13320-1), [Wikidata](https://www.wikidata.org/wiki/Q6699308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13320-1) LSID 13320-1, [Wikidata](https://www.wikidata.org/wiki/Q6699308) QID Q6699308
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

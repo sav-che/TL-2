@@ -6,7 +6,7 @@ tl2_surname: Duvernoy
 tl2_forenames: Charles Jules Arthur
 tl2_name_abbrev: Duvernoy
 tl2_dates: 1876-1922
-tl2_page_id: 33260211
+tl2_bhl_page_id: 33260211
 author_lsid: 18315-1
 wikidata_id: Q47116746
 ipni_surname: Duvernoy
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33260211) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18315-1), [Wikidata](https://www.wikidata.org/wiki/Q47116746). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18315-1) LSID 18315-1, [Wikidata](https://www.wikidata.org/wiki/Q47116746) QID Q47116746
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

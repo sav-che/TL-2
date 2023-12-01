@@ -6,7 +6,7 @@ tl2_surname: Wilhelm
 tl2_forenames: Gottlieb Tobias
 tl2_name_abbrev: G. Wilh.
 tl2_dates: 1758-1811
-tl2_page_id: 33066633
+tl2_bhl_page_id: 33066633
 author_lsid: 11685-1
 wikidata_id: Q55074155
 ipni_surname: Wilhelm
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:46:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33066633) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11685-1), [Wikidata](https://www.wikidata.org/wiki/Q55074155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11685-1) LSID 11685-1, [Wikidata](https://www.wikidata.org/wiki/Q55074155) QID Q55074155
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

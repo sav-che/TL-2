@@ -6,7 +6,7 @@ tl2_surname: Palmer
 tl2_forenames: Julius Auboineau
 tl2_name_abbrev: J.A. Palmer
 tl2_dates: 1840-1899
-tl2_page_id: 33189464
+tl2_bhl_page_id: 33189464
 author_lsid: 24490-1
 wikidata_id: Q18910635
 ipni_surname: Palmer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24490-1), [Wikidata](https://www.wikidata.org/wiki/Q18910635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24490-1) LSID 24490-1, [Wikidata](https://www.wikidata.org/wiki/Q18910635) QID Q18910635
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

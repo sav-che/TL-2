@@ -6,7 +6,7 @@ tl2_surname: Bonelli
 tl2_forenames: Giorgio
 tl2_name_abbrev: Bonelli
 tl2_dates: 1724-1782
-tl2_page_id: 33120401
+tl2_bhl_page_id: 33120401
 author_lsid: 954-1
 wikidata_id: Q21506290
 ipni_surname: Bonelli
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33120401) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/954-1), [Wikidata](https://www.wikidata.org/wiki/Q21506290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/954-1) LSID 954-1, [Wikidata](https://www.wikidata.org/wiki/Q21506290) QID Q21506290
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Gattefossé
 tl2_forenames: Jean
 tl2_name_abbrev: Gattefossé
 tl2_dates: 1899-1960
-tl2_page_id: 33258622
+tl2_bhl_page_id: 33258622
 author_lsid: 3045-1
 wikidata_id: Q5928718
 ipni_surname: Gattefossé
@@ -23,7 +23,8 @@ ipni_record_modified: 2012-11-01 09:23:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33258622) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3045-1), [Wikidata](https://www.wikidata.org/wiki/Q5928718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3045-1) LSID 3045-1, [Wikidata](https://www.wikidata.org/wiki/Q5928718) QID Q5928718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

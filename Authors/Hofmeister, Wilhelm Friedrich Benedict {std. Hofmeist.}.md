@@ -6,7 +6,7 @@ tl2_surname: Hofmeister
 tl2_forenames: Wilhelm Friedrich Benedict
 tl2_name_abbrev: Hofmeist.
 tl2_dates: 1824-1877
-tl2_page_id: 33068492
+tl2_bhl_page_id: 33068492
 author_lsid: 4030-1
 wikidata_id: Q215935
 ipni_surname: Hofmeister
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33068492) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4030-1), [Wikidata](https://www.wikidata.org/wiki/Q215935). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4030-1) LSID 4030-1, [Wikidata](https://www.wikidata.org/wiki/Q215935) QID Q215935
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

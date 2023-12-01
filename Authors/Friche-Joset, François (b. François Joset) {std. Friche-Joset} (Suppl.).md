@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0004
 tl2_volume: suppl8
 tl2_page_printed: 9
 tl2_surname: Friche-Joset
-tl2_forenames: François [b. François Joset]
+tl2_forenames: François (b. François Joset)
 tl2_name_abbrev: Friche-Joset
 tl2_dates: 1799-1846
-tl2_page_id: 33258517
+tl2_bhl_page_id: 33258517
 author_lsid: 2905-1
 wikidata_id: Q21513531
 ipni_surname: Friche-Joset
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33258517) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/2905-1), [Wikidata](https://www.wikidata.org/wiki/Q21513531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2905-1) LSID 2905-1, [Wikidata](https://www.wikidata.org/wiki/Q21513531) QID Q21513531
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Friche-Joset, François {std. Friche-Joset}|first entry]] for this author
 

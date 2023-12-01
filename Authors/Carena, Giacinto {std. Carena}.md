@@ -6,7 +6,7 @@ tl2_surname: Carena
 tl2_forenames: Giacinto
 tl2_name_abbrev: Carena
 tl2_dates: 1778-1859
-tl2_page_id: 33266718
+tl2_bhl_page_id: 33266718
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33266718) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

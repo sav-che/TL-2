@@ -6,7 +6,7 @@ tl2_surname: Brainerd
 tl2_forenames: Ezra
 tl2_name_abbrev: Brainerd
 tl2_dates: 1844-1924
-tl2_page_id: 33266313
+tl2_bhl_page_id: 33266313
 author_lsid: 1066-1
 wikidata_id: Q5423328
 ipni_surname: Brainerd
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33266313) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1066-1), [Wikidata](https://www.wikidata.org/wiki/Q5423328). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1066-1) LSID 1066-1, [Wikidata](https://www.wikidata.org/wiki/Q5423328) QID Q5423328
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Reichel
 tl2_forenames: Georg Christian
 tl2_name_abbrev: G. Reichel
 tl2_dates: 1727-1771
-tl2_page_id: 33190135
+tl2_bhl_page_id: 33190135
 author_lsid: 8250-1
 wikidata_id: Q5877728
 ipni_surname: Reichel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33190135) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8250-1), [Wikidata](https://www.wikidata.org/wiki/Q5877728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8250-1) LSID 8250-1, [Wikidata](https://www.wikidata.org/wiki/Q5877728) QID Q5877728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

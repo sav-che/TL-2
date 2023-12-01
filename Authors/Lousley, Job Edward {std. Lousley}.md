@@ -6,7 +6,7 @@ tl2_surname: Lousley
 tl2_forenames: Job Edward
 tl2_name_abbrev: Lousley
 tl2_dates: 1907-1976
-tl2_page_id: 33355261
+tl2_bhl_page_id: 33355261
 author_lsid: 5776-1
 wikidata_id: Q6206655
 ipni_surname: Lousley
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33355261) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5776-1), [Wikidata](https://www.wikidata.org/wiki/Q6206655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5776-1) LSID 5776-1, [Wikidata](https://www.wikidata.org/wiki/Q6206655) QID Q6206655
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

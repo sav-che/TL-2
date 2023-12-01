@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0116
 tl2_volume: vol6
 tl2_page_printed: 94
 tl2_surname: Supprian
-tl2_forenames: Karl [Wilhelm]
+tl2_forenames: Karl (Wilhelm)
 tl2_name_abbrev: Supprian
 tl2_dates: 1871-1917
-tl2_page_id: 33212136
+tl2_bhl_page_id: 33212136
 author_lsid: 12905-1
 wikidata_id: Q21610057
 ipni_surname: Supprian
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12905-1), [Wikidata](https://www.wikidata.org/wiki/Q21610057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12905-1) LSID 12905-1, [Wikidata](https://www.wikidata.org/wiki/Q21610057) QID Q21610057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

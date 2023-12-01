@@ -6,7 +6,7 @@ tl2_surname: Moisan
 tl2_forenames: Charles Auguste
 tl2_name_abbrev: Moisan
 tl2_dates: fl. 1839
-tl2_page_id: 33355632
+tl2_bhl_page_id: 33355632
 author_lsid: 6567-1
 wikidata_id: Q36527611
 ipni_surname: Moisan
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33355632) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6567-1), [Wikidata](https://www.wikidata.org/wiki/Q36527611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6567-1) LSID 6567-1, [Wikidata](https://www.wikidata.org/wiki/Q36527611) QID Q36527611
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

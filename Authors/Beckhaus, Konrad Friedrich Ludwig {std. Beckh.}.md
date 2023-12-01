@@ -6,7 +6,7 @@ tl2_surname: Beckhaus
 tl2_forenames: Konrad Friedrich Ludwig
 tl2_name_abbrev: Beckhaus
 tl2_dates: 1821-1890
-tl2_page_id: 33120293
+tl2_bhl_page_id: 33120293
 author_lsid: 15862-1
 wikidata_id: Q109662
 ipni_surname: Beckhaus
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33120293) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15862-1), [Wikidata](https://www.wikidata.org/wiki/Q109662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15862-1) LSID 15862-1, [Wikidata](https://www.wikidata.org/wiki/Q109662) QID Q109662
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Beckhaus, Konrad (also Conrad) Friedrich Ludwig {std. Beckh.} (Suppl.)|second entry]] for this author
 

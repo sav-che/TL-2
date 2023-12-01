@@ -6,7 +6,7 @@ tl2_surname: Marthe
 tl2_forenames: François
 tl2_name_abbrev: Marthe
 tl2_dates: fl. 1801
-tl2_page_id: 33355405
+tl2_bhl_page_id: 33355405
 author_lsid: 6152-1
 wikidata_id: Q30130642
 ipni_surname: Marthe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33355405) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6152-1), [Wikidata](https://www.wikidata.org/wiki/Q30130642). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6152-1) LSID 6152-1, [Wikidata](https://www.wikidata.org/wiki/Q30130642) QID Q30130642
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

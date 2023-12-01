@@ -6,7 +6,7 @@ tl2_surname: Epling
 tl2_forenames: Carl Clawson
 tl2_name_abbrev: Epling
 tl2_dates: 1894-1968
-tl2_page_id: 33260368
+tl2_bhl_page_id: 33260368
 author_lsid: 18520-1
 wikidata_id: Q924619
 ipni_surname: Epling
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:38:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33260368) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18520-1), [Wikidata](https://www.wikidata.org/wiki/Q924619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18520-1) LSID 18520-1, [Wikidata](https://www.wikidata.org/wiki/Q924619) QID Q924619
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

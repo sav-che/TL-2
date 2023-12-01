@@ -6,7 +6,7 @@ tl2_surname: Seynes
 tl2_forenames: Jules de
 tl2_name_abbrev: De Seyn.
 tl2_dates: 1833-1912
-tl2_page_id: 33333684
+tl2_bhl_page_id: 33333684
 author_lsid: 9527-1
 wikidata_id: Q5954613
 ipni_surname: De Seynes
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33333684) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9527-1), [Wikidata](https://www.wikidata.org/wiki/Q5954613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9527-1) LSID 9527-1, [Wikidata](https://www.wikidata.org/wiki/Q5954613) QID Q5954613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

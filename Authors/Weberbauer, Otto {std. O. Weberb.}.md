@@ -6,7 +6,7 @@ tl2_surname: Weberbauer
 tl2_forenames: Otto
 tl2_name_abbrev: O. Weberb.
 tl2_dates: 1846-1881
-tl2_page_id: 33066476
+tl2_bhl_page_id: 33066476
 author_lsid: 11474-1
 wikidata_id: Q21612328
 ipni_surname: Weberbauer
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33066476) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11474-1), [Wikidata](https://www.wikidata.org/wiki/Q21612328). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11474-1) LSID 11474-1, [Wikidata](https://www.wikidata.org/wiki/Q21612328) QID Q21612328
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Camus
 tl2_forenames: Edmond Gustave
 tl2_name_abbrev: E.G. Camus
 tl2_dates: 1852-1915
-tl2_page_id: 33120563
+tl2_bhl_page_id: 33120563
 author_lsid: 12373-1
 wikidata_id: Q3823236
 ipni_surname: Camus
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33120563) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12373-1), [Wikidata](https://www.wikidata.org/wiki/Q3823236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12373-1) LSID 12373-1, [Wikidata](https://www.wikidata.org/wiki/Q3823236) QID Q3823236
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Camus, Edmond-Gustave (Gustave) {std. E.G. Camus} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Sprague
 tl2_forenames: Isaac
 tl2_name_abbrev: I. Sprague
 tl2_dates: 1811-1895
-tl2_page_id: 33333936
+tl2_bhl_page_id: 33333936
 author_lsid: 9983-1
 wikidata_id: Q3154777
 ipni_surname: Sprague
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33333936) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9983-1), [Wikidata](https://www.wikidata.org/wiki/Q3154777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9983-1) LSID 9983-1, [Wikidata](https://www.wikidata.org/wiki/Q3154777) QID Q3154777
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

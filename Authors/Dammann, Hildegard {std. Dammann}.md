@@ -6,7 +6,7 @@ tl2_surname: Dammann
 tl2_forenames: Hildegard
 tl2_name_abbrev: Dammann
 tl2_dates: 1900-x
-tl2_page_id: 33259083
+tl2_bhl_page_id: 33259083
 author_lsid: 1974-1
 wikidata_id: Q5897858
 ipni_surname: Dammann
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33259083) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1974-1), [Wikidata](https://www.wikidata.org/wiki/Q5897858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1974-1) LSID 1974-1, [Wikidata](https://www.wikidata.org/wiki/Q5897858) QID Q5897858
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

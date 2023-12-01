@@ -6,7 +6,7 @@ tl2_surname: Jaczewski
 tl2_forenames: Arthur Louis Arthurovic de
 tl2_name_abbrev: Jacz.
 tl2_dates: 1863-1932
-tl2_page_id: 33068655
+tl2_bhl_page_id: 33068655
 author_lsid: 34754-1
 wikidata_id: Q4539853
 ipni_surname: Jaczewski
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33068655) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/34754-1), [Wikidata](https://www.wikidata.org/wiki/Q4539853). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34754-1) LSID 34754-1, [Wikidata](https://www.wikidata.org/wiki/Q4539853) QID Q4539853
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

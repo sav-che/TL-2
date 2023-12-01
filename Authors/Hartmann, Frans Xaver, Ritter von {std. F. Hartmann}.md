@@ -6,7 +6,7 @@ tl2_surname: Hartmann
 tl2_forenames: Frans Xaver, Ritter von
 tl2_name_abbrev: F. Hartmann
 tl2_dates: 1737-1791
-tl2_page_id: 33068310
+tl2_bhl_page_id: 33068310
 author_lsid: 3694-1
 wikidata_id: Q16457185
 ipni_surname: Hartmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33068310) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3694-1), [Wikidata](https://www.wikidata.org/wiki/Q16457185). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3694-1) LSID 3694-1, [Wikidata](https://www.wikidata.org/wiki/Q16457185) QID Q16457185
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

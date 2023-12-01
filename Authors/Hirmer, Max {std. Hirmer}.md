@@ -6,7 +6,7 @@ tl2_surname: Hirmer
 tl2_forenames: Max
 tl2_name_abbrev: Hirmer
 tl2_dates: 1893-x
-tl2_page_id: 33068452
+tl2_bhl_page_id: 33068452
 author_lsid: 3965-1
 wikidata_id: Q1293097
 ipni_surname: Hirmer
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3965-1), [Wikidata](https://www.wikidata.org/wiki/Q1293097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3965-1) LSID 3965-1, [Wikidata](https://www.wikidata.org/wiki/Q1293097) QID Q1293097
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

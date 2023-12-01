@@ -6,7 +6,7 @@ tl2_surname: La Fons
 tl2_forenames: Alexandre de, Baron de Mélicocq
 tl2_name_abbrev: La Fons
 tl2_dates: 1802-1867
-tl2_page_id: 33068961
+tl2_bhl_page_id: 33068961
 author_lsid: 12637-1
 wikidata_id: Q15729474
 ipni_surname: La Fons
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12637-1), [Wikidata](https://www.wikidata.org/wiki/Q15729474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12637-1) LSID 12637-1, [Wikidata](https://www.wikidata.org/wiki/Q15729474) QID Q15729474
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

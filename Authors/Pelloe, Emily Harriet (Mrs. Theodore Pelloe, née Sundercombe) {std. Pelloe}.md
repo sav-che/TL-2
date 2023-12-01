@@ -6,7 +6,7 @@ tl2_surname: Pelloe
 tl2_forenames: Emily Harriet (Mrs. Theodore née Sundercombe)
 tl2_name_abbrev: Pelloe
 tl2_dates: 1878-1941
-tl2_page_id: 33189620
+tl2_bhl_page_id: 33189620
 author_lsid: 12729-1
 wikidata_id: Q5372312
 ipni_surname: Pelloe
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:48:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12729-1), [Wikidata](https://www.wikidata.org/wiki/Q5372312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12729-1) LSID 12729-1, [Wikidata](https://www.wikidata.org/wiki/Q5372312) QID Q5372312
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

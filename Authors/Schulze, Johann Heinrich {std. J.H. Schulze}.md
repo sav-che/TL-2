@@ -6,7 +6,7 @@ tl2_surname: Schulze
 tl2_forenames: Johann Heinrich
 tl2_name_abbrev: J.H. Schulze
 tl2_dates: 1687-1744
-tl2_page_id: 33333532
+tl2_bhl_page_id: 33333532
 author_lsid: 9323-1
 wikidata_id: Q76698
 ipni_surname: Schulze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33333532) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9323-1), [Wikidata](https://www.wikidata.org/wiki/Q76698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9323-1) LSID 9323-1, [Wikidata](https://www.wikidata.org/wiki/Q76698) QID Q76698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

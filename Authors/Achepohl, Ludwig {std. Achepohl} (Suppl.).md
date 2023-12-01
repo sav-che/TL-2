@@ -6,7 +6,7 @@ tl2_surname: Achepohl
 tl2_forenames: Ludwig
 tl2_name_abbrev: Achepohl
 tl2_dates: x-1902
-tl2_page_id: 33264759
+tl2_bhl_page_id: 33264759
 author_lsid: 51-1
 wikidata_id: Q10320446
 ipni_surname: Achepohl
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/51-1), [Wikidata](https://www.wikidata.org/wiki/Q10320446). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/51-1) LSID 51-1, [Wikidata](https://www.wikidata.org/wiki/Q10320446) QID Q10320446
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Achepohl, Ludwig {std. Achepohl}|first entry]] for this author
 

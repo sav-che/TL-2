@@ -6,7 +6,7 @@ tl2_surname: Brittinger
 tl2_forenames: Christian Casimir
 tl2_name_abbrev: Brittinger
 tl2_dates: 1795-1869
-tl2_page_id: 33266399
+tl2_bhl_page_id: 33266399
 author_lsid: 1158-1
 wikidata_id: Q88129
 ipni_surname: Brittinger
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33266399) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1158-1), [Wikidata](https://www.wikidata.org/wiki/Q88129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1158-1) LSID 1158-1, [Wikidata](https://www.wikidata.org/wiki/Q88129) QID Q88129
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

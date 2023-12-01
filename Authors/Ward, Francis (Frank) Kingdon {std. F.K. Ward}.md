@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0075
 tl2_volume: vol7
 tl2_page_printed: 63
 tl2_surname: Ward
-tl2_forenames: Francis [Frank] Kingdon
+tl2_forenames: Francis (Frank) Kingdon
 tl2_name_abbrev: F.K. Ward
 tl2_dates: 1885-1958
-tl2_page_id: 33066403
+tl2_bhl_page_id: 33066403
 author_lsid: 12607-1
 wikidata_id: Q321094
 ipni_surname: Kingdon-Ward
@@ -28,7 +28,8 @@ ipni_record_modified: 2011-10-05 08:32:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33066403) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12607-1), [Wikidata](https://www.wikidata.org/wiki/Q321094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12607-1) LSID 12607-1, [Wikidata](https://www.wikidata.org/wiki/Q321094) QID Q321094
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

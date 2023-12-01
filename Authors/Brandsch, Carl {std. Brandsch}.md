@@ -6,7 +6,7 @@ tl2_surname: Brandsch
 tl2_forenames: Carl
 tl2_name_abbrev: Brandsch
 tl2_dates: fl. 1854
-tl2_page_id: 33266321
+tl2_bhl_page_id: 33266321
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33266321) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

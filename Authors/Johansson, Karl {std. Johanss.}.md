@@ -6,7 +6,7 @@ tl2_surname: Johansson
 tl2_forenames: Karl
 tl2_name_abbrev: Johanss.
 tl2_dates: 1856-1928
-tl2_page_id: 33068689
+tl2_bhl_page_id: 33068689
 author_lsid: 4504-1
 wikidata_id: Q5958280
 ipni_surname: Johansson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33068689) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4504-1), [Wikidata](https://www.wikidata.org/wiki/Q5958280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4504-1) LSID 4504-1, [Wikidata](https://www.wikidata.org/wiki/Q5958280) QID Q5958280
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

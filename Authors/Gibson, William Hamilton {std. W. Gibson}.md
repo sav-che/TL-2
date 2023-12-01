@@ -6,7 +6,7 @@ tl2_surname: Gibson
 tl2_forenames: William Hamilton
 tl2_name_abbrev: W. Gibson
 tl2_dates: 1850-1896
-tl2_page_id: 33121071
+tl2_bhl_page_id: 33121071
 author_lsid: 19310-1
 wikidata_id: Q8010768
 ipni_surname: Gibson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/19310-1), [Wikidata](https://www.wikidata.org/wiki/Q8010768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19310-1) LSID 19310-1, [Wikidata](https://www.wikidata.org/wiki/Q8010768) QID Q8010768
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

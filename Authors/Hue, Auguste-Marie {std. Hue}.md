@@ -6,7 +6,7 @@ tl2_surname: Hue
 tl2_forenames: Auguste-Marie
 tl2_name_abbrev: Hue
 tl2_dates: 1840-1917
-tl2_page_id: 33068598
+tl2_bhl_page_id: 33068598
 author_lsid: 4200-1
 wikidata_id: Q2871308
 ipni_surname: Hue
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33068598) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4200-1), [Wikidata](https://www.wikidata.org/wiki/Q2871308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4200-1) LSID 4200-1, [Wikidata](https://www.wikidata.org/wiki/Q2871308) QID Q2871308
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Benedict
 tl2_forenames: Ralph Curtis
 tl2_name_abbrev: Benedict
 tl2_dates: 1883-1965
-tl2_page_id: 33265266
+tl2_bhl_page_id: 33265266
 author_lsid: 648-1
 wikidata_id: Q6098735
 ipni_surname: Benedict
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265266) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/648-1), [Wikidata](https://www.wikidata.org/wiki/Q6098735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/648-1) LSID 648-1, [Wikidata](https://www.wikidata.org/wiki/Q6098735) QID Q6098735
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

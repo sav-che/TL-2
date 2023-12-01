@@ -6,7 +6,7 @@ tl2_surname: Dierbach
 tl2_forenames: Johann Heinrich
 tl2_name_abbrev: Dierb.
 tl2_dates: 1788-1845
-tl2_page_id: 33120778
+tl2_bhl_page_id: 33120778
 author_lsid: 2201-1
 wikidata_id: Q5932956
 ipni_surname: Dierbach
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/page/33120778) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2201-1), [Wikidata](https://www.wikidata.org/wiki/Q5932956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2201-1) LSID 2201-1, [Wikidata](https://www.wikidata.org/wiki/Q5932956) QID Q5932956
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dierbach, Johann Heinrich {std. Dierb.} (Suppl.)|second entry]] for this author
 

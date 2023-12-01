@@ -6,7 +6,7 @@ tl2_surname: Cassebeer
 tl2_forenames: Johann Heinrich
 tl2_name_abbrev: Casseb.
 tl2_dates: 1784-1850
-tl2_page_id: 33266759
+tl2_bhl_page_id: 33266759
 author_lsid: 1441-1
 wikidata_id: Q1694365
 ipni_surname: Cassebeer
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33266759) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1441-1), [Wikidata](https://www.wikidata.org/wiki/Q1694365). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1441-1) LSID 1441-1, [Wikidata](https://www.wikidata.org/wiki/Q1694365) QID Q1694365
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cassebeer, Johann Heinrich {std. Casseb.}|first entry]] for this author
 

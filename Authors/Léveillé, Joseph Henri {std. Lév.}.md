@@ -6,7 +6,7 @@ tl2_surname: Léveillé
 tl2_forenames: Joseph Henri
 tl2_name_abbrev: Lév.
 tl2_dates: 1796-1870
-tl2_page_id: 33069107
+tl2_bhl_page_id: 33069107
 author_lsid: 5529-1
 wikidata_id: Q1375120
 ipni_surname: Léveillé
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-07-21 12:58:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33069107) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5529-1), [Wikidata](https://www.wikidata.org/wiki/Q1375120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5529-1) LSID 5529-1, [Wikidata](https://www.wikidata.org/wiki/Q1375120) QID Q1375120
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

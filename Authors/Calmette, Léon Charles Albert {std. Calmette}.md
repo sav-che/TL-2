@@ -6,7 +6,7 @@ tl2_surname: Calmette
 tl2_forenames: Léon Charles Albert
 tl2_name_abbrev: Calmette
 tl2_dates: 1863-1933
-tl2_page_id: 33120557
+tl2_bhl_page_id: 33120557
 author_lsid: 1364-1
 wikidata_id: Q437983
 ipni_surname: Calmette
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1364-1), [Wikidata](https://www.wikidata.org/wiki/Q437983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1364-1) LSID 1364-1, [Wikidata](https://www.wikidata.org/wiki/Q437983) QID Q437983
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0170
 tl2_volume: vol5
 tl2_page_printed: 163
 tl2_surname: Schimper
-tl2_forenames: Georg [Heinrich] Wilhelm
+tl2_forenames: Georg (Heinrich) Wilhelm
 tl2_name_abbrev: G.W. Schimp.
 tl2_dates: 1804-1878
-tl2_page_id: 33333302
+tl2_bhl_page_id: 33333302
 author_lsid: 12826-1
 wikidata_id: Q72899
 ipni_surname: Schimper
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33333302) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12826-1), [Wikidata](https://www.wikidata.org/wiki/Q72899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12826-1) LSID 12826-1, [Wikidata](https://www.wikidata.org/wiki/Q72899) QID Q72899
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

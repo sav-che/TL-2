@@ -6,7 +6,7 @@ tl2_surname: Koch
 tl2_forenames: Heinrich
 tl2_name_abbrev: H. Koch
 tl2_dates: fl. 1774
-tl2_page_id: 33068830
+tl2_bhl_page_id: 33068830
 author_lsid: 4898-1
 wikidata_id: Q21517648
 ipni_surname: Koch
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4898-1), [Wikidata](https://www.wikidata.org/wiki/Q21517648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4898-1) LSID 4898-1, [Wikidata](https://www.wikidata.org/wiki/Q21517648) QID Q21517648
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Palisot de Beauvois
 tl2_forenames: Ambroise Marie François Joseph
 tl2_name_abbrev: P. Beauv.
 tl2_dates: 1752-1820
-tl2_page_id: 33189500
+tl2_bhl_page_id: 33189500
 author_lsid: 7271-1
 wikidata_id: Q458941
 ipni_surname: Palisot de Beauvois
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:43:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33189500) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7271-1), [Wikidata](https://www.wikidata.org/wiki/Q458941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7271-1) LSID 7271-1, [Wikidata](https://www.wikidata.org/wiki/Q458941) QID Q458941
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

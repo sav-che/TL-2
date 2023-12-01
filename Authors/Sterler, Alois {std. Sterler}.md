@@ -6,7 +6,7 @@ tl2_surname: Sterler
 tl2_forenames: Alois
 tl2_name_abbrev: Sterler
 tl2_dates: 1787-1831
-tl2_page_id: 33334037
+tl2_bhl_page_id: 33334037
 author_lsid: 10111-1
 wikidata_id: Q21609803
 ipni_surname: Sterler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10111-1), [Wikidata](https://www.wikidata.org/wiki/Q21609803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10111-1) LSID 10111-1, [Wikidata](https://www.wikidata.org/wiki/Q21609803) QID Q21609803
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

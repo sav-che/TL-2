@@ -6,7 +6,7 @@ tl2_surname: Adametz
 tl2_forenames: R. Leopold
 tl2_name_abbrev: Adametz
 tl2_dates: 1861-?
-tl2_page_id: 33264757
+tl2_bhl_page_id: 33264757
 author_lsid: 30642-1
 wikidata_id: Q78821
 ipni_surname: Adametz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30642-1), [Wikidata](https://www.wikidata.org/wiki/Q78821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30642-1) LSID 30642-1, [Wikidata](https://www.wikidata.org/wiki/Q78821) QID Q78821
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bryan
 tl2_forenames: Mary McIlwaine
 tl2_name_abbrev: Bryan
 tl2_dates: fl. 1896-1917
-tl2_page_id: 33266476
+tl2_bhl_page_id: 33266476
 author_lsid: 36581-1
 wikidata_id: Q21393237
 ipni_surname: Bryan
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/36581-1), [Wikidata](https://www.wikidata.org/wiki/Q21393237). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/36581-1) LSID 36581-1, [Wikidata](https://www.wikidata.org/wiki/Q21393237) QID Q21393237
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

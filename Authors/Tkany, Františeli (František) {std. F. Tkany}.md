@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0398
 tl2_volume: vol6
 tl2_page_printed: 372
 tl2_surname: Tkany
-tl2_forenames: Františeli [František]
+tl2_forenames: Františeli (František)
 tl2_name_abbrev: F. Tkany
 tl2_dates: 1851-?
-tl2_page_id: 33212414
+tl2_bhl_page_id: 33212414
 author_lsid: 10699-1
 wikidata_id: Q21610800
 ipni_surname: Tkany
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33212414) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10699-1), [Wikidata](https://www.wikidata.org/wiki/Q21610800). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10699-1) LSID 10699-1, [Wikidata](https://www.wikidata.org/wiki/Q21610800) QID Q21610800
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

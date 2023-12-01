@@ -6,7 +6,7 @@ tl2_surname: Pitard
 tl2_forenames: Charles-Joseph Marie (Pitard-Briau)
 tl2_name_abbrev: Pit.
 tl2_dates: 1873-1927
-tl2_page_id: 33189748
+tl2_bhl_page_id: 33189748
 author_lsid: 24898-1
 wikidata_id: Q2958169
 ipni_surname: Pitard
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:37:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33189748) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24898-1), [Wikidata](https://www.wikidata.org/wiki/Q2958169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24898-1) LSID 24898-1, [Wikidata](https://www.wikidata.org/wiki/Q2958169) QID Q2958169
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Huteau
 tl2_forenames: H.
 tl2_name_abbrev: Huteau
 tl2_dates: fl. 1894
-tl2_page_id: 33068621
+tl2_bhl_page_id: 33068621
 author_lsid: 4252-1
 wikidata_id: Q36574101
 ipni_surname: Huteau
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33068621) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4252-1), [Wikidata](https://www.wikidata.org/wiki/Q36574101). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4252-1) LSID 4252-1, [Wikidata](https://www.wikidata.org/wiki/Q36574101) QID Q36574101
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Surian
 tl2_forenames: Joseph Donat
 tl2_name_abbrev: Surian
 tl2_dates: x-1691
-tl2_page_id: 33212136
+tl2_bhl_page_id: 33212136
 author_lsid: 35145-1
 wikidata_id: Q1422175
 ipni_surname: Surian
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/35145-1), [Wikidata](https://www.wikidata.org/wiki/Q1422175). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35145-1) LSID 35145-1, [Wikidata](https://www.wikidata.org/wiki/Q1422175) QID Q1422175
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

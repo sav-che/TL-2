@@ -6,7 +6,7 @@ tl2_surname: Calestani
 tl2_forenames: Vittorio
 tl2_name_abbrev: Calest.
 tl2_dates: 1882-x
-tl2_page_id: 33266618
+tl2_bhl_page_id: 33266618
 author_lsid: 1357-1
 wikidata_id: Q6164105
 ipni_surname: Calestani
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33266618) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1357-1), [Wikidata](https://www.wikidata.org/wiki/Q6164105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1357-1) LSID 1357-1, [Wikidata](https://www.wikidata.org/wiki/Q6164105) QID Q6164105
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

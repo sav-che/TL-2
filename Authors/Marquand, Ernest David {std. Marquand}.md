@@ -6,7 +6,7 @@ tl2_surname: Marquand
 tl2_forenames: Ernest David
 tl2_name_abbrev: Marquand
 tl2_dates: 1848-1918
-tl2_page_id: 33355389
+tl2_bhl_page_id: 33355389
 author_lsid: 22925-1
 wikidata_id: Q5836702
 ipni_surname: Marquand
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33355389) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22925-1), [Wikidata](https://www.wikidata.org/wiki/Q5836702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22925-1) LSID 22925-1, [Wikidata](https://www.wikidata.org/wiki/Q5836702) QID Q5836702
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

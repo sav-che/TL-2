@@ -6,7 +6,7 @@ tl2_surname: Hein
 tl2_forenames: Heinrich
 tl2_name_abbrev: H. Hein
 tl2_dates: fl. 1877
-tl2_page_id: 33068381
+tl2_bhl_page_id: 33068381
 author_lsid: 3790-1
 wikidata_id: Q47118708
 ipni_surname: Hein
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3790-1), [Wikidata](https://www.wikidata.org/wiki/Q47118708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3790-1) LSID 3790-1, [Wikidata](https://www.wikidata.org/wiki/Q47118708) QID Q47118708
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

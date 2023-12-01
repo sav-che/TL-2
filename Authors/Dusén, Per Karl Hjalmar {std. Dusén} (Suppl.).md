@@ -6,7 +6,7 @@ tl2_surname: Dusén
 tl2_forenames: Per Karl Hjalmar
 tl2_name_abbrev: Dusén
 tl2_dates: 1855-1926
-tl2_page_id: 33260189
+tl2_bhl_page_id: 33260189
 author_lsid: 18304-1
 wikidata_id: Q5625930
 ipni_surname: Dusén
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33260189) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18304-1), [Wikidata](https://www.wikidata.org/wiki/Q5625930). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18304-1) LSID 18304-1, [Wikidata](https://www.wikidata.org/wiki/Q5625930) QID Q5625930
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Dusén, Per Karl Hjalmar {std. Dusén}|first entry]] for this author
 

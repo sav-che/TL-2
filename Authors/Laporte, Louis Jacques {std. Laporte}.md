@@ -6,7 +6,7 @@ tl2_surname: Laporte
 tl2_forenames: Louis Jacques
 tl2_name_abbrev: Laporte
 tl2_dates: fl. 1930
-tl2_page_id: 33069001
+tl2_bhl_page_id: 33069001
 author_lsid: 5285-1
 wikidata_id: Q36614823
 ipni_surname: Laporte
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5285-1), [Wikidata](https://www.wikidata.org/wiki/Q36614823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5285-1) LSID 5285-1, [Wikidata](https://www.wikidata.org/wiki/Q36614823) QID Q36614823
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

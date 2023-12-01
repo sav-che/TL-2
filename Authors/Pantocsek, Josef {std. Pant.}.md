@@ -6,7 +6,7 @@ tl2_surname: Pantocsek
 tl2_forenames: Josef
 tl2_name_abbrev: Pant.
 tl2_dates: 1846-1916
-tl2_page_id: 33189479
+tl2_bhl_page_id: 33189479
 author_lsid: 12720-1
 wikidata_id: Q2736960
 ipni_surname: Pantocsek
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33189479) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12720-1), [Wikidata](https://www.wikidata.org/wiki/Q2736960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12720-1) LSID 12720-1, [Wikidata](https://www.wikidata.org/wiki/Q2736960) QID Q2736960
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

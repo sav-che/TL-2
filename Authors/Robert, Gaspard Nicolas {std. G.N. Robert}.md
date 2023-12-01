@@ -6,7 +6,7 @@ tl2_surname: Robert
 tl2_forenames: Gaspard Nicolas
 tl2_name_abbrev: G.N. Robert
 tl2_dates: 1776-1857
-tl2_page_id: 33190281
+tl2_bhl_page_id: 33190281
 author_lsid: 8441-1
 wikidata_id: Q5875913
 ipni_surname: Robert
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8441-1), [Wikidata](https://www.wikidata.org/wiki/Q5875913). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8441-1) LSID 8441-1, [Wikidata](https://www.wikidata.org/wiki/Q5875913) QID Q5875913
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

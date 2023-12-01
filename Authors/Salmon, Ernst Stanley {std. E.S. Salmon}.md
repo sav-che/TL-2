@@ -6,7 +6,7 @@ tl2_surname: Salmon
 tl2_forenames: Ernst Stanley
 tl2_name_abbrev: E.S. Salmon
 tl2_dates: 1872-1959
-tl2_page_id: 33333173
+tl2_bhl_page_id: 33333173
 author_lsid: 8849-1
 wikidata_id: Q17421769
 ipni_surname: Salmon
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33333173) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8849-1), [Wikidata](https://www.wikidata.org/wiki/Q17421769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8849-1) LSID 8849-1, [Wikidata](https://www.wikidata.org/wiki/Q17421769) QID Q17421769
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

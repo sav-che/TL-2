@@ -6,7 +6,7 @@ tl2_surname: Negri
 tl2_forenames: Giovanni
 tl2_name_abbrev: G. Negri
 tl2_dates: 1877-1960
-tl2_page_id: 33355804
+tl2_bhl_page_id: 33355804
 author_lsid: 23987-1
 wikidata_id: Q21522037
 ipni_surname: Negri
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33355804) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23987-1), [Wikidata](https://www.wikidata.org/wiki/Q21522037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23987-1) LSID 23987-1, [Wikidata](https://www.wikidata.org/wiki/Q21522037) QID Q21522037
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bergh
 tl2_forenames: Rudolph Sophus
 tl2_name_abbrev: Bergh
 tl2_dates: 1859-1924
-tl2_page_id: 33265290
+tl2_bhl_page_id: 33265290
 author_lsid: 32412-1
 wikidata_id: Q710699
 ipni_surname: Bergh
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33265290) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32412-1), [Wikidata](https://www.wikidata.org/wiki/Q710699). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32412-1) LSID 32412-1, [Wikidata](https://www.wikidata.org/wiki/Q710699) QID Q710699
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

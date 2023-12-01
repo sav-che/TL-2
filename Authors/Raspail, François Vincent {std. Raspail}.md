@@ -6,7 +6,7 @@ tl2_surname: Raspail
 tl2_forenames: François Vincent
 tl2_name_abbrev: Raspail
 tl2_dates: 1791-1878
-tl2_page_id: 33190053
+tl2_bhl_page_id: 33190053
 author_lsid: 8150-1
 wikidata_id: Q682230
 ipni_surname: Raspail
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:45:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33190053) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8150-1), [Wikidata](https://www.wikidata.org/wiki/Q682230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8150-1) LSID 8150-1, [Wikidata](https://www.wikidata.org/wiki/Q682230) QID Q682230
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

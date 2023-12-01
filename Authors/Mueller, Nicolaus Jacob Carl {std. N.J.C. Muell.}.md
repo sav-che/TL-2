@@ -6,7 +6,7 @@ tl2_surname: Mueller
 tl2_forenames: Nicolaus Jacob Carl
 tl2_name_abbrev: N.J.C. Muell.
 tl2_dates: 1842-1901
-tl2_page_id: 33355736
+tl2_bhl_page_id: 33355736
 author_lsid: 6746-1
 wikidata_id: Q21521837
 ipni_surname: Mueller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6746-1), [Wikidata](https://www.wikidata.org/wiki/Q21521837). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6746-1) LSID 6746-1, [Wikidata](https://www.wikidata.org/wiki/Q21521837) QID Q21521837
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

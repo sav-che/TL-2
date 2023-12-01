@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0190
 tl2_volume: suppl1
 tl2_page_printed: 151
 tl2_surname: Ardoino
-tl2_forenames: Honoré [Onorato] Jean Baptiste
+tl2_forenames: Honoré (Onorato) Jean Baptiste
 tl2_name_abbrev: Ardoino
 tl2_dates: 1819-1874
-tl2_page_id: 33264878
+tl2_bhl_page_id: 33264878
 author_lsid: 256-1
 wikidata_id: Q5901611
 ipni_surname: Ardoino
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/256-1), [Wikidata](https://www.wikidata.org/wiki/Q5901611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/256-1) LSID 256-1, [Wikidata](https://www.wikidata.org/wiki/Q5901611) QID Q5901611
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Ardoino, Honoré (Onorato) Jean Baptiste {std. Ardoino}|first entry]] for this author
 

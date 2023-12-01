@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0327
 tl2_volume: vol3
 tl2_page_printed: 289
 tl2_surname: Marchesetti
-tl2_forenames: Carl(o) de [Carl von]
+tl2_forenames: Carl(o) de (Carl von)
 tl2_name_abbrev: Marches.
 tl2_dates: 1850-1926
-tl2_page_id: 33355376
+tl2_bhl_page_id: 33355376
 author_lsid: 6091-1
 wikidata_id: Q3659576
 ipni_surname: Marchesetti
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33355376) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6091-1), [Wikidata](https://www.wikidata.org/wiki/Q3659576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6091-1) LSID 6091-1, [Wikidata](https://www.wikidata.org/wiki/Q3659576) QID Q3659576
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

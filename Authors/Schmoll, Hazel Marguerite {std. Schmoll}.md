@@ -6,7 +6,7 @@ tl2_surname: Schmoll
 tl2_forenames: Hazel Marguerite
 tl2_name_abbrev: Schmoll
 tl2_dates: 1891-x
-tl2_page_id: 33333404
+tl2_bhl_page_id: 33333404
 author_lsid: 9178-1
 wikidata_id: Q5893077
 ipni_surname: Schmoll
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9178-1), [Wikidata](https://www.wikidata.org/wiki/Q5893077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9178-1) LSID 9178-1, [Wikidata](https://www.wikidata.org/wiki/Q5893077) QID Q5893077
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

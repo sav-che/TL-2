@@ -6,7 +6,7 @@ tl2_surname: Schrenk
 tl2_forenames: Hermann von
 tl2_name_abbrev: H. Schrenk
 tl2_dates: 1873-1953
-tl2_page_id: 33333474
+tl2_bhl_page_id: 33333474
 author_lsid: 9264-1
 wikidata_id: Q21608440
 ipni_surname: Schrenk
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33333474) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9264-1), [Wikidata](https://www.wikidata.org/wiki/Q21608440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9264-1) LSID 9264-1, [Wikidata](https://www.wikidata.org/wiki/Q21608440) QID Q21608440
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

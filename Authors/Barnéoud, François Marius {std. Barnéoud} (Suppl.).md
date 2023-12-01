@@ -6,7 +6,7 @@ tl2_surname: Barnéoud
 tl2_forenames: François Marius
 tl2_name_abbrev: Barnéoud
 tl2_dates: 1821-?
-tl2_page_id: 33265057
+tl2_bhl_page_id: 33265057
 author_lsid: 487-1
 wikidata_id: Q5868779
 ipni_surname: Barnéoud
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33265057) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/487-1), [Wikidata](https://www.wikidata.org/wiki/Q5868779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/487-1) LSID 487-1, [Wikidata](https://www.wikidata.org/wiki/Q5868779) QID Q5868779
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Barnéoud, François Marius {std. Barnéoud}|first entry]] for this author
 

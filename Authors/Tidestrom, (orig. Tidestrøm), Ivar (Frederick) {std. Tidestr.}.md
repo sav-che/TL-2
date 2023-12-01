@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol6_0370
 tl2_volume: vol6
 tl2_page_printed: 343
-tl2_surname: Tidestrom [orig. Tidestrøm]
-tl2_forenames: Ivar [Frederick]
+tl2_surname: Tidestrom (orig. Tidestrøm)
+tl2_forenames: Ivar (Frederick)
 tl2_name_abbrev: Tidestr.
 tl2_dates: 1864-1956
-tl2_page_id: 33212385
+tl2_bhl_page_id: 33212385
 author_lsid: 10656-1
 wikidata_id: Q3156258
 ipni_surname: Tidestrøm
@@ -25,7 +25,8 @@ ipni_record_modified: 2016-06-02 18:53:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33212385) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10656-1), [Wikidata](https://www.wikidata.org/wiki/Q3156258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10656-1) LSID 10656-1, [Wikidata](https://www.wikidata.org/wiki/Q3156258) QID Q3156258
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

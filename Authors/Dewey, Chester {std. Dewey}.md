@@ -6,7 +6,7 @@ tl2_surname: Dewey
 tl2_forenames: Chester
 tl2_name_abbrev: Dewey
 tl2_dates: 1784-1867
-tl2_page_id: 33259301
+tl2_bhl_page_id: 33259301
 author_lsid: 2177-1
 wikidata_id: Q4171766
 ipni_surname: Dewey
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259301) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2177-1), [Wikidata](https://www.wikidata.org/wiki/Q4171766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2177-1) LSID 2177-1, [Wikidata](https://www.wikidata.org/wiki/Q4171766) QID Q4171766
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

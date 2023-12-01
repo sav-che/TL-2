@@ -6,7 +6,7 @@ tl2_surname: Reader
 tl2_forenames: Felix Maximilian
 tl2_name_abbrev: Reader
 tl2_dates: 1850-1911
-tl2_page_id: 33190085
+tl2_bhl_page_id: 33190085
 author_lsid: 8205-1
 wikidata_id: Q5442312
 ipni_surname: Reader
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:32:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33190085) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8205-1), [Wikidata](https://www.wikidata.org/wiki/Q5442312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8205-1) LSID 8205-1, [Wikidata](https://www.wikidata.org/wiki/Q5442312) QID Q5442312
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

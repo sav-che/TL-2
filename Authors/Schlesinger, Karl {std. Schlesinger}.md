@@ -6,7 +6,7 @@ tl2_surname: Schlesinger
 tl2_forenames: Karl
 tl2_name_abbrev: Schlesinger
 tl2_dates: 1869-?
-tl2_page_id: 33333360
+tl2_bhl_page_id: 33333360
 author_lsid: 9121-1
 wikidata_id: Q21608045
 ipni_surname: Schlesinger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33333360) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9121-1), [Wikidata](https://www.wikidata.org/wiki/Q21608045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9121-1) LSID 9121-1, [Wikidata](https://www.wikidata.org/wiki/Q21608045) QID Q21608045
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

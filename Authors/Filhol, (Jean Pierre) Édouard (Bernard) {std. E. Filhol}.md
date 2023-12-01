@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0122
 tl2_volume: suppl7
 tl2_page_printed: 183
 tl2_surname: Filhol
-tl2_forenames: [Jean Pierre] Édouard [Bernard]
+tl2_forenames: (Jean Pierre) Édouard (Bernard)
 tl2_name_abbrev: E. Filhol
 tl2_dates: 1814-1883
-tl2_page_id: 33259687
+tl2_bhl_page_id: 33259687
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33259687) of TL-2 Suppl. VII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

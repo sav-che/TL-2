@@ -6,7 +6,7 @@ tl2_surname: Jensen
 tl2_forenames: Christian Erasmus Otterstrøm
 tl2_name_abbrev: C. Jens.
 tl2_dates: 1859-1941
-tl2_page_id: 33068681
+tl2_bhl_page_id: 33068681
 author_lsid: 20963-1
 wikidata_id: Q5109555
 ipni_surname: Jensen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33068681) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/20963-1), [Wikidata](https://www.wikidata.org/wiki/Q5109555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20963-1) LSID 20963-1, [Wikidata](https://www.wikidata.org/wiki/Q5109555) QID Q5109555
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

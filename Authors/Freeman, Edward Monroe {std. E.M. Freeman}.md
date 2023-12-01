@@ -6,7 +6,7 @@ tl2_surname: Freeman
 tl2_forenames: Edward Monroe
 tl2_name_abbrev: E.M. Freeman
 tl2_dates: 1875-1954
-tl2_page_id: 33259901
+tl2_bhl_page_id: 33259901
 author_lsid: 18961-1
 wikidata_id: Q5344482
 ipni_surname: Freeman
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33259901) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18961-1), [Wikidata](https://www.wikidata.org/wiki/Q5344482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18961-1) LSID 18961-1, [Wikidata](https://www.wikidata.org/wiki/Q5344482) QID Q5344482
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

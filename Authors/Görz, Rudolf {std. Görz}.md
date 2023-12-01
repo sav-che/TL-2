@@ -6,7 +6,7 @@ tl2_surname: Görz
 tl2_forenames: Rudolf
 tl2_name_abbrev: Görz
 tl2_dates: 1879-1935
-tl2_page_id: 33258749
+tl2_bhl_page_id: 33258749
 author_lsid: 3227-1
 wikidata_id: Q14326929
 ipni_surname: Goerz
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33258749) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3227-1), [Wikidata](https://www.wikidata.org/wiki/Q14326929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3227-1) LSID 3227-1, [Wikidata](https://www.wikidata.org/wiki/Q14326929) QID Q14326929
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Heller
 tl2_forenames: Franz Xaver
 tl2_name_abbrev: F. Heller
 tl2_dates: 1775-1840
-tl2_page_id: 33068390
+tl2_bhl_page_id: 33068390
 author_lsid: 3809-1
 wikidata_id: Q15989569
 ipni_surname: Heller
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:28:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3809-1), [Wikidata](https://www.wikidata.org/wiki/Q15989569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3809-1) LSID 3809-1, [Wikidata](https://www.wikidata.org/wiki/Q15989569) QID Q15989569
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

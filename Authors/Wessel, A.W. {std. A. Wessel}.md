@@ -6,7 +6,7 @@ tl2_surname: Wessel
 tl2_forenames: A.W.
 tl2_name_abbrev: A.Wessel
 tl2_dates: fl. 1858
-tl2_page_id: 33066540
+tl2_bhl_page_id: 33066540
 author_lsid: 11571-1
 wikidata_id: Q47128732
 ipni_surname: Wessel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33066540) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11571-1), [Wikidata](https://www.wikidata.org/wiki/Q47128732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11571-1) LSID 11571-1, [Wikidata](https://www.wikidata.org/wiki/Q47128732) QID Q47128732
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

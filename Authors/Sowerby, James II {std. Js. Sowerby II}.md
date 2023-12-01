@@ -6,7 +6,7 @@ tl2_surname: Sowerby
 tl2_forenames: James II
 tl2_name_abbrev: Js. Sowerby II
 tl2_dates: 1815-1834
-tl2_page_id: 33333901
+tl2_bhl_page_id: 33333901
 author_lsid: 35147-1
 wikidata_id: Q21391147
 ipni_surname: Sowerby
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/35147-1), [Wikidata](https://www.wikidata.org/wiki/Q21391147). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35147-1) LSID 35147-1, [Wikidata](https://www.wikidata.org/wiki/Q21391147) QID Q21391147
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: True
 tl2_forenames: Rodney Howard
 tl2_name_abbrev: True
 tl2_dates: 1866-1940
-tl2_page_id: 33212554
+tl2_bhl_page_id: 33212554
 author_lsid: 10860-1
 wikidata_id: Q18911692
 ipni_surname: True
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33212554) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10860-1), [Wikidata](https://www.wikidata.org/wiki/Q18911692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10860-1) LSID 10860-1, [Wikidata](https://www.wikidata.org/wiki/Q18911692) QID Q18911692
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

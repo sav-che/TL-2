@@ -6,7 +6,7 @@ tl2_surname: Zohary
 tl2_forenames: (né Schein) Michael
 tl2_name_abbrev: Zoh.
 tl2_dates: 1898-1983
-tl2_page_id: 33066889
+tl2_bhl_page_id: 33066889
 author_lsid: 13046-1
 wikidata_id: Q929904
 ipni_surname: Zohary
@@ -24,7 +24,8 @@ ipni_record_modified: 2005-06-22 07:03:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33066889) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13046-1), [Wikidata](https://www.wikidata.org/wiki/Q929904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13046-1) LSID 13046-1, [Wikidata](https://www.wikidata.org/wiki/Q929904) QID Q929904
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Geyler
 tl2_forenames: Hermann Theodor
 tl2_name_abbrev: Geyl.
 tl2_dates: 1834-1889
-tl2_page_id: 33121070
+tl2_bhl_page_id: 33121070
 author_lsid: 3119-1
 wikidata_id: Q3134184
 ipni_surname: Geyler
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3119-1), [Wikidata](https://www.wikidata.org/wiki/Q3134184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3119-1) LSID 3119-1, [Wikidata](https://www.wikidata.org/wiki/Q3134184) QID Q3134184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Geyler, Hermann Theodor {std. Geyl.} (Suppl.)|second entry]] for this author
 

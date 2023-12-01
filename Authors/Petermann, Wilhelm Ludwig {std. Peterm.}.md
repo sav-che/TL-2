@@ -6,7 +6,7 @@ tl2_surname: Petermann
 tl2_forenames: Wilhelm Ludwig
 tl2_name_abbrev: Peterm.
 tl2_dates: 1806-1855
-tl2_page_id: 33189663
+tl2_bhl_page_id: 33189663
 author_lsid: 7565-1
 wikidata_id: Q2574012
 ipni_surname: Petermann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33189663) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7565-1), [Wikidata](https://www.wikidata.org/wiki/Q2574012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7565-1) LSID 7565-1, [Wikidata](https://www.wikidata.org/wiki/Q2574012) QID Q2574012
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

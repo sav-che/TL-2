@@ -6,7 +6,7 @@ tl2_surname: Tschermak-Seysenegg
 tl2_forenames: Erich von
 tl2_name_abbrev: Tschermak
 tl2_dates: 1871-1962
-tl2_page_id: 33212556
+tl2_bhl_page_id: 33212556
 author_lsid: 10870-1
 wikidata_id: Q93385
 ipni_surname: Tschermak-Seysenegg
@@ -24,7 +24,8 @@ ipni_record_modified: 2016-01-15 18:16:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33212556) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10870-1), [Wikidata](https://www.wikidata.org/wiki/Q93385). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10870-1) LSID 10870-1, [Wikidata](https://www.wikidata.org/wiki/Q93385) QID Q93385
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

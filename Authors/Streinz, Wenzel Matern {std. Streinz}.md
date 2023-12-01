@@ -6,7 +6,7 @@ tl2_surname: Streinz
 tl2_forenames: Wenzel Matern
 tl2_name_abbrev: Streinz
 tl2_dates: 1792-1876
-tl2_page_id: 33212049
+tl2_bhl_page_id: 33212049
 author_lsid: 10213-1
 wikidata_id: Q21609947
 ipni_surname: Streinz
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:41:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10213-1), [Wikidata](https://www.wikidata.org/wiki/Q21609947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10213-1) LSID 10213-1, [Wikidata](https://www.wikidata.org/wiki/Q21609947) QID Q21609947
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

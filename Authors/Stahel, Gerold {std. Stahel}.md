@@ -6,7 +6,7 @@ tl2_surname: Stahel
 tl2_forenames: Gerold
 tl2_name_abbrev: Stahel
 tl2_dates: 1887-1955
-tl2_page_id: 33333966
+tl2_bhl_page_id: 33333966
 author_lsid: 27117-1
 wikidata_id: Q2595991
 ipni_surname: Stahel
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/27117-1), [Wikidata](https://www.wikidata.org/wiki/Q2595991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27117-1) LSID 27117-1, [Wikidata](https://www.wikidata.org/wiki/Q2595991) QID Q2595991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

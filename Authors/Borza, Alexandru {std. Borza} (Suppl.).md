@@ -6,7 +6,7 @@ tl2_surname: Borza
 tl2_forenames: Alexandru
 tl2_name_abbrev: Borza
 tl2_dates: 1887-1971
-tl2_page_id: 33265561
+tl2_bhl_page_id: 33265561
 author_lsid: 1000-1
 wikidata_id: Q622276
 ipni_surname: Borza
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33265561) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/1000-1), [Wikidata](https://www.wikidata.org/wiki/Q622276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1000-1) LSID 1000-1, [Wikidata](https://www.wikidata.org/wiki/Q622276) QID Q622276
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Borza, Alexandru {std. Borza}|first entry]] for this author
 

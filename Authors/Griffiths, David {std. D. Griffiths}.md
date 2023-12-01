@@ -6,7 +6,7 @@ tl2_surname: Griffiths
 tl2_forenames: David
 tl2_name_abbrev: D. Griffiths
 tl2_dates: 1867-1935
-tl2_page_id: 33121137
+tl2_bhl_page_id: 33121137
 author_lsid: 3388-1
 wikidata_id: Q13218562
 ipni_surname: Griffiths
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1006](https://www.biodiversitylibrary.org/page/33121137) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3388-1), [Wikidata](https://www.wikidata.org/wiki/Q13218562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3388-1) LSID 3388-1, [Wikidata](https://www.wikidata.org/wiki/Q13218562) QID Q13218562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Griffiths, David {std. D. Griffiths} (Suppl.)|second entry]] for this author
 

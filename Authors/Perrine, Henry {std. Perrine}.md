@@ -6,7 +6,7 @@ tl2_surname: Perrine
 tl2_forenames: Henry
 tl2_name_abbrev: Perrine
 tl2_dates: 1797-1840
-tl2_page_id: 33189644
+tl2_bhl_page_id: 33189644
 author_lsid: 7536-1
 wikidata_id: Q4268924
 ipni_surname: Perrine
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:37:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33189644) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7536-1), [Wikidata](https://www.wikidata.org/wiki/Q4268924). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7536-1) LSID 7536-1, [Wikidata](https://www.wikidata.org/wiki/Q4268924) QID Q4268924
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl2_0317
 tl2_volume: suppl2
 tl2_page_printed: 256
-tl2_surname: Børgesen [Boergesen, Börgesen]
+tl2_surname: Børgesen (Boergesen, Börgesen)
 tl2_forenames: Frederik Christian Emil
 tl2_name_abbrev: Børgesen
 tl2_dates: 1866-1956
-tl2_page_id: 33265453
+tl2_bhl_page_id: 33265453
 author_lsid: 16345-1
 wikidata_id: Q4992249
 ipni_surname: Børgesen
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-02-13 11:38:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33265453) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16345-1), [Wikidata](https://www.wikidata.org/wiki/Q4992249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16345-1) LSID 16345-1, [Wikidata](https://www.wikidata.org/wiki/Q4992249) QID Q4992249
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boergesen (Børgesen), Frederik Christian Emil {std. Børgesen}|first entry]] for this author
 

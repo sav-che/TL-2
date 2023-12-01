@@ -6,7 +6,7 @@ tl2_surname: Loddiges
 tl2_forenames: George
 tl2_name_abbrev: G. Lodd.
 tl2_dates: 1784-1846
-tl2_page_id: 33355223
+tl2_bhl_page_id: 33355223
 author_lsid: 5695-1
 wikidata_id: Q3101732
 ipni_surname: Loddiges
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33355223) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5695-1), [Wikidata](https://www.wikidata.org/wiki/Q3101732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5695-1) LSID 5695-1, [Wikidata](https://www.wikidata.org/wiki/Q3101732) QID Q3101732
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

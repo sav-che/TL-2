@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0487
 tl2_volume: vol1
 tl2_page_printed: 399
 tl2_surname: Buek
-tl2_forenames: Johannes Nicolaus [II]
+tl2_forenames: Johannes Nicolaus (II)
 tl2_name_abbrev: 
 tl2_dates: 1779-1856
-tl2_page_id: 33120530
+tl2_bhl_page_id: 33120530
 author_lsid: 1265-1
 wikidata_id: Q126423
 ipni_surname: Buek
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33120530) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1265-1), [Wikidata](https://www.wikidata.org/wiki/Q126423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1265-1) LSID 1265-1, [Wikidata](https://www.wikidata.org/wiki/Q126423) QID Q126423
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

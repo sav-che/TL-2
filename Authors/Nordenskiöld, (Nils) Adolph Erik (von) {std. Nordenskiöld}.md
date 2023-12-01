@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0914
 tl2_volume: vol3
 tl2_page_printed: 765
 tl2_surname: Nordenskiöld
-tl2_forenames: [Nils] Adolph Erik [von]
+tl2_forenames: (Nils) Adolph Erik (von)
 tl2_name_abbrev: Nordenskiöld
 tl2_dates: 1832-1901
-tl2_page_id: 33355852
+tl2_bhl_page_id: 33355852
 author_lsid: 7024-1
 wikidata_id: Q156749
 ipni_surname: Nordenskiöld
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7024-1), [Wikidata](https://www.wikidata.org/wiki/Q156749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7024-1) LSID 7024-1, [Wikidata](https://www.wikidata.org/wiki/Q156749) QID Q156749
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

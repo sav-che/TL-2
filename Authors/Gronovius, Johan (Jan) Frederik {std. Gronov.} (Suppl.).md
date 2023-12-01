@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0297
 tl2_volume: suppl8
 tl2_page_printed: 411
 tl2_surname: Gronovius
-tl2_forenames: Johan [Jan] Frederik
+tl2_forenames: Johan (Jan) Frederik
 tl2_name_abbrev: Gronov.
 tl2_dates: 1690-1762
-tl2_page_id: 33258889
+tl2_bhl_page_id: 33258889
 author_lsid: 3410-1
 wikidata_id: Q724270
 ipni_surname: Gronovius
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33258889) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3410-1), [Wikidata](https://www.wikidata.org/wiki/Q724270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3410-1) LSID 3410-1, [Wikidata](https://www.wikidata.org/wiki/Q724270) QID Q724270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gronovius, Johan (Jan) Frederik {std. Gronov.}|first entry]] for this author
 

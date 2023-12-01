@@ -6,7 +6,7 @@ tl2_surname: Capeder
 tl2_forenames: Emil
 tl2_name_abbrev: Capeder
 tl2_dates: 1874-1947
-tl2_page_id: 33266700
+tl2_bhl_page_id: 33266700
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33266700) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

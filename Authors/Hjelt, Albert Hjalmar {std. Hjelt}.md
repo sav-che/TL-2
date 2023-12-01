@@ -6,7 +6,7 @@ tl2_surname: Hjelt
 tl2_forenames: Albert Hjalmar
 tl2_name_abbrev: Hjelt
 tl2_dates: 1851-1925
-tl2_page_id: 33068459
+tl2_bhl_page_id: 33068459
 author_lsid: 3977-1
 wikidata_id: Q3450215
 ipni_surname: Hjelt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3977-1), [Wikidata](https://www.wikidata.org/wiki/Q3450215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3977-1) LSID 3977-1, [Wikidata](https://www.wikidata.org/wiki/Q3450215) QID Q3450215
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

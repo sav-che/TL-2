@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0279
 tl2_volume: suppl5
 tl2_page_printed: 248
 tl2_surname: De Toni
-tl2_forenames: Giuseppe [Joseph]
+tl2_forenames: Giuseppe (Joseph)
 tl2_name_abbrev: G. De Toni
 tl2_dates: fl. 1934-1939
-tl2_page_id: 33259294
+tl2_bhl_page_id: 33259294
 author_lsid: 2166-1
 wikidata_id: Q36561288
 ipni_surname: De Toni
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33259294) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2166-1), [Wikidata](https://www.wikidata.org/wiki/Q36561288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2166-1) LSID 2166-1, [Wikidata](https://www.wikidata.org/wiki/Q36561288) QID Q36561288
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[De Toni, Giuseppe {std. G. De Toni}|first entry]] for this author
 

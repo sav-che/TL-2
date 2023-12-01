@@ -6,7 +6,7 @@ tl2_surname: Newberry
 tl2_forenames: John Strong
 tl2_name_abbrev: Newb.
 tl2_dates: 1822-1892
-tl2_page_id: 33355820
+tl2_bhl_page_id: 33355820
 author_lsid: 6944-1
 wikidata_id: Q3822582
 ipni_surname: Newberry
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6944-1), [Wikidata](https://www.wikidata.org/wiki/Q3822582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6944-1) LSID 6944-1, [Wikidata](https://www.wikidata.org/wiki/Q3822582) QID Q3822582
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

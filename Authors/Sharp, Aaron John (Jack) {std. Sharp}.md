@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0530
 tl2_volume: vol5
 tl2_page_printed: 551
 tl2_surname: Sharp
-tl2_forenames: Aaron John [Jack]
+tl2_forenames: Aaron John (Jack)
 tl2_name_abbrev: Sharp
 tl2_dates: 1904-x
-tl2_page_id: 33333690
+tl2_bhl_page_id: 33333690
 author_lsid: 9544-1
 wikidata_id: Q21339496
 ipni_surname: Sharp
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:27:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9544-1), [Wikidata](https://www.wikidata.org/wiki/Q21339496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9544-1) LSID 9544-1, [Wikidata](https://www.wikidata.org/wiki/Q21339496) QID Q21339496
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

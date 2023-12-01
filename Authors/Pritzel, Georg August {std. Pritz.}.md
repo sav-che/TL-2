@@ -6,7 +6,7 @@ tl2_surname: Pritzel
 tl2_forenames: Georg August
 tl2_name_abbrev: Pritz.
 tl2_dates: 1815-1874
-tl2_page_id: 33189880
+tl2_bhl_page_id: 33189880
 author_lsid: 7975-1
 wikidata_id: Q72910
 ipni_surname: Pritzel
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7975-1), [Wikidata](https://www.wikidata.org/wiki/Q72910). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7975-1) LSID 7975-1, [Wikidata](https://www.wikidata.org/wiki/Q72910) QID Q72910
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

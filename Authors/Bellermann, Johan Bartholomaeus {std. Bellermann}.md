@@ -6,7 +6,7 @@ tl2_surname: Bellermann
 tl2_forenames: Johan Bartholomaeus
 tl2_name_abbrev: Bellermann
 tl2_dates: 1756-1833
-tl2_page_id: 33265261
+tl2_bhl_page_id: 33265261
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265261) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

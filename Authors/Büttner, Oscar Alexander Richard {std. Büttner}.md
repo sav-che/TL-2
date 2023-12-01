@@ -6,7 +6,7 @@ tl2_surname: Büttner
 tl2_forenames: Oscar Alexander Richard
 tl2_name_abbrev: Büttner
 tl2_dates: 1858-1927
-tl2_page_id: 33266517
+tl2_bhl_page_id: 33266517
 author_lsid: 13572-1
 wikidata_id: Q105814
 ipni_surname: Büttner
@@ -23,7 +23,8 @@ ipni_record_modified: 2004-07-13 04:39:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33266517) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/13572-1), [Wikidata](https://www.wikidata.org/wiki/Q105814). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13572-1) LSID 13572-1, [Wikidata](https://www.wikidata.org/wiki/Q105814) QID Q105814
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

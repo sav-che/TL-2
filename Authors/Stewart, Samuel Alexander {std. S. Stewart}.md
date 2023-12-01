@@ -6,7 +6,7 @@ tl2_surname: Stewart
 tl2_forenames: Samuel Alexander
 tl2_name_abbrev: S. Stewart
 tl2_dates: 1826-1910
-tl2_page_id: 33334063
+tl2_bhl_page_id: 33334063
 author_lsid: 10141-1
 wikidata_id: Q7410745
 ipni_surname: Stewart
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33334063) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10141-1), [Wikidata](https://www.wikidata.org/wiki/Q7410745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10141-1) LSID 10141-1, [Wikidata](https://www.wikidata.org/wiki/Q7410745) QID Q7410745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0039
 tl2_volume: suppl4
 tl2_page_printed: 49
 tl2_surname: Chanter
-tl2_forenames: [Mrs.] Charlotte (née Kingsley)
+tl2_forenames: (Mrs.) Charlotte (née Kingsley)
 tl2_name_abbrev: Chanter
 tl2_dates: 1824-1882
-tl2_page_id: 33265726
+tl2_bhl_page_id: 33265726
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265726) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

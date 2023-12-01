@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0710
 tl2_volume: vol2
 tl2_page_printed: 585
 tl2_surname: Knuth
-tl2_forenames: Reinhard [Gustav Paul]
+tl2_forenames: Reinhard (Gustav Paul)
 tl2_name_abbrev: R. Knuth
 tl2_dates: 1874-1957
-tl2_page_id: 33068827
+tl2_bhl_page_id: 33068827
 author_lsid: 4886-1
 wikidata_id: Q7310335
 ipni_surname: Knuth
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33068827) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4886-1), [Wikidata](https://www.wikidata.org/wiki/Q7310335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4886-1) LSID 4886-1, [Wikidata](https://www.wikidata.org/wiki/Q7310335) QID Q7310335
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Leiberg
 tl2_forenames: John Bernhard
 tl2_name_abbrev: Leiberg
 tl2_dates: 1853-1913
-tl2_page_id: 33069066
+tl2_bhl_page_id: 33069066
 author_lsid: 22208-1
 wikidata_id: Q4257389
 ipni_surname: Leiberg
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:33:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33069066) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22208-1), [Wikidata](https://www.wikidata.org/wiki/Q4257389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22208-1) LSID 22208-1, [Wikidata](https://www.wikidata.org/wiki/Q4257389) QID Q4257389
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

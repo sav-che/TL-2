@@ -6,7 +6,7 @@ tl2_surname: Thiébaut
 tl2_forenames: Jean
 tl2_name_abbrev: Thiébaut
 tl2_dates: x-1953
-tl2_page_id: 33212299
+tl2_bhl_page_id: 33212299
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33212299) of TL-2 Vol. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dreves
 tl2_forenames: Johann Friedrich Peter
 tl2_name_abbrev: Dreves
 tl2_dates: 1772-1816
-tl2_page_id: 33260083
+tl2_bhl_page_id: 33260083
 author_lsid: 2312-1
 wikidata_id: Q10307767
 ipni_surname: Dreves
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2312-1), [Wikidata](https://www.wikidata.org/wiki/Q10307767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2312-1) LSID 2312-1, [Wikidata](https://www.wikidata.org/wiki/Q10307767) QID Q10307767
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

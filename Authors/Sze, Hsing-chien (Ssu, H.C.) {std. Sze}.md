@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0158
 tl2_volume: vol6
 tl2_page_printed: 144
 tl2_surname: Sze
-tl2_forenames: Hsing-chien [Ssu, H.C.]
+tl2_forenames: Hsing-chien (Ssu, H.C.)
 tl2_name_abbrev: Sze
 tl2_dates: 1902-x
-tl2_page_id: 33212186
+tl2_bhl_page_id: 33212186
 author_lsid: 10367-1
 wikidata_id: Q21610130
 ipni_surname: Sze
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10367-1), [Wikidata](https://www.wikidata.org/wiki/Q21610130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10367-1) LSID 10367-1, [Wikidata](https://www.wikidata.org/wiki/Q21610130) QID Q21610130
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

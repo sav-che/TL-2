@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0251
 tl2_volume: vol7
 tl2_page_printed: 268
 tl2_surname: Wiesner
-tl2_forenames: Julius [von]
+tl2_forenames: Julius (von)
 tl2_name_abbrev: Wiesner
 tl2_dates: 1838-1916
-tl2_page_id: 33066608
+tl2_bhl_page_id: 33066608
 author_lsid: 11654-1
 wikidata_id: Q78958
 ipni_surname: Wiesner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33066608) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11654-1), [Wikidata](https://www.wikidata.org/wiki/Q78958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11654-1) LSID 11654-1, [Wikidata](https://www.wikidata.org/wiki/Q78958) QID Q78958
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

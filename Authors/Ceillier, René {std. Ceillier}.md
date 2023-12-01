@@ -6,7 +6,7 @@ tl2_surname: Ceillier
 tl2_forenames: René
 tl2_name_abbrev: Ceillier
 tl2_dates: fl. 1913
-tl2_page_id: 33265681
+tl2_bhl_page_id: 33265681
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33265681) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

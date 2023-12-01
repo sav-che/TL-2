@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0153
 tl2_volume: suppl5
 tl2_page_printed: 141
 tl2_surname: Decker
-tl2_forenames: [João] Siegfried
+tl2_forenames: (João) Siegfried
 tl2_name_abbrev: S. Decker
 tl2_dates: fl. 1932-1936
-tl2_page_id: 33259187
+tl2_bhl_page_id: 33259187
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

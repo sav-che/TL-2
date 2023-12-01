@@ -6,7 +6,7 @@ tl2_surname: Sandu-Ville
 tl2_forenames: Costantin
 tl2_name_abbrev: Sandu
 tl2_dates: fl. 1929
-tl2_page_id: 33333136
+tl2_bhl_page_id: 33333136
 author_lsid: 26097-1
 wikidata_id: Q18549706
 ipni_surname: Sandu-Ville
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26097-1), [Wikidata](https://www.wikidata.org/wiki/Q18549706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26097-1) LSID 26097-1, [Wikidata](https://www.wikidata.org/wiki/Q18549706) QID Q18549706
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

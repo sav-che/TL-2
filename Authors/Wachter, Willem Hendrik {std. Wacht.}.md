@@ -6,7 +6,7 @@ tl2_surname: Wachter
 tl2_forenames: Willem Hendrik
 tl2_name_abbrev: Wacht.
 tl2_dates: 1882-1946
-tl2_page_id: 33066303
+tl2_bhl_page_id: 33066303
 author_lsid: 11285-1
 wikidata_id: Q6167526
 ipni_surname: Wachter
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:36:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11285-1), [Wikidata](https://www.wikidata.org/wiki/Q6167526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11285-1) LSID 11285-1, [Wikidata](https://www.wikidata.org/wiki/Q6167526) QID Q6167526
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

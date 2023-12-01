@@ -6,7 +6,7 @@ tl2_surname: Hacquet
 tl2_forenames: Belsazar (Balthasar)
 tl2_name_abbrev: Hacq.
 tl2_dates: 1739-1815
-tl2_page_id: 33068245
+tl2_bhl_page_id: 33068245
 author_lsid: 3526-1
 wikidata_id: Q816171
 ipni_surname: Hacquet
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33068245) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3526-1), [Wikidata](https://www.wikidata.org/wiki/Q816171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3526-1) LSID 3526-1, [Wikidata](https://www.wikidata.org/wiki/Q816171) QID Q816171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

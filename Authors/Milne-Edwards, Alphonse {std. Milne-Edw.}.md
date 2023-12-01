@@ -6,7 +6,7 @@ tl2_surname: Milne-Edwards
 tl2_forenames: Alphonse
 tl2_name_abbrev: Milne-Edw.
 tl2_dates: 1835-1900
-tl2_page_id: 33355591
+tl2_bhl_page_id: 33355591
 author_lsid: 6494-1
 wikidata_id: Q542059
 ipni_surname: Milne-Edwards
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33355591) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6494-1), [Wikidata](https://www.wikidata.org/wiki/Q542059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6494-1) LSID 6494-1, [Wikidata](https://www.wikidata.org/wiki/Q542059) QID Q542059
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

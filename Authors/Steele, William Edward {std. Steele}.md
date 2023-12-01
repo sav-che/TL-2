@@ -6,7 +6,7 @@ tl2_surname: Steele
 tl2_forenames: William Edward
 tl2_name_abbrev: Steele
 tl2_dates: 1816-1883
-tl2_page_id: 33333997
+tl2_bhl_page_id: 33333997
 author_lsid: 10059-1
 wikidata_id: Q47126686
 ipni_surname: Steele
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33333997) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10059-1), [Wikidata](https://www.wikidata.org/wiki/Q47126686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10059-1) LSID 10059-1, [Wikidata](https://www.wikidata.org/wiki/Q47126686) QID Q47126686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

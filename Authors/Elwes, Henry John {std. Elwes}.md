@@ -6,7 +6,7 @@ tl2_surname: Elwes
 tl2_forenames: Henry John
 tl2_name_abbrev: Elwes
 tl2_dates: 1846-1922
-tl2_page_id: 33120875
+tl2_bhl_page_id: 33120875
 author_lsid: 2524-1
 wikidata_id: Q2976019
 ipni_surname: Elwes
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:30:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33120875) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2524-1), [Wikidata](https://www.wikidata.org/wiki/Q2976019). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2524-1) LSID 2524-1, [Wikidata](https://www.wikidata.org/wiki/Q2976019) QID Q2976019
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

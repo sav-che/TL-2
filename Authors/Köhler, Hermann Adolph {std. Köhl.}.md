@@ -6,7 +6,7 @@ tl2_surname: Köhler
 tl2_forenames: Hermann Adolph
 tl2_name_abbrev: Köhl.
 tl2_dates: 1834-1879
-tl2_page_id: 33068837
+tl2_bhl_page_id: 33068837
 author_lsid: 4910-1
 wikidata_id: Q1279282
 ipni_surname: Köhler
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4910-1), [Wikidata](https://www.wikidata.org/wiki/Q1279282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4910-1) LSID 4910-1, [Wikidata](https://www.wikidata.org/wiki/Q1279282) QID Q1279282
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Petzholdt
 tl2_forenames: Georg Paul Alexander
 tl2_name_abbrev: Petzh.
 tl2_dates: 1810-1889
-tl2_page_id: 33189684
+tl2_bhl_page_id: 33189684
 author_lsid: 7606-1
 wikidata_id: Q21522916
 ipni_surname: Petzhold
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7606-1), [Wikidata](https://www.wikidata.org/wiki/Q21522916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7606-1) LSID 7606-1, [Wikidata](https://www.wikidata.org/wiki/Q21522916) QID Q21522916
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

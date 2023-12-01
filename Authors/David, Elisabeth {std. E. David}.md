@@ -6,7 +6,7 @@ tl2_surname: David
 tl2_forenames: Elisabeth
 tl2_name_abbrev: E. David
 tl2_dates: fl. 1938
-tl2_page_id: 33259141
+tl2_bhl_page_id: 33259141
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33259141) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Romans
 tl2_forenames: Bernard
 tl2_name_abbrev: Romans
 tl2_dates: ca. 1720-1784
-tl2_page_id: 33190346
+tl2_bhl_page_id: 33190346
 author_lsid: 8563-1
 wikidata_id: Q2898553
 ipni_surname: Romans
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33190346) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8563-1), [Wikidata](https://www.wikidata.org/wiki/Q2898553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8563-1) LSID 8563-1, [Wikidata](https://www.wikidata.org/wiki/Q2898553) QID Q2898553
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

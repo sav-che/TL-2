@@ -6,7 +6,7 @@ tl2_surname: Baster
 tl2_forenames: Job
 tl2_name_abbrev: Baster
 tl2_dates: 1711-1775
-tl2_page_id: 33120268
+tl2_bhl_page_id: 33120268
 author_lsid: 530-1
 wikidata_id: Q5256253
 ipni_surname: Baster
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33120268) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/530-1), [Wikidata](https://www.wikidata.org/wiki/Q5256253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/530-1) LSID 530-1, [Wikidata](https://www.wikidata.org/wiki/Q5256253) QID Q5256253
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baster, Job {std. Baster} (Suppl.)|second entry]] for this author
 

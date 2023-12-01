@@ -6,7 +6,7 @@ tl2_surname: Brinkman
 tl2_forenames: Alfred Henry
 tl2_name_abbrev: Brinkm.
 tl2_dates: 1873-1945
-tl2_page_id: 33266384
+tl2_bhl_page_id: 33266384
 author_lsid: 16544-1
 wikidata_id: Q21506491
 ipni_surname: Brinkman
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-21 20:58:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33266384) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16544-1), [Wikidata](https://www.wikidata.org/wiki/Q21506491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16544-1) LSID 16544-1, [Wikidata](https://www.wikidata.org/wiki/Q21506491) QID Q21506491
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Jesup
 tl2_forenames: Henry Griswold
 tl2_name_abbrev: Jesup
 tl2_dates: 1826-1903
-tl2_page_id: 33068685
+tl2_bhl_page_id: 33068685
 author_lsid: 4483-1
 wikidata_id: Q21517016
 ipni_surname: Jesup
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33068685) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4483-1), [Wikidata](https://www.wikidata.org/wiki/Q21517016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4483-1) LSID 4483-1, [Wikidata](https://www.wikidata.org/wiki/Q21517016) QID Q21517016
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

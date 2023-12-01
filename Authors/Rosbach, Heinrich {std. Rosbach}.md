@@ -6,7 +6,7 @@ tl2_surname: Rosbach
 tl2_forenames: Heinrich
 tl2_name_abbrev: Rosbach
 tl2_dates: fl. 1880
-tl2_page_id: 33190353
+tl2_bhl_page_id: 33190353
 author_lsid: 8582-1
 wikidata_id: Q5893536
 ipni_surname: Rosbach
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33190353) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8582-1), [Wikidata](https://www.wikidata.org/wiki/Q5893536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8582-1) LSID 8582-1, [Wikidata](https://www.wikidata.org/wiki/Q5893536) QID Q5893536
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

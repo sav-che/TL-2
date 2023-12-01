@@ -6,7 +6,7 @@ tl2_surname: Schenckel
 tl2_forenames: J.
 tl2_name_abbrev: Schenckel
 tl2_dates: fl. 1847
-tl2_page_id: 33333272
+tl2_bhl_page_id: 33333272
 author_lsid: 9051-1
 wikidata_id: Q36598704
 ipni_surname: Schenckel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33333272) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9051-1), [Wikidata](https://www.wikidata.org/wiki/Q36598704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9051-1) LSID 9051-1, [Wikidata](https://www.wikidata.org/wiki/Q36598704) QID Q36598704
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

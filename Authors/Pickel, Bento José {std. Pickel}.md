@@ -6,7 +6,7 @@ tl2_surname: Pickel
 tl2_forenames: Bento José
 tl2_name_abbrev: Pickel
 tl2_dates: 1890-1963
-tl2_page_id: 33189724
+tl2_bhl_page_id: 33189724
 author_lsid: 7671-1
 wikidata_id: Q21337951
 ipni_surname: Pickel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7671-1), [Wikidata](https://www.wikidata.org/wiki/Q21337951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7671-1) LSID 7671-1, [Wikidata](https://www.wikidata.org/wiki/Q21337951) QID Q21337951
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

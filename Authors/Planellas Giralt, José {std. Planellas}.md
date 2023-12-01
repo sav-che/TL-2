@@ -6,7 +6,7 @@ tl2_surname: Planellas Giralt
 tl2_forenames: José
 tl2_name_abbrev: Planellas
 tl2_dates: 1850-1886
-tl2_page_id: 33189760
+tl2_bhl_page_id: 33189760
 author_lsid: 7741-1
 wikidata_id: Q21523046
 ipni_surname: Planellas Giralt
@@ -25,7 +25,8 @@ ipni_record_modified: 2010-04-27 14:30:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7741-1), [Wikidata](https://www.wikidata.org/wiki/Q21523046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7741-1) LSID 7741-1, [Wikidata](https://www.wikidata.org/wiki/Q21523046) QID Q21523046
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

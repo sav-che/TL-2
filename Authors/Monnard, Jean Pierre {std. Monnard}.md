@@ -6,7 +6,7 @@ tl2_surname: Monnard
 tl2_forenames: Jean Pierre
 tl2_name_abbrev: Monnard
 tl2_dates: 1791-?
-tl2_page_id: 33355643
+tl2_bhl_page_id: 33355643
 author_lsid: 6589-1
 wikidata_id: Q21521649
 ipni_surname: Monnard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6589-1), [Wikidata](https://www.wikidata.org/wiki/Q21521649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6589-1) LSID 6589-1, [Wikidata](https://www.wikidata.org/wiki/Q21521649) QID Q21521649
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

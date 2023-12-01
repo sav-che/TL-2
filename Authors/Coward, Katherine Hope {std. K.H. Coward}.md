@@ -6,7 +6,7 @@ tl2_surname: Coward
 tl2_forenames: Katherine Hope
 tl2_name_abbrev: K.H. Coward
 tl2_dates: 1885-?
-tl2_page_id: 33266112
+tl2_bhl_page_id: 33266112
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33266112) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

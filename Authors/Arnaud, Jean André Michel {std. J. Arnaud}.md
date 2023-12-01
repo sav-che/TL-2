@@ -6,7 +6,7 @@ tl2_surname: Arnaud
 tl2_forenames: Jean André Michel
 tl2_name_abbrev: J. Arnaud
 tl2_dates: 1760-1831
-tl2_page_id: 33120195
+tl2_bhl_page_id: 33120195
 author_lsid: 273-1
 wikidata_id: Q21505339
 ipni_surname: Arnaud
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33120195) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/273-1), [Wikidata](https://www.wikidata.org/wiki/Q21505339). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/273-1) LSID 273-1, [Wikidata](https://www.wikidata.org/wiki/Q21505339) QID Q21505339
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arnaud, Jean André Michel {std. J. Arnaud} (Suppl.)|second entry]] for this author
 

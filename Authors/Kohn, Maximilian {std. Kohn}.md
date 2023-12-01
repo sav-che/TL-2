@@ -6,7 +6,7 @@ tl2_surname: Kohn
 tl2_forenames: Maximilian
 tl2_name_abbrev: Kohn
 tl2_dates: fl. 1846
-tl2_page_id: 33068849
+tl2_bhl_page_id: 33068849
 author_lsid: 4929-1
 wikidata_id: Q36628609
 ipni_surname: Kohn
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33068849) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4929-1), [Wikidata](https://www.wikidata.org/wiki/Q36628609). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4929-1) LSID 4929-1, [Wikidata](https://www.wikidata.org/wiki/Q36628609) QID Q36628609
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

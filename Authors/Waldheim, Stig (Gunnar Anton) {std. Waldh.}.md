@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0035
 tl2_volume: vol7
 tl2_page_printed: 29
 tl2_surname: Waldheim
-tl2_forenames: Stig [Gunnar Anton]
+tl2_forenames: Stig (Gunnar Anton)
 tl2_name_abbrev: Waldh.
 tl2_dates: 1911-1976
-tl2_page_id: 33066369
+tl2_bhl_page_id: 33066369
 author_lsid: 12988-1
 wikidata_id: Q21612031
 ipni_surname: Waldheim
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33066369) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12988-1), [Wikidata](https://www.wikidata.org/wiki/Q21612031). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12988-1) LSID 12988-1, [Wikidata](https://www.wikidata.org/wiki/Q21612031) QID Q21612031
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

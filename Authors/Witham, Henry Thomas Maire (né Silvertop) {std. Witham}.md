@@ -6,7 +6,7 @@ tl2_surname: Witham
 tl2_forenames: Henry Thomas Maire (né Silvertop)
 tl2_name_abbrev: Witham
 tl2_dates: 1779-1844
-tl2_page_id: 33066737
+tl2_bhl_page_id: 33066737
 author_lsid: 13025-1
 wikidata_id: Q6442708
 ipni_surname: Witham
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33066737) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/13025-1), [Wikidata](https://www.wikidata.org/wiki/Q6442708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13025-1) LSID 13025-1, [Wikidata](https://www.wikidata.org/wiki/Q6442708) QID Q6442708
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

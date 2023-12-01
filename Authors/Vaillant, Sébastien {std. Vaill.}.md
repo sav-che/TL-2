@@ -6,7 +6,7 @@ tl2_surname: Vaillant
 tl2_forenames: Sébastien
 tl2_name_abbrev: Vaill.
 tl2_dates: 1669-1722
-tl2_page_id: 33212676
+tl2_bhl_page_id: 33212676
 author_lsid: 11023-1
 wikidata_id: Q737706
 ipni_surname: Vaillant
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:37:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 634](https://www.biodiversitylibrary.org/page/33212676) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11023-1), [Wikidata](https://www.wikidata.org/wiki/Q737706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11023-1) LSID 11023-1, [Wikidata](https://www.wikidata.org/wiki/Q737706) QID Q737706
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

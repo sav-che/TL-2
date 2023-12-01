@@ -6,7 +6,7 @@ tl2_surname: Besse
 tl2_forenames: François Maurice
 tl2_name_abbrev: Besse
 tl2_dates: 1864-1924
-tl2_page_id: 33265336
+tl2_bhl_page_id: 33265336
 author_lsid: 736-1
 wikidata_id: Q21506036
 ipni_surname: Besse
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33265336) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/736-1), [Wikidata](https://www.wikidata.org/wiki/Q21506036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/736-1) LSID 736-1, [Wikidata](https://www.wikidata.org/wiki/Q21506036) QID Q21506036
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

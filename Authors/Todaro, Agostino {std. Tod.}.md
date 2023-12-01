@@ -6,7 +6,7 @@ tl2_surname: Todaro
 tl2_forenames: Agostino
 tl2_name_abbrev: Tod.
 tl2_dates: 1818-1892
-tl2_page_id: 33212420
+tl2_bhl_page_id: 33212420
 author_lsid: 10704-1
 wikidata_id: Q2738798
 ipni_surname: Todaro
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:26:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33212420) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10704-1), [Wikidata](https://www.wikidata.org/wiki/Q2738798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10704-1) LSID 10704-1, [Wikidata](https://www.wikidata.org/wiki/Q2738798) QID Q2738798
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Lovén
 tl2_forenames: Fredrik August
 tl2_name_abbrev: Lovén
 tl2_dates: 1847-1929
-tl2_page_id: 33355262
+tl2_bhl_page_id: 33355262
 author_lsid: 5779-1
 wikidata_id: Q5964277
 ipni_surname: Lovén
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33355262) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5779-1), [Wikidata](https://www.wikidata.org/wiki/Q5964277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5779-1) LSID 5779-1, [Wikidata](https://www.wikidata.org/wiki/Q5964277) QID Q5964277
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

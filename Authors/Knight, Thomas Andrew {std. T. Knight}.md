@@ -6,7 +6,7 @@ tl2_surname: Knight
 tl2_forenames: Thomas Andrew
 tl2_name_abbrev: T. Knight
 tl2_dates: 1759-1839
-tl2_page_id: 33068819
+tl2_bhl_page_id: 33068819
 author_lsid: 4872-1
 wikidata_id: Q940986
 ipni_surname: Knight
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33068819) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4872-1), [Wikidata](https://www.wikidata.org/wiki/Q940986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4872-1) LSID 4872-1, [Wikidata](https://www.wikidata.org/wiki/Q940986) QID Q940986
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

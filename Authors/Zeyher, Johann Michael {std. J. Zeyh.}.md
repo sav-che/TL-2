@@ -6,7 +6,7 @@ tl2_surname: Zeyher
 tl2_forenames: Johann Michael
 tl2_name_abbrev: J. Zeyh.
 tl2_dates: 1770-1843
-tl2_page_id: 33066875
+tl2_bhl_page_id: 33066875
 author_lsid: 12022-1
 wikidata_id: Q107991
 ipni_surname: Zeyher
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33066875) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12022-1), [Wikidata](https://www.wikidata.org/wiki/Q107991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12022-1) LSID 12022-1, [Wikidata](https://www.wikidata.org/wiki/Q107991) QID Q107991
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

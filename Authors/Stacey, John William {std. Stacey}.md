@@ -6,7 +6,7 @@ tl2_surname: Stacey
 tl2_forenames: John William
 tl2_name_abbrev: Stacey
 tl2_dates: 1871-1943
-tl2_page_id: 33333962
+tl2_bhl_page_id: 33333962
 author_lsid: 10005-1
 wikidata_id: Q5933709
 ipni_surname: Stacey
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33333962) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10005-1), [Wikidata](https://www.wikidata.org/wiki/Q5933709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10005-1) LSID 10005-1, [Wikidata](https://www.wikidata.org/wiki/Q5933709) QID Q5933709
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

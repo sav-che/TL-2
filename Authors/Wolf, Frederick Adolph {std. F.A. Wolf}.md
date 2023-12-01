@@ -6,7 +6,7 @@ tl2_surname: Wolf
 tl2_forenames: Frederick Adolph
 tl2_name_abbrev: F.A. Wolf
 tl2_dates: 1885-1975
-tl2_page_id: 33066760
+tl2_bhl_page_id: 33066760
 author_lsid: 11820-1
 wikidata_id: Q4128369
 ipni_surname: Wolf
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33066760) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11820-1), [Wikidata](https://www.wikidata.org/wiki/Q4128369). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11820-1) LSID 11820-1, [Wikidata](https://www.wikidata.org/wiki/Q4128369) QID Q4128369
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

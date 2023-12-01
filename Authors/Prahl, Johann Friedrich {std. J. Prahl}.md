@@ -6,7 +6,7 @@ tl2_surname: Prahl
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: J. Prahl
 tl2_dates: fl. 1837
-tl2_page_id: 33189845
+tl2_bhl_page_id: 33189845
 author_lsid: 7922-1
 wikidata_id: Q36597346
 ipni_surname: Prahl
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33189845) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7922-1), [Wikidata](https://www.wikidata.org/wiki/Q36597346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7922-1) LSID 7922-1, [Wikidata](https://www.wikidata.org/wiki/Q36597346) QID Q36597346
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

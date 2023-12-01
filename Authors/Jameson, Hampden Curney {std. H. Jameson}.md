@@ -6,7 +6,7 @@ tl2_surname: Jameson
 tl2_forenames: Hampden Curney
 tl2_name_abbrev: H. Jameson
 tl2_dates: 1852-1939
-tl2_page_id: 33068662
+tl2_bhl_page_id: 33068662
 author_lsid: 4414-1
 wikidata_id: Q21516906
 ipni_surname: Jameson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4414-1), [Wikidata](https://www.wikidata.org/wiki/Q21516906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4414-1) LSID 4414-1, [Wikidata](https://www.wikidata.org/wiki/Q21516906) QID Q21516906
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

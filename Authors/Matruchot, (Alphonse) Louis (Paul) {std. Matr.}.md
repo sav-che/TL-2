@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0418
 tl2_volume: vol3
 tl2_page_printed: 367
 tl2_surname: Matruchot
-tl2_forenames: [Alphonse] Louis [Paul]
+tl2_forenames: (Alphonse) Louis (Paul)
 tl2_name_abbrev: Matr.
 tl2_dates: 1863-1921
-tl2_page_id: 33355454
+tl2_bhl_page_id: 33355454
 author_lsid: 6225-1
 wikidata_id: Q3262671
 ipni_surname: Matruchot
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33355454) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6225-1), [Wikidata](https://www.wikidata.org/wiki/Q3262671). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6225-1) LSID 6225-1, [Wikidata](https://www.wikidata.org/wiki/Q3262671) QID Q3262671
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

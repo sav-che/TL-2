@@ -6,7 +6,7 @@ tl2_surname: Wyatt
 tl2_forenames: Mary
 tl2_name_abbrev: Wyatt
 tl2_dates: x-c. 1850
-tl2_page_id: 33066821
+tl2_bhl_page_id: 33066821
 author_lsid: 35136-1
 wikidata_id: Q21613125
 ipni_surname: Wyatt
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/35136-1), [Wikidata](https://www.wikidata.org/wiki/Q21613125). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35136-1) LSID 35136-1, [Wikidata](https://www.wikidata.org/wiki/Q21613125) QID Q21613125
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

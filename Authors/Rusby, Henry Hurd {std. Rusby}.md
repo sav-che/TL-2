@@ -6,7 +6,7 @@ tl2_surname: Rusby
 tl2_forenames: Henry Hurd
 tl2_name_abbrev: Rusby
 tl2_dates: 1855-1940
-tl2_page_id: 33190468
+tl2_bhl_page_id: 33190468
 author_lsid: 8747-1
 wikidata_id: Q2611285
 ipni_surname: Rusby
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:42:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/page/33190468) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8747-1), [Wikidata](https://www.wikidata.org/wiki/Q2611285). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8747-1) LSID 8747-1, [Wikidata](https://www.wikidata.org/wiki/Q2611285) QID Q2611285
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

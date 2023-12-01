@@ -6,7 +6,7 @@ tl2_surname: Weidmann
 tl2_forenames: Antonín
 tl2_name_abbrev: Weidmann
 tl2_dates: 1850-1915
-tl2_page_id: 33066488
+tl2_bhl_page_id: 33066488
 author_lsid: 11495-1
 wikidata_id: Q21612379
 ipni_surname: Weidmann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33066488) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11495-1), [Wikidata](https://www.wikidata.org/wiki/Q21612379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11495-1) LSID 11495-1, [Wikidata](https://www.wikidata.org/wiki/Q21612379) QID Q21612379
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

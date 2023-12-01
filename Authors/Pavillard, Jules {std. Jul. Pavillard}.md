@@ -6,7 +6,7 @@ tl2_surname: Pavillard
 tl2_forenames: Jules
 tl2_name_abbrev: Jul. Pavillard
 tl2_dates: 1868-1961
-tl2_page_id: 33189586
+tl2_bhl_page_id: 33189586
 author_lsid: 7417-1
 wikidata_id: Q16027655
 ipni_surname: Pavillard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7417-1), [Wikidata](https://www.wikidata.org/wiki/Q16027655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7417-1) LSID 7417-1, [Wikidata](https://www.wikidata.org/wiki/Q16027655) QID Q16027655
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pickering
 tl2_forenames: Charles
 tl2_name_abbrev: Pickering
 tl2_dates: 1805-1878
-tl2_page_id: 33189725
+tl2_bhl_page_id: 33189725
 author_lsid: 7672-1
 wikidata_id: Q5081652
 ipni_surname: Pickering
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33189725) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7672-1), [Wikidata](https://www.wikidata.org/wiki/Q5081652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7672-1) LSID 7672-1, [Wikidata](https://www.wikidata.org/wiki/Q5081652) QID Q5081652
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Millspaugh
 tl2_forenames: Charles Frederick
 tl2_name_abbrev: Millsp.
 tl2_dates: 1854-1923
-tl2_page_id: 33355588
+tl2_bhl_page_id: 33355588
 author_lsid: 23412-1
 wikidata_id: Q2585363
 ipni_surname: Millspaugh
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:53:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33355588) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23412-1), [Wikidata](https://www.wikidata.org/wiki/Q2585363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23412-1) LSID 23412-1, [Wikidata](https://www.wikidata.org/wiki/Q2585363) QID Q2585363
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

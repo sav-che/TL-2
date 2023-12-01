@@ -6,7 +6,7 @@ tl2_surname: Craig
 tl2_forenames: Thomas
 tl2_name_abbrev: Craig
 tl2_dates: 1839-1916
-tl2_page_id: 33266118
+tl2_bhl_page_id: 33266118
 author_lsid: 1859-1
 wikidata_id: Q21509202
 ipni_surname: Craig
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:26:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33266118) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1859-1), [Wikidata](https://www.wikidata.org/wiki/Q21509202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1859-1) LSID 1859-1, [Wikidata](https://www.wikidata.org/wiki/Q21509202) QID Q21509202
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

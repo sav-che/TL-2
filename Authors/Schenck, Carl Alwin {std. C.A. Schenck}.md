@@ -6,7 +6,7 @@ tl2_surname: Schenck
 tl2_forenames: Carl Alwin
 tl2_name_abbrev: C.A. Schenck
 tl2_dates: 1868-1955
-tl2_page_id: 33333269
+tl2_bhl_page_id: 33333269
 author_lsid: 9049-1
 wikidata_id: Q102461
 ipni_surname: Schenck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33333269) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9049-1), [Wikidata](https://www.wikidata.org/wiki/Q102461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9049-1) LSID 9049-1, [Wikidata](https://www.wikidata.org/wiki/Q102461) QID Q102461
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

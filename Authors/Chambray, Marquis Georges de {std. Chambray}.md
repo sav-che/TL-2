@@ -6,7 +6,7 @@ tl2_surname: Chambray
 tl2_forenames: Marquis Georges de
 tl2_name_abbrev: Chambray
 tl2_dates: 1783-1849
-tl2_page_id: 33265724
+tl2_bhl_page_id: 33265724
 author_lsid: 13909-1
 wikidata_id: Q3103683
 ipni_surname: Chambray
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13909-1), [Wikidata](https://www.wikidata.org/wiki/Q3103683). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13909-1) LSID 13909-1, [Wikidata](https://www.wikidata.org/wiki/Q3103683) QID Q3103683
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

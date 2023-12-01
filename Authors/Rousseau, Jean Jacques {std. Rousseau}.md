@@ -6,7 +6,7 @@ tl2_surname: Rousseau
 tl2_forenames: Jean Jacques
 tl2_name_abbrev: Rousseau
 tl2_dates: 1712-1778
-tl2_page_id: 33190409
+tl2_bhl_page_id: 33190409
 author_lsid: 8665-1
 wikidata_id: Q6527
 ipni_surname: Rousseau
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8665-1), [Wikidata](https://www.wikidata.org/wiki/Q6527). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8665-1) LSID 8665-1, [Wikidata](https://www.wikidata.org/wiki/Q6527) QID Q6527
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

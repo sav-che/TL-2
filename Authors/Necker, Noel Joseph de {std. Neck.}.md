@@ -6,7 +6,7 @@ tl2_surname: Necker
 tl2_forenames: Noel Joseph de
 tl2_name_abbrev: Neck.
 tl2_dates: 1730-1793
-tl2_page_id: 33355788
+tl2_bhl_page_id: 33355788
 author_lsid: 23973-1
 wikidata_id: Q77700
 ipni_surname: Necker
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:40:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23973-1), [Wikidata](https://www.wikidata.org/wiki/Q77700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23973-1) LSID 23973-1, [Wikidata](https://www.wikidata.org/wiki/Q77700) QID Q77700
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

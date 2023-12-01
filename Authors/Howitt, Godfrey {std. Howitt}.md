@@ -6,7 +6,7 @@ tl2_surname: Howitt
 tl2_forenames: Godfrey
 tl2_name_abbrev: Howitt
 tl2_dates: 1800-1873
-tl2_page_id: 33068593
+tl2_bhl_page_id: 33068593
 author_lsid: 4168-1
 wikidata_id: Q14948958
 ipni_surname: Howitt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4168-1), [Wikidata](https://www.wikidata.org/wiki/Q14948958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4168-1) LSID 4168-1, [Wikidata](https://www.wikidata.org/wiki/Q14948958) QID Q14948958
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

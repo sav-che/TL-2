@@ -6,7 +6,7 @@ tl2_surname: Sonnini de Manoncour
 tl2_forenames: Charles Nicolas Sigisbert
 tl2_name_abbrev: Sonnini
 tl2_dates: 1751-1812
-tl2_page_id: 33333885
+tl2_bhl_page_id: 33333885
 author_lsid: 9895-1
 wikidata_id: Q2459283
 ipni_surname: Sonnini de Manoncour
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33333885) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9895-1), [Wikidata](https://www.wikidata.org/wiki/Q2459283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9895-1) LSID 9895-1, [Wikidata](https://www.wikidata.org/wiki/Q2459283) QID Q2459283
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

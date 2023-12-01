@@ -6,7 +6,7 @@ tl2_surname: Focke
 tl2_forenames: Hendrik (Henri) Charles
 tl2_name_abbrev: H. Focke
 tl2_dates: 1802-1856
-tl2_page_id: 33120980
+tl2_bhl_page_id: 33120980
 author_lsid: 2797-1
 wikidata_id: Q5894348
 ipni_surname: Focke
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33120980) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2797-1), [Wikidata](https://www.wikidata.org/wiki/Q5894348). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2797-1) LSID 2797-1, [Wikidata](https://www.wikidata.org/wiki/Q5894348) QID Q5894348
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

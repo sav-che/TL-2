@@ -6,7 +6,7 @@ tl2_surname: McIlvaine
 tl2_forenames: Charles
 tl2_name_abbrev: McIlv.
 tl2_dates: 1840-1909
-tl2_page_id: 33355310
+tl2_bhl_page_id: 33355310
 author_lsid: 23157-1
 wikidata_id: Q5080838
 ipni_surname: McIlvaine
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33355310) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23157-1), [Wikidata](https://www.wikidata.org/wiki/Q5080838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23157-1) LSID 23157-1, [Wikidata](https://www.wikidata.org/wiki/Q5080838) QID Q5080838
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

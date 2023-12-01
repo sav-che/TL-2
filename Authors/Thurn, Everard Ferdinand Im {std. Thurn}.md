@@ -6,7 +6,7 @@ tl2_surname: Thurn
 tl2_forenames: Everard Ferdinand Im
 tl2_name_abbrev: Thurn
 tl2_dates: 1852-1932
-tl2_page_id: 33212380
+tl2_bhl_page_id: 33212380
 author_lsid: 12933-1
 wikidata_id: Q717391
 ipni_surname: Thurn
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33212380) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12933-1), [Wikidata](https://www.wikidata.org/wiki/Q717391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12933-1) LSID 12933-1, [Wikidata](https://www.wikidata.org/wiki/Q717391) QID Q717391
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Holtz
 tl2_forenames: Johann Friedrich Ludwig
 tl2_name_abbrev: Holtz
 tl2_dates: 1824-1907
-tl2_page_id: 33068505
+tl2_bhl_page_id: 33068505
 author_lsid: 4064-1
 wikidata_id: Q21515990
 ipni_surname: Holtz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33068505) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4064-1), [Wikidata](https://www.wikidata.org/wiki/Q21515990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4064-1) LSID 4064-1, [Wikidata](https://www.wikidata.org/wiki/Q21515990) QID Q21515990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

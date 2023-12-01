@@ -6,7 +6,7 @@ tl2_surname: Pollacci
 tl2_forenames: Gino
 tl2_name_abbrev: Pollacci
 tl2_dates: 1872-1963
-tl2_page_id: 33189800
+tl2_bhl_page_id: 33189800
 author_lsid: 24961-1
 wikidata_id: Q15686778
 ipni_surname: Pollacci
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24961-1), [Wikidata](https://www.wikidata.org/wiki/Q15686778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24961-1) LSID 24961-1, [Wikidata](https://www.wikidata.org/wiki/Q15686778) QID Q15686778
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

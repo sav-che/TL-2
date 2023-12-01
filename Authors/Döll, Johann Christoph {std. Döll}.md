@@ -6,7 +6,7 @@ tl2_surname: Döll
 tl2_forenames: Johann Christoph
 tl2_name_abbrev: Döll
 tl2_dates: 1808-1885
-tl2_page_id: 33120796
+tl2_bhl_page_id: 33120796
 author_lsid: 12410-1
 wikidata_id: Q86721
 ipni_surname: Döll
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33120796) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12410-1), [Wikidata](https://www.wikidata.org/wiki/Q86721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12410-1) LSID 12410-1, [Wikidata](https://www.wikidata.org/wiki/Q86721) QID Q86721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Döll (Doell), Johann Christoph {std. Döll} (Suppl.)|second entry]] for this author
 

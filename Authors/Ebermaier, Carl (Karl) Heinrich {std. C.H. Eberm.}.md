@@ -6,7 +6,7 @@ tl2_surname: Ebermaier
 tl2_forenames: Carl (Karl) Heinrich
 tl2_name_abbrev: C.H. Eberm.
 tl2_dates: 1802-1870
-tl2_page_id: 33260237
+tl2_bhl_page_id: 33260237
 author_lsid: 2455-1
 wikidata_id: Q5040299
 ipni_surname: Ebermaier
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/2455-1), [Wikidata](https://www.wikidata.org/wiki/Q5040299). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2455-1) LSID 2455-1, [Wikidata](https://www.wikidata.org/wiki/Q5040299) QID Q5040299
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pantel
 tl2_forenames: C.
 tl2_name_abbrev: Pantel
 tl2_dates: fl. 1885
-tl2_page_id: 33189478
+tl2_bhl_page_id: 33189478
 author_lsid: 7312-1
 wikidata_id: Q36528944
 ipni_surname: Pantel
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7312-1), [Wikidata](https://www.wikidata.org/wiki/Q36528944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7312-1) LSID 7312-1, [Wikidata](https://www.wikidata.org/wiki/Q36528944) QID Q36528944
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

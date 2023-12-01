@@ -6,7 +6,7 @@ tl2_surname: Lüscher
 tl2_forenames: Hermann
 tl2_name_abbrev: Lüscher
 tl2_dates: 1859-1920
-tl2_page_id: 33355276
+tl2_bhl_page_id: 33355276
 author_lsid: 5821-1
 wikidata_id: Q21519650
 ipni_surname: Lüscher
@@ -24,7 +24,8 @@ ipni_record_modified: 2012-01-16 14:22:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33355276) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5821-1), [Wikidata](https://www.wikidata.org/wiki/Q21519650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5821-1) LSID 5821-1, [Wikidata](https://www.wikidata.org/wiki/Q21519650) QID Q21519650
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

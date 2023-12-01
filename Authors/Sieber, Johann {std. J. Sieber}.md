@@ -6,7 +6,7 @@ tl2_surname: Sieber
 tl2_forenames: Johann
 tl2_name_abbrev: J. Sieber
 tl2_dates: x-1880
-tl2_page_id: 33333723
+tl2_bhl_page_id: 33333723
 author_lsid: 9613-1
 wikidata_id: Q21608856
 ipni_surname: Sieber
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33333723) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9613-1), [Wikidata](https://www.wikidata.org/wiki/Q21608856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9613-1) LSID 9613-1, [Wikidata](https://www.wikidata.org/wiki/Q21608856) QID Q21608856
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Forrest
 tl2_forenames: George
 tl2_name_abbrev: Forrest
 tl2_dates: 1873-1932
-tl2_page_id: 33120985
+tl2_bhl_page_id: 33120985
 author_lsid: 2829-1
 wikidata_id: Q204566
 ipni_surname: Forrest
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2829-1), [Wikidata](https://www.wikidata.org/wiki/Q204566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2829-1) LSID 2829-1, [Wikidata](https://www.wikidata.org/wiki/Q204566) QID Q204566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

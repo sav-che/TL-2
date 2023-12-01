@@ -6,7 +6,7 @@ tl2_surname: Kirillow
 tl2_forenames: Peter
 tl2_name_abbrev: Kirillow
 tl2_dates: fl. 1849
-tl2_page_id: 33068791
+tl2_bhl_page_id: 33068791
 author_lsid: 4805-1
 wikidata_id: Q36652409
 ipni_surname: Kirilov
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33068791) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4805-1), [Wikidata](https://www.wikidata.org/wiki/Q36652409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4805-1) LSID 4805-1, [Wikidata](https://www.wikidata.org/wiki/Q36652409) QID Q36652409
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

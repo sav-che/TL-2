@@ -6,7 +6,7 @@ tl2_surname: Lund
 tl2_forenames: Peter Wilhelm
 tl2_name_abbrev: P.W. Lund
 tl2_dates: 1801-1880
-tl2_page_id: 33355281
+tl2_bhl_page_id: 33355281
 author_lsid: 5837-1
 wikidata_id: Q723809
 ipni_surname: Lund
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5837-1), [Wikidata](https://www.wikidata.org/wiki/Q723809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5837-1) LSID 5837-1, [Wikidata](https://www.wikidata.org/wiki/Q723809) QID Q723809
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

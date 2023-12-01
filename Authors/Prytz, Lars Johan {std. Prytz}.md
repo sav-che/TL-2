@@ -6,7 +6,7 @@ tl2_surname: Prytz
 tl2_forenames: Lars Johan
 tl2_name_abbrev: Prytz
 tl2_dates: 1789-1823
-tl2_page_id: 33189892
+tl2_bhl_page_id: 33189892
 author_lsid: 8003-1
 wikidata_id: Q17383242
 ipni_surname: Prytz
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8003-1), [Wikidata](https://www.wikidata.org/wiki/Q17383242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8003-1) LSID 8003-1, [Wikidata](https://www.wikidata.org/wiki/Q17383242) QID Q17383242
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

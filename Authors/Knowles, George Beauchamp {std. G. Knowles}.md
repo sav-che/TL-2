@@ -6,7 +6,7 @@ tl2_surname: Knowles
 tl2_forenames: George Beauchamp
 tl2_name_abbrev: G. Knowles
 tl2_dates: fl. 1829-1852
-tl2_page_id: 33068824
+tl2_bhl_page_id: 33068824
 author_lsid: 4881-1
 wikidata_id: Q3101418
 ipni_surname: Knowles
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33068824) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4881-1), [Wikidata](https://www.wikidata.org/wiki/Q3101418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4881-1) LSID 4881-1, [Wikidata](https://www.wikidata.org/wiki/Q3101418) QID Q3101418
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

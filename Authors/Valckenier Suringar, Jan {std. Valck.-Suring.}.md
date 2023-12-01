@@ -6,7 +6,7 @@ tl2_surname: Valckenier Suringar
 tl2_forenames: Jan
 tl2_name_abbrev: Valck.-Suring.
 tl2_dates: 1864-1932
-tl2_page_id: 33212685
+tl2_bhl_page_id: 33212685
 author_lsid: 11028-1
 wikidata_id: Q5926028
 ipni_surname: Valckenier Suringar
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33212685) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11028-1), [Wikidata](https://www.wikidata.org/wiki/Q5926028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11028-1) LSID 11028-1, [Wikidata](https://www.wikidata.org/wiki/Q5926028) QID Q5926028
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

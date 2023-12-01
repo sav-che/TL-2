@@ -6,7 +6,7 @@ tl2_surname: Brown
 tl2_forenames: Elizabeth Dorothy, née Wuist
 tl2_name_abbrev: E.D. Br.
 tl2_dates: 1880-?
-tl2_page_id: 33266440
+tl2_bhl_page_id: 33266440
 author_lsid: 1188-1
 wikidata_id: Q21394325
 ipni_surname: Brown
@@ -25,7 +25,8 @@ ipni_record_modified: 2017-03-29 15:08:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1188-1), [Wikidata](https://www.wikidata.org/wiki/Q21394325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1188-1) LSID 1188-1, [Wikidata](https://www.wikidata.org/wiki/Q21394325) QID Q21394325
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

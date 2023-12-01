@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0230
 tl2_volume: vol3
 tl2_page_printed: 220
-tl2_surname: McGibbon [MacGibbon]
+tl2_surname: McGibbon (MacGibbon)
 tl2_forenames: James
 tl2_name_abbrev: McGibb.
 tl2_dates: fl. 1848-1864
-tl2_page_id: 33355307
+tl2_bhl_page_id: 33355307
 author_lsid: 5917-1
 wikidata_id: Q47122315
 ipni_surname: McGibbon
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5917-1), [Wikidata](https://www.wikidata.org/wiki/Q47122315). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5917-1) LSID 5917-1, [Wikidata](https://www.wikidata.org/wiki/Q47122315) QID Q47122315
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

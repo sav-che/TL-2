@@ -6,7 +6,7 @@ tl2_surname: Michel
 tl2_forenames: Mathieu Joseph
 tl2_name_abbrev: M. Michel
 tl2_dates: 1825-1890
-tl2_page_id: 33355551
+tl2_bhl_page_id: 33355551
 author_lsid: 6433-1
 wikidata_id: Q21520515
 ipni_surname: Michel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33355551) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6433-1), [Wikidata](https://www.wikidata.org/wiki/Q21520515). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6433-1) LSID 6433-1, [Wikidata](https://www.wikidata.org/wiki/Q21520515) QID Q21520515
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

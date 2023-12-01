@@ -6,7 +6,7 @@ tl2_surname: Lloyd
 tl2_forenames: James
 tl2_name_abbrev: J. Lloyd
 tl2_dates: 1810-1896
-tl2_page_id: 33355214
+tl2_bhl_page_id: 33355214
 author_lsid: 5680-1
 wikidata_id: Q5925802
 ipni_surname: Lloyd
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33355214) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5680-1), [Wikidata](https://www.wikidata.org/wiki/Q5925802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5680-1) LSID 5680-1, [Wikidata](https://www.wikidata.org/wiki/Q5925802) QID Q5925802
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

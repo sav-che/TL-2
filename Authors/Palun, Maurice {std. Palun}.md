@@ -6,7 +6,7 @@ tl2_surname: Palun
 tl2_forenames: Maurice
 tl2_name_abbrev: Palun
 tl2_dates: 1777-1860
-tl2_page_id: 33189468
+tl2_bhl_page_id: 33189468
 author_lsid: 7294-1
 wikidata_id: Q3301235
 ipni_surname: Palun
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7294-1), [Wikidata](https://www.wikidata.org/wiki/Q3301235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7294-1) LSID 7294-1, [Wikidata](https://www.wikidata.org/wiki/Q3301235) QID Q3301235
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

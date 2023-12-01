@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0015
 tl2_volume: vol7
 tl2_page_printed: 11
 tl2_surname: Wagner
-tl2_forenames: János [Johannes]
+tl2_forenames: János (Johannes)
 tl2_name_abbrev: J. Wagner
 tl2_dates: 1870-1955
-tl2_page_id: 33066313
+tl2_bhl_page_id: 33066313
 author_lsid: 12984-1
 wikidata_id: Q4102229
 ipni_surname: Wagner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33066313) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12984-1), [Wikidata](https://www.wikidata.org/wiki/Q4102229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12984-1) LSID 12984-1, [Wikidata](https://www.wikidata.org/wiki/Q4102229) QID Q4102229
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

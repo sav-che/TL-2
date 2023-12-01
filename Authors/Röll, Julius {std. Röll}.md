@@ -6,7 +6,7 @@ tl2_surname: Röll
 tl2_forenames: Julius
 tl2_name_abbrev: Röll
 tl2_dates: 1846-1928
-tl2_page_id: 33190308
+tl2_bhl_page_id: 33190308
 author_lsid: 8500-1
 wikidata_id: Q21339621
 ipni_surname: Röll
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33190308) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8500-1), [Wikidata](https://www.wikidata.org/wiki/Q21339621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8500-1) LSID 8500-1, [Wikidata](https://www.wikidata.org/wiki/Q21339621) QID Q21339621
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

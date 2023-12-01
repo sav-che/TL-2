@@ -6,7 +6,7 @@ tl2_surname: Transeau
 tl2_forenames: Edgar Nelson
 tl2_name_abbrev: Transeau
 tl2_dates: 1875-1960
-tl2_page_id: 33212474
+tl2_bhl_page_id: 33212474
 author_lsid: 10790-1
 wikidata_id: Q5817721
 ipni_surname: Transeau
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:57.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33212474) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10790-1), [Wikidata](https://www.wikidata.org/wiki/Q5817721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10790-1) LSID 10790-1, [Wikidata](https://www.wikidata.org/wiki/Q5817721) QID Q5817721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

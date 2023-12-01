@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl7_0156
 tl2_volume: suppl7
 tl2_page_printed: 229
-tl2_surname: Fitzgerald [FitzGerald]
+tl2_surname: Fitzgerald (FitzGerald)
 tl2_forenames: Robert David
 tl2_name_abbrev: Fitzg.
 tl2_dates: 1830-1892
-tl2_page_id: 33259733
+tl2_bhl_page_id: 33259733
 author_lsid: 12499-1
 wikidata_id: Q3281581
 ipni_surname: Fitzgerald
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33259733) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/12499-1), [Wikidata](https://www.wikidata.org/wiki/Q3281581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12499-1) LSID 12499-1, [Wikidata](https://www.wikidata.org/wiki/Q3281581) QID Q3281581
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fitzgerald, Robert Desmond {std. Fitzg.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Weihe
 tl2_forenames: Carl Ernst August
 tl2_name_abbrev: Weihe
 tl2_dates: 1779-1834
-tl2_page_id: 33066491
+tl2_bhl_page_id: 33066491
 author_lsid: 11500-1
 wikidata_id: Q5040104
 ipni_surname: Weihe
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33066491) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11500-1), [Wikidata](https://www.wikidata.org/wiki/Q5040104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11500-1) LSID 11500-1, [Wikidata](https://www.wikidata.org/wiki/Q5040104) QID Q5040104
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

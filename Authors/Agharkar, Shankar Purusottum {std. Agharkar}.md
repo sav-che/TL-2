@@ -6,7 +6,7 @@ tl2_surname: Agharkar
 tl2_forenames: Shankar Purusottum
 tl2_name_abbrev: Agharkar
 tl2_dates: 1884-1960
-tl2_page_id: 33264733
+tl2_bhl_page_id: 33264733
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33264733) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

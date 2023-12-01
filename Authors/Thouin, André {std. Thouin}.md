@@ -6,7 +6,7 @@ tl2_surname: Thouin
 tl2_forenames: André
 tl2_name_abbrev: Thouin
 tl2_dates: 1747-1824
-tl2_page_id: 33212339
+tl2_bhl_page_id: 33212339
 author_lsid: 10640-1
 wikidata_id: Q523100
 ipni_surname: Thouin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33212339) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10640-1), [Wikidata](https://www.wikidata.org/wiki/Q523100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10640-1) LSID 10640-1, [Wikidata](https://www.wikidata.org/wiki/Q523100) QID Q523100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

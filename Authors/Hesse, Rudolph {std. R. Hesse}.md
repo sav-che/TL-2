@@ -6,7 +6,7 @@ tl2_surname: Hesse
 tl2_forenames: Rudolph
 tl2_name_abbrev: R. Hesse
 tl2_dates: 1844-1912
-tl2_page_id: 33068424
+tl2_bhl_page_id: 33068424
 author_lsid: 3907-1
 wikidata_id: Q4137664
 ipni_surname: Hesse
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33068424) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3907-1), [Wikidata](https://www.wikidata.org/wiki/Q4137664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3907-1) LSID 3907-1, [Wikidata](https://www.wikidata.org/wiki/Q4137664) QID Q4137664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

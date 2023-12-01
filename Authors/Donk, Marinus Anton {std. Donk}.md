@@ -6,7 +6,7 @@ tl2_surname: Donk
 tl2_forenames: Marinus Anton
 tl2_name_abbrev: Donk
 tl2_dates: 1908-1972
-tl2_page_id: 33120802
+tl2_bhl_page_id: 33120802
 author_lsid: 18142-1
 wikidata_id: Q449688
 ipni_surname: Donk
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33120802) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/18142-1), [Wikidata](https://www.wikidata.org/wiki/Q449688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18142-1) LSID 18142-1, [Wikidata](https://www.wikidata.org/wiki/Q449688) QID Q449688
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Donk, Marinus Anton {std. Donk} (Suppl.)|second entry]] for this author
 

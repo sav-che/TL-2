@@ -6,7 +6,7 @@ tl2_surname: Elfving
 tl2_forenames: Frederik Emil Volmar
 tl2_name_abbrev: Elfving
 tl2_dates: 1854-1942
-tl2_page_id: 33120871
+tl2_bhl_page_id: 33120871
 author_lsid: 33028-1
 wikidata_id: Q4411433
 ipni_surname: Elfving
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/33028-1), [Wikidata](https://www.wikidata.org/wiki/Q4411433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/33028-1) LSID 33028-1, [Wikidata](https://www.wikidata.org/wiki/Q4411433) QID Q4411433
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Elfving, Frederik Emil Volmar {std. Elfving} (Suppl.)|second entry]] for this author
 

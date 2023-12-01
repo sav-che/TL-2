@@ -6,7 +6,7 @@ tl2_surname: Ogata
 tl2_forenames: Masasuke
 tl2_name_abbrev: Ogata
 tl2_dates: 1883-1944
-tl2_page_id: 33355900
+tl2_bhl_page_id: 33355900
 author_lsid: 7098-1
 wikidata_id: Q6005292
 ipni_surname: Ogata
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7098-1), [Wikidata](https://www.wikidata.org/wiki/Q6005292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7098-1) LSID 7098-1, [Wikidata](https://www.wikidata.org/wiki/Q6005292) QID Q6005292
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

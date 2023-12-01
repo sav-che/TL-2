@@ -6,7 +6,7 @@ tl2_surname: Day
 tl2_forenames: David Fisher
 tl2_name_abbrev: D.F. Day
 tl2_dates: 1829-1900
-tl2_page_id: 33259161
+tl2_bhl_page_id: 33259161
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259161) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

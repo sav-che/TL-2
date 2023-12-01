@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0337
 tl2_volume: suppl8
 tl2_page_printed: 465
 tl2_surname: Guşuleac
-tl2_forenames: Mihail [Michail]
+tl2_forenames: Mihail (Michail)
 tl2_name_abbrev: Guşuleac
 tl2_dates: 1887-1960
-tl2_page_id: 33258943
+tl2_bhl_page_id: 33258943
 author_lsid: 3497-1
 wikidata_id: Q4153111
 ipni_surname: Gușuleac
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3497-1), [Wikidata](https://www.wikidata.org/wiki/Q4153111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3497-1) LSID 3497-1, [Wikidata](https://www.wikidata.org/wiki/Q4153111) QID Q4153111
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gusuleac, Mihail {std. Gusul.}|first entry]] for this author
 

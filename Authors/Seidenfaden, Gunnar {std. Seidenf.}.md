@@ -6,7 +6,7 @@ tl2_surname: Seidenfaden
 tl2_forenames: Gunnar
 tl2_name_abbrev: Seidenf.
 tl2_dates: 1908-x
-tl2_page_id: 33333630
+tl2_bhl_page_id: 33333630
 author_lsid: 9438-1
 wikidata_id: Q606100
 ipni_surname: Seidenfaden
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:36:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9438-1), [Wikidata](https://www.wikidata.org/wiki/Q606100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9438-1) LSID 9438-1, [Wikidata](https://www.wikidata.org/wiki/Q606100) QID Q606100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0923
 tl2_volume: vol3
 tl2_page_printed: 773
 tl2_surname: Norrlin
-tl2_forenames: Johan Petter [Peter]
+tl2_forenames: Johan Petter (Peter)
 tl2_name_abbrev: Norrl.
 tl2_dates: 1842-1917
-tl2_page_id: 33355860
+tl2_bhl_page_id: 33355860
 author_lsid: 24161-1
 wikidata_id: Q3180443
 ipni_surname: Norrlin
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:35:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24161-1), [Wikidata](https://www.wikidata.org/wiki/Q3180443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24161-1) LSID 24161-1, [Wikidata](https://www.wikidata.org/wiki/Q3180443) QID Q3180443
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

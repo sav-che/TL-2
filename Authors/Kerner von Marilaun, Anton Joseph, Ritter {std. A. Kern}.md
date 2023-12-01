@@ -6,7 +6,7 @@ tl2_surname: Kerner von Marilaun
 tl2_forenames: Anton Joseph, Ritter
 tl2_name_abbrev: A. Kern
 tl2_dates: 1831-1898
-tl2_page_id: 33068767
+tl2_bhl_page_id: 33068767
 author_lsid: 4740-1
 wikidata_id: Q78746
 ipni_surname: Kerner
@@ -25,7 +25,8 @@ ipni_record_modified: 2007-08-28 08:14:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33068767) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4740-1), [Wikidata](https://www.wikidata.org/wiki/Q78746). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4740-1) LSID 4740-1, [Wikidata](https://www.wikidata.org/wiki/Q78746) QID Q78746
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

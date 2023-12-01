@@ -6,7 +6,7 @@ tl2_surname: Rasmussen
 tl2_forenames: Rasmus
 tl2_name_abbrev: Rasmussen
 tl2_dates: 1871-1962
-tl2_page_id: 33190052
+tl2_bhl_page_id: 33190052
 author_lsid: 8149-1
 wikidata_id: Q979933
 ipni_surname: Rasmussen
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8149-1), [Wikidata](https://www.wikidata.org/wiki/Q979933). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8149-1) LSID 8149-1, [Wikidata](https://www.wikidata.org/wiki/Q979933) QID Q979933
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

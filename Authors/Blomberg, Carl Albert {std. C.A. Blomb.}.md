@@ -6,7 +6,7 @@ tl2_surname: Blomberg
 tl2_forenames: Carl Albert
 tl2_name_abbrev: C.A. Blomb.
 tl2_dates: 1844-1922
-tl2_page_id: 33265418
+tl2_bhl_page_id: 33265418
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265418) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

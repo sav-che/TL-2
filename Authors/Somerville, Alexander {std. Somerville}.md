@@ -6,7 +6,7 @@ tl2_surname: Somerville
 tl2_forenames: Alexander
 tl2_name_abbrev: Somerville
 tl2_dates: 1842-1907
-tl2_page_id: 33333874
+tl2_bhl_page_id: 33333874
 author_lsid: 9882-1
 wikidata_id: Q21609199
 ipni_surname: Somerville
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33333874) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9882-1), [Wikidata](https://www.wikidata.org/wiki/Q21609199). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9882-1) LSID 9882-1, [Wikidata](https://www.wikidata.org/wiki/Q21609199) QID Q21609199
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

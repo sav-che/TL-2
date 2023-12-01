@@ -6,7 +6,7 @@ tl2_surname: Milne
 tl2_forenames: Colin
 tl2_name_abbrev: Milne
 tl2_dates: 1743?-1815
-tl2_page_id: 33355590
+tl2_bhl_page_id: 33355590
 author_lsid: 6493-1
 wikidata_id: Q5777379
 ipni_surname: Milne
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33355590) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6493-1), [Wikidata](https://www.wikidata.org/wiki/Q5777379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6493-1) LSID 6493-1, [Wikidata](https://www.wikidata.org/wiki/Q5777379) QID Q5777379
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Schumann
 tl2_forenames: Karl Moritz
 tl2_name_abbrev: K. Schum.
 tl2_dates: 1851-1904
-tl2_page_id: 33333539
+tl2_bhl_page_id: 33333539
 author_lsid: 9333-1
 wikidata_id: Q63545
 ipni_surname: Schumann
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:52:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33333539) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9333-1), [Wikidata](https://www.wikidata.org/wiki/Q63545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9333-1) LSID 9333-1, [Wikidata](https://www.wikidata.org/wiki/Q63545) QID Q63545
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

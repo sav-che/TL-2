@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0246
 tl2_volume: vol3
 tl2_page_printed: 229
-tl2_surname: M'Mahon [McMahon]
+tl2_surname: M'Mahon (McMahon)
 tl2_forenames: Bernard
 tl2_name_abbrev: M'Mahon
 tl2_dates: c. 1775-1816
-tl2_page_id: 33355316
+tl2_bhl_page_id: 33355316
 author_lsid: 5948-1
 wikidata_id: Q822624
 ipni_surname: M'Mahon
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5948-1), [Wikidata](https://www.wikidata.org/wiki/Q822624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5948-1) LSID 5948-1, [Wikidata](https://www.wikidata.org/wiki/Q822624) QID Q822624
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

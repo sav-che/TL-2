@@ -6,7 +6,7 @@ tl2_surname: Wood
 tl2_forenames: Alphonso
 tl2_name_abbrev: A. Wood
 tl2_dates: 1810-1881
-tl2_page_id: 33066773
+tl2_bhl_page_id: 33066773
 author_lsid: 11837-1
 wikidata_id: Q355576
 ipni_surname: Wood
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33066773) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11837-1), [Wikidata](https://www.wikidata.org/wiki/Q355576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11837-1) LSID 11837-1, [Wikidata](https://www.wikidata.org/wiki/Q355576) QID Q355576
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

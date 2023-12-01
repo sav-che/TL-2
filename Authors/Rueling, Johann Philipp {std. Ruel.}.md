@@ -6,7 +6,7 @@ tl2_surname: Rueling
 tl2_forenames: Johann Philipp
 tl2_name_abbrev: Ruel.
 tl2_dates: 1741-?
-tl2_page_id: 33190448
+tl2_bhl_page_id: 33190448
 author_lsid: 8722-1
 wikidata_id: Q21607529
 ipni_surname: Rueling
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/page/33190448) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8722-1), [Wikidata](https://www.wikidata.org/wiki/Q21607529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8722-1) LSID 8722-1, [Wikidata](https://www.wikidata.org/wiki/Q21607529) QID Q21607529
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

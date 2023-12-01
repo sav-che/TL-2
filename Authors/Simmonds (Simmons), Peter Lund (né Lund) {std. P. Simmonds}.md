@@ -6,7 +6,7 @@ tl2_surname: Simmonds (Simmons)
 tl2_forenames: Peter Lund (né Lund)
 tl2_name_abbrev: P. Simmonds
 tl2_dates: 1814-1897
-tl2_page_id: 33333745
+tl2_bhl_page_id: 33333745
 author_lsid: 12866-1
 wikidata_id: Q18674331
 ipni_surname: Simmonds
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33333745) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12866-1), [Wikidata](https://www.wikidata.org/wiki/Q18674331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12866-1) LSID 12866-1, [Wikidata](https://www.wikidata.org/wiki/Q18674331) QID Q18674331
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Brumhard
 tl2_forenames: Philipp
 tl2_name_abbrev: Brumh.
 tl2_dates: 1879-?
-tl2_page_id: 33266464
+tl2_bhl_page_id: 33266464
 author_lsid: 1219-1
 wikidata_id: Q21506568
 ipni_surname: Brumhard
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1219-1), [Wikidata](https://www.wikidata.org/wiki/Q21506568). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1219-1) LSID 1219-1, [Wikidata](https://www.wikidata.org/wiki/Q21506568) QID Q21506568
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

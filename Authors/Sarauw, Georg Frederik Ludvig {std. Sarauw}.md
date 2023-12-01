@@ -6,7 +6,7 @@ tl2_surname: Sarauw
 tl2_forenames: Georg Frederik Ludvig
 tl2_name_abbrev: Sarauw
 tl2_dates: 1862-1928
-tl2_page_id: 33333151
+tl2_bhl_page_id: 33333151
 author_lsid: 8914-1
 wikidata_id: Q706613
 ipni_surname: Sarauw
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33333151) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8914-1), [Wikidata](https://www.wikidata.org/wiki/Q706613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8914-1) LSID 8914-1, [Wikidata](https://www.wikidata.org/wiki/Q706613) QID Q706613
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

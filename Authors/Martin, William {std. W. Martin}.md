@@ -6,7 +6,7 @@ tl2_surname: Martin
 tl2_forenames: William
 tl2_name_abbrev: W. Martin
 tl2_dates: 1886-1975
-tl2_page_id: 33355407
+tl2_bhl_page_id: 33355407
 author_lsid: 6160-1
 wikidata_id: Q21516203
 ipni_surname: Martin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33355407) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6160-1), [Wikidata](https://www.wikidata.org/wiki/Q21516203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6160-1) LSID 6160-1, [Wikidata](https://www.wikidata.org/wiki/Q21516203) QID Q21516203
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

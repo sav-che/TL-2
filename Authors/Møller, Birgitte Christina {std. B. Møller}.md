@@ -6,7 +6,7 @@ tl2_surname: Møller
 tl2_forenames: Birgitte Christina
 tl2_name_abbrev: B. Møller
 tl2_dates: 1857-1934
-tl2_page_id: 33355620
+tl2_bhl_page_id: 33355620
 author_lsid: 6545-1
 wikidata_id: Q21521625
 ipni_surname: Møller
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33355620) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6545-1), [Wikidata](https://www.wikidata.org/wiki/Q21521625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6545-1) LSID 6545-1, [Wikidata](https://www.wikidata.org/wiki/Q21521625) QID Q21521625
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

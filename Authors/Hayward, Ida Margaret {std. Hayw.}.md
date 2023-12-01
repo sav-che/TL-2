@@ -6,7 +6,7 @@ tl2_surname: Hayward
 tl2_forenames: Ida Margaret
 tl2_name_abbrev: Hayw.
 tl2_dates: 1872-1949
-tl2_page_id: 33068356
+tl2_bhl_page_id: 33068356
 author_lsid: 3753-1
 wikidata_id: Q21515607
 ipni_surname: Hayward
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:44:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3753-1), [Wikidata](https://www.wikidata.org/wiki/Q21515607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3753-1) LSID 3753-1, [Wikidata](https://www.wikidata.org/wiki/Q21515607) QID Q21515607
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

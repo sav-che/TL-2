@@ -6,7 +6,7 @@ tl2_surname: Pluskal (Pluska-Moravicanský)
 tl2_forenames: Franiscek Sal.
 tl2_name_abbrev: Pluskal
 tl2_dates: 1811-1901
-tl2_page_id: 33189774
+tl2_bhl_page_id: 33189774
 author_lsid: 7767-1
 wikidata_id: Q12017419
 ipni_surname: Pluskal
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7767-1), [Wikidata](https://www.wikidata.org/wiki/Q12017419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7767-1) LSID 7767-1, [Wikidata](https://www.wikidata.org/wiki/Q12017419) QID Q12017419
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

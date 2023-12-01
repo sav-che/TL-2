@@ -6,7 +6,7 @@ tl2_surname: Saint-Cyr
 tl2_forenames: Dominique Napoléon
 tl2_name_abbrev: Saint-Cyr
 tl2_dates: 1826-1899
-tl2_page_id: 33190534
+tl2_bhl_page_id: 33190534
 author_lsid: 8824-1
 wikidata_id: Q3035361
 ipni_surname: Saint-Cyr
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8824-1), [Wikidata](https://www.wikidata.org/wiki/Q3035361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8824-1) LSID 8824-1, [Wikidata](https://www.wikidata.org/wiki/Q3035361) QID Q3035361
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

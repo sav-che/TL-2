@@ -6,7 +6,7 @@ tl2_surname: Keller
 tl2_forenames: Boris Aleksandrowitsch (Alexandrovic)
 tl2_name_abbrev: B. Keller
 tl2_dates: 1874-1945
-tl2_page_id: 33068756
+tl2_bhl_page_id: 33068756
 author_lsid: 4704-1
 wikidata_id: Q4219109
 ipni_surname: Keller
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4704-1), [Wikidata](https://www.wikidata.org/wiki/Q4219109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4704-1) LSID 4704-1, [Wikidata](https://www.wikidata.org/wiki/Q4219109) QID Q4219109
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

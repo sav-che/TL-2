@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0904
 tl2_volume: vol3
 tl2_page_printed: 760
-tl2_surname: Noeggerath [Nöggerath]
+tl2_surname: Noeggerath (Nöggerath)
 tl2_forenames: Johann Jacob
 tl2_name_abbrev: Noegg.
 tl2_dates: 1788-1877
-tl2_page_id: 33355847
+tl2_bhl_page_id: 33355847
 author_lsid: 7011-1
 wikidata_id: Q66415
 ipni_surname: Noeggerath
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7011-1), [Wikidata](https://www.wikidata.org/wiki/Q66415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7011-1) LSID 7011-1, [Wikidata](https://www.wikidata.org/wiki/Q66415) QID Q66415
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

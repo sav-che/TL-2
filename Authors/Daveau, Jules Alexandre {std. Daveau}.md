@@ -6,7 +6,7 @@ tl2_surname: Daveau
 tl2_forenames: Jules Alexandre
 tl2_name_abbrev: Daveau
 tl2_dates: 1852-1929
-tl2_page_id: 33259135
+tl2_bhl_page_id: 33259135
 author_lsid: 2012-1
 wikidata_id: Q15277191
 ipni_surname: Daveau
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33259135) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/2012-1), [Wikidata](https://www.wikidata.org/wiki/Q15277191). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2012-1) LSID 2012-1, [Wikidata](https://www.wikidata.org/wiki/Q15277191) QID Q15277191
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

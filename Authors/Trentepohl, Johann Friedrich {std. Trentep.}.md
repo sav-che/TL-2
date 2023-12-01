@@ -6,7 +6,7 @@ tl2_surname: Trentepohl
 tl2_forenames: Johann Friedrich
 tl2_name_abbrev: Trentep.
 tl2_dates: 1748-1806
-tl2_page_id: 33212510
+tl2_bhl_page_id: 33212510
 author_lsid: 27898-1
 wikidata_id: Q21610948
 ipni_surname: Trentepohl
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27898-1), [Wikidata](https://www.wikidata.org/wiki/Q21610948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27898-1) LSID 27898-1, [Wikidata](https://www.wikidata.org/wiki/Q21610948) QID Q21610948
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

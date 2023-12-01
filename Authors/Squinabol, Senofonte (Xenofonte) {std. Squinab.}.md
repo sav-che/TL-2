@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0816
 tl2_volume: vol5
 tl2_page_printed: 821
 tl2_surname: Squinabol
-tl2_forenames: Senofonte [Xenofonte]
+tl2_forenames: Senofonte (Xenofonte)
 tl2_name_abbrev: Squinab.
 tl2_dates: 1861-?
-tl2_page_id: 33333960
+tl2_bhl_page_id: 33333960
 author_lsid: 9999-1
 wikidata_id: Q21392849
 ipni_surname: Squinabol
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33333960) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9999-1), [Wikidata](https://www.wikidata.org/wiki/Q21392849). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9999-1) LSID 9999-1, [Wikidata](https://www.wikidata.org/wiki/Q21392849) QID Q21392849
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

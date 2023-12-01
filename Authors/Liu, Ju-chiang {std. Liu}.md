@@ -6,7 +6,7 @@ tl2_surname: Liu
 tl2_forenames: Ju-chiang
 tl2_name_abbrev: Liu
 tl2_dates: 1895-x
-tl2_page_id: 33355209
+tl2_bhl_page_id: 33355209
 author_lsid: 5665-1
 wikidata_id: Q21519298
 ipni_surname: Liu
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33355209) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5665-1), [Wikidata](https://www.wikidata.org/wiki/Q21519298). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5665-1) LSID 5665-1, [Wikidata](https://www.wikidata.org/wiki/Q21519298) QID Q21519298
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

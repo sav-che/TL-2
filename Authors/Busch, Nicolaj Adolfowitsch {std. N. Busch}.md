@@ -6,7 +6,7 @@ tl2_surname: Busch
 tl2_forenames: Nicolaj Adolfowitsch
 tl2_name_abbrev: N. Busch
 tl2_dates: 1869-1941
-tl2_page_id: 33120551
+tl2_bhl_page_id: 33120551
 author_lsid: 1318-1
 wikidata_id: Q2001947
 ipni_surname: Busch
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33120551) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1318-1), [Wikidata](https://www.wikidata.org/wiki/Q2001947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1318-1) LSID 1318-1, [Wikidata](https://www.wikidata.org/wiki/Q2001947) QID Q2001947
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

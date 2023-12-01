@@ -6,7 +6,7 @@ tl2_surname: Herzfeld
 tl2_forenames: Stephanie
 tl2_name_abbrev: Herzfeld
 tl2_dates: 1868-1930
-tl2_page_id: 33068420
+tl2_bhl_page_id: 33068420
 author_lsid: 3893-1
 wikidata_id: Q21515761
 ipni_surname: Herzfeld
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3893-1), [Wikidata](https://www.wikidata.org/wiki/Q21515761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3893-1) LSID 3893-1, [Wikidata](https://www.wikidata.org/wiki/Q21515761) QID Q21515761
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

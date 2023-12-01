@@ -6,7 +6,7 @@ tl2_surname: Formánek
 tl2_forenames: Eduard
 tl2_name_abbrev: Formánek
 tl2_dates: 1845-1900
-tl2_page_id: 33259820
+tl2_bhl_page_id: 33259820
 author_lsid: 2826-1
 wikidata_id: Q5818902
 ipni_surname: Formánek
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259820) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2826-1), [Wikidata](https://www.wikidata.org/wiki/Q5818902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2826-1) LSID 2826-1, [Wikidata](https://www.wikidata.org/wiki/Q5818902) QID Q5818902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

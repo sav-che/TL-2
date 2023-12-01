@@ -6,7 +6,7 @@ tl2_surname: Besnard
 tl2_forenames: Anton Franz
 tl2_name_abbrev: Besnard
 tl2_dates: 1814-1885
-tl2_page_id: 33265335
+tl2_bhl_page_id: 33265335
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33265335) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Mann
 tl2_forenames: Albert
 tl2_name_abbrev: A. Mann
 tl2_dates: 1853-1935
-tl2_page_id: 33355363
+tl2_bhl_page_id: 33355363
 author_lsid: 6068-1
 wikidata_id: Q21519902
 ipni_surname: Mann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33355363) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6068-1), [Wikidata](https://www.wikidata.org/wiki/Q21519902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6068-1) LSID 6068-1, [Wikidata](https://www.wikidata.org/wiki/Q21519902) QID Q21519902
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

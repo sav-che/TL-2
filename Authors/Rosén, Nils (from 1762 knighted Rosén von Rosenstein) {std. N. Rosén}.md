@@ -6,7 +6,7 @@ tl2_surname: Rosén
 tl2_forenames: Nils (from 1762 knighted Rosén von Rosenstein)
 tl2_name_abbrev: N. Rosén
 tl2_dates: 1706-1773
-tl2_page_id: 33190359
+tl2_bhl_page_id: 33190359
 author_lsid: 8591-1
 wikidata_id: Q1371153
 ipni_surname: Rosén
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33190359) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8591-1), [Wikidata](https://www.wikidata.org/wiki/Q1371153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8591-1) LSID 8591-1, [Wikidata](https://www.wikidata.org/wiki/Q1371153) QID Q1371153
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Paulsen
 tl2_forenames: Ove Vilhelm
 tl2_name_abbrev: Paulsen
 tl2_dates: 1874-1947
-tl2_page_id: 33189584
+tl2_bhl_page_id: 33189584
 author_lsid: 7410-1
 wikidata_id: Q2654979
 ipni_surname: Paulsen
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7410-1), [Wikidata](https://www.wikidata.org/wiki/Q2654979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7410-1) LSID 7410-1, [Wikidata](https://www.wikidata.org/wiki/Q2654979) QID Q2654979
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

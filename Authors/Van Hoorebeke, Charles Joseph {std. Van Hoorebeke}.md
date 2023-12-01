@@ -6,7 +6,7 @@ tl2_surname: Van Hoorebeke
 tl2_forenames: Charles Joseph
 tl2_name_abbrev: Van Hoorebeke
 tl2_dates: 1790-1821
-tl2_page_id: 33212712
+tl2_bhl_page_id: 33212712
 author_lsid: 4091-1
 wikidata_id: Q21611416
 ipni_surname: Van Hoorebeke
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/4091-1), [Wikidata](https://www.wikidata.org/wiki/Q21611416). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4091-1) LSID 4091-1, [Wikidata](https://www.wikidata.org/wiki/Q21611416) QID Q21611416
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

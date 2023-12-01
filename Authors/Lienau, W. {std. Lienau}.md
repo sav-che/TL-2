@@ -6,7 +6,7 @@ tl2_surname: Lienau
 tl2_forenames: W.
 tl2_name_abbrev: Lienau
 tl2_dates: fl. 1863
-tl2_page_id: 33355113
+tl2_bhl_page_id: 33355113
 author_lsid: 5579-1
 wikidata_id: Q36702045
 ipni_surname: Lienau
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5579-1), [Wikidata](https://www.wikidata.org/wiki/Q36702045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5579-1) LSID 5579-1, [Wikidata](https://www.wikidata.org/wiki/Q36702045) QID Q36702045
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dale
 tl2_forenames: Ivan Robert
 tl2_name_abbrev: Dale
 tl2_dates: 1904-1963
-tl2_page_id: 33259071
+tl2_bhl_page_id: 33259071
 author_lsid: 1961-1
 wikidata_id: Q21387617
 ipni_surname: Dale
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33259071) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/1961-1), [Wikidata](https://www.wikidata.org/wiki/Q21387617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1961-1) LSID 1961-1, [Wikidata](https://www.wikidata.org/wiki/Q21387617) QID Q21387617
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

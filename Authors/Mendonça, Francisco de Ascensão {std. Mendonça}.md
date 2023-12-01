@@ -6,7 +6,7 @@ tl2_surname: Mendonça
 tl2_forenames: Francisco de Ascensão
 tl2_name_abbrev: Mendonça
 tl2_dates: 1889-?
-tl2_page_id: 33355500
+tl2_bhl_page_id: 33355500
 author_lsid: 6347-1
 wikidata_id: Q4290420
 ipni_surname: Mendonça
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33355500) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6347-1), [Wikidata](https://www.wikidata.org/wiki/Q4290420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6347-1) LSID 6347-1, [Wikidata](https://www.wikidata.org/wiki/Q4290420) QID Q4290420
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

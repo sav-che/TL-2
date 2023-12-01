@@ -6,7 +6,7 @@ tl2_surname: Krapf
 tl2_forenames: Karl J. von
 tl2_name_abbrev: Krapf
 tl2_dates: fl. 1782
-tl2_page_id: 33068904
+tl2_bhl_page_id: 33068904
 author_lsid: 5024-1
 wikidata_id: Q21517889
 ipni_surname: Krapf
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5024-1), [Wikidata](https://www.wikidata.org/wiki/Q21517889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5024-1) LSID 5024-1, [Wikidata](https://www.wikidata.org/wiki/Q21517889) QID Q21517889
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Santapau
 tl2_forenames: Hermenegild
 tl2_name_abbrev: Santapau
 tl2_dates: 1903-1970
-tl2_page_id: 33333141
+tl2_bhl_page_id: 33333141
 author_lsid: 8901-1
 wikidata_id: Q19001686
 ipni_surname: Santapau
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:37:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33333141) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8901-1), [Wikidata](https://www.wikidata.org/wiki/Q19001686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8901-1) LSID 8901-1, [Wikidata](https://www.wikidata.org/wiki/Q19001686) QID Q19001686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

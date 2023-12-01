@@ -6,7 +6,7 @@ tl2_surname: Patterson
 tl2_forenames: Flora (née Wambaugh)
 tl2_name_abbrev: F. Patterson
 tl2_dates: 1847-1928
-tl2_page_id: 33189575
+tl2_bhl_page_id: 33189575
 author_lsid: 24613-1
 wikidata_id: Q5460365
 ipni_surname: Patterson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33189575) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24613-1), [Wikidata](https://www.wikidata.org/wiki/Q5460365). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24613-1) LSID 24613-1, [Wikidata](https://www.wikidata.org/wiki/Q5460365) QID Q5460365
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

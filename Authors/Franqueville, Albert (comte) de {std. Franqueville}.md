@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_1089
 tl2_volume: vol1
 tl2_page_printed: 872
 tl2_surname: Franqueville
-tl2_forenames: Albert [comte] de
+tl2_forenames: Albert (comte) de
 tl2_name_abbrev: Franqueville
 tl2_dates: x-1891
-tl2_page_id: 33121003
+tl2_bhl_page_id: 33121003
 author_lsid: 34748-1
 wikidata_id: Q2831659
 ipni_surname: Franqueville
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33121003) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/34748-1), [Wikidata](https://www.wikidata.org/wiki/Q2831659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34748-1) LSID 34748-1, [Wikidata](https://www.wikidata.org/wiki/Q2831659) QID Q2831659
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

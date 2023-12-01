@@ -6,7 +6,7 @@ tl2_surname: Mann
 tl2_forenames: Robert James
 tl2_name_abbrev: R. Mann
 tl2_dates: 1817-1886
-tl2_page_id: 33355367
+tl2_bhl_page_id: 33355367
 author_lsid: 6073-1
 wikidata_id: Q18093829
 ipni_surname: Mann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33355367) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6073-1), [Wikidata](https://www.wikidata.org/wiki/Q18093829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6073-1) LSID 6073-1, [Wikidata](https://www.wikidata.org/wiki/Q18093829) QID Q18093829
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

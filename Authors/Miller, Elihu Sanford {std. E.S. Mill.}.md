@@ -6,7 +6,7 @@ tl2_surname: Miller
 tl2_forenames: Elihu Sanford
 tl2_name_abbrev: E.S. Mill.
 tl2_dates: 1848-1940
-tl2_page_id: 33355577
+tl2_bhl_page_id: 33355577
 author_lsid: 6478-1
 wikidata_id: Q21521503
 ipni_surname: Miller
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33355577) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6478-1), [Wikidata](https://www.wikidata.org/wiki/Q21521503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6478-1) LSID 6478-1, [Wikidata](https://www.wikidata.org/wiki/Q21521503) QID Q21521503
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

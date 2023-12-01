@@ -6,7 +6,7 @@ tl2_surname: Claypole
 tl2_forenames: Edward Waller
 tl2_name_abbrev: Claypole
 tl2_dates: 1835-1901
-tl2_page_id: 33120640
+tl2_bhl_page_id: 33120640
 author_lsid: 1683-1
 wikidata_id: Q18910584
 ipni_surname: Claypole
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1683-1), [Wikidata](https://www.wikidata.org/wiki/Q18910584). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1683-1) LSID 1683-1, [Wikidata](https://www.wikidata.org/wiki/Q18910584) QID Q18910584
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

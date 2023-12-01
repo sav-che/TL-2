@@ -6,7 +6,7 @@ tl2_surname: Barbey
 tl2_forenames: William
 tl2_name_abbrev: Barbey
 tl2_dates: 1842-1914
-tl2_page_id: 33265044
+tl2_bhl_page_id: 33265044
 author_lsid: 12337-1
 wikidata_id: Q3568417
 ipni_surname: Barbey
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33265044) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/12337-1), [Wikidata](https://www.wikidata.org/wiki/Q3568417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12337-1) LSID 12337-1, [Wikidata](https://www.wikidata.org/wiki/Q3568417) QID Q3568417
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Barbey, William {std. Barbey}|first entry]] for this author
 

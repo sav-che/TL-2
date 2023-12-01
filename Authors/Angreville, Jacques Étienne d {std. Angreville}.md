@@ -6,7 +6,7 @@ tl2_surname: Angreville
 tl2_forenames: Jacques Étienne d
 tl2_name_abbrev: Angreville
 tl2_dates: 1808-1867
-tl2_page_id: 33264855
+tl2_bhl_page_id: 33264855
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33264855) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

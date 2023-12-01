@@ -6,7 +6,7 @@ tl2_surname: Rossi
 tl2_forenames: Giovanni Battista
 tl2_name_abbrev: G. Rossi
 tl2_dates: fl. 1825
-tl2_page_id: 33190374
+tl2_bhl_page_id: 33190374
 author_lsid: 8619-1
 wikidata_id: Q33691326
 ipni_surname: Rossi
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8619-1), [Wikidata](https://www.wikidata.org/wiki/Q33691326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8619-1) LSID 8619-1, [Wikidata](https://www.wikidata.org/wiki/Q33691326) QID Q33691326
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

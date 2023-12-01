@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0217
 tl2_volume: vol3
 tl2_page_printed: 214
-tl2_surname: M'Clelland [McClelland]
+tl2_surname: M'Clelland (McClelland)
 tl2_forenames: John
 tl2_name_abbrev: M'Clell.
 tl2_dates: 1805-1883
-tl2_page_id: 33355301
+tl2_bhl_page_id: 33355301
 author_lsid: 5900-1
 wikidata_id: Q2560376
 ipni_surname: McClelland
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33355301) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5900-1), [Wikidata](https://www.wikidata.org/wiki/Q2560376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5900-1) LSID 5900-1, [Wikidata](https://www.wikidata.org/wiki/Q2560376) QID Q2560376
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

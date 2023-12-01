@@ -6,7 +6,7 @@ tl2_surname: Maillard
 tl2_forenames: Pierre Néhémie
 tl2_name_abbrev: Maillard
 tl2_dates: 1813-1883
-tl2_page_id: 33355342
+tl2_bhl_page_id: 33355342
 author_lsid: 5993-1
 wikidata_id: Q21519802
 ipni_surname: Maillard
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33355342) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5993-1), [Wikidata](https://www.wikidata.org/wiki/Q21519802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5993-1) LSID 5993-1, [Wikidata](https://www.wikidata.org/wiki/Q21519802) QID Q21519802
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

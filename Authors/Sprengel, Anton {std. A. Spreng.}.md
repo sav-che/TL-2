@@ -6,7 +6,7 @@ tl2_surname: Sprengel
 tl2_forenames: Anton
 tl2_name_abbrev: A. Spreng.
 tl2_dates: 1803-1851
-tl2_page_id: 33333943
+tl2_bhl_page_id: 33333943
 author_lsid: 9990-1
 wikidata_id: Q8201022
 ipni_surname: Sprengel
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:44:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33333943) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9990-1), [Wikidata](https://www.wikidata.org/wiki/Q8201022). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9990-1) LSID 9990-1, [Wikidata](https://www.wikidata.org/wiki/Q8201022) QID Q8201022
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

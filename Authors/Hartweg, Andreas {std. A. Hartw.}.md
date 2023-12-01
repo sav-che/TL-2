@@ -6,7 +6,7 @@ tl2_surname: Hartweg
 tl2_forenames: Andreas
 tl2_name_abbrev: A. Hartw.
 tl2_dates: x-1831
-tl2_page_id: 33068311
+tl2_bhl_page_id: 33068311
 author_lsid: 3700-1
 wikidata_id: Q21515541
 ipni_surname: Hartweg
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3700-1), [Wikidata](https://www.wikidata.org/wiki/Q21515541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3700-1) LSID 3700-1, [Wikidata](https://www.wikidata.org/wiki/Q21515541) QID Q21515541
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

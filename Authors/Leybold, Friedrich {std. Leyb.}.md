@@ -6,7 +6,7 @@ tl2_surname: Leybold
 tl2_forenames: Friedrich
 tl2_name_abbrev: Leyb.
 tl2_dates: 1827-1879
-tl2_page_id: 33069111
+tl2_bhl_page_id: 33069111
 author_lsid: 5548-1
 wikidata_id: Q71523
 ipni_surname: Leybold
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5548-1), [Wikidata](https://www.wikidata.org/wiki/Q71523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5548-1) LSID 5548-1, [Wikidata](https://www.wikidata.org/wiki/Q71523) QID Q71523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

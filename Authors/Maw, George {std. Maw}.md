@@ -6,7 +6,7 @@ tl2_surname: Maw
 tl2_forenames: George
 tl2_name_abbrev: Maw
 tl2_dates: 1832-1912
-tl2_page_id: 33355467
+tl2_bhl_page_id: 33355467
 author_lsid: 6263-1
 wikidata_id: Q5877899
 ipni_surname: Maw
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33355467) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6263-1), [Wikidata](https://www.wikidata.org/wiki/Q5877899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6263-1) LSID 6263-1, [Wikidata](https://www.wikidata.org/wiki/Q5877899) QID Q5877899
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

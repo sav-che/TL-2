@@ -6,7 +6,7 @@ tl2_surname: Cheeseman
 tl2_forenames: Thomas Frederick
 tl2_name_abbrev: Cheeseman
 tl2_dates: 1846-1923
-tl2_page_id: 33120622
+tl2_bhl_page_id: 33120622
 author_lsid: 1563-1
 wikidata_id: Q1361590
 ipni_surname: Cheeseman
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33120622) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1563-1), [Wikidata](https://www.wikidata.org/wiki/Q1361590). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1563-1) LSID 1563-1, [Wikidata](https://www.wikidata.org/wiki/Q1361590) QID Q1361590
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cheeseman, Thomas Frederick {std. Cheeseman} (Suppl.)|second entry]] for this author
 

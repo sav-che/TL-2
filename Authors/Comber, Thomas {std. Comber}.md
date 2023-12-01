@@ -6,7 +6,7 @@ tl2_surname: Comber
 tl2_forenames: Thomas
 tl2_name_abbrev: Comber
 tl2_dates: 1837-1902
-tl2_page_id: 33265959
+tl2_bhl_page_id: 33265959
 author_lsid: 32786-1
 wikidata_id: Q18521231
 ipni_surname: Comber
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:27:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265959) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/32786-1), [Wikidata](https://www.wikidata.org/wiki/Q18521231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32786-1) LSID 32786-1, [Wikidata](https://www.wikidata.org/wiki/Q18521231) QID Q18521231
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

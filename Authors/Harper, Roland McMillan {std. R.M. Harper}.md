@@ -6,7 +6,7 @@ tl2_surname: Harper
 tl2_forenames: Roland McMillan
 tl2_name_abbrev: R.M. Harper
 tl2_dates: 1878-1966
-tl2_page_id: 33068299
+tl2_bhl_page_id: 33068299
 author_lsid: 3673-1
 wikidata_id: Q6111184
 ipni_surname: Harper
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3673-1), [Wikidata](https://www.wikidata.org/wiki/Q6111184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3673-1) LSID 3673-1, [Wikidata](https://www.wikidata.org/wiki/Q6111184) QID Q6111184
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Röhling
 tl2_forenames: Johann Christoph
 tl2_name_abbrev: Röhl.
 tl2_dates: 1757-1813
-tl2_page_id: 33190307
+tl2_bhl_page_id: 33190307
 author_lsid: 12781-1
 wikidata_id: Q2335171
 ipni_surname: Röhling
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33190307) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12781-1), [Wikidata](https://www.wikidata.org/wiki/Q2335171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12781-1) LSID 12781-1, [Wikidata](https://www.wikidata.org/wiki/Q2335171) QID Q2335171
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

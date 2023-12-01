@@ -6,7 +6,7 @@ tl2_surname: Safford
 tl2_forenames: William Edwin (Ned)
 tl2_name_abbrev: Saff.
 tl2_dates: 1859-1926
-tl2_page_id: 33190522
+tl2_bhl_page_id: 33190522
 author_lsid: 8805-1
 wikidata_id: Q3568593
 ipni_surname: Safford
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 1051](https://www.biodiversitylibrary.org/page/33190522) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8805-1), [Wikidata](https://www.wikidata.org/wiki/Q3568593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8805-1) LSID 8805-1, [Wikidata](https://www.wikidata.org/wiki/Q3568593) QID Q3568593
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

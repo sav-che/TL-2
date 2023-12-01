@@ -6,7 +6,7 @@ tl2_surname: Corda
 tl2_forenames: August Karl Joseph
 tl2_name_abbrev: Corda
 tl2_dates: 1809-1849
-tl2_page_id: 33120677
+tl2_bhl_page_id: 33120677
 author_lsid: 17426-1
 wikidata_id: Q624998
 ipni_surname: Corda
@@ -28,7 +28,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33120677) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17426-1), [Wikidata](https://www.wikidata.org/wiki/Q624998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17426-1) LSID 17426-1, [Wikidata](https://www.wikidata.org/wiki/Q624998) QID Q624998
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Corda, August Karl Joseph {std. Corda} (Suppl.)|second entry]] for this author
 

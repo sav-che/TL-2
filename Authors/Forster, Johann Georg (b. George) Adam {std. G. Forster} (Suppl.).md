@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0220
 tl2_volume: suppl7
 tl2_page_printed: 325
 tl2_surname: Forster
-tl2_forenames: Johann Georg [b. George] Adam
+tl2_forenames: Johann Georg (b. George) Adam
 tl2_name_abbrev: G. Forst.
 tl2_dates: 1754-1794
-tl2_page_id: 33259829
+tl2_bhl_page_id: 33259829
 author_lsid: 2835-1
 wikidata_id: Q58062
 ipni_surname: Forster
@@ -25,7 +25,8 @@ ipni_record_modified: 2012-01-10 11:45:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33259829) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2835-1), [Wikidata](https://www.wikidata.org/wiki/Q58062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2835-1) LSID 2835-1, [Wikidata](https://www.wikidata.org/wiki/Q58062) QID Q58062
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Forster, Johann Georg Adam {std. G. Forster}|first entry]] for Johann Georg
 

@@ -6,7 +6,7 @@ tl2_surname: Valente
 tl2_forenames: Antonio
 tl2_name_abbrev: Valente
 tl2_dates: fl. 1803
-tl2_page_id: 33212690
+tl2_bhl_page_id: 33212690
 author_lsid: 11032-1
 wikidata_id: Q47127856
 ipni_surname: Valente
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33212690) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11032-1), [Wikidata](https://www.wikidata.org/wiki/Q47127856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11032-1) LSID 11032-1, [Wikidata](https://www.wikidata.org/wiki/Q47127856) QID Q47127856
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

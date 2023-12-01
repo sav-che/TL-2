@@ -6,7 +6,7 @@ tl2_surname: Drake del Castillo
 tl2_forenames: Emmanuel
 tl2_name_abbrev: Drake
 tl2_dates: 1855-1904
-tl2_page_id: 33120809
+tl2_bhl_page_id: 33120809
 author_lsid: 2302-1
 wikidata_id: Q1338265
 ipni_surname: Drake del Castillo
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33120809) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2302-1), [Wikidata](https://www.wikidata.org/wiki/Q1338265). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2302-1) LSID 2302-1, [Wikidata](https://www.wikidata.org/wiki/Q1338265) QID Q1338265
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Drake del Castillo, Emmanuel {std. Drake} (Suppl.)|second entry]] for this author
 

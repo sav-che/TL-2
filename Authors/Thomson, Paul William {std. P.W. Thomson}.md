@@ -6,7 +6,7 @@ tl2_surname: Thomson
 tl2_forenames: Paul William
 tl2_name_abbrev: P.W. Thomson
 tl2_dates: 1892-1957
-tl2_page_id: 33212327
+tl2_bhl_page_id: 33212327
 author_lsid: 27698-1
 wikidata_id: Q12372096
 ipni_surname: Thomson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33212327) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27698-1), [Wikidata](https://www.wikidata.org/wiki/Q12372096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27698-1) LSID 27698-1, [Wikidata](https://www.wikidata.org/wiki/Q12372096) QID Q12372096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

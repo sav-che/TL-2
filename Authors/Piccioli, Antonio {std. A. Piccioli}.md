@@ -6,7 +6,7 @@ tl2_surname: Piccioli
 tl2_forenames: Antonio
 tl2_name_abbrev: A. Piccioli
 tl2_dates: 1741-1842
-tl2_page_id: 33189719
+tl2_bhl_page_id: 33189719
 author_lsid: 7660-1
 wikidata_id: Q21522978
 ipni_surname: Piccioli
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33189719) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7660-1), [Wikidata](https://www.wikidata.org/wiki/Q21522978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7660-1) LSID 7660-1, [Wikidata](https://www.wikidata.org/wiki/Q21522978) QID Q21522978
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

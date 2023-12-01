@@ -6,7 +6,7 @@ tl2_surname: Boenninghausen
 tl2_forenames: Clemens Maria Friedrich von
 tl2_name_abbrev: Boenn.
 tl2_dates: 1785-1864
-tl2_page_id: 33265452
+tl2_bhl_page_id: 33265452
 author_lsid: 12349-1
 wikidata_id: Q540253
 ipni_surname: Boenninghausen
@@ -23,7 +23,8 @@ ipni_record_modified: 2012-05-29 08:29:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33265452) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/12349-1), [Wikidata](https://www.wikidata.org/wiki/Q540253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12349-1) LSID 12349-1, [Wikidata](https://www.wikidata.org/wiki/Q540253) QID Q540253
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Boenninghausen, Clemens Maria Friedrich von {std. Boenn.}|first entry]] for this author
 

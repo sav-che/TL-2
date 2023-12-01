@@ -6,7 +6,7 @@ tl2_surname: Franchet
 tl2_forenames: Adrien René
 tl2_name_abbrev: Franch.
 tl2_dates: 1834-1900
-tl2_page_id: 33259876
+tl2_bhl_page_id: 33259876
 author_lsid: 2869-1
 wikidata_id: Q377208
 ipni_surname: Franchet
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33259876) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2869-1), [Wikidata](https://www.wikidata.org/wiki/Q377208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2869-1) LSID 2869-1, [Wikidata](https://www.wikidata.org/wiki/Q377208) QID Q377208
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Franchet, Adrien René {std. Franch.}|first entry]] for this author
 

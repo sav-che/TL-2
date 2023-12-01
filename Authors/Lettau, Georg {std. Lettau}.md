@@ -6,7 +6,7 @@ tl2_surname: Lettau
 tl2_forenames: Georg
 tl2_name_abbrev: Lettau
 tl2_dates: 1878-1951
-tl2_page_id: 33069101
+tl2_bhl_page_id: 33069101
 author_lsid: 22272-1
 wikidata_id: Q21338878
 ipni_surname: Lettau
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22272-1), [Wikidata](https://www.wikidata.org/wiki/Q21338878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22272-1) LSID 22272-1, [Wikidata](https://www.wikidata.org/wiki/Q21338878) QID Q21338878
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

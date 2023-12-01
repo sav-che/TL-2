@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_1032
 tl2_volume: vol2
 tl2_page_printed: 866
 tl2_surname: Levier
-tl2_forenames: Emile [Emilio]
+tl2_forenames: Emile (Emilio)
 tl2_name_abbrev: Levier
 tl2_dates: 1839-1911
-tl2_page_id: 33069108
+tl2_bhl_page_id: 33069108
 author_lsid: 5530-1
 wikidata_id: Q4256884
 ipni_surname: Levier
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:53:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33069108) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5530-1), [Wikidata](https://www.wikidata.org/wiki/Q4256884). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5530-1) LSID 5530-1, [Wikidata](https://www.wikidata.org/wiki/Q4256884) QID Q4256884
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

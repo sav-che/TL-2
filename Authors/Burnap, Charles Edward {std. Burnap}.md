@@ -6,7 +6,7 @@ tl2_surname: Burnap
 tl2_forenames: Charles Edward
 tl2_name_abbrev: Burnap
 tl2_dates: x-1912
-tl2_page_id: 33266561
+tl2_bhl_page_id: 33266561
 author_lsid: 20034913-1
 wikidata_id: Q88812337
 ipni_surname: Burnap
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/20034913-1), [Wikidata](https://www.wikidata.org/wiki/Q88812337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20034913-1) LSID 20034913-1, [Wikidata](https://www.wikidata.org/wiki/Q88812337) QID Q88812337
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Cufino
 tl2_forenames: Luigi
 tl2_name_abbrev: Cufino
 tl2_dates: 1884-?
-tl2_page_id: 33266170
+tl2_bhl_page_id: 33266170
 author_lsid: 39622-1
 wikidata_id: Q21509611
 ipni_surname: Cufino
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33266170) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/39622-1), [Wikidata](https://www.wikidata.org/wiki/Q21509611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/39622-1) LSID 39622-1, [Wikidata](https://www.wikidata.org/wiki/Q21509611) QID Q21509611
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

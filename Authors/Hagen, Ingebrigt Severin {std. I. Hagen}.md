@@ -6,7 +6,7 @@ tl2_surname: Hagen
 tl2_forenames: Ingebrigt Severin
 tl2_name_abbrev: I. Hagen
 tl2_dates: 1852-1917
-tl2_page_id: 33068252
+tl2_bhl_page_id: 33068252
 author_lsid: 3544-1
 wikidata_id: Q16649316
 ipni_surname: Hagen
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33068252) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3544-1), [Wikidata](https://www.wikidata.org/wiki/Q16649316). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3544-1) LSID 3544-1, [Wikidata](https://www.wikidata.org/wiki/Q16649316) QID Q16649316
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hoola van Nooten-van Dolder
 tl2_forenames: Bertha
 tl2_name_abbrev: Hoola van Nooten
 tl2_dates: fl. 1863
-tl2_page_id: 33068543
+tl2_bhl_page_id: 33068543
 author_lsid: 13367-1
 wikidata_id: Q4895535
 ipni_surname: Hoola van Nooten
@@ -24,7 +24,8 @@ ipni_record_modified: 2017-02-03 15:38:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33068543) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/13367-1), [Wikidata](https://www.wikidata.org/wiki/Q4895535). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13367-1) LSID 13367-1, [Wikidata](https://www.wikidata.org/wiki/Q4895535) QID Q4895535
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

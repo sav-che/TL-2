@@ -6,7 +6,7 @@ tl2_surname: Rafn
 tl2_forenames: Carl Gottlob
 tl2_name_abbrev: Rafn
 tl2_dates: 1769-1808
-tl2_page_id: 33190034
+tl2_bhl_page_id: 33190034
 author_lsid: 8097-1
 wikidata_id: Q4391034
 ipni_surname: Rafn
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33190034) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8097-1), [Wikidata](https://www.wikidata.org/wiki/Q4391034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8097-1) LSID 8097-1, [Wikidata](https://www.wikidata.org/wiki/Q4391034) QID Q4391034
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

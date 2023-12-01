@@ -6,7 +6,7 @@ tl2_surname: Boccone
 tl2_forenames: Paolo (later Silvio)
 tl2_name_abbrev: Boccone
 tl2_dates: 1633-1704
-tl2_page_id: 33120374
+tl2_bhl_page_id: 33120374
 author_lsid: 12348-1
 wikidata_id: Q1394922
 ipni_surname: Boccone
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:44:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12348-1), [Wikidata](https://www.wikidata.org/wiki/Q1394922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12348-1) LSID 12348-1, [Wikidata](https://www.wikidata.org/wiki/Q1394922) QID Q1394922
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

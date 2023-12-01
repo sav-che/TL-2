@@ -6,7 +6,7 @@ tl2_surname: Hammar
 tl2_forenames: Olaf Niklas
 tl2_name_abbrev: Hammar
 tl2_dates: 1821-1875
-tl2_page_id: 33068278
+tl2_bhl_page_id: 33068278
 author_lsid: 3601-1
 wikidata_id: Q21514596
 ipni_surname: Hammar
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:26:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3601-1), [Wikidata](https://www.wikidata.org/wiki/Q21514596). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3601-1) LSID 3601-1, [Wikidata](https://www.wikidata.org/wiki/Q21514596) QID Q21514596
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

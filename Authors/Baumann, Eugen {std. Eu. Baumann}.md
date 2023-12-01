@@ -6,7 +6,7 @@ tl2_surname: Baumann
 tl2_forenames: Eugen
 tl2_name_abbrev: Eu. Baumann
 tl2_dates: 1868-1933
-tl2_page_id: 33265114
+tl2_bhl_page_id: 33265114
 author_lsid: 557-1
 wikidata_id: Q18982920
 ipni_surname: Baumann
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265114) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/557-1), [Wikidata](https://www.wikidata.org/wiki/Q18982920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/557-1) LSID 557-1, [Wikidata](https://www.wikidata.org/wiki/Q18982920) QID Q18982920
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

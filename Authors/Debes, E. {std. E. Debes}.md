@@ -6,7 +6,7 @@ tl2_surname: Debes
 tl2_forenames: E.
 tl2_name_abbrev: E. Debes
 tl2_dates: fl. 1885-1919/1920
-tl2_page_id: 33259174
+tl2_bhl_page_id: 33259174
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33259174) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

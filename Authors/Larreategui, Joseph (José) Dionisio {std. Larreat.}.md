@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0900
 tl2_volume: vol2
 tl2_page_printed: 760
 tl2_surname: Larreategui
-tl2_forenames: Joseph [José] Dionisio
+tl2_forenames: Joseph (José) Dionisio
 tl2_name_abbrev: Larreat.
 tl2_dates: fl. 1795
-tl2_page_id: 33069002
+tl2_bhl_page_id: 33069002
 author_lsid: 5293-1
 wikidata_id: Q3184852
 ipni_surname: Larreategui
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5293-1), [Wikidata](https://www.wikidata.org/wiki/Q3184852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5293-1) LSID 5293-1, [Wikidata](https://www.wikidata.org/wiki/Q3184852) QID Q3184852
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

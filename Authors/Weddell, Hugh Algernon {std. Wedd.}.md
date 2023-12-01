@@ -6,7 +6,7 @@ tl2_surname: Weddell
 tl2_forenames: Hugh Algernon
 tl2_name_abbrev: Wedd.
 tl2_dates: 1819-1877
-tl2_page_id: 33066477
+tl2_bhl_page_id: 33066477
 author_lsid: 11480-1
 wikidata_id: Q983408
 ipni_surname: Weddell
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:38:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33066477) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11480-1), [Wikidata](https://www.wikidata.org/wiki/Q983408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11480-1) LSID 11480-1, [Wikidata](https://www.wikidata.org/wiki/Q983408) QID Q983408
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Rees
 tl2_forenames: Abraham
 tl2_name_abbrev: Rees
 tl2_dates: 1763-1825
-tl2_page_id: 33190101
+tl2_bhl_page_id: 33190101
 author_lsid: 8230-1
 wikidata_id: Q922838
 ipni_surname: Rees
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:35:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/page/33190101) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8230-1), [Wikidata](https://www.wikidata.org/wiki/Q922838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8230-1) LSID 8230-1, [Wikidata](https://www.wikidata.org/wiki/Q922838) QID Q922838
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

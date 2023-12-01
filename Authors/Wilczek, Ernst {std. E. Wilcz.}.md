@@ -6,7 +6,7 @@ tl2_surname: Wilczek
 tl2_forenames: Ernst
 tl2_name_abbrev: E. Wilcz.
 tl2_dates: 1867-1948
-tl2_page_id: 33066629
+tl2_bhl_page_id: 33066629
 author_lsid: 11670-1
 wikidata_id: Q3057217
 ipni_surname: Wilczek
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:14.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33066629) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11670-1), [Wikidata](https://www.wikidata.org/wiki/Q3057217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11670-1) LSID 11670-1, [Wikidata](https://www.wikidata.org/wiki/Q3057217) QID Q3057217
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

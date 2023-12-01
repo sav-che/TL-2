@@ -6,7 +6,7 @@ tl2_surname: Witasek
 tl2_forenames: Johanna
 tl2_name_abbrev: Witas.
 tl2_dates: 1865-1910
-tl2_page_id: 33066736
+tl2_bhl_page_id: 33066736
 author_lsid: 11793-1
 wikidata_id: Q5933007
 ipni_surname: Witasek
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33066736) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11793-1), [Wikidata](https://www.wikidata.org/wiki/Q5933007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11793-1) LSID 11793-1, [Wikidata](https://www.wikidata.org/wiki/Q5933007) QID Q5933007
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

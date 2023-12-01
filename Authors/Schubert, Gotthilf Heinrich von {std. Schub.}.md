@@ -6,7 +6,7 @@ tl2_surname: Schubert
 tl2_forenames: Gotthilf Heinrich von
 tl2_name_abbrev: Schub.
 tl2_dates: 1780-1860
-tl2_page_id: 33333490
+tl2_bhl_page_id: 33333490
 author_lsid: 9277-1
 wikidata_id: Q66704
 ipni_surname: Schubert
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33333490) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9277-1), [Wikidata](https://www.wikidata.org/wiki/Q66704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9277-1) LSID 9277-1, [Wikidata](https://www.wikidata.org/wiki/Q66704) QID Q66704
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

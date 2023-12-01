@@ -6,7 +6,7 @@ tl2_surname: Berens
 tl2_forenames: Reinhold von
 tl2_name_abbrev: Berens
 tl2_dates: 1745-1823
-tl2_page_id: 33265279
+tl2_bhl_page_id: 33265279
 author_lsid: 20058940-1
 wikidata_id: Q2141330
 ipni_surname: Berens
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/20058940-1), [Wikidata](https://www.wikidata.org/wiki/Q2141330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20058940-1) LSID 20058940-1, [Wikidata](https://www.wikidata.org/wiki/Q2141330) QID Q2141330
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

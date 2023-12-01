@@ -6,7 +6,7 @@ tl2_surname: Bauhin
 tl2_forenames: Jean
 tl2_name_abbrev: J. Bauhin
 tl2_dates: 1541-1612
-tl2_page_id: 33120280
+tl2_bhl_page_id: 33120280
 author_lsid: 15807-1
 wikidata_id: Q123660
 ipni_surname: Bauhin
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:39:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33120280) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15807-1), [Wikidata](https://www.wikidata.org/wiki/Q123660). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15807-1) LSID 15807-1, [Wikidata](https://www.wikidata.org/wiki/Q123660) QID Q123660
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

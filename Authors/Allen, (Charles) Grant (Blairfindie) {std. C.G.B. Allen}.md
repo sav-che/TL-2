@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0093
 tl2_volume: suppl1
 tl2_page_printed: 71
 tl2_surname: Allen
-tl2_forenames: [Charles] Grant [Blairfindie]
+tl2_forenames: (Charles) Grant (Blairfindie)
 tl2_name_abbrev: C.G.B. Allen
 tl2_dates: 1848-1899
-tl2_page_id: 33264798
+tl2_bhl_page_id: 33264798
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33264798) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

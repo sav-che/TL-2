@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0364
 tl2_volume: vol4
 tl2_page_printed: 308
 tl2_surname: Poech
-tl2_forenames: Josef [Alois]
+tl2_forenames: Josef (Alois)
 tl2_name_abbrev: Poech
 tl2_dates: 1816-1846
-tl2_page_id: 33189779
+tl2_bhl_page_id: 33189779
 author_lsid: 7774-1
 wikidata_id: Q13407718
 ipni_surname: Poech
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7774-1), [Wikidata](https://www.wikidata.org/wiki/Q13407718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7774-1) LSID 7774-1, [Wikidata](https://www.wikidata.org/wiki/Q13407718) QID Q13407718
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

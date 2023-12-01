@@ -6,7 +6,7 @@ tl2_surname: Rink
 tl2_forenames: Henrik Johannes
 tl2_name_abbrev: Rink
 tl2_dates: 1819-1893
-tl2_page_id: 33190267
+tl2_bhl_page_id: 33190267
 author_lsid: 8403-1
 wikidata_id: Q1619503
 ipni_surname: Rink
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33190267) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8403-1), [Wikidata](https://www.wikidata.org/wiki/Q1619503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8403-1) LSID 8403-1, [Wikidata](https://www.wikidata.org/wiki/Q1619503) QID Q1619503
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

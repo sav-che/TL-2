@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0064
 tl2_volume: suppl3
 tl2_page_printed: 59
 tl2_surname: Brenner
-tl2_forenames: Mårten [Magnus Wilhelm]
+tl2_forenames: Mårten (Magnus Wilhelm)
 tl2_name_abbrev: Brenner
 tl2_dates: 1843-1930
-tl2_page_id: 33266366
+tl2_bhl_page_id: 33266366
 author_lsid: 1120-1
 wikidata_id: Q4096302
 ipni_surname: Brenner
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33266366) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1120-1), [Wikidata](https://www.wikidata.org/wiki/Q4096302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1120-1) LSID 1120-1, [Wikidata](https://www.wikidata.org/wiki/Q4096302) QID Q4096302
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

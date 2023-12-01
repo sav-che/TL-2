@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl4_0111
 tl2_volume: suppl4
 tl2_page_printed: 142
-tl2_surname: Christ[-Socin]
-tl2_forenames: [Konrad] Hermann [Heinrich]
+tl2_surname: Christ(-Socin)
+tl2_forenames: (Konrad) Hermann (Heinrich)
 tl2_name_abbrev: H. Christ
 tl2_dates: 1833-1933
-tl2_page_id: 33265819
+tl2_bhl_page_id: 33265819
 author_lsid: 1627-1
 wikidata_id: Q115901
 ipni_surname: Christ
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:50:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1627-1), [Wikidata](https://www.wikidata.org/wiki/Q115901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1627-1) LSID 1627-1, [Wikidata](https://www.wikidata.org/wiki/Q115901) QID Q115901
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Christ, Konrad Hermann Heinrich {std. Christ}|first entry]] for this author
 

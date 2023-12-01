@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0527
 tl2_volume: vol6
 tl2_page_printed: 517
 tl2_surname: Tschirch
-tl2_forenames: [Wilhelm Oswald] Alexander
+tl2_forenames: (Wilhelm Oswald) Alexander
 tl2_name_abbrev: Tschirch
 tl2_dates: 1856-1939
-tl2_page_id: 33212559
+tl2_bhl_page_id: 33212559
 author_lsid: 12950-1
 wikidata_id: Q75096
 ipni_surname: Tschirch
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33212559) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12950-1), [Wikidata](https://www.wikidata.org/wiki/Q75096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12950-1) LSID 12950-1, [Wikidata](https://www.wikidata.org/wiki/Q75096) QID Q75096
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

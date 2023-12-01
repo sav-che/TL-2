@@ -6,7 +6,7 @@ tl2_surname: Geinitz
 tl2_forenames: Franz Eugen
 tl2_name_abbrev: F.E. Geinitz
 tl2_dates: 1854-1925
-tl2_page_id: 33121060
+tl2_bhl_page_id: 33121060
 author_lsid: 3069-1
 wikidata_id: Q98686
 ipni_surname: Geinitz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3069-1), [Wikidata](https://www.wikidata.org/wiki/Q98686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3069-1) LSID 3069-1, [Wikidata](https://www.wikidata.org/wiki/Q98686) QID Q98686
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

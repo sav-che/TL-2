@@ -6,7 +6,7 @@ tl2_surname: Philip
 tl2_forenames: Robert Harris
 tl2_name_abbrev: Philip
 tl2_dates: 1852-1912
-tl2_page_id: 33189704
+tl2_bhl_page_id: 33189704
 author_lsid: 7635-1
 wikidata_id: Q21522945
 ipni_surname: Philip
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7635-1), [Wikidata](https://www.wikidata.org/wiki/Q21522945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7635-1) LSID 7635-1, [Wikidata](https://www.wikidata.org/wiki/Q21522945) QID Q21522945
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

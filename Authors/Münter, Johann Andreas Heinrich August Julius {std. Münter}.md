@@ -6,7 +6,7 @@ tl2_surname: Münter
 tl2_forenames: Johann Andreas Heinrich August Julius
 tl2_name_abbrev: Münter
 tl2_dates: 1815-1885
-tl2_page_id: 33355742
+tl2_bhl_page_id: 33355742
 author_lsid: 6755-1
 wikidata_id: Q110261
 ipni_surname: Münter
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33355742) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6755-1), [Wikidata](https://www.wikidata.org/wiki/Q110261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6755-1) LSID 6755-1, [Wikidata](https://www.wikidata.org/wiki/Q110261) QID Q110261
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

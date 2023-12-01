@@ -6,7 +6,7 @@ tl2_surname: Martin
 tl2_forenames: George Willard
 tl2_name_abbrev: G.W. Martin
 tl2_dates: 1886-1971
-tl2_page_id: 33355407
+tl2_bhl_page_id: 33355407
 author_lsid: 6158-1
 wikidata_id: Q5546284
 ipni_surname: Martin
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33355407) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6158-1), [Wikidata](https://www.wikidata.org/wiki/Q5546284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6158-1) LSID 6158-1, [Wikidata](https://www.wikidata.org/wiki/Q5546284) QID Q5546284
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Peyritsch
 tl2_forenames: Johann Joseph
 tl2_name_abbrev: Peyr.
 tl2_dates: 1835-1889
-tl2_page_id: 33189687
+tl2_bhl_page_id: 33189687
 author_lsid: 7614-1
 wikidata_id: Q6216038
 ipni_surname: Peyritsch
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33189687) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7614-1), [Wikidata](https://www.wikidata.org/wiki/Q6216038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7614-1) LSID 7614-1, [Wikidata](https://www.wikidata.org/wiki/Q6216038) QID Q6216038
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

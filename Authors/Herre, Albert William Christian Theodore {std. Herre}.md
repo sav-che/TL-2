@@ -6,7 +6,7 @@ tl2_surname: Herre
 tl2_forenames: Albert William Christian Theodore
 tl2_name_abbrev: Herre
 tl2_dates: 1868-1962
-tl2_page_id: 33068416
+tl2_bhl_page_id: 33068416
 author_lsid: 3883-1
 wikidata_id: Q425571
 ipni_surname: Herre
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3883-1), [Wikidata](https://www.wikidata.org/wiki/Q425571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3883-1) LSID 3883-1, [Wikidata](https://www.wikidata.org/wiki/Q425571) QID Q425571
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

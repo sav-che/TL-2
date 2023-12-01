@@ -6,7 +6,7 @@ tl2_surname: Palmer
 tl2_forenames: Johann Ludwig
 tl2_name_abbrev: J.L. Palmer
 tl2_dates: 1784-1836
-tl2_page_id: 33189464
+tl2_bhl_page_id: 33189464
 author_lsid: 7286-1
 wikidata_id: Q21522574
 ipni_surname: Palmer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7286-1), [Wikidata](https://www.wikidata.org/wiki/Q21522574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7286-1) LSID 7286-1, [Wikidata](https://www.wikidata.org/wiki/Q21522574) QID Q21522574
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

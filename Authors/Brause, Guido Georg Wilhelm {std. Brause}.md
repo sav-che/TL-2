@@ -6,7 +6,7 @@ tl2_surname: Brause
 tl2_forenames: Guido Georg Wilhelm
 tl2_name_abbrev: Brause
 tl2_dates: 1847-1922
-tl2_page_id: 33266348
+tl2_bhl_page_id: 33266348
 author_lsid: 1092-1
 wikidata_id: Q3119431
 ipni_surname: Brause
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33266348) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1092-1), [Wikidata](https://www.wikidata.org/wiki/Q3119431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1092-1) LSID 1092-1, [Wikidata](https://www.wikidata.org/wiki/Q3119431) QID Q3119431
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

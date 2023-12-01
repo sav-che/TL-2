@@ -6,7 +6,7 @@ tl2_surname: Hinds
 tl2_forenames: Richard Brinsley
 tl2_name_abbrev: Hinds
 tl2_dates: 1812-1847
-tl2_page_id: 33068450
+tl2_bhl_page_id: 33068450
 author_lsid: 3960-1
 wikidata_id: Q21515839
 ipni_surname: Hinds
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33068450) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3960-1), [Wikidata](https://www.wikidata.org/wiki/Q21515839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3960-1) LSID 3960-1, [Wikidata](https://www.wikidata.org/wiki/Q21515839) QID Q21515839
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

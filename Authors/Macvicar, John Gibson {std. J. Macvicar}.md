@@ -6,7 +6,7 @@ tl2_surname: Macvicar
 tl2_forenames: John Gibson
 tl2_name_abbrev: J. Macvicar
 tl2_dates: 1801-1884
-tl2_page_id: 33355324
+tl2_bhl_page_id: 33355324
 author_lsid: 35184-1
 wikidata_id: Q18731554
 ipni_surname: Macvicar
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33355324) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/35184-1), [Wikidata](https://www.wikidata.org/wiki/Q18731554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35184-1) LSID 35184-1, [Wikidata](https://www.wikidata.org/wiki/Q18731554) QID Q18731554
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

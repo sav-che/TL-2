@@ -6,7 +6,7 @@ tl2_surname: Schlatter
 tl2_forenames: Theodor
 tl2_name_abbrev: Schlatter
 tl2_dates: 1847-1918
-tl2_page_id: 33333328
+tl2_bhl_page_id: 33333328
 author_lsid: 9112-1
 wikidata_id: Q21608027
 ipni_surname: Schlatter
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33333328) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9112-1), [Wikidata](https://www.wikidata.org/wiki/Q21608027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9112-1) LSID 9112-1, [Wikidata](https://www.wikidata.org/wiki/Q21608027) QID Q21608027
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

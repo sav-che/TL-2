@@ -6,7 +6,7 @@ tl2_surname: Graff
 tl2_forenames: Paul Weidemeyer
 tl2_name_abbrev: P.W. Graff
 tl2_dates: 1880-1969
-tl2_page_id: 33258801
+tl2_bhl_page_id: 33258801
 author_lsid: 19551-1
 wikidata_id: Q6067292
 ipni_surname: Graff
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33258801) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19551-1), [Wikidata](https://www.wikidata.org/wiki/Q6067292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19551-1) LSID 19551-1, [Wikidata](https://www.wikidata.org/wiki/Q6067292) QID Q6067292
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

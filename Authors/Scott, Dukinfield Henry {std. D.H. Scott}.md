@@ -6,7 +6,7 @@ tl2_surname: Scott
 tl2_forenames: Dukinfield Henry
 tl2_name_abbrev: D.H. Scott
 tl2_dates: 1854-1934
-tl2_page_id: 33333596
+tl2_bhl_page_id: 33333596
 author_lsid: 9389-1
 wikidata_id: Q1264652
 ipni_surname: Scott
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33333596) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9389-1), [Wikidata](https://www.wikidata.org/wiki/Q1264652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9389-1) LSID 9389-1, [Wikidata](https://www.wikidata.org/wiki/Q1264652) QID Q1264652
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

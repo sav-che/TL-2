@@ -6,7 +6,7 @@ tl2_surname: Westerlund
 tl2_forenames: Carl Agardh
 tl2_name_abbrev: C.A. Westerl.
 tl2_dates: 1831-1908
-tl2_page_id: 33066552
+tl2_bhl_page_id: 33066552
 author_lsid: 11587-1
 wikidata_id: Q5039799
 ipni_surname: Westerlund
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33066552) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11587-1), [Wikidata](https://www.wikidata.org/wiki/Q5039799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11587-1) LSID 11587-1, [Wikidata](https://www.wikidata.org/wiki/Q5039799) QID Q5039799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

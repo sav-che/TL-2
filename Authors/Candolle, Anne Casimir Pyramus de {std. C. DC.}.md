@@ -6,7 +6,7 @@ tl2_surname: Candolle
 tl2_forenames: Anne Casimir Pyramus de
 tl2_name_abbrev: C. DC
 tl2_dates: 1836-1918
-tl2_page_id: 33120568
+tl2_bhl_page_id: 33120568
 author_lsid: 2065-1
 wikidata_id: Q282065
 ipni_surname: Candolle
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33120568) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2065-1), [Wikidata](https://www.wikidata.org/wiki/Q282065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2065-1) LSID 2065-1, [Wikidata](https://www.wikidata.org/wiki/Q282065) QID Q282065
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Candolle, (Anne) Casimir (Pyramus) de {std. C. DC.} (Suppl.)|second entry]] for this author
 

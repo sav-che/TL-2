@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0309
 tl2_volume: vol6
 tl2_page_printed: 267
 tl2_surname: Thode
-tl2_forenames: [Hans] Justus
+tl2_forenames: (Hans) Justus
 tl2_name_abbrev: Thode
 tl2_dates: 1859-1932
-tl2_page_id: 33212309
+tl2_bhl_page_id: 33212309
 author_lsid: 35142-1
 wikidata_id: Q21610606
 ipni_surname: Thode
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33212309) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/35142-1), [Wikidata](https://www.wikidata.org/wiki/Q21610606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35142-1) LSID 35142-1, [Wikidata](https://www.wikidata.org/wiki/Q21610606) QID Q21610606
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

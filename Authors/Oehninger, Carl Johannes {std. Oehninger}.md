@@ -6,7 +6,7 @@ tl2_surname: Oehninger
 tl2_forenames: Carl Johannes
 tl2_name_abbrev: Oehninger
 tl2_dates: fl. 1908
-tl2_page_id: 33355894
+tl2_bhl_page_id: 33355894
 author_lsid: 7088-1
 wikidata_id: Q36528679
 ipni_surname: Oehninger
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7088-1), [Wikidata](https://www.wikidata.org/wiki/Q36528679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7088-1) LSID 7088-1, [Wikidata](https://www.wikidata.org/wiki/Q36528679) QID Q36528679
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

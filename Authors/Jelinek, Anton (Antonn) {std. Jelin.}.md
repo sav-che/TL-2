@@ -6,7 +6,7 @@ tl2_surname: Jelinek
 tl2_forenames: Anton (Antonn)
 tl2_name_abbrev: Jelin.
 tl2_dates: fl. 1857-1859
-tl2_page_id: 33068677
+tl2_bhl_page_id: 33068677
 author_lsid: 4462-1
 wikidata_id: Q47119528
 ipni_surname: Jelinek
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4462-1), [Wikidata](https://www.wikidata.org/wiki/Q47119528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4462-1) LSID 4462-1, [Wikidata](https://www.wikidata.org/wiki/Q47119528) QID Q47119528
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

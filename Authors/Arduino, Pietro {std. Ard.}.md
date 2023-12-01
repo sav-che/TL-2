@@ -6,7 +6,7 @@ tl2_surname: Arduino
 tl2_forenames: Pietro
 tl2_name_abbrev: Ard.
 tl2_dates: 1728-1805
-tl2_page_id: 33120191
+tl2_bhl_page_id: 33120191
 author_lsid: 258-1
 wikidata_id: Q1244985
 ipni_surname: Arduino
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/258-1), [Wikidata](https://www.wikidata.org/wiki/Q1244985). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/258-1) LSID 258-1, [Wikidata](https://www.wikidata.org/wiki/Q1244985) QID Q1244985
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Arduino, Pietro {std. Ard.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Nygaard
 tl2_forenames: Gunnar
 tl2_name_abbrev: Nygaard
 tl2_dates: 1903-x
-tl2_page_id: 33355875
+tl2_bhl_page_id: 33355875
 author_lsid: 7064-1
 wikidata_id: Q5619095
 ipni_surname: Nygaard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33355875) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7064-1), [Wikidata](https://www.wikidata.org/wiki/Q5619095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7064-1) LSID 7064-1, [Wikidata](https://www.wikidata.org/wiki/Q5619095) QID Q5619095
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

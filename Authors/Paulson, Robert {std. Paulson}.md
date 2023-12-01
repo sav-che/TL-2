@@ -6,7 +6,7 @@ tl2_surname: Paulson
 tl2_forenames: Robert
 tl2_name_abbrev: Paulson
 tl2_dates: 1857-1935
-tl2_page_id: 33189585
+tl2_bhl_page_id: 33189585
 author_lsid: 7411-1
 wikidata_id: Q21339099
 ipni_surname: Paulson
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33189585) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7411-1), [Wikidata](https://www.wikidata.org/wiki/Q21339099). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7411-1) LSID 7411-1, [Wikidata](https://www.wikidata.org/wiki/Q21339099) QID Q21339099
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

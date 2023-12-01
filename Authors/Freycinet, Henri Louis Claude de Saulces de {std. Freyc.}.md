@@ -6,7 +6,7 @@ tl2_surname: Freycinet
 tl2_forenames: Henri Louis Claude de Saulces de
 tl2_name_abbrev: Freyc.
 tl2_dates: 1779-1840
-tl2_page_id: 33121008
+tl2_bhl_page_id: 33121008
 author_lsid: 2898-1
 wikidata_id: Q520189
 ipni_surname: Freycinet
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:37:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2898-1), [Wikidata](https://www.wikidata.org/wiki/Q520189). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2898-1) LSID 2898-1, [Wikidata](https://www.wikidata.org/wiki/Q520189) QID Q520189
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

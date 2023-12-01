@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0153
 tl2_volume: suppl4
 tl2_page_printed: 195
 tl2_surname: Claussen
-tl2_forenames: Peter [Heinrich]
+tl2_forenames: Peter (Heinrich)
 tl2_name_abbrev: Claussen
 tl2_dates: 1877-1959
-tl2_page_id: 33265872
+tl2_bhl_page_id: 33265872
 author_lsid: 1680-1
 wikidata_id: Q16320610
 ipni_surname: Claussen
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1680-1), [Wikidata](https://www.wikidata.org/wiki/Q16320610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1680-1) LSID 1680-1, [Wikidata](https://www.wikidata.org/wiki/Q16320610) QID Q16320610
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Claussen, Peter {std. Claussen}|first entry]] for this author
 

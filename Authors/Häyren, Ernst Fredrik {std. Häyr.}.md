@@ -6,7 +6,7 @@ tl2_surname: Häyren
 tl2_forenames: Ernst Fredrik
 tl2_name_abbrev: Häyr.
 tl2_dates: 1878-1957
-tl2_page_id: 33068251
+tl2_bhl_page_id: 33068251
 author_lsid: 3541-1
 wikidata_id: Q17381047
 ipni_surname: Häyrén
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33068251) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3541-1), [Wikidata](https://www.wikidata.org/wiki/Q17381047). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3541-1) LSID 3541-1, [Wikidata](https://www.wikidata.org/wiki/Q17381047) QID Q17381047
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hallier
 tl2_forenames: Ernst Hans
 tl2_name_abbrev: Hallier
 tl2_dates: 1831-1904
-tl2_page_id: 33068272
+tl2_bhl_page_id: 33068272
 author_lsid: 3590-1
 wikidata_id: Q73100
 ipni_surname: Hallier
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33068272) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3590-1), [Wikidata](https://www.wikidata.org/wiki/Q73100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3590-1) LSID 3590-1, [Wikidata](https://www.wikidata.org/wiki/Q73100) QID Q73100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

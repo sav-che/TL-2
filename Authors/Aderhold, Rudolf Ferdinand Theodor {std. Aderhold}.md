@@ -6,7 +6,7 @@ tl2_surname: Aderhold
 tl2_forenames: Rudolf Ferdinand Theodor
 tl2_name_abbrev: Aderhold
 tl2_dates: 1865-1907
-tl2_page_id: 33264718
+tl2_bhl_page_id: 33264718
 author_lsid: 30653-1
 wikidata_id: Q2172302
 ipni_surname: Aderhold
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33264718) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30653-1), [Wikidata](https://www.wikidata.org/wiki/Q2172302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30653-1) LSID 30653-1, [Wikidata](https://www.wikidata.org/wiki/Q2172302) QID Q2172302
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

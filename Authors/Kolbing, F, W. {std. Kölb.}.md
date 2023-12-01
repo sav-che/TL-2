@@ -6,7 +6,7 @@ tl2_surname: Kolbing
 tl2_forenames: F, W.
 tl2_name_abbrev: Kölb.
 tl2_dates: x-1840
-tl2_page_id: 33068839
+tl2_bhl_page_id: 33068839
 author_lsid: 4914-1
 wikidata_id: Q21517694
 ipni_surname: Kölbing
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4914-1), [Wikidata](https://www.wikidata.org/wiki/Q21517694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4914-1) LSID 4914-1, [Wikidata](https://www.wikidata.org/wiki/Q21517694) QID Q21517694
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

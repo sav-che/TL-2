@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0542
 tl2_volume: vol5
 tl2_page_printed: 560
 tl2_surname: Sherbakoff
-tl2_forenames: Constantine Demetry [Dmitriev]
+tl2_forenames: Constantine Demetry (Dmitriev)
 tl2_name_abbrev: Sherb.
 tl2_dates: 1878-1965
-tl2_page_id: 33333699
+tl2_bhl_page_id: 33333699
 author_lsid: 9565-1
 wikidata_id: Q21608787
 ipni_surname: Sherbakoff
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33333699) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9565-1), [Wikidata](https://www.wikidata.org/wiki/Q21608787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9565-1) LSID 9565-1, [Wikidata](https://www.wikidata.org/wiki/Q21608787) QID Q21608787
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

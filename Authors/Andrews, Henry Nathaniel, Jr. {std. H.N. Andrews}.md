@@ -6,7 +6,7 @@ tl2_surname: Andrews
 tl2_forenames: Henry Nathaniel, Jr.
 tl2_name_abbrev: H.N. Andrews
 tl2_dates: 1910-x
-tl2_page_id: 33120183
+tl2_bhl_page_id: 33120183
 author_lsid: 217-1
 wikidata_id: Q3132977
 ipni_surname: Andrews
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33120183) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/217-1), [Wikidata](https://www.wikidata.org/wiki/Q3132977). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/217-1) LSID 217-1, [Wikidata](https://www.wikidata.org/wiki/Q3132977) QID Q3132977
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Andrews, Henry Nathaniel, Jr. {std. H.N. Andrews} (Suppl.)|second entry]] for this author
 

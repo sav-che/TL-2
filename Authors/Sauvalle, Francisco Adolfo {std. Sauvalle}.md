@@ -6,7 +6,7 @@ tl2_surname: Sauvalle
 tl2_forenames: Francisco Adolfo
 tl2_name_abbrev: Sauvalle
 tl2_dates: 1807-1879
-tl2_page_id: 33333218
+tl2_bhl_page_id: 33333218
 author_lsid: 8965-1
 wikidata_id: Q3081775
 ipni_surname: Sauvalle
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:41:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33333218) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8965-1), [Wikidata](https://www.wikidata.org/wiki/Q3081775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8965-1) LSID 8965-1, [Wikidata](https://www.wikidata.org/wiki/Q3081775) QID Q3081775
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

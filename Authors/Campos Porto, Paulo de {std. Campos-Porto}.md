@@ -6,7 +6,7 @@ tl2_surname: Campos Porto
 tl2_forenames: Paulo de
 tl2_name_abbrev: Campos-Porto
 tl2_dates: 1889-x
-tl2_page_id: 33266644
+tl2_bhl_page_id: 33266644
 author_lsid: 12746-1
 wikidata_id: Q9057116
 ipni_surname: Campos Porto
@@ -24,7 +24,8 @@ ipni_record_modified: 2015-05-26 09:46:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/12746-1), [Wikidata](https://www.wikidata.org/wiki/Q9057116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12746-1) LSID 12746-1, [Wikidata](https://www.wikidata.org/wiki/Q9057116) QID Q9057116
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Werneck
 tl2_forenames: Ludwig Friedrich Franz Freiherr von
 tl2_name_abbrev: Werneck
 tl2_dates: fl. 1791
-tl2_page_id: 33066533
+tl2_bhl_page_id: 33066533
 author_lsid: 11561-1
 wikidata_id: Q36618215
 ipni_surname: Werneck
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11561-1), [Wikidata](https://www.wikidata.org/wiki/Q36618215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11561-1) LSID 11561-1, [Wikidata](https://www.wikidata.org/wiki/Q36618215) QID Q36618215
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

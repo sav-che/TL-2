@@ -6,7 +6,7 @@ tl2_surname: Bakhuizen van den Brink
 tl2_forenames: Reinier Cornelis Jr.
 tl2_name_abbrev: Bakh. f.
 tl2_dates: 1911-x
-tl2_page_id: 33120237
+tl2_bhl_page_id: 33120237
 author_lsid: 412-1
 wikidata_id: Q4076182
 ipni_surname: Bakhuizen van den Brink
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:07.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33120237) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/412-1), [Wikidata](https://www.wikidata.org/wiki/Q4076182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/412-1) LSID 412-1, [Wikidata](https://www.wikidata.org/wiki/Q4076182) QID Q4076182
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bakhuizen van den Brink (Jr.), Reinier Cornelis {std. Bakh. f.} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Dombey
 tl2_forenames: Joseph
 tl2_name_abbrev: Dombey
 tl2_dates: 1742-1794
-tl2_page_id: 33120798
+tl2_bhl_page_id: 33120798
 author_lsid: 2262-1
 wikidata_id: Q3090205
 ipni_surname: Dombey
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:28:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33120798) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2262-1), [Wikidata](https://www.wikidata.org/wiki/Q3090205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2262-1) LSID 2262-1, [Wikidata](https://www.wikidata.org/wiki/Q3090205) QID Q3090205
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

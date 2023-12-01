@@ -6,7 +6,7 @@ tl2_surname: Bonnier
 tl2_forenames: Gaston Eugène Marie
 tl2_name_abbrev: Bonnier
 tl2_dates: 1851-1922
-tl2_page_id: 33120403
+tl2_bhl_page_id: 33120403
 author_lsid: 959-1
 wikidata_id: Q724379
 ipni_surname: Bonnier
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33120403) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/959-1), [Wikidata](https://www.wikidata.org/wiki/Q724379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/959-1) LSID 959-1, [Wikidata](https://www.wikidata.org/wiki/Q724379) QID Q724379
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bonnier, Gaston {std. Bonnier} (Suppl.)|second entry]] for this author
 

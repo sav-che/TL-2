@@ -6,7 +6,7 @@ tl2_surname: Schlayer
 tl2_forenames: Philipp
 tl2_name_abbrev: Schlayer
 tl2_dates: fl. 1837
-tl2_page_id: 33333329
+tl2_bhl_page_id: 33333329
 author_lsid: 9113-1
 wikidata_id: Q36655514
 ipni_surname: Schlayer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9113-1), [Wikidata](https://www.wikidata.org/wiki/Q36655514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9113-1) LSID 9113-1, [Wikidata](https://www.wikidata.org/wiki/Q36655514) QID Q36655514
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

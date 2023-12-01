@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0024
 tl2_volume: vol2
 tl2_page_printed: 16
 tl2_surname: Halácsy
-tl2_forenames: Eugen von [Eugène de]
+tl2_forenames: Eugen von (Eugène de)
 tl2_name_abbrev: Halácsy
 tl2_dates: 1842-1913
-tl2_page_id: 33068258
+tl2_bhl_page_id: 33068258
 author_lsid: 3563-1
 wikidata_id: Q4494983
 ipni_surname: Halácsy
@@ -27,7 +27,8 @@ ipni_record_modified: 2008-02-07 12:06:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33068258) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3563-1), [Wikidata](https://www.wikidata.org/wiki/Q4494983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3563-1) LSID 3563-1, [Wikidata](https://www.wikidata.org/wiki/Q4494983) QID Q4494983
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

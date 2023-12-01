@@ -6,7 +6,7 @@ tl2_surname: Clarke
 tl2_forenames: Alfred Ernest
 tl2_name_abbrev: A.E. Clarke
 tl2_dates: 1903-?
-tl2_page_id: 33265860
+tl2_bhl_page_id: 33265860
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265860) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

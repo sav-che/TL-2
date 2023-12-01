@@ -6,7 +6,7 @@ tl2_surname: Core
 tl2_forenames: Earl Lemley
 tl2_name_abbrev: Core
 tl2_dates: 1902-1984
-tl2_page_id: 33266037
+tl2_bhl_page_id: 33266037
 author_lsid: 1804-1
 wikidata_id: Q5325972
 ipni_surname: Core
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33266037) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1804-1), [Wikidata](https://www.wikidata.org/wiki/Q5325972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1804-1) LSID 1804-1, [Wikidata](https://www.wikidata.org/wiki/Q5325972) QID Q5325972
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Harting
 tl2_forenames: Pieter
 tl2_name_abbrev: Harting
 tl2_dates: 1812-1885
-tl2_page_id: 33068304
+tl2_bhl_page_id: 33068304
 author_lsid: 3685-1
 wikidata_id: Q2328219
 ipni_surname: Harting
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33068304) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3685-1), [Wikidata](https://www.wikidata.org/wiki/Q2328219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3685-1) LSID 3685-1, [Wikidata](https://www.wikidata.org/wiki/Q2328219) QID Q2328219
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

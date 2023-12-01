@@ -6,7 +6,7 @@ tl2_surname: Wood
 tl2_forenames: John Bland
 tl2_name_abbrev: J.B. Wood
 tl2_dates: 1813-1890
-tl2_page_id: 33066778
+tl2_bhl_page_id: 33066778
 author_lsid: 11844-1
 wikidata_id: Q21612956
 ipni_surname: Wood
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11844-1), [Wikidata](https://www.wikidata.org/wiki/Q21612956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11844-1) LSID 11844-1, [Wikidata](https://www.wikidata.org/wiki/Q21612956) QID Q21612956
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

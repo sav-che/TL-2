@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0454
 tl2_volume: vol5
 tl2_page_printed: 474
 tl2_surname: Seemann
-tl2_forenames: Berthold [Carl]
+tl2_forenames: Berthold (Carl)
 tl2_name_abbrev: Seem.
 tl2_dates: 1825-1871
-tl2_page_id: 33333613
+tl2_bhl_page_id: 33333613
 author_lsid: 9417-1
 wikidata_id: Q64899
 ipni_surname: Seemann
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:34:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33333613) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9417-1), [Wikidata](https://www.wikidata.org/wiki/Q64899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9417-1) LSID 9417-1, [Wikidata](https://www.wikidata.org/wiki/Q64899) QID Q64899
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

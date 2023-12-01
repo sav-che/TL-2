@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0818
 tl2_volume: vol3
 tl2_page_printed: 699
 tl2_surname: Naveau
-tl2_forenames: [Georges] Raymond [Léonard]
+tl2_forenames: (Georges) Raymond (Léonard)
 tl2_name_abbrev: Naveau
 tl2_dates: 1889-1932
-tl2_page_id: 33355786
+tl2_bhl_page_id: 33355786
 author_lsid: 6873-1
 wikidata_id: Q21341377
 ipni_surname: Naveau
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33355786) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6873-1), [Wikidata](https://www.wikidata.org/wiki/Q21341377). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6873-1) LSID 6873-1, [Wikidata](https://www.wikidata.org/wiki/Q21341377) QID Q21341377
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Sargent
 tl2_forenames: Charles Sprague
 tl2_name_abbrev: Sarg.
 tl2_dates: 1841-1927
-tl2_page_id: 33333152
+tl2_bhl_page_id: 33333152
 author_lsid: 8917-1
 wikidata_id: Q1066128
 ipni_surname: Sargent
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:40:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33333152) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8917-1), [Wikidata](https://www.wikidata.org/wiki/Q1066128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8917-1) LSID 8917-1, [Wikidata](https://www.wikidata.org/wiki/Q1066128) QID Q1066128
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

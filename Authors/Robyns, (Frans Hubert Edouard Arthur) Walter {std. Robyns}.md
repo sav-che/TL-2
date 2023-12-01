@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0827
 tl2_volume: vol4
 tl2_page_printed: 819
 tl2_surname: Robyns
-tl2_forenames: [Frans Hubert Edouard Arthur] Walter
+tl2_forenames: (Frans Hubert Edouard Arthur) Walter
 tl2_name_abbrev: Robyns
 tl2_dates: 1901-x
-tl2_page_id: 33190290
+tl2_bhl_page_id: 33190290
 author_lsid: 8466-1
 wikidata_id: Q5492362
 ipni_surname: Robyns
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:33:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33190290) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8466-1), [Wikidata](https://www.wikidata.org/wiki/Q5492362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8466-1) LSID 8466-1, [Wikidata](https://www.wikidata.org/wiki/Q5492362) QID Q5492362
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Arwidsson
 tl2_forenames: Thorsten
 tl2_name_abbrev: Arwidss.
 tl2_dates: 1904-1948
-tl2_page_id: 33264910
+tl2_bhl_page_id: 33264910
 author_lsid: 299-1
 wikidata_id: Q5560657
 ipni_surname: Arwidsson
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33264910) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/299-1), [Wikidata](https://www.wikidata.org/wiki/Q5560657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/299-1) LSID 299-1, [Wikidata](https://www.wikidata.org/wiki/Q5560657) QID Q5560657
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

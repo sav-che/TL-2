@@ -6,7 +6,7 @@ tl2_surname: Acosta
 tl2_forenames: Christobal (Christóvão da Costa)
 tl2_name_abbrev: C. Acosta
 tl2_dates: 1512-1580
-tl2_page_id: 33120100
+tl2_bhl_page_id: 33120100
 author_lsid: 57-1
 wikidata_id: Q384460
 ipni_surname: Acosta
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33120100) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/57-1), [Wikidata](https://www.wikidata.org/wiki/Q384460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/57-1) LSID 57-1, [Wikidata](https://www.wikidata.org/wiki/Q384460) QID Q384460
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

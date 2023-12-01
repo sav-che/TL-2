@@ -6,7 +6,7 @@ tl2_surname: Halsted
 tl2_forenames: Byron David
 tl2_name_abbrev: Halst.
 tl2_dates: 1852-1918
-tl2_page_id: 33068275
+tl2_bhl_page_id: 33068275
 author_lsid: 3591-1
 wikidata_id: Q5004372
 ipni_surname: Halsted
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33068275) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3591-1), [Wikidata](https://www.wikidata.org/wiki/Q5004372). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3591-1) LSID 3591-1, [Wikidata](https://www.wikidata.org/wiki/Q5004372) QID Q5004372
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

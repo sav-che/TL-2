@@ -6,7 +6,7 @@ tl2_surname: Nyman
 tl2_forenames: Erik Olof August
 tl2_name_abbrev: E. Nym.
 tl2_dates: 1866-1900
-tl2_page_id: 33355886
+tl2_bhl_page_id: 33355886
 author_lsid: 24208-1
 wikidata_id: Q15732417
 ipni_surname: Nyman
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24208-1), [Wikidata](https://www.wikidata.org/wiki/Q15732417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24208-1) LSID 24208-1, [Wikidata](https://www.wikidata.org/wiki/Q15732417) QID Q15732417
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

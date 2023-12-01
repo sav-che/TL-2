@@ -6,7 +6,7 @@ tl2_surname: Nonne
 tl2_forenames: Johann Philipp
 tl2_name_abbrev: Nonne
 tl2_dates: 1729-1772
-tl2_page_id: 33355852
+tl2_bhl_page_id: 33355852
 author_lsid: 7021-1
 wikidata_id: Q15821231
 ipni_surname: Nonne
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7021-1), [Wikidata](https://www.wikidata.org/wiki/Q15821231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7021-1) LSID 7021-1, [Wikidata](https://www.wikidata.org/wiki/Q15821231) QID Q15821231
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

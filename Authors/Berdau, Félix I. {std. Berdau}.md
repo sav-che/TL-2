@@ -6,7 +6,7 @@ tl2_surname: Berdau
 tl2_forenames: Félix I.
 tl2_name_abbrev: Berdau
 tl2_dates: 1826-1895
-tl2_page_id: 33120315
+tl2_bhl_page_id: 33120315
 author_lsid: 15968-1
 wikidata_id: Q9258544
 ipni_surname: Berdau
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:46:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33120315) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/15968-1), [Wikidata](https://www.wikidata.org/wiki/Q9258544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/15968-1) LSID 15968-1, [Wikidata](https://www.wikidata.org/wiki/Q9258544) QID Q9258544
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

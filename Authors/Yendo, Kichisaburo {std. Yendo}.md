@@ -6,7 +6,7 @@ tl2_surname: Yendo
 tl2_forenames: Kichisaburo
 tl2_name_abbrev: Yendo
 tl2_dates: 1874-1921
-tl2_page_id: 33066830
+tl2_bhl_page_id: 33066830
 author_lsid: 11938-1
 wikidata_id: Q11642198
 ipni_surname: Yendo
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33066830) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11938-1), [Wikidata](https://www.wikidata.org/wiki/Q11642198). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11938-1) LSID 11938-1, [Wikidata](https://www.wikidata.org/wiki/Q11642198) QID Q11642198
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

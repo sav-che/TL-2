@@ -6,7 +6,7 @@ tl2_surname: Lotsy
 tl2_forenames: Johannes Paulus
 tl2_name_abbrev: Lotsy
 tl2_dates: 1867-1931
-tl2_page_id: 33355252
+tl2_bhl_page_id: 33355252
 author_lsid: 5770-1
 wikidata_id: Q2718138
 ipni_surname: Lotsy
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33355252) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5770-1), [Wikidata](https://www.wikidata.org/wiki/Q2718138). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5770-1) LSID 5770-1, [Wikidata](https://www.wikidata.org/wiki/Q2718138) QID Q2718138
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

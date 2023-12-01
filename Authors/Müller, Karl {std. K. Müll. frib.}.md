@@ -6,27 +6,30 @@ tl2_surname: Müller
 tl2_forenames: Karl
 tl2_name_abbrev: K. Müll. frib.
 tl2_dates: 1881-1955
-tl2_page_id: 33355725
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33355725
+author_lsid: 6742-1
+wikidata_id: Q109683
+ipni_surname: Müller
+ipni_forenames: Karl
+ipni_standard_form: Müll.Frib.
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Bryophytes
+ipni_geo_scope:
+ipni_version: 1.2
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33355725) of TL-2 Vol. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6742-1) LSID 6742-1, [Wikidata](https://www.wikidata.org/wiki/Q109683) QID Q109683
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Müller, Karl (1881-1955) of Freiburg, German hepaticologist; Dr. phil. Freiburg 1905; from 1905-1921 at the phytopathological station Augustenberg nr. Karlsruhe and as phytopathologist involved in the wine industry; from 1921-1937 director of the Badische Weinbauinstitut; from 1937-1955 working full time on hepaticology. 
-**Abbreviated name**: *K. Müll. frib.*
+**Abbreviated name**: *K. Müll. frib.* \[standard form in IPNI: *Müll.Frib.*\]
 
 #### Herbarium and types
 

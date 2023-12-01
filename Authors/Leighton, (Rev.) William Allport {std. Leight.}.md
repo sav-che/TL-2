@@ -6,7 +6,7 @@ tl2_surname: Leighton
 tl2_forenames: (Rev.) William Allport
 tl2_name_abbrev: Leight.
 tl2_dates: 1805-1889
-tl2_page_id: 33069069
+tl2_bhl_page_id: 33069069
 author_lsid: 22210-1
 wikidata_id: Q8004384
 ipni_surname: Leighton
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33069069) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22210-1), [Wikidata](https://www.wikidata.org/wiki/Q8004384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22210-1) LSID 22210-1, [Wikidata](https://www.wikidata.org/wiki/Q8004384) QID Q8004384
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

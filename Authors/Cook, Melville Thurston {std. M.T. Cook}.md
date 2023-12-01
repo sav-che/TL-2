@@ -6,7 +6,7 @@ tl2_surname: Cook
 tl2_forenames: Melville Thurston
 tl2_name_abbrev: M.T. Cook
 tl2_dates: 1869-1952
-tl2_page_id: 33265997
+tl2_bhl_page_id: 33265997
 author_lsid: 17392-1
 wikidata_id: Q21508986
 ipni_surname: Cook
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33265997) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17392-1), [Wikidata](https://www.wikidata.org/wiki/Q21508986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17392-1) LSID 17392-1, [Wikidata](https://www.wikidata.org/wiki/Q21508986) QID Q21508986
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

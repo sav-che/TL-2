@@ -6,7 +6,7 @@ tl2_surname: Paláu y Verdéra
 tl2_forenames: Antonio
 tl2_name_abbrev: Paláu
 tl2_dates: x-1793
-tl2_page_id: 33189503
+tl2_bhl_page_id: 33189503
 author_lsid: 7266-1
 wikidata_id: Q548758
 ipni_surname: Paláu y Verdera
@@ -24,7 +24,8 @@ ipni_record_modified: 2010-07-08 13:14:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7266-1), [Wikidata](https://www.wikidata.org/wiki/Q548758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7266-1) LSID 7266-1, [Wikidata](https://www.wikidata.org/wiki/Q548758) QID Q548758
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

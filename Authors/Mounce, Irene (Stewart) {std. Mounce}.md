@@ -6,7 +6,7 @@ tl2_surname: Mounce
 tl2_forenames: Irene (Stewart)
 tl2_name_abbrev: Mounce
 tl2_dates: 1894-x
-tl2_page_id: 33355696
+tl2_bhl_page_id: 33355696
 author_lsid: 23687-1
 wikidata_id: Q21521799
 ipni_surname: Mounce
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23687-1), [Wikidata](https://www.wikidata.org/wiki/Q21521799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23687-1) LSID 23687-1, [Wikidata](https://www.wikidata.org/wiki/Q21521799) QID Q21521799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

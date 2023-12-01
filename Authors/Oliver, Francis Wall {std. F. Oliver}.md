@@ -6,7 +6,7 @@ tl2_surname: Oliver
 tl2_forenames: Francis Wall
 tl2_name_abbrev: F. Oliver
 tl2_dates: 1864-1951
-tl2_page_id: 33355915
+tl2_bhl_page_id: 33355915
 author_lsid: 7130-1
 wikidata_id: Q5482698
 ipni_surname: Oliver
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33355915) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7130-1), [Wikidata](https://www.wikidata.org/wiki/Q5482698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7130-1) LSID 7130-1, [Wikidata](https://www.wikidata.org/wiki/Q5482698) QID Q5482698
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

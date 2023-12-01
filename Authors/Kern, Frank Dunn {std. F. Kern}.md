@@ -6,7 +6,7 @@ tl2_surname: Kern
 tl2_forenames: Frank Dunn
 tl2_name_abbrev: F. Kern
 tl2_dates: 1883-1973
-tl2_page_id: 33068766
+tl2_bhl_page_id: 33068766
 author_lsid: 4738-1
 wikidata_id: Q19960053
 ipni_surname: Kern
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33068766) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4738-1), [Wikidata](https://www.wikidata.org/wiki/Q19960053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4738-1) LSID 4738-1, [Wikidata](https://www.wikidata.org/wiki/Q19960053) QID Q19960053
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

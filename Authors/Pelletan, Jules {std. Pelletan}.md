@@ -6,7 +6,7 @@ tl2_surname: Pelletan
 tl2_forenames: Jules
 tl2_name_abbrev: Pelletan
 tl2_dates: 1833-1892
-tl2_page_id: 33189619
+tl2_bhl_page_id: 33189619
 author_lsid: 7475-1
 wikidata_id: Q21522781
 ipni_surname: Pelletan
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33189619) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7475-1), [Wikidata](https://www.wikidata.org/wiki/Q21522781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7475-1) LSID 7475-1, [Wikidata](https://www.wikidata.org/wiki/Q21522781) QID Q21522781
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

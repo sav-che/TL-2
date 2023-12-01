@@ -6,7 +6,7 @@ tl2_surname: Richard
 tl2_forenames: Olivier Jules
 tl2_name_abbrev: O.J. Rich.
 tl2_dates: 1836-1896
-tl2_page_id: 33190238
+tl2_bhl_page_id: 33190238
 author_lsid: 8351-1
 wikidata_id: Q7088161
 ipni_surname: Richard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33190238) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8351-1), [Wikidata](https://www.wikidata.org/wiki/Q7088161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8351-1) LSID 8351-1, [Wikidata](https://www.wikidata.org/wiki/Q7088161) QID Q7088161
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

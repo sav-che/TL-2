@@ -6,7 +6,7 @@ tl2_surname: Plitt
 tl2_forenames: Charles Christian
 tl2_name_abbrev: Plitt
 tl2_dates: 1869-1933
-tl2_page_id: 33189767
+tl2_bhl_page_id: 33189767
 author_lsid: 24914-1
 wikidata_id: Q5076245
 ipni_surname: Plitt
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:31.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33189767) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24914-1), [Wikidata](https://www.wikidata.org/wiki/Q5076245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24914-1) LSID 24914-1, [Wikidata](https://www.wikidata.org/wiki/Q5076245) QID Q5076245
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

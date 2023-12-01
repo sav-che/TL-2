@@ -6,7 +6,7 @@ tl2_surname: Dippenaar
 tl2_forenames: Barend Jacobus
 tl2_name_abbrev: Dippen.
 tl2_dates: 1902-x
-tl2_page_id: 33259396
+tl2_bhl_page_id: 33259396
 author_lsid: 18062-1
 wikidata_id: Q5653966
 ipni_surname: Dippenaar
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33259396) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/18062-1), [Wikidata](https://www.wikidata.org/wiki/Q5653966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18062-1) LSID 18062-1, [Wikidata](https://www.wikidata.org/wiki/Q5653966) QID Q5653966
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

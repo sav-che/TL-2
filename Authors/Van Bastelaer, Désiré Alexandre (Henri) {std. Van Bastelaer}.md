@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0638
 tl2_volume: vol6
 tl2_page_printed: 656
 tl2_surname: Van Bastelaer
-tl2_forenames: Désiré Alexandre [Henri]
+tl2_forenames: Désiré Alexandre (Henri)
 tl2_name_abbrev: Van Bastelaer
 tl2_dates: 1823-1907
-tl2_page_id: 33212698
+tl2_bhl_page_id: 33212698
 author_lsid: 12962-1
 wikidata_id: Q21611380
 ipni_surname: Van Bastelaer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:50.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33212698) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12962-1), [Wikidata](https://www.wikidata.org/wiki/Q21611380). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12962-1) LSID 12962-1, [Wikidata](https://www.wikidata.org/wiki/Q21611380) QID Q21611380
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

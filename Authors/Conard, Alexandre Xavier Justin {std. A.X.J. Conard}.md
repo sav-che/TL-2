@@ -6,7 +6,7 @@ tl2_surname: Conard
 tl2_forenames: Alexandre Xavier Justin
 tl2_name_abbrev: A.X.J. Conard
 tl2_dates: 1892-x
-tl2_page_id: 33265971
+tl2_bhl_page_id: 33265971
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33265971) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Koeler
 tl2_forenames: Georg Ludwig
 tl2_name_abbrev: Koeler
 tl2_dates: 1765-1807
-tl2_page_id: 33068839
+tl2_bhl_page_id: 33068839
 author_lsid: 4916-1
 wikidata_id: Q97012
 ipni_surname: Koeler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4916-1), [Wikidata](https://www.wikidata.org/wiki/Q97012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4916-1) LSID 4916-1, [Wikidata](https://www.wikidata.org/wiki/Q97012) QID Q97012
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

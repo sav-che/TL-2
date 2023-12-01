@@ -6,7 +6,7 @@ tl2_surname: Kirby
 tl2_forenames: Mary (1860 Mrs. H. Gregg)
 tl2_name_abbrev: Kirby
 tl2_dates: 1817-1893
-tl2_page_id: 33068790
+tl2_bhl_page_id: 33068790
 author_lsid: 12608-1
 wikidata_id: Q18576728
 ipni_surname: Kirby
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33068790) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12608-1), [Wikidata](https://www.wikidata.org/wiki/Q18576728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12608-1) LSID 12608-1, [Wikidata](https://www.wikidata.org/wiki/Q18576728) QID Q18576728
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

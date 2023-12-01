@@ -6,7 +6,7 @@ tl2_surname: Rauscher
 tl2_forenames: Robert
 tl2_name_abbrev: Rauscher
 tl2_dates: 1806-1890
-tl2_page_id: 33190064
+tl2_bhl_page_id: 33190064
 author_lsid: 8169-1
 wikidata_id: Q21607000
 ipni_surname: Rauscher
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8169-1), [Wikidata](https://www.wikidata.org/wiki/Q21607000). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8169-1) LSID 8169-1, [Wikidata](https://www.wikidata.org/wiki/Q21607000) QID Q21607000
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

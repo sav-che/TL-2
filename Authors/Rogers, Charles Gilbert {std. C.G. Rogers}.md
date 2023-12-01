@@ -6,7 +6,7 @@ tl2_surname: Rogers
 tl2_forenames: Charles Gilbert
 tl2_name_abbrev: C.G. Rogers
 tl2_dates: 1864-1937
-tl2_page_id: 33190328
+tl2_bhl_page_id: 33190328
 author_lsid: 8520-1
 wikidata_id: Q21607327
 ipni_surname: Rogers
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33190328) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8520-1), [Wikidata](https://www.wikidata.org/wiki/Q21607327). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8520-1) LSID 8520-1, [Wikidata](https://www.wikidata.org/wiki/Q21607327) QID Q21607327
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

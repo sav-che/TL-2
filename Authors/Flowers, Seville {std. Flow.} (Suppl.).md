@@ -6,7 +6,7 @@ tl2_surname: Flowers
 tl2_forenames: Seville
 tl2_name_abbrev: Flow.
 tl2_dates: 1900-1968
-tl2_page_id: 33259777
+tl2_bhl_page_id: 33259777
 author_lsid: 2794-1
 wikidata_id: Q21390716
 ipni_surname: Flowers
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33259777) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2794-1), [Wikidata](https://www.wikidata.org/wiki/Q21390716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2794-1) LSID 2794-1, [Wikidata](https://www.wikidata.org/wiki/Q21390716) QID Q21390716
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Flowers, Seville {std. Flow.}|first entry]] for this author
 

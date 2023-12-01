@@ -6,7 +6,7 @@ tl2_surname: Plée
 tl2_forenames: Auguste
 tl2_name_abbrev: A. Plée
 tl2_dates: 1787-1825
-tl2_page_id: 33189764
+tl2_bhl_page_id: 33189764
 author_lsid: 7751-1
 wikidata_id: Q4821066
 ipni_surname: Plée
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33189764) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7751-1), [Wikidata](https://www.wikidata.org/wiki/Q4821066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7751-1) LSID 7751-1, [Wikidata](https://www.wikidata.org/wiki/Q4821066) QID Q4821066
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Welling
 tl2_forenames: Christian Friedrich von
 tl2_name_abbrev: Welling
 tl2_dates: fl. 1791
-tl2_page_id: 33066514
+tl2_bhl_page_id: 33066514
 author_lsid: 11534-1
 wikidata_id: Q36532588
 ipni_surname: Welling
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:27:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33066514) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11534-1), [Wikidata](https://www.wikidata.org/wiki/Q36532588). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11534-1) LSID 11534-1, [Wikidata](https://www.wikidata.org/wiki/Q36532588) QID Q36532588
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

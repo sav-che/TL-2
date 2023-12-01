@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0661
 tl2_volume: vol5
 tl2_page_printed: 659
 tl2_surname: Smirnova
-tl2_forenames: Zoya [Zoë] Nikolayevna
+tl2_forenames: Zoya (Zoë) Nikolayevna
 tl2_name_abbrev: Smirn.
 tl2_dates: 1898-1979
-tl2_page_id: 33333798
+tl2_bhl_page_id: 33333798
 author_lsid: 9767-1
 wikidata_id: Q21609068
 ipni_surname: Smirnova
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9767-1), [Wikidata](https://www.wikidata.org/wiki/Q21609068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9767-1) LSID 9767-1, [Wikidata](https://www.wikidata.org/wiki/Q21609068) QID Q21609068
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

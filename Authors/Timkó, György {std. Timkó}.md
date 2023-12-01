@@ -6,7 +6,7 @@ tl2_surname: Timkó
 tl2_forenames: György
 tl2_name_abbrev: Timkó
 tl2_dates: 1881-1945
-tl2_page_id: 33212403
+tl2_bhl_page_id: 33212403
 author_lsid: 27741-1
 wikidata_id: Q21512726
 ipni_surname: Timkó
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27741-1), [Wikidata](https://www.wikidata.org/wiki/Q21512726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27741-1) LSID 27741-1, [Wikidata](https://www.wikidata.org/wiki/Q21512726) QID Q21512726
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

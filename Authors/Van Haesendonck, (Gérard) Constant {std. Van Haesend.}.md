@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol6_0652
 tl2_volume: vol6
 tl2_page_printed: 665
 tl2_surname: Van Haesendonck
-tl2_forenames: [Gérard] Constant
+tl2_forenames: (Gérard) Constant
 tl2_name_abbrev: Van Haesend.
 tl2_dates: 1810-1881
-tl2_page_id: 33212707
+tl2_bhl_page_id: 33212707
 author_lsid: 12964-1
 wikidata_id: Q21611412
 ipni_surname: Van Haesendonck
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/12964-1), [Wikidata](https://www.wikidata.org/wiki/Q21611412). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12964-1) LSID 12964-1, [Wikidata](https://www.wikidata.org/wiki/Q21611412) QID Q21611412
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Gagnebin de la Ferrière
 tl2_forenames: Abraham
 tl2_name_abbrev: Gagnebin
 tl2_dates: 1707-1800
-tl2_page_id: 33121035
+tl2_bhl_page_id: 33121035
 author_lsid: 2977-1
 wikidata_id: Q116841
 ipni_surname: Gagnebin
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33121035) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2977-1), [Wikidata](https://www.wikidata.org/wiki/Q116841). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2977-1) LSID 2977-1, [Wikidata](https://www.wikidata.org/wiki/Q116841) QID Q116841
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

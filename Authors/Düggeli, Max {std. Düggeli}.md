@@ -6,7 +6,7 @@ tl2_surname: Düggeli
 tl2_forenames: Max
 tl2_name_abbrev: Düggeli
 tl2_dates: 1878-1946
-tl2_page_id: 33260134
+tl2_bhl_page_id: 33260134
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33260134) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

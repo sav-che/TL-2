@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0938
 tl2_volume: vol4
 tl2_page_printed: 907
 tl2_surname: Rossmann
-tl2_forenames: [Georg Wilhelm] Julius
+tl2_forenames: (Georg Wilhelm) Julius
 tl2_name_abbrev: Rossmann
 tl2_dates: 1831-1866
-tl2_page_id: 33190378
+tl2_bhl_page_id: 33190378
 author_lsid: 12793-1
 wikidata_id: Q21607446
 ipni_surname: Rossmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33190378) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/12793-1), [Wikidata](https://www.wikidata.org/wiki/Q21607446). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12793-1) LSID 12793-1, [Wikidata](https://www.wikidata.org/wiki/Q21607446) QID Q21607446
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

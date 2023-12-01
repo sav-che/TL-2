@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0341
 tl2_volume: suppl1
 tl2_page_printed: 308
 tl2_surname: Balsamo-Crivelli
-tl2_forenames: Guiseppe Gabriel [originally Joseph Gabriel Balsamo]
+tl2_forenames: Guiseppe Gabriel (originally Joseph Gabriel Balsamo)
 tl2_name_abbrev: Bals.-Criv.
 tl2_dates: 1800-1874
-tl2_page_id: 33265035
+tl2_bhl_page_id: 33265035
 author_lsid: 31272-1
 wikidata_id: Q962745
 ipni_surname: Balsamo-Crivelli
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265035) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31272-1), [Wikidata](https://www.wikidata.org/wiki/Q962745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31272-1) LSID 31272-1, [Wikidata](https://www.wikidata.org/wiki/Q962745) QID Q962745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Balsamo-Crivelli, Giuseppe Gabriel {std. Bals.-Criv.}|first entry]] for this author
 

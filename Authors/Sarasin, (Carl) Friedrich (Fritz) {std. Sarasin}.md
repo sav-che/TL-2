@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0046
 tl2_volume: vol5
 tl2_page_printed: 49
 tl2_surname: Sarasin
-tl2_forenames: [Carl] Friedrich (Fritz)
+tl2_forenames: (Carl) Friedrich (Fritz)
 tl2_name_abbrev: Sarasin
 tl2_dates: 1859-1942
-tl2_page_id: 33333150
+tl2_bhl_page_id: 33333150
 author_lsid: 12812-1
 wikidata_id: Q124522
 ipni_surname: Sarasin
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33333150) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12812-1), [Wikidata](https://www.wikidata.org/wiki/Q124522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12812-1) LSID 12812-1, [Wikidata](https://www.wikidata.org/wiki/Q124522) QID Q124522
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

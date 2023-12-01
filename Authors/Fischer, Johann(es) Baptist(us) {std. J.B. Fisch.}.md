@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0140
 tl2_volume: suppl7
 tl2_page_printed: 215
 tl2_surname: Fischer
-tl2_forenames: Johann[es] Baptist[us]
+tl2_forenames: Johann(es) Baptist(us)
 tl2_name_abbrev: J.B. Fisch.
 tl2_dates: 1803-1832
-tl2_page_id: 33259719
+tl2_bhl_page_id: 33259719
 author_lsid: 38524-1
 wikidata_id: Q1692523
 ipni_surname: Fischer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:52:44.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33259719) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/38524-1), [Wikidata](https://www.wikidata.org/wiki/Q1692523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/38524-1) LSID 38524-1, [Wikidata](https://www.wikidata.org/wiki/Q1692523) QID Q1692523
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

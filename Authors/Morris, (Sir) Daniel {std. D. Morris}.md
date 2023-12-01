@@ -6,7 +6,7 @@ tl2_surname: Morris
 tl2_forenames: (Sir) Daniel
 tl2_name_abbrev: D. Morris
 tl2_dates: 1844-1933
-tl2_page_id: 33355681
+tl2_bhl_page_id: 33355681
 author_lsid: 12693-1
 wikidata_id: Q20733957
 ipni_surname: Morris
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12693-1), [Wikidata](https://www.wikidata.org/wiki/Q20733957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12693-1) LSID 12693-1, [Wikidata](https://www.wikidata.org/wiki/Q20733957) QID Q20733957
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

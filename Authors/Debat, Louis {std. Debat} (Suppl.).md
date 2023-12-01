@@ -6,7 +6,7 @@ tl2_surname: Debat
 tl2_forenames: Louis
 tl2_name_abbrev: Debat
 tl2_dates: 1822-1906
-tl2_page_id: 33259170
+tl2_bhl_page_id: 33259170
 author_lsid: 17871-1
 wikidata_id: Q21510100
 ipni_surname: Debat
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17871-1), [Wikidata](https://www.wikidata.org/wiki/Q21510100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17871-1) LSID 17871-1, [Wikidata](https://www.wikidata.org/wiki/Q21510100) QID Q21510100
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Debat, Louis {std. Debat}|first entry]] for this author
 

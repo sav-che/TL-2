@@ -6,7 +6,7 @@ tl2_surname: Nemoto
 tl2_forenames: Kwanji
 tl2_name_abbrev: Nemoto
 tl2_dates: 1860-1936
-tl2_page_id: 33355814
+tl2_bhl_page_id: 33355814
 author_lsid: 6913-1
 wikidata_id: Q9018133
 ipni_surname: Nemoto
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:13.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6913-1), [Wikidata](https://www.wikidata.org/wiki/Q9018133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6913-1) LSID 6913-1, [Wikidata](https://www.wikidata.org/wiki/Q9018133) QID Q9018133
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

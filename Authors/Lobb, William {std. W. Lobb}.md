@@ -6,7 +6,7 @@ tl2_surname: Lobb
 tl2_forenames: William
 tl2_name_abbrev: W. Lobb
 tl2_dates: 1809-1863
-tl2_page_id: 33355216
+tl2_bhl_page_id: 33355216
 author_lsid: 5687-1
 wikidata_id: Q2579760
 ipni_surname: Lobb
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5687-1), [Wikidata](https://www.wikidata.org/wiki/Q2579760). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5687-1) LSID 5687-1, [Wikidata](https://www.wikidata.org/wiki/Q2579760) QID Q2579760
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

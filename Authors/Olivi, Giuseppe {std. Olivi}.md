@@ -6,7 +6,7 @@ tl2_surname: Olivi
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Olivi
 tl2_dates: 1769-1795
-tl2_page_id: 33355916
+tl2_bhl_page_id: 33355916
 author_lsid: 7133-1
 wikidata_id: Q1152386
 ipni_surname: Olivi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33355916) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7133-1), [Wikidata](https://www.wikidata.org/wiki/Q1152386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7133-1) LSID 7133-1, [Wikidata](https://www.wikidata.org/wiki/Q1152386) QID Q1152386
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

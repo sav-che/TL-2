@@ -6,7 +6,7 @@ tl2_surname: Eichler
 tl2_forenames: August Wilhelm
 tl2_name_abbrev: Eichler
 tl2_dates: 1839-1887
-tl2_page_id: 33120866
+tl2_bhl_page_id: 33120866
 author_lsid: 2488-1
 wikidata_id: Q62142
 ipni_surname: Eichler
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33120866) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2488-1), [Wikidata](https://www.wikidata.org/wiki/Q62142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2488-1) LSID 2488-1, [Wikidata](https://www.wikidata.org/wiki/Q62142) QID Q62142
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Eichler, August Wilhelm {std. Eichler} (Suppl.)|second entry]] for this author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0391
 tl2_volume: vol2
 tl2_page_printed: 362
 tl2_surname: Humboldt
-tl2_forenames: Friedrich Wilhelm Heinrich Alexander [Freiherr] von
+tl2_forenames: Friedrich Wilhelm Heinrich Alexander (Freiherr) von
 tl2_name_abbrev: Humb.
 tl2_dates: 1769-1859
-tl2_page_id: 33068604
+tl2_bhl_page_id: 33068604
 author_lsid: 4222-1
 wikidata_id: Q6694
 ipni_surname: Humboldt
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:48:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4222-1), [Wikidata](https://www.wikidata.org/wiki/Q6694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4222-1) LSID 4222-1, [Wikidata](https://www.wikidata.org/wiki/Q6694) QID Q6694
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

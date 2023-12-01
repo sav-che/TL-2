@@ -6,7 +6,7 @@ tl2_surname: Paolucci
 tl2_forenames: Luigi
 tl2_name_abbrev: Paolucci
 tl2_dates: 1849-1935
-tl2_page_id: 33189484
+tl2_bhl_page_id: 33189484
 author_lsid: 7318-1
 wikidata_id: Q3839973
 ipni_surname: Paolucci
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7318-1), [Wikidata](https://www.wikidata.org/wiki/Q3839973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7318-1) LSID 7318-1, [Wikidata](https://www.wikidata.org/wiki/Q3839973) QID Q3839973
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

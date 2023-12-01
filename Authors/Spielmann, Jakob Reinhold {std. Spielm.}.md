@@ -6,7 +6,7 @@ tl2_surname: Spielmann
 tl2_forenames: Jakob Reinhold
 tl2_name_abbrev: Spielm.
 tl2_dates: 1722-1783
-tl2_page_id: 33333928
+tl2_bhl_page_id: 33333928
 author_lsid: 9969-1
 wikidata_id: Q1677614
 ipni_surname: Spielmann
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9969-1), [Wikidata](https://www.wikidata.org/wiki/Q1677614). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9969-1) LSID 9969-1, [Wikidata](https://www.wikidata.org/wiki/Q1677614) QID Q1677614
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

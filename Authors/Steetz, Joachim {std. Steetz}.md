@@ -6,7 +6,7 @@ tl2_surname: Steetz
 tl2_forenames: Joachim
 tl2_name_abbrev: Steetz
 tl2_dates: 1804-1862
-tl2_page_id: 33334004
+tl2_bhl_page_id: 33334004
 author_lsid: 12279-1
 wikidata_id: Q4526861
 ipni_surname: Steetz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33334004) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/12279-1), [Wikidata](https://www.wikidata.org/wiki/Q4526861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12279-1) LSID 12279-1, [Wikidata](https://www.wikidata.org/wiki/Q4526861) QID Q4526861
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

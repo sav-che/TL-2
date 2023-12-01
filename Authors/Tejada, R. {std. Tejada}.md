@@ -6,7 +6,7 @@ tl2_surname: Tejada
 tl2_forenames: R.
 tl2_name_abbrev: Tejada
 tl2_dates: fl. 1913
-tl2_page_id: 33212247
+tl2_bhl_page_id: 33212247
 author_lsid: 10489-1
 wikidata_id: Q36670519
 ipni_surname: Tejada
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33212247) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10489-1), [Wikidata](https://www.wikidata.org/wiki/Q36670519). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10489-1) LSID 10489-1, [Wikidata](https://www.wikidata.org/wiki/Q36670519) QID Q36670519
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

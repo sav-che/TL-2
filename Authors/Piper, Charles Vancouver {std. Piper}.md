@@ -6,7 +6,7 @@ tl2_surname: Piper
 tl2_forenames: Charles Vancouver
 tl2_name_abbrev: Piper
 tl2_dates: 1867-1926
-tl2_page_id: 33189741
+tl2_bhl_page_id: 33189741
 author_lsid: 24883-1
 wikidata_id: Q567756
 ipni_surname: Piper
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:31:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33189741) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24883-1), [Wikidata](https://www.wikidata.org/wiki/Q567756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24883-1) LSID 24883-1, [Wikidata](https://www.wikidata.org/wiki/Q567756) QID Q567756
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

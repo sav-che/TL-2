@@ -6,7 +6,7 @@ tl2_surname: Kolbe
 tl2_forenames: Robert Wilhelm
 tl2_name_abbrev: Kolbe
 tl2_dates: 1882-1960
-tl2_page_id: 33068851
+tl2_bhl_page_id: 33068851
 author_lsid: 4940-1
 wikidata_id: Q5561664
 ipni_surname: Kolbe
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4940-1), [Wikidata](https://www.wikidata.org/wiki/Q5561664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4940-1) LSID 4940-1, [Wikidata](https://www.wikidata.org/wiki/Q5561664) QID Q5561664
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

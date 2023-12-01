@@ -6,7 +6,7 @@ tl2_surname: Dewalque
 tl2_forenames: Gilles Joseph Gustave
 tl2_name_abbrev: Dewalque
 tl2_dates: 1828-1905
-tl2_page_id: 33259299
+tl2_bhl_page_id: 33259299
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

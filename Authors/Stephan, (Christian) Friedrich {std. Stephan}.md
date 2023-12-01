@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0899
 tl2_volume: vol5
 tl2_page_printed: 889
 tl2_surname: Stephan
-tl2_forenames: [Christian] Friedrich
+tl2_forenames: (Christian) Friedrich
 tl2_name_abbrev: Stephan
 tl2_dates: 1757-1814
-tl2_page_id: 33334028
+tl2_bhl_page_id: 33334028
 author_lsid: 10102-1
 wikidata_id: Q4442415
 ipni_surname: Stephan
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:30:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33334028) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/10102-1), [Wikidata](https://www.wikidata.org/wiki/Q4442415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10102-1) LSID 10102-1, [Wikidata](https://www.wikidata.org/wiki/Q4442415) QID Q4442415
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

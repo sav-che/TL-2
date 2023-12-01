@@ -6,7 +6,7 @@ tl2_surname: Bebb
 tl2_forenames: Michael Schuck
 tl2_name_abbrev: Bebb
 tl2_dates: 1833-1895
-tl2_page_id: 33265206
+tl2_bhl_page_id: 33265206
 author_lsid: 592-1
 wikidata_id: Q6834207
 ipni_surname: Bebb
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33265206) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/592-1), [Wikidata](https://www.wikidata.org/wiki/Q6834207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/592-1) LSID 592-1, [Wikidata](https://www.wikidata.org/wiki/Q6834207) QID Q6834207
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Dennert
 tl2_forenames: Eberhard
 tl2_name_abbrev: Dennert
 tl2_dates: 1861-1942
-tl2_page_id: 33259251
+tl2_bhl_page_id: 33259251
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33259251) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

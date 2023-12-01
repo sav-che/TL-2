@@ -6,7 +6,7 @@ tl2_surname: Cuboni
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Cub.
 tl2_dates: 1852-1920
-tl2_page_id: 33266167
+tl2_bhl_page_id: 33266167
 author_lsid: 17564-1
 wikidata_id: Q3770376
 ipni_surname: Cuboni
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:39:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33266167) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17564-1), [Wikidata](https://www.wikidata.org/wiki/Q3770376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17564-1) LSID 17564-1, [Wikidata](https://www.wikidata.org/wiki/Q3770376) QID Q3770376
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

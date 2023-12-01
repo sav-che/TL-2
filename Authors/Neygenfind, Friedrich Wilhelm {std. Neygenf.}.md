@@ -6,7 +6,7 @@ tl2_surname: Neygenfind
 tl2_forenames: Friedrich Wilhelm
 tl2_name_abbrev: Neygenf.
 tl2_dates: fl. 1821
-tl2_page_id: 33355826
+tl2_bhl_page_id: 33355826
 author_lsid: 6955-1
 wikidata_id: Q13491562
 ipni_surname: Neygenfind
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6955-1), [Wikidata](https://www.wikidata.org/wiki/Q13491562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6955-1) LSID 6955-1, [Wikidata](https://www.wikidata.org/wiki/Q13491562) QID Q13491562
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

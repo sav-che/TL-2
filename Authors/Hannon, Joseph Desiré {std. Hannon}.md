@@ -6,7 +6,7 @@ tl2_surname: Hannon
 tl2_forenames: Joseph Desiré
 tl2_name_abbrev: Hannon
 tl2_dates: 1822-1870
-tl2_page_id: 33068288
+tl2_bhl_page_id: 33068288
 author_lsid: 3623-1
 wikidata_id: Q3184228
 ipni_surname: Hannon
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3623-1), [Wikidata](https://www.wikidata.org/wiki/Q3184228). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3623-1) LSID 3623-1, [Wikidata](https://www.wikidata.org/wiki/Q3184228) QID Q3184228
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

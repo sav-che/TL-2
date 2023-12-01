@@ -6,7 +6,7 @@ tl2_surname: Hauman
 tl2_forenames: Lucien
 tl2_name_abbrev: Haum.
 tl2_dates: 1880-1965
-tl2_page_id: 33068343
+tl2_bhl_page_id: 33068343
 author_lsid: 12532-1
 wikidata_id: Q6697106
 ipni_surname: Hauman
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:30:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12532-1), [Wikidata](https://www.wikidata.org/wiki/Q6697106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12532-1) LSID 12532-1, [Wikidata](https://www.wikidata.org/wiki/Q6697106) QID Q6697106
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

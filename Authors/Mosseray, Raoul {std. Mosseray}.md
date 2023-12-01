@@ -6,7 +6,7 @@ tl2_surname: Mosseray
 tl2_forenames: Raoul
 tl2_name_abbrev: Mosseray
 tl2_dates: 1908-1940
-tl2_page_id: 33355689
+tl2_bhl_page_id: 33355689
 author_lsid: 6701-1
 wikidata_id: Q19298942
 ipni_surname: Mosseray
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33355689) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6701-1), [Wikidata](https://www.wikidata.org/wiki/Q19298942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6701-1) LSID 6701-1, [Wikidata](https://www.wikidata.org/wiki/Q19298942) QID Q19298942
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

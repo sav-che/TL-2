@@ -6,7 +6,7 @@ tl2_surname: Boyer
 tl2_forenames: Charles Sumner
 tl2_name_abbrev: C.S. Boyer
 tl2_dates: 1856-1928
-tl2_page_id: 33265600
+tl2_bhl_page_id: 33265600
 author_lsid: 32515-1
 wikidata_id: Q15732136
 ipni_surname: Boyer
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32515-1), [Wikidata](https://www.wikidata.org/wiki/Q15732136). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32515-1) LSID 32515-1, [Wikidata](https://www.wikidata.org/wiki/Q15732136) QID Q15732136
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

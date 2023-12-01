@@ -6,7 +6,7 @@ tl2_surname: Falqui
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Falqui
 tl2_dates: fl. 1886-1924
-tl2_page_id: 33259534
+tl2_bhl_page_id: 33259534
 author_lsid: 34877-1
 wikidata_id: Q36561821
 ipni_surname: Falqui
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33259534) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/34877-1), [Wikidata](https://www.wikidata.org/wiki/Q36561821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34877-1) LSID 34877-1, [Wikidata](https://www.wikidata.org/wiki/Q36561821) QID Q36561821
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

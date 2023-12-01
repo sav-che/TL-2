@@ -6,7 +6,7 @@ tl2_surname: Möhring
 tl2_forenames: Paul Heinrich Gerhard
 tl2_name_abbrev: Möhring
 tl2_dates: 1710-1792
-tl2_page_id: 33355618
+tl2_bhl_page_id: 33355618
 author_lsid: 6543-1
 wikidata_id: Q77457
 ipni_surname: Möhring
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6543-1), [Wikidata](https://www.wikidata.org/wiki/Q77457). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6543-1) LSID 6543-1, [Wikidata](https://www.wikidata.org/wiki/Q77457) QID Q77457
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

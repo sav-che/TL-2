@@ -6,7 +6,7 @@ tl2_surname: Kiaerskou
 tl2_forenames: (Kjaerskou) Hjalmar Frederik Christian
 tl2_name_abbrev: Kiaersk.
 tl2_dates: 1835-1900
-tl2_page_id: 33068775
+tl2_bhl_page_id: 33068775
 author_lsid: 4767-1
 wikidata_id: Q1621321
 ipni_surname: Kiaerskov
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33068775) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4767-1), [Wikidata](https://www.wikidata.org/wiki/Q1621321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4767-1) LSID 4767-1, [Wikidata](https://www.wikidata.org/wiki/Q1621321) QID Q1621321
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

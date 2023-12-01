@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0170
 tl2_volume: suppl1
 tl2_page_printed: 133
 tl2_surname: Antz
-tl2_forenames: Carl [Karl] Cäsar
+tl2_forenames: Carl (Karl) Cäsar
 tl2_name_abbrev: Antz
 tl2_dates: 1805-1859
-tl2_page_id: 33264860
+tl2_bhl_page_id: 33264860
 author_lsid: 239-1
 wikidata_id: Q16500057
 ipni_surname: Antz
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33264860) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/239-1), [Wikidata](https://www.wikidata.org/wiki/Q16500057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/239-1) LSID 239-1, [Wikidata](https://www.wikidata.org/wiki/Q16500057) QID Q16500057
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Antz, Carl Cäsar {std. Antz}|first entry]] for this author
 

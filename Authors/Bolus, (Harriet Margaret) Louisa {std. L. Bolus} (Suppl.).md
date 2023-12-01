@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0356
 tl2_volume: suppl2
 tl2_page_printed: 299
 tl2_surname: Bolus
-tl2_forenames: [Harriet Margaret] Louisa
+tl2_forenames: (Harriet Margaret) Louisa
 tl2_name_abbrev: L. Bolus
 tl2_dates: 1877-1970
-tl2_page_id: 33265496
+tl2_bhl_page_id: 33265496
 author_lsid: 12352-1
 wikidata_id: Q63764
 ipni_surname: Bolus
@@ -24,7 +24,8 @@ ipni_record_modified: 2011-10-10 07:11:15.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265496) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/12352-1), [Wikidata](https://www.wikidata.org/wiki/Q63764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12352-1) LSID 12352-1, [Wikidata](https://www.wikidata.org/wiki/Q63764) QID Q63764
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bolus, Harriet Margaret Louisa (née Kensit) {std. L. Bolus}|first entry]] for this author
 

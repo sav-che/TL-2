@@ -6,7 +6,7 @@ tl2_surname: Clute
 tl2_forenames: Willard Nelson
 tl2_name_abbrev: Clute
 tl2_dates: 1869-1950
-tl2_page_id: 33265905
+tl2_bhl_page_id: 33265905
 author_lsid: 1707-1
 wikidata_id: Q8003467
 ipni_surname: Clute
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:40:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33265905) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1707-1), [Wikidata](https://www.wikidata.org/wiki/Q8003467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1707-1) LSID 1707-1, [Wikidata](https://www.wikidata.org/wiki/Q8003467) QID Q8003467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

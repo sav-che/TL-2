@@ -6,7 +6,7 @@ tl2_surname: Llenas y Fernández
 tl2_forenames: Manuel
 tl2_name_abbrev: Llenas
 tl2_dates: fl. 1900
-tl2_page_id: 33355210
+tl2_bhl_page_id: 33355210
 author_lsid: 5674-1
 wikidata_id: Q36629533
 ipni_surname: Llenas y Fernández
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33355210) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5674-1), [Wikidata](https://www.wikidata.org/wiki/Q36629533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5674-1) LSID 5674-1, [Wikidata](https://www.wikidata.org/wiki/Q36629533) QID Q36629533
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

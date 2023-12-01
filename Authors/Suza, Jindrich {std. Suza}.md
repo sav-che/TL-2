@@ -6,7 +6,7 @@ tl2_surname: Suza
 tl2_forenames: Jindrich
 tl2_name_abbrev: Suza
 tl2_dates: 1890-1951
-tl2_page_id: 33212146
+tl2_bhl_page_id: 33212146
 author_lsid: 27386-1
 wikidata_id: Q12024839
 ipni_surname: Suza
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33212146) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/27386-1), [Wikidata](https://www.wikidata.org/wiki/Q12024839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/27386-1) LSID 27386-1, [Wikidata](https://www.wikidata.org/wiki/Q12024839) QID Q12024839
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

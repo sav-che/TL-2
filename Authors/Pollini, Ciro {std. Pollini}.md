@@ -6,7 +6,7 @@ tl2_surname: Pollini
 tl2_forenames: Ciro
 tl2_name_abbrev: Pollini
 tl2_dates: 1782-1833
-tl2_page_id: 33189802
+tl2_bhl_page_id: 33189802
 author_lsid: 24966-1
 wikidata_id: Q4370320
 ipni_surname: Pollini
@@ -28,7 +28,8 @@ ipni_record_modified: 2013-05-15 11:45:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33189802) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24966-1), [Wikidata](https://www.wikidata.org/wiki/Q4370320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24966-1) LSID 24966-1, [Wikidata](https://www.wikidata.org/wiki/Q4370320) QID Q4370320
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hesler
 tl2_forenames: Lexemuel Ray
 tl2_name_abbrev: Hesler
 tl2_dates: 1888-1977
-tl2_page_id: 33068423
+tl2_bhl_page_id: 33068423
 author_lsid: 3896-1
 wikidata_id: Q3237341
 ipni_surname: Hesler
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33068423) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3896-1), [Wikidata](https://www.wikidata.org/wiki/Q3237341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3896-1) LSID 3896-1, [Wikidata](https://www.wikidata.org/wiki/Q3237341) QID Q3237341
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

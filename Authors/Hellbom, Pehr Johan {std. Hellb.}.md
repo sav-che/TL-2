@@ -6,7 +6,7 @@ tl2_surname: Hellbom
 tl2_forenames: Pehr Johan
 tl2_name_abbrev: Hellb.
 tl2_dates: 1827-1903
-tl2_page_id: 33068386
+tl2_bhl_page_id: 33068386
 author_lsid: 3804-1
 wikidata_id: Q5798956
 ipni_surname: Hellbom
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33068386) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3804-1), [Wikidata](https://www.wikidata.org/wiki/Q5798956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3804-1) LSID 3804-1, [Wikidata](https://www.wikidata.org/wiki/Q5798956) QID Q5798956
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

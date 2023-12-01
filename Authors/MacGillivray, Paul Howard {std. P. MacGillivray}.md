@@ -6,7 +6,7 @@ tl2_surname: MacGillivray
 tl2_forenames: Paul Howard
 tl2_name_abbrev: P. MacGillivray
 tl2_dates: 1834-1895
-tl2_page_id: 33355308
+tl2_bhl_page_id: 33355308
 author_lsid: 5920-1
 wikidata_id: Q7152132
 ipni_surname: MacGillivray
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33355308) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5920-1), [Wikidata](https://www.wikidata.org/wiki/Q7152132). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5920-1) LSID 5920-1, [Wikidata](https://www.wikidata.org/wiki/Q7152132) QID Q7152132
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

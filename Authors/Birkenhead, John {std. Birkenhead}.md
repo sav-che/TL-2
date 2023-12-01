@@ -6,7 +6,7 @@ tl2_surname: Birkenhead
 tl2_forenames: John
 tl2_name_abbrev: Birkenhead
 tl2_dates: 1847-1925
-tl2_page_id: 33265369
+tl2_bhl_page_id: 33265369
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265369) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

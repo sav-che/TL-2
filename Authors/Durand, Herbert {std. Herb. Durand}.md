@@ -6,7 +6,7 @@ tl2_surname: Durand
 tl2_forenames: Herbert
 tl2_name_abbrev: Herb. Durand
 tl2_dates: 1858-1944
-tl2_page_id: 33260171
+tl2_bhl_page_id: 33260171
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33260171) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

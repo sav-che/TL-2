@@ -6,7 +6,7 @@ tl2_surname: Bisby
 tl2_forenames: Guy Richard
 tl2_name_abbrev: Bisby
 tl2_dates: 1889-1958
-tl2_page_id: 33120350
+tl2_bhl_page_id: 33120350
 author_lsid: 16154-1
 wikidata_id: Q15977605
 ipni_surname: Bisby
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33120350) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/16154-1), [Wikidata](https://www.wikidata.org/wiki/Q15977605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16154-1) LSID 16154-1, [Wikidata](https://www.wikidata.org/wiki/Q15977605) QID Q15977605
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bisby, Guy Richard {std. Bisby} (Suppl.)|second entry]] for this author
 

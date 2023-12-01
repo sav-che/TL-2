@@ -6,7 +6,7 @@ tl2_surname: Radloff
 tl2_forenames: Fredric Wilhelm
 tl2_name_abbrev: Radloff
 tl2_dates: 1766-1838
-tl2_page_id: 33190017
+tl2_bhl_page_id: 33190017
 author_lsid: 8090-1
 wikidata_id: Q6060833
 ipni_surname: Radloff
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33190017) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8090-1), [Wikidata](https://www.wikidata.org/wiki/Q6060833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8090-1) LSID 8090-1, [Wikidata](https://www.wikidata.org/wiki/Q6060833) QID Q6060833
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

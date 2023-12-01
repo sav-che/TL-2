@@ -6,7 +6,7 @@ tl2_surname: Baxter
 tl2_forenames: William
 tl2_name_abbrev: Baxter
 tl2_dates: 1787-1871
-tl2_page_id: 33265121
+tl2_bhl_page_id: 33265121
 author_lsid: 564-1
 wikidata_id: Q3040528
 ipni_surname: Baxter
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/564-1), [Wikidata](https://www.wikidata.org/wiki/Q3040528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/564-1) LSID 564-1, [Wikidata](https://www.wikidata.org/wiki/Q3040528) QID Q3040528
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Baxter, William {std. Baxter}|first entry]] for this author
 

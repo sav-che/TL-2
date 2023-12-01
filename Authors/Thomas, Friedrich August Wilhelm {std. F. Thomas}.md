@@ -6,7 +6,7 @@ tl2_surname: Thomas
 tl2_forenames: Friedrich August Wilhelm
 tl2_name_abbrev: F. Thomas
 tl2_dates: 1840-1918
-tl2_page_id: 33212314
+tl2_bhl_page_id: 33212314
 author_lsid: 10592-1
 wikidata_id: Q21610620
 ipni_surname: Thomas
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:47:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10592-1), [Wikidata](https://www.wikidata.org/wiki/Q21610620). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10592-1) LSID 10592-1, [Wikidata](https://www.wikidata.org/wiki/Q21610620) QID Q21610620
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

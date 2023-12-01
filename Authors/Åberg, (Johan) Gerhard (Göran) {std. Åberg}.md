@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0015
 tl2_volume: suppl1
 tl2_page_printed: 9
 tl2_surname: Åberg
-tl2_forenames: [Johan] Gerhard [Göran]
+tl2_forenames: (Johan) Gerhard (Göran)
 tl2_name_abbrev: Åberg
 tl2_dates: 1868-1940
-tl2_page_id: 33264766
+tl2_bhl_page_id: 33264766
 author_lsid: 30618-1
 wikidata_id: Q5932938
 ipni_surname: Åberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33264766) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30618-1), [Wikidata](https://www.wikidata.org/wiki/Q5932938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30618-1) LSID 30618-1, [Wikidata](https://www.wikidata.org/wiki/Q5932938) QID Q5932938
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

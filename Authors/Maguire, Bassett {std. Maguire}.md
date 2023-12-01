@@ -6,7 +6,7 @@ tl2_surname: Maguire
 tl2_forenames: Bassett
 tl2_name_abbrev: Maguire
 tl2_dates: 1904-x
-tl2_page_id: 33355335
+tl2_bhl_page_id: 33355335
 author_lsid: 5988-1
 wikidata_id: Q2695559
 ipni_surname: Maguire
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:42:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5988-1), [Wikidata](https://www.wikidata.org/wiki/Q2695559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5988-1) LSID 5988-1, [Wikidata](https://www.wikidata.org/wiki/Q2695559) QID Q2695559
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

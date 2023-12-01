@@ -6,7 +6,7 @@ tl2_surname: Bogenhard
 tl2_forenames: Carl
 tl2_name_abbrev: Bogenh.
 tl2_dates: 1811-1853?
-tl2_page_id: 33120383
+tl2_bhl_page_id: 33120383
 author_lsid: 905-1
 wikidata_id: Q5749270
 ipni_surname: Bogenhard
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33120383) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/905-1), [Wikidata](https://www.wikidata.org/wiki/Q5749270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/905-1) LSID 905-1, [Wikidata](https://www.wikidata.org/wiki/Q5749270) QID Q5749270
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bogenhard, Carl {std. Bogenh.} (Suppl.)|second entry]] for this author
 

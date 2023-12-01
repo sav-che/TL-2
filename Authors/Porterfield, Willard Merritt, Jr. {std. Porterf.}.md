@@ -6,7 +6,7 @@ tl2_surname: Porterfield
 tl2_forenames: Willard Merritt, Jr.
 tl2_name_abbrev: Porterf.
 tl2_dates: 1893-1966
-tl2_page_id: 33189819
+tl2_bhl_page_id: 33189819
 author_lsid: 7868-1
 wikidata_id: Q21523131
 ipni_surname: Porterfield
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33189819) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7868-1), [Wikidata](https://www.wikidata.org/wiki/Q21523131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7868-1) LSID 7868-1, [Wikidata](https://www.wikidata.org/wiki/Q21523131) QID Q21523131
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

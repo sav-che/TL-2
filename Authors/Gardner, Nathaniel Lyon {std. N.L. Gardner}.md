@@ -6,7 +6,7 @@ tl2_surname: Gardner
 tl2_forenames: Nathaniel Lyon
 tl2_name_abbrev: N.L. Gardner
 tl2_dates: 1864-1937
-tl2_page_id: 33121047
+tl2_bhl_page_id: 33121047
 author_lsid: 3027-1
 wikidata_id: Q21513795
 ipni_surname: Gardner
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33121047) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3027-1), [Wikidata](https://www.wikidata.org/wiki/Q21513795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3027-1) LSID 3027-1, [Wikidata](https://www.wikidata.org/wiki/Q21513795) QID Q21513795
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gardner, Nathaniel Lyon {std. N.L. Gardner} (Suppl.)|second entry]] for this author
 

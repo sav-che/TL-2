@@ -6,7 +6,7 @@ tl2_surname: Thomas
 tl2_forenames: Eugen A.
 tl2_name_abbrev: E.A. Thomas
 tl2_dates: 1912-x
-tl2_page_id: 33212314
+tl2_bhl_page_id: 33212314
 author_lsid: 10591-1
 wikidata_id: Q18608249
 ipni_surname: Thomas
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10591-1), [Wikidata](https://www.wikidata.org/wiki/Q18608249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10591-1) LSID 10591-1, [Wikidata](https://www.wikidata.org/wiki/Q18608249) QID Q18608249
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

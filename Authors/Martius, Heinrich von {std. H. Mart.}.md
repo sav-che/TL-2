@@ -6,7 +6,7 @@ tl2_surname: Martius
 tl2_forenames: Heinrich von
 tl2_name_abbrev: H. Mart.
 tl2_dates: 1781-1831
-tl2_page_id: 33355427
+tl2_bhl_page_id: 33355427
 author_lsid: 22981-1
 wikidata_id: Q21520051
 ipni_surname: Martius
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33355427) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22981-1), [Wikidata](https://www.wikidata.org/wiki/Q21520051). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22981-1) LSID 22981-1, [Wikidata](https://www.wikidata.org/wiki/Q21520051) QID Q21520051
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

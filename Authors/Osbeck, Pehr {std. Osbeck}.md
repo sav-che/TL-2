@@ -6,7 +6,7 @@ tl2_surname: Osbeck
 tl2_forenames: Pehr
 tl2_name_abbrev: Osbeck
 tl2_dates: 1723-1805
-tl2_page_id: 33355938
+tl2_bhl_page_id: 33355938
 author_lsid: 7178-1
 wikidata_id: Q55069930
 ipni_surname: Osbeck
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/page/33355938) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7178-1), [Wikidata](https://www.wikidata.org/wiki/Q55069930). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7178-1) LSID 7178-1, [Wikidata](https://www.wikidata.org/wiki/Q55069930) QID Q55069930
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

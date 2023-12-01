@@ -6,7 +6,7 @@ tl2_surname: Kalchbrenner
 tl2_forenames: Károly (Karl)
 tl2_name_abbrev: Kalchbr.
 tl2_dates: 1807-1886
-tl2_page_id: 33068727
+tl2_bhl_page_id: 33068727
 author_lsid: 4617-1
 wikidata_id: Q736795
 ipni_surname: Kalchbrenner
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4617-1), [Wikidata](https://www.wikidata.org/wiki/Q736795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4617-1) LSID 4617-1, [Wikidata](https://www.wikidata.org/wiki/Q736795) QID Q736795
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

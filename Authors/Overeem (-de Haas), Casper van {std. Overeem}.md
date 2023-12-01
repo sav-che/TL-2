@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_1030
 tl2_volume: vol3
 tl2_page_printed: 865
-tl2_surname: Overeem [-de Haas]
+tl2_surname: Overeem (-de Haas)
 tl2_forenames: Casper van
 tl2_name_abbrev: Overeem
 tl2_dates: 1893-1927
-tl2_page_id: 33355952
+tl2_bhl_page_id: 33355952
 author_lsid: 7214-1
 wikidata_id: Q4330668
 ipni_surname: Overeem
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33355952) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7214-1), [Wikidata](https://www.wikidata.org/wiki/Q4330668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7214-1) LSID 7214-1, [Wikidata](https://www.wikidata.org/wiki/Q4330668) QID Q4330668
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

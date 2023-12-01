@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl7_0175
 tl2_volume: suppl7
 tl2_page_printed: 262
-tl2_surname: Flörke [Floerke]
+tl2_surname: Flörke (Floerke)
 tl2_forenames: Heinrich Gustav
 tl2_name_abbrev: Flörke
 tl2_dates: 1764-1835
-tl2_page_id: 33259766
+tl2_bhl_page_id: 33259766
 author_lsid: 2788-1
 wikidata_id: Q4491255
 ipni_surname: Flörke
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:54:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33259766) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2788-1), [Wikidata](https://www.wikidata.org/wiki/Q4491255). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2788-1) LSID 2788-1, [Wikidata](https://www.wikidata.org/wiki/Q4491255) QID Q4491255
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Floerke, Heinrich Gustav {std. Flörke}|first entry]] for this author
 

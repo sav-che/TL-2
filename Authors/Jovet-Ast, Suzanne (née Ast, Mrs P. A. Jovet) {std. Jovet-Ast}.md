@@ -6,7 +6,7 @@ tl2_surname: Jovet-Ast
 tl2_forenames: Suzanne (née Ast, Mrs P. A. Jovet)
 tl2_name_abbrev: Jovet-Ast
 tl2_dates: 1914-x
-tl2_page_id: 33068706
+tl2_bhl_page_id: 33068706
 author_lsid: 20009867-1
 wikidata_id: Q18985986
 ipni_surname: Jovet-Ast
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/20009867-1), [Wikidata](https://www.wikidata.org/wiki/Q18985986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20009867-1) LSID 20009867-1, [Wikidata](https://www.wikidata.org/wiki/Q18985986) QID Q18985986
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Ule
 tl2_forenames: Ernst Heinrich Georg
 tl2_name_abbrev: Ule
 tl2_dates: 1854-1915
-tl2_page_id: 33212620
+tl2_bhl_page_id: 33212620
 author_lsid: 10968-1
 wikidata_id: Q72701
 ipni_surname: Ule
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:51:45.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33212620) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10968-1), [Wikidata](https://www.wikidata.org/wiki/Q72701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10968-1) LSID 10968-1, [Wikidata](https://www.wikidata.org/wiki/Q72701) QID Q72701
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

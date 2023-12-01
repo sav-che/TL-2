@@ -6,7 +6,7 @@ tl2_surname: Mygind
 tl2_forenames: Franz (Frauds von)
 tl2_name_abbrev: Mygind
 tl2_dates: 1710-1789
-tl2_page_id: 33355765
+tl2_bhl_page_id: 33355765
 author_lsid: 6820-1
 wikidata_id: Q21521936
 ipni_surname: Mygind
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6820-1), [Wikidata](https://www.wikidata.org/wiki/Q21521936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6820-1) LSID 6820-1, [Wikidata](https://www.wikidata.org/wiki/Q21521936) QID Q21521936
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

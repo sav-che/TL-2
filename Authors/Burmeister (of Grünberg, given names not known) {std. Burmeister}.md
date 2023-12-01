@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl3_0247
 tl2_volume: suppl3
 tl2_page_printed: 254
-tl2_surname: Burmeister [of Grünberg]
+tl2_surname: Burmeister (of Grünberg)
 tl2_forenames: given names not known
 tl2_name_abbrev: Burmeister
 tl2_dates: fl. 1882
-tl2_page_id: 33266561
+tl2_bhl_page_id: 33266561
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Du Petit-Thouars
 tl2_forenames: Louis-Marie Aubert Aubert
 tl2_name_abbrev: Thouars
 tl2_dates: 1758-1831
-tl2_page_id: 33120835
+tl2_bhl_page_id: 33120835
 author_lsid: 10639-1
 wikidata_id: Q537070
 ipni_surname: Thouars
@@ -25,7 +25,8 @@ ipni_record_modified: 2010-10-06 07:37:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33120835) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/10639-1), [Wikidata](https://www.wikidata.org/wiki/Q537070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10639-1) LSID 10639-1, [Wikidata](https://www.wikidata.org/wiki/Q537070) QID Q537070
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Du Petit-Thouars, Louis-Marie Aubert Aubert {std. Thouars} (Suppl.)|second entry]] for this author
 

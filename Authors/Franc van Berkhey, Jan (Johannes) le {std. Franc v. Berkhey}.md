@@ -6,7 +6,7 @@ tl2_surname: Franc van Berkhey
 tl2_forenames: Jan (Johannes) le
 tl2_name_abbrev: Franc v. Berkhey
 tl2_dates: 1729-1812
-tl2_page_id: 33120999
+tl2_bhl_page_id: 33120999
 author_lsid: 2866-1
 wikidata_id: Q117688
 ipni_surname: Franc van Berkhey
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2866-1), [Wikidata](https://www.wikidata.org/wiki/Q117688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2866-1) LSID 2866-1, [Wikidata](https://www.wikidata.org/wiki/Q117688) QID Q117688
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Franc van Berkhey (or Berkhij), Jan le {std. Franc v. Berkhey} (Suppl.)|second entry]] for this author
 

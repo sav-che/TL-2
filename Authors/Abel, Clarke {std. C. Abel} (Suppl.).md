@@ -6,7 +6,7 @@ tl2_surname: Abel
 tl2_forenames: Clarke
 tl2_name_abbrev: C. Abel
 tl2_dates: 1789-1826
-tl2_page_id: 33264770
+tl2_bhl_page_id: 33264770
 author_lsid: 34-1
 wikidata_id: Q158174
 ipni_surname: Abel
@@ -25,7 +25,8 @@ ipni_record_modified: 2011-06-02 11:09:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33264770) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/34-1), [Wikidata](https://www.wikidata.org/wiki/Q158174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34-1) LSID 34-1, [Wikidata](https://www.wikidata.org/wiki/Q158174) QID Q158174
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Abel, Clarke {std. C. Abel}|first entry]] for this author
 

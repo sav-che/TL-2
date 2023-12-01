@@ -6,7 +6,7 @@ tl2_surname: Cultrera
 tl2_forenames: Paolo de
 tl2_name_abbrev: Cultrera
 tl2_dates: 1805-1884
-tl2_page_id: 33266177
+tl2_bhl_page_id: 33266177
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33266177) of TL-2 Suppl. IV
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

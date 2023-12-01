@@ -6,7 +6,7 @@ tl2_surname: Fuhlrott
 tl2_forenames: Johann Carl
 tl2_name_abbrev: Fuhlrott
 tl2_dates: 1804-1877
-tl2_page_id: 33121029
+tl2_bhl_page_id: 33121029
 author_lsid: 2954-1
 wikidata_id: Q76705
 ipni_surname: Fuhlrott
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33121029) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2954-1), [Wikidata](https://www.wikidata.org/wiki/Q76705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2954-1) LSID 2954-1, [Wikidata](https://www.wikidata.org/wiki/Q76705) QID Q76705
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Cesati
 tl2_forenames: Vincenzo barone de
 tl2_name_abbrev: Ces.
 tl2_dates: 1806-1883
-tl2_page_id: 33265703
+tl2_bhl_page_id: 33265703
 author_lsid: 17032-1
 wikidata_id: Q2138005
 ipni_surname: Cesati
@@ -27,7 +27,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33265703) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17032-1), [Wikidata](https://www.wikidata.org/wiki/Q2138005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17032-1) LSID 17032-1, [Wikidata](https://www.wikidata.org/wiki/Q2138005) QID Q2138005
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cesati, Vincenzo barone de {std. Ces.}|first entry]] for this author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0995
 tl2_volume: vol2
 tl2_page_printed: 842
 tl2_surname: Le Monnier
-tl2_forenames: [Lemonnier] Louis Guillaume
+tl2_forenames: (Lemonnier) Louis Guillaume
 tl2_name_abbrev: Le Monn.
 tl2_dates: 1717-1799
-tl2_page_id: 33069084
+tl2_bhl_page_id: 33069084
 author_lsid: 22133-1
 wikidata_id: Q981710
 ipni_surname: Le Monnier
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33069084) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22133-1), [Wikidata](https://www.wikidata.org/wiki/Q981710). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22133-1) LSID 22133-1, [Wikidata](https://www.wikidata.org/wiki/Q981710) QID Q981710
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

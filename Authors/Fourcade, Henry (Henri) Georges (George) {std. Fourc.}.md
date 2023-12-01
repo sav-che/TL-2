@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0231
 tl2_volume: suppl7
 tl2_page_printed: 356
 tl2_surname: Fourcade
-tl2_forenames: Henry [Henri] Georges [George]
+tl2_forenames: Henry (Henri) Georges (George)
 tl2_name_abbrev: Fourc.
 tl2_dates: 1865-1948
-tl2_page_id: 33259860
+tl2_bhl_page_id: 33259860
 author_lsid: 2856-1
 wikidata_id: Q3679573
 ipni_surname: Fourcade
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:40.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33259860) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2856-1), [Wikidata](https://www.wikidata.org/wiki/Q3679573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2856-1) LSID 2856-1, [Wikidata](https://www.wikidata.org/wiki/Q3679573) QID Q3679573
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

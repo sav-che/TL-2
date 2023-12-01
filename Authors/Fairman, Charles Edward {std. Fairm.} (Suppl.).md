@@ -6,7 +6,7 @@ tl2_surname: Fairman
 tl2_forenames: Charles Edward
 tl2_name_abbrev: Fairm.
 tl2_dates: 1856-1934
-tl2_page_id: 33259526
+tl2_bhl_page_id: 33259526
 author_lsid: 18628-1
 wikidata_id: Q5077090
 ipni_surname: Fairman
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259526) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18628-1), [Wikidata](https://www.wikidata.org/wiki/Q5077090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18628-1) LSID 18628-1, [Wikidata](https://www.wikidata.org/wiki/Q5077090) QID Q5077090
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fairman, Charles Edward {std. Fairm.}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Tracy
 tl2_forenames: Cyrus Mason
 tl2_name_abbrev: C.M. Tracy
 tl2_dates: 1824-1891
-tl2_page_id: 33212467
+tl2_bhl_page_id: 33212467
 author_lsid: 10782-1
 wikidata_id: Q21610923
 ipni_surname: Tracy
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10782-1), [Wikidata](https://www.wikidata.org/wiki/Q21610923). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10782-1) LSID 10782-1, [Wikidata](https://www.wikidata.org/wiki/Q21610923) QID Q21610923
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

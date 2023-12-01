@@ -6,7 +6,7 @@ tl2_surname: Aspegren
 tl2_forenames: Georg Casten
 tl2_name_abbrev: Aspegren
 tl2_dates: 1791-1828
-tl2_page_id: 33264924
+tl2_bhl_page_id: 33264924
 author_lsid: 316-1
 wikidata_id: Q5594759
 ipni_surname: Aspegren
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33264924) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/316-1), [Wikidata](https://www.wikidata.org/wiki/Q5594759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/316-1) LSID 316-1, [Wikidata](https://www.wikidata.org/wiki/Q5594759) QID Q5594759
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Aspegren, Georg Casten {std. Aspegren}|first entry]] for this author
 

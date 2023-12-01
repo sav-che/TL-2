@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_0761
 tl2_volume: vol1
 tl2_page_printed: 601
 tl2_surname: David
-tl2_forenames: [Abbé] Armand
+tl2_forenames: (Abbé) Armand
 tl2_name_abbrev: David
 tl2_dates: 1826-1900
-tl2_page_id: 33120732
+tl2_bhl_page_id: 33120732
 author_lsid: 2015-1
 wikidata_id: Q346939
 ipni_surname: David
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2015-1), [Wikidata](https://www.wikidata.org/wiki/Q346939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2015-1) LSID 2015-1, [Wikidata](https://www.wikidata.org/wiki/Q346939) QID Q346939
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[David, (Abbé) Armand {std. David} (Suppl.)|second entry]] for this author
 

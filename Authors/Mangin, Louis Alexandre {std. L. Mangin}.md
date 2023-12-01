@@ -6,7 +6,7 @@ tl2_surname: Mangin
 tl2_forenames: Louis Alexandre
 tl2_name_abbrev: L. Mangin
 tl2_dates: 1852-1937
-tl2_page_id: 33355362
+tl2_bhl_page_id: 33355362
 author_lsid: 22846-1
 wikidata_id: Q3262606
 ipni_surname: Mangin
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22846-1), [Wikidata](https://www.wikidata.org/wiki/Q3262606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22846-1) LSID 22846-1, [Wikidata](https://www.wikidata.org/wiki/Q3262606) QID Q3262606
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

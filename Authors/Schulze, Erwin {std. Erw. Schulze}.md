@@ -6,7 +6,7 @@ tl2_surname: Schulze
 tl2_forenames: Erwin
 tl2_name_abbrev: Erw. Schulze
 tl2_dates: 1861-1931
-tl2_page_id: 33333530
+tl2_bhl_page_id: 33333530
 author_lsid: 9320-1
 wikidata_id: Q21392943
 ipni_surname: Schulze
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33333530) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9320-1), [Wikidata](https://www.wikidata.org/wiki/Q21392943). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9320-1) LSID 9320-1, [Wikidata](https://www.wikidata.org/wiki/Q21392943) QID Q21392943
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

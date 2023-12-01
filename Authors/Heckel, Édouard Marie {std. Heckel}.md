@@ -6,7 +6,7 @@ tl2_surname: Heckel
 tl2_forenames: Édouard Marie
 tl2_name_abbrev: Heckel
 tl2_dates: 1843-1916
-tl2_page_id: 33068358
+tl2_bhl_page_id: 33068358
 author_lsid: 3763-1
 wikidata_id: Q3579960
 ipni_surname: Heckel
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:31:02.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33068358) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3763-1), [Wikidata](https://www.wikidata.org/wiki/Q3579960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3763-1) LSID 3763-1, [Wikidata](https://www.wikidata.org/wiki/Q3579960) QID Q3579960
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

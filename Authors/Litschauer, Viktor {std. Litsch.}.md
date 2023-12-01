@@ -6,7 +6,7 @@ tl2_surname: Litschauer
 tl2_forenames: Viktor
 tl2_name_abbrev: Litsch.
 tl2_dates: 1879-1939
-tl2_page_id: 33355208
+tl2_bhl_page_id: 33355208
 author_lsid: 22430-1
 wikidata_id: Q21340844
 ipni_surname: Litschauer
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22430-1), [Wikidata](https://www.wikidata.org/wiki/Q21340844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22430-1) LSID 22430-1, [Wikidata](https://www.wikidata.org/wiki/Q21340844) QID Q21340844
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

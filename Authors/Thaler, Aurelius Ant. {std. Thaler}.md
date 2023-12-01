@@ -6,7 +6,7 @@ tl2_surname: Thaler
 tl2_forenames: Aurelius Ant.
 tl2_name_abbrev: Thaler
 tl2_dates: 1796-1843
-tl2_page_id: 33212274
+tl2_bhl_page_id: 33212274
 author_lsid: 10542-1
 wikidata_id: Q21610519
 ipni_surname: Thaler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10542-1), [Wikidata](https://www.wikidata.org/wiki/Q21610519). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10542-1) LSID 10542-1, [Wikidata](https://www.wikidata.org/wiki/Q21610519) QID Q21610519
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

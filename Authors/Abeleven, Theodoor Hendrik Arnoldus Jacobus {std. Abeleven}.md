@@ -6,7 +6,7 @@ tl2_surname: Abeleven
 tl2_forenames: Theodoor Hendrik Arnoldus Jacobus
 tl2_name_abbrev: Abeleven
 tl2_dates: 1822-1904
-tl2_page_id: 33120095
+tl2_bhl_page_id: 33120095
 author_lsid: 36-1
 wikidata_id: Q10381986
 ipni_surname: Abeleven
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33120095) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/36-1), [Wikidata](https://www.wikidata.org/wiki/Q10381986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/36-1) LSID 36-1, [Wikidata](https://www.wikidata.org/wiki/Q10381986) QID Q10381986
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Abeleven, Theodorus Hendrik Arnoldus Jacobus {std. Abeleven} (Suppl.)|second entry]] for this author
 

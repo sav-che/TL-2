@@ -6,7 +6,7 @@ tl2_surname: Mönkemeyer
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Mönk.
 tl2_dates: 1862-1938
-tl2_page_id: 33355624
+tl2_bhl_page_id: 33355624
 author_lsid: 23554-1
 wikidata_id: Q17285623
 ipni_surname: Mönkemeyer
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33355624) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23554-1), [Wikidata](https://www.wikidata.org/wiki/Q17285623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23554-1) LSID 23554-1, [Wikidata](https://www.wikidata.org/wiki/Q17285623) QID Q17285623
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

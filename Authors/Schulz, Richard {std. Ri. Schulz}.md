@@ -6,7 +6,7 @@ tl2_surname: Schulz
 tl2_forenames: Richard
 tl2_name_abbrev: Ri. Schulz
 tl2_dates: fl. 1904
-tl2_page_id: 33333528
+tl2_bhl_page_id: 33333528
 author_lsid: 9313-1
 wikidata_id: Q33692731
 ipni_surname: Schulz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9313-1), [Wikidata](https://www.wikidata.org/wiki/Q33692731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9313-1) LSID 9313-1, [Wikidata](https://www.wikidata.org/wiki/Q33692731) QID Q33692731
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0007
 tl2_volume: vol7
 tl2_page_printed: 6
 tl2_surname: Waga
-tl2_forenames: Jakub [Jakob] Ignacy
+tl2_forenames: Jakub (Jakob) Ignacy
 tl2_name_abbrev: Waga
 tl2_dates: 1800-1872
-tl2_page_id: 33066308
+tl2_bhl_page_id: 33066308
 author_lsid: 11295-1
 wikidata_id: Q4102160
 ipni_surname: Waga
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33066308) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11295-1), [Wikidata](https://www.wikidata.org/wiki/Q4102160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11295-1) LSID 11295-1, [Wikidata](https://www.wikidata.org/wiki/Q4102160) QID Q4102160
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Forbes
 tl2_forenames: James
 tl2_name_abbrev: J. Forbes
 tl2_dates: 1773-1861
-tl2_page_id: 33120984
+tl2_bhl_page_id: 33120984
 author_lsid: 2817-1
 wikidata_id: Q3161083
 ipni_surname: Forbes
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33120984) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2817-1), [Wikidata](https://www.wikidata.org/wiki/Q3161083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2817-1) LSID 2817-1, [Wikidata](https://www.wikidata.org/wiki/Q3161083) QID Q3161083
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

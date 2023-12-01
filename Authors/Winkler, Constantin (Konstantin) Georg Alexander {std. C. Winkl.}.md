@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0326
 tl2_volume: vol7
 tl2_page_printed: 368
 tl2_surname: Winkler
-tl2_forenames: Constantin [Konstantin] Georg Alexander
+tl2_forenames: Constantin (Konstantin) Georg Alexander
 tl2_name_abbrev: C. Winkl.
 tl2_dates: 1848-1900
-tl2_page_id: 33066708
+tl2_bhl_page_id: 33066708
 author_lsid: 11755-1
 wikidata_id: Q1127852
 ipni_surname: Winkler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33066708) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11755-1), [Wikidata](https://www.wikidata.org/wiki/Q1127852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11755-1) LSID 11755-1, [Wikidata](https://www.wikidata.org/wiki/Q1127852) QID Q1127852
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

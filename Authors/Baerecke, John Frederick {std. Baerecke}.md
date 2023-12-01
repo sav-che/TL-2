@@ -6,7 +6,7 @@ tl2_surname: Baerecke
 tl2_forenames: John Frederick
 tl2_name_abbrev: Baerecke
 tl2_dates: 1851-1920
-tl2_page_id: 33264975
+tl2_bhl_page_id: 33264975
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33264975) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

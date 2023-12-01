@@ -6,7 +6,7 @@ tl2_surname: Schacht
 tl2_forenames: Hermann
 tl2_name_abbrev: Schacht
 tl2_dates: 1814-1864
-tl2_page_id: 33333237
+tl2_bhl_page_id: 33333237
 author_lsid: 9000-1
 wikidata_id: Q1612559
 ipni_surname: Schacht
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9000-1), [Wikidata](https://www.wikidata.org/wiki/Q1612559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9000-1) LSID 9000-1, [Wikidata](https://www.wikidata.org/wiki/Q1612559) QID Q1612559
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

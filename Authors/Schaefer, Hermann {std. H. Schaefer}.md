@@ -6,7 +6,7 @@ tl2_surname: Schaefer
 tl2_forenames: Hermann
 tl2_name_abbrev: H. Schaefer
 tl2_dates: fl. 1872
-tl2_page_id: 33333242
+tl2_bhl_page_id: 33333242
 author_lsid: 14964-1
 wikidata_id: Q47125694
 ipni_surname: Schaefer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/14964-1), [Wikidata](https://www.wikidata.org/wiki/Q47125694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14964-1) LSID 14964-1, [Wikidata](https://www.wikidata.org/wiki/Q47125694) QID Q47125694
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

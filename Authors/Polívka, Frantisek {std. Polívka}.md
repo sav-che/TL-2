@@ -6,7 +6,7 @@ tl2_surname: Polívka
 tl2_forenames: Frantisek
 tl2_name_abbrev: Polívka
 tl2_dates: 1860-1923
-tl2_page_id: 33189799
+tl2_bhl_page_id: 33189799
 author_lsid: 7809-1
 wikidata_id: Q12017426
 ipni_surname: Polívka
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33189799) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7809-1), [Wikidata](https://www.wikidata.org/wiki/Q12017426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7809-1) LSID 7809-1, [Wikidata](https://www.wikidata.org/wiki/Q12017426) QID Q12017426
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0165
 tl2_volume: vol4
 tl2_page_printed: 151
 tl2_surname: Penfold
-tl2_forenames: [Mrs.] Jane Wallas
+tl2_forenames: (Mrs.) Jane Wallas
 tl2_name_abbrev: Penfold
 tl2_dates: fl. 1820-1850
-tl2_page_id: 33189622
+tl2_bhl_page_id: 33189622
 author_lsid: 7486-1
 wikidata_id: Q33688050
 ipni_surname: Penfold
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33189622) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7486-1), [Wikidata](https://www.wikidata.org/wiki/Q33688050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7486-1) LSID 7486-1, [Wikidata](https://www.wikidata.org/wiki/Q33688050) QID Q33688050
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

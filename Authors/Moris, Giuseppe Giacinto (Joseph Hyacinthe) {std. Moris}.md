@@ -6,7 +6,7 @@ tl2_surname: Moris
 tl2_forenames: Giuseppe Giacinto (Joseph Hyacinthe)
 tl2_name_abbrev: Moris
 tl2_dates: 1796-1869
-tl2_page_id: 33355672
+tl2_bhl_page_id: 33355672
 author_lsid: 12692-1
 wikidata_id: Q3770669
 ipni_surname: Moris
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:39:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33355672) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12692-1), [Wikidata](https://www.wikidata.org/wiki/Q3770669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12692-1) LSID 12692-1, [Wikidata](https://www.wikidata.org/wiki/Q3770669) QID Q3770669
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

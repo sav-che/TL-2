@@ -6,7 +6,7 @@ tl2_surname: Lynge
 tl2_forenames: Bernt Arne
 tl2_name_abbrev: Lynge
 tl2_dates: 1884-1942
-tl2_page_id: 33355288
+tl2_bhl_page_id: 33355288
 author_lsid: 22654-1
 wikidata_id: Q11960807
 ipni_surname: Lynge
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33355288) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22654-1), [Wikidata](https://www.wikidata.org/wiki/Q11960807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22654-1) LSID 22654-1, [Wikidata](https://www.wikidata.org/wiki/Q11960807) QID Q11960807
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

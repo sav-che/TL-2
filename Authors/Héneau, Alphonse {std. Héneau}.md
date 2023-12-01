@@ -6,7 +6,7 @@ tl2_surname: Héneau
 tl2_forenames: Alphonse
 tl2_name_abbrev: Héneau
 tl2_dates: fl. 1889
-tl2_page_id: 33068396
+tl2_bhl_page_id: 33068396
 author_lsid: 3836-1
 wikidata_id: Q36503131
 ipni_surname: Héneau
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3836-1), [Wikidata](https://www.wikidata.org/wiki/Q36503131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3836-1) LSID 3836-1, [Wikidata](https://www.wikidata.org/wiki/Q36503131) QID Q36503131
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

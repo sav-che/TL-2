@@ -6,7 +6,7 @@ tl2_surname: Bunge
 tl2_forenames: Alexander Andrejewitsch von
 tl2_name_abbrev: Bunge
 tl2_dates: 1803-1890
-tl2_page_id: 33120538
+tl2_bhl_page_id: 33120538
 author_lsid: 12367-1
 wikidata_id: Q65899
 ipni_surname: Bunge
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12367-1), [Wikidata](https://www.wikidata.org/wiki/Q65899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12367-1) LSID 12367-1, [Wikidata](https://www.wikidata.org/wiki/Q65899) QID Q65899
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bunge, Alexander (Georg) Andrejewitsch von {std. Bunge} (Suppl.)|second entry]] for this author
 

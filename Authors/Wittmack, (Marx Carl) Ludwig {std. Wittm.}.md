@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0359
 tl2_volume: vol7
 tl2_page_printed: 404
 tl2_surname: Wittmack
-tl2_forenames: [Marx Carl] Ludwig
+tl2_forenames: (Marx Carl) Ludwig
 tl2_name_abbrev: Wittm.
 tl2_dates: 1839-1929
-tl2_page_id: 33066744
+tl2_bhl_page_id: 33066744
 author_lsid: 11799-1
 wikidata_id: Q67105
 ipni_surname: Wittmack
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:49:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33066744) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11799-1), [Wikidata](https://www.wikidata.org/wiki/Q67105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11799-1) LSID 11799-1, [Wikidata](https://www.wikidata.org/wiki/Q67105) QID Q67105
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

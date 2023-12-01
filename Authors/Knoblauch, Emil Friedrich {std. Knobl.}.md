@@ -6,7 +6,7 @@ tl2_surname: Knoblauch
 tl2_forenames: Emil Friedrich
 tl2_name_abbrev: Knobl.
 tl2_dates: 1864-1936
-tl2_page_id: 33068821
+tl2_bhl_page_id: 33068821
 author_lsid: 4875-1
 wikidata_id: Q2883249
 ipni_surname: Knoblauch
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33068821) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4875-1), [Wikidata](https://www.wikidata.org/wiki/Q2883249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4875-1) LSID 4875-1, [Wikidata](https://www.wikidata.org/wiki/Q2883249) QID Q2883249
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

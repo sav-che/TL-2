@@ -6,7 +6,7 @@ tl2_surname: Conwentz
 tl2_forenames: Hugo Wilhelm
 tl2_name_abbrev: Conw.
 tl2_dates: 1855-1922
-tl2_page_id: 33265989
+tl2_bhl_page_id: 33265989
 author_lsid: 1775-1
 wikidata_id: Q73508
 ipni_surname: Conwentz
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265989) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1775-1), [Wikidata](https://www.wikidata.org/wiki/Q73508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1775-1) LSID 1775-1, [Wikidata](https://www.wikidata.org/wiki/Q73508) QID Q73508
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Conwentz, Hugo Wilhelm {std. Conw.}|first entry]] for this author
 

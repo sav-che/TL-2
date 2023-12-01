@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0329
 tl2_volume: vol7
 tl2_page_printed: 374
 tl2_surname: Winkler
-tl2_forenames: Hubert [J.P.]
+tl2_forenames: Hubert (J.P.)
 tl2_name_abbrev: Hu. Winkl.
 tl2_dates: 1875-1941
-tl2_page_id: 33066714
+tl2_bhl_page_id: 33066714
 author_lsid: 11767-1
 wikidata_id: Q5904010
 ipni_surname: Winkler
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:33:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33066714) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11767-1), [Wikidata](https://www.wikidata.org/wiki/Q5904010). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11767-1) LSID 11767-1, [Wikidata](https://www.wikidata.org/wiki/Q5904010) QID Q5904010
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

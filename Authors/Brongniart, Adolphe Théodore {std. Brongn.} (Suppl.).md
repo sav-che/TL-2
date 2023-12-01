@@ -6,7 +6,7 @@ tl2_surname: Brongniart
 tl2_forenames: Adolphe Théodore
 tl2_name_abbrev: Brongn.
 tl2_dates: 1801-1876
-tl2_page_id: 33266423
+tl2_bhl_page_id: 33266423
 author_lsid: 16574-1
 wikidata_id: Q73990
 ipni_surname: Brongniart
@@ -29,7 +29,8 @@ ipni_record_modified: 2009-01-06 13:41:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33266423) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/16574-1), [Wikidata](https://www.wikidata.org/wiki/Q73990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16574-1) LSID 16574-1, [Wikidata](https://www.wikidata.org/wiki/Q73990) QID Q73990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Brongniart, Adolphe Théodore {std. Brongn.}|first entry]] for this author
 

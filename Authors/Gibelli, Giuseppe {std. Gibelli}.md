@@ -6,7 +6,7 @@ tl2_surname: Gibelli
 tl2_forenames: Giuseppe
 tl2_name_abbrev: Gibelli
 tl2_dates: 1831-1898
-tl2_page_id: 33121071
+tl2_bhl_page_id: 33121071
 author_lsid: 3130-1
 wikidata_id: Q5565422
 ipni_surname: Gibelli
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3130-1), [Wikidata](https://www.wikidata.org/wiki/Q5565422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3130-1) LSID 3130-1, [Wikidata](https://www.wikidata.org/wiki/Q5565422) QID Q5565422
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gibelli, Giuseppe (Josephus) {std. Gibelli} (Suppl.)|second entry]] for this author
 

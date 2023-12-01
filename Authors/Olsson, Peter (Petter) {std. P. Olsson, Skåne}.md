@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0986
 tl2_volume: vol3
 tl2_page_printed: 835
 tl2_surname: Olsson
-tl2_forenames: Peter [Petter]
+tl2_forenames: Peter (Petter)
 tl2_name_abbrev: P. Olsson, Skåne
 tl2_dates: 1838-1923
-tl2_page_id: 33355922
+tl2_bhl_page_id: 33355922
 author_lsid: 7141-1
 wikidata_id: Q16467531
 ipni_surname: Olsson
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33355922) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7141-1), [Wikidata](https://www.wikidata.org/wiki/Q16467531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7141-1) LSID 7141-1, [Wikidata](https://www.wikidata.org/wiki/Q16467531) QID Q16467531
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

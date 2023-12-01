@@ -6,7 +6,7 @@ tl2_surname: Pokorny
 tl2_forenames: Alois
 tl2_name_abbrev: Pokorny
 tl2_dates: 1826-1886
-tl2_page_id: 33189796
+tl2_bhl_page_id: 33189796
 author_lsid: 24952-1
 wikidata_id: Q2839202
 ipni_surname: Pokorny
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:37:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33189796) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24952-1), [Wikidata](https://www.wikidata.org/wiki/Q2839202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24952-1) LSID 24952-1, [Wikidata](https://www.wikidata.org/wiki/Q2839202) QID Q2839202
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

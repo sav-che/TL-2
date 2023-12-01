@@ -6,7 +6,7 @@ tl2_surname: Zumaglini
 tl2_forenames: Antonio Mauritio
 tl2_name_abbrev: Zumagl.
 tl2_dates: 1804-1865
-tl2_page_id: 33066903
+tl2_bhl_page_id: 33066903
 author_lsid: 12074-1
 wikidata_id: Q1102547
 ipni_surname: Zumaglini
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:29:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33066903) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12074-1), [Wikidata](https://www.wikidata.org/wiki/Q1102547). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12074-1) LSID 12074-1, [Wikidata](https://www.wikidata.org/wiki/Q1102547) QID Q1102547
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

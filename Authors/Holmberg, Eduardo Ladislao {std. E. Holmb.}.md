@@ -6,7 +6,7 @@ tl2_surname: Holmberg
 tl2_forenames: Eduardo Ladislao
 tl2_name_abbrev: E. Holmb.
 tl2_dates: 1852-1937
-tl2_page_id: 33068501
+tl2_bhl_page_id: 33068501
 author_lsid: 4049-1
 wikidata_id: Q2259151
 ipni_surname: Holmberg
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:45:54.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4049-1), [Wikidata](https://www.wikidata.org/wiki/Q2259151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4049-1) LSID 4049-1, [Wikidata](https://www.wikidata.org/wiki/Q2259151) QID Q2259151
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

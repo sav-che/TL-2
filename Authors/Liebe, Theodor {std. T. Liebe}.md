@@ -6,7 +6,7 @@ tl2_surname: Liebe
 tl2_forenames: Theodor
 tl2_name_abbrev: T. Liebe
 tl2_dates: fl. 1862
-tl2_page_id: 33355115
+tl2_bhl_page_id: 33355115
 author_lsid: 5575-1
 wikidata_id: Q47121301
 ipni_surname: Liebe
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5575-1), [Wikidata](https://www.wikidata.org/wiki/Q47121301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5575-1) LSID 5575-1, [Wikidata](https://www.wikidata.org/wiki/Q47121301) QID Q47121301
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

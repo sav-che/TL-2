@@ -6,7 +6,7 @@ tl2_surname: Eifrig
 tl2_forenames: Helmut Ernst
 tl2_name_abbrev: Eifrig
 tl2_dates: 1911-x
-tl2_page_id: 33260272
+tl2_bhl_page_id: 33260272
 author_lsid: 18410-1
 wikidata_id: Q36572358
 ipni_surname: Eifrig
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/18410-1), [Wikidata](https://www.wikidata.org/wiki/Q36572358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18410-1) LSID 18410-1, [Wikidata](https://www.wikidata.org/wiki/Q36572358) QID Q36572358
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

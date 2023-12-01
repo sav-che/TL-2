@@ -6,7 +6,7 @@ tl2_surname: Bivona-Bernardi
 tl2_forenames: Antonio
 tl2_name_abbrev: Biv.
 tl2_dates: 1774-1837
-tl2_page_id: 33265379
+tl2_bhl_page_id: 33265379
 author_lsid: 16173-1
 wikidata_id: Q3619040
 ipni_surname: Bivona-Bernardi
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:53:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33265379) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16173-1), [Wikidata](https://www.wikidata.org/wiki/Q3619040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16173-1) LSID 16173-1, [Wikidata](https://www.wikidata.org/wiki/Q3619040) QID Q3619040
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bivona-Bernardi, Antonino de {std. Biv.}|first entry]] for this author
 

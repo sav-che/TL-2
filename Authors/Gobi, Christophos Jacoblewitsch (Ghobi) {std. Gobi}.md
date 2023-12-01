@@ -6,7 +6,7 @@ tl2_surname: Gobi
 tl2_forenames: Christophos Jacoblewitsch (Ghobi)
 tl2_name_abbrev: Gobi
 tl2_dates: 1847-1919
-tl2_page_id: 33121090
+tl2_bhl_page_id: 33121090
 author_lsid: 3209-1
 wikidata_id: Q21514061
 ipni_surname: Gobi
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/page/33121090) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3209-1), [Wikidata](https://www.wikidata.org/wiki/Q21514061). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3209-1) LSID 3209-1, [Wikidata](https://www.wikidata.org/wiki/Q21514061) QID Q21514061
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gobi (Ghobi), Christoph Iakovlevich {std. Gobi} (Suppl.)|second entry]] for this author
 

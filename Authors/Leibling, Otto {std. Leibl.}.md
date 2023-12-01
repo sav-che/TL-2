@@ -6,7 +6,7 @@ tl2_surname: Leibling
 tl2_forenames: Otto
 tl2_name_abbrev: Leibl.
 tl2_dates: fl. 1884
-tl2_page_id: 33069067
+tl2_bhl_page_id: 33069067
 author_lsid: 5438-1
 wikidata_id: Q36647185
 ipni_surname: Leibling
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5438-1), [Wikidata](https://www.wikidata.org/wiki/Q36647185). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5438-1) LSID 5438-1, [Wikidata](https://www.wikidata.org/wiki/Q36647185) QID Q36647185
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

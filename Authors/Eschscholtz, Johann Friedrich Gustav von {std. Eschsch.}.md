@@ -6,7 +6,7 @@ tl2_surname: Eschscholtz
 tl2_forenames: Johann Friedrich Gustav von
 tl2_name_abbrev: Eschsch.
 tl2_dates: 1793-1831
-tl2_page_id: 33120931
+tl2_bhl_page_id: 33120931
 author_lsid: 2571-1
 wikidata_id: Q61266
 ipni_surname: Eschscholtz
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:34:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33120931) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2571-1), [Wikidata](https://www.wikidata.org/wiki/Q61266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2571-1) LSID 2571-1, [Wikidata](https://www.wikidata.org/wiki/Q61266) QID Q61266
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

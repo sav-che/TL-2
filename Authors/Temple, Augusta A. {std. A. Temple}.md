@@ -6,7 +6,7 @@ tl2_surname: Temple
 tl2_forenames: Augusta A.
 tl2_name_abbrev: A. Temple
 tl2_dates: fl. 1907
-tl2_page_id: 33212250
+tl2_bhl_page_id: 33212250
 author_lsid: 10497-1
 wikidata_id: Q47127300
 ipni_surname: Temple
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10497-1), [Wikidata](https://www.wikidata.org/wiki/Q47127300). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10497-1) LSID 10497-1, [Wikidata](https://www.wikidata.org/wiki/Q47127300) QID Q47127300
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hultén
 tl2_forenames: Eric Oskar Gunnar
 tl2_name_abbrev: Hultén
 tl2_dates: 1894-x
-tl2_page_id: 33068603
+tl2_bhl_page_id: 33068603
 author_lsid: 4219-1
 wikidata_id: Q380741
 ipni_surname: Hultén
@@ -25,7 +25,8 @@ ipni_record_modified: 2007-03-15 08:18:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4219-1), [Wikidata](https://www.wikidata.org/wiki/Q380741). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4219-1) LSID 4219-1, [Wikidata](https://www.wikidata.org/wiki/Q380741) QID Q380741
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

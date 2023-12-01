@@ -6,7 +6,7 @@ tl2_surname: Dupain
 tl2_forenames: Victor Augustin
 tl2_name_abbrev: Dupain
 tl2_dates: 1857-1940
-tl2_page_id: 33260161
+tl2_bhl_page_id: 33260161
 author_lsid: 34805-1
 wikidata_id: Q4011246
 ipni_surname: Dupain
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/34805-1), [Wikidata](https://www.wikidata.org/wiki/Q4011246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34805-1) LSID 34805-1, [Wikidata](https://www.wikidata.org/wiki/Q4011246) QID Q4011246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

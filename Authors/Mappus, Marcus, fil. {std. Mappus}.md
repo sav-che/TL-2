@@ -6,7 +6,7 @@ tl2_surname: Mappus
 tl2_forenames: Marcus, fil.
 tl2_name_abbrev: Mappus
 tl2_dates: 1666-1736
-tl2_page_id: 33355371
+tl2_bhl_page_id: 33355371
 author_lsid: 6081-1
 wikidata_id: Q21519931
 ipni_surname: Mappus
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33355371) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6081-1), [Wikidata](https://www.wikidata.org/wiki/Q21519931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6081-1) LSID 6081-1, [Wikidata](https://www.wikidata.org/wiki/Q21519931) QID Q21519931
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

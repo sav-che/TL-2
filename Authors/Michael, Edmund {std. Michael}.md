@@ -6,7 +6,7 @@ tl2_surname: Michael
 tl2_forenames: Edmund
 tl2_name_abbrev: Michael
 tl2_dates: 1849-1920
-tl2_page_id: 33355540
+tl2_bhl_page_id: 33355540
 author_lsid: 23341-1
 wikidata_id: Q1286635
 ipni_surname: Michael
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33355540) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23341-1), [Wikidata](https://www.wikidata.org/wiki/Q1286635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23341-1) LSID 23341-1, [Wikidata](https://www.wikidata.org/wiki/Q1286635) QID Q1286635
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

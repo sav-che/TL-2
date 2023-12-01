@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0516
 tl2_volume: vol7
 tl2_page_printed: 565
 tl2_surname: Zwanziger
-tl2_forenames: Gustaf [Gustav] Adolf
+tl2_forenames: Gustaf (Gustav) Adolf
 tl2_name_abbrev: Zwanziger
 tl2_dates: 1839-1893
-tl2_page_id: 33066905
+tl2_bhl_page_id: 33066905
 author_lsid: 12077-1
 wikidata_id: Q16062255
 ipni_surname: Zwanziger
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:52.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12077-1), [Wikidata](https://www.wikidata.org/wiki/Q16062255). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12077-1) LSID 12077-1, [Wikidata](https://www.wikidata.org/wiki/Q16062255) QID Q16062255
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

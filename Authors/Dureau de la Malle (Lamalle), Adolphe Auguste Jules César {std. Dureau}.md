@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl6_0207
 tl2_volume: suppl6
 tl2_page_printed: 189
-tl2_surname: Dureau de la Malle [Lamalle]
+tl2_surname: Dureau de la Malle (Lamalle)
 tl2_forenames: Adolphe Auguste Jules César
 tl2_name_abbrev: Dureau
 tl2_dates: 1777-1857
-tl2_page_id: 33260177
+tl2_bhl_page_id: 33260177
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33260177) of TL-2 Suppl. VI
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

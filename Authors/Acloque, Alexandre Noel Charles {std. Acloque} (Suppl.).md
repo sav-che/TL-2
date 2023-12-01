@@ -6,7 +6,7 @@ tl2_surname: Acloque
 tl2_forenames: Alexandre Noel Charles
 tl2_name_abbrev: Acloque
 tl2_dates: 1871-1908
-tl2_page_id: 33264758
+tl2_bhl_page_id: 33264758
 author_lsid: 30638-1
 wikidata_id: Q2833389
 ipni_surname: Acloque
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33264758) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30638-1), [Wikidata](https://www.wikidata.org/wiki/Q2833389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30638-1) LSID 30638-1, [Wikidata](https://www.wikidata.org/wiki/Q2833389) QID Q2833389
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Acloque, Alexandre Noel Charles {std. Acloque}|first entry]] for this author
 

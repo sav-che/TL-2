@@ -6,7 +6,7 @@ tl2_surname: Legué
 tl2_forenames: Alphonse Marie Léon
 tl2_name_abbrev: Legué
 tl2_dates: 1841-1920
-tl2_page_id: 33069059
+tl2_bhl_page_id: 33069059
 author_lsid: 5425-1
 wikidata_id: Q21518585
 ipni_surname: Legué
@@ -23,7 +23,8 @@ ipni_record_modified: 2010-03-08 11:45:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5425-1), [Wikidata](https://www.wikidata.org/wiki/Q21518585). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5425-1) LSID 5425-1, [Wikidata](https://www.wikidata.org/wiki/Q21518585) QID Q21518585
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

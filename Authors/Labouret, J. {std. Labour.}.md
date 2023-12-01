@@ -6,7 +6,7 @@ tl2_surname: Labouret
 tl2_forenames: J.
 tl2_name_abbrev: Labour.
 tl2_dates: fl. 1858
-tl2_page_id: 33068955
+tl2_bhl_page_id: 33068955
 author_lsid: 5176-1
 wikidata_id: Q5923889
 ipni_surname: Labouret
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5176-1), [Wikidata](https://www.wikidata.org/wiki/Q5923889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5176-1) LSID 5176-1, [Wikidata](https://www.wikidata.org/wiki/Q5923889) QID Q5923889
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

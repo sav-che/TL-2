@@ -6,7 +6,7 @@ tl2_surname: Thornier
 tl2_forenames: Franz
 tl2_name_abbrev: Thonner
 tl2_dates: 1863-1928
-tl2_page_id: 33212330
+tl2_bhl_page_id: 33212330
 author_lsid: 10622-1
 wikidata_id: Q3083161
 ipni_surname: Thonner
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33212330) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10622-1), [Wikidata](https://www.wikidata.org/wiki/Q3083161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10622-1) LSID 10622-1, [Wikidata](https://www.wikidata.org/wiki/Q3083161) QID Q3083161
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

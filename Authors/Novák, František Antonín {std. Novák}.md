@@ -6,7 +6,7 @@ tl2_surname: Novák
 tl2_forenames: František Antonín
 tl2_name_abbrev: Novák
 tl2_dates: 1892-1964
-tl2_page_id: 33355866
+tl2_bhl_page_id: 33355866
 author_lsid: 7049-1
 wikidata_id: Q14070854
 ipni_surname: Novák
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7049-1), [Wikidata](https://www.wikidata.org/wiki/Q14070854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7049-1) LSID 7049-1, [Wikidata](https://www.wikidata.org/wiki/Q14070854) QID Q14070854
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

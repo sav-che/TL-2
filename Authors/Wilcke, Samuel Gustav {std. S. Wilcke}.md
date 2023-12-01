@@ -6,7 +6,7 @@ tl2_surname: Wilcke
 tl2_forenames: Samuel Gustav
 tl2_name_abbrev: S. Wilcke
 tl2_dates: x-1791
-tl2_page_id: 33066628
+tl2_bhl_page_id: 33066628
 author_lsid: 11668-1
 wikidata_id: Q21612673
 ipni_surname: Wilcke
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33066628) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11668-1), [Wikidata](https://www.wikidata.org/wiki/Q21612673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11668-1) LSID 11668-1, [Wikidata](https://www.wikidata.org/wiki/Q21612673) QID Q21612673
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

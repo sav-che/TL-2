@@ -6,7 +6,7 @@ tl2_surname: Heiberg
 tl2_forenames: Peder Andreas Christian
 tl2_name_abbrev: Heib.
 tl2_dates: 1837-1875
-tl2_page_id: 33068378
+tl2_bhl_page_id: 33068378
 author_lsid: 3782-1
 wikidata_id: Q5797267
 ipni_surname: Heiberg
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33068378) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3782-1), [Wikidata](https://www.wikidata.org/wiki/Q5797267). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3782-1) LSID 3782-1, [Wikidata](https://www.wikidata.org/wiki/Q5797267) QID Q5797267
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

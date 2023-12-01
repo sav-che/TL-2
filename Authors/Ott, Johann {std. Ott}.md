@@ -6,7 +6,7 @@ tl2_surname: Ott
 tl2_forenames: Johann
 tl2_name_abbrev: Ott
 tl2_dates: fl. 1851
-tl2_page_id: 33355944
+tl2_bhl_page_id: 33355944
 author_lsid: 7201-1
 wikidata_id: Q47123880
 ipni_surname: Ott
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7201-1), [Wikidata](https://www.wikidata.org/wiki/Q47123880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7201-1) LSID 7201-1, [Wikidata](https://www.wikidata.org/wiki/Q47123880) QID Q47123880
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

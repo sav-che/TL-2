@@ -6,7 +6,7 @@ tl2_surname: Backer
 tl2_forenames: Cornelis Andries
 tl2_name_abbrev: Backer
 tl2_dates: 1874-1963
-tl2_page_id: 33264965
+tl2_bhl_page_id: 33264965
 author_lsid: 369-1
 wikidata_id: Q5788624
 ipni_surname: Backer
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33264965) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/369-1), [Wikidata](https://www.wikidata.org/wiki/Q5788624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/369-1) LSID 369-1, [Wikidata](https://www.wikidata.org/wiki/Q5788624) QID Q5788624
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Backer, Cornelis Andries {std. Backer}|first entry]] for this author
 

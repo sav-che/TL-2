@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl4_0103
 tl2_volume: suppl4
 tl2_page_printed: 132
 tl2_surname: Choisy ("Pautré dit Choisy")
-tl2_forenames: Maurice [Gustave Benoît]
+tl2_forenames: Maurice (Gustave Benoît)
 tl2_name_abbrev: M. Choisy
 tl2_dates: 1897-1969?
-tl2_page_id: 33265809
+tl2_bhl_page_id: 33265809
 author_lsid: 17209-1
 wikidata_id: Q21338802
 ipni_surname: Choisy
@@ -23,7 +23,8 @@ ipni_record_modified: 2017-09-27 10:16:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265809) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17209-1), [Wikidata](https://www.wikidata.org/wiki/Q21338802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17209-1) LSID 17209-1, [Wikidata](https://www.wikidata.org/wiki/Q21338802) QID Q21338802
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

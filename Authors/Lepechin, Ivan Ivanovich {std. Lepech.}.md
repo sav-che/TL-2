@@ -6,7 +6,7 @@ tl2_surname: Lepechin
 tl2_forenames: Ivan Ivanovich
 tl2_name_abbrev: Lepech.
 tl2_dates: 1737-1802
-tl2_page_id: 33069088
+tl2_bhl_page_id: 33069088
 author_lsid: 5487-1
 wikidata_id: Q935498
 ipni_surname: Lepechin
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5487-1), [Wikidata](https://www.wikidata.org/wiki/Q935498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5487-1) LSID 5487-1, [Wikidata](https://www.wikidata.org/wiki/Q935498) QID Q935498
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

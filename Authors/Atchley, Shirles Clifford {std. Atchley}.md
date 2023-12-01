@@ -6,7 +6,7 @@ tl2_surname: Atchley
 tl2_forenames: Shirles Clifford
 tl2_name_abbrev: Atchley
 tl2_dates: c. 1871-1936
-tl2_page_id: 33264926
+tl2_bhl_page_id: 33264926
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33264926) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Edwall
 tl2_forenames: Gustaf (Gustavo in Brazil)
 tl2_name_abbrev: Edwall
 tl2_dates: 1862-1946
-tl2_page_id: 33260248
+tl2_bhl_page_id: 33260248
 author_lsid: 12421-1
 wikidata_id: Q5889359
 ipni_surname: Edwall
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33260248) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/12421-1), [Wikidata](https://www.wikidata.org/wiki/Q5889359). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12421-1) LSID 12421-1, [Wikidata](https://www.wikidata.org/wiki/Q5889359) QID Q5889359
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

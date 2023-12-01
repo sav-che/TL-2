@@ -6,7 +6,7 @@ tl2_surname: Ashby
 tl2_forenames: Sydney Francis
 tl2_name_abbrev: Ashby
 tl2_dates: 1874-1954
-tl2_page_id: 33264922
+tl2_bhl_page_id: 33264922
 author_lsid: 31040-1
 wikidata_id: Q21505383
 ipni_surname: Ashby
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33264922) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31040-1), [Wikidata](https://www.wikidata.org/wiki/Q21505383). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31040-1) LSID 31040-1, [Wikidata](https://www.wikidata.org/wiki/Q21505383) QID Q21505383
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

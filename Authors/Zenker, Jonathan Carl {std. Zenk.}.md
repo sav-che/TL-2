@@ -6,7 +6,7 @@ tl2_surname: Zenker
 tl2_forenames: Jonathan Carl
 tl2_name_abbrev: Zenk.
 tl2_dates: 1799-1837
-tl2_page_id: 33066867
+tl2_bhl_page_id: 33066867
 author_lsid: 12012-1
 wikidata_id: Q3815604
 ipni_surname: Zenker
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-11-06 14:54:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33066867) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/12012-1), [Wikidata](https://www.wikidata.org/wiki/Q3815604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12012-1) LSID 12012-1, [Wikidata](https://www.wikidata.org/wiki/Q3815604) QID Q3815604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

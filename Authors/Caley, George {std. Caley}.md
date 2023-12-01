@@ -6,7 +6,7 @@ tl2_surname: Caley
 tl2_forenames: George
 tl2_name_abbrev: Caley
 tl2_dates: 1770?-1829
-tl2_page_id: 33120556
+tl2_bhl_page_id: 33120556
 author_lsid: 1358-1
 wikidata_id: Q955988
 ipni_surname: Caley
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:53:48.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33120556) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1358-1), [Wikidata](https://www.wikidata.org/wiki/Q955988). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1358-1) LSID 1358-1, [Wikidata](https://www.wikidata.org/wiki/Q955988) QID Q955988
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

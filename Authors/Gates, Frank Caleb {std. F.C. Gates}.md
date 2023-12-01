@@ -6,7 +6,7 @@ tl2_surname: Gates
 tl2_forenames: Frank Caleb
 tl2_name_abbrev: F.C. Gates
 tl2_dates: 1887-1955
-tl2_page_id: 33258613
+tl2_bhl_page_id: 33258613
 author_lsid: 3041-1
 wikidata_id: Q21513817
 ipni_surname: Gates
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:35:43.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33258613) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3041-1), [Wikidata](https://www.wikidata.org/wiki/Q21513817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3041-1) LSID 3041-1, [Wikidata](https://www.wikidata.org/wiki/Q21513817) QID Q21513817
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

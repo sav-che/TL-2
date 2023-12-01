@@ -6,7 +6,7 @@ tl2_surname: Appl
 tl2_forenames: Johann
 tl2_name_abbrev: Appl
 tl2_dates: fl. 1913-1941
-tl2_page_id: 33264865
+tl2_bhl_page_id: 33264865
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Luedersdorff
 tl2_forenames: Friedrich Wilhelm
 tl2_name_abbrev: Luedersd.
 tl2_dates: 1801-?
-tl2_page_id: 33355273
+tl2_bhl_page_id: 33355273
 author_lsid: 5814-1
 wikidata_id: Q1463106
 ipni_surname: Luedersdorff
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5814-1), [Wikidata](https://www.wikidata.org/wiki/Q1463106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5814-1) LSID 5814-1, [Wikidata](https://www.wikidata.org/wiki/Q1463106) QID Q1463106
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

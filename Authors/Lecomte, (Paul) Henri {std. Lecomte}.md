@@ -6,7 +6,7 @@ tl2_surname: Lecomte
 tl2_forenames: (Paul) Henri
 tl2_name_abbrev: Lecomte
 tl2_dates: 1856-1934
-tl2_page_id: 33069023
+tl2_bhl_page_id: 33069023
 author_lsid: 5388-1
 wikidata_id: Q1230990
 ipni_surname: Lecomte
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-12-30 14:26:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5388-1), [Wikidata](https://www.wikidata.org/wiki/Q1230990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5388-1) LSID 5388-1, [Wikidata](https://www.wikidata.org/wiki/Q1230990) QID Q1230990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

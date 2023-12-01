@@ -6,7 +6,7 @@ tl2_surname: Paull
 tl2_forenames: Charles Leslie Fairbanks
 tl2_name_abbrev: Paull
 tl2_dates: fl. 1904
-tl2_page_id: 33189583
+tl2_bhl_page_id: 33189583
 author_lsid: 7408-1
 wikidata_id: Q36528990
 ipni_surname: Paull
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33189583) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7408-1), [Wikidata](https://www.wikidata.org/wiki/Q36528990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7408-1) LSID 7408-1, [Wikidata](https://www.wikidata.org/wiki/Q36528990) QID Q36528990
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol7_0061
 tl2_volume: vol7
 tl2_page_printed: 52
 tl2_surname: Walther
-tl2_forenames: [Edward] Eric
+tl2_forenames: (Edward) Eric
 tl2_name_abbrev: E. Walther
 tl2_dates: 1892-1959
-tl2_page_id: 33066392
+tl2_bhl_page_id: 33066392
 author_lsid: 11371-1
 wikidata_id: Q1292134
 ipni_surname: Walther
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33066392) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11371-1), [Wikidata](https://www.wikidata.org/wiki/Q1292134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11371-1) LSID 11371-1, [Wikidata](https://www.wikidata.org/wiki/Q1292134) QID Q1292134
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

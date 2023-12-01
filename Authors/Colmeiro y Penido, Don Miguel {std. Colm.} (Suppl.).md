@@ -6,7 +6,7 @@ tl2_surname: Colmeiro y Penido
 tl2_forenames: Don Miguel
 tl2_name_abbrev: Colm.
 tl2_dates: 1816-1901
-tl2_page_id: 33265954
+tl2_bhl_page_id: 33265954
 author_lsid: 17362-1
 wikidata_id: Q3330424
 ipni_surname: Colmeiro
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265954) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17362-1), [Wikidata](https://www.wikidata.org/wiki/Q3330424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17362-1) LSID 17362-1, [Wikidata](https://www.wikidata.org/wiki/Q3330424) QID Q3330424
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Colmeiro y Penido, Don Miguel {std. Colm.}|first entry]] for this author
 

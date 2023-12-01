@@ -6,7 +6,7 @@ tl2_surname: Sørensen
 tl2_forenames: Henrik Lauritz
 tl2_name_abbrev: Sørensen
 tl2_dates: 1842-1903
-tl2_page_id: 33333857
+tl2_bhl_page_id: 33333857
 author_lsid: 9860-1
 wikidata_id: Q11682437
 ipni_surname: Sørensen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33333857) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9860-1), [Wikidata](https://www.wikidata.org/wiki/Q11682437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9860-1) LSID 9860-1, [Wikidata](https://www.wikidata.org/wiki/Q11682437) QID Q11682437
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Heller
 tl2_forenames: Amos Arthur
 tl2_name_abbrev: A. Heller
 tl2_dates: 1867-1944
-tl2_page_id: 33068388
+tl2_bhl_page_id: 33068388
 author_lsid: 3806-1
 wikidata_id: Q2373009
 ipni_surname: Heller
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:35:53.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33068388) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3806-1), [Wikidata](https://www.wikidata.org/wiki/Q2373009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3806-1) LSID 3806-1, [Wikidata](https://www.wikidata.org/wiki/Q2373009) QID Q2373009
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

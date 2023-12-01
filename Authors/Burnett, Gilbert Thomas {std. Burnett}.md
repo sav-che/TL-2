@@ -6,7 +6,7 @@ tl2_surname: Burnett
 tl2_forenames: Gilbert Thomas
 tl2_name_abbrev: Burnett
 tl2_dates: 1800-1835
-tl2_page_id: 33266565
+tl2_bhl_page_id: 33266565
 author_lsid: 1310-1
 wikidata_id: Q612297
 ipni_surname: Burnett
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:34:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33266565) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1310-1), [Wikidata](https://www.wikidata.org/wiki/Q612297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1310-1) LSID 1310-1, [Wikidata](https://www.wikidata.org/wiki/Q612297) QID Q612297
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

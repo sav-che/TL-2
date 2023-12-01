@@ -6,7 +6,7 @@ tl2_surname: Rauh
 tl2_forenames: Werner
 tl2_name_abbrev: Rauh
 tl2_dates: 1913-x
-tl2_page_id: 33190060
+tl2_bhl_page_id: 33190060
 author_lsid: 8164-1
 wikidata_id: Q67602
 ipni_surname: Rauh
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:52:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33190060) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8164-1), [Wikidata](https://www.wikidata.org/wiki/Q67602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8164-1) LSID 8164-1, [Wikidata](https://www.wikidata.org/wiki/Q67602) QID Q67602
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

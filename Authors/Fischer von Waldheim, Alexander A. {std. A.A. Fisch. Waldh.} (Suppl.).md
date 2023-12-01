@@ -6,7 +6,7 @@ tl2_surname: Fischer von Waldheim
 tl2_forenames: Alexander Alexandrovitch
 tl2_name_abbrev: A.A. Fisch.-Waldh.
 tl2_dates: 1839-1920
-tl2_page_id: 33259723
+tl2_bhl_page_id: 33259723
 author_lsid: 18830-1
 wikidata_id: Q2833396
 ipni_surname: Fischer von Waldheim
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259723) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/18830-1), [Wikidata](https://www.wikidata.org/wiki/Q2833396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/18830-1) LSID 18830-1, [Wikidata](https://www.wikidata.org/wiki/Q2833396) QID Q2833396
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fischer von Waldheim, Alexander Alexandrovitch {std. A.A. Fisch. Waldh.}|first entry]] for this author
 

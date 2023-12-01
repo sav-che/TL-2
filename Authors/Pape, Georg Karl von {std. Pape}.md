@@ -6,7 +6,7 @@ tl2_surname: Pape
 tl2_forenames: Georg Karl von
 tl2_name_abbrev: Pape
 tl2_dates: 1834-1868
-tl2_page_id: 33189484
+tl2_bhl_page_id: 33189484
 author_lsid: 7323-1
 wikidata_id: Q21522619
 ipni_surname: Pape
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7323-1), [Wikidata](https://www.wikidata.org/wiki/Q21522619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7323-1) LSID 7323-1, [Wikidata](https://www.wikidata.org/wiki/Q21522619) QID Q21522619
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

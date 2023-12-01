@@ -6,7 +6,7 @@ tl2_surname: Delise
 tl2_forenames: Dominic François
 tl2_name_abbrev: Delise
 tl2_dates: 1780-1841
-tl2_page_id: 33120749
+tl2_bhl_page_id: 33120749
 author_lsid: 17909-1
 wikidata_id: Q21339033
 ipni_surname: Delise
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33120749) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17909-1), [Wikidata](https://www.wikidata.org/wiki/Q21339033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17909-1) LSID 17909-1, [Wikidata](https://www.wikidata.org/wiki/Q21339033) QID Q21339033
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Delise, Dominique-Françoise {std. Delise} (Suppl.)|second entry]] for this author
 

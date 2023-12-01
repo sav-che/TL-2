@@ -6,7 +6,7 @@ tl2_surname: Perry
 tl2_forenames: Lily May
 tl2_name_abbrev: L.M. Perry
 tl2_dates: 1895-x
-tl2_page_id: 33189648
+tl2_bhl_page_id: 33189648
 author_lsid: 7544-1
 wikidata_id: Q5395639
 ipni_surname: Perry
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:29:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33189648) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7544-1), [Wikidata](https://www.wikidata.org/wiki/Q5395639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7544-1) LSID 7544-1, [Wikidata](https://www.wikidata.org/wiki/Q5395639) QID Q5395639
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

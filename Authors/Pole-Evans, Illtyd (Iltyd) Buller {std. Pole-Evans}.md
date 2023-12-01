@@ -6,7 +6,7 @@ tl2_surname: Pole-Evans
 tl2_forenames: Illtyd (Iltyd) Buller
 tl2_name_abbrev: Pole-Evans
 tl2_dates: 1879-1968
-tl2_page_id: 33189798
+tl2_bhl_page_id: 33189798
 author_lsid: 24956-1
 wikidata_id: Q6000246
 ipni_surname: Pole-Evans
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:27:30.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33189798) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24956-1), [Wikidata](https://www.wikidata.org/wiki/Q6000246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24956-1) LSID 24956-1, [Wikidata](https://www.wikidata.org/wiki/Q6000246) QID Q6000246
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

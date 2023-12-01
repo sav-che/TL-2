@@ -6,7 +6,7 @@ tl2_surname: Savi
 tl2_forenames: Paolo
 tl2_name_abbrev: Pa. Savi
 tl2_dates: 1798-1871
-tl2_page_id: 33333226
+tl2_bhl_page_id: 33333226
 author_lsid: 14967-1
 wikidata_id: Q2356835
 ipni_surname: Savi
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:49:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33333226) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/14967-1), [Wikidata](https://www.wikidata.org/wiki/Q2356835). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14967-1) LSID 14967-1, [Wikidata](https://www.wikidata.org/wiki/Q2356835) QID Q2356835
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

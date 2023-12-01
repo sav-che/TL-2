@@ -6,7 +6,7 @@ tl2_surname: Roth
 tl2_forenames: Johannes Rudolph
 tl2_name_abbrev: J. Roth
 tl2_dates: 1814-1858
-tl2_page_id: 33190393
+tl2_bhl_page_id: 33190393
 author_lsid: 8639-1
 wikidata_id: Q111301
 ipni_surname: Roth
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33190393) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8639-1), [Wikidata](https://www.wikidata.org/wiki/Q111301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8639-1) LSID 8639-1, [Wikidata](https://www.wikidata.org/wiki/Q111301) QID Q111301
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

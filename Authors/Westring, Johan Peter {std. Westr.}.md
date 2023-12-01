@@ -6,7 +6,7 @@ tl2_surname: Westring
 tl2_forenames: Johan Peter
 tl2_name_abbrev: Westr.
 tl2_dates: 1753-1833
-tl2_page_id: 33066558
+tl2_bhl_page_id: 33066558
 author_lsid: 11596-1
 wikidata_id: Q6238531
 ipni_surname: Westring
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:16.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33066558) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11596-1), [Wikidata](https://www.wikidata.org/wiki/Q6238531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11596-1) LSID 11596-1, [Wikidata](https://www.wikidata.org/wiki/Q6238531) QID Q6238531
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

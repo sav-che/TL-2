@@ -6,7 +6,7 @@ tl2_surname: Mudd
 tl2_forenames: William (A.)
 tl2_name_abbrev: Mudd
 tl2_dates: 1830-1879
-tl2_page_id: 33355699
+tl2_bhl_page_id: 33355699
 author_lsid: 23719-1
 wikidata_id: Q18821939
 ipni_surname: Mudd
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33355699) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23719-1), [Wikidata](https://www.wikidata.org/wiki/Q18821939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23719-1) LSID 23719-1, [Wikidata](https://www.wikidata.org/wiki/Q18821939) QID Q18821939
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

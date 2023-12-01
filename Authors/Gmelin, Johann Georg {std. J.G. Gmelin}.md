@@ -6,7 +6,7 @@ tl2_surname: Gmelin
 tl2_forenames: Johann Georg
 tl2_name_abbrev: J.G. Gmelin
 tl2_dates: 1709-1755
-tl2_page_id: 33121087
+tl2_bhl_page_id: 33121087
 author_lsid: 3204-1
 wikidata_id: Q58068
 ipni_surname: Gmelin
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:39:47.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 956](https://www.biodiversitylibrary.org/page/33121087) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3204-1), [Wikidata](https://www.wikidata.org/wiki/Q58068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3204-1) LSID 3204-1, [Wikidata](https://www.wikidata.org/wiki/Q58068) QID Q58068
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

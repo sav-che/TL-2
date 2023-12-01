@@ -6,7 +6,7 @@ tl2_surname: Badham
 tl2_forenames: Charles David
 tl2_name_abbrev: 
 tl2_dates: 1806-1857
-tl2_page_id: 33120220
+tl2_bhl_page_id: 33120220
 author_lsid: 374-1
 wikidata_id: Q5076747
 ipni_surname: Badham
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33120220) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/374-1), [Wikidata](https://www.wikidata.org/wiki/Q5076747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/374-1) LSID 374-1, [Wikidata](https://www.wikidata.org/wiki/Q5076747) QID Q5076747
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Badham, Charles David {std. Badham} (Suppl.)|second entry]] for this author
 

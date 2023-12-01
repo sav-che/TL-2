@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol1_1207
 tl2_volume: vol1
 tl2_page_printed: 954
 tl2_surname: Gmelin
-tl2_forenames: Carl [Karl] Christian
+tl2_forenames: Carl (Karl) Christian
 tl2_name_abbrev: C.C. Gmelin
 tl2_dates: 1762-1837
-tl2_page_id: 33121085
+tl2_bhl_page_id: 33121085
 author_lsid: 3202-1
 wikidata_id: Q84525
 ipni_surname: Gmelin
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3202-1), [Wikidata](https://www.wikidata.org/wiki/Q84525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3202-1) LSID 3202-1, [Wikidata](https://www.wikidata.org/wiki/Q84525) QID Q84525
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gmelin, Carl (Karl) Christian {std. C.C. Gmelin} (Suppl.)|second entry]] for this author
 

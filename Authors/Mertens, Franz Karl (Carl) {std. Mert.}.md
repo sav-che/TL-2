@@ -6,7 +6,7 @@ tl2_surname: Mertens
 tl2_forenames: Franz Karl (Carl)
 tl2_name_abbrev: Mert.
 tl2_dates: 1764-1831
-tl2_page_id: 33355517
+tl2_bhl_page_id: 33355517
 author_lsid: 6378-1
 wikidata_id: Q68470
 ipni_surname: Mertens
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:53:08.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6378-1), [Wikidata](https://www.wikidata.org/wiki/Q68470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6378-1) LSID 6378-1, [Wikidata](https://www.wikidata.org/wiki/Q68470) QID Q68470
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

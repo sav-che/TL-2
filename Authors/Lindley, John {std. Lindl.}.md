@@ -6,7 +6,7 @@ tl2_surname: Lindley
 tl2_forenames: John
 tl2_name_abbrev: Lindl.
 tl2_dates: 1799-1865
-tl2_page_id: 33355098
+tl2_bhl_page_id: 33355098
 author_lsid: 22383-1
 wikidata_id: Q378629
 ipni_surname: Lindley
@@ -29,7 +29,8 @@ ipni_record_modified: 2013-05-15 11:27:41.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33355098) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/22383-1), [Wikidata](https://www.wikidata.org/wiki/Q378629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22383-1) LSID 22383-1, [Wikidata](https://www.wikidata.org/wiki/Q378629) QID Q378629
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

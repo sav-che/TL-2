@@ -6,7 +6,7 @@ tl2_surname: Bouton
 tl2_forenames: Louis
 tl2_name_abbrev: Bouton
 tl2_dates: x-1878 (1879?)
-tl2_page_id: 33120427
+tl2_bhl_page_id: 33120427
 author_lsid: 1038-1
 wikidata_id: Q2114760
 ipni_surname: Bouton
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:34:22.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33120427) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1038-1), [Wikidata](https://www.wikidata.org/wiki/Q2114760). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1038-1) LSID 1038-1, [Wikidata](https://www.wikidata.org/wiki/Q2114760) QID Q2114760
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bouton, Louis {std. Bouton} (Suppl.)|second entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Héribaud-Joseph
 tl2_forenames: Frère (Caumel, Jean Baptiste)
 tl2_name_abbrev: Hérib.
 tl2_dates: 1841-1918
-tl2_page_id: 33068411
+tl2_bhl_page_id: 33068411
 author_lsid: 34264-1
 wikidata_id: Q18202604
 ipni_surname: Héribaud
@@ -26,7 +26,8 @@ ipni_record_modified: 2011-09-23 09:25:38.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33068411) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/34264-1), [Wikidata](https://www.wikidata.org/wiki/Q18202604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34264-1) LSID 34264-1, [Wikidata](https://www.wikidata.org/wiki/Q18202604) QID Q18202604
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

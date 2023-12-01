@@ -6,7 +6,7 @@ tl2_surname: Kuhlmann
 tl2_forenames: João Geraldo
 tl2_name_abbrev: Kuhlm.
 tl2_dates: 1882-1958
-tl2_page_id: 33068932
+tl2_bhl_page_id: 33068932
 author_lsid: 5116-1
 wikidata_id: Q3113183
 ipni_surname: Kuhlmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:54:36.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33068932) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5116-1), [Wikidata](https://www.wikidata.org/wiki/Q3113183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5116-1) LSID 5116-1, [Wikidata](https://www.wikidata.org/wiki/Q3113183) QID Q3113183
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

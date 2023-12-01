@@ -6,7 +6,7 @@ tl2_surname: Traunfellner
 tl2_forenames: Aloys
 tl2_name_abbrev: Traunfellner
 tl2_dates: 1782-1840
-tl2_page_id: 33212484
+tl2_bhl_page_id: 33212484
 author_lsid: 10795-1
 wikidata_id: Q5670474
 ipni_surname: Traunfellner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10795-1), [Wikidata](https://www.wikidata.org/wiki/Q5670474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10795-1) LSID 10795-1, [Wikidata](https://www.wikidata.org/wiki/Q5670474) QID Q5670474
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

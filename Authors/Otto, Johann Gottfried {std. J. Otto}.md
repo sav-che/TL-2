@@ -6,7 +6,7 @@ tl2_surname: Otto
 tl2_forenames: Johann Gottfried
 tl2_name_abbrev: J. Otto
 tl2_dates: 1761-1832
-tl2_page_id: 33355947
+tl2_bhl_page_id: 33355947
 author_lsid: 24426-1
 wikidata_id: Q5932942
 ipni_surname: Otto
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33355947) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24426-1), [Wikidata](https://www.wikidata.org/wiki/Q5932942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24426-1) LSID 24426-1, [Wikidata](https://www.wikidata.org/wiki/Q5932942) QID Q5932942
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

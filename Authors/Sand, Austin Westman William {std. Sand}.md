@@ -6,7 +6,7 @@ tl2_surname: Sand
 tl2_forenames: Austin Westman William
 tl2_name_abbrev: Sand
 tl2_dates: fl. 1926
-tl2_page_id: 33333127
+tl2_bhl_page_id: 33333127
 author_lsid: 8877-1
 wikidata_id: Q36509798
 ipni_surname: Sand
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/8877-1), [Wikidata](https://www.wikidata.org/wiki/Q36509798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8877-1) LSID 8877-1, [Wikidata](https://www.wikidata.org/wiki/Q36509798) QID Q36509798
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

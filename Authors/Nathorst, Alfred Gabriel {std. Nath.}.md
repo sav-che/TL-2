@@ -6,7 +6,7 @@ tl2_surname: Nathorst
 tl2_forenames: Alfred Gabriel
 tl2_name_abbrev: Nath.
 tl2_dates: 1850-1921
-tl2_page_id: 33355779
+tl2_bhl_page_id: 33355779
 author_lsid: 6865-1
 wikidata_id: Q560790
 ipni_surname: Nathorst
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:48:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33355779) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6865-1), [Wikidata](https://www.wikidata.org/wiki/Q560790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6865-1) LSID 6865-1, [Wikidata](https://www.wikidata.org/wiki/Q560790) QID Q560790
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

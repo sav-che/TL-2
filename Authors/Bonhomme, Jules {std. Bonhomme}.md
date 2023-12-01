@@ -6,7 +6,7 @@ tl2_surname: Bonhomme
 tl2_forenames: Jules
 tl2_name_abbrev: Bonhomme
 tl2_dates: fl. 1858-1880
-tl2_page_id: 33265509
+tl2_bhl_page_id: 33265509
 author_lsid: 32492-1
 wikidata_id: Q17631254
 ipni_surname: Bonhomme
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/32492-1), [Wikidata](https://www.wikidata.org/wiki/Q17631254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/32492-1) LSID 32492-1, [Wikidata](https://www.wikidata.org/wiki/Q17631254) QID Q17631254
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

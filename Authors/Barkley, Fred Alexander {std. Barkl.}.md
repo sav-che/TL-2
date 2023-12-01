@@ -6,7 +6,7 @@ tl2_surname: Barkley
 tl2_forenames: Fred Alexander
 tl2_name_abbrev: Barkl.
 tl2_dates: 1908-1989
-tl2_page_id: 33265054
+tl2_bhl_page_id: 33265054
 author_lsid: 479-1
 wikidata_id: Q4078297
 ipni_surname: Barkley
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:28.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33265054) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/479-1), [Wikidata](https://www.wikidata.org/wiki/Q4078297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/479-1) LSID 479-1, [Wikidata](https://www.wikidata.org/wiki/Q4078297) QID Q4078297
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

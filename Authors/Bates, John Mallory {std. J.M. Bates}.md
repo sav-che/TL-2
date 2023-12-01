@@ -6,7 +6,7 @@ tl2_surname: Bates
 tl2_forenames: John Mallory
 tl2_name_abbrev: J.M. Bates
 tl2_dates: 1846-1930
-tl2_page_id: 33265101
+tl2_bhl_page_id: 33265101
 author_lsid: 538-1
 wikidata_id: Q20724832
 ipni_surname: Bates
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33265101) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/538-1), [Wikidata](https://www.wikidata.org/wiki/Q20724832). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/538-1) LSID 538-1, [Wikidata](https://www.wikidata.org/wiki/Q20724832) QID Q20724832
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

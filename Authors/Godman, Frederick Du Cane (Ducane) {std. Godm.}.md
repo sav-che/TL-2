@@ -6,7 +6,7 @@ tl2_surname: Godman
 tl2_forenames: Frederick Du Cane (Ducane)
 tl2_name_abbrev: Godm.
 tl2_dates: 1834-1919
-tl2_page_id: 33121091
+tl2_bhl_page_id: 33121091
 author_lsid: 3217-1
 wikidata_id: Q494264
 ipni_surname: Godman
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:50:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/page/33121091) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/3217-1), [Wikidata](https://www.wikidata.org/wiki/Q494264). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3217-1) LSID 3217-1, [Wikidata](https://www.wikidata.org/wiki/Q494264) QID Q494264
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Caussin
 tl2_forenames: Octave Arthur
 tl2_name_abbrev: Caussin
 tl2_dates: 1862-1913
-tl2_page_id: 33266771
+tl2_bhl_page_id: 33266771
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33266771) of TL-2 Suppl. III
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

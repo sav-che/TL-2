@@ -6,7 +6,7 @@ tl2_surname: Hagelstein
 tl2_forenames: Robert
 tl2_name_abbrev: Hagelst.
 tl2_dates: 1870-1945
-tl2_page_id: 33068251
+tl2_bhl_page_id: 33068251
 author_lsid: 3542-1
 wikidata_id: Q21514482
 ipni_surname: Hagelstein
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33068251) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3542-1), [Wikidata](https://www.wikidata.org/wiki/Q21514482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3542-1) LSID 3542-1, [Wikidata](https://www.wikidata.org/wiki/Q21514482) QID Q21514482
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

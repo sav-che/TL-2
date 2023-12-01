@@ -6,7 +6,7 @@ tl2_surname: Vilmorin
 tl2_forenames: Jacques Levêque de
 tl2_name_abbrev: J. Vilm.
 tl2_dates: 1882-1933
-tl2_page_id: 33212785
+tl2_bhl_page_id: 33212785
 author_lsid: 11198-1
 wikidata_id: Q21611767
 ipni_surname: Vilmorin
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11198-1), [Wikidata](https://www.wikidata.org/wiki/Q21611767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11198-1) LSID 11198-1, [Wikidata](https://www.wikidata.org/wiki/Q21611767) QID Q21611767
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Coutinho
 tl2_forenames: António Xavier Pereira
 tl2_name_abbrev: Cout.
 tl2_dates: 1851-1939
-tl2_page_id: 33266103
+tl2_bhl_page_id: 33266103
 author_lsid: 17478-1
 wikidata_id: Q11679890
 ipni_surname: Coutinho
@@ -27,7 +27,8 @@ ipni_record_modified: 2010-12-02 13:11:35.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266103) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/17478-1), [Wikidata](https://www.wikidata.org/wiki/Q11679890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17478-1) LSID 17478-1, [Wikidata](https://www.wikidata.org/wiki/Q11679890) QID Q11679890
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Coutinho, António Xavier Pereira {std. Cout.}|first entry]] for this author
 

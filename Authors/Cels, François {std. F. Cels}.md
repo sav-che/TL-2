@@ -6,7 +6,7 @@ tl2_surname: Cels
 tl2_forenames: François
 tl2_name_abbrev: F. Cels
 tl2_dates: 1771-1832
-tl2_page_id: 33265696
+tl2_bhl_page_id: 33265696
 author_lsid: 13272-1
 wikidata_id: Q14944337
 ipni_surname: Cels
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:37.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/13272-1), [Wikidata](https://www.wikidata.org/wiki/Q14944337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13272-1) LSID 13272-1, [Wikidata](https://www.wikidata.org/wiki/Q14944337) QID Q14944337
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

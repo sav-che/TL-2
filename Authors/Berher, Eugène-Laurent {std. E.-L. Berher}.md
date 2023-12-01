@@ -6,7 +6,7 @@ tl2_surname: Berher
 tl2_forenames: Eugène-Laurent
 tl2_name_abbrev: E.-L. Berher
 tl2_dates: 1822-1900
-tl2_page_id: 33265294
+tl2_bhl_page_id: 33265294
 author_lsid: 14610-1
 wikidata_id: Q5475398
 ipni_surname: Berher
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:54:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/14610-1), [Wikidata](https://www.wikidata.org/wiki/Q5475398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14610-1) LSID 14610-1, [Wikidata](https://www.wikidata.org/wiki/Q5475398) QID Q5475398
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

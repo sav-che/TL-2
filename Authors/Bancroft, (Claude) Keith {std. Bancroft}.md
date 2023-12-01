@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0343
 tl2_volume: suppl1
 tl2_page_printed: 309
 tl2_surname: Bancroft
-tl2_forenames: [Claude] Keith
+tl2_forenames: (Claude) Keith
 tl2_name_abbrev: Bancroft
 tl2_dates: 1885-1919
-tl2_page_id: 33265036
+tl2_bhl_page_id: 33265036
 author_lsid: 31284-1
 wikidata_id: Q6384017
 ipni_surname: Bancroft
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265036) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/31284-1), [Wikidata](https://www.wikidata.org/wiki/Q6384017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31284-1) LSID 31284-1, [Wikidata](https://www.wikidata.org/wiki/Q6384017) QID Q6384017
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

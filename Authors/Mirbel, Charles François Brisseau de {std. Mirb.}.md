@@ -6,7 +6,7 @@ tl2_surname: Mirbel
 tl2_forenames: Charles François Brisseau de
 tl2_name_abbrev: Mirb.
 tl2_dates: 1776-1854
-tl2_page_id: 33355607
+tl2_bhl_page_id: 33355607
 author_lsid: 6512-1
 wikidata_id: Q765542
 ipni_surname: Mirbel
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:44:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6512-1), [Wikidata](https://www.wikidata.org/wiki/Q765542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6512-1) LSID 6512-1, [Wikidata](https://www.wikidata.org/wiki/Q765542) QID Q765542
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

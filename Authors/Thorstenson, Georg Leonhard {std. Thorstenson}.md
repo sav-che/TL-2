@@ -6,7 +6,7 @@ tl2_surname: Thorstenson
 tl2_forenames: Georg Leonhard
 tl2_name_abbrev: Thorstenson
 tl2_dates: 1851-1918
-tl2_page_id: 33212338
+tl2_bhl_page_id: 33212338
 author_lsid: 10635-1
 wikidata_id: Q21610693
 ipni_surname: Thorstenson
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33212338) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10635-1), [Wikidata](https://www.wikidata.org/wiki/Q21610693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10635-1) LSID 10635-1, [Wikidata](https://www.wikidata.org/wiki/Q21610693) QID Q21610693
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Candolle
 tl2_forenames: Alphonse Louis Pierre Pyramus de
 tl2_name_abbrev: A. DC.
 tl2_dates: 1806-1893
-tl2_page_id: 33266663
+tl2_bhl_page_id: 33266663
 author_lsid: 2064-1
 wikidata_id: Q123807
 ipni_surname: Candolle
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33266663) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/2064-1), [Wikidata](https://www.wikidata.org/wiki/Q123807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2064-1) LSID 2064-1, [Wikidata](https://www.wikidata.org/wiki/Q123807) QID Q123807
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Candolle, Alphonse Louis Pierre Pyramus de {std. A. DC.}|first entry]] for this author
 

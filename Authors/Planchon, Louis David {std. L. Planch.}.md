@@ -6,7 +6,7 @@ tl2_surname: Planchon
 tl2_forenames: Louis David
 tl2_name_abbrev: L. Planch.
 tl2_dates: 1858-1915
-tl2_page_id: 33189759
+tl2_bhl_page_id: 33189759
 author_lsid: 7739-1
 wikidata_id: Q21523044
 ipni_surname: Planchon
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33189759) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7739-1), [Wikidata](https://www.wikidata.org/wiki/Q21523044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7739-1) LSID 7739-1, [Wikidata](https://www.wikidata.org/wiki/Q21523044) QID Q21523044
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

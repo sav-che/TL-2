@@ -6,7 +6,7 @@ tl2_surname: Carey
 tl2_forenames: John
 tl2_name_abbrev: J. Carey
 tl2_dates: 1797-1880
-tl2_page_id: 33120586
+tl2_bhl_page_id: 33120586
 author_lsid: 1399-1
 wikidata_id: Q5933140
 ipni_surname: Carey
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33120586) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1399-1), [Wikidata](https://www.wikidata.org/wiki/Q5933140). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1399-1) LSID 1399-1, [Wikidata](https://www.wikidata.org/wiki/Q5933140) QID Q5933140
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Carey, John {std. J. Carey} (Suppl.)|second entry]] for this author
 

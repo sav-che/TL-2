@@ -6,7 +6,7 @@ tl2_surname: Rainville
 tl2_forenames: Frédéric
 tl2_name_abbrev: Rainville
 tl2_dates: x-1779
-tl2_page_id: 33190037
+tl2_bhl_page_id: 33190037
 author_lsid: 34940-1
 wikidata_id: Q21606856
 ipni_surname: Rainville
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33190037) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/34940-1), [Wikidata](https://www.wikidata.org/wiki/Q21606856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34940-1) LSID 34940-1, [Wikidata](https://www.wikidata.org/wiki/Q21606856) QID Q21606856
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

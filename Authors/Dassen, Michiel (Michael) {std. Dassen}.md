@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0084
 tl2_volume: suppl5
 tl2_page_printed: 83
 tl2_surname: Dassen
-tl2_forenames: Michiel [Michael]
+tl2_forenames: Michiel (Michael)
 tl2_name_abbrev: Dassen
 tl2_dates: 1809-1852
-tl2_page_id: 33259129
+tl2_bhl_page_id: 33259129
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

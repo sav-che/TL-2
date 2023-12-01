@@ -6,7 +6,7 @@ tl2_surname: Du Roi
 tl2_forenames: Johann Philipp
 tl2_name_abbrev: Du Roi
 tl2_dates: 1741-1785
-tl2_page_id: 33120843
+tl2_bhl_page_id: 33120843
 author_lsid: 2407-1
 wikidata_id: Q96170
 ipni_surname: Du Roi
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:53:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33120843) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2407-1), [Wikidata](https://www.wikidata.org/wiki/Q96170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2407-1) LSID 2407-1, [Wikidata](https://www.wikidata.org/wiki/Q96170) QID Q96170
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

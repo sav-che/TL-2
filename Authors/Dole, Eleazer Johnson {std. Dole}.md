@@ -6,7 +6,7 @@ tl2_surname: Dole
 tl2_forenames: Eleazer Johnson
 tl2_name_abbrev: Dole
 tl2_dates: 1888-x
-tl2_page_id: 33260019
+tl2_bhl_page_id: 33260019
 author_lsid: 13575-1
 wikidata_id: Q21510542
 ipni_surname: Dole
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:32:39.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33260019) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/13575-1), [Wikidata](https://www.wikidata.org/wiki/Q21510542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13575-1) LSID 13575-1, [Wikidata](https://www.wikidata.org/wiki/Q21510542) QID Q21510542
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

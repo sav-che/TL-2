@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol2_0291
 tl2_volume: vol2
 tl2_page_printed: 242
 tl2_surname: Hoffmann
-tl2_forenames: [Heinrich Karl] Hermann
+tl2_forenames: (Heinrich Karl) Hermann
 tl2_name_abbrev: H. Hoffm.
 tl2_dates: 1819-1891
-tl2_page_id: 33068484
+tl2_bhl_page_id: 33068484
 author_lsid: 12555-1
 wikidata_id: Q75367
 ipni_surname: Hoffmann
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33068484) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/12555-1), [Wikidata](https://www.wikidata.org/wiki/Q75367). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12555-1) LSID 12555-1, [Wikidata](https://www.wikidata.org/wiki/Q75367) QID Q75367
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

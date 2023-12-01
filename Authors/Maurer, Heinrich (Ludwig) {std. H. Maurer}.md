@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol3_0433
 tl2_volume: vol3
 tl2_page_printed: 378
 tl2_surname: Maurer
-tl2_forenames: Heinrich [Ludwig]
+tl2_forenames: Heinrich (Ludwig)
 tl2_name_abbrev: H. Maurer
 tl2_dates: 1818-1885
-tl2_page_id: 33355465
+tl2_bhl_page_id: 33355465
 author_lsid: 12676-1
 wikidata_id: Q15782560
 ipni_surname: Maurer
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:25:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33355465) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/12676-1), [Wikidata](https://www.wikidata.org/wiki/Q15782560). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12676-1) LSID 12676-1, [Wikidata](https://www.wikidata.org/wiki/Q15782560) QID Q15782560
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

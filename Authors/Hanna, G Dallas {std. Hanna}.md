@@ -6,7 +6,7 @@ tl2_surname: Hanna
 tl2_forenames: G Dallas
 tl2_name_abbrev: Hanna
 tl2_dates: 1887-1970
-tl2_page_id: 33068287
+tl2_bhl_page_id: 33068287
 author_lsid: 3621-1
 wikidata_id: Q3093467
 ipni_surname: Hanna
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3621-1), [Wikidata](https://www.wikidata.org/wiki/Q3093467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3621-1) LSID 3621-1, [Wikidata](https://www.wikidata.org/wiki/Q3093467) QID Q3093467
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

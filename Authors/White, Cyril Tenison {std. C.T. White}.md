@@ -6,7 +6,7 @@ tl2_surname: White
 tl2_forenames: Cyril Tenison
 tl2_name_abbrev: C.T. White
 tl2_dates: 1890-1950
-tl2_page_id: 33066587
+tl2_bhl_page_id: 33066587
 author_lsid: 11615-1
 wikidata_id: Q685291
 ipni_surname: White
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:45:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33066587) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11615-1), [Wikidata](https://www.wikidata.org/wiki/Q685291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11615-1) LSID 11615-1, [Wikidata](https://www.wikidata.org/wiki/Q685291) QID Q685291
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

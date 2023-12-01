@@ -6,7 +6,7 @@ tl2_surname: Schneider
 tl2_forenames: Josef
 tl2_name_abbrev: Jos. Schneid.
 tl2_dates: x-1885
-tl2_page_id: 33333414
+tl2_bhl_page_id: 33333414
 author_lsid: 35152-1
 wikidata_id: Q21608222
 ipni_surname: Schneider
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/35152-1), [Wikidata](https://www.wikidata.org/wiki/Q21608222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/35152-1) LSID 35152-1, [Wikidata](https://www.wikidata.org/wiki/Q21608222) QID Q21608222
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

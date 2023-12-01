@@ -6,7 +6,7 @@ tl2_surname: Orton
 tl2_forenames: Clayton Roberts
 tl2_name_abbrev: Orton
 tl2_dates: 1885-1955
-tl2_page_id: 33355937
+tl2_bhl_page_id: 33355937
 author_lsid: 24389-1
 wikidata_id: Q21522439
 ipni_surname: Orton
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33355937) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/24389-1), [Wikidata](https://www.wikidata.org/wiki/Q21522439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24389-1) LSID 24389-1, [Wikidata](https://www.wikidata.org/wiki/Q21522439) QID Q21522439
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

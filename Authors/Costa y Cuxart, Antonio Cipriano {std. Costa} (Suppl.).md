@@ -6,7 +6,7 @@ tl2_surname: Costa y Cuxart
 tl2_forenames: Antonio Cipriano
 tl2_name_abbrev: Costa
 tl2_dates: 1817-1886
-tl2_page_id: 33266073
+tl2_bhl_page_id: 33266073
 author_lsid: 1823-1
 wikidata_id: Q5698064
 ipni_surname: Costa y Cuxart
@@ -24,7 +24,8 @@ ipni_record_modified: 2008-04-21 11:26:58.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266073) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1823-1), [Wikidata](https://www.wikidata.org/wiki/Q5698064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1823-1) LSID 1823-1, [Wikidata](https://www.wikidata.org/wiki/Q5698064) QID Q5698064
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Costa y Cuxart, Antonio Cipriano {std. Costa}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Uslar
 tl2_forenames: Johann Julius von
 tl2_name_abbrev: Uslar
 tl2_dates: 1762-1838
-tl2_page_id: 33212663
+tl2_bhl_page_id: 33212663
 author_lsid: 11003-1
 wikidata_id: Q21611289
 ipni_surname: Uslar
@@ -24,7 +24,8 @@ ipni_record_modified: 2015-12-19 01:45:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33212663) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/11003-1), [Wikidata](https://www.wikidata.org/wiki/Q21611289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11003-1) LSID 11003-1, [Wikidata](https://www.wikidata.org/wiki/Q21611289) QID Q21611289
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

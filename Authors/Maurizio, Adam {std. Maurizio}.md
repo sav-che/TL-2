@@ -6,7 +6,7 @@ tl2_surname: Maurizio
 tl2_forenames: Adam
 tl2_name_abbrev: Maurizio
 tl2_dates: 1862-1941
-tl2_page_id: 33355466
+tl2_bhl_page_id: 33355466
 author_lsid: 6261-1
 wikidata_id: Q350393
 ipni_surname: Maurizio
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33355466) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6261-1), [Wikidata](https://www.wikidata.org/wiki/Q350393). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6261-1) LSID 6261-1, [Wikidata](https://www.wikidata.org/wiki/Q350393) QID Q350393
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

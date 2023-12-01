@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0442
 tl2_volume: vol5
 tl2_page_printed: 467
 tl2_surname: Sebastiani
-tl2_forenames: [Francesco] Antonio
+tl2_forenames: (Francesco) Antonio
 tl2_name_abbrev: Sebast.
 tl2_dates: 1782-1821
-tl2_page_id: 33333606
+tl2_bhl_page_id: 33333606
 author_lsid: 9405-1
 wikidata_id: Q5864745
 ipni_surname: Sebastiani
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:51:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33333606) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9405-1), [Wikidata](https://www.wikidata.org/wiki/Q5864745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9405-1) LSID 9405-1, [Wikidata](https://www.wikidata.org/wiki/Q5864745) QID Q5864745
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

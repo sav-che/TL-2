@@ -6,7 +6,7 @@ tl2_surname: Matsumura
 tl2_forenames: Jinzô
 tl2_name_abbrev: Matsum.
 tl2_dates: 1856-1928
-tl2_page_id: 33355455
+tl2_bhl_page_id: 33355455
 author_lsid: 23052-1
 wikidata_id: Q3179271
 ipni_surname: Matsumura
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:52:25.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33355455) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23052-1), [Wikidata](https://www.wikidata.org/wiki/Q3179271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23052-1) LSID 23052-1, [Wikidata](https://www.wikidata.org/wiki/Q3179271) QID Q3179271
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

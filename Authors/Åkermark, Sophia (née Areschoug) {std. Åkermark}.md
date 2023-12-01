@@ -6,7 +6,7 @@ tl2_surname: Åkermark
 tl2_forenames: Sophia (née Areschoug)
 tl2_name_abbrev: Åkermark
 tl2_dates: 1817-1882
-tl2_page_id: 33120157
+tl2_bhl_page_id: 33120157
 author_lsid: 12321-1
 wikidata_id: Q10373419
 ipni_surname: Åkermark
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/12321-1), [Wikidata](https://www.wikidata.org/wiki/Q10373419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12321-1) LSID 12321-1, [Wikidata](https://www.wikidata.org/wiki/Q10373419) QID Q10373419
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Pobedimova
 tl2_forenames: Evgeniia Georgievna
 tl2_name_abbrev: Pobed.
 tl2_dates: 1898-1973
-tl2_page_id: 33189775
+tl2_bhl_page_id: 33189775
 author_lsid: 7769-1
 wikidata_id: Q6169986
 ipni_surname: Pobedimova
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:43:26.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7769-1), [Wikidata](https://www.wikidata.org/wiki/Q6169986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7769-1) LSID 7769-1, [Wikidata](https://www.wikidata.org/wiki/Q6169986) QID Q6169986
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

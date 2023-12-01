@@ -6,7 +6,7 @@ tl2_surname: Soest
 tl2_forenames: Johannes Leendert van
 tl2_name_abbrev: Soest
 tl2_dates: 1898-1983
-tl2_page_id: 33333858
+tl2_bhl_page_id: 33333858
 author_lsid: 9862-1
 wikidata_id: Q21447526
 ipni_surname: Soest
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:52:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9862-1), [Wikidata](https://www.wikidata.org/wiki/Q21447526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9862-1) LSID 9862-1, [Wikidata](https://www.wikidata.org/wiki/Q21447526) QID Q21447526
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

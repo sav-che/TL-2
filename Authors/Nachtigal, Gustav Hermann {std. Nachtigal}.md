@@ -6,7 +6,7 @@ tl2_surname: Nachtigal
 tl2_forenames: Gustav Hermann
 tl2_name_abbrev: Nachtigal
 tl2_dates: 1834-1885
-tl2_page_id: 33355767
+tl2_bhl_page_id: 33355767
 author_lsid: 6828-1
 wikidata_id: Q60549
 ipni_surname: Nachtigal
@@ -27,7 +27,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33355767) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6828-1), [Wikidata](https://www.wikidata.org/wiki/Q60549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6828-1) LSID 6828-1, [Wikidata](https://www.wikidata.org/wiki/Q60549) QID Q60549
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

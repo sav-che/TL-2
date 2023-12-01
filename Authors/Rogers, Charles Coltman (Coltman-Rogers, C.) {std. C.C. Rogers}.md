@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol4_0864
 tl2_volume: vol4
 tl2_page_printed: 856
 tl2_surname: Rogers
-tl2_forenames: Charles Coltman [Coltman-C.]
+tl2_forenames: Charles Coltman (Coltman-C.)
 tl2_name_abbrev: C.C. Rogers
 tl2_dates: 1854-1929
-tl2_page_id: 33190327
+tl2_bhl_page_id: 33190327
 author_lsid: 14653-1
 wikidata_id: Q1280733
 ipni_surname: Coltman-Rogers
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:25:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33190327) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/14653-1), [Wikidata](https://www.wikidata.org/wiki/Q1280733). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14653-1) LSID 14653-1, [Wikidata](https://www.wikidata.org/wiki/Q1280733) QID Q1280733
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

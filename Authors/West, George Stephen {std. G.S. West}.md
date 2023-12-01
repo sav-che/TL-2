@@ -6,7 +6,7 @@ tl2_surname: West
 tl2_forenames: George Stephen
 tl2_name_abbrev: G.S. West
 tl2_dates: 1876-1919
-tl2_page_id: 33066541
+tl2_bhl_page_id: 33066541
 author_lsid: 11577-1
 wikidata_id: Q15983743
 ipni_surname: West
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:29:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11577-1), [Wikidata](https://www.wikidata.org/wiki/Q15983743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11577-1) LSID 11577-1, [Wikidata](https://www.wikidata.org/wiki/Q15983743) QID Q15983743
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

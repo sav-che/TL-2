@@ -6,7 +6,7 @@ tl2_surname: Waldschmidt
 tl2_forenames: J.
 tl2_name_abbrev: Waldschmidt
 tl2_dates: fl. 1865
-tl2_page_id: 33066370
+tl2_bhl_page_id: 33066370
 author_lsid: 11332-1
 wikidata_id: Q36601456
 ipni_surname: Waldschmidt
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:42:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11332-1), [Wikidata](https://www.wikidata.org/wiki/Q36601456). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11332-1) LSID 11332-1, [Wikidata](https://www.wikidata.org/wiki/Q36601456) QID Q36601456
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

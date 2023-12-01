@@ -6,7 +6,7 @@ tl2_surname: Lorey
 tl2_forenames: Félix-Nicolas
 tl2_name_abbrev: F. Lorey
 tl2_dates: x-1841
-tl2_page_id: 33355249
+tl2_bhl_page_id: 33355249
 author_lsid: 5757-1
 wikidata_id: Q21519507
 ipni_surname: Lorey
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33355249) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5757-1), [Wikidata](https://www.wikidata.org/wiki/Q21519507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5757-1) LSID 5757-1, [Wikidata](https://www.wikidata.org/wiki/Q21519507) QID Q21519507
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

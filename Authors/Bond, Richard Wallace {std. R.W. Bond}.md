@@ -6,7 +6,7 @@ tl2_surname: Bond
 tl2_forenames: Richard Wallace
 tl2_name_abbrev: R.W. Bond
 tl2_dates: 1914-1976
-tl2_page_id: 33265506
+tl2_bhl_page_id: 33265506
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265506) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

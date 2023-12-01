@@ -6,7 +6,7 @@ tl2_surname: Bailey
 tl2_forenames: Jacob Whitman
 tl2_name_abbrev: J.W. Bailey
 tl2_dates: 1811-1857
-tl2_page_id: 33120224
+tl2_bhl_page_id: 33120224
 author_lsid: 394-1
 wikidata_id: Q3301476
 ipni_surname: Bailey
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-02-13 15:51:12.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33120224) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/394-1), [Wikidata](https://www.wikidata.org/wiki/Q3301476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/394-1) LSID 394-1, [Wikidata](https://www.wikidata.org/wiki/Q3301476) QID Q3301476
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bailey, Jacob Whitman {std. J.W. Bailey} (Suppl.)|second entry]] for this author
 

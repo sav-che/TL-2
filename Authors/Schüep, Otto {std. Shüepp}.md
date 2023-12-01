@@ -6,27 +6,30 @@ tl2_surname: Schüep
 tl2_forenames: Otto
 tl2_name_abbrev: Shüepp
 tl2_dates: 1888-x
-tl2_page_id: 33333500
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
-ipni_dates: 
-ipni_taxon_scope: 
-ipni_geo_scope: 
-ipni_version: 
-ipni_record_created: 
+tl2_bhl_page_id: 33333500
+author_lsid: 9280-1
+wikidata_id: Q21608461
+ipni_surname: Schüep
+ipni_forenames: Otto
+ipni_standard_form: Schüep
+ipni_dates:
+ipni_taxon_scope:
+- Botany
+- Spermatophytes
+ipni_geo_scope:
+ipni_version: 1.2
+ipni_record_created:
 ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33333500) of TL-2 Vol. V
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9280-1) LSID 9280-1, [Wikidata](https://www.wikidata.org/wiki/Q21608461) QID Q21608461
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
 Schüep, Otto (1888-x), Swiss botanist, student of C. Schröter; Dr. phil. Zürich 1911, subsequently lecturer in botany at the University of Basel. 
-**Abbreviated name**: *Shüepp*
+**Abbreviated name**: *Shüepp* \[standard form in IPNI: *Schüep*\]
 
 #### Herbarium and types
 

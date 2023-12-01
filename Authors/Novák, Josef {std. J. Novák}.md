@@ -6,7 +6,7 @@ tl2_surname: Novák
 tl2_forenames: Josef
 tl2_name_abbrev: J. Novák
 tl2_dates: 1846-1917
-tl2_page_id: 33355866
+tl2_bhl_page_id: 33355866
 author_lsid: 7050-1
 wikidata_id: Q21516229
 ipni_surname: Novák
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7050-1), [Wikidata](https://www.wikidata.org/wiki/Q21516229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7050-1) LSID 7050-1, [Wikidata](https://www.wikidata.org/wiki/Q21516229) QID Q21516229
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

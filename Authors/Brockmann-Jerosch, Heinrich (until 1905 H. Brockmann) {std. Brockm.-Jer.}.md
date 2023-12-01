@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl3_0097
 tl2_volume: suppl3
 tl2_page_printed: 110
 tl2_surname: Brockmann-Jerosch
-tl2_forenames: Heinrich [until 1905 H. Brockmann]
+tl2_forenames: Heinrich (until 1905 H. Brockmann)
 tl2_name_abbrev: Brockm.-Jer.
 tl2_dates: 1879-1939
-tl2_page_id: 33266417
+tl2_bhl_page_id: 33266417
 author_lsid: 12362-1
 wikidata_id: Q121971
 ipni_surname: Brockmann-Jerosch
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:33:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33266417) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/12362-1), [Wikidata](https://www.wikidata.org/wiki/Q121971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12362-1) LSID 12362-1, [Wikidata](https://www.wikidata.org/wiki/Q121971) QID Q121971
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

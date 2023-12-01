@@ -6,7 +6,7 @@ tl2_surname: Chaboisseau
 tl2_forenames: Théodore
 tl2_name_abbrev: Chaboiss.
 tl2_dates: 1828-1894
-tl2_page_id: 33265712
+tl2_bhl_page_id: 33265712
 author_lsid: 1488-1
 wikidata_id: Q21341948
 ipni_surname: Chaboisseau
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:40:59.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265712) of TL-2 Suppl. IV
-> Author links: [IPNI](https://www.ipni.org/a/1488-1), [Wikidata](https://www.wikidata.org/wiki/Q21341948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1488-1) LSID 1488-1, [Wikidata](https://www.wikidata.org/wiki/Q21341948) QID Q21341948
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

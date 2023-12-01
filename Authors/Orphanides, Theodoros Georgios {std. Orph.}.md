@@ -6,7 +6,7 @@ tl2_surname: Orphanides
 tl2_forenames: Theodoros Georgios
 tl2_name_abbrev: Orph.
 tl2_dates: 1817-1886
-tl2_page_id: 33355933
+tl2_bhl_page_id: 33355933
 author_lsid: 7167-1
 wikidata_id: Q712566
 ipni_surname: Orphanides
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:47:05.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/7167-1), [Wikidata](https://www.wikidata.org/wiki/Q712566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7167-1) LSID 7167-1, [Wikidata](https://www.wikidata.org/wiki/Q712566) QID Q712566
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

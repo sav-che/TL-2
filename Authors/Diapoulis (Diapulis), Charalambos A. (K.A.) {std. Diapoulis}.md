@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_suppl5_0297
 tl2_volume: suppl5
 tl2_page_printed: 284
-tl2_surname: Diapoulis [Diapulis]
-tl2_forenames: Charalambos A. [K.A.]
+tl2_surname: Diapoulis (Diapulis)
+tl2_forenames: Charalambos A. (K.A.)
 tl2_name_abbrev: Diapoulis
 tl2_dates: fl. 1933-1958
-tl2_page_id: 33259330
+tl2_bhl_page_id: 33259330
 author_lsid: 39222-1
 wikidata_id: Q5764729
 ipni_surname: Diapoulis
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33259330) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/39222-1), [Wikidata](https://www.wikidata.org/wiki/Q5764729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/39222-1) LSID 39222-1, [Wikidata](https://www.wikidata.org/wiki/Q5764729) QID Q5764729
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

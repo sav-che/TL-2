@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0091
 tl2_volume: suppl1
 tl2_page_printed: 68
 tl2_surname: Allan
-tl2_forenames: Harry Howard [Barton]
+tl2_forenames: Harry Howard (Barton)
 tl2_name_abbrev: H.H. Allan
 tl2_dates: 1882-1957
-tl2_page_id: 33264795
+tl2_bhl_page_id: 33264795
 author_lsid: 141-1
 wikidata_id: Q3296972
 ipni_surname: Allan
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:25:21.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33264795) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/141-1), [Wikidata](https://www.wikidata.org/wiki/Q3296972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/141-1) LSID 141-1, [Wikidata](https://www.wikidata.org/wiki/Q3296972) QID Q3296972
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

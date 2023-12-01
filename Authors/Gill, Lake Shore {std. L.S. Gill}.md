@@ -6,7 +6,7 @@ tl2_surname: Gill
 tl2_forenames: Lake Shore
 tl2_name_abbrev: L.S. Gill
 tl2_dates: 1900-1969
-tl2_page_id: 33258696
+tl2_bhl_page_id: 33258696
 author_lsid: 13405-1
 wikidata_id: Q21514002
 ipni_surname: Gill
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:36:06.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33258696) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/13405-1), [Wikidata](https://www.wikidata.org/wiki/Q21514002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/13405-1) LSID 13405-1, [Wikidata](https://www.wikidata.org/wiki/Q21514002) QID Q21514002
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

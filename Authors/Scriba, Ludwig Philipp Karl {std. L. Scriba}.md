@@ -6,7 +6,7 @@ tl2_surname: Scriba
 tl2_forenames: Ludwig Philipp Karl
 tl2_name_abbrev: L. Scriba
 tl2_dates: 1847-1933
-tl2_page_id: 33333603
+tl2_bhl_page_id: 33333603
 author_lsid: 9396-1
 wikidata_id: Q21387894
 ipni_surname: Scriba
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9396-1), [Wikidata](https://www.wikidata.org/wiki/Q21387894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9396-1) LSID 9396-1, [Wikidata](https://www.wikidata.org/wiki/Q21387894) QID Q21387894
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

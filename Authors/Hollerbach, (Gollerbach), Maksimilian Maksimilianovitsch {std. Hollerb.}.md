@@ -6,7 +6,7 @@ tl2_surname: Hollerbach (Gollerbach)
 tl2_forenames: Maksimilian Maksimilianovitsch
 tl2_name_abbrev: Hollerb.
 tl2_dates: 1907-x
-tl2_page_id: 33068498
+tl2_bhl_page_id: 33068498
 author_lsid: 29324-1
 wikidata_id: Q7286453
 ipni_surname: Hollerbach
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33068498) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/29324-1), [Wikidata](https://www.wikidata.org/wiki/Q7286453). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/29324-1) LSID 29324-1, [Wikidata](https://www.wikidata.org/wiki/Q7286453) QID Q7286453
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

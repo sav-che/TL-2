@@ -6,7 +6,7 @@ tl2_surname: Seward
 tl2_forenames: Albert Charles
 tl2_name_abbrev: Seward
 tl2_dates: 1863-1941
-tl2_page_id: 33333678
+tl2_bhl_page_id: 33333678
 author_lsid: 26557-1
 wikidata_id: Q951610
 ipni_surname: Seward
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:43:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26557-1), [Wikidata](https://www.wikidata.org/wiki/Q951610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26557-1) LSID 26557-1, [Wikidata](https://www.wikidata.org/wiki/Q951610) QID Q951610
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

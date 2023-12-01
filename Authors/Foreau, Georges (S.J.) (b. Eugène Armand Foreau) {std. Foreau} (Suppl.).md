@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0208
 tl2_volume: suppl7
 tl2_page_printed: 314
 tl2_surname: Foreau
-tl2_forenames: Georges (S.J.) [b. Eugène Armand Foreau]
+tl2_forenames: Georges (S.J.) (b. Eugène Armand Foreau)
 tl2_name_abbrev: Foreau
 tl2_dates: 1882-1967
-tl2_page_id: 33259818
+tl2_bhl_page_id: 33259818
 author_lsid: 2822-1
 wikidata_id: Q21513337
 ipni_surname: Foreau
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33259818) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2822-1), [Wikidata](https://www.wikidata.org/wiki/Q21513337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2822-1) LSID 2822-1, [Wikidata](https://www.wikidata.org/wiki/Q21513337) QID Q21513337
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Foreau, Georges {std. Foreau}|first entry]] for this author
 

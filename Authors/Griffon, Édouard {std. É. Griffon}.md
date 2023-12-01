@@ -6,7 +6,7 @@ tl2_surname: Griffon
 tl2_forenames: Édouard
 tl2_name_abbrev: É. Griffon
 tl2_dates: 1869-1912
-tl2_page_id: 33258869
+tl2_bhl_page_id: 33258869
 author_lsid: 19635-1
 wikidata_id: Q21514283
 ipni_surname: Griffon
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:38:23.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33258869) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19635-1), [Wikidata](https://www.wikidata.org/wiki/Q21514283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19635-1) LSID 19635-1, [Wikidata](https://www.wikidata.org/wiki/Q21514283) QID Q21514283
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Davis
 tl2_forenames: Bradley Moore
 tl2_name_abbrev: B.M. Davis
 tl2_dates: 1871-1957
-tl2_page_id: 33259146
+tl2_bhl_page_id: 33259146
 author_lsid: 14661-1
 wikidata_id: Q4954987
 ipni_surname: Davis
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:34.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33259146) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/14661-1), [Wikidata](https://www.wikidata.org/wiki/Q4954987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/14661-1) LSID 14661-1, [Wikidata](https://www.wikidata.org/wiki/Q4954987) QID Q4954987
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

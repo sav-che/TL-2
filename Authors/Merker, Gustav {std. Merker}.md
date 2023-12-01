@@ -6,7 +6,7 @@ tl2_surname: Merker
 tl2_forenames: Gustav
 tl2_name_abbrev: Merker
 tl2_dates: 1874-x
-tl2_page_id: 33355511
+tl2_bhl_page_id: 33355511
 author_lsid: 6371-1
 wikidata_id: Q21520445
 ipni_surname: Merker
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6371-1), [Wikidata](https://www.wikidata.org/wiki/Q21520445). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6371-1) LSID 6371-1, [Wikidata](https://www.wikidata.org/wiki/Q21520445) QID Q21520445
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

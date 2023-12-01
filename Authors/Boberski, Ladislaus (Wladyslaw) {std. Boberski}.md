@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0293
 tl2_volume: suppl2
 tl2_page_printed: 238
 tl2_surname: Boberski
-tl2_forenames: Ladislaus [Wladyslaw]
+tl2_forenames: Ladislaus (Wladyslaw)
 tl2_name_abbrev: Boberski
 tl2_dates: 1846-1891/2
-tl2_page_id: 33265435
+tl2_bhl_page_id: 33265435
 author_lsid: 16242-1
 wikidata_id: Q21390508
 ipni_surname: Boberski
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:10.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33265435) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16242-1), [Wikidata](https://www.wikidata.org/wiki/Q21390508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16242-1) LSID 16242-1, [Wikidata](https://www.wikidata.org/wiki/Q21390508) QID Q21390508
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

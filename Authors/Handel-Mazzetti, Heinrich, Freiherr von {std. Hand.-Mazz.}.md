@@ -6,7 +6,7 @@ tl2_surname: Handel-Mazzetti
 tl2_forenames: Heinrich, Freiherr von
 tl2_name_abbrev: Hand.-Mazz.
 tl2_dates: 1882-1940
-tl2_page_id: 33068285
+tl2_bhl_page_id: 33068285
 author_lsid: 3612-1
 wikidata_id: Q134118
 ipni_surname: Handel-Mazzetti
@@ -31,7 +31,8 @@ ipni_record_modified: 2013-05-15 11:42:33.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33068285) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3612-1), [Wikidata](https://www.wikidata.org/wiki/Q134118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3612-1) LSID 3612-1, [Wikidata](https://www.wikidata.org/wiki/Q134118) QID Q134118
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

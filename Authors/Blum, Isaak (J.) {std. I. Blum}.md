@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl2_0283
 tl2_volume: suppl2
 tl2_page_printed: 225
 tl2_surname: Blum
-tl2_forenames: Isaak [J.]
+tl2_forenames: Isaak (J.)
 tl2_name_abbrev: I. Blum
 tl2_dates: 1833-1903
-tl2_page_id: 33265422
+tl2_bhl_page_id: 33265422
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33265422) of TL-2 Suppl. II
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

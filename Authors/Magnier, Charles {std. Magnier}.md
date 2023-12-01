@@ -6,7 +6,7 @@ tl2_surname: Magnier
 tl2_forenames: Charles
 tl2_name_abbrev: Magnier
 tl2_dates: fl. 1882
-tl2_page_id: 33355328
+tl2_bhl_page_id: 33355328
 author_lsid: 5980-1
 wikidata_id: Q47121725
 ipni_surname: Magnier
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:30:42.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33355328) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/5980-1), [Wikidata](https://www.wikidata.org/wiki/Q47121725). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5980-1) LSID 5980-1, [Wikidata](https://www.wikidata.org/wiki/Q47121725) QID Q47121725
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

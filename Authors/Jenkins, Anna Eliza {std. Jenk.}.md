@@ -6,7 +6,7 @@ tl2_surname: Jenkins
 tl2_forenames: Anna Eliza
 tl2_name_abbrev: Jenk.
 tl2_dates: 1886-1973
-tl2_page_id: 33068677
+tl2_bhl_page_id: 33068677
 author_lsid: 4465-1
 wikidata_id: Q20811065
 ipni_surname: Jenkins
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4465-1), [Wikidata](https://www.wikidata.org/wiki/Q20811065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4465-1) LSID 4465-1, [Wikidata](https://www.wikidata.org/wiki/Q20811065) QID Q20811065
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

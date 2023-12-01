@@ -6,7 +6,7 @@ tl2_surname: Rendle
 tl2_forenames: Alfred Barton
 tl2_name_abbrev: Rendle
 tl2_dates: 1865-1938
-tl2_page_id: 33190198
+tl2_bhl_page_id: 33190198
 author_lsid: 8287-1
 wikidata_id: Q2615406
 ipni_surname: Rendle
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8287-1), [Wikidata](https://www.wikidata.org/wiki/Q2615406). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8287-1) LSID 8287-1, [Wikidata](https://www.wikidata.org/wiki/Q2615406) QID Q2615406
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

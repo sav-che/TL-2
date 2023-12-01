@@ -6,7 +6,7 @@ tl2_surname: Rota
 tl2_forenames: Lorenzo
 tl2_name_abbrev: Rota
 tl2_dates: 1819-1855
-tl2_page_id: 33190387
+tl2_bhl_page_id: 33190387
 author_lsid: 8636-1
 wikidata_id: Q21607455
 ipni_surname: Rota
@@ -25,7 +25,8 @@ ipni_record_modified: 2013-05-15 11:32:32.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8636-1), [Wikidata](https://www.wikidata.org/wiki/Q21607455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8636-1) LSID 8636-1, [Wikidata](https://www.wikidata.org/wiki/Q21607455) QID Q21607455
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

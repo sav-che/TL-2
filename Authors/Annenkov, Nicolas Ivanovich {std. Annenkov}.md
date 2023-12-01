@@ -6,7 +6,7 @@ tl2_surname: Annenkov
 tl2_forenames: Nicolas Ivanovich
 tl2_name_abbrev: Annenkov
 tl2_dates: 1819-1889
-tl2_page_id: 33120184
+tl2_bhl_page_id: 33120184
 author_lsid: 228-1
 wikidata_id: Q21505271
 ipni_surname: Annenkov
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33120184) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/228-1), [Wikidata](https://www.wikidata.org/wiki/Q21505271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/228-1) LSID 228-1, [Wikidata](https://www.wikidata.org/wiki/Q21505271) QID Q21505271
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

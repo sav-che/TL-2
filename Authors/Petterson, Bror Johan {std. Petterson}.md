@@ -6,7 +6,7 @@ tl2_surname: Petterson
 tl2_forenames: Bror Johan
 tl2_name_abbrev: Petterson
 tl2_dates: 1895-x
-tl2_page_id: 33189683
+tl2_bhl_page_id: 33189683
 author_lsid: 7604-1
 wikidata_id: Q5734293
 ipni_surname: Pettersson
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:46:03.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33189683) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7604-1), [Wikidata](https://www.wikidata.org/wiki/Q5734293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7604-1) LSID 7604-1, [Wikidata](https://www.wikidata.org/wiki/Q5734293) QID Q5734293
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

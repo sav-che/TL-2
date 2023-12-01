@@ -6,7 +6,7 @@ tl2_surname: Haenke
 tl2_forenames: Thaddaeus (Tadeáš) Peregrinus Xaverius
 tl2_name_abbrev: Haenke
 tl2_dates: 1761-1816
-tl2_page_id: 33068248
+tl2_bhl_page_id: 33068248
 author_lsid: 3535-1
 wikidata_id: Q79107
 ipni_surname: Haenke
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3535-1), [Wikidata](https://www.wikidata.org/wiki/Q79107). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3535-1) LSID 3535-1, [Wikidata](https://www.wikidata.org/wiki/Q79107) QID Q79107
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

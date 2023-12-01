@@ -3,10 +3,10 @@ tl2_entry_id: tl2_vol5_0383
 tl2_volume: vol5
 tl2_page_printed: 397
 tl2_surname: Schumacher
-tl2_forenames: [Heinrich] Christian Friederich
+tl2_forenames: (Heinrich) Christian Friederich
 tl2_name_abbrev: Schumach.
 tl2_dates: 1757-1830
-tl2_page_id: 33333536
+tl2_bhl_page_id: 33333536
 author_lsid: 26378-1
 wikidata_id: Q66153
 ipni_surname: Schumacher
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:54:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33333536) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/26378-1), [Wikidata](https://www.wikidata.org/wiki/Q66153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/26378-1) LSID 26378-1, [Wikidata](https://www.wikidata.org/wiki/Q66153) QID Q66153
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Strecker
 tl2_forenames: Wilhelm
 tl2_name_abbrev: Strecker
 tl2_dates: 1858-1934
-tl2_page_id: 33212048
+tl2_bhl_page_id: 33212048
 author_lsid: 10210-1
 wikidata_id: Q2575289
 ipni_surname: Strecker
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:48:27.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33212048) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10210-1), [Wikidata](https://www.wikidata.org/wiki/Q2575289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10210-1) LSID 10210-1, [Wikidata](https://www.wikidata.org/wiki/Q2575289) QID Q2575289
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

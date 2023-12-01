@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0030
 tl2_volume: suppl8
 tl2_page_printed: 47
 tl2_surname: Fritsch
-tl2_forenames: Carl [Karl]
+tl2_forenames: Carl (Karl)
 tl2_name_abbrev: C. Fritsch
 tl2_dates: 1812-1879
-tl2_page_id: 33258487
+tl2_bhl_page_id: 33258487
 author_lsid: 
 wikidata_id: 
 ipni_surname: 
@@ -21,7 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33258487) of TL-2 Suppl. VIII
-> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

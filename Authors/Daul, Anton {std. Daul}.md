@@ -6,7 +6,7 @@ tl2_surname: Daul
 tl2_forenames: Anton
 tl2_name_abbrev: Daul
 tl2_dates: 1821-?
-tl2_page_id: 33259132
+tl2_bhl_page_id: 33259132
 author_lsid: 20016247-2
 wikidata_id: Q21509877
 ipni_surname: Daul
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/20016247-2), [Wikidata](https://www.wikidata.org/wiki/Q21509877). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20016247-2) LSID 20016247-2, [Wikidata](https://www.wikidata.org/wiki/Q21509877) QID Q21509877
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

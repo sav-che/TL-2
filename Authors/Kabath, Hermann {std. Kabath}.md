@@ -6,7 +6,7 @@ tl2_surname: Kabath
 tl2_forenames: Hermann
 tl2_name_abbrev: Kabath
 tl2_dates: 1816-1888
-tl2_page_id: 33068724
+tl2_bhl_page_id: 33068724
 author_lsid: 4606-1
 wikidata_id: Q18986013
 ipni_surname: Kabath
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4606-1), [Wikidata](https://www.wikidata.org/wiki/Q18986013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4606-1) LSID 4606-1, [Wikidata](https://www.wikidata.org/wiki/Q18986013) QID Q18986013
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

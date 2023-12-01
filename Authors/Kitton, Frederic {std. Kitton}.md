@@ -6,7 +6,7 @@ tl2_surname: Kitton
 tl2_forenames: Frederic
 tl2_name_abbrev: Kitton
 tl2_dates: 1827-1895
-tl2_page_id: 33068800
+tl2_bhl_page_id: 33068800
 author_lsid: 4824-1
 wikidata_id: Q21517571
 ipni_surname: Kitton
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4824-1), [Wikidata](https://www.wikidata.org/wiki/Q21517571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4824-1) LSID 4824-1, [Wikidata](https://www.wikidata.org/wiki/Q21517571) QID Q21517571
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

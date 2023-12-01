@@ -6,7 +6,7 @@ tl2_surname: Wear
 tl2_forenames: Sylvanus
 tl2_name_abbrev: Wear
 tl2_dates: 1858-1920
-tl2_page_id: 33066453
+tl2_bhl_page_id: 33066453
 author_lsid: 11448-1
 wikidata_id: Q7660735
 ipni_surname: Wear
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:40:18.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33066453) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11448-1), [Wikidata](https://www.wikidata.org/wiki/Q7660735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11448-1) LSID 11448-1, [Wikidata](https://www.wikidata.org/wiki/Q7660735) QID Q7660735
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

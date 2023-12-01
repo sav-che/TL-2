@@ -6,7 +6,7 @@ tl2_surname: Wulff
 tl2_forenames: Thorild
 tl2_name_abbrev: T. Wulff
 tl2_dates: 1877-1917
-tl2_page_id: 33066818
+tl2_bhl_page_id: 33066818
 author_lsid: 11902-1
 wikidata_id: Q6247752
 ipni_surname: Wulff
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:51:11.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33066818) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11902-1), [Wikidata](https://www.wikidata.org/wiki/Q6247752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11902-1) LSID 11902-1, [Wikidata](https://www.wikidata.org/wiki/Q6247752) QID Q6247752
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

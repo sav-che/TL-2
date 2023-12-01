@@ -6,7 +6,7 @@ tl2_surname: Post
 tl2_forenames: Hampus Adolf von
 tl2_name_abbrev: H. v. Post
 tl2_dates: 1822-1911
-tl2_page_id: 33189823
+tl2_bhl_page_id: 33189823
 author_lsid: 7879-1
 wikidata_id: Q21523139
 ipni_surname: Post
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33189823) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7879-1), [Wikidata](https://www.wikidata.org/wiki/Q21523139). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7879-1) LSID 7879-1, [Wikidata](https://www.wikidata.org/wiki/Q21523139) QID Q21523139
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Bory de Saint-Vincent
 tl2_forenames: Jean Baptiste Geneviève Marcellin, Baron de
 tl2_name_abbrev: Bory
 tl2_dates: 1778-1846
-tl2_page_id: 33265559
+tl2_bhl_page_id: 33265559
 author_lsid: 16366-1
 wikidata_id: Q1345319
 ipni_surname: Bory
@@ -27,7 +27,8 @@ ipni_record_modified: 2006-04-18 06:48:01.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/16366-1), [Wikidata](https://www.wikidata.org/wiki/Q1345319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/16366-1) LSID 16366-1, [Wikidata](https://www.wikidata.org/wiki/Q1345319) QID Q1345319
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de {std. Bory}|first entry]] for this author
 

@@ -6,7 +6,7 @@ tl2_surname: Elliott
 tl2_forenames: George Francis Scott
 tl2_name_abbrev: G. Elliott
 tl2_dates: 1862-1934
-tl2_page_id: 33120871
+tl2_bhl_page_id: 33120871
 author_lsid: 9393-1
 wikidata_id: Q5877823
 ipni_surname: Scott Elliot
@@ -29,7 +29,8 @@ ipni_record_modified: 2014-04-22 13:34:24.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/9393-1), [Wikidata](https://www.wikidata.org/wiki/Q5877823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9393-1) LSID 9393-1, [Wikidata](https://www.wikidata.org/wiki/Q5877823) QID Q5877823
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

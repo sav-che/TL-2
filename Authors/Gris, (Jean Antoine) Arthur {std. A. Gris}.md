@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0286
 tl2_volume: suppl8
 tl2_page_printed: 398
 tl2_surname: Gris
-tl2_forenames: [Jean Antoine] Arthur
+tl2_forenames: (Jean Antoine) Arthur
 tl2_name_abbrev: A. Gris
 tl2_dates: 1829-1873
-tl2_page_id: 33258876
+tl2_bhl_page_id: 33258876
 author_lsid: 3395-1
 wikidata_id: Q797799
 ipni_surname: Gris
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:37:55.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33258876) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/3395-1), [Wikidata](https://www.wikidata.org/wiki/Q797799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3395-1) LSID 3395-1, [Wikidata](https://www.wikidata.org/wiki/Q797799) QID Q797799
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

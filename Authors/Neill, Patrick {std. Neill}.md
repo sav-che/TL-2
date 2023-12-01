@@ -6,7 +6,7 @@ tl2_surname: Neill
 tl2_forenames: Patrick
 tl2_name_abbrev: Neill
 tl2_dates: 1776-1851
-tl2_page_id: 33355805
+tl2_bhl_page_id: 33355805
 author_lsid: 6898-1
 wikidata_id: Q7147324
 ipni_surname: Neill
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33355805) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6898-1), [Wikidata](https://www.wikidata.org/wiki/Q7147324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6898-1) LSID 6898-1, [Wikidata](https://www.wikidata.org/wiki/Q7147324) QID Q7147324
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

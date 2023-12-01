@@ -6,7 +6,7 @@ tl2_surname: Briard
 tl2_forenames: Pierre-Alfred
 tl2_name_abbrev: Briard
 tl2_dates: 1811-1896
-tl2_page_id: 33266378
+tl2_bhl_page_id: 33266378
 author_lsid: 31986-1
 wikidata_id: Q21506476
 ipni_surname: Briard
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33266378) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/31986-1), [Wikidata](https://www.wikidata.org/wiki/Q21506476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/31986-1) LSID 31986-1, [Wikidata](https://www.wikidata.org/wiki/Q21506476) QID Q21506476
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Briard, Pierre Alfred {std. Briard}|first entry]] for this author
 

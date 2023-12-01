@@ -6,7 +6,7 @@ tl2_surname: Piré
 tl2_forenames: Louis Alexandre Henri Joseph
 tl2_name_abbrev: Piré
 tl2_dates: 1827-1887
-tl2_page_id: 33189743
+tl2_bhl_page_id: 33189743
 author_lsid: 24886-1
 wikidata_id: Q6686606
 ipni_surname: Piré
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/24886-1), [Wikidata](https://www.wikidata.org/wiki/Q6686606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/24886-1) LSID 24886-1, [Wikidata](https://www.wikidata.org/wiki/Q6686606) QID Q6686606
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

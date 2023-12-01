@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl8_0095
 tl2_volume: suppl8
 tl2_page_printed: 134
 tl2_surname: Gassner
-tl2_forenames: [Johann] Gustav
+tl2_forenames: (Johann) Gustav
 tl2_name_abbrev: Gassner
 tl2_dates: 1881-1955
-tl2_page_id: 33258612
+tl2_bhl_page_id: 33258612
 author_lsid: 19189-1
 wikidata_id: Q69656
 ipni_surname: Gassner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:50:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33258612) of TL-2 Suppl. VIII
-> Author links: [IPNI](https://www.ipni.org/a/19189-1), [Wikidata](https://www.wikidata.org/wiki/Q69656). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/19189-1) LSID 19189-1, [Wikidata](https://www.wikidata.org/wiki/Q69656) QID Q69656
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

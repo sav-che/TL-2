@@ -6,7 +6,7 @@ tl2_surname: Smith
 tl2_forenames: William Wright
 tl2_name_abbrev: Wm.W. Sm.
 tl2_dates: 1875-1956
-tl2_page_id: 33333844
+tl2_bhl_page_id: 33333844
 author_lsid: 9823-1
 wikidata_id: Q1278792
 ipni_surname: Smith
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:41:04.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33333844) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9823-1), [Wikidata](https://www.wikidata.org/wiki/Q1278792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9823-1) LSID 9823-1, [Wikidata](https://www.wikidata.org/wiki/Q1278792) QID Q1278792
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

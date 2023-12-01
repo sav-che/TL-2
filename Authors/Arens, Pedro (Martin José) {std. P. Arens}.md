@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0198
 tl2_volume: suppl1
 tl2_page_printed: 154
 tl2_surname: Arens
-tl2_forenames: Pedro [Martin José]
+tl2_forenames: Pedro (Martin José)
 tl2_name_abbrev: P. Arens
 tl2_dates: 1884-1954
-tl2_page_id: 33264881
+tl2_bhl_page_id: 33264881
 author_lsid: 30960-1
 wikidata_id: Q21505316
 ipni_surname: Arens
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30960-1), [Wikidata](https://www.wikidata.org/wiki/Q21505316). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30960-1) LSID 30960-1, [Wikidata](https://www.wikidata.org/wiki/Q21505316) QID Q21505316
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

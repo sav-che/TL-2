@@ -6,7 +6,7 @@ tl2_surname: Boitard
 tl2_forenames: Pierre
 tl2_name_abbrev: Boitard
 tl2_dates: 1787-1859
-tl2_page_id: 33265482
+tl2_bhl_page_id: 33265482
 author_lsid: 20012199-2
 wikidata_id: Q606576
 ipni_surname: Boitard
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33265482) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/20012199-2), [Wikidata](https://www.wikidata.org/wiki/Q606576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20012199-2) LSID 20012199-2, [Wikidata](https://www.wikidata.org/wiki/Q606576) QID Q606576
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hayne
 tl2_forenames: Friedrich Gottlob
 tl2_name_abbrev: Hayne
 tl2_dates: 1763-1832
-tl2_page_id: 33068354
+tl2_bhl_page_id: 33068354
 author_lsid: 3750-1
 wikidata_id: Q69414
 ipni_surname: Hayne
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33068354) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/3750-1), [Wikidata](https://www.wikidata.org/wiki/Q69414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/3750-1) LSID 3750-1, [Wikidata](https://www.wikidata.org/wiki/Q69414) QID Q69414
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

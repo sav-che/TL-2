@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl1_0304
 tl2_volume: suppl1
 tl2_page_printed: 254
 tl2_surname: Bail
-tl2_forenames: [Carl Adolph Emmo] Theodor
+tl2_forenames: (Carl Adolph Emmo) Theodor
 tl2_name_abbrev: Bail
 tl2_dates: 1833-1922
-tl2_page_id: 33264981
+tl2_bhl_page_id: 33264981
 author_lsid: 389-1
 wikidata_id: Q2417325
 ipni_surname: Bail
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33264981) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/389-1), [Wikidata](https://www.wikidata.org/wiki/Q2417325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/389-1) LSID 389-1, [Wikidata](https://www.wikidata.org/wiki/Q2417325) QID Q2417325
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Bail, Carl Adolph Emmo Theodor {std. Bail}|first entry]] for this author
 

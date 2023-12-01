@@ -6,7 +6,7 @@ tl2_surname: Suringar
 tl2_forenames: Willem Frederik Reinier
 tl2_name_abbrev: Suringar
 tl2_dates: 1832-1898
-tl2_page_id: 33212137
+tl2_bhl_page_id: 33212137
 author_lsid: 10306-1
 wikidata_id: Q2499954
 ipni_surname: Suringar
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:42:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33212137) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10306-1), [Wikidata](https://www.wikidata.org/wiki/Q2499954). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10306-1) LSID 10306-1, [Wikidata](https://www.wikidata.org/wiki/Q2499954) QID Q2499954
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

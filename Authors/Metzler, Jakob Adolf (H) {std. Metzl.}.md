@@ -6,7 +6,7 @@ tl2_surname: Metzler
 tl2_forenames: Jakob Adolf (H)
 tl2_name_abbrev: Metzl.
 tl2_dates: 1812-1883
-tl2_page_id: 33355523
+tl2_bhl_page_id: 33355523
 author_lsid: 6397-1
 wikidata_id: Q21388926
 ipni_surname: Metzler
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/6397-1), [Wikidata](https://www.wikidata.org/wiki/Q21388926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/6397-1) LSID 6397-1, [Wikidata](https://www.wikidata.org/wiki/Q21388926) QID Q21388926
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

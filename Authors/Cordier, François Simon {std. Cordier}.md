@@ -6,7 +6,7 @@ tl2_surname: Cordier
 tl2_forenames: François Simon
 tl2_name_abbrev: Cordier
 tl2_dates: 1797-1874
-tl2_page_id: 33120679
+tl2_bhl_page_id: 33120679
 author_lsid: 17431-1
 wikidata_id: Q3752277
 ipni_surname: Cordier
@@ -24,7 +24,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33120679) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/17431-1), [Wikidata](https://www.wikidata.org/wiki/Q3752277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17431-1) LSID 17431-1, [Wikidata](https://www.wikidata.org/wiki/Q3752277) QID Q3752277
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Cordier, Françis Simon {std. Cordier} (Suppl.)|second entry]] for this author
 

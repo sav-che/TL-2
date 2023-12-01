@@ -6,7 +6,7 @@ tl2_surname: Räsänen
 tl2_forenames: Veli Johannes Paavo Bartholomeus
 tl2_name_abbrev: Ras.
 tl2_dates: 1888-1953
-tl2_page_id: 33190017
+tl2_bhl_page_id: 33190017
 author_lsid: 8094-1
 wikidata_id: Q11900845
 ipni_surname: Räsänen
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33190017) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8094-1), [Wikidata](https://www.wikidata.org/wiki/Q11900845). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8094-1) LSID 8094-1, [Wikidata](https://www.wikidata.org/wiki/Q11900845) QID Q11900845
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

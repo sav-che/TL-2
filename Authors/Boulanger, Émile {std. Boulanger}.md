@@ -6,7 +6,7 @@ tl2_surname: Boulanger
 tl2_forenames: Émile
 tl2_name_abbrev: Boulanger
 tl2_dates: fl. 1890-1905
-tl2_page_id: 33265578
+tl2_bhl_page_id: 33265578
 author_lsid: 34089-1
 wikidata_id: Q27064230
 ipni_surname: Boulanger
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33265578) of TL-2 Suppl. II
-> Author links: [IPNI](https://www.ipni.org/a/34089-1), [Wikidata](https://www.wikidata.org/wiki/Q27064230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/34089-1) LSID 34089-1, [Wikidata](https://www.wikidata.org/wiki/Q27064230) QID Q27064230
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

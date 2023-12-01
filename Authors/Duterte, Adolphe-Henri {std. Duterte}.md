@@ -6,7 +6,7 @@ tl2_surname: Duterte
 tl2_forenames: Adolphe-Henri
 tl2_name_abbrev: Duterte
 tl2_dates: 1847-1887
-tl2_page_id: 33260195
+tl2_bhl_page_id: 33260195
 author_lsid: 20024702-1
 wikidata_id: Q21511187
 ipni_surname: Duterte
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI
-> Author links: [IPNI](https://www.ipni.org/a/20024702-1), [Wikidata](https://www.wikidata.org/wiki/Q21511187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20024702-1) LSID 20024702-1, [Wikidata](https://www.wikidata.org/wiki/Q21511187) QID Q21511187
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

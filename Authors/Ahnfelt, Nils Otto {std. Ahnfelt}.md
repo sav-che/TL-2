@@ -6,7 +6,7 @@ tl2_surname: Ahnfelt
 tl2_forenames: Nils Otto
 tl2_name_abbrev: Ahnfelt
 tl2_dates: 1801-1837
-tl2_page_id: 33264739
+tl2_bhl_page_id: 33264739
 author_lsid: 30705-1
 wikidata_id: Q5544426
 ipni_surname: Ahnfelt
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33264739) of TL-2 Suppl. I
-> Author links: [IPNI](https://www.ipni.org/a/30705-1), [Wikidata](https://www.wikidata.org/wiki/Q5544426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/30705-1) LSID 30705-1, [Wikidata](https://www.wikidata.org/wiki/Q5544426) QID Q5544426
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

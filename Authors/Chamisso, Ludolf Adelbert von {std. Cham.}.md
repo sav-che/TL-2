@@ -6,7 +6,7 @@ tl2_surname: Chamisso
 tl2_forenames: Ludolf Adelbert von
 tl2_name_abbrev: Cham.
 tl2_dates: 1781-1838
-tl2_page_id: 33120613
+tl2_bhl_page_id: 33120613
 author_lsid: 1504-1
 wikidata_id: Q154782
 ipni_surname: Chamisso
@@ -27,7 +27,8 @@ ipni_record_modified: 2013-05-15 11:26:51.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33120613) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1504-1), [Wikidata](https://www.wikidata.org/wiki/Q154782). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1504-1) LSID 1504-1, [Wikidata](https://www.wikidata.org/wiki/Q154782) QID Q154782
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

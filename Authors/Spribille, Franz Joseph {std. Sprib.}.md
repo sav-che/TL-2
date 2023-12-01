@@ -6,7 +6,7 @@ tl2_surname: Spribille
 tl2_forenames: Franz Joseph
 tl2_name_abbrev: Sprib.
 tl2_dates: 1841-1921
-tl2_page_id: 33333953
+tl2_bhl_page_id: 33333953
 author_lsid: 9993-1
 wikidata_id: Q21340776
 ipni_surname: Spribille
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:36:49.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33333953) of TL-2 Vol. V
-> Author links: [IPNI](https://www.ipni.org/a/9993-1), [Wikidata](https://www.wikidata.org/wiki/Q21340776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/9993-1) LSID 9993-1, [Wikidata](https://www.wikidata.org/wiki/Q21340776) QID Q21340776
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

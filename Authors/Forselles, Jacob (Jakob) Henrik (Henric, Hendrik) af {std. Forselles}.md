@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl7_0216
 tl2_volume: suppl7
 tl2_page_printed: 321
 tl2_surname: Forselles
-tl2_forenames: Jacob [Jakob] Henrik [Henric, Hendrik] af
+tl2_forenames: Jacob (Jakob) Henrik (Henric, Hendrik) af
 tl2_name_abbrev: Forselles
 tl2_dates: 1785-1855
-tl2_page_id: 33259825
+tl2_bhl_page_id: 33259825
 author_lsid: 2830-1
 wikidata_id: Q5737064
 ipni_surname: Forselles
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:43:09.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259825) of TL-2 Suppl. VII
-> Author links: [IPNI](https://www.ipni.org/a/2830-1), [Wikidata](https://www.wikidata.org/wiki/Q5737064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2830-1) LSID 2830-1, [Wikidata](https://www.wikidata.org/wiki/Q5737064) QID Q5737064
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

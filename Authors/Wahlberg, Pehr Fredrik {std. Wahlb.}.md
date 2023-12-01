@@ -6,7 +6,7 @@ tl2_surname: Wahlberg
 tl2_forenames: Pehr Fredrik
 tl2_name_abbrev: Wahlb.
 tl2_dates: 1800-1877
-tl2_page_id: 33066356
+tl2_bhl_page_id: 33066356
 author_lsid: 11314-1
 wikidata_id: Q6228721
 ipni_surname: Wahlberg
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:33:19.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33066356) of TL-2 Vol. VII
-> Author links: [IPNI](https://www.ipni.org/a/11314-1), [Wikidata](https://www.wikidata.org/wiki/Q6228721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/11314-1) LSID 11314-1, [Wikidata](https://www.wikidata.org/wiki/Q6228721) QID Q6228721
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

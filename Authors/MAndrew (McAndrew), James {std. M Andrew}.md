@@ -2,11 +2,11 @@
 tl2_entry_id: tl2_vol3_0204
 tl2_volume: vol3
 tl2_page_printed: 208
-tl2_surname: M'Andrew [McAndrew]
+tl2_surname: M'Andrew (McAndrew)
 tl2_forenames: James
 tl2_name_abbrev: M'Andrew
 tl2_dates: 1836-1917
-tl2_page_id: 33355295
+tl2_bhl_page_id: 33355295
 author_lsid: 23118-1
 wikidata_id: Q21520199
 ipni_surname: McAndrew
@@ -25,7 +25,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III
-> Author links: [IPNI](https://www.ipni.org/a/23118-1), [Wikidata](https://www.wikidata.org/wiki/Q21520199). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/23118-1) LSID 23118-1, [Wikidata](https://www.wikidata.org/wiki/Q21520199) QID Q21520199
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

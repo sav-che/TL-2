@@ -6,7 +6,7 @@ tl2_surname: Erdner
 tl2_forenames: Eugen
 tl2_name_abbrev: Erdner
 tl2_dates: 1869-1927
-tl2_page_id: 33120928
+tl2_bhl_page_id: 33120928
 author_lsid: 2552-1
 wikidata_id: Q18984503
 ipni_surname: Erdner
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:26:46.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33120928) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/2552-1), [Wikidata](https://www.wikidata.org/wiki/Q18984503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/2552-1) LSID 2552-1, [Wikidata](https://www.wikidata.org/wiki/Q18984503) QID Q18984503
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

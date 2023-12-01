@@ -6,7 +6,7 @@ tl2_surname: Kersten
 tl2_forenames: Otto
 tl2_name_abbrev: Kerst.
 tl2_dates: 1839-1900
-tl2_page_id: 33068773
+tl2_bhl_page_id: 33068773
 author_lsid: 4750-1
 wikidata_id: Q125143
 ipni_surname: Kersten
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4750-1), [Wikidata](https://www.wikidata.org/wiki/Q125143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4750-1) LSID 4750-1, [Wikidata](https://www.wikidata.org/wiki/Q125143) QID Q125143
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

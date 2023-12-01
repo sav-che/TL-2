@@ -6,7 +6,7 @@ tl2_surname: Buxbaum
 tl2_forenames: Franz
 tl2_name_abbrev: Buxb.
 tl2_dates: 1900-1979
-tl2_page_id: 33266596
+tl2_bhl_page_id: 33266596
 author_lsid: 1334-1
 wikidata_id: Q78998
 ipni_surname: Buxbaum
@@ -24,7 +24,8 @@ ipni_record_modified: 2013-05-15 11:28:20.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III
-> Author links: [IPNI](https://www.ipni.org/a/1334-1), [Wikidata](https://www.wikidata.org/wiki/Q78998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1334-1) LSID 1334-1, [Wikidata](https://www.wikidata.org/wiki/Q78998) QID Q78998
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

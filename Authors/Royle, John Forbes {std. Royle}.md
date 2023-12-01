@@ -6,7 +6,7 @@ tl2_surname: Royle
 tl2_forenames: John Forbes
 tl2_name_abbrev: Royle
 tl2_dates: 1800-1858
-tl2_page_id: 33190432
+tl2_bhl_page_id: 33190432
 author_lsid: 8688-1
 wikidata_id: Q713874
 ipni_surname: Royle
@@ -24,7 +24,8 @@ ipni_record_modified: 2018-12-12 10:39:29.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33190432) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/8688-1), [Wikidata](https://www.wikidata.org/wiki/Q713874). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/8688-1) LSID 8688-1, [Wikidata](https://www.wikidata.org/wiki/Q713874) QID Q713874
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

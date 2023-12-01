@@ -6,7 +6,7 @@ tl2_surname: Petiver
 tl2_forenames: James
 tl2_name_abbrev: Petiver
 tl2_dates: 1658-1718
-tl2_page_id: 33189674
+tl2_bhl_page_id: 33189674
 author_lsid: 7585-1
 wikidata_id: Q1680975
 ipni_surname: Petiver
@@ -24,7 +24,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33189674) of TL-2 Vol. IV
-> Author links: [IPNI](https://www.ipni.org/a/7585-1), [Wikidata](https://www.wikidata.org/wiki/Q1680975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/7585-1) LSID 7585-1, [Wikidata](https://www.wikidata.org/wiki/Q1680975) QID Q1680975
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

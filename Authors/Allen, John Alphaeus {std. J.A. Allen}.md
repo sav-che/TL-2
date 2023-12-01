@@ -6,7 +6,7 @@ tl2_surname: Allen
 tl2_forenames: John Alphaeus
 tl2_name_abbrev: J.A. Allen
 tl2_dates: 1863-1916
-tl2_page_id: 33120162
+tl2_bhl_page_id: 33120162
 author_lsid: 149-1
 wikidata_id: Q21505086
 ipni_surname: Allen
@@ -23,7 +23,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/149-1), [Wikidata](https://www.wikidata.org/wiki/Q21505086). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/149-1) LSID 149-1, [Wikidata](https://www.wikidata.org/wiki/Q21505086) QID Q21505086
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Allen, John Alpheus {std. J.A. Allen} (Suppl.)|second entry]] for this author
 

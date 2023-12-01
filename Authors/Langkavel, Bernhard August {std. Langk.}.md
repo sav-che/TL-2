@@ -6,7 +6,7 @@ tl2_surname: Langkavel
 tl2_forenames: Bernhard August
 tl2_name_abbrev: Langk.
 tl2_dates: 1825-1902
-tl2_page_id: 33068993
+tl2_bhl_page_id: 33068993
 author_lsid: 5268-1
 wikidata_id: Q21518372
 ipni_surname: Langkavel
@@ -23,7 +23,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/5268-1), [Wikidata](https://www.wikidata.org/wiki/Q21518372). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/5268-1) LSID 5268-1, [Wikidata](https://www.wikidata.org/wiki/Q21518372) QID Q21518372
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

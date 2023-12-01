@@ -6,7 +6,7 @@ tl2_surname: Castagne
 tl2_forenames: Jean Louis Martin
 tl2_name_abbrev: Castagne
 tl2_dates: 1785-1858
-tl2_page_id: 33120598
+tl2_bhl_page_id: 33120598
 author_lsid: 1444-1
 wikidata_id: Q5928778
 ipni_surname: Castagne
@@ -26,7 +26,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33120598) of TL-2 Vol. I
-> Author links: [IPNI](https://www.ipni.org/a/1444-1), [Wikidata](https://www.wikidata.org/wiki/Q5928778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/1444-1) LSID 1444-1, [Wikidata](https://www.wikidata.org/wiki/Q5928778) QID Q5928778
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Castagne, Jean-Louis-Martin {std. Castagne} (Suppl.)|second entry]] for this author
 

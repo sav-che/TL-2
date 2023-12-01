@@ -3,10 +3,10 @@ tl2_entry_id: tl2_suppl5_0159
 tl2_volume: suppl5
 tl2_page_printed: 144
 tl2_surname: Deflandre
-tl2_forenames: Georges [Victor]
+tl2_forenames: Georges (Victor)
 tl2_name_abbrev: Deflandre
 tl2_dates: 1897-1973
-tl2_page_id: 33259190
+tl2_bhl_page_id: 33259190
 author_lsid: 12401-1
 wikidata_id: Q1508870
 ipni_surname: Deflandre
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33259190) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/12401-1), [Wikidata](https://www.wikidata.org/wiki/Q1508870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/12401-1) LSID 12401-1, [Wikidata](https://www.wikidata.org/wiki/Q1508870) QID Q1508870
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Deflandre, Georges (-Victor) {std. Deflandre}|first entry]] for this author
 

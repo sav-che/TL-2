@@ -6,7 +6,7 @@ tl2_surname: Trozelius
 tl2_forenames: Glas Blechert
 tl2_name_abbrev: Trozelius
 tl2_dates: 1719-1794
-tl2_page_id: 33212553
+tl2_bhl_page_id: 33212553
 author_lsid: 10856-1
 wikidata_id: Q6215855
 ipni_surname: Trozelius
@@ -23,7 +23,8 @@ ipni_record_modified: 2013-05-15 11:44:17.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33212553) of TL-2 Vol. VI
-> Author links: [IPNI](https://www.ipni.org/a/10856-1), [Wikidata](https://www.wikidata.org/wiki/Q6215855). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/10856-1) LSID 10856-1, [Wikidata](https://www.wikidata.org/wiki/Q6215855) QID Q6215855
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

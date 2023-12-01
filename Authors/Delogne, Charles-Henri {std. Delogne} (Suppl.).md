@@ -6,7 +6,7 @@ tl2_surname: Delogne
 tl2_forenames: Charles-Henri
 tl2_name_abbrev: Delogne
 tl2_dates: 1834-1901
-tl2_page_id: 33259228
+tl2_bhl_page_id: 33259228
 author_lsid: 17914-1
 wikidata_id: Q21510188
 ipni_surname: Delogne
@@ -25,7 +25,8 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V
-> Author links: [IPNI](https://www.ipni.org/a/17914-1), [Wikidata](https://www.wikidata.org/wiki/Q21510188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/17914-1) LSID 17914-1, [Wikidata](https://www.wikidata.org/wiki/Q21510188) QID Q21510188
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Delogne, Charles Henri {std. Delogne}|first entry]] for this author
 

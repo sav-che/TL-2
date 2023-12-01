@@ -6,7 +6,7 @@ tl2_surname: Holmberg
 tl2_forenames: Otto Rudolf
 tl2_name_abbrev: Holmb.
 tl2_dates: 1874-1930
-tl2_page_id: 33068502
+tl2_bhl_page_id: 33068502
 author_lsid: 4050-1
 wikidata_id: Q6054738
 ipni_surname: Holmberg
@@ -26,7 +26,8 @@ ipni_record_modified: 2013-05-15 11:53:56.0
 ---
 
 > [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/4050-1), [Wikidata](https://www.wikidata.org/wiki/Q6054738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/4050-1) LSID 4050-1, [Wikidata](https://www.wikidata.org/wiki/Q6054738) QID Q6054738
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

@@ -6,7 +6,7 @@ tl2_surname: Hutton
 tl2_forenames: William
 tl2_name_abbrev: Hutton
 tl2_dates: 1798-1860
-tl2_page_id: 33068622
+tl2_bhl_page_id: 33068622
 author_lsid: 20654-1
 wikidata_id: Q8012751
 ipni_surname: Hutton
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33068622) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/20654-1), [Wikidata](https://www.wikidata.org/wiki/Q8012751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/20654-1) LSID 20654-1, [Wikidata](https://www.wikidata.org/wiki/Q8012751) QID Q8012751
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 

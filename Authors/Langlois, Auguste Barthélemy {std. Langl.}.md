@@ -6,7 +6,7 @@ tl2_surname: Langlois
 tl2_forenames: Auguste Barthélemy
 tl2_name_abbrev: Langl.
 tl2_dates: 1832-1900
-tl2_page_id: 33068993
+tl2_bhl_page_id: 33068993
 author_lsid: 22051-1
 wikidata_id: Q2871046
 ipni_surname: Langlois
@@ -26,7 +26,8 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II
-> Author links: [IPNI](https://www.ipni.org/a/22051-1), [Wikidata](https://www.wikidata.org/wiki/Q2871046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> Author links: [IPNI](https://www.ipni.org/a/22051-1) LSID 22051-1, [Wikidata](https://www.wikidata.org/wiki/Q2871046) QID Q2871046
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author
 
