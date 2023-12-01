@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/250-1) LSID 250-1, [Wikidata](https://www.wikidata.org/wiki/Q5341538) QID Q5341538
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Arber, Edward Alexander Newell {std. E. Arber} (Suppl.)|second entry]] for this author
+> [!example] See also [[Arber, Edward Alexander Newell (Suppl.)|second entry]] for this author
 
 ### Author
 

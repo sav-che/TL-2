@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18530-1) LSID 18530-1, [Wikidata](https://www.wikidata.org/wiki/Q16022968) QID Q16022968
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Erichsen, Christian Friedo Eckhard {std. Erichsen}|first entry]] for this author
+> [!example] See also [[Erichsen, Christian Friedo Eckhard|first entry]] for this author
 
 ### Author
 

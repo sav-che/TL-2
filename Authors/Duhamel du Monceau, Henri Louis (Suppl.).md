@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2362-1) LSID 2362-1, [Wikidata](https://www.wikidata.org/wiki/Q525949) QID Q525949
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Duhamel du Monceau, Henri Louis {std. Duhamel}|first entry]] for this author
+> [!example] See also [[Duhamel du Monceau, Henri Louis|first entry]] for this author
 
 ### Author
 

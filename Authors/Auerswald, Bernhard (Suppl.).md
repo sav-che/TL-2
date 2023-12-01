@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/31082-1) LSID 31082-1, [Wikidata](https://www.wikidata.org/wiki/Q5727033) QID Q5727033
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Auerswald, Bernhard {std. Auersw.}|first entry]] for this author
+> [!example] See also [[Auerswald, Bernhard|first entry]] for this author
 
 ### Author
 

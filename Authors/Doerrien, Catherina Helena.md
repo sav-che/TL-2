@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2251-1) LSID 2251-1, [Wikidata](https://www.wikidata.org/wiki/Q1050781) QID Q1050781
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Doerrien, Catharina (Katharina) Helena {std. Doerr.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Doerrien, Catharina (Katharina) Helena (Suppl.)|second entry]] for this author
 
 ### Author
 

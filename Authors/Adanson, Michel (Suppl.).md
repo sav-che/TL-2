@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/30649-1) LSID 30649-1, [Wikidata](https://www.wikidata.org/wiki/Q315861) QID Q315861
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Adanson, Michel {std. Adans.}|first entry]] for this author
+> [!example] See also [[Adanson, Michel|first entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2007-09-27 13:49:27.0
 > Author links: [IPNI](https://www.ipni.org/a/188-1) LSID 188-1, [Wikidata](https://www.wikidata.org/wiki/Q6409941) QID Q6409941
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Anderson, Charles Lewis {std. C.L. Anderson} (Suppl.)|second entry]] for this author
+> [!example] See also [[Anderson, Charles Lewis (Suppl.)|second entry]] for this author
 
 ### Author
 

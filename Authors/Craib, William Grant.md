@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1857-1) LSID 1857-1, [Wikidata](https://www.wikidata.org/wiki/Q4243070) QID Q4243070
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Craib, William Grant {std. Craib} (Suppl.)|second entry]] for this author
+> [!example] See also [[Craib, William Grant (Suppl.)|second entry]] for this author
 
 ### Author
 

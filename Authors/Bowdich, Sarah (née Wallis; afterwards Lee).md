@@ -28,7 +28,7 @@ ipni_record_modified: 2009-11-11 08:12:30.0
 > Author links: [IPNI](https://www.ipni.org/a/12358-1) LSID 12358-1, [Wikidata](https://www.wikidata.org/wiki/Q2375893) QID Q2375893
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bowdich, Sarah (née Wallis; afterwards Lee) {std. Bowdich} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bowdich, Sarah (née Wallis; afterwards Lee) (Suppl.)|second entry]] for this author
 
 ### Author
 

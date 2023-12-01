@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2206-1) LSID 2206-1, [Wikidata](https://www.wikidata.org/wiki/Q67968) QID Q67968
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dietrich, Albert Gottfried {std. A. Dietr.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dietrich, Albert Gottfried (Suppl.)|second entry]] for this author
 
 ### Author
 

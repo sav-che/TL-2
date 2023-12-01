@@ -28,7 +28,7 @@ ipni_record_modified: 2011-12-01 06:57:51.0
 > Author links: [IPNI](https://www.ipni.org/a/395-1) LSID 395-1, [Wikidata](https://www.wikidata.org/wiki/Q152366) QID Q152366
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bailey, Liberty Hyde {std. L.H. Bailey} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bailey, Liberty Hyde (Suppl.)|second entry]] for this author
 
 ### Author
 

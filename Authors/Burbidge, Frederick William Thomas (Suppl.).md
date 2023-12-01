@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1286-1) LSID 1286-1, [Wikidata](https://www.wikidata.org/wiki/Q5499059) QID Q5499059
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Burbidge, Frederick William Thomas {std. Burb.}|first entry]] for this author
+> [!example] See also [[Burbidge, Frederick William Thomas|first entry]] for this author
 
 ### Author
 

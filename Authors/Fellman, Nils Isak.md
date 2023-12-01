@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2676-1) LSID 2676-1, [Wikidata](https://www.wikidata.org/wiki/Q3450203) QID Q3450203
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fellman, Nils Isak {std. N.I. Fellm.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fellman, Nils Isak (Suppl.)|second entry]] for this author
 
 ### Author
 

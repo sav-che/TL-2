@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/25-1) LSID 25-1, [Wikidata](https://www.wikidata.org/wiki/Q953305) QID Q953305
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Abbayes, Henri (Robert) Nicollon des {std. Abbayes} (Suppl.)|second entry]] for this author
+> [!example] See also [[Abbayes, Henri (Robert) Nicollon des (Suppl.)|second entry]] for this author
 
 ### Author
 

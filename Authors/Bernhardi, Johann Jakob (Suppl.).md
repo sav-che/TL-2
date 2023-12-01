@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16018-1) LSID 16018-1, [Wikidata](https://www.wikidata.org/wiki/Q77669) QID Q77669
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bernhardi, Johann Jakob {std. Bernh.}|first entry]] for this author
+> [!example] See also [[Bernhardi, Johann Jakob|first entry]] for this author
 
 ### Author
 

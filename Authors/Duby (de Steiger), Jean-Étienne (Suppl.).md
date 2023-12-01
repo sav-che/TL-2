@@ -31,7 +31,7 @@ ipni_record_modified: 2013-05-15 11:31:02.0
 > Author links: [IPNI](https://www.ipni.org/a/18234-1) LSID 18234-1, [Wikidata](https://www.wikidata.org/wiki/Q4172141) QID Q4172141
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Duby, Jean Étienne {std. Duby}|first entry]] for this author
+> [!example] See also [[Duby, Jean Étienne|first entry]] for this author
 
 ### Author
 

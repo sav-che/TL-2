@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2001-1) LSID 2001-1, [Wikidata](https://www.wikidata.org/wiki/Q1035) QID Q1035
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Darwin, Charles Robert {std. Darwin} (Suppl.)|second entry]] for this author
+> [!example] See also [[Darwin, Charles Robert (Suppl.)|second entry]] for this author
 
 ### Author
 

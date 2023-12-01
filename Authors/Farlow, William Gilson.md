@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18653-1) LSID 18653-1, [Wikidata](https://www.wikidata.org/wiki/Q2701736) QID Q2701736
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Farlow, William Gilson (sometimes miscited as Gibson) {std. Farl.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Farlow, William Gilson (sometimes miscited as Gibson) (Suppl.)|second entry]] for this author
 
 ### Author
 

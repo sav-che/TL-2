@@ -30,7 +30,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/241-1) LSID 241-1, [Wikidata](https://www.wikidata.org/wiki/Q3850235) QID Q3850235
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Anzi, Martino {std. Anzi} (Suppl.)|second entry]] for this author
+> [!example] See also [[Anzi, Martino (Suppl.)|second entry]] for this author
 
 ### Author
 

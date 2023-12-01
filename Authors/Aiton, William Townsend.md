@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/111-1) LSID 111-1, [Wikidata](https://www.wikidata.org/wiki/Q1350149) QID Q1350149
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Aiton, William Townsend {std. W.T. Aiton} (Suppl.)|second entry]] for this author
+> [!example] See also [[Aiton, William Townsend (Suppl.)|second entry]] for this author
 
 ### Author
 

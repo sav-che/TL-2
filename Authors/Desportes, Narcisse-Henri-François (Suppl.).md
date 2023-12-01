@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2158-1) LSID 2158-1, [Wikidata](https://www.wikidata.org/wiki/Q1098151) QID Q1098151
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Desportes, Narcisse Henri François {std. N.H.F. Desp.}|first entry]] for this author
+> [!example] See also [[Desportes, Narcisse Henri François|first entry]] for this author
 
 ### Author
 

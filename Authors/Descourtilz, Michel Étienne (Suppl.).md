@@ -27,7 +27,7 @@ ipni_record_modified: 2006-06-13 10:36:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2147-1) LSID 2147-1, [Wikidata](https://www.wikidata.org/wiki/Q5686982) QID Q5686982
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Descourtilz, Michel Étienne {std. Descourt.}|first entry]] for this author
+> [!example] See also [[Descourtilz, Michel Étienne|first entry]] for this author
 
 ### Author
 

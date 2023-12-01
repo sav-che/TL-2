@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/909-1) LSID 909-1, [Wikidata](https://www.wikidata.org/wiki/Q5580748) QID Q5580748
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bohlin, Knut Harald {std. Bohlin} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bohlin, Knut Harald (Suppl.)|second entry]] for this author
 
 ### Author
 

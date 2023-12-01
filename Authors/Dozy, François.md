@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18187-1) LSID 18187-1, [Wikidata](https://www.wikidata.org/wiki/Q21338956) QID Q21338956
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dozy, François {std. Dozy} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dozy, François (Suppl.)|second entry]] for this author
 
 ### Author
 

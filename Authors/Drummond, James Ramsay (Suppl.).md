@@ -28,7 +28,7 @@ ipni_record_modified: 2010-10-26 08:06:39.0
 > Author links: [IPNI](https://www.ipni.org/a/2325-1) LSID 2325-1, [Wikidata](https://www.wikidata.org/wiki/Q6450944) QID Q6450944
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Drummond, James Ramsay {std. J.R. Drumm.}|first entry]] for this author
+> [!example] See also [[Drummond, James Ramsay|first entry]] for this author
 
 ### Author
 

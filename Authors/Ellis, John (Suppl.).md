@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2518-1) LSID 2518-1, [Wikidata](https://www.wikidata.org/wiki/Q934747) QID Q934747
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ellis, John {std. J. Ellis}|first entry]] for this author
+> [!example] See also [[Ellis, John|first entry]] for this author
 
 ### Author
 

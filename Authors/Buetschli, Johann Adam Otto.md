@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/32572-1) LSID 32572-1, [Wikidata](https://www.wikidata.org/wiki/Q62669) QID Q62669
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bütschli, (Johann Adam) Otto {std. Buetschli} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bütschli, (Johann Adam) Otto (Suppl.)|second entry]] for this author
 
 ### Author
 

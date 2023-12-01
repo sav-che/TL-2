@@ -28,7 +28,7 @@ ipni_record_modified: 2010-03-15 11:23:35.0
 > Author links: [IPNI](https://www.ipni.org/a/292-1) LSID 292-1, [Wikidata](https://www.wikidata.org/wiki/Q21390575) QID Q21390575
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Arsène, Frère Gustave (also Gerfroy) (Brouard, A.G. Joseph) {std. Arsène}|first entry]] for this author
+> [!example] See also [[Arsène, Frère Gustave (also Gerfroy) (Brouard, A.G. Joseph)|first entry]] for this author
 
 ### Author
 

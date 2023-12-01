@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/443-1) LSID 443-1, [Wikidata](https://www.wikidata.org/wiki/Q21505621) QID Q21505621
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bang, Miguel {std. Bang} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bang, Miguel (Suppl.)|second entry]] for this author
 
 ### Author
 

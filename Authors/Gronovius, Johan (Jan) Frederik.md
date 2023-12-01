@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:26:13.0
 > Author links: [IPNI](https://www.ipni.org/a/3410-1) LSID 3410-1, [Wikidata](https://www.wikidata.org/wiki/Q724270) QID Q724270
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gronovius, Johan (Jan) Frederik {std. Gronov.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gronovius, Johan (Jan) Frederik (Suppl.)|second entry]] for this author
 
 ### Author
 

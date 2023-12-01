@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2951-1) LSID 2951-1, [Wikidata](https://www.wikidata.org/wiki/Q1519120) QID Q1519120
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fünfstück (Fuenfstueck), (Leberecht) Moritz {std. Fünfstück} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fünfstück (Fuenfstueck), (Leberecht) Moritz (Suppl.)|second entry]] for this author
 
 Fünfstück, Leberecht Moritz (1856-1925), German botanist, professor at the Stuttgart Technological Institute.
 **Abbreviated name**: *Fünfstück* \[standard form in IPNI: *Fünfstück*\]

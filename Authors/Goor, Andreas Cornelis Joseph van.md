@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3273-1) LSID 3273-1, [Wikidata](https://www.wikidata.org/wiki/Q21514128) QID Q21514128
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Goor, Andreas Cornelis Joseph van {std. Goor} (Suppl.)|second entry]] for this author
+> [!example] See also [[Goor, Andreas Cornelis Joseph van (Suppl.)|second entry]] for this author
 
 ### Author
 

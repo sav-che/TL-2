@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:50:15.0
 > Author links: [IPNI](https://www.ipni.org/a/1627-1) LSID 1627-1, [Wikidata](https://www.wikidata.org/wiki/Q115901) QID Q115901
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Christ(-Socin), (Konrad) Hermann (Heinrich) {std. Christ} (Suppl.)|second entry]] for this author
+> [!example] See also [[Christ(-Socin), (Konrad) Hermann (Heinrich) (Suppl.)|second entry]] for this author
 
 ### Author
 

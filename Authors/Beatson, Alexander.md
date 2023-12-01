@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/584-1) LSID 584-1, [Wikidata](https://www.wikidata.org/wiki/Q2641792) QID Q2641792
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Watson (recte Beatson), Alexander {std. Beatson}|second entry]] for this author
+> [!example] See also [[Watson (recte Beatson), Alexander|second entry]] for this author
 
 ### Author
 

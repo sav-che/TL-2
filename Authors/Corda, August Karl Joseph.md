@@ -31,7 +31,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/17426-1) LSID 17426-1, [Wikidata](https://www.wikidata.org/wiki/Q624998) QID Q624998
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Corda, August Karl Joseph {std. Corda} (Suppl.)|second entry]] for this author
+> [!example] See also [[Corda, August Karl Joseph (Suppl.)|second entry]] for this author
 
 ### Author
 

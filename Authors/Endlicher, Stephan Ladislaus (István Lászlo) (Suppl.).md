@@ -32,7 +32,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18490-1) LSID 18490-1, [Wikidata](https://www.wikidata.org/wiki/Q78605) QID Q78605
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Endlicher, Stephan Ladislaus {std. Endl.}|first entry]] for this author
+> [!example] See also [[Endlicher, Stephan Ladislaus|first entry]] for this author
 
 ### Author
 

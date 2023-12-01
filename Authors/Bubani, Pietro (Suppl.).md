@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1238-1) LSID 1238-1, [Wikidata](https://www.wikidata.org/wiki/Q684026) QID Q684026
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bubani, Pietro {std. Bubani}|first entry]] for this author
+> [!example] See also [[Bubani, Pietro|first entry]] for this author
 
 ### Author
 

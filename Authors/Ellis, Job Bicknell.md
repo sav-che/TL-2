@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18462-1) LSID 18462-1, [Wikidata](https://www.wikidata.org/wiki/Q6206643) QID Q6206643
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ellis, Job Bicknell {std. Ellis} (Suppl.)|second entry]] for this author
+> [!example] See also [[Ellis, Job Bicknell (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2009-04-06 08:54:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2908-1) LSID 2908-1, [Wikidata](https://www.wikidata.org/wiki/Q4993042) QID Q4993042
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Friderichsen, Peter Kristian Nicolaj {std. Frid.}|first entry]] for this author
+> [!example] See also [[Friderichsen, Peter Kristian Nicolaj|first entry]] for this author
 
 ### Author
 

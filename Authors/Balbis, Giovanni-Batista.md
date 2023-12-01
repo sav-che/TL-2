@@ -31,7 +31,7 @@ ipni_record_modified: 2009-01-06 11:21:57.0
 > Author links: [IPNI](https://www.ipni.org/a/31247-1) LSID 31247-1, [Wikidata](https://www.wikidata.org/wiki/Q2634689) QID Q2634689
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Balbis, Giovanni-Batista (Jean-Baptiste in France) {std. Balb.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Balbis, Giovanni-Batista (Jean-Baptiste in France) (Suppl.)|second entry]] for this author
 
 ### Author
 

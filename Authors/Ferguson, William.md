@@ -29,7 +29,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2689-1) LSID 2689-1, [Wikidata](https://www.wikidata.org/wiki/Q8008992) QID Q8008992
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ferguson, William {std. Ferguson} (Suppl.)|second entry]] for this author
+> [!example] See also [[Ferguson, William (Suppl.)|second entry]] for this author
 
 ### Author
 

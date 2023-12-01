@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:48:53.0
 > Author links: [IPNI](https://www.ipni.org/a/12368-1) LSID 12368-1, [Wikidata](https://www.wikidata.org/wiki/Q716978) QID Q716978
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Burman, Nicolaas Laurens {std. Burm. f.}|first entry]] for this author
+> [!example] See also [[Burman, Nicolaas Laurens|first entry]] for this author
 
 ### Author
 

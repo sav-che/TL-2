@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2448-1) LSID 2448-1, [Wikidata](https://www.wikidata.org/wiki/Q5216728) QID Q5216728
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Eaton, Daniel Cady {std. D.C. Eaton} (Suppl.)|second entry]] for this author
+> [!example] See also [[Eaton, Daniel Cady (Suppl.)|second entry]] for this author
 
 ### Author
 

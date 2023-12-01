@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1453-1) LSID 1453-1, [Wikidata](https://www.wikidata.org/wiki/Q5479282) QID Q5479282
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Castracane degli Antelminelli, Francesco {std. Castracane} (Suppl.)|second entry]] for this author
+> [!example] See also [[Castracane degli Antelminelli, Francesco (Suppl.)|second entry]] for this author
 
 ### Author
 

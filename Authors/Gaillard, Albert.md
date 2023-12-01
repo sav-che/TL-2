@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2983-1) LSID 2983-1, [Wikidata](https://www.wikidata.org/wiki/Q16030789) QID Q16030789
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gaillard, Albert {std. Gaillard} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gaillard, Albert (Suppl.)|second entry]] for this author
 
 ### Author
 

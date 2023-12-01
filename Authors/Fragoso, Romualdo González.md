@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2865-1) LSID 2865-1, [Wikidata](https://www.wikidata.org/wiki/Q10364291) QID Q10364291
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[González Fragoso (Gonzales Fragoso), Romualdo {std. Gonz. Frag.} (Suppl.)|second entry]] for this author
+> [!example] See also [[González Fragoso (Gonzales Fragoso), Romualdo (Suppl.)|second entry]] for this author
 
 ### Author
 

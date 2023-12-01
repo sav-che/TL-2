@@ -27,7 +27,7 @@ ipni_record_modified: 2011-10-10 07:11:15.0
 > Author links: [IPNI](https://www.ipni.org/a/12352-1) LSID 12352-1, [Wikidata](https://www.wikidata.org/wiki/Q63764) QID Q63764
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bolus, Harriet Margaret Louisa (née Kensit) {std. L. Bolus}|first entry]] for this author
+> [!example] See also [[Bolus, Harriet Margaret Louisa (née Kensit)|first entry]] for this author
 
 ### Author
 

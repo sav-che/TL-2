@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3377-1) LSID 3377-1, [Wikidata](https://www.wikidata.org/wiki/Q2299629) QID Q2299629
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Greshoff, Maurits {std. Greshoff}|first entry]] for this author
+> [!example] See also [[Greshoff, Maurits|first entry]] for this author
 
 ### Author
 

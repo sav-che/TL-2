@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2589-1) LSID 2589-1, [Wikidata](https://www.wikidata.org/wiki/Q15627363) QID Q15627363
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Evans, Alexander William {std. A. Evans} (Suppl.)|second entry]] for this author
+> [!example] See also [[Evans, Alexander William (Suppl.)|second entry]] for this author
 
 ### Author
 

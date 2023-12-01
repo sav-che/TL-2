@@ -29,7 +29,7 @@ ipni_record_modified: 2013-05-15 11:41:50.0
 > Author links: [IPNI](https://www.ipni.org/a/125-1) LSID 125-1, [Wikidata](https://www.wikidata.org/wiki/Q723907) QID Q723907
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Alderwerelt van Rosenburgh, Cornelis Rogier ... {std. Alderw.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Alderwerelt van Rosenburgh, Cornelis Rogier ... (Suppl.)|second entry]] for this author
 
 ### Author
 

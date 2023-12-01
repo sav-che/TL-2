@@ -29,7 +29,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/31177-1) LSID 31177-1, [Wikidata](https://www.wikidata.org/wiki/Q3749589) QID Q3749589
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Baglietto, Francesco {std. Bagl.}|first entry]] for this author
+> [!example] See also [[Baglietto, Francesco|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1196-1) LSID 1196-1, [Wikidata](https://www.wikidata.org/wiki/Q7360478) QID Q7360478
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brown, Roland Wilbur {std. R.W. Br.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Brown, Roland Wilbur (Suppl.)|second entry]] for this author
 
 ### Author
 

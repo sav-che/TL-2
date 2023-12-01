@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/517-1) LSID 517-1, [Wikidata](https://www.wikidata.org/wiki/Q8016445) QID Q8016445
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Barton, William Paul Crillon {std. W. Barton} (Suppl.)|second entry]] for this author
+> [!example] See also [[Barton, William Paul Crillon (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/327-1) LSID 327-1, [Wikidata](https://www.wikidata.org/wiki/Q721482) QID Q721482
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Aublet, Jean Baptiste Christophe Fusée {std. Aubl.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Aublet, Jean Baptiste Christophe Fusée (Suppl.)|second entry]] for this author
 
 ### Author
 

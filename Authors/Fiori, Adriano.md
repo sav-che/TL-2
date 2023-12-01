@@ -29,7 +29,7 @@ ipni_record_modified: 2007-01-03 07:28:03.0
 > Author links: [IPNI](https://www.ipni.org/a/18815-1) LSID 18815-1, [Wikidata](https://www.wikidata.org/wiki/Q3605723) QID Q3605723
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fiori, Adriano {std. Fiori} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fiori, Adriano (Suppl.)|second entry]] for this author
 
 ### Author
 

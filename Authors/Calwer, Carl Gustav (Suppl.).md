@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/1365-1) LSID 1365-1, [Wikidata](https://www.wikidata.org/wiki/Q78413) QID Q78413
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Calwer, Carl Gustav {std. Calwer}|first entry]] for this author
+> [!example] See also [[Calwer, Carl Gustav|first entry]] for this author
 
 ### Author
 

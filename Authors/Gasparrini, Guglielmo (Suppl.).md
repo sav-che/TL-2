@@ -29,7 +29,7 @@ ipni_record_modified: 2013-05-15 11:32:26.0
 > Author links: [IPNI](https://www.ipni.org/a/3038-1) LSID 3038-1, [Wikidata](https://www.wikidata.org/wiki/Q3119279) QID Q3119279
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gasparrini, Gulielmo {std. Gasp.}|first entry]] for this author
+> [!example] See also [[Gasparrini, Gulielmo|first entry]] for this author
 
 ### Author
 

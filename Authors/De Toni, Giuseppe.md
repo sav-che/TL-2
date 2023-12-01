@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2166-1) LSID 2166-1, [Wikidata](https://www.wikidata.org/wiki/Q36561288) QID Q36561288
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[De Toni, Giuseppe (Joseph) {std. G. De Toni} (Suppl.)|second entry]] for this author
+> [!example] See also [[De Toni, Giuseppe (Joseph) (Suppl.)|second entry]] for this author
 
 ### Author
 

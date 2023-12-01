@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16154-1) LSID 16154-1, [Wikidata](https://www.wikidata.org/wiki/Q15977605) QID Q15977605
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bisby, Guy Richard {std. Bisby}|first entry]] for this author
+> [!example] See also [[Bisby, Guy Richard|first entry]] for this author
 
 ### Author
 

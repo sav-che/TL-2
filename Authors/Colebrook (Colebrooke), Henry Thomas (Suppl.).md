@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:44:28.0
 > Author links: [IPNI](https://www.ipni.org/a/1732-1) LSID 1732-1, [Wikidata](https://www.wikidata.org/wiki/Q237271) QID Q237271
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Colebrooke, Henry Thomas {std. Colebr.}|first entry]] for this author
+> [!example] See also [[Colebrooke, Henry Thomas|first entry]] for this author
 
 ### Author
 

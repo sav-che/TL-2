@@ -30,7 +30,7 @@ ipni_record_modified: 2010-07-14 09:23:16.0
 > Author links: [IPNI](https://www.ipni.org/a/18271-1) LSID 18271-1, [Wikidata](https://www.wikidata.org/wiki/Q316571) QID Q316571
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dumortier, Barthélemy Charles Joseph (also du Mortier) {std. Dumort.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dumortier, Barthélemy Charles Joseph (also du Mortier) (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/991-1) LSID 991-1, [Wikidata](https://www.wikidata.org/wiki/Q1693783) QID Q1693783
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bornemann, Johann Georg {std. J. Bornem.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bornemann, Johann Georg (Suppl.)|second entry]] for this author
 
 ### Author
 

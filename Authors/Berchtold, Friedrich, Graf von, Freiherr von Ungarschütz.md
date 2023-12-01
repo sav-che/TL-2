@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/671-1) LSID 671-1, [Wikidata](https://www.wikidata.org/wiki/Q940150) QID Q940150
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz {std. Bercht.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz (Suppl.)|second entry]] for this author
 
 ### Author
 

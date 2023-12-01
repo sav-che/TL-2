@@ -26,7 +26,7 @@ ipni_record_modified: 2013-05-15 11:47:07.0
 > Author links: [IPNI](https://www.ipni.org/a/412-1) LSID 412-1, [Wikidata](https://www.wikidata.org/wiki/Q4076182) QID Q4076182
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bakhuizen van den Brink, Reinier Cornelis Jr. {std. Bakh. f.}|first entry]] for this author
+> [!example] See also [[Bakhuizen van den Brink, Reinier Cornelis Jr.|first entry]] for this author
 
 ### Author
 

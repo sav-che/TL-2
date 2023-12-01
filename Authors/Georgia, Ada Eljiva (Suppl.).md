@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3094-1) LSID 3094-1, [Wikidata](https://www.wikidata.org/wiki/Q21513902) QID Q21513902
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Georgia, Ada E. {std. Georgia}|first entry]] for this author
+> [!example] See also [[Georgia, Ada E.|first entry]] for this author
 
 ### Author
 

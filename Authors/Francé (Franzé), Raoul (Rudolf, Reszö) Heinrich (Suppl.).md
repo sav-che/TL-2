@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2867-1) LSID 2867-1, [Wikidata](https://www.wikidata.org/wiki/Q88918) QID Q88918
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Francé, Raoul Heinrich (Franzé, Reszö) {std. Francé}|first entry]] for this author
+> [!example] See also [[Francé, Raoul Heinrich (Franzé, Reszö)|first entry]] for this author
 
 ### Author
 

@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/17479-1) LSID 17479-1, [Wikidata](https://www.wikidata.org/wiki/Q535104) QID Q535104
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Coville, Frederick Vernon {std. Coville}|first entry]] for this author
+> [!example] See also [[Coville, Frederick Vernon|first entry]] for this author
 
 ### Author
 

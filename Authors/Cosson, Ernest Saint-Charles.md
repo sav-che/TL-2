@@ -31,7 +31,7 @@ ipni_record_modified: 2007-02-23 07:31:41.0
 > Author links: [IPNI](https://www.ipni.org/a/17452-1) LSID 17452-1, [Wikidata](https://www.wikidata.org/wiki/Q1276939) QID Q1276939
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cosson, Ernest (Saint-Charles) {std. Coss.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Cosson, Ernest (Saint-Charles) (Suppl.)|second entry]] for this author
 
 ### Author
 

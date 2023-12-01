@@ -27,7 +27,7 @@ ipni_record_modified: 2004-07-05 09:01:30.0
 > Author links: [IPNI](https://www.ipni.org/a/12354-1) LSID 12354-1, [Wikidata](https://www.wikidata.org/wiki/Q66180) QID Q66180
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bongard, August Gustav Heinrich {std. Bong.}|first entry]] for this author
+> [!example] See also [[Bongard, August Gustav Heinrich|first entry]] for this author
 
 ### Author
 

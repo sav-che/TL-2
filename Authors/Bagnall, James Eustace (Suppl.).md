@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/31179-1) LSID 31179-1, [Wikidata](https://www.wikidata.org/wiki/Q9010691) QID Q9010691
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bagnall, James Eustace {std. Bagn.}|first entry]] for this author
+> [!example] See also [[Bagnall, James Eustace|first entry]] for this author
 
 ### Author
 

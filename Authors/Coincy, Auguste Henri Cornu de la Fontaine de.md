@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:47:40.0
 > Author links: [IPNI](https://www.ipni.org/a/1726-1) LSID 1726-1, [Wikidata](https://www.wikidata.org/wiki/Q615827) QID Q615827
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Coincy, Auguste Henri (Cornut de la Fontaine de) {std. Coincy} (Suppl.)|second entry]] for this author
+> [!example] See also [[Coincy, Auguste Henri (Cornut de la Fontaine de) (Suppl.)|second entry]] for this author
 
 ### Author
 

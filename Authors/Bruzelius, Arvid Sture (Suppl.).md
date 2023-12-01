@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/1234-1) LSID 1234-1, [Wikidata](https://www.wikidata.org/wiki/Q5588668) QID Q5588668
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bruzelius, Arvid Sture {std. Bruzelius}|first entry]] for this author
+> [!example] See also [[Bruzelius, Arvid Sture|first entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/12411-1) LSID 12411-1, [Wikidata](https://www.wikidata.org/wiki/Q4172636) QID Q4172636
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dörfler, Ignaz {std. Dörfl.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dörfler, Ignaz (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/179-1) LSID 179-1, [Wikidata](https://www.wikidata.org/wiki/Q1669326) QID Q1669326
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ames, Oakes {std. Ames}|first entry]] for this author
+> [!example] See also [[Ames, Oakes|first entry]] for this author
 
 ### Author
 

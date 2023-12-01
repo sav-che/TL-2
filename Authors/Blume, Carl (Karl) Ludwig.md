@@ -31,7 +31,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16230-1) LSID 16230-1, [Wikidata](https://www.wikidata.org/wiki/Q76816) QID Q76816
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Blume, Carl (Karl) Ludwig {std. Blume} (Suppl.)|second entry]] for this author
+> [!example] See also [[Blume, Carl (Karl) Ludwig (Suppl.)|second entry]] for this author
 
 ### Author
 

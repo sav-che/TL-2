@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3447-1) LSID 3447-1, [Wikidata](https://www.wikidata.org/wiki/Q1528508) QID Q1528508
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gümbel, Wilhelm Theodor {std. W. Gümbel}|first entry]] for this author
+> [!example] See also [[Gümbel, Wilhelm Theodor|first entry]] for this author
 
 ### Author
 

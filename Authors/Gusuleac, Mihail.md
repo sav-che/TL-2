@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:27:49.0
 > Author links: [IPNI](https://www.ipni.org/a/3497-1) LSID 3497-1, [Wikidata](https://www.wikidata.org/wiki/Q4153111) QID Q4153111
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Guşuleac, Mihail (Michail) {std. Gusul.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Guşuleac, Mihail (Michail) (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/31379-1) LSID 31379-1, [Wikidata](https://www.wikidata.org/wiki/Q12349965) QID Q12349965
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Barth, József (Joseph) {std. Barth} (Suppl.)|second entry]] for this author
+> [!example] See also [[Barth, József (Joseph) (Suppl.)|second entry]] for this author
 
 ### Author
 

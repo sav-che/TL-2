@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2538-1) LSID 2538-1, [Wikidata](https://www.wikidata.org/wiki/Q21512171) QID Q21512171
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Engelhardt, Hermann {std. Engelh.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Engelhardt, Hermann (Suppl.)|second entry]] for this author
 
 ### Author
 

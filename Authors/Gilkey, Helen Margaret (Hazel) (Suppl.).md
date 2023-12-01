@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/19337-1) LSID 19337-1, [Wikidata](https://www.wikidata.org/wiki/Q15122935) QID Q15122935
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gilkey, Helen Margaret {std. Gilkey}|first entry]] for this author
+> [!example] See also [[Gilkey, Helen Margaret|first entry]] for this author
 
 ### Author
 

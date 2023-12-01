@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2494-1) LSID 2494-1, [Wikidata](https://www.wikidata.org/wiki/Q5644009) QID Q5644009
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Eisenach, Paul Heinrich Otto {std. Eisenach} (Suppl.)|second entry]] for this author
+> [!example] See also [[Eisenach, Paul Heinrich Otto (Suppl.)|second entry]] for this author
 
 ### Author
 

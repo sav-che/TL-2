@@ -29,7 +29,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2769-1) LSID 2769-1, [Wikidata](https://www.wikidata.org/wiki/Q1064374) QID Q1064374
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Flahault, Charles Henri Marie {std. Flahault}|first entry]] for this author
+> [!example] See also [[Flahault, Charles Henri Marie|first entry]] for this author
 
 ### Author
 

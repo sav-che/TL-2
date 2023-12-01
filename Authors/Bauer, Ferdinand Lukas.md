@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/551-1) LSID 551-1, [Wikidata](https://www.wikidata.org/wiki/Q79012) QID Q79012
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bauer, Ferdinand Lucas {std. F.L. Bauer} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bauer, Ferdinand Lucas (Suppl.)|second entry]] for this author
 
 ### Author
 

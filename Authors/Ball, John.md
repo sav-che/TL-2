@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/428-1) LSID 428-1, [Wikidata](https://www.wikidata.org/wiki/Q957519) QID Q957519
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ball, John {std. J. Ball} (Suppl.)|second entry]] for this author
+> [!example] See also [[Ball, John (Suppl.)|second entry]] for this author
 
 ### Author
 

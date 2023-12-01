@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/418-1) LSID 418-1, [Wikidata](https://www.wikidata.org/wiki/Q3619217) QID Q3619217
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Baldacci, Antonio {std. Baldacci}|first entry]] for this author
+> [!example] See also [[Baldacci, Antonio|first entry]] for this author
 
 ### Author
 

@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/560-1) LSID 560-1, [Wikidata](https://www.wikidata.org/wiki/Q36543479) QID Q36543479
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Baumgardt, Ernst {std. Baumgardt}|first entry]] for this author
+> [!example] See also [[Baumgardt, Ernst|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2014-12-01 11:38:27.0
 > Author links: [IPNI](https://www.ipni.org/a/465-1) LSID 465-1, [Wikidata](https://www.wikidata.org/wiki/Q45374) QID Q45374
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Barbosa Rodrigues, João {std. Barb. Rodr.}|first]] and [[Barbosa Rodrigues, João {std. Barb. Rodr.} (Suppl.)|third]] entries for this author
+> [!example] See also [[Barbosa Rodrigues, João|first]] and [[Barbosa Rodrigues, João (Suppl.)|third]] entries for this author
 
 ### Author
 

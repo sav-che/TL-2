@@ -26,7 +26,7 @@ ipni_record_modified: 2013-05-15 11:51:13.0
 > Author links: [IPNI](https://www.ipni.org/a/2800-1) LSID 2800-1, [Wikidata](https://www.wikidata.org/wiki/Q895467) QID Q895467
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Foerster (later Förster), Arnold {std. A. Foerster} (Suppl.)|second entry]] for this author
+> [!example] See also [[Foerster (later Förster), Arnold (Suppl.)|second entry]] for this author
 
 ### Author
 

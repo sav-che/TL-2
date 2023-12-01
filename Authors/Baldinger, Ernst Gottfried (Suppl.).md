@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/419-1) LSID 419-1, [Wikidata](https://www.wikidata.org/wiki/Q214752) QID Q214752
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Baldinger, Ernst Gottfried {std. Baldinger}|first entry]] for this author
+> [!example] See also [[Baldinger, Ernst Gottfried|first entry]] for this author
 
 ### Author
 

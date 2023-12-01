@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3257-1) LSID 3257-1, [Wikidata](https://www.wikidata.org/wiki/Q39020268) QID Q39020268
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gomont, Maurice Augustin {std. Gomont}|first entry]] for this author
+> [!example] See also [[Gomont, Maurice Augustin|first entry]] for this author
 
 ### Author
 

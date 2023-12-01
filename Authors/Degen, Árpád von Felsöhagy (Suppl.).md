@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2079-1) LSID 2079-1, [Wikidata](https://www.wikidata.org/wiki/Q840188) QID Q840188
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Degen, Arpád von {std. Degen}|first entry]] for this author
+> [!example] See also [[Degen, Arpád von|first entry]] for this author
 
 ### Author
 

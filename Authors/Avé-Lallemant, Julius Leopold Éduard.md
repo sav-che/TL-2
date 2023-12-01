@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/342-1) LSID 342-1, [Wikidata](https://www.wikidata.org/wiki/Q72901) QID Q72901
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Avé-Lallemant, Julius Leopold Éduard {std. Avé-Lall.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Avé-Lallemant, Julius Leopold Éduard (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2714-1) LSID 2714-1, [Wikidata](https://www.wikidata.org/wiki/Q5830772) QID Q5830772
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fiek, Emil {std. Fiek}|first entry]] for this author
+> [!example] See also [[Fiek, Emil|first entry]] for this author
 
 ### Author
 

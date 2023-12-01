@@ -31,7 +31,7 @@ ipni_record_modified: 2006-09-06 05:14:15.0
 > Author links: [IPNI](https://www.ipni.org/a/2406-1) LSID 2406-1, [Wikidata](https://www.wikidata.org/wiki/Q703990) QID Q703990
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Durieu de Maisonneuve, Michel Charles {std. Durieu}|first entry]] for this author
+> [!example] See also [[Durieu de Maisonneuve, Michel Charles|first entry]] for this author
 
 ### Author
 

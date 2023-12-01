@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/611-1) LSID 611-1, [Wikidata](https://www.wikidata.org/wiki/Q4083920) QID Q4083920
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Beer, Johann Georg {std. Beer} (Suppl.)|second entry]] for this author
+> [!example] See also [[Beer, Johann Georg (Suppl.)|second entry]] for this author
 
 ### Author
 

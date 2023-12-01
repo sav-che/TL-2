@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2632-1) LSID 2632-1, [Wikidata](https://www.wikidata.org/wiki/Q21512599) QID Q21512599
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Farenholtz, Hermann {std. Farenholtz}|first entry]] for this author
+> [!example] See also [[Farenholtz, Hermann|first entry]] for this author
 
 ### Author
 

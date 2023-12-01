@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/15795-1) LSID 15795-1, [Wikidata](https://www.wikidata.org/wiki/Q641850) QID Q641850
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Battarra, Giovanni Antonio {std. Battarra}|first entry]] for this author
+> [!example] See also [[Battarra, Giovanni Antonio|first entry]] for this author
 
 ### Author
 

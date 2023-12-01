@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2922-1) LSID 2922-1, [Wikidata](https://www.wikidata.org/wiki/Q5745158) QID Q5745158
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fristedt, Robert Fredric (Frederic, Fredrik) {std. Fristedt} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fristedt, Robert Fredric (Frederic, Fredrik) (Suppl.)|second entry]] for this author
 
 ### Author
 

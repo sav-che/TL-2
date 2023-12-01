@@ -31,7 +31,7 @@ ipni_record_modified: 2010-09-27 11:29:17.0
 > Author links: [IPNI](https://www.ipni.org/a/12341-1) LSID 12341-1, [Wikidata](https://www.wikidata.org/wiki/Q78986) QID Q78986
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Beck, Ritter von Mannagetta und Lerchenau, Günther {std. Beck}|first entry]] for this author
+> [!example] See also [[Beck, Ritter von Mannagetta und Lerchenau, Günther|first entry]] for this author
 
 ### Author
 

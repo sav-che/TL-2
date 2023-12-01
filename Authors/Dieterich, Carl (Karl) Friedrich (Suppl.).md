@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2204-1) LSID 2204-1, [Wikidata](https://www.wikidata.org/wiki/Q21510391) QID Q21510391
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dieterich, Carl Friedrich {std. Dieter.}|first entry]] for this author
+> [!example] See also [[Dieterich, Carl Friedrich|first entry]] for this author
 
 ### Author
 

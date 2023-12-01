@@ -27,7 +27,7 @@ ipni_record_modified: 2015-10-16 22:10:18.0
 > Author links: [IPNI](https://www.ipni.org/a/1351-1) LSID 1351-1, [Wikidata](https://www.wikidata.org/wiki/Q21338925) QID Q21338925
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cain, Roy Franklin {std. Cain} (Suppl.)|second entry]] for this author
+> [!example] See also [[Cain, Roy Franklin (Suppl.)|second entry]] for this author
 
 ### Author
 

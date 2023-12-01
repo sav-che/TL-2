@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16898-1) LSID 16898-1, [Wikidata](https://www.wikidata.org/wiki/Q6766446) QID Q6766446
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Carleton, Mark Alfred {std. Carleton}|first entry]] for this author
+> [!example] See also [[Carleton, Mark Alfred|first entry]] for this author
 
 ### Author
 

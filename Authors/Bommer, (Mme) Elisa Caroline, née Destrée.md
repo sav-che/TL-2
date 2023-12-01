@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/16313-1) LSID 16313-1, [Wikidata](https://www.wikidata.org/wiki/Q5361352) QID Q5361352
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Destrée, Caroline Élisa {std. E. Bommer} (Suppl.)|second entry]] for this author
+> [!example] See also [[Destrée, Caroline Élisa (Suppl.)|second entry]] for this author
 
 ### Author
 

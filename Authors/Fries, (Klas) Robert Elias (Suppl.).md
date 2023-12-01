@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:49:35.0
 > Author links: [IPNI](https://www.ipni.org/a/2916-1) LSID 2916-1, [Wikidata](https://www.wikidata.org/wiki/Q15414) QID Q15414
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fries, Klas Robert Elias {std. R.E. Fr.}|first entry]] for this author
+> [!example] See also [[Fries, Klas Robert Elias|first entry]] for this author
 
 ### Author
 

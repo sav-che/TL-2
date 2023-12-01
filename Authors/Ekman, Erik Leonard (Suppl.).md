@@ -33,7 +33,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2502-1) LSID 2502-1, [Wikidata](https://www.wikidata.org/wiki/Q541549) QID Q541549
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ekman, Erik Leonard {std. Ekman}|first entry]] for this author
+> [!example] See also [[Ekman, Erik Leonard|first entry]] for this author
 
 ### Author
 

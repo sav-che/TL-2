@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:53:49.0
 > Author links: [IPNI](https://www.ipni.org/a/2838-1) LSID 2838-1, [Wikidata](https://www.wikidata.org/wiki/Q116027) QID Q116027
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Forsyth-Major (Major), Charles Immanuel {std. Fors.-Major} (Suppl.)|second entry]] for this author
+> [!example] See also [[Forsyth-Major (Major), Charles Immanuel (Suppl.)|second entry]] for this author
 
 ### Author
 

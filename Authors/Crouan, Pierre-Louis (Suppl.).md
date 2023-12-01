@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/17546-1) LSID 17546-1, [Wikidata](https://www.wikidata.org/wiki/Q3383270) QID Q3383270
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Crouan, Pierre Louis {std. P. Crouan}|first entry]] for this author
+> [!example] See also [[Crouan, Pierre Louis|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1152-1) LSID 1152-1, [Wikidata](https://www.wikidata.org/wiki/Q746034) QID Q746034
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Briquet, John Isaac {std. Briq.}|first entry]] for this author
+> [!example] See also [[Briquet, John Isaac|first entry]] for this author
 
 ### Author
 

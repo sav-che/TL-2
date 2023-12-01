@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2122-1) LSID 2122-1, [Wikidata](https://www.wikidata.org/wiki/Q3557502) QID Q3557502
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[De Moor, V.P.G. {std. De Moor} (Suppl.)|second entry]] for this author
+> [!example] See also [[De Moor, V.P.G. (Suppl.)|second entry]] for this author
 
 ### Author
 

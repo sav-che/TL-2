@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1969-1) LSID 1969-1, [Wikidata](https://www.wikidata.org/wiki/Q2917982) QID Q2917982
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dalziel, John McEwen {std. Dalziel}|first entry]] for this author
+> [!example] See also [[Dalziel, John McEwen|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18830-1) LSID 18830-1, [Wikidata](https://www.wikidata.org/wiki/Q2833396) QID Q2833396
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fischer von Waldheim, Alexander A. {std. A.A. Fisch. Waldh.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fischer von Waldheim, Alexander A. (Suppl.)|second entry]] for this author
 
 ### Author
 

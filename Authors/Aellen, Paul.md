@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/77-1) LSID 77-1, [Wikidata](https://www.wikidata.org/wiki/Q122747) QID Q122747
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Aellen, Paul {std. Aellen} (Suppl.)|second entry]] for this author
+> [!example] See also [[Aellen, Paul (Suppl.)|second entry]] for this author
 
 ### Author
 

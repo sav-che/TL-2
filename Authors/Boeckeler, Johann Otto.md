@@ -27,7 +27,7 @@ ipni_record_modified: 2010-10-27 11:16:50.0
 > Author links: [IPNI](https://www.ipni.org/a/893-1) LSID 893-1, [Wikidata](https://www.wikidata.org/wiki/Q10307778) QID Q10307778
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Böckeler (Boeckeler), (Johann) Otto {std. Boeck.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Böckeler (Boeckeler), (Johann) Otto (Suppl.)|second entry]] for this author
 
 ### Author
 

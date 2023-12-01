@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/12452-1) LSID 12452-1, [Wikidata](https://www.wikidata.org/wiki/Q976009) QID Q976009
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dangeard, Pierre (Clement) Augustin {std. P.A. Dang.}|first entry]] for this author
+> [!example] See also [[Dangeard, Pierre (Clement) Augustin|first entry]] for this author
 
 ### Author
 

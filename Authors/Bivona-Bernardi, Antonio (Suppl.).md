@@ -30,7 +30,7 @@ ipni_record_modified: 2013-05-15 11:53:03.0
 > Author links: [IPNI](https://www.ipni.org/a/16173-1) LSID 16173-1, [Wikidata](https://www.wikidata.org/wiki/Q3619040) QID Q3619040
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bivona-Bernardi, Antonino de {std. Biv.}|first entry]] for this author
+> [!example] See also [[Bivona-Bernardi, Antonino de|first entry]] for this author
 
 ### Author
 

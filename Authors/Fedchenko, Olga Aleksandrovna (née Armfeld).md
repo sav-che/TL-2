@@ -26,7 +26,7 @@ ipni_record_modified: 2013-05-15 11:37:52.0
 > Author links: [IPNI](https://www.ipni.org/a/12497-1) LSID 12497-1, [Wikidata](https://www.wikidata.org/wiki/Q3350415) QID Q3350415
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fedtschenko (Fedchenko), Olga A. (née Armfeld) {std. O. Fedtsch.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fedtschenko (Fedchenko), Olga A. (née Armfeld) (Suppl.)|second entry]] for this author
 
 ### Author
 

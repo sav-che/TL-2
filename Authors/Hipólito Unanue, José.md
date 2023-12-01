@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:36:17.0
 > Author links: [IPNI](https://www.ipni.org/a/10979-1) LSID 10979-1, [Wikidata](https://www.wikidata.org/wiki/Q2332382) QID Q2332382
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Unanue, José Hipólito {std. Unanue} (Suppl.)|second entry]] for this author
+> [!example] See also [[Unanue, José Hipólito (Suppl.)|second entry]] for this author
 
 ### Author
 

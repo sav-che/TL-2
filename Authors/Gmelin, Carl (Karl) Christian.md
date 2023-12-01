@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/3202-1) LSID 3202-1, [Wikidata](https://www.wikidata.org/wiki/Q84525) QID Q84525
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gmelin, Carl (Karl) Christian {std. C.C. Gmelin} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gmelin, Carl (Karl) Christian (Suppl.)|second entry]] for this author
 
 ### Author
 

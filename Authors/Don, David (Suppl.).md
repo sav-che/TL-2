@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18136-1) LSID 18136-1, [Wikidata](https://www.wikidata.org/wiki/Q1174244) QID Q1174244
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Don, David {std. D. Don}|first entry]] for this author
+> [!example] See also [[Don, David|first entry]] for this author
 
 ### Author
 

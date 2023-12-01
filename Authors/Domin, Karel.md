@@ -27,7 +27,7 @@ ipni_record_modified: 2006-10-31 14:05:06.0
 > Author links: [IPNI](https://www.ipni.org/a/2263-1) LSID 2263-1, [Wikidata](https://www.wikidata.org/wiki/Q1109649) QID Q1109649
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Domin, Karel {std. Domin} (Suppl.)|second entry]] for this author
+> [!example] See also [[Domin, Karel (Suppl.)|second entry]] for this author
 
 ### Author
 

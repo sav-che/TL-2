@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18722-1) LSID 18722-1, [Wikidata](https://www.wikidata.org/wiki/Q5728130) QID Q5728130
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ferdinandsen, Carl Christian Frederic(k) {std. Ferd.}|first entry]] for this author
+> [!example] See also [[Ferdinandsen, Carl Christian Frederic(k)|first entry]] for this author
 
 ### Author
 

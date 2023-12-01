@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2472-1) LSID 2472-1, [Wikidata](https://www.wikidata.org/wiki/Q1985029) QID Q1985029
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Eeden, Frederik Willem van {std. Eeden}|first entry]] for this author
+> [!example] See also [[Eeden, Frederik Willem van|first entry]] for this author
 
 ### Author
 

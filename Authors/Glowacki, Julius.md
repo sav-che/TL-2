@@ -29,7 +29,7 @@ ipni_record_modified: 2013-05-15 11:38:15.0
 > Author links: [IPNI](https://www.ipni.org/a/3199-1) LSID 3199-1, [Wikidata](https://www.wikidata.org/wiki/Q12793064) QID Q12793064
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Głowacki, Julius (Julij) {std. Glow.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Głowacki, Julius (Julij) (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:26:02.0
 > Author links: [IPNI](https://www.ipni.org/a/17263-1) LSID 17263-1, [Wikidata](https://www.wikidata.org/wiki/Q4503903) QID Q4503903
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cienkowski, Leo de (Tzenkovskii, Lev Semenovich) {std. Cienk.}|first entry]] for this author
+> [!example] See also [[Cienkowski, Leo de (Tzenkovskii, Lev Semenovich)|first entry]] for this author
 
 ### Author
 

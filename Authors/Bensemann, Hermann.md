@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/660-1) LSID 660-1, [Wikidata](https://www.wikidata.org/wiki/Q21505965) QID Q21505965
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bensemann, Hermann {std. Bensemann} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bensemann, Hermann (Suppl.)|second entry]] for this author
 
 ### Author
 

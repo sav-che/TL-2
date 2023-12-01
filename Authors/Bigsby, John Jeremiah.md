@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/785-1) LSID 785-1, [Wikidata](https://www.wikidata.org/wiki/Q4086441) QID Q4086441
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bigsby, John Jeremiah {std. Bigsby} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bigsby, John Jeremiah (Suppl.)|second entry]] for this author
 
 ### Author
 

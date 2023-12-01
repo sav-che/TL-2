@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/972-1) LSID 972-1, [Wikidata](https://www.wikidata.org/wiki/Q4100323) QID Q4100323
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Boott, Francis M. B. {std. Boott}|first entry]] for this author
+> [!example] See also [[Boott, Francis M. B.|first entry]] for this author
 
 ### Author
 

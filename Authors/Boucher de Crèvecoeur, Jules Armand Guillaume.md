@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1017-1) LSID 1017-1, [Wikidata](https://www.wikidata.org/wiki/Q20013591) QID Q20013591
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Boucher de Crèvecoeur, Jules Armand Guillaume {std. Boucher} (Suppl.)|second entry]] for this author
+> [!example] See also [[Boucher de Crèvecoeur, Jules Armand Guillaume (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -25,7 +25,7 @@ ipni_record_modified: 2013-05-15 11:34:32.0
 > [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Vos, André (Pascal Alexandre) de (De Vos) {std. De Vos}|first entry]] for this author
+> [!example] See also [[Vos, André (Pascal Alexandre) de (De Vos)|first entry]] for this author
 
 ### Author
 

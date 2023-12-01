@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/273-1) LSID 273-1, [Wikidata](https://www.wikidata.org/wiki/Q21505339) QID Q21505339
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Arnaud, Jean André Michel {std. J. Arnaud}|first entry]] for this author
+> [!example] See also [[Arnaud, Jean André Michel|first entry]] for this author
 
 ### Author
 

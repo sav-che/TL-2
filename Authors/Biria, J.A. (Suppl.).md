@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/803-1) LSID 803-1, [Wikidata](https://www.wikidata.org/wiki/Q13409387) QID Q13409387
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Biria, J. A. J. {std. Biria}|first entry]] for this author
+> [!example] See also [[Biria, J. A. J.|first entry]] for this author
 
 ### Author
 

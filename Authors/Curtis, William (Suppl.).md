@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1927-1) LSID 1927-1, [Wikidata](https://www.wikidata.org/wiki/Q460867) QID Q460867
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Curtis, William {std. Curtis}|first entry]] for this author
+> [!example] See also [[Curtis, William|first entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/949-1) LSID 949-1, [Wikidata](https://www.wikidata.org/wiki/Q21506281) QID Q21506281
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bondam, Rutger {std. Bondam}|first entry]] for this author
+> [!example] See also [[Bondam, Rutger|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/31333-1) LSID 31333-1, [Wikidata](https://www.wikidata.org/wiki/Q2415098) QID Q2415098
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Barla, (Joseph Hieronymus (Jérome)) Jean Baptiste {std. Barla} (Suppl.)|second entry]] for this author
+> [!example] See also [[Barla, (Joseph Hieronymus (Jérome)) Jean Baptiste (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -30,7 +30,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/31272-1) LSID 31272-1, [Wikidata](https://www.wikidata.org/wiki/Q962745) QID Q962745
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Balsamo-Crivelli, Guiseppe Gabriel {std. Bals.-Criv.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Balsamo-Crivelli, Guiseppe Gabriel (Suppl.)|second entry]] for this author
 
 ### Author
 

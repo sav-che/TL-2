@@ -29,7 +29,7 @@ ipni_record_modified: 2013-02-13 11:38:55.0
 > Author links: [IPNI](https://www.ipni.org/a/16345-1) LSID 16345-1, [Wikidata](https://www.wikidata.org/wiki/Q4992249) QID Q4992249
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Børgesen (Boerg., Börg.), Frederik Christian Emil {std. Børgesen} (Suppl.)|second entry]] for this author
+> [!example] See also [[Børgesen (Boerg., Börg.), Frederik Christian Emil (Suppl.)|second entry]] for this author
 
 ### Author
 

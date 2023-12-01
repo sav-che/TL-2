@@ -26,7 +26,7 @@ ipni_record_modified: 2014-07-07 14:10:44.0
 > Author links: [IPNI](https://www.ipni.org/a/1245-1) LSID 1245-1, [Wikidata](https://www.wikidata.org/wiki/Q69809) QID Q69809
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Buchenau, Franz Georg Philipp {std. Buchenau}|first entry]] for this author
+> [!example] See also [[Buchenau, Franz Georg Philipp|first entry]] for this author
 
 ### Author
 

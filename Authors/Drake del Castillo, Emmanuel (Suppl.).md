@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2302-1) LSID 2302-1, [Wikidata](https://www.wikidata.org/wiki/Q1338265) QID Q1338265
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Drake del Castillo, Emmanuel {std. Drake}|first entry]] for this author
+> [!example] See also [[Drake del Castillo, Emmanuel|first entry]] for this author
 
 ### Author
 

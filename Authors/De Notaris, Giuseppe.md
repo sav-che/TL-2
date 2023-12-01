@@ -31,7 +31,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2132-1) LSID 2132-1, [Wikidata](https://www.wikidata.org/wiki/Q3014085) QID Q3014085
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[De Notaris, Giuseppe {std. De Not.} (Suppl.)|second entry]] for this author
+> [!example] See also [[De Notaris, Giuseppe (Suppl.)|second entry]] for this author
 
 ### Author
 

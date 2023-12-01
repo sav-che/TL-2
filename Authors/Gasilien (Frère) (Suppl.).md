@@ -29,7 +29,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/7365-1) LSID 7365-1, [Wikidata](https://www.wikidata.org/wiki/Q21339522) QID Q21339522
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Parrique, Géraud (Frère Gasilien) {std. Parrique}|first entry]] for this author
+> [!example] See also [[Parrique, Géraud (Frère Gasilien)|first entry]] for this author
 
 ### Author
 

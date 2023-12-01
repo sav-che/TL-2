@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2997-1) LSID 2997-1, [Wikidata](https://www.wikidata.org/wiki/Q12329973) QID Q12329973
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Galløe, Olaf {std. Galløe} (Suppl.)|second entry]] for this author
+> [!example] See also [[Galløe, Olaf (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1992-1) LSID 1992-1, [Wikidata](https://www.wikidata.org/wiki/Q434331) QID Q434331
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Danser, Benedictus Hubertus {std. Danser} (Suppl.)|second entry]] for this author
+> [!example] See also [[Danser, Benedictus Hubertus (Suppl.)|second entry]] for this author
 
 ### Author
 

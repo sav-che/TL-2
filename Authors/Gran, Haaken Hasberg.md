@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3323-1) LSID 3323-1, [Wikidata](https://www.wikidata.org/wiki/Q5636481) QID Q5636481
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gran, Haaken Hasberg {std. Gran} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gran, Haaken Hasberg (Suppl.)|second entry]] for this author
 
 ### Author
 

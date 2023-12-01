@@ -27,7 +27,7 @@ ipni_record_modified: 2007-12-11 09:57:27.0
 > Author links: [IPNI](https://www.ipni.org/a/1812-1) LSID 1812-1, [Wikidata](https://www.wikidata.org/wiki/Q2656605) QID Q2656605
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Corrêa da Serra, José Francisco {std. Corrêa}|first entry]] for this author
+> [!example] See also [[Corrêa da Serra, José Francisco|first entry]] for this author
 
 ### Author
 

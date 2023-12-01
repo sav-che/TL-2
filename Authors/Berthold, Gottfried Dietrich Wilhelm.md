@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16037-1) LSID 16037-1, [Wikidata](https://www.wikidata.org/wiki/Q98149) QID Q98149
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Berthold, Gottfried Dietrich Wilhelm {std. Berthold} (Suppl.)|second entry]] for this author
+> [!example] See also [[Berthold, Gottfried Dietrich Wilhelm (Suppl.)|second entry]] for this author
 
 ### Author
 

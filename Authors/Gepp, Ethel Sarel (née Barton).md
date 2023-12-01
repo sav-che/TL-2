@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/12513-1) LSID 12513-1, [Wikidata](https://www.wikidata.org/wiki/Q21341607) QID Q21341607
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Barton, Ethel Sarel {std. E. Barton}|second entry]] for this author
+> [!example] See also [[Barton, Ethel Sarel|second entry]] for this author
 
 ### Author
 

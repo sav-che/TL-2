@@ -26,7 +26,7 @@ ipni_record_modified: 2013-05-15 11:39:57.0
 > Author links: [IPNI](https://www.ipni.org/a/2973-1) LSID 2973-1, [Wikidata](https://www.wikidata.org/wiki/Q62242) QID Q62242
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gaertner (Gärtner), Carl (Karl) Friedrich (von) {std. C.F. Gaertn.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gaertner (Gärtner), Carl (Karl) Friedrich (von) (Suppl.)|second entry]] for this author
 
 ### Author
 

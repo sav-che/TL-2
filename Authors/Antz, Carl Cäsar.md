@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/239-1) LSID 239-1, [Wikidata](https://www.wikidata.org/wiki/Q16500057) QID Q16500057
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Antz, Carl (Karl) Cäsar {std. Antz} (Suppl.)|second entry]] for this author
+> [!example] See also [[Antz, Carl (Karl) Cäsar (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2005-10-17 04:14:52.0
 > Author links: [IPNI](https://www.ipni.org/a/2885-1) LSID 2885-1, [Wikidata](https://www.wikidata.org/wiki/Q1337783) QID Q1337783
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fraser, John {std. Fraser} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fraser, John (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-08-11 09:48:52.0
 > Author links: [IPNI](https://www.ipni.org/a/1722-1) LSID 1722-1, [Wikidata](https://www.wikidata.org/wiki/Q655719) QID Q655719
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cogniaux, (Célestin) Alfred {std. Cogn.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Cogniaux, (Célestin) Alfred (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2844-1) LSID 2844-1, [Wikidata](https://www.wikidata.org/wiki/Q3290287) QID Q3290287
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Foslie, Michael (Mikal) Heggelund {std. Foslie}|first entry]] for this author
+> [!example] See also [[Foslie, Michael (Mikal) Heggelund|first entry]] for this author
 
 ### Author
 

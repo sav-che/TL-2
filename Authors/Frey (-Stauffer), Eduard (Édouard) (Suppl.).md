@@ -27,7 +27,7 @@ ipni_record_modified: 2018-03-22 15:37:07.0
 > Author links: [IPNI](https://www.ipni.org/a/18977-1) LSID 18977-1, [Wikidata](https://www.wikidata.org/wiki/Q5818904) QID Q5818904
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Frey, Eduard (-Stauffer) {std. Frey}|first entry]] for this author
+> [!example] See also [[Frey, Eduard (-Stauffer)|first entry]] for this author
 
 ### Author
 

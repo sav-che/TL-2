@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:28:08.0
 > Author links: [IPNI](https://www.ipni.org/a/2836-1) LSID 2836-1, [Wikidata](https://www.wikidata.org/wiki/Q213570) QID Q213570
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Forster, Johann Georg (b. George) Adam {std. G. Forster} (Suppl.)|second entry]] for Forsters
+> [!example] See also [[Forster, Johann Georg (b. George) Adam (Suppl.)|second entry]] for Forsters
 ### Author
 
 Forster, Johann Reinhold (1729-1798), German explorer and botanist, father of J. G. A. Forster, naturalist on Cook's second voyage. 

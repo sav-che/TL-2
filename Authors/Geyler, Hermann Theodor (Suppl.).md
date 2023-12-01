@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3119-1) LSID 3119-1, [Wikidata](https://www.wikidata.org/wiki/Q3134184) QID Q3134184
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Geyler, Hermann Theodor {std. Geyl.}|first entry]] for this author
+> [!example] See also [[Geyler, Hermann Theodor|first entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/51-1) LSID 51-1, [Wikidata](https://www.wikidata.org/wiki/Q10320446) QID Q10320446
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Achepohl, Ludwig {std. Achepohl} (Suppl.)|second entry]] for this author
+> [!example] See also [[Achepohl, Ludwig (Suppl.)|second entry]] for this author
 
 ### Author
 

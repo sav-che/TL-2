@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/74-1) LSID 74-1, [Wikidata](https://www.wikidata.org/wiki/Q5542908) QID Q5542908
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Adlerz, Ernst {std. Adlerz} (Suppl.)|second entry]] for this author
+> [!example] See also [[Adlerz, Ernst (Suppl.)|second entry]] for this author
 
 ### Author
 

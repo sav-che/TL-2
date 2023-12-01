@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:36:10.0
 > Author links: [IPNI](https://www.ipni.org/a/1211-1) LSID 1211-1, [Wikidata](https://www.wikidata.org/wiki/Q21388174) QID Q21388174
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bruehl, Paul Johannes {std. Brühl} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bruehl, Paul Johannes (Suppl.)|second entry]] for this author
 
 ### Author
 

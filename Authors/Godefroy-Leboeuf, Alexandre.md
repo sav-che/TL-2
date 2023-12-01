@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:28:55.0
 > Author links: [IPNI](https://www.ipni.org/a/3213-1) LSID 3213-1, [Wikidata](https://www.wikidata.org/wiki/Q2833709) QID Q2833709
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Godefroy-Lebeuf, Alexandre (né Godefroy) {std. God.-Leb.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Godefroy-Lebeuf, Alexandre (né Godefroy) (Suppl.)|second entry]] for this author
 
 ### Author
 

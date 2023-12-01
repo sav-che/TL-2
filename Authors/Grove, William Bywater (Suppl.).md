@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3421-1) LSID 3421-1, [Wikidata](https://www.wikidata.org/wiki/Q19666664) QID Q19666664
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Grove, William Bywater {std. Grove}|first entry]] for this author
+> [!example] See also [[Grove, William Bywater|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1465-1) LSID 1465-1, [Wikidata](https://www.wikidata.org/wiki/Q545430) QID Q545430
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cavanilles, Antonio José {std. Cav.}|first entry]] for this author
+> [!example] See also [[Cavanilles, Antonio José|first entry]] for this author
 
 ### Author
 

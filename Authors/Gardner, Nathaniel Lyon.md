@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3027-1) LSID 3027-1, [Wikidata](https://www.wikidata.org/wiki/Q21513795) QID Q21513795
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gardner, Nathaniel Lyon {std. N.L. Gardner} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gardner, Nathaniel Lyon (Suppl.)|second entry]] for this author
 
 ### Author
 

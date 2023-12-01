@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16032-1) LSID 16032-1, [Wikidata](https://www.wikidata.org/wiki/Q204261) QID Q204261
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Berthelot, Sabin {std. Berthel.}|first entry]] for this author
+> [!example] See also [[Berthelot, Sabin|first entry]] for this author
 
 ### Author
 

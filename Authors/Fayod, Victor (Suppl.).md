@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18690-1) LSID 18690-1, [Wikidata](https://www.wikidata.org/wiki/Q604169) QID Q604169
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fayod, Victor {std. Fayod}|first entry]] for this author
+> [!example] See also [[Fayod, Victor|first entry]] for this author
 
 ### Author
 

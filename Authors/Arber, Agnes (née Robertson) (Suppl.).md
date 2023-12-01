@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/12328-1) LSID 12328-1, [Wikidata](https://www.wikidata.org/wiki/Q394451) QID Q394451
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Arber, Agnes (née Robertson) {std. A. Arber}|first entry]] for this author
+> [!example] See also [[Arber, Agnes (née Robertson)|first entry]] for this author
 
 ### Author
 

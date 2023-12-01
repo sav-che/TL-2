@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:25:01.0
 > Author links: [IPNI](https://www.ipni.org/a/1309-1) LSID 1309-1, [Wikidata](https://www.wikidata.org/wiki/Q3588389) QID Q3588389
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Burnat, Emile {std. Burnat}|first entry]] for this author
+> [!example] See also [[Burnat, Emile|first entry]] for this author
 
 ### Author
 

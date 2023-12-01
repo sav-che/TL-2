@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2015-1) LSID 2015-1, [Wikidata](https://www.wikidata.org/wiki/Q346939) QID Q346939
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[David, (Abbé) Armand {std. David} (Suppl.)|second entry]] for this author
+> [!example] See also [[David, (Abbé) Armand (Suppl.)|second entry]] for this author
 
 ### Author
 

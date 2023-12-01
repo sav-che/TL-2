@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/404-1) LSID 404-1, [Wikidata](https://www.wikidata.org/wiki/Q4081202) QID Q4081202
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Baker, Edmund Gilbert {std. E.G. Baker} (Suppl.)|second entry]] for this author
+> [!example] See also [[Baker, Edmund Gilbert (Suppl.)|second entry]] for this author
 
 ### Author
 

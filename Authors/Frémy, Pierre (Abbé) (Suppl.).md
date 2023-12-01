@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/33144-1) LSID 33144-1, [Wikidata](https://www.wikidata.org/wiki/Q21513524) QID Q21513524
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Frémy, Pierre (Abbé) {std. Frémy}|first entry]] for this author
+> [!example] See also [[Frémy, Pierre (Abbé)|first entry]] for this author
 
 ### Author
 

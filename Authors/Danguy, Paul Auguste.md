@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1984-1) LSID 1984-1, [Wikidata](https://www.wikidata.org/wiki/Q18670396) QID Q18670396
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Danguy, Paul Auguste {std. Danguy} (Suppl.)|second entry]] for this author
+> [!example] See also [[Danguy, Paul Auguste (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/172-1) LSID 172-1, [Wikidata](https://www.wikidata.org/wiki/Q21505128) QID Q21505128
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Alten, Johann Wilhelm von {std. J. Alten} (Suppl.)|second entry]] for this author
+> [!example] See also [[Alten, Johann Wilhelm von (Suppl.)|second entry]] for this author
 
 ### Author
 

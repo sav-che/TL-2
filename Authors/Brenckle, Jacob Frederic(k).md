@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1119-1) LSID 1119-1, [Wikidata](https://www.wikidata.org/wiki/Q21506463) QID Q21506463
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brenckle, Jacob Frederic(k) {std. Brenckle} (Suppl.)|second entry]] for this author
+> [!example] See also [[Brenckle, Jacob Frederic(k) (Suppl.)|second entry]] for this author
 
 ### Author
 

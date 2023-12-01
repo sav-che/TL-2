@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16648-1) LSID 16648-1, [Wikidata](https://www.wikidata.org/wiki/Q12016933) QID Q12016933
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bubák, Frantisek {std. Bubák} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bubák, Frantisek (Suppl.)|second entry]] for this author
 
 ### Author
 

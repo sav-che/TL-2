@@ -28,7 +28,7 @@ ipni_record_modified: 2014-08-18 12:09:43.0
 > Author links: [IPNI](https://www.ipni.org/a/1040-1) LSID 1040-1, [Wikidata](https://www.wikidata.org/wiki/Q21506373) QID Q21506373
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bouvier, (Jean) Louis {std. Bouvier} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bouvier, (Jean) Louis (Suppl.)|second entry]] for this author
 
 ### Author
 

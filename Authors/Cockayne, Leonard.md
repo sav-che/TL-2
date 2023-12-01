@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1711-1) LSID 1711-1, [Wikidata](https://www.wikidata.org/wiki/Q2268390) QID Q2268390
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cockayne, Leonard {std. Cockayne} (Suppl.)|second entry]] for this author
+> [!example] See also [[Cockayne, Leonard (Suppl.)|second entry]] for this author
 
 ### Author
 

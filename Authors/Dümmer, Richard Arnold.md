@@ -25,7 +25,7 @@ ipni_record_modified: 2007-11-26 09:26:35.0
 > [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33260135) of TL-2 Suppl. VI
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dummer (formerly Dümmer), Richard Arnold {std. Dummer} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dummer (formerly Dümmer), Richard Arnold (Suppl.)|second entry]] for this author
 
 ### Author
 

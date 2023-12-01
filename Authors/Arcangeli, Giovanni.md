@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/252-1) LSID 252-1, [Wikidata](https://www.wikidata.org/wiki/Q1372712) QID Q1372712
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Arcangeli, Giovanni {std. Arcang.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Arcangeli, Giovanni (Suppl.)|second entry]] for this author
 
 ### Author
 

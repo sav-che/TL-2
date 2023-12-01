@@ -31,7 +31,7 @@ ipni_record_modified: 2011-10-12 06:52:19.0
 > Author links: [IPNI](https://www.ipni.org/a/1736-1) LSID 1736-1, [Wikidata](https://www.wikidata.org/wiki/Q2624463) QID Q2624463
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Colenso, William {std. Colenso} (Suppl.)|second entry]] for this author
+> [!example] See also [[Colenso, William (Suppl.)|second entry]] for this author
 
 ### Author
 

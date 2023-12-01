@@ -28,7 +28,7 @@ ipni_record_modified: 2008-02-18 11:51:36.0
 > Author links: [IPNI](https://www.ipni.org/a/12323-1) LSID 12323-1, [Wikidata](https://www.wikidata.org/wiki/Q724538) QID Q724538
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Alboff (Albov), Nicolai Michailowitch {std. Alboff}|first entry]] for this author
+> [!example] See also [[Alboff (Albov), Nicolai Michailowitch|first entry]] for this author
 
 ### Author
 

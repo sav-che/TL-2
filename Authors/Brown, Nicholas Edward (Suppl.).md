@@ -27,7 +27,7 @@ ipni_record_modified: 2008-12-09 09:26:56.0
 > Author links: [IPNI](https://www.ipni.org/a/1191-1) LSID 1191-1, [Wikidata](https://www.wikidata.org/wiki/Q721850) QID Q721850
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brown, Nicholas Edward {std. N.E. Br.}|first entry]] for this author
+> [!example] See also [[Brown, Nicholas Edward|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/841-1) LSID 841-1, [Wikidata](https://www.wikidata.org/wiki/Q728749) QID Q728749
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Blakeslee, Albert Francis {std. Blakeslee} (Suppl.)|second entry]] for this author
+> [!example] See also [[Blakeslee, Albert Francis (Suppl.)|second entry]] for this author
 
 ### Author
 

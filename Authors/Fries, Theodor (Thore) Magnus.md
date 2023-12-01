@@ -29,7 +29,7 @@ ipni_record_modified: 2008-02-05 07:23:54.0
 > Author links: [IPNI](https://www.ipni.org/a/2917-1) LSID 2917-1, [Wikidata](https://www.wikidata.org/wiki/Q15410) QID Q15410
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fries, Theodor (Thore, Thorel) Magnus {std. Th. Fr.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fries, Theodor (Thore, Thorel) Magnus (Suppl.)|second entry]] for this author
 
 ### Author
 

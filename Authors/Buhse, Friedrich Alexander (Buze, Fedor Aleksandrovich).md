@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/12365-1) LSID 12365-1, [Wikidata](https://www.wikidata.org/wiki/Q71580) QID Q71580
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Buhse, Friedrich (Alexander) (Buze, Fedor Aleksandrovich) {std. Buhse} (Suppl.)|second entry]] for this author
+> [!example] See also [[Buhse, Friedrich (Alexander) (Buze, Fedor Aleksandrovich) (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/739-1) LSID 739-1, [Wikidata](https://www.wikidata.org/wiki/Q21506041) QID Q21506041
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Betcke, Ernst Friedrich {std. Betcke}|first entry]] for this author
+> [!example] See also [[Betcke, Ernst Friedrich|first entry]] for this author
 
 ### Author
 

@@ -29,7 +29,7 @@ ipni_record_modified: 2011-10-06 17:43:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2751-1) LSID 2751-1, [Wikidata](https://www.wikidata.org/wiki/Q21513171) QID Q21513171
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fischer-Ooster, Carl (von) {std. Fisch.-Oost.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fischer-Ooster, Carl (von) (Suppl.)|second entry]] for this author
 
 ### Author
 

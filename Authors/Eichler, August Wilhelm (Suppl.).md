@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2488-1) LSID 2488-1, [Wikidata](https://www.wikidata.org/wiki/Q62142) QID Q62142
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Eichler, August Wilhelm {std. Eichler}|first entry]] for this author
+> [!example] See also [[Eichler, August Wilhelm|first entry]] for this author
 
 ### Author
 

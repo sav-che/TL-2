@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1434-1) LSID 1434-1, [Wikidata](https://www.wikidata.org/wiki/Q13476239) QID Q13476239
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Casares-Gil, Antonio {std. Cas.-Gil}|first entry]] for this author
+> [!example] See also [[Casares-Gil, Antonio|first entry]] for this author
 
 ### Author
 

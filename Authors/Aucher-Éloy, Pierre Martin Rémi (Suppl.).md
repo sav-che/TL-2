@@ -27,7 +27,7 @@ ipni_record_modified: 2017-03-29 14:41:30.0
 > Author links: [IPNI](https://www.ipni.org/a/330-1) LSID 330-1, [Wikidata](https://www.wikidata.org/wiki/Q351508) QID Q351508
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Aucher-Éloy, Pierre Martin Rémi {std. Aucher}|first entry]] for this author
+> [!example] See also [[Aucher-Éloy, Pierre Martin Rémi|first entry]] for this author
 
 ### Author
 

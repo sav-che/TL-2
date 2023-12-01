@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2136-1) LSID 2136-1, [Wikidata](https://www.wikidata.org/wiki/Q4820636) QID Q4820636
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Derbès, (Auguste) Alphonse {std. Derbès}|second entry]] for this author
+> [!example] See also [[Derbès, (Auguste) Alphonse|second entry]] for this author
 
 ### Author
 

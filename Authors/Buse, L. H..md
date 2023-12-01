@@ -27,7 +27,7 @@ ipni_record_modified: 2012-07-24 12:55:15.0
 > Author links: [IPNI](https://www.ipni.org/a/1321-1) LSID 1321-1, [Wikidata](https://www.wikidata.org/wiki/Q5978322) QID Q5978322
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Buse, Lodewijk Hendrik {std. Buse} (Suppl.)|second entry]] for this author
+> [!example] See also [[Buse, Lodewijk Hendrik (Suppl.)|second entry]] for this author
 
 ### Author
 

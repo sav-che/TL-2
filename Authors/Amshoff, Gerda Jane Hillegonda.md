@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:29:40.0
 > Author links: [IPNI](https://www.ipni.org/a/183-1) LSID 183-1, [Wikidata](https://www.wikidata.org/wiki/Q5878463) QID Q5878463
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Amshoff, Gerda Jane Hillegonda {std. Amshoff} (Suppl.)|second entry]] for this author
+> [!example] See also [[Amshoff, Gerda Jane Hillegonda (Suppl.)|second entry]] for this author
 
 ### Author
 

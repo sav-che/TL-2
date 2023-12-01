@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2628-1) LSID 2628-1, [Wikidata](https://www.wikidata.org/wiki/Q84485) QID Q84485
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Falkenberg, Paul {std. Falkenb.}|first entry]] for this author
+> [!example] See also [[Falkenberg, Paul|first entry]] for this author
 
 ### Author
 

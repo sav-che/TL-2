@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/148-1) LSID 148-1, [Wikidata](https://www.wikidata.org/wiki/Q21505081) QID Q21505081
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Allen, Guy Oldfield {std. G.O. Allen} (Suppl.)|second entry]] for this author
+> [!example] See also [[Allen, Guy Oldfield (Suppl.)|second entry]] for this author
 
 ### Author
 

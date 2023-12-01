@@ -28,7 +28,7 @@ ipni_record_modified: 2018-12-13 09:18:18.0
 > Author links: [IPNI](https://www.ipni.org/a/2329-1) LSID 2329-1, [Wikidata](https://www.wikidata.org/wiki/Q21510954) QID Q21510954
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Drury, Heber {std. Drury}|first entry]] for this author
+> [!example] See also [[Drury, Heber|first entry]] for this author
 
 ### Author
 

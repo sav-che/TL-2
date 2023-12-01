@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/941-1) LSID 941-1, [Wikidata](https://www.wikidata.org/wiki/Q5937120) QID Q5937120
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bommer, Jean-Édouard {std. J. Bommer} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bommer, Jean-Édouard (Suppl.)|second entry]] for this author
 
 ### Author
 

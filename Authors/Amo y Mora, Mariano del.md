@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/182-1) LSID 182-1, [Wikidata](https://www.wikidata.org/wiki/Q9029033) QID Q9029033
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Amo y Mora, Mariano del {std. Amo} (Suppl.)|second entry]] for this author
+> [!example] See also [[Amo y Mora, Mariano del (Suppl.)|second entry]] for this author
 
 ### Author
 

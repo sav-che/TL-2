@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18251-1) LSID 18251-1, [Wikidata](https://www.wikidata.org/wiki/Q2884274) QID Q2884274
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dufour, Léon (Marie) {std. L.M. Dufour}|first entry]] for this author
+> [!example] See also [[Dufour, Léon (Marie)|first entry]] for this author
 
 ### Author
 

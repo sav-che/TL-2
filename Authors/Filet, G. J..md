@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2727-1) LSID 2727-1, [Wikidata](https://www.wikidata.org/wiki/Q21513006) QID Q21513006
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Filet, G.J. {std. Filet} (Suppl.)|second entry]] for this author
+> [!example] See also [[Filet, G.J. (Suppl.)|second entry]] for this author
 
 ### Author
 

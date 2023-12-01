@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3465-1) LSID 3465-1, [Wikidata](https://www.wikidata.org/wiki/Q2847911) QID Q2847911
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Guillaumin, André {std. Guillaumin}|first entry]] for this author
+> [!example] See also [[Guillaumin, André|first entry]] for this author
 
 ### Author
 

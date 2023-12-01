@@ -27,7 +27,7 @@ ipni_record_modified: 2007-11-26 09:03:23.0
 > Author links: [IPNI](https://www.ipni.org/a/207-1) LSID 207-1, [Wikidata](https://www.wikidata.org/wiki/Q274317) QID Q274317
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[André, Édouard François {std. André}|first entry]] for this author
+> [!example] See also [[André, Édouard François|first entry]] for this author
 
 ### Author
 

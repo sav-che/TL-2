@@ -28,7 +28,7 @@ ipni_record_modified: 2015-08-26 00:40:59.0
 > Author links: [IPNI](https://www.ipni.org/a/30799-1) LSID 30799-1, [Wikidata](https://www.wikidata.org/wiki/Q5547566) QID Q5547566
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Almquist, Sigfrid Oskar Imanuel {std. Almq.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Almquist, Sigfrid Oskar Imanuel (Suppl.)|second entry]] for this author
 
 ### Author
 

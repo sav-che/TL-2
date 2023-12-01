@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/178-1) LSID 178-1, [Wikidata](https://www.wikidata.org/wiki/Q21340902) QID Q21340902
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ames, Lawrence Marion {std. L. Ames}|first entry]] for this author
+> [!example] See also [[Ames, Lawrence Marion|first entry]] for this author
 
 ### Author
 

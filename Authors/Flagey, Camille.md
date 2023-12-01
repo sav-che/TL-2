@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2768-1) LSID 2768-1, [Wikidata](https://www.wikidata.org/wiki/Q21339591) QID Q21339591
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Flagey, Camille (Jean Pierre) {std. Flagey} (Suppl.)|second entry]] for this author
+> [!example] See also [[Flagey, Camille (Jean Pierre) (Suppl.)|second entry]] for this author
 
 ### Author
 

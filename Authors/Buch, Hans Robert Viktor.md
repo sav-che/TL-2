@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1240-1) LSID 1240-1, [Wikidata](https://www.wikidata.org/wiki/Q194214) QID Q194214
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Buch, Hans Robert Viktor {std. H. Buch} (Suppl.)|second entry]] for this author
+> [!example] See also [[Buch, Hans Robert Viktor (Suppl.)|second entry]] for this author
 
 ### Author
 

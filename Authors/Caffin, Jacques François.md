@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/1348-1) LSID 1348-1, [Wikidata](https://www.wikidata.org/wiki/Q21506819) QID Q21506819
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Caffin, Jacques-François {std. Caffin} (Suppl.)|second entry]] for this author
+> [!example] See also [[Caffin, Jacques-François (Suppl.)|second entry]] for this author
 
 ### Author
 

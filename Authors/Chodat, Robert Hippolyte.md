@@ -30,7 +30,7 @@ ipni_record_modified: 2008-01-25 14:08:23.0
 > Author links: [IPNI](https://www.ipni.org/a/1611-1) LSID 1611-1, [Wikidata](https://www.wikidata.org/wiki/Q2613173) QID Q2613173
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Chodat, Robert-Hippolyte {std. Chodat} (Suppl.)|second entry]] for this author
+> [!example] See also [[Chodat, Robert-Hippolyte (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/3192-1) LSID 3192-1, [Wikidata](https://www.wikidata.org/wiki/Q64257) QID Q64257
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gleditsch, Johann Gottlieb {std. Gled.}|first entry]] for this author
+> [!example] See also [[Gleditsch, Johann Gottlieb|first entry]] for this author
 
 ### Author
 

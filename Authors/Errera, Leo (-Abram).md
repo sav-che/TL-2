@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/13063-1) LSID 13063-1, [Wikidata](https://www.wikidata.org/wiki/Q1879380) QID Q1879380
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Errera, Léo(-Abram) {std. Errera} (Suppl.)|second entry]] for this author
+> [!example] See also [[Errera, Léo(-Abram) (Suppl.)|second entry]] for this author
 
 ### Author
 

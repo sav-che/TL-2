@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2702-1) LSID 2702-1, [Wikidata](https://www.wikidata.org/wiki/Q188916) QID Q188916
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Ferreira, Alexandre (Alejandro) Rodrigues {std. Ferreira}|first entry]] for this author
+> [!example] See also [[Ferreira, Alexandre (Alejandro) Rodrigues|first entry]] for this author
 
 ### Author
 

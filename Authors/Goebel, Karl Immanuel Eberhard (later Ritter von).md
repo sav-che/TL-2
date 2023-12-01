@@ -29,7 +29,7 @@ ipni_record_modified: 2009-11-10 15:00:25.0
 > Author links: [IPNI](https://www.ipni.org/a/3221-1) LSID 3221-1, [Wikidata](https://www.wikidata.org/wiki/Q62756) QID Q62756
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Goebel, Karl (Immanuel Eberhard) (later Ritter von) {std. K.I. Goebel} (Suppl.)|second entry]] for this author
+> [!example] See also [[Goebel, Karl (Immanuel Eberhard) (later Ritter von) (Suppl.)|second entry]] for this author
 
 ### Author
 

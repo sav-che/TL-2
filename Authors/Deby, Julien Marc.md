@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2062-1) LSID 2062-1, [Wikidata](https://www.wikidata.org/wiki/Q21510108) QID Q21510108
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Deby, Julien Marc {std. Deby} (Suppl.)|second entry]] for this author
+> [!example] See also [[Deby, Julien Marc (Suppl.)|second entry]] for this author
 
 ### Author
 

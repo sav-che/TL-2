@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1920-1) LSID 1920-1, [Wikidata](https://www.wikidata.org/wiki/Q4212532) QID Q4212532
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cunningham, Richard {std. R. Cunn.}|first entry]] for this author
+> [!example] See also [[Cunningham, Richard|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2008-07-31 09:24:22.0
 > Author links: [IPNI](https://www.ipni.org/a/1090-1) LSID 1090-1, [Wikidata](https://www.wikidata.org/wiki/Q124075) QID Q124075
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Braun-Blanquet, Josias {std. Braun-Blanq.}|first entry]] for this author
+> [!example] See also [[Braun-Blanquet, Josias|first entry]] for this author
 
 ### Author
 

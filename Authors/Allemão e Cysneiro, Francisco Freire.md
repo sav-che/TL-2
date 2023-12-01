@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/145-1) LSID 145-1, [Wikidata](https://www.wikidata.org/wiki/Q2049407) QID Q2049407
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Allemão (e Cysneiro), Francisco Freire {std. Allemão} (Suppl.)|second entry]] for this author
+> [!example] See also [[Allemão (e Cysneiro), Francisco Freire (Suppl.)|second entry]] for this author
 
 ### Author
 

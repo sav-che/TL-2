@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/364-1) LSID 364-1, [Wikidata](https://www.wikidata.org/wiki/Q21505477) QID Q21505477
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bachlechner, Gregor {std. Bachlechner}|first entry]] for this author
+> [!example] See also [[Bachlechner, Gregor|first entry]] for this author
 
 ### Author
 

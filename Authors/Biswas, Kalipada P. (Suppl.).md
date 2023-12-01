@@ -29,7 +29,7 @@ ipni_record_modified: 2011-12-12 13:21:15.0
 > Author links: [IPNI](https://www.ipni.org/a/812-1) LSID 812-1, [Wikidata](https://www.wikidata.org/wiki/Q18983084) QID Q18983084
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Biswas, Kalipada P. {std. Biswas}|first entry]] for this author
+> [!example] See also [[Biswas, Kalipada P.|first entry]] for this author
 
 ### Author
 

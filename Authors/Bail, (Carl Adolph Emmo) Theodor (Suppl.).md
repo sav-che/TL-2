@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/389-1) LSID 389-1, [Wikidata](https://www.wikidata.org/wiki/Q2417325) QID Q2417325
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bail, Carl Adolph Emmo Theodor {std. Bail}|first entry]] for this author
+> [!example] See also [[Bail, Carl Adolph Emmo Theodor|first entry]] for this author
 
 ### Author
 

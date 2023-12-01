@@ -30,7 +30,7 @@ ipni_record_modified: 2005-11-28 09:47:45.0
 > Author links: [IPNI](https://www.ipni.org/a/16031-1) LSID 16031-1, [Wikidata](https://www.wikidata.org/wiki/Q522467) QID Q522467
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bertero, Carlo Guiseppe {std. Bertero}|first entry]] for this author
+> [!example] See also [[Bertero, Carlo Guiseppe|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/30638-1) LSID 30638-1, [Wikidata](https://www.wikidata.org/wiki/Q2833389) QID Q2833389
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Acloque, Alexandre Noel Charles {std. Acloque} (Suppl.)|second entry]] for this author
+> [!example] See also [[Acloque, Alexandre Noel Charles (Suppl.)|second entry]] for this author
 
 ### Author
 

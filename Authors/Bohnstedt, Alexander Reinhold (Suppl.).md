@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/910-1) LSID 910-1, [Wikidata](https://www.wikidata.org/wiki/Q21506249) QID Q21506249
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bohnstedt, Alexander Reinhold {std. Bohnst.}|first entry]] for this author
+> [!example] See also [[Bohnstedt, Alexander Reinhold|first entry]] for this author
 
 ### Author
 

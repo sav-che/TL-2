@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:54:43.0
 > Author links: [IPNI](https://www.ipni.org/a/2788-1) LSID 2788-1, [Wikidata](https://www.wikidata.org/wiki/Q4491255) QID Q4491255
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Floerke, Heinrich Gustav {std. Flörke}|first entry]] for this author
+> [!example] See also [[Floerke, Heinrich Gustav|first entry]] for this author
 
 ### Author
 

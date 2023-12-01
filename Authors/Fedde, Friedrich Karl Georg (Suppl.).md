@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2662-1) LSID 2662-1, [Wikidata](https://www.wikidata.org/wiki/Q87035) QID Q87035
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fedde, Friedrich Karl Georg {std. Fedde}|first entry]] for this author
+> [!example] See also [[Fedde, Friedrich Karl Georg|first entry]] for this author
 
 ### Author
 

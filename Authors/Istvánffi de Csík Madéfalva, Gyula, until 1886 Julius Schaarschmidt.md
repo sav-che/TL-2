@@ -29,7 +29,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/12574-1) LSID 12574-1, [Wikidata](https://www.wikidata.org/wiki/Q21516807) QID Q21516807
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Schaarschmidt, Julius (Gyula Istvánffi de Csík Madéfalva) {std. Schaarschmidt}|second entry]] for this author
+> [!example] See also [[Schaarschmidt, Julius (Gyula Istvánffi de Csík Madéfalva)|second entry]] for this author
 
 ### Author
 

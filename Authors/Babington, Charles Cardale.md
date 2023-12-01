@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/31137-1) LSID 31137-1, [Wikidata](https://www.wikidata.org/wiki/Q549729) QID Q549729
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Babington, Charles Cardale {std. Bab.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Babington, Charles Cardale (Suppl.)|second entry]] for this author
 
 ### Author
 

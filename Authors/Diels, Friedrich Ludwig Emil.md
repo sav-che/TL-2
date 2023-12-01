@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18030-1) LSID 18030-1, [Wikidata](https://www.wikidata.org/wiki/Q77123) QID Q77123
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Diels, Friedrich Ludwig Emil {std. Diels} (Suppl.)|second entry]] for this author
+> [!example] See also [[Diels, Friedrich Ludwig Emil (Suppl.)|second entry]] for this author
 
 ### Author
 

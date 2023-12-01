@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:51:17.0
 > Author links: [IPNI](https://www.ipni.org/a/1653-1) LSID 1653-1, [Wikidata](https://www.wikidata.org/wiki/Q2524905) QID Q2524905
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cirillo (Cyrillus), Domenico Maria Leone {std. Cirillo} (Suppl.)|second entry]] for this author
+> [!example] See also [[Cirillo (Cyrillus), Domenico Maria Leone (Suppl.)|second entry]] for this author
 
 ### Author
 

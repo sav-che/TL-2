@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3074-1) LSID 3074-1, [Wikidata](https://www.wikidata.org/wiki/Q1870830) QID Q1870830
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Geitler, Lothar {std. Geitl.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Geitler, Lothar (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16007-1) LSID 16007-1, [Wikidata](https://www.wikidata.org/wiki/Q1065058) QID Q1065058
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bernard, Charles Jean {std. C. Bernard}|first entry]] for this author
+> [!example] See also [[Bernard, Charles Jean|first entry]] for this author
 
 ### Author
 

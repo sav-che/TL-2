@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2859-1) LSID 2859-1, [Wikidata](https://www.wikidata.org/wiki/Q925866) QID Q925866
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fourreau, Pierre-Jules (a.k.a. Jules or Jules-Pierre) {std. Fourr.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Fourreau, Pierre-Jules (a.k.a. Jules or Jules-Pierre) (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/168-1) LSID 168-1, [Wikidata](https://www.wikidata.org/wiki/Q5675238) QID Q5675238
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Alschinger, Andreas {std. Alschinger} (Suppl.)|second entry]] for this author
+> [!example] See also [[Alschinger, Andreas (Suppl.)|second entry]] for this author
 
 ### Author
 

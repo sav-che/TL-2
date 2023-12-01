@@ -27,7 +27,7 @@ ipni_record_modified: 2013-02-13 12:29:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1983-1) LSID 1983-1, [Wikidata](https://www.wikidata.org/wiki/Q977692) QID Q977692
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dangeard, Pierre (Jean Louis) {std. P.J.L. Dang.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dangeard, Pierre (Jean Louis) (Suppl.)|second entry]] for this author
 
 ### Author
 

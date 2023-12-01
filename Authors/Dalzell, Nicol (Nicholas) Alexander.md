@@ -29,7 +29,7 @@ ipni_record_modified: 2009-09-14 09:02:20.0
 > Author links: [IPNI](https://www.ipni.org/a/1968-1) LSID 1968-1, [Wikidata](https://www.wikidata.org/wiki/Q4154159) QID Q4154159
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dalzell, Nicol (Nicholas) Alexander {std. Dalzell} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dalzell, Nicol (Nicholas) Alexander (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/17362-1) LSID 17362-1, [Wikidata](https://www.wikidata.org/wiki/Q3330424) QID Q3330424
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Colmeiro y Penido, Don Miguel {std. Colm.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Colmeiro y Penido, Don Miguel (Suppl.)|second entry]] for this author
 
 ### Author
 

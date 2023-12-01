@@ -26,7 +26,7 @@ ipni_record_modified: 2013-05-15 11:43:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16205-1) LSID 16205-1, [Wikidata](https://www.wikidata.org/wiki/Q12330543) QID Q12330543
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Blandow, Otto Christian {std. Blandow}|first entry]] for this author
+> [!example] See also [[Blandow, Otto Christian|first entry]] for this author
 
 ### Author
 

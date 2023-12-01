@@ -29,7 +29,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/766-1) LSID 766-1, [Wikidata](https://www.wikidata.org/wiki/Q658494) QID Q658494
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Biasoletto, Bartolomeo (Amadeo) {std. Biasol.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Biasoletto, Bartolomeo (Amadeo) (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/374-1) LSID 374-1, [Wikidata](https://www.wikidata.org/wiki/Q5076747) QID Q5076747
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Badham, Charles David {std. Badham} (Suppl.)|second entry]] for this author
+> [!example] See also [[Badham, Charles David (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/11058-1) LSID 11058-1, [Wikidata](https://www.wikidata.org/wiki/Q5711538) QID Q5711538
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Geert, Auguste van {std. Van Geert} (Suppl.)|second entry]] for this author
+> [!example] See also [[Geert, Auguste van (Suppl.)|second entry]] for this author
 
 ### Author
 

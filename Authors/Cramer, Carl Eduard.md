@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1860-1) LSID 1860-1, [Wikidata](https://www.wikidata.org/wiki/Q2624664) QID Q2624664
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cramer, Carl Eduard {std. C.E. Cramer} (Suppl.)|second entry]] for this author
+> [!example] See also [[Cramer, Carl Eduard (Suppl.)|second entry]] for this author
 
 ### Author
 

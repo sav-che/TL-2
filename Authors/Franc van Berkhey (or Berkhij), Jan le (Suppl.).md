@@ -26,7 +26,7 @@ ipni_record_modified:
 > [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Franc van Berkhey, Jan (Johannes) le {std. Franc v. Berkhey}|first entry]] for this author
+> [!example] See also [[Franc van Berkhey, Jan (Johannes) le|first entry]] for this author
 
 ### Author
 

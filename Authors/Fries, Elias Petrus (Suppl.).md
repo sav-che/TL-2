@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2914-1) LSID 2914-1, [Wikidata](https://www.wikidata.org/wiki/Q21513545) QID Q21513545
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fries, Elias Petrus {std. E.P. Fr.}|first entry]] for this author
+> [!example] See also [[Fries, Elias Petrus|first entry]] for this author
 
 ### Author
 

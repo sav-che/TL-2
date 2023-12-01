@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/728-1) LSID 728-1, [Wikidata](https://www.wikidata.org/wiki/Q2959038) QID Q2959038
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bertrand, Charles Eugène {std. C.E. Bertrand}|first entry]] for this author
+> [!example] See also [[Bertrand, Charles Eugène|first entry]] for this author
 
 ### Author
 

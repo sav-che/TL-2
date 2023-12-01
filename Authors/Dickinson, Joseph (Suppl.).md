@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2191-1) LSID 2191-1, [Wikidata](https://www.wikidata.org/wiki/Q18576577) QID Q18576577
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dickinson, Joseph {std. Dickinson}|first entry]] for this author
+> [!example] See also [[Dickinson, Joseph|first entry]] for this author
 
 ### Author
 

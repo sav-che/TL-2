@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:52:17.0
 > Author links: [IPNI](https://www.ipni.org/a/17576-1) LSID 17576-1, [Wikidata](https://www.wikidata.org/wiki/Q16066497) QID Q16066497
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cummings, Clara Eaton {std. Cumm.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Cummings, Clara Eaton (Suppl.)|second entry]] for this author
 
 ### Author
 

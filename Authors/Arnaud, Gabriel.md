@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/272-1) LSID 272-1, [Wikidata](https://www.wikidata.org/wiki/Q21338864) QID Q21338864
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Arnaud, Gabriel {std. G. Arnaud} (Suppl.)|second entry]] for this author
+> [!example] See also [[Arnaud, Gabriel (Suppl.)|second entry]] for this author
 
 ### Author
 

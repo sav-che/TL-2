@@ -27,7 +27,7 @@ ipni_record_modified: 2008-06-30 07:57:20.0
 > Author links: [IPNI](https://www.ipni.org/a/1349-1) LSID 1349-1, [Wikidata](https://www.wikidata.org/wiki/Q15229276) QID Q15229276
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Caflisch, Jakob Friedrich {std. Caflisch} (Suppl.)|second entry]] for this author
+> [!example] See also [[Caflisch, Jakob Friedrich (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3064-1) LSID 3064-1, [Wikidata](https://www.wikidata.org/wiki/Q69278) QID Q69278
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Geheeb, Adalbert (Adelbert) {std. Geh.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Geheeb, Adalbert (Adelbert) (Suppl.)|second entry]] for this author
 
 ### Author
 

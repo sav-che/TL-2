@@ -28,7 +28,7 @@ ipni_record_modified: 2011-06-02 11:09:10.0
 > Author links: [IPNI](https://www.ipni.org/a/34-1) LSID 34-1, [Wikidata](https://www.wikidata.org/wiki/Q158174) QID Q158174
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Abel, Clarke {std. C. Abel}|first entry]] for this author
+> [!example] See also [[Abel, Clarke|first entry]] for this author
 
 ### Author
 

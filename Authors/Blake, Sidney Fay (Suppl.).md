@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16195-1) LSID 16195-1, [Wikidata](https://www.wikidata.org/wiki/Q2332170) QID Q2332170
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Blake, Sidney Fay {std. S.F. Blake}|first entry]] for this author
+> [!example] See also [[Blake, Sidney Fay|first entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2013-02-13 15:51:12.0
 > Author links: [IPNI](https://www.ipni.org/a/394-1) LSID 394-1, [Wikidata](https://www.wikidata.org/wiki/Q3301476) QID Q3301476
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bailey, Jacob Whitman {std. J.W. Bailey}|first entry]] for this author
+> [!example] See also [[Bailey, Jacob Whitman|first entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3403-1) LSID 3403-1, [Wikidata](https://www.wikidata.org/wiki/Q5774578) QID Q5774578
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Grønlund, Carl Christian Howitz {std. Grønlund}|first entry]] for this author
+> [!example] See also [[Grønlund, Carl Christian Howitz|first entry]] for this author
 
 ### Author
 

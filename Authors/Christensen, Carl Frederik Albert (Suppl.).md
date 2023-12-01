@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:45:29.0
 > Author links: [IPNI](https://www.ipni.org/a/1629-1) LSID 1629-1, [Wikidata](https://www.wikidata.org/wiki/Q2114106) QID Q2114106
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Christensen, Carl Frederik Albert {std. C. Chr.}|first entry]] for this author
+> [!example] See also [[Christensen, Carl Frederik Albert|first entry]] for this author
 
 ### Author
 

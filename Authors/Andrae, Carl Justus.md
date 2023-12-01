@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:46:51.0
 > Author links: [IPNI](https://www.ipni.org/a/12325-1) LSID 12325-1, [Wikidata](https://www.wikidata.org/wiki/Q16487134) QID Q16487134
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Andrä (Andrae), Carl Justus {std. Andrae} (Suppl.)|second entry]] for this author
+> [!example] See also [[Andrä (Andrae), Carl Justus (Suppl.)|second entry]] for this author
 
 ### Author
 

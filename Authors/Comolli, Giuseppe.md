@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1754-1) LSID 1754-1, [Wikidata](https://www.wikidata.org/wiki/Q21508917) QID Q21508917
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Comolli, Giuseppe {std. Comolli} (Suppl.)|second entry]] for this author
+> [!example] See also [[Comolli, Giuseppe (Suppl.)|second entry]] for this author
 
 ### Author
 

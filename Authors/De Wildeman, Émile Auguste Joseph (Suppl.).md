@@ -29,7 +29,7 @@ ipni_record_modified: 2013-05-15 11:35:06.0
 > Author links: [IPNI](https://www.ipni.org/a/12406-1) LSID 12406-1, [Wikidata](https://www.wikidata.org/wiki/Q2628388) QID Q2628388
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[De Wildeman, Émile Auguste Joseph {std. De Wild.}|first entry]] for this author
+> [!example] See also [[De Wildeman, Émile Auguste Joseph|first entry]] for this author
 
 ### Author
 

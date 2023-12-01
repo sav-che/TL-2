@@ -31,7 +31,7 @@ ipni_record_modified: 2009-01-07 07:49:45.0
 > Author links: [IPNI](https://www.ipni.org/a/16855-1) LSID 16855-1, [Wikidata](https://www.wikidata.org/wiki/Q123057) QID Q123057
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Candolle, Augustin Pyramus de {std. DC.}|first entry]] for this author
+> [!example] See also [[Candolle, Augustin Pyramus de|first entry]] for this author
 
 ### Author
 

@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/17520-1) LSID 17520-1, [Wikidata](https://www.wikidata.org/wiki/Q21509511) QID Q21509511
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Crié, Louis Auguste {std. Crié} (Suppl.)|second entry]] for this author
+> [!example] See also [[Crié, Louis Auguste (Suppl.)|second entry]] for this author
 
 ### Author
 

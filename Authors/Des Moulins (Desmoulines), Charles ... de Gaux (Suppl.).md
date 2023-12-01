@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:37:25.0
 > Author links: [IPNI](https://www.ipni.org/a/2156-1) LSID 2156-1, [Wikidata](https://www.wikidata.org/wiki/Q2960744) QID Q2960744
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Des Moulins, Charles Robert Alexandre {std. Des Moul.}|first entry]] for this author
+> [!example] See also [[Des Moulins, Charles Robert Alexandre|first entry]] for this author
 
 ### Author
 

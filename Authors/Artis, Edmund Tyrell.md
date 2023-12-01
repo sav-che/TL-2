@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/295-1) LSID 295-1, [Wikidata](https://www.wikidata.org/wiki/Q19958863) QID Q19958863
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Artis, Edmund Tyrell {std. Artis} (Suppl.)|second entry]] for this author
+> [!example] See also [[Artis, Edmund Tyrell (Suppl.)|second entry]] for this author
 
 ### Author
 

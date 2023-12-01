@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1381-1) LSID 1381-1, [Wikidata](https://www.wikidata.org/wiki/Q272128) QID Q272128
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Camus, Aimée (Antoinette) {std. A. Camus} (Suppl.)|second entry]] for this author
+> [!example] See also [[Camus, Aimée (Antoinette) (Suppl.)|second entry]] for this author
 
 ### Author
 

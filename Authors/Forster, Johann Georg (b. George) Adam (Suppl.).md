@@ -28,9 +28,9 @@ ipni_record_modified: 2012-01-10 11:45:17.0
 > Author links: [IPNI](https://www.ipni.org/a/2835-1) LSID 2835-1, [Wikidata](https://www.wikidata.org/wiki/Q58062) QID Q58062
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Forster, Johann Georg Adam {std. G. Forster}|first entry]] for Johann Georg
+> [!example] See also [[Forster, Johann Georg Adam|first entry]] for Johann Georg
 
-> [!example] See also [[Forster, Johann Reinhold {std. J.R. Forster}|first entry]] for Johann Reinhold
+> [!example] See also [[Forster, Johann Reinhold|first entry]] for Johann Reinhold
 
 
 ### Author

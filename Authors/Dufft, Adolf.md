@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2356-1) LSID 2356-1, [Wikidata](https://www.wikidata.org/wiki/Q21511008) QID Q21511008
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dufft, Adolf {std. Dufft} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dufft, Adolf (Suppl.)|second entry]] for this author
 
 ### Author
 

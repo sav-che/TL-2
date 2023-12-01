@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/17581-1) LSID 17581-1, [Wikidata](https://www.wikidata.org/wiki/Q3017793) QID Q3017793
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Cunningham, David Douglas {std. D.D. Cunn.}|first entry]] for this author
+> [!example] See also [[Cunningham, David Douglas|first entry]] for this author
 
 ### Author
 

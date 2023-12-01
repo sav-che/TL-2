@@ -28,7 +28,7 @@ ipni_record_modified: 2015-02-17 14:14:34.0
 > Author links: [IPNI](https://www.ipni.org/a/338-1) LSID 338-1, [Wikidata](https://www.wikidata.org/wiki/Q5140488) QID Q5140488
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Austin, Coe Finch {std. Aust.}|first entry]] for this author
+> [!example] See also [[Austin, Coe Finch|first entry]] for this author
 
 ### Author
 

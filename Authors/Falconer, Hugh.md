@@ -29,7 +29,7 @@ ipni_record_modified: 2010-08-27 13:38:25.0
 > Author links: [IPNI](https://www.ipni.org/a/2626-1) LSID 2626-1, [Wikidata](https://www.wikidata.org/wiki/Q223013) QID Q223013
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Falconer, Hugh {std. Falc.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Falconer, Hugh (Suppl.)|second entry]] for this author
 
 ### Author
 

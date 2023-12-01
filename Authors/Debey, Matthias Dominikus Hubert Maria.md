@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2059-1) LSID 2059-1, [Wikidata](https://www.wikidata.org/wiki/Q21510101) QID Q21510101
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Debey, Matthias (Dominikus) Humbert (Maria) {std. Debey} (Suppl.)|second entry]] for this author
+> [!example] See also [[Debey, Matthias (Dominikus) Humbert (Maria) (Suppl.)|second entry]] for this author
 
 ### Author
 

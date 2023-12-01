@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2749-1) LSID 2749-1, [Wikidata](https://www.wikidata.org/wiki/Q122537) QID Q122537
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fischer, (Emanuel Friedrich) Ludwig {std. L. Fisch.}|first entry]] for this author
+> [!example] See also [[Fischer, (Emanuel Friedrich) Ludwig|first entry]] for this author
 
 ### Author
 

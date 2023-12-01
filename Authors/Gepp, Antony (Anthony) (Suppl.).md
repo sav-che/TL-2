@@ -29,7 +29,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3097-1) LSID 3097-1, [Wikidata](https://www.wikidata.org/wiki/Q21341604) QID Q21341604
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gepp, Antony {std. A. Gepp}|first entry]] for this author
+> [!example] See also [[Gepp, Antony|first entry]] for this author
 
 ### Author
 

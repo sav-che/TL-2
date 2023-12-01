@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2923-1) LSID 2923-1, [Wikidata](https://www.wikidata.org/wiki/Q4011595) QID Q4011595
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fritsch, Felix Eugen {std. F.E. Fritsch}|first entry]] for this author
+> [!example] See also [[Fritsch, Felix Eugen|first entry]] for this author
 
 ### Author
 

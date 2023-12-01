@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/15847-1) LSID 15847-1, [Wikidata](https://www.wikidata.org/wiki/Q3046641) QID Q3046641
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Beauverd, Gustave {std. Beauverd}|first entry]] for this author
+> [!example] See also [[Beauverd, Gustave|first entry]] for this author
 
 ### Author
 

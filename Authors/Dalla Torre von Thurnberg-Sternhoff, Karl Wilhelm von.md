@@ -30,7 +30,7 @@ ipni_record_modified: 2013-05-15 11:51:31.0
 > Author links: [IPNI](https://www.ipni.org/a/1964-1) LSID 1964-1, [Wikidata](https://www.wikidata.org/wiki/Q79155) QID Q79155
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dalla Torre von Thunberg-Sternhoff, Carl Wilhelm {std. Dalla Torre} (Suppl.)|second entry]] for this author
+> [!example] See also [[Dalla Torre von Thunberg-Sternhoff, Carl Wilhelm (Suppl.)|second entry]] for this author
 
 ### Author
 

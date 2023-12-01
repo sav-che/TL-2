@@ -27,7 +27,7 @@ ipni_record_modified: 2004-01-15 09:09:19.0
 > Author links: [IPNI](https://www.ipni.org/a/202-1) LSID 202-1, [Wikidata](https://www.wikidata.org/wiki/Q5554595) QID Q5554595
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Andersson, (Carl Filip) Gunnar {std. G. Andersson} (Suppl.)|second entry]] for this author
+> [!example] See also [[Andersson, (Carl Filip) Gunnar (Suppl.)|second entry]] for this author
 
 ### Author
 

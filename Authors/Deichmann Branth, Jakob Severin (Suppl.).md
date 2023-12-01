@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/16471-1) LSID 16471-1, [Wikidata](https://www.wikidata.org/wiki/Q5585064) QID Q5585064
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Branth, Jakob Severin Deichmann {std. Branth}|first entry]] for this author
+> [!example] See also [[Branth, Jakob Severin Deichmann|first entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:28:34.0
 > Author links: [IPNI](https://www.ipni.org/a/1236-1) LSID 1236-1, [Wikidata](https://www.wikidata.org/wiki/Q5588809) QID Q5588809
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bryhn, Nils (Niels) {std. Bryhn} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bryhn, Nils (Niels) (Suppl.)|second entry]] for this author
 
 ### Author
 

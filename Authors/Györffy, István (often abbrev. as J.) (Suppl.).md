@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3512-1) LSID 3512-1, [Wikidata](https://www.wikidata.org/wiki/Q3155761) QID Q3155761
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Györffy, István {std. Györffy}|first entry]] for this author
+> [!example] See also [[Györffy, István|first entry]] for this author
 
 ### Author
 

@@ -30,7 +30,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/639-1) LSID 639-1, [Wikidata](https://www.wikidata.org/wiki/Q2871059) QID Q2871059
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bellynck, Auguste Alexis Adolphe Alexandre {std. Bellynck} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bellynck, Auguste Alexis Adolphe Alexandre (Suppl.)|second entry]] for this author
 
 ### Author
 

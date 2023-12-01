@@ -31,7 +31,7 @@ ipni_record_modified: 2017-01-31 17:05:15.0
 > Author links: [IPNI](https://www.ipni.org/a/1192-1) LSID 1192-1, [Wikidata](https://www.wikidata.org/wiki/Q155764) QID Q155764
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brown, Robert {std. R. Br.}|first entry]] for this author
+> [!example] See also [[Brown, Robert|first entry]] for this author
 
 ### Author
 

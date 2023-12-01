@@ -29,7 +29,7 @@ ipni_record_modified: 2012-09-18 10:01:43.0
 > Author links: [IPNI](https://www.ipni.org/a/2290-1) LSID 2290-1, [Wikidata](https://www.wikidata.org/wiki/Q669028) QID Q669028
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Douglas, David {std. Douglas} (Suppl.)|second entry]] for this author
+> [!example] See also [[Douglas, David (Suppl.)|second entry]] for this author
 
 ### Author
 

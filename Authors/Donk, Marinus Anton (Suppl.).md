@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18142-1) LSID 18142-1, [Wikidata](https://www.wikidata.org/wiki/Q449688) QID Q449688
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Donk, Marinus Anton {std. Donk}|first entry]] for this author
+> [!example] See also [[Donk, Marinus Anton|first entry]] for this author
 
 ### Author
 

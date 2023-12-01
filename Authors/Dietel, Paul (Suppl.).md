@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/18034-1) LSID 18034-1, [Wikidata](https://www.wikidata.org/wiki/Q6067159) QID Q6067159
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dietel, Paul {std. Dietel}|first entry]] for this author
+> [!example] See also [[Dietel, Paul|first entry]] for this author
 
 ### Author
 

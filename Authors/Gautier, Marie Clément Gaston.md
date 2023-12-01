@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/3053-1) LSID 3053-1, [Wikidata](https://www.wikidata.org/wiki/Q9029048) QID Q9029048
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gautier, (Marie or Maurice) Clément Gaston {std. Gaut.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gautier, (Marie or Maurice) Clément Gaston (Suppl.)|second entry]] for this author
 
 ### Author
 

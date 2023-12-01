@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1099-1) LSID 1099-1, [Wikidata](https://www.wikidata.org/wiki/Q3261026) QID Q3261026
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brébisson, Louis Alphonse de {std. Bréb.}|first entry]] for this author
+> [!example] See also [[Brébisson, Louis Alphonse de|first entry]] for this author
 
 ### Author
 

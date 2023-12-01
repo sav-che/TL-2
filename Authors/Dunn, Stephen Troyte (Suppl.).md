@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2383-1) LSID 2383-1, [Wikidata](https://www.wikidata.org/wiki/Q925156) QID Q925156
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Dunn, Stephen Troyte {std. Dunn}|first entry]] for this author
+> [!example] See also [[Dunn, Stephen Troyte|first entry]] for this author
 
 ### Author
 

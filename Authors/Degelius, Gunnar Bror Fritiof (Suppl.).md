@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2078-1) LSID 2078-1, [Wikidata](https://www.wikidata.org/wiki/Q21339039) QID Q21339039
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Degelius, Gunnar Bror Fritiof {std. Degel.}|first entry]] for this author
+> [!example] See also [[Degelius, Gunnar Bror Fritiof|first entry]] for this author
 
 ### Author
 

@@ -30,7 +30,7 @@ ipni_record_modified: 2006-04-18 06:48:01.0
 > Author links: [IPNI](https://www.ipni.org/a/16366-1) LSID 16366-1, [Wikidata](https://www.wikidata.org/wiki/Q1345319) QID Q1345319
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bory de Saint-Vincent, Jean Baptiste ..., Baron de {std. Bory} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bory de Saint-Vincent, Jean Baptiste ..., Baron de (Suppl.)|second entry]] for this author
 
 ### Author
 

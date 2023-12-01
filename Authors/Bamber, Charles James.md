@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/438-1) LSID 438-1, [Wikidata](https://www.wikidata.org/wiki/Q21505610) QID Q21505610
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bamber, Charles James {std. Bamber} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bamber, Charles James (Suppl.)|second entry]] for this author
 
 ### Author
 

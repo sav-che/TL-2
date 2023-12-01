@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2707-1) LSID 2707-1, [Wikidata](https://www.wikidata.org/wiki/Q1871688) QID Q1871688
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Feuillée, Louis Éconches (Père) {std. Feuillée} (Suppl.)|second entry]] for this author
+> [!example] See also [[Feuillée, Louis Éconches (Père) (Suppl.)|second entry]] for this author
 
 ### Author
 

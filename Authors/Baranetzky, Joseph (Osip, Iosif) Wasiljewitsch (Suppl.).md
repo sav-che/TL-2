@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/451-1) LSID 451-1, [Wikidata](https://www.wikidata.org/wiki/Q4077675) QID Q4077675
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Baranetzky, Joseph (Osip) Wasiljewitsch {std. Baranetzky}|first entry]] for this author
+> [!example] See also [[Baranetzky, Joseph (Osip) Wasiljewitsch|first entry]] for this author
 
 ### Author
 

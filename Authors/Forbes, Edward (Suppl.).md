@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2812-1) LSID 2812-1, [Wikidata](https://www.wikidata.org/wiki/Q1248394) QID Q1248394
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Forbes, Edward {std. E. Forbes}|first entry]] for this author
+> [!example] See also [[Forbes, Edward|first entry]] for this author
 
 ### Author
 

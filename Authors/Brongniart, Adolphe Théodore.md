@@ -32,7 +32,7 @@ ipni_record_modified: 2009-01-06 13:41:10.0
 > Author links: [IPNI](https://www.ipni.org/a/16574-1) LSID 16574-1, [Wikidata](https://www.wikidata.org/wiki/Q73990) QID Q73990
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brongniart, Adolphe Théodore {std. Brongn.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Brongniart, Adolphe Théodore (Suppl.)|second entry]] for this author
 
 ### Author
 

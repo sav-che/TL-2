@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/520-1) LSID 520-1, [Wikidata](https://www.wikidata.org/wiki/Q18243) QID Q18243
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bartram, William {std. W. Bartram}|first entry]] for this author
+> [!example] See also [[Bartram, William|first entry]] for this author
 
 ### Author
 

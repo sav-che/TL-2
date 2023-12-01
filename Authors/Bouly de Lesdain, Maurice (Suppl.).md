@@ -28,7 +28,7 @@ ipni_record_modified: 2008-04-21 07:07:49.0
 > Author links: [IPNI](https://www.ipni.org/a/1027-1) LSID 1027-1, [Wikidata](https://www.wikidata.org/wiki/Q21338745) QID Q21338745
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bouly de Lesdain, Maurice {std. B. de Lesd.}|first entry]] for this author
+> [!example] See also [[Bouly de Lesdain, Maurice|first entry]] for this author
 
 ### Author
 

@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/855-1) LSID 855-1, [Wikidata](https://www.wikidata.org/wiki/Q36587061) QID Q36587061
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bleicher, Joseph {std. J. Bleicher} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bleicher, Joseph (Suppl.)|second entry]] for this author
 
 ### Author
 

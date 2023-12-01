@@ -27,7 +27,7 @@ ipni_record_modified: 2005-06-22 12:54:30.0
 > Author links: [IPNI](https://www.ipni.org/a/2493-1) LSID 2493-1, [Wikidata](https://www.wikidata.org/wiki/Q2622975) QID Q2622975
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Eig, Alexander {std. Eig}|first entry]] for this author
+> [!example] See also [[Eig, Alexander|first entry]] for this author
 
 ### Author
 

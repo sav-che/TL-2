@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/31986-1) LSID 31986-1, [Wikidata](https://www.wikidata.org/wiki/Q21506476) QID Q21506476
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Briard, Pierre-Alfred {std. Briard} (Suppl.)|second entry]] for this author
+> [!example] See also [[Briard, Pierre-Alfred (Suppl.)|second entry]] for this author
 
 ### Author
 

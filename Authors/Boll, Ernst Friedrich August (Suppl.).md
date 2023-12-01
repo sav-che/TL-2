@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/929-1) LSID 929-1, [Wikidata](https://www.wikidata.org/wiki/Q105708) QID Q105708
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Boll, Ernst Friedrich August {std. Boll}|first entry]] for this author
+> [!example] See also [[Boll, Ernst Friedrich August|first entry]] for this author
 
 ### Author
 

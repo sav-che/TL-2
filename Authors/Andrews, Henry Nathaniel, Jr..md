@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/217-1) LSID 217-1, [Wikidata](https://www.wikidata.org/wiki/Q3132977) QID Q3132977
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Andrews, Henry Nathaniel, Jr. {std. H.N. Andrews} (Suppl.)|second entry]] for this author
+> [!example] See also [[Andrews, Henry Nathaniel, Jr. (Suppl.)|second entry]] for this author
 
 ### Author
 

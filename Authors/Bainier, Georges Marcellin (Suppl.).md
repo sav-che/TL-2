@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/31208-1) LSID 31208-1, [Wikidata](https://www.wikidata.org/wiki/Q21505565) QID Q21505565
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bainier, Georges {std. Bainier}|first entry]] for this author
+> [!example] See also [[Bainier, Georges|first entry]] for this author
 
 ### Author
 

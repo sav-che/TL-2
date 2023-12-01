@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/15956-1) LSID 15956-1, [Wikidata](https://www.wikidata.org/wiki/Q731808) QID Q731808
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bentham, George {std. Benth.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bentham, George (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3287-1) LSID 3287-1, [Wikidata](https://www.wikidata.org/wiki/Q105203) QID Q105203
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gotham, Walther Ulrich Eduard Friedrich {std. Gothan}|first entry]] for this author
+> [!example] See also [[Gotham, Walther Ulrich Eduard Friedrich|first entry]] for this author
 
 ### Author
 

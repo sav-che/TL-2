@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/274-1) LSID 274-1, [Wikidata](https://www.wikidata.org/wiki/Q5559534) QID Q5559534
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Arnell, Hampus Wilhelm {std. Arnell} (Suppl.)|second entry]] for this author
+> [!example] See also [[Arnell, Hampus Wilhelm (Suppl.)|second entry]] for this author
 
 ### Author
 

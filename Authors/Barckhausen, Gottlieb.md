@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/473-1) LSID 473-1, [Wikidata](https://www.wikidata.org/wiki/Q36559839) QID Q36559839
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Barckhausen, Justus Christian Gottlieb Willibald {std. Barckhausen} (Suppl.)|second entry]] for this author
+> [!example] See also [[Barckhausen, Justus Christian Gottlieb Willibald (Suppl.)|second entry]] for this author
 
 ### Author
 

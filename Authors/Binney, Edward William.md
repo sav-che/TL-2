@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/796-1) LSID 796-1, [Wikidata](https://www.wikidata.org/wiki/Q3298684) QID Q3298684
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Binney, Edward William {std. Binney} (Suppl.)|second entry]] for this author
+> [!example] See also [[Binney, Edward William (Suppl.)|second entry]] for this author
 
 ### Author
 

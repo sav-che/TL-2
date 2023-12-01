@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3058-1) LSID 3058-1, [Wikidata](https://www.wikidata.org/wiki/Q21513838) QID Q21513838
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gay, (Henri Félix) François {std. F. Gay} (Suppl.)|second entry]] for this author
+> [!example] See also [[Gay, (Henri Félix) François (Suppl.)|second entry]] for this author
 
 ### Author
 

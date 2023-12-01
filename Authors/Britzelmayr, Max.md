@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1162-1) LSID 1162-1, [Wikidata](https://www.wikidata.org/wiki/Q556528) QID Q556528
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Britzelmayr, Max {std. Britzelm.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Britzelmayr, Max (Suppl.)|second entry]] for this author
 
 ### Author
 

@@ -28,7 +28,7 @@ ipni_record_modified: 2013-05-15 11:26:34.0
 > Author links: [IPNI](https://www.ipni.org/a/1170-1) LSID 1170-1, [Wikidata](https://www.wikidata.org/wiki/Q21338488) QID Q21338488
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brondeau, Louis de (Jegun de Marans, Antoine Louis Georges) {std. Brond.}|first entry]] for this author
+> [!example] See also [[Brondeau, Louis de (Jegun de Marans, Antoine Louis Georges)|first entry]] for this author
 
 ### Author
 

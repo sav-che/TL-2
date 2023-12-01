@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/3003-1) LSID 3003-1, [Wikidata](https://www.wikidata.org/wiki/Q1461150) QID Q1461150
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gamble, James Sykes {std. Gamble}|first entry]] for this author
+> [!example] See also [[Gamble, James Sykes|first entry]] for this author
 
 ### Author
 

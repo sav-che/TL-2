@@ -27,7 +27,7 @@ ipni_record_modified: 2013-05-15 11:43:48.0
 > Author links: [IPNI](https://www.ipni.org/a/19028-1) LSID 19028-1, [Wikidata](https://www.wikidata.org/wiki/Q66899) QID Q66899
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Fuckel, Karl Wilhelm Gottlieb Leopold {std. Fuckel}|first entry]] for this author
+> [!example] See also [[Fuckel, Karl Wilhelm Gottlieb Leopold|first entry]] for this author
 
 ### Author
 

@@ -30,7 +30,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/2522-1) LSID 2522-1, [Wikidata](https://www.wikidata.org/wiki/Q1105726) QID Q1105726
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Elmer, Adolph Daniel Edward {std. Elmer}|first entry]] for this author
+> [!example] See also [[Elmer, Adolph Daniel Edward|first entry]] for this author
 
 ### Author
 

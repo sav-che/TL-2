@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/3201-1) LSID 3201-1, [Wikidata](https://www.wikidata.org/wiki/Q6410749) QID Q6410749
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Glück, (Christian Maximilian) Hugo {std. Glück} (Suppl.)|second entry]] for this author
+> [!example] See also [[Glück, (Christian Maximilian) Hugo (Suppl.)|second entry]] for this author
 
 ### Author
 

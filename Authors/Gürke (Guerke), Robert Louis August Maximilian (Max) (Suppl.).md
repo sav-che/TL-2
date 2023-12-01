@@ -26,7 +26,7 @@ ipni_record_modified: 2013-05-15 11:39:09.0
 > Author links: [IPNI](https://www.ipni.org/a/12524-1) LSID 12524-1, [Wikidata](https://www.wikidata.org/wiki/Q71382) QID Q71382
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Guerke, Robert Louis August Maximilian (Max) {std. Gürke}|first entry]] for this author
+> [!example] See also [[Guerke, Robert Louis August Maximilian (Max)|first entry]] for this author
 
 ### Author
 

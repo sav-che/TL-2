@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/3229-1) LSID 3229-1, [Wikidata](https://www.wikidata.org/wiki/Q5879) QID Q5879
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Goethe, Johann Wolfgang von {std. Goethe}|first entry]] for this author
+> [!example] See also [[Goethe, Johann Wolfgang von|first entry]] for this author
 
 ### Author
 

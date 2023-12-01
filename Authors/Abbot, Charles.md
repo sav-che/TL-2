@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/28-1) LSID 28-1, [Wikidata](https://www.wikidata.org/wiki/Q1063507) QID Q1063507
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Abbot, Charles {std. C. Abbot} (Suppl.)|second entry]] for this author
+> [!example] See also [[Abbot, Charles (Suppl.)|second entry]] for this author
 
 ### Author
 

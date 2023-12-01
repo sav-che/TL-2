@@ -33,7 +33,7 @@ ipni_record_modified: 2006-01-19 09:14:45.0
 > Author links: [IPNI](https://www.ipni.org/a/416-1) LSID 416-1, [Wikidata](https://www.wikidata.org/wiki/Q536946) QID Q536946
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Balansa, Benedict (Benjamin) {std. Balansa} (Suppl.)|second entry]] for this author
+> [!example] See also [[Balansa, Benedict (Benjamin) (Suppl.)|second entry]] for this author
 
 ### Author
 

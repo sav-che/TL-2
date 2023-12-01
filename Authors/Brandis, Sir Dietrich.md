@@ -26,7 +26,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/1076-1) LSID 1076-1, [Wikidata](https://www.wikidata.org/wiki/Q71069) QID Q71069
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brandis, (Sir) Dietrich {std. Brandis} (Suppl.)|second entry]] for this author
+> [!example] See also [[Brandis, (Sir) Dietrich (Suppl.)|second entry]] for this author
 
 ### Author
 

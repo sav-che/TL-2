@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/316-1) LSID 316-1, [Wikidata](https://www.wikidata.org/wiki/Q5594759) QID Q5594759
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Aspegren, Georg Casten {std. Aspegren}|first entry]] for this author
+> [!example] See also [[Aspegren, Georg Casten|first entry]] for this author
 
 ### Author
 

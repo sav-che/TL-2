@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/32363-1) LSID 32363-1, [Wikidata](https://www.wikidata.org/wiki/Q21341607) QID Q21341607
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Gepp, Ethel Sarel (née Barton) {std. E. Gepp}|first entry]] for this author
+> [!example] See also [[Gepp, Ethel Sarel (née Barton)|first entry]] for this author
 ### Author
 
 Barton, Ethel Sarel (1864-1922), British algologist, worked at BM and K, married 9 Jun 1902, Chelsea, Anthony Gepp. 

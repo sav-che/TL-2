@@ -27,7 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/15862-1) LSID 15862-1, [Wikidata](https://www.wikidata.org/wiki/Q109662) QID Q109662
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Beckhaus, Konrad (also Conrad) Friedrich Ludwig {std. Beckh.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Beckhaus, Konrad (also Conrad) Friedrich Ludwig (Suppl.)|second entry]] for this author
 
 ### Author
 

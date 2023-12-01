@@ -28,7 +28,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/12379-1) LSID 12379-1, [Wikidata](https://www.wikidata.org/wiki/Q4527095) QID Q4527095
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Choisy, Jacques-Denis {std. Choisy} (Suppl.)|second entry]] for this author
+> [!example] See also [[Choisy, Jacques-Denis (Suppl.)|second entry]] for this author
 
 ### Author
 

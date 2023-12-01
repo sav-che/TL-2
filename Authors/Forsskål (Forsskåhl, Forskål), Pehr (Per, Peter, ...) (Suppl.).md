@@ -30,7 +30,7 @@ ipni_record_modified: 2011-04-05 14:13:29.0
 > Author links: [IPNI](https://www.ipni.org/a/12502-1) LSID 12502-1, [Wikidata](https://www.wikidata.org/wiki/Q27684) QID Q27684
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Forsskål, Pehr (Peter) {std. Forssk.}|first entry]] for this author
+> [!example] See also [[Forsskål, Pehr (Peter)|first entry]] for this author
 
 ### Author
 

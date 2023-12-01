@@ -28,7 +28,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/2052-1) LSID 2052-1, [Wikidata](https://www.wikidata.org/wiki/Q5720270) QID Q5720270
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Deane, Henry {std. H. Deane}|first entry]] for this author
+> [!example] See also [[Deane, Henry|first entry]] for this author
 
 ### Author
 

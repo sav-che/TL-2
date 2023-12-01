@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/90-1) LSID 90-1, [Wikidata](https://www.wikidata.org/wiki/Q3107968) QID Q3107968
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Agosti, Giuseppe, Conte {std. Agosti} (Suppl.)|second entry]] for this author
+> [!example] See also [[Agosti, Giuseppe, Conte (Suppl.)|second entry]] for this author
 
 ### Author
 

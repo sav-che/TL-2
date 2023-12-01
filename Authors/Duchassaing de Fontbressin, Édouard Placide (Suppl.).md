@@ -27,7 +27,7 @@ ipni_record_modified: 2006-09-15 04:16:50.0
 > Author links: [IPNI](https://www.ipni.org/a/2345-1) LSID 2345-1, [Wikidata](https://www.wikidata.org/wiki/Q3579998) QID Q3579998
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Duchassaing de Fontbressin, Èdouard Placide {std. Duchass.}|first entry]] for this author
+> [!example] See also [[Duchassaing de Fontbressin, Èdouard Placide|first entry]] for this author
 
 ### Author
 

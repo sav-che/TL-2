@@ -26,7 +26,7 @@ ipni_record_modified: 2011-09-20 07:36:28.0
 > Author links: [IPNI](https://www.ipni.org/a/680-1) LSID 680-1, [Wikidata](https://www.wikidata.org/wiki/Q61805) QID Q61805
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Berger, Alwin {std. A. Berger} (Suppl.)|second entry]] for this author
+> [!example] See also [[Berger, Alwin (Suppl.)|second entry]] for this author
 
 ### Author
 

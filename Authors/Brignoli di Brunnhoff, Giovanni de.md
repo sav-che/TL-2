@@ -27,7 +27,7 @@ ipni_record_modified: 2005-05-18 14:48:45.0
 > Author links: [IPNI](https://www.ipni.org/a/1148-1) LSID 1148-1, [Wikidata](https://www.wikidata.org/wiki/Q5880193) QID Q5880193
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Brignoli di Brunnhoff, Giovanni de {std. Brign.} (Suppl.)|second entry]] for this author
+> [!example] See also [[Brignoli di Brunnhoff, Giovanni de (Suppl.)|second entry]] for this author
 
 ### Author
 

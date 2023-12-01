@@ -29,7 +29,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/3366-1) LSID 3366-1, [Wikidata](https://www.wikidata.org/wiki/Q2661665) QID Q2661665
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Greene, Edward Lee {std. Greene}|first entry]] for this author
+> [!example] See also [[Greene, Edward Lee|first entry]] for this author
 
 ### Author
 

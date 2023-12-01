@@ -27,7 +27,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/471-1) LSID 471-1, [Wikidata](https://www.wikidata.org/wiki/Q21505652) QID Q21505652
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Barceló y Combis, Francisco {std. Barceló}|first entry]] for this author
+> [!example] See also [[Barceló y Combis, Francisco|first entry]] for this author
 
 ### Author
 

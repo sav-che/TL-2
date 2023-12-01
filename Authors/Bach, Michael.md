@@ -26,7 +26,7 @@ ipni_record_modified:
 > Author links: [IPNI](https://www.ipni.org/a/362-1) LSID 362-1, [Wikidata](https://www.wikidata.org/wiki/Q6828338) QID Q6828338
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bach, Michael {std. Bach} (Suppl.)|second entry]] for this author
+> [!example] See also [[Bach, Michael (Suppl.)|second entry]] for this author
 
 ### Author
 

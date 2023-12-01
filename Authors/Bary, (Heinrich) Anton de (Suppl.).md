@@ -28,7 +28,7 @@ ipni_record_modified: 2009-08-05 12:12:57.0
 > Author links: [IPNI](https://www.ipni.org/a/15750-1) LSID 15750-1, [Wikidata](https://www.wikidata.org/wiki/Q58806) QID Q58806
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bary, Heinrich Anton de {std. de Bary}|first entry]] for this author
+> [!example] See also [[Bary, Heinrich Anton de|first entry]] for this author
 
 ### Author
 

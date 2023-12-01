@@ -29,7 +29,7 @@ ipni_record_modified: 2015-05-06 15:20:24.0
 > Author links: [IPNI](https://www.ipni.org/a/16309-1) LSID 16309-1, [Wikidata](https://www.wikidata.org/wiki/Q2556630) QID Q2556630
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Bolton, James {std. Bolton}|first entry]] for this author
+> [!example] See also [[Bolton, James|first entry]] for this author
 
 ### Author
 

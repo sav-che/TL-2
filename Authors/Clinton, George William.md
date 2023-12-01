@@ -28,7 +28,7 @@ ipni_record_modified: 2006-07-10 09:37:04.0
 > Author links: [IPNI](https://www.ipni.org/a/1701-1) LSID 1701-1, [Wikidata](https://www.wikidata.org/wiki/Q282329) QID Q282329
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-> [!example] See also [[Clinton, Georges William {std. Clinton} (Suppl.)|second entry]] for this author
+> [!example] See also [[Clinton, Georges William (Suppl.)|second entry]] for this author
 
 ### Author
 
