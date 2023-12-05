@@ -559,13 +559,13 @@ Collection codes recognized as such, but without a match in current online Index
 ___
 ##### IPNI metadata
 
-Author information from [IPNI](https://www.ipni.org/) was retrieved through API by Roderic Page (see `authors_IPNI` table at [at GitHub](https://github.com/sav-che/TL-2/tree/main/Maintenance/raw_files)). Matching to TL-2 authors was done in a semi-supervised manner with an unpublished SQLite database against a modified author index (see `tl2-authors_ed` ≥`231204`) using various columns and their combinations as keys, including author abbreviated name / surname / forenames / life dates / BHL page ID. In this way ~85% of authors in TL-2 were linked to IPNI records. Half-automatically, a long 2-column tab-separated insertion table was formed (filenames vs. IPNI metadata in a form of Obsidian properties). Example row (`\n` is newline):
+Author information from [IPNI](https://www.ipni.org/) was retrieved through API by Roderic Page (see `authors_IPNI` table [at GitHub](https://github.com/sav-che/TL-2/tree/main/Maintenance/raw_files)). Matching to TL-2 authors was done in a semi-supervised manner within an unpublished SQLite database against a modified Smithsonian's author index (`tl2-authors_ed` ≥`231204`). Several columns and their combinations were used as keys (author abbreviated name, surname, forenames, life dates, BHL page ID). In this way ~85% of authors in TL-2 were linked to IPNI records. Half-automatically a 2-column tab-separated insertion table was formed, containing filenames vs. IPNI metadata formatted as Obsidian properties. Example row (`\n` is newline):
 
 ```
 Abel, Clarke {std. C. Abel} (Suppl.).md	---\ntl2_entry_id: tl2_suppl1_0008\ntl2_volume: suppl1\ntl2_page_printed: 5\ntl2_surname: Abel\ntl2_forenames: Clarke\ntl2_name_abbrev: C. Abel\ntl2_dates: 1789-1826\ntl2_page_id: 33264770\nauthor_lsid: 34-1\nwikidata_id: Q158174\nipni_surname: Abel\nipni_forenames: Clarke\nipni_standard_form: C.Abel\nipni_dates: 1789-1826\nipni_taxon_scope: \n- Botany\n- Spermatophytes\nipni_geo_scope: \n- United Kingdom\n- China\nipni_version: 1.3\nipni_record_created: 2003-07-02 00:00:00.0\nipni_record_modified: 2011-06-02 11:09:10.0\n---\n\n
 ```
 
-After-tab part (`---\ntl2_entry_id...`) was written in the beginning of relevant author-files with a shell script :
+After-tab parts (`---\ntl2_entry_id...`) were inserted in the beginning of relevant author-files with a shell script employing sed and GNU parallel:
 
 ```sh
 insertion_input="<TSV_INSERTION_FILE>"
@@ -573,9 +573,9 @@ insertion_input="<TSV_INSERTION_FILE>"
 find . -name "*.md" | parallel -j 1 -a "${insertion_input}" -d "\n" --colsep '\t' "sed -i '1 i '{2}'' {1}"
 ```
 
-Visual links to IPNI and Wikidata were made by copying data from the just inserted properties block into the main text:
+Visual links to IPNI and Wikidata were made by copying data from this new properties block into the main text:
 
-Search for (example https://regex101.com/r/DtpFtW/4):
+Search for:
 ```regex
 (?s)(author_lsid: ([^\n]+)\nwikidata_id: ([^\n]+).+)(?:> Support )
 ```
@@ -583,10 +583,11 @@ Replace with:
 ```regex
 $1> Author links: [IPNI]\(https://www.ipni.org/a/$2\) LSID $2, [Wikidata]\(https://www.wikidata.org/wiki/$3\) QID $3\nSupport 
 ```
+(Example: https://regex101.com/r/DtpFtW/4)
 
 Standard forms of author name were also transferred to the main text after "**Abbreviated name**":
 
-Search for (example https://regex101.com/r/RZdhLC/3):
+Search for:
 ```regex
 (?s)(?<=ipni_standard_form: )([^\n]+)(.+\*\*Abbreviated name.+?$)
 ```
@@ -594,6 +595,7 @@ Replace with:
 ```regex
 $1$2 \\[standard form in IPNI: *$1*\\]
 ```
+(Example: https://regex101.com/r/RZdhLC/3)
 ___
 ##### Misc.
 
@@ -611,15 +613,13 @@ ___
 ___
 ## Publishing
 
-TL-2 vault is presented in two formats: a [GitHub repository](https://github.com/sav-che/TL-2) (intended for downloading and using with user's own Obsidian installation), and an Obsidian Publish website (https://tl2.io).
+TL-2 vault is presented in two formats: a [GitHub repository](https://github.com/sav-che/TL-2) (intended for downloading and using with the user's own Obsidian installation), and an Obsidian Publish website (https://tl2.io).
 
-The source version is stored at the editor's PC as a working Obsidian vault, developed either in Obsidian environment itself or with other software (Notepad++, dnGrep, sed, Linux utilities, etc.). Maintenance files are stored outside of the vault and not published (scripts, tables, SQLite database, etc.). All local changes are pushed to GitHub after ensuring that the vault is working. When arbitrary amount of changes accumulates, a new [release](https://github.com/sav-che/TL-2/releases) is prepared manually by making zip and tar.gz archives of the vault. Files **not** included in the releases are: GitHub-specific [README](https://github.com/sav-che/TL-2/blob/main/README.md), [LICENSE](https://github.com/sav-che/TL-2/blob/main/LICENSE), files listed in [gitignore](https://github.com/sav-che/TL-2/blob/main/.gitignore), and [publish.css](https://github.com/sav-che/TL-2/blob/main/publish.css) containing visual settings for https://tl2.io. In addition, several preconfigured files are added to `.obsidian` folder to set up visuals and settings of the standalone vault on a first startup.
+The source version is stored at the editor's PC as a working Obsidian vault, developed either in Obsidian environment itself or with other software (Notepad++, dnGrep, sed, Linux utilities, etc.). Maintenance files are stored outside of the vault and not published (scripts, tables, SQLite database, etc.). All local changes are pushed to GitHub after ensuring that the vault is working. When arbitrary amount of changes accumulates, a new [release](https://github.com/sav-che/TL-2/releases) is prepared manually by making zip and tar.gz archives of the vault. Files **not** included in the releases are: GitHub-specific [README](https://github.com/sav-che/TL-2/blob/main/README.md), [LICENSE](https://github.com/sav-che/TL-2/blob/main/LICENSE), files listed in [gitignore](https://github.com/sav-che/TL-2/blob/main/.gitignore), and [publish.css](https://github.com/sav-che/TL-2/blob/main/publish.css) containing visual settings for *tl2.io*. In addition, several preconfigured untracked files are added to [.obsidian](https://github.com/sav-che/TL-2/tree/main/.obsidian) folder to set up visuals and settings of the standalone vault on a first startup.
 
-Web version, https://tl2.io, is hosted by [Obsidian Publish](https://obsidian.md/publish) – a paid service developed by Obsidian, and the main avenue of converting a vault into website. Custom domain was purchased at [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/) and set up with [Cloudflare](https://www.cloudflare.com/) CDN following Obsidian's [guidelines](https://help.obsidian.md/Obsidian+Publish/Set+up+a+custom+domain). 
+Web version, *tl2.io*, is hosted by [Obsidian Publish](https://obsidian.md/publish) – a paid service developed by Obsidian, and the main avenue of converting a vault into website. Custom domain was purchased at [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/) and set up with [Cloudflare](https://www.cloudflare.com/) CDN following Obsidian's [guidelines](https://help.obsidian.md/Obsidian+Publish/Set+up+a+custom+domain). Files that reside in the vault but are not meant to appear at *tl2.io* (work notes, templates) are blocked by setting their `publish` property to `false`.
 
-Small updates to the website are pushed online when needed; project-wide updates are roughly synchronized with GitHub releases and are done rarely because of the many hours they take. Files that reside in the vault but are not meant to be published (work notes, templates) are blocked by setting `publish` property to `false`.
-
-Therefore, the freshest version of TL-2 is the latest GitHub commit (if you know why you need it, you can clone/download it from the repository; see [instructions](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives)), the second freshest is https://tl2.io, and the oldest (but most reliable) is the [latest GitHub release](https://github.com/sav-che/TL-2/releases/latest) – a sort of LTS version.
+Updates at GitHub and website are not fully synchronized: project-wide updates for *tl2.io* take many hours and usually carried out alongside GitHub releases. Small updates are pushed to the website when needed. Therefore, the freshest version of TL-2 is the latest GitHub commit (if you know why you need it, you can clone/download it from the repository; see [instructions](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives)), while the more stable older versions are *tl2.io* and the [latest GitHub release](https://github.com/sav-che/TL-2/releases/latest), with the website carrying the latest small updates.
 
 
 ![[TL-2 logo alt transparent.png|30]]
