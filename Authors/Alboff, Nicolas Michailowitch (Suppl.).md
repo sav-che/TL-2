@@ -97,8 +97,8 @@ Deux genres nouveaux pour la flore du Caucase (*Rhamphicarpa et Dioscorea*)... A
 
 **Notes**
 *1*: Feb 1894 (in journal), p. \[1\]-5. – Issued as and to be cited from Bull. Herb. Boissier 2(2): 114-118. 1894. – *Campanulae novae Caucasicae*.
-*2*: Apr 1894 (in journal), p. \[1\]-12, *2 pl*. (uncol. liths.). – Id. 2(4): 247-258. 1894. – *Quelques plantes nouvelles du Caucase.
-3*: Jun 1894 (in journal), p. \[1\]-8. – Id. 2(7): 448-455. 1894. – Id. Suite.
+*2*: Apr 1894 (in journal), p. \[1\]-12, *2 pl*. (uncol. liths.). – Id. 2(4): 247-258. 1894. – *Quelques plantes nouvelles du Caucase*.
+*3*: Jun 1894 (in journal), p. \[1\]-8. – Id. 2(7): 448-455. 1894. – Id. Suite.
 *4*: Oct 1894 (in journal), p. \[1\]-3. – Id. 2(10): 639-641. 1894. – Id. Suite.
 *5*: Mar 1895 (in journal), p. \[1\]-8. – Id. 3(3): 89-96. 1895. – Id. Suite.
 \[*6*\]: Mai 1895 (in journal), p. \[1\]-12. – Id. 3(5): 228-239. 1895. – *Une nouvelle Campanule remarquable*.

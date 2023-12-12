@@ -29,7 +29,7 @@ ipni_record_modified:
 
 ### Author
 
-Rea, Carleton(1861-1946), British barrister and mycologist at Worcester; co-founder, first secretary, and editor of the British mycological Society; educated at Oxford (Magdelen College, grad. 1883), called to the Bar 1881, practicing until 1907, but, thanks to his independent means devoting himself mainly to botany. 
+Rea, Carleton (1861-1946), British barrister and mycologist at Worcester; co-founder, first secretary, and editor of the British mycological Society; educated at Oxford (Magdelen College, grad. 1883), called to the Bar 1881, practicing until 1907, but, thanks to his independent means devoting himself mainly to botany. 
 **Abbreviated name**: *Rea* \[standard form in IPNI: *Rea*\]
 
 #### Herbarium and types

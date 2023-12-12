@@ -37,8 +37,7 @@ Agosti, Guiseppe, Conte (1715-1786), Italian botanist and jesuit.
 #### Herbarium and types
 
 [[Collection PAD|PAD]]. – Agosti gave his herbarium to G. Lambioi in Belluni. It was entitled: "Exercitiones botanicae per agrum bellunensem seu plantarum in agro Bellunensi sponte nascentium," in 2 volumes. The herbarium Agosti changed hands several times after Lambioi's death and came to [[Collection PAD|PAD]] in 1903.
-*Ref*.: Saccardo, Atti Accad. ven.-trent.-ist. Sci. nat. ser. 2. 1: 5-13. 1904 (see also Bot.
-- Centralbl. 102: 286. 1906).
+*Ref*.: Saccardo, Atti Accad. ven.-trent.-ist. Sci. nat. ser. 2. 1: 5-13. 1904 (see also Bot. Centralbl. 102: 286. 1906).
 
 #### Bibliography and biography
 

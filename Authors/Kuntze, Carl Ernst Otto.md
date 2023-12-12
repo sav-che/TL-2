@@ -38,7 +38,7 @@ Kuntze, Carl Ernst Otto (1843-1907), German traveller, botanist and polemic nome
 
 #### Herbarium and types
 
-[[Collection NY|NY]] (32.000, acquired "through the generosity of Mr. Andrew Carnegie", Britten 1908). The European section of the herbarium was subsequently given to [[Collection CHARL|CHARL]] (Barnhart 1913). K's large collection of botanical illustrations, *Thesaurus iconurn*, 142 folio volumes, was acquired by Karl Lauterbach, who left this collection to the Breslau botanical institute (now [[Collection WRSL|WRSL]]).
+[[Collection NY|NY]] (32.000, acquired "through the generosity of Mr. Andrew Carnegie", Britten 1908). The European section of the herbarium was subsequently given to [[Collection CHARL|CHARL]] (Barnhart 1913). K's large collection of botanical illustrations, *Thesaurus iconum*, 142 folio volumes, was acquired by Karl Lauterbach, who left this collection to the Breslau botanical institute (now [[Collection WRSL|WRSL]]).
 *Ref*.: Urban, I., Symb. ant. 1: 90. 1898, 3: 70-71. 1902; Fl. bras. 1(1): 36-38. 1906; Gesch.
 - Berlin-Dahlem p. 271, 304, 366, 320. 1917.
 - Anon., Torreya 8: 37. 1908.
@@ -85,7 +85,7 @@ Tom von Post et Otto Kuntze, *Lexicon generum phanerogamarum*, 1903, see under P
 
 **Title**
 *Taschen-Flora von Leipzig*. Beschreibung und Standortsangabe der in dem Bezirk von vier Meilen um Leipzig einheimischen, häufig gebauten und verwilderten Gefässpflanzen, zum Gebrauch auf Excursionen und fur Schulen verfasst von Otto Kuntze,... Angeordnet nach dem natürlichen System von Alexander Braun, nebst besonderem Schlüssel des künstlichen Systems von Carl von Linné. Leipzig und Heidelberg (C. F. Winter'sche Verlagshandlung.) 1867. Oct.
-**Abbreviated title**: *Taschen-Fl. Leipzig*).
+**Abbreviated title**: *Taschen-Fl. Leipzig*
 
 **Notes**
 *Publ*.: Sep 1867 (p. vi: Easter 1867; "soeben" Flora 8 Oct 1867; Bot. Zeit. 25 Oct 1867), p. \[i\]-xlii, \[1\]-298. *Copies*: B, G, NY.
