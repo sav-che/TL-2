@@ -14,7 +14,7 @@ This is a repository for digital version of **Taxonomic literature : a selective
 
 ## Tips
 
-- To quickly search through page names (= author names), first type `file:` in the search bar. To do so for publication numbers and titles, type `section:`.
+- To quickly find and open an author page, press `Ctrl+O` or `Cmd+O` and start typing the person's name. To search through page titles, first type `file:` in the search bar. To do so for publication numbers and titles, type `section:`.
 
 - To use regular expressions in the search, put your query between slashes, e.g. `/Charko[vw]/`
 
