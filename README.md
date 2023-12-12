@@ -20,7 +20,7 @@ This is a repository for digital version of **Taxonomic literature : a selective
 
 - Other useful search options are explained here: https://help.obsidian.md/Plugins/Search
 
-- TL-2 vault integrates well with [obsidian-wikidata-plugin](https://github.com/echinopscis/obsidian-wikidata-plugin). To set it up, open the plugin settings, type `wikidata_id` in "Frontamtter wikidata entitiy ID propert name" field, and close the settings. Do not worry if this field will look unchanged. You may need to restart Obsidian after that. 
+- TL-2 vault integrates well with [obsidian-wikidata-plugin](https://github.com/echinopscis/obsidian-wikidata-plugin). To set it up, open the plugin settings, type `wikidata_id` in "Frontmatter wikidata entity ID property name" field, and close the settings. Do not worry if this field will look unchanged. You may need to restart Obsidian after that. 
 
 - Author pages in the version ≥1.1 include a by-default invisible "properties" block that contains author metadata from IPNI. To see properties, click on the ⓘ button in the upper right corner (screenshot below), or enable "Source mode" when in Editing view. To make properties always visible in the text, go to Options → Editor → Properties in document → set to Visible. 
 
