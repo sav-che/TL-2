@@ -26,9 +26,11 @@ The fonts cannot be included in the vault. If you want to see the same fonts as 
 
 - To use regular expressions in the search, put your query between slashes, e.g. `/Charko[vw]/`
 
-- Othe useful search options are explained here: https://help.obsidian.md/Plugins/Search
+- Other useful search options are explained here: https://help.obsidian.md/Plugins/Search
 
-- Author pages in the version ≥1.1 include a by-default invisible "properties" block that contains author metadata from IPNI. To see properties, click on the ⓘ button in the upper right corner (screenshot below), or enable "Source mode" when in Editing view. To make properties always visible in the text, go to Options → Editor → Properties in document → set to Visible.
+- TL-2 vault integrates well with [obsidian-wikidata-plugin](https://github.com/echinopscis/obsidian-wikidata-plugin). To set it up, open plugin settings, type `wikidata_id` in "Frontamtter wikidata entitiy ID propert name" field, and close the settings. Do not worry if this field will look unchanged. You may need to restart Obsidian after that. 
+
+- Author pages in the version ≥1.1 include a by-default invisible "properties" block that contains author metadata from IPNI. To see properties, click on the ⓘ button in the upper right corner (screenshot below), or enable "Source mode" when in Editing view. To make properties always visible in the text, go to Options → Editor → Properties in document → set to Visible. 
 
 ![](/Maintenance/misc_images/instructions_open_properties.jpg)
 
