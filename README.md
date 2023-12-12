@@ -12,14 +12,6 @@ This is a repository for digital version of **Taxonomic literature : a selective
 
 ![](/Maintenance/misc_images/instructions_open_folder.jpg)
 
-## Fonts
-
-The fonts cannot be included in the vault. If you want to see the same fonts as in *tl2.io*, please install them on your system:
-
-- https://fonts.google.com/specimen/Source+Serif+4
-
-- https://fonts.google.com/specimen/Source+Code+Pro    
-
 ## Tips
 
 - To quickly search through page names (= author names), first type `file:` in the search bar. To do so for publication numbers and titles, type `section:`.
@@ -28,7 +20,7 @@ The fonts cannot be included in the vault. If you want to see the same fonts as 
 
 - Other useful search options are explained here: https://help.obsidian.md/Plugins/Search
 
-- TL-2 vault integrates well with [obsidian-wikidata-plugin](https://github.com/echinopscis/obsidian-wikidata-plugin). To set it up, open plugin settings, type `wikidata_id` in "Frontamtter wikidata entitiy ID propert name" field, and close the settings. Do not worry if this field will look unchanged. You may need to restart Obsidian after that. 
+- TL-2 vault integrates well with [obsidian-wikidata-plugin](https://github.com/echinopscis/obsidian-wikidata-plugin). To set it up, open the plugin settings, type `wikidata_id` in "Frontamtter wikidata entitiy ID propert name" field, and close the settings. Do not worry if this field will look unchanged. You may need to restart Obsidian after that. 
 
 - Author pages in the version ≥1.1 include a by-default invisible "properties" block that contains author metadata from IPNI. To see properties, click on the ⓘ button in the upper right corner (screenshot below), or enable "Source mode" when in Editing view. To make properties always visible in the text, go to Options → Editor → Properties in document → set to Visible. 
 
@@ -43,6 +35,14 @@ The fonts cannot be included in the vault. If you want to see the same fonts as 
 ![](/Maintenance/misc_images/instructions_change_default_view.jpg)
 
 - All official help pages: https://help.obsidian.md/.
+
+## Fonts
+
+The fonts cannot be included in the vault. If you want to see the same fonts as in *tl2.io*, please install them on your system:
+
+- https://fonts.google.com/specimen/Source+Serif+4
+
+- https://fonts.google.com/specimen/Source+Code+Pro 
 
 ## Contact
 
