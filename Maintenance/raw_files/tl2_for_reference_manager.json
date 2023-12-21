@@ -1,0 +1,527 @@
+[
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1976",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Utrecht",
+		"ISBN": "978-90-313-0225-3",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103414",
+		"number-of-pages": "1136",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Bohn, Scheltema & Holkema",
+		"publisher-place": "Utrecht",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.206090",
+		"volume": "Volume I: A-G",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A"
+			},
+			{
+				"family": "Cowan",
+				"given": "Richard S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1979",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Utrecht",
+		"ISBN": "978-90-313-0343-4",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103253",
+		"number-of-pages": "991",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Bohn, Scheltema & Holkema",
+		"publisher-place": "Utrecht",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.206091",
+		"volume": "Volume II: H-Le",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A"
+			},
+			{
+				"family": "Cowan",
+				"given": "Richard S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1981",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Utrecht",
+		"ISBN": "978-90-313-0444-8",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/104137",
+		"number-of-pages": "980",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Bohn, Scheltema & Holkema",
+		"publisher-place": "Utrecht",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.207599",
+		"volume": "Volume III: Lh-O",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A"
+			},
+			{
+				"family": "Cowan",
+				"given": "Richard S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1983",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Utrecht/Antwerpen",
+		"ISBN": "978-90-313-0549-0",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103624",
+		"number-of-pages": "1214",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Bohn, Scheltema & Holkema",
+		"publisher-place": "Utrecht/Antwerpen",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.206493",
+		"volume": "Volume IV: P-Sak",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A"
+			},
+			{
+				"family": "Cowan",
+				"given": "Richard S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1985",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Utrecht/Antwerpen",
+		"ISBN": "978-90-313-0631-2",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/104077",
+		"number-of-pages": "1066",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Bohn, Scheltema & Holkema",
+		"publisher-place": "Utrecht/Antwerpen",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.206494",
+		"volume": "Volume V: Sal-Ste",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A"
+			},
+			{
+				"family": "Cowan",
+				"given": "Richard S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1986",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Utrecht/Antwerpen",
+		"ISBN": "978-90-313-0714-2",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103683",
+		"number-of-pages": "926",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Bohn, Scheltema & Holkema",
+		"publisher-place": "Utrecht/Antwerpen",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.206495",
+		"volume": "Volume VI: Sti-Vuy",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A"
+			},
+			{
+				"family": "Cowan",
+				"given": "Richard S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1988",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Utrecht/Antwerpen",
+		"ISBN": "978-90-313-0853-8",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103250",
+		"number-of-pages": "653",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Bohn, Scheltema & Holkema",
+		"publisher-place": "Utrecht/Antwerpen",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.206496",
+		"volume": "Volume VII: W-Z",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A"
+			},
+			{
+				"family": "Cowan",
+				"given": "Richard S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1992",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Königstein",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103858",
+		"number-of-pages": "453",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Koeltz Scientific Books",
+		"publisher-place": "Königstein",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208044",
+		"volume": "Supplement I: A-Ba",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A."
+			},
+			{
+				"family": "Mennega",
+				"given": "Erik A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1993",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Königstein",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103859",
+		"number-of-pages": "464",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Koeltz Scientific Books",
+		"publisher-place": "Königstein",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208045",
+		"volume": "Supplement II: Be-Bo",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A."
+			},
+			{
+				"family": "Mennega",
+				"given": "Erik A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1995",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Königstein",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103861",
+		"number-of-pages": "550",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Koeltz Scientific Books",
+		"publisher-place": "Königstein",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208046",
+		"volume": "Supplement III: Br-Ca",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A."
+			},
+			{
+				"family": "Mennega",
+				"given": "Erik A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1997",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Königstein",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103860",
+		"number-of-pages": "614",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Koeltz Scientific Books",
+		"publisher-place": "Königstein",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208047",
+		"volume": "Supplement IV: Ce-Cz",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A."
+			},
+			{
+				"family": "Mennega",
+				"given": "Erik A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective1998",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Königstein",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103833",
+		"number-of-pages": "432",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Koeltz Scientific Books",
+		"publisher-place": "Königstein",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208048",
+		"volume": "Supplement V: Da-Di",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A."
+			},
+			{
+				"family": "Mennega",
+				"given": "Erik A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "stafleuTaxonomicLiteratureSelective2000",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Königstein",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103835",
+		"number-of-pages": "518",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "Koeltz Scientific Books",
+		"publisher-place": "Königstein",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208049",
+		"volume": "Supplement VI: Do-E",
+		"author": [
+			{
+				"family": "Stafleu",
+				"given": "Frans A."
+			},
+			{
+				"family": "Mennega",
+				"given": "Erik A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "dorrTaxonomicLiteratureSelective2008",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Ruggell",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103834",
+		"number-of-pages": "469",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "A.R.G. Gantner Verlag K.G.",
+		"publisher-place": "Ruggell",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208050",
+		"volume": "Supplement VII: F-Frer",
+		"author": [
+			{
+				"family": "Dorr",
+				"given": "Laurence J."
+			},
+			{
+				"family": "Nicolson",
+				"given": "Dan H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "dorrTaxonomicLiteratureSelective2009",
+		"type": "book",
+		"collection-title": "Regnum Vegetabile",
+		"edition": "2nd. ed",
+		"event-place": "Ruggell",
+		"ISBN": "978-90-313-0224-6",
+		"language": "en",
+		"note": "https://www.biodiversitylibrary.org/item/103832",
+		"number-of-pages": "550",
+		"number-of-volumes": "7 Volumes, 8 Supplements",
+		"publisher": "A.R.G. Gantner Verlag K.G.",
+		"publisher-place": "Ruggell",
+		"title": "Taxonomic literature: a selective guide to botanical publications and collections with dates, commentaries and types",
+		"title-short": "TL-2",
+		"URL": "https://doi.org/10.5962/t.208051",
+		"volume": "Supplement VIII: Fres-G",
+		"author": [
+			{
+				"family": "Dorr",
+				"given": "Laurence J."
+			},
+			{
+				"family": "Nicolson",
+				"given": "Dan H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	}
+]

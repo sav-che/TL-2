@@ -27,8 +27,7 @@ ipni_record_modified: 2003-07-02 00:00:00.0
 > Author links: [IPNI](https://www.ipni.org/a/12507-1) LSID 12507-1, [Wikidata](https://www.wikidata.org/wiki/Q21340282) QID Q21340282
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
-Fürnrohr, August Emanuel (1804-1861), German botanist, editor of Flora 1830-1861
-(1830-1842 with Hoppe).
+Fürnrohr, August Emanuel (1804-1861), German botanist, editor of Flora 1830-1861 (1830-1842 with Hoppe).
 **Abbreviated name**: *Fürnr.* \[standard form in IPNI: *Fürnr.*\]
 
 #### Herbarium and types

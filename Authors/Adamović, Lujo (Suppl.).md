@@ -217,7 +217,7 @@ Publ.: 1906, cover, p. \[400\]-415. *Copy*: G. – Reprinted and to be cited fro
 **Abbreviated title**: *Vegetationsverh. Balkanländer*.
 
 **Notes**
-*Publ*.: Jan 1909 (preface 15 Dec 1908; Nat. Nov. Jan 1909, ÖBZ rd. Oct-Nov 1909, Allg. bot. Z. 15 Jun 1910, Bot. Centralbl. 8 Feb 1910; Bot. Zeit. 1 Mar 1910), p. \[i\]-xvi, \[1\]-567, \[568\], 6 maps (col.), *photos i-xlix. Copies*: B, G, NY, U, US. – Issued as vol. 2 of A. Engler, *Veg. Erde*, see TL- 2/1712.
+*Publ*.: Jan 1909 (preface 15 Dec 1908; Nat. Nov. Jan 1909, ÖBZ rd. Oct-Nov 1909, Allg. bot. Z. 15 Jun 1910, Bot. Centralbl. 8 Feb 1910; Bot. Zeit. 1 Mar 1910), p. \[i\]-xvi, \[1\]-567, \[568\], 6 maps (col.), *photos i-xlix. Copies*: B, G, NY, U, US. – Issued as vol. 2 of A. Engler, *Veg. Erde*, see TL-2/1712.
 *Facsimile ed*.: 1976 \[J. Cramer in der\] A.R. Gantner Verlag K.-G., FL-9490 Vaduz (maps not coloured). *Copy*: FAS.
 *Note*: The term "Mösische Länder" in the title refers to the Balkan Peninsula with the exception of S. and C. Greece: in the present configuration the center part of Yugoslavia, Bulgaria, European Turkey, northern Greece and Albania. The travelling of Adamovic was sponsored by the Kais. Akademie der Wissenschaften, Wien and the Naturhistorische Orientverein, Wien; the publication took place through A. Engler and the Kön. Preuss. Akademie der Wissenschaften; the coloured maps were sponsored by Ferdinand I, King of Bulgaria.
 *Ref*.: Anon., ÖBZ 60: 22-23. 1910 (rev.).

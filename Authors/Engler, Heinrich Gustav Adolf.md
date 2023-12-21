@@ -218,36 +218,39 @@ AG 1: 274; Barnhart 1: 510; BFM p. 282 \[index\]; BL 1: 16, 25, 35, 57, 58; BM 2
 |	|N.2-4	|28-35|
 
 - (3) *Die natürlichen Pflanzenfamilien* ed. 2, edited until his death (1930) by Engler. His own revisions were:
-*Angiospermae*, general part, 14a: \[i\]-iv, \[1\]-167. 1926.
-*Brunelliaceae*, 18a: 226-229. Jan-Oct 1930.
-*Burseraceae*, 19a: 405-456, *figs. 191-220.* Jan-Sep 1931.
-*Cneoraceae*, 19a: 184-187, *fig. 88.* Jan-Sep 1931.
-*Coniferae*, 13: 166-198, \[1\]. 1926.
-*Cunoniaceae*, 18a: 229-262, *figs. 134-151.* Jan-Oct 1930.
-*Cyanastraceae*, 15a: 188-190, *fig. 72.* Jan-Aug 1930.
-*Dichapetalaceae*, 19c: \[1\]-11, *figs. 1-5.* Jan-Aug 1931 (with Krause). *Eumycetes*, 6: \[i\]-vii. 1928.
-*Farinosae*, gen. 15a: \[1\]-5. 1930.
-*Flagellariaceae*, 15a: \[6\]-8.*fig I*. Jan-Aug 1930.
-*Geraniales*, 19a: \[4\]-10. 1931.
-*Guttiferae*, 21: 154-237, *figs. 68-107.* Dec 1925.
-*Loranthaceae*, 16b: \[98\]-203, *figs. 48-102.* Jan-Apr 1935 (with Krause). *Medusagynaceae*, 21: 50-52, *fig. 31.* 1925.
-*Musci*, gen., vol. 10. Mai-Jun 1924.
-*Opuntiales*, gen., 21: 592-594. 1925.
-*Parietales*, gen., 21: \[1\]-6. 1925.
-*Podostemaceae*, 18a: 1-68, *figs. 1-61*, 483-484. Jan-Oct 1930. *Quiinaceae*, 21: 106-108, *fig. 58.* Dec 1925.
-*Rosales*, 18a: \[69\]-71. 1930.
-*Rutaceae*, 19a: 187-359, *figs. 89-. 165.* Jan-Sep 1931.
-*Saxifragaceae*, 18a: 74-226, *figs. 64-132.* Jan-Oct 1930.
-*Simarubaceae*, 19a: 359-405, *figs. 166-190.* Jan-Sep 1931.
-*Strasburgeriaceae*, 21: 87-89. *fig. 46.* 1925.
-*Zygophyllaceae*, 19a: 144-184, *figs. 68-87.* Jan-Sep 1931.
+	- *Angiospermae*, general part, 14a: \[i\]-iv, \[1\]-167. 1926.
+	- *Brunelliaceae*, 18a: 226-229. Jan-Oct 1930.
+	- *Burseraceae*, 19a: 405-456, *figs. 191-220.* Jan-Sep 1931.
+	- *Cneoraceae*, 19a: 184-187, *fig. 88.* Jan-Sep 1931.
+	- *Coniferae*, 13: 166-198, \[1\]. 1926.
+	- *Cunoniaceae*, 18a: 229-262, *figs. 134-151.* Jan-Oct 1930.
+	- *Cyanastraceae*, 15a: 188-190, *fig. 72.* Jan-Aug 1930.
+	- *Dichapetalaceae*, 19c: \[1\]-11, *figs. 1-5.* Jan-Aug 1931 (with Krause). *Eumycetes*, 6: \[i\]-vii. 1928.
+	- *Farinosae*, gen. 15a: \[1\]-5. 1930.
+	- *Flagellariaceae*, 15a: \[6\]-8.*fig I*. Jan-Aug 1930.
+	- *Geraniales*, 19a: \[4\]-10. 1931.
+	- *Guttiferae*, 21: 154-237, *figs. 68-107.* Dec 1925.
+	- *Loranthaceae*, 16b: \[98\]-203, *figs. 48-102.* Jan-Apr 1935 (with Krause). *Medusagynaceae*, 21: 50-52, *fig. 31.* 1925.
+	- *Musci*, gen., vol. 10. Mai-Jun 1924.
+	- *Opuntiales*, gen., 21: 592-594. 1925.
+	- *Parietales*, gen., 21: \[1\]-6. 1925.
+	- *Podostemaceae*, 18a: 1-68, *figs. 1-61*, 483-484. Jan-Oct 1930. *Quiinaceae*, 21: 106-108, *fig. 58.* Dec 1925.
+	- *Rosales*, 18a: \[69\]-71. 1930.
+	- *Rutaceae*, 19a: 187-359, *figs. 89-. 165.* Jan-Sep 1931.
+	- *Saxifragaceae*, 18a: 74-226, *figs. 64-132.* Jan-Oct 1930.
+	- *Simarubaceae*, 19a: 359-405, *figs. 166-190.* Jan-Sep 1931.
+	- *Strasburgeriaceae*, 21: 87-89. *fig. 46.* 1925.
+	- *Zygophyllaceae*, 19a: 144-184, *figs. 68-87.* Jan-Sep 1931.
+	
 - (4) *Pflanzenreich*, edited by Engler until his death (1930):
-(a) *Araceae*, iv, 23, 1905-1920.
-(b) *Aponogetonaceae*, iv, 13, 2 Jan 1906.
-(c) *Saxifragaceae*, iv, 117, 1916-1919.
+	- (a) *Araceae*, iv, 23, 1905-1920.
+	- (b) *Aponogetonaceae*, iv, 13, 2 Jan 1906.
+	- (c) *Saxifragaceae*, iv, 117, 1916-1919.
+	
 - (5) *Monographiae phanerogamarum* (Alph. et C. de Candolle):
-(a) *Araceae*, 2: 1-681. Sep 1879.
-(b) *Burseraceae, Anacardiaceae*, 4: 1-500, 536-540. Mar 1883.
+	- (a) *Araceae*, 2: 1-681. Sep 1879.
+	- (b) *Burseraceae, Anacardiaceae*, 4: 1-500, 536-540. Mar 1883.
+	
 - (6) *Notizblatt des Königl. botanischen Gartens und Museums zu Berlin*, editor from vol. 1 (1895) until his death.
 
 #### Festschrift
@@ -345,12 +348,12 @@ Candollea 29: 495-496. 1974.
 
 **Notes**
 *Publ*.: The fourth volume (dated 1889, publ. Dec 1889-Feb 1890) contains as a preface (a) the "*Uebersicht über die botanischen Ergebnisse der Expedition*" by A. Engler (p. \[i\]-xvi), Dec 1889, and further:
-(b) *Algen*, bearbeitet von E. Askenasy, p. \[1\]-58, *plates i-xii* (Corjugatae and Characeae by C. F. O. Nordstedt). This part was Published separately Sep 1888 (Bot. Zeit. 28 Sep, Nat. Nov. Oct) and was reissued with the rest of the volume in 1889.
-(c) *Pilze*, bearbeitet von Baron Felix von Thümen, Flechten, bearbeitet von J. Müller Arg., together p. \[1\]-16, 1889.
-(d) *Lebermoose* (Hepaticae), mit Zugrundelegung der von A. C. M. Gottsche ausgeführten Vorarbeiten bearbeitetet von V. Schiffner, p. \[1\]-48, *plates i-viii*, 1889.
-(e) *Laubmoose*, bearbeitet von K. (= C. A. F. W.) Müller, p. \[1\]-64.
-(f) *Farne* (Filicinae) und bärlappartige Gewächse (Lycopodinae), bearbeitet von M. Kuhn, p. \[1\]-20, *pl. i-iii*, 1889.
-(g) *Siphonogamen* (Phanerogamen), bearbeitet von A. Engler et al., p. \[1\]-49, *pl. i-xv*, 1889. (reprint with part of preface p. \[v\]-xvi, *Copy*: M.).
+- (b) *Algen*, bearbeitet von E. Askenasy, p. \[1\]-58, *plates i-xii* (Corjugatae and Characeae by C. F. O. Nordstedt). This part was Published separately Sep 1888 (Bot. Zeit. 28 Sep, Nat. Nov. Oct) and was reissued with the rest of the volume in 1889.
+- (c) *Pilze*, bearbeitet von Baron Felix von Thümen, Flechten, bearbeitet von J. Müller Arg., together p. \[1\]-16, 1889.
+- (d) *Lebermoose* (Hepaticae), mit Zugrundelegung der von A. C. M. Gottsche ausgeführten Vorarbeiten bearbeitetet von V. Schiffner, p. \[1\]-48, *plates i-viii*, 1889.
+- (e) *Laubmoose*, bearbeitet von K. (= C. A. F. W.) Müller, p. \[1\]-64.
+- (f) *Farne* (Filicinae) und bärlappartige Gewächse (Lycopodinae), bearbeitet von M. Kuhn, p. \[1\]-20, *pl. i-iii*, 1889.
+- (g) *Siphonogamen* (Phanerogamen), bearbeitet von A. Engler et al., p. \[1\]-49, *pl. i-xv*, 1889. (reprint with part of preface p. \[v\]-xvi, *Copy*: M.).
 The 38 Plates are black and white lithographs of drawings by various botanists and artists. *Copies*: BR, Techn. Univ. Delft, Teyler.
 *Ref*.: BM 2: 662.
 - Lawson and Price, Bot. J. Linn. Soc. 62(3): 338. 1969.
@@ -1547,7 +1550,7 @@ Until 1893 "von A. Engler und K. Prantl, " later "begründet von A. Engler und K
 
 **Title**
 *Die Vegetation der Erde*. Sammlung pflanzengeographischer Monographien herausgegeben von A. Engler... und O. Drude... Leipzig (Wilhelm Engelmann) 1896-1923, 15 vols. Oct.
-**Abbreviated title**: *Veg. Erde*.
+**Abbreviated title**: *Veg. Erde*
 
 **Notes**
 *Co-author*: Drude, Carl Georg Oscar (1852-1933).
