@@ -8,7 +8,7 @@ tl2_name_abbrev: A.A. Afzel.
 tl2_dates: 1785-1872
 tl2_bhl_page_id: 33264724
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q717133
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

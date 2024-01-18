@@ -8,7 +8,7 @@ tl2_name_abbrev: Dompierre
 tl2_dates: 1800-1881
 tl2_bhl_page_id: 33260035
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682078
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: D.R. Cameron
 tl2_dates: 1907-x
 tl2_bhl_page_id: 33266628
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681818
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

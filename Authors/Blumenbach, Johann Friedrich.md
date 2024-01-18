@@ -8,7 +8,7 @@ tl2_name_abbrev: Blumenbach
 tl2_dates: 1752-1840
 tl2_bhl_page_id: 33265426
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q58588
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Berkovec
 tl2_dates: fl. 1905
 tl2_bhl_page_id: 33265297
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q61997048
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

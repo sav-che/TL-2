@@ -8,7 +8,7 @@ tl2_name_abbrev: Dutcher
 tl2_dates: 1871-1922
 tl2_bhl_page_id: 33260195
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q122860164
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

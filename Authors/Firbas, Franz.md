@@ -8,7 +8,7 @@ tl2_name_abbrev: Firbas
 tl2_dates: 1902-1964
 tl2_bhl_page_id: 33259702
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1446773
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

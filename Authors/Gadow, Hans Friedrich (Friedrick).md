@@ -8,7 +8,7 @@ tl2_name_abbrev: Gadow
 tl2_dates: 1855-1928
 tl2_bhl_page_id: 33258568
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q64952
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

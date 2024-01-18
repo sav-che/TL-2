@@ -8,7 +8,7 @@ tl2_name_abbrev: Gellert
 tl2_dates: fl. 1922-1923
 tl2_bhl_page_id: 33258649
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682378
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Dorety
 tl2_dates: 1870-?
 tl2_bhl_page_id: 33260047
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682084
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Duboul
 tl2_dates: fl. 1886-1890
 tl2_bhl_page_id: 33260110
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677094
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

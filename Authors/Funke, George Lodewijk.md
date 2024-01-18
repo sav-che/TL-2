@@ -8,7 +8,7 @@ tl2_name_abbrev: Funke
 tl2_dates: 1896-1946
 tl2_bhl_page_id: 33258557
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682369
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

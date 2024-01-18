@@ -8,7 +8,7 @@ tl2_name_abbrev: D. Folsom
 tl2_dates: 1891-1973
 tl2_bhl_page_id: 33259797
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682336
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

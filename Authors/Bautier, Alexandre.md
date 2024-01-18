@@ -8,7 +8,7 @@ tl2_name_abbrev: Bautier
 tl2_dates: 1801-?
 tl2_bhl_page_id: 33265119
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q15973550
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

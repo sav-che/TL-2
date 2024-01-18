@@ -8,7 +8,7 @@ tl2_name_abbrev: Àvila
 tl2_dates: 1842-?
 tl2_bhl_page_id: 33264945
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q20741026
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

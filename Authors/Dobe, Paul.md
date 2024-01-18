@@ -8,7 +8,7 @@ tl2_name_abbrev: Dobe
 tl2_dates: fl. 1929
 tl2_bhl_page_id: 33259989
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94925676
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

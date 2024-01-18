@@ -8,7 +8,7 @@ tl2_name_abbrev: M.T. Bingham
 tl2_dates: fl. 1939-1945
 tl2_bhl_page_id: 33265364
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q120279160
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

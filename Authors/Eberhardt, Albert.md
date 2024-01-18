@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Eberh.
 tl2_dates: 1875-1952
 tl2_bhl_page_id: 33260235
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682219
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

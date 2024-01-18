@@ -8,7 +8,7 @@ tl2_name_abbrev: Dellert
 tl2_dates: fl. 1933
 tl2_bhl_page_id: 33259227
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677009
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

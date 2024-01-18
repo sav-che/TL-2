@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Eggert
 tl2_dates: 1812-1895
 tl2_bhl_page_id: 33260257
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682242
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

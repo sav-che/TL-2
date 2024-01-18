@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Brandt
 tl2_dates: 1911-x
 tl2_bhl_page_id: 33266322
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676341
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Bourguignat
 tl2_dates: 1829-1892
 tl2_bhl_page_id: 33265589
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3188882
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

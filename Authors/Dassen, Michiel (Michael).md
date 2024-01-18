@@ -8,7 +8,7 @@ tl2_name_abbrev: Dassen
 tl2_dates: 1809-1852
 tl2_bhl_page_id: 33259129
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q110083153
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

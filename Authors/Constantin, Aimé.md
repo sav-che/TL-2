@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Constantin
 tl2_dates: 1831-1900
 tl2_bhl_page_id: 33265985
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q17621031
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

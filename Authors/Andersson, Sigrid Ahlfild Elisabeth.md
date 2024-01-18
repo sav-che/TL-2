@@ -8,7 +8,7 @@ tl2_name_abbrev: S.A.E. Anderss.
 tl2_dates: 1868-1918
 tl2_bhl_page_id: 33264845
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q28840712
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

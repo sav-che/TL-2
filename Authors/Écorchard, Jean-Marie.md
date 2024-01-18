@@ -8,7 +8,7 @@ tl2_name_abbrev: Écorchard
 tl2_dates: 1809-1882
 tl2_bhl_page_id: 33260244
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3167876
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

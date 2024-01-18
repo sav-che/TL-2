@@ -8,7 +8,7 @@ tl2_name_abbrev: El. Armitage
 tl2_dates: 1865-1961
 tl2_bhl_page_id: 33264887
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21505331
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

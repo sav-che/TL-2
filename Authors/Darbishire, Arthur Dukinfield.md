@@ -8,7 +8,7 @@ tl2_name_abbrev: A.D. Darb.
 tl2_dates: 1880-1915
 tl2_bhl_page_id: 33259109
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q22087423
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

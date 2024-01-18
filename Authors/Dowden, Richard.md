@@ -8,7 +8,7 @@ tl2_name_abbrev: Dowden
 tl2_dates: 1794-1861
 tl2_bhl_page_id: 33260067
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q62086634
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

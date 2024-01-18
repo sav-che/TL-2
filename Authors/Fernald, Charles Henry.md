@@ -8,7 +8,7 @@ tl2_name_abbrev: C.H. Fernald
 tl2_dates: 1838-1921
 tl2_bhl_page_id: 33259648
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q12057614
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

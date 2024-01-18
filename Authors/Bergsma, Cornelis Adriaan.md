@@ -8,7 +8,7 @@ tl2_name_abbrev: Bergsma
 tl2_dates: 1798-1859
 tl2_bhl_page_id: 33265293
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q16508860
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

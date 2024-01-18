@@ -8,7 +8,7 @@ tl2_name_abbrev: C.J. Backm.
 tl2_dates: 1822-1898
 tl2_bhl_page_id: 33264970
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q16159494
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Ährling
 tl2_dates: 1837-1888
 tl2_bhl_page_id: 33264720
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10307747
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Divers
 tl2_dates: c. 1854-1942
 tl2_bhl_page_id: 33259405
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677052
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

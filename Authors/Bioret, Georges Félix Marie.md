@@ -8,7 +8,7 @@ tl2_name_abbrev: Bioret
 tl2_dates: 1880-1957
 tl2_bhl_page_id: 33265366
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676270
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

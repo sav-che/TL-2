@@ -8,7 +8,7 @@ tl2_name_abbrev: L. Berl.
 tl2_dates: 1784-1863
 tl2_bhl_page_id: 33265300
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3219040
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: C.A. Blomb.
 tl2_dates: 1844-1922
 tl2_bhl_page_id: 33265418
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5579417
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Acosta Solis
 tl2_dates: 1910-x
 tl2_bhl_page_id: 33264758
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q6018390
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Daruty
 tl2_dates: fl. 1887
 tl2_bhl_page_id: 33259123
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676963
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

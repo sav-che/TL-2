@@ -8,7 +8,7 @@ tl2_name_abbrev: D.L. Crawford
 tl2_dates: 1889-x
 tl2_bhl_page_id: 33266129
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5228599
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Barthelat
 tl2_dates: fl. 1893
 tl2_bhl_page_id: 33265070
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676214
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

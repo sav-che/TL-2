@@ -8,7 +8,7 @@ tl2_name_abbrev: Maxim. Wied
 tl2_dates: 1782-1867
 tl2_bhl_page_id: 33355468
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q61282
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

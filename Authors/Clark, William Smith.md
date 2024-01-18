@@ -8,7 +8,7 @@ tl2_name_abbrev: W.S. Clark
 tl2_dates: 1826-1886
 tl2_bhl_page_id: 33265859
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q901202
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

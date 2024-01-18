@@ -8,7 +8,7 @@ tl2_name_abbrev: Densmore
 tl2_dates: 1862-?
 tl2_bhl_page_id: 33259256
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677026
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

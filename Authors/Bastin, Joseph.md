@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Bastin
 tl2_dates: 1851-1939
 tl2_bhl_page_id: 33265097
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676218
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

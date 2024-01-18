@@ -8,7 +8,7 @@ tl2_name_abbrev: Forsander
 tl2_dates: 1795-1866
 tl2_bhl_page_id: 33259824
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q26265356
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

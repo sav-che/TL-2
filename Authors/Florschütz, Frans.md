@@ -8,7 +8,7 @@ tl2_name_abbrev: F. Florsch.
 tl2_dates: 1887-1965
 tl2_bhl_page_id: 33259773
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q65851641
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

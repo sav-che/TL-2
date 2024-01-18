@@ -8,7 +8,7 @@ tl2_name_abbrev: Ferry de la Bellone
 tl2_dates: 1839-1895
 tl2_bhl_page_id: 33259671
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682313
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

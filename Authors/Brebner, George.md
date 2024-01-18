@@ -8,7 +8,7 @@ tl2_name_abbrev: Brebner
 tl2_dates: 1855-1904
 tl2_bhl_page_id: 33266353
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681746
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

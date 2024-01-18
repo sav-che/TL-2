@@ -8,7 +8,7 @@ tl2_name_abbrev: R. Dollfus
 tl2_dates: fl. 1919
 tl2_bhl_page_id: 33260020
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21338758
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

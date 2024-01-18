@@ -8,7 +8,7 @@ tl2_name_abbrev: Buekers
 tl2_dates: fl. 1904-1909
 tl2_bhl_page_id: 33266513
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123004356
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

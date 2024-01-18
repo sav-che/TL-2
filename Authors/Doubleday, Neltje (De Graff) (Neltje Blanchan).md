@@ -8,7 +8,7 @@ tl2_name_abbrev: N. Doubleday
 tl2_dates: 1865-1918
 tl2_bhl_page_id: 33260053
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q6990836
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

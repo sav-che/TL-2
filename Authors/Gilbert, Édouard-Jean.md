@@ -8,7 +8,7 @@ tl2_name_abbrev: É.-J. Gilbert
 tl2_dates: 1888-1954
 tl2_bhl_page_id: 33258683
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3719713
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: J.A. Carl
 tl2_dates: 1725-1800
 tl2_bhl_page_id: 33266722
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q590789
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

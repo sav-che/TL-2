@@ -8,7 +8,7 @@ tl2_name_abbrev: Roxas
 tl2_dates: 1777-1827
 tl2_bhl_page_id: 33190424
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2983280
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

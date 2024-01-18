@@ -8,7 +8,7 @@ tl2_name_abbrev: Dauphin
 tl2_dates: fl. 1904-1908
 tl2_bhl_page_id: 33259134
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676967
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

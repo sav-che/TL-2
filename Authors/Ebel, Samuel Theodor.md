@@ -8,7 +8,7 @@ tl2_name_abbrev: S.T. Ebel
 tl2_dates: 1788-1866
 tl2_bhl_page_id: 33260233
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682214
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

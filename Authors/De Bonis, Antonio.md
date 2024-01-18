@@ -8,7 +8,7 @@ tl2_name_abbrev: De Bonis
 tl2_dates: 1862-1901
 tl2_bhl_page_id: 33259176
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123460058
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

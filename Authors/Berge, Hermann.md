@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Berge
 tl2_dates: 1845-1891
 tl2_bhl_page_id: 33265284
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681622
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

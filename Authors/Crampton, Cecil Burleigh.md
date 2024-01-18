@@ -8,7 +8,7 @@ tl2_name_abbrev: C.B. Crampton
 tl2_dates: 1871-1920
 tl2_bhl_page_id: 33266124
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676917
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

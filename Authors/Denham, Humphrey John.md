@@ -8,7 +8,7 @@ tl2_name_abbrev: H.J. Denham
 tl2_dates: 1893-?
 tl2_bhl_page_id: 33259247
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q111660501
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

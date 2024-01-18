@@ -8,7 +8,7 @@ tl2_name_abbrev: Eberhard
 tl2_dates: 1873-x
 tl2_bhl_page_id: 33260235
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677144
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

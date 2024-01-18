@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Flueck
 tl2_dates: 1901-1970
 tl2_bhl_page_id: 33259779
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q106417815
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

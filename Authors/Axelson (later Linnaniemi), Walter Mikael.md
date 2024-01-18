@@ -8,7 +8,7 @@ tl2_name_abbrev: Axelson
 tl2_dates: 1876-1953
 tl2_bhl_page_id: 33264945
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q11902245
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

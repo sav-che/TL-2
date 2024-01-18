@@ -8,7 +8,7 @@ tl2_name_abbrev: Clee
 tl2_dates: fl. 1936-1943
 tl2_bhl_page_id: 33265876
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676491
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

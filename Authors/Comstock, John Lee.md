@@ -8,7 +8,7 @@ tl2_name_abbrev: Comstock
 tl2_dates: 1789-1858
 tl2_bhl_page_id: 33265969
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3181923
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

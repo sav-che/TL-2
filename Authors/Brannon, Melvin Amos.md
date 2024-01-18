@@ -8,7 +8,7 @@ tl2_name_abbrev: Brannon
 tl2_dates: 1865-1950
 tl2_bhl_page_id: 33266327
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q56248050
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

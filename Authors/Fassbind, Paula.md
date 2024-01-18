@@ -8,7 +8,7 @@ tl2_name_abbrev: Fassbind
 tl2_dates: 1903-x
 tl2_bhl_page_id: 33259563
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677220
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

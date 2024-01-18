@@ -8,7 +8,7 @@ tl2_name_abbrev: J.D. Cox
 tl2_dates: 1828-1900
 tl2_bhl_page_id: 33266115
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q177350
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

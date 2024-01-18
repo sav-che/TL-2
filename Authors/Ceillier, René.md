@@ -8,7 +8,7 @@ tl2_name_abbrev: Ceillier
 tl2_dates: fl. 1913
 tl2_bhl_page_id: 33265681
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676453
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

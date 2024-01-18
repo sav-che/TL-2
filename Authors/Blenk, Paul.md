@@ -8,7 +8,7 @@ tl2_name_abbrev: Blenk
 tl2_dates: fl. 1884
 tl2_bhl_page_id: 33265409
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676290
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

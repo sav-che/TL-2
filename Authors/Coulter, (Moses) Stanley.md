@@ -8,7 +8,7 @@ tl2_name_abbrev: S. Coult.
 tl2_dates: 1853-1943
 tl2_bhl_page_id: 33266097
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q7599536
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

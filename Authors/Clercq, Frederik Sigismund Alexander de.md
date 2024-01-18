@@ -8,7 +8,7 @@ tl2_name_abbrev: Clercq
 tl2_dates: 1842-1906
 tl2_bhl_page_id: 33265888
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q60194302
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

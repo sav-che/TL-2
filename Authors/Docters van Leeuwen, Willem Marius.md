@@ -8,7 +8,7 @@ tl2_name_abbrev: Doct. v. Leeuwen
 tl2_dates: 1880-1960
 tl2_bhl_page_id: 33259992
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2063732
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

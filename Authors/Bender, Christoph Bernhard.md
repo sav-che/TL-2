@@ -8,7 +8,7 @@ tl2_name_abbrev: C.B. Bender
 tl2_dates: fl. 1787
 tl2_bhl_page_id: 33265263
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676234
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

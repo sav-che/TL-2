@@ -8,7 +8,7 @@ tl2_name_abbrev: C. Berthold I
 tl2_dates: 1834?-1884
 tl2_bhl_page_id: 33265317
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676254
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

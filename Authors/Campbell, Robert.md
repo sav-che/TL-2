@@ -8,7 +8,7 @@ tl2_name_abbrev: Rob. Campb.
 tl2_dates: 1835-1921
 tl2_bhl_page_id: 33266643
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109858558
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Battiscombe
 tl2_dates: c. 1875-1971
 tl2_bhl_page_id: 33265108
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q66289592
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

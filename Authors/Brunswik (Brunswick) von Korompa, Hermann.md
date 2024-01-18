@@ -8,7 +8,7 @@ tl2_name_abbrev: Brunswik
 tl2_dates: 1898-1939
 tl2_bhl_page_id: 33266473
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681778
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

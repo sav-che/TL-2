@@ -8,7 +8,7 @@ tl2_name_abbrev: Edw. Bailey
 tl2_dates: 1814-1903
 tl2_bhl_page_id: 33264983
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5341707
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

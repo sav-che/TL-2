@@ -8,7 +8,7 @@ tl2_name_abbrev: Gacogne
 tl2_dates: 1814-1879
 tl2_bhl_page_id: 33258563
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112942092
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

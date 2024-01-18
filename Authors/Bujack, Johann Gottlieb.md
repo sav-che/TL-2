@@ -8,7 +8,7 @@ tl2_name_abbrev: Bujack
 tl2_dates: 1787-1840
 tl2_bhl_page_id: 33266524
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q20752281
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

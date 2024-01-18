@@ -8,7 +8,7 @@ tl2_name_abbrev: Crugnola
 tl2_dates: 1850-1910
 tl2_bhl_page_id: 33266164
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q16558332
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

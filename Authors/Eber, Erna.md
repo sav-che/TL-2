@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Eber
 tl2_dates: fl. 1934
 tl2_bhl_page_id: 33260234
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677142
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

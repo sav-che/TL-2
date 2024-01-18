@@ -8,7 +8,7 @@ tl2_name_abbrev: C.B. Davenp.
 tl2_dates: 1866-1944
 tl2_bhl_page_id: 33259138
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q982237
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

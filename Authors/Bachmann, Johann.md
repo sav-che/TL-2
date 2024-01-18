@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Bachm.
 tl2_dates: fl. 1895
 tl2_bhl_page_id: 33264963
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123653698
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Brunies
 tl2_dates: 1877-?
 tl2_bhl_page_id: 33266470
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1697135
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

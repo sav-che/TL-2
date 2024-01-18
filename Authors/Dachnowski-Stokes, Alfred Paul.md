@@ -8,7 +8,7 @@ tl2_name_abbrev: Dachnowski
 tl2_dates: 1875-1949
 tl2_bhl_page_id: 33259047
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112421414
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

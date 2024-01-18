@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Driver
 tl2_dates: 1881-x
 tl2_bhl_page_id: 33260087
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677088
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

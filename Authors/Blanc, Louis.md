@@ -8,7 +8,7 @@ tl2_name_abbrev: Louis Blanc
 tl2_dates: fl. 1898-1910
 tl2_bhl_page_id: 33265396
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676281
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

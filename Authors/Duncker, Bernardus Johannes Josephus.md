@@ -8,7 +8,7 @@ tl2_name_abbrev: B.J.J. Duncker
 tl2_dates: fl. 1935
 tl2_bhl_page_id: 33260158
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682177
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

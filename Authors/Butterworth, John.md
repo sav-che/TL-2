@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Butterworth
 tl2_dates: fl. 1897-1900
 tl2_bhl_page_id: 33266596
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676401
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

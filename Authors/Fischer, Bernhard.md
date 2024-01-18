@@ -8,7 +8,7 @@ tl2_name_abbrev: B. Fischer
 tl2_dates: 1852-1915
 tl2_bhl_page_id: 33259706
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q115239
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

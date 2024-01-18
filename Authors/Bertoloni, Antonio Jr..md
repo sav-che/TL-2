@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Bertol., Jr.
 tl2_dates: 1843-?
 tl2_bhl_page_id: 33265322
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q120469486
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

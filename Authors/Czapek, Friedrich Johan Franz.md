@@ -8,7 +8,7 @@ tl2_name_abbrev: Czapek
 tl2_dates: 1868-1921
 tl2_bhl_page_id: 33266205
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5614541
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

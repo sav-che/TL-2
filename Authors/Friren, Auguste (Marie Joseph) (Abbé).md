@@ -8,7 +8,7 @@ tl2_name_abbrev: Friren
 tl2_dates: 1837-1916
 tl2_bhl_page_id: 33258481
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95254374
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

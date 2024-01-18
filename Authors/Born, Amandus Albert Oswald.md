@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Born
 tl2_dates: 1861-1920
 tl2_bhl_page_id: 33265538
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117383842
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

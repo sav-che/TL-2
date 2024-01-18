@@ -8,7 +8,7 @@ tl2_name_abbrev: F.L.G. Edlich
 tl2_dates: 1836-1891
 tl2_bhl_page_id: 33260247
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q50381458
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

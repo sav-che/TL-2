@@ -8,7 +8,7 @@ tl2_name_abbrev: V. Borg
 tl2_dates: 1875-1950
 tl2_bhl_page_id: 33265532
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q17381679
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

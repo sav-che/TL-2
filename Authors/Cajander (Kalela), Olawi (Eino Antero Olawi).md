@@ -8,7 +8,7 @@ tl2_name_abbrev: O. Cajander
 tl2_dates: fl. 1934
 tl2_bhl_page_id: 33266615
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q11885274
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

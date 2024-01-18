@@ -8,7 +8,7 @@ tl2_name_abbrev: W.A. Eliot
 tl2_dates: 1871-?
 tl2_bhl_page_id: 33260293
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677179
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

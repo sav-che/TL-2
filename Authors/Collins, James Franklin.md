@@ -8,7 +8,7 @@ tl2_name_abbrev: J.F. Collins
 tl2_dates: 1863-1940
 tl2_bhl_page_id: 33265952
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q97368240
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

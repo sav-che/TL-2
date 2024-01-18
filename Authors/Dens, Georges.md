@@ -8,7 +8,7 @@ tl2_name_abbrev: Dens
 tl2_dates: x-1912
 tl2_bhl_page_id: 33259255
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q114671923
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

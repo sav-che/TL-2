@@ -8,7 +8,7 @@ tl2_name_abbrev: Dittw.
 tl2_dates: fl. 1847
 tl2_bhl_page_id: 33259405
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677050
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

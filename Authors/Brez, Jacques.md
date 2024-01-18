@@ -8,7 +8,7 @@ tl2_name_abbrev: Brez
 tl2_dates: 1771-1798
 tl2_bhl_page_id: 33266378
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q52154431
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

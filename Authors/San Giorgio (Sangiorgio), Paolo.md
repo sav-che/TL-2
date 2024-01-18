@@ -8,7 +8,7 @@ tl2_name_abbrev: San Giorgio
 tl2_dates: 1748-1816
 tl2_bhl_page_id: 33333138
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q61481921
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

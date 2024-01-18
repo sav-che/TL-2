@@ -8,7 +8,7 @@ tl2_name_abbrev: Francoz
 tl2_dates: fl. 1920
 tl2_bhl_page_id: 33259890
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677266
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

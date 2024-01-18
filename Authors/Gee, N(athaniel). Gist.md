@@ -8,7 +8,7 @@ tl2_name_abbrev: N.G. Gee
 tl2_dates: 1876-1937
 tl2_bhl_page_id: 33258641
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21338801
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

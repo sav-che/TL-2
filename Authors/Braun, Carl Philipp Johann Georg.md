@@ -8,7 +8,7 @@ tl2_name_abbrev: C.P. Braun
 tl2_dates: 1870-1935
 tl2_bhl_page_id: 33266341
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676347
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

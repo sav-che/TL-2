@@ -8,7 +8,7 @@ tl2_name_abbrev: Cubières
 tl2_dates: 1747-1821
 tl2_bhl_page_id: 33266166
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3262920
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

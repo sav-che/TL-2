@@ -8,7 +8,7 @@ tl2_name_abbrev: Dalmon
 tl2_dates: fl. 1877
 tl2_bhl_page_id: 33259079
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676953
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

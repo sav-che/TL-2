@@ -8,7 +8,7 @@ tl2_name_abbrev: Balicka-Iwanowska
 tl2_dates: 1869-?
 tl2_bhl_page_id: 33265028
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q9265163
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

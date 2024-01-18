@@ -8,7 +8,7 @@ tl2_name_abbrev: J.F. Besser
 tl2_dates: 1861-?
 tl2_bhl_page_id: 33265337
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676258
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: M.F. Geay
 tl2_dates: 1859-1910
 tl2_bhl_page_id: 33258640
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q104247375
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

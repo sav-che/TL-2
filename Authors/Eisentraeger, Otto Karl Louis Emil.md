@@ -8,7 +8,7 @@ tl2_name_abbrev: Eisentr.
 tl2_dates: 1900-x
 tl2_bhl_page_id: 33260278
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677174
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

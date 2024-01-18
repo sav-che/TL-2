@@ -8,7 +8,7 @@ tl2_name_abbrev: Caquet
 tl2_dates: 1857-?
 tl2_bhl_page_id: 33266705
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676428
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

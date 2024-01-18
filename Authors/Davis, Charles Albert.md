@@ -8,7 +8,7 @@ tl2_name_abbrev: C.A. Davis
 tl2_dates: 1861-1916
 tl2_bhl_page_id: 33259151
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q107565829
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

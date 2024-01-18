@@ -8,7 +8,7 @@ tl2_name_abbrev: Garcia de Orta
 tl2_dates: fl. 1490-1570
 tl2_bhl_page_id: 33121042
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1493994
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

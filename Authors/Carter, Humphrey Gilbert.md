@@ -8,7 +8,7 @@ tl2_name_abbrev: H.G. Carter
 tl2_dates: 1884-1969
 tl2_bhl_page_id: 33266739
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q28023205
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

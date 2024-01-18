@@ -8,7 +8,7 @@ tl2_name_abbrev: Dagys
 tl2_dates: 1909-?
 tl2_bhl_page_id: 33259053
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q15711439
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

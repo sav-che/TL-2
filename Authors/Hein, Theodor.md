@@ -8,7 +8,7 @@ tl2_name_abbrev: T. Hein
 tl2_dates: fl. 1874
 tl2_bhl_page_id: 33068381
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682412
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

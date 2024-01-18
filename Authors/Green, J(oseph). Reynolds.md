@@ -8,7 +8,7 @@ tl2_name_abbrev: J.R. Green
 tl2_dates: 1848-1914
 tl2_bhl_page_id: 33258831
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q15633424
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

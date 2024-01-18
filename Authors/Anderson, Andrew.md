@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Anderson
 tl2_dates: fl. 1813
 tl2_bhl_page_id: 33264834
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123652849
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

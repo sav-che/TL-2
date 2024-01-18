@@ -8,7 +8,7 @@ tl2_name_abbrev: Church
 tl2_dates: 1865-1937
 tl2_bhl_page_id: 33265847
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4798982
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

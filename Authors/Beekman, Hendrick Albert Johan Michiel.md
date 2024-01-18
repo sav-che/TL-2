@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Beekman
 tl2_dates: 1874-?
 tl2_bhl_page_id: 33265237
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q65561528
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

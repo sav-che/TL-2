@@ -8,7 +8,7 @@ tl2_name_abbrev: M. Craig
 tl2_dates: 1864-1913
 tl2_bhl_page_id: 33266118
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123863209
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

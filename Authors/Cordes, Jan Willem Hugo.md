@@ -8,7 +8,7 @@ tl2_name_abbrev: J.W.H. Cordes
 tl2_dates: 1836-1906
 tl2_bhl_page_id: 33266035
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q106685573
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

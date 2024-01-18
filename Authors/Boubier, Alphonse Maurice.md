@@ -8,7 +8,7 @@ tl2_name_abbrev: Boubier
 tl2_dates: 1874-?
 tl2_bhl_page_id: 33265571
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117661726
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

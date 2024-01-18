@@ -8,7 +8,7 @@ tl2_name_abbrev: Andrée
 tl2_dates: 1841-1917
 tl2_bhl_page_id: 33264848
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q63373078
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

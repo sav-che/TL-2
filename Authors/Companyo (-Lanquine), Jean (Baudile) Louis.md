@@ -8,7 +8,7 @@ tl2_name_abbrev: Companyo
 tl2_dates: 1781-1871
 tl2_bhl_page_id: 33265967
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3261572
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

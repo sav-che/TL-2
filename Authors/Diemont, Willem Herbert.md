@@ -8,7 +8,7 @@ tl2_name_abbrev: Diemont
 tl2_dates: 1907-1972
 tl2_bhl_page_id: 33259362
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682052
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

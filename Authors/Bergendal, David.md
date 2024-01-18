@@ -8,7 +8,7 @@ tl2_name_abbrev: Bergendal
 tl2_dates: 1855-1908
 tl2_bhl_page_id: 33265284
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5571560
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: C.K. Brain
 tl2_dates: fl. 1930-1942
 tl2_bhl_page_id: 33266312
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q23661216
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

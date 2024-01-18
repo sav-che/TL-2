@@ -8,7 +8,7 @@ tl2_name_abbrev: Düggeli
 tl2_dates: 1878-1946
 tl2_bhl_page_id: 33260134
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55842735
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Draghetti
 tl2_dates: fl. 1925-1930
 tl2_bhl_page_id: 33260074
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q24251342
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

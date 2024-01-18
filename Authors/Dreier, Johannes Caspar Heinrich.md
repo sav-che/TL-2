@@ -8,7 +8,7 @@ tl2_name_abbrev: Dreier
 tl2_dates: 1833-1908
 tl2_bhl_page_id: 33260080
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94911064
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: R.U. Cotter
 tl2_dates: 1896-1964
 tl2_bhl_page_id: 33266084
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681923
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

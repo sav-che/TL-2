@@ -8,7 +8,7 @@ tl2_name_abbrev: Federley
 tl2_dates: 1879-1951
 tl2_bhl_page_id: 33259589
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5726883
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

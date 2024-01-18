@@ -8,7 +8,7 @@ tl2_name_abbrev: M.D. Cran
 tl2_dates: 1879-1942
 tl2_bhl_page_id: 33266124
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q18911698
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

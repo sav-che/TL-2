@@ -8,7 +8,7 @@ tl2_name_abbrev: Cacciamali
 tl2_dates: 1856-1934
 tl2_bhl_page_id: 33266603
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55022511
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: M. Bogdanow
 tl2_dates: 1841-1888
 tl2_bhl_page_id: 33265468
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4089256
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

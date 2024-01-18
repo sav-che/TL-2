@@ -8,7 +8,7 @@ tl2_name_abbrev: Rod. Blanchet
 tl2_dates: 1807-1860
 tl2_bhl_page_id: 33265399
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676283
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Bancroft
 tl2_dates: 1744-1821
 tl2_bhl_page_id: 33265037
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5341743
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

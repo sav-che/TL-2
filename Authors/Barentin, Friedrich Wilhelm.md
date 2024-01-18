@@ -8,7 +8,7 @@ tl2_name_abbrev: Barentin
 tl2_dates: 1810-1886
 tl2_bhl_page_id: 33265051
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q19197440
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

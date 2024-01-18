@@ -8,7 +8,7 @@ tl2_name_abbrev: Bahrdt
 tl2_dates: 1826-?
 tl2_bhl_page_id: 33264981
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676205
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Barnsby
 tl2_dates: fl. 1857-1903
 tl2_bhl_page_id: 33265063
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109813054
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

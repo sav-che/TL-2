@@ -8,7 +8,7 @@ tl2_name_abbrev: Deniker
 tl2_dates: 1852-1918
 tl2_bhl_page_id: 33259248
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q40356
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

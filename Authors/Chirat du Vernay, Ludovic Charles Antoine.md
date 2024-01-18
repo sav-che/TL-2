@@ -8,7 +8,7 @@ tl2_name_abbrev: Chirat
 tl2_dates: 1805-1856
 tl2_bhl_page_id: 33265788
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q23782084
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

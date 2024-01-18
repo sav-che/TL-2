@@ -8,7 +8,7 @@ tl2_name_abbrev: J.A. Dahlgren
 tl2_dates: 1744-1797
 tl2_bhl_page_id: 33259057
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676940
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

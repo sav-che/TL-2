@@ -8,7 +8,7 @@ tl2_name_abbrev: G.E. Douglas
 tl2_dates: 1883-x
 tl2_bhl_page_id: 33260056
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682088
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

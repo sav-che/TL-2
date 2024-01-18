@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Boll
 tl2_dates: 1828-1880
 tl2_bhl_page_id: 33265489
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3157525
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

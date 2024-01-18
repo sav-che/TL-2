@@ -8,7 +8,7 @@ tl2_name_abbrev: Bruggeman
 tl2_dates: 1894-1982
 tl2_bhl_page_id: 33266461
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q120290368
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

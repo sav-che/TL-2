@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Didr.
 tl2_dates: fl. 1894-1905
 tl2_bhl_page_id: 33259337
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677041
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

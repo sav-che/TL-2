@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Eichhorn
 tl2_dates: 1902-1972
 tl2_bhl_page_id: 33260263
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682246
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Ekegreen
 tl2_dates: fl. 1826
 tl2_bhl_page_id: 33260279
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677175
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

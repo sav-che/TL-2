@@ -8,7 +8,7 @@ tl2_name_abbrev: Gerndt
 tl2_dates: 1837-1896
 tl2_bhl_page_id: 33258668
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682384
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

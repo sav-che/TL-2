@@ -8,7 +8,7 @@ tl2_name_abbrev: Bochkoltz
 tl2_dates: fl. 1859-1873
 tl2_bhl_page_id: 33265437
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q42801937
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

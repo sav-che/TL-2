@@ -8,7 +8,7 @@ tl2_name_abbrev: Ekkert
 tl2_dates: 1849-?
 tl2_bhl_page_id: 33260279
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677176
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

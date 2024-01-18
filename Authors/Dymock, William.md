@@ -8,7 +8,7 @@ tl2_name_abbrev: Dymock
 tl2_dates: 1832-1892
 tl2_bhl_page_id: 33260217
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q113810328
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

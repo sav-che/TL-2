@@ -8,7 +8,7 @@ tl2_name_abbrev: C.L.F. Dehay
 tl2_dates: 1898-x
 tl2_bhl_page_id: 33259209
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676994
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

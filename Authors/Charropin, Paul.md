@@ -8,7 +8,7 @@ tl2_name_abbrev: P. Charropin
 tl2_dates: fl. 1883
 tl2_bhl_page_id: 33265734
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676466
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

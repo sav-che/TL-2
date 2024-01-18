@@ -8,7 +8,7 @@ tl2_name_abbrev: A.M. Sm.
 tl2_dates: fl. 1878
 tl2_bhl_page_id: 33333804
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682426
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

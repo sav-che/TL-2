@@ -8,7 +8,7 @@ tl2_name_abbrev: Bucherer
 tl2_dates: 1852-1928
 tl2_bhl_page_id: 33266501
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676789
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

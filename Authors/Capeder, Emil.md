@@ -8,7 +8,7 @@ tl2_name_abbrev: Capeder
 tl2_dates: 1874-1947
 tl2_bhl_page_id: 33266700
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676425
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

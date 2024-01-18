@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Eberle
 tl2_dates: 1899-x
 tl2_bhl_page_id: 33260236
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112898160
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

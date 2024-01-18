@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Ponce de Leon
 tl2_dates: 1887-1961
 tl2_bhl_page_id: 33189805
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21523092
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

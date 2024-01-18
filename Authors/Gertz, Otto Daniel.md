@@ -8,7 +8,7 @@ tl2_name_abbrev: Gertz
 tl2_dates: 1878-1948
 tl2_bhl_page_id: 33258669
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5757286
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

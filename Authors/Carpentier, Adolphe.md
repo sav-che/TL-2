@@ -8,7 +8,7 @@ tl2_name_abbrev: Ad. Carpentier
 tl2_dates: fl. 1869
 tl2_bhl_page_id: 33266727
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676438
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

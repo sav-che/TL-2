@@ -8,7 +8,7 @@ tl2_name_abbrev: Amoreux
 tl2_dates: 1741-1824
 tl2_bhl_page_id: 33264830
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q949667
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

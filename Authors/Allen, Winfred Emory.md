@@ -8,7 +8,7 @@ tl2_name_abbrev: W.E. Allen
 tl2_dates: 1873-1947
 tl2_bhl_page_id: 33264801
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q15926199
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

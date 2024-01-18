@@ -8,7 +8,7 @@ tl2_name_abbrev: Attema
 tl2_dates: fl. 1901
 tl2_bhl_page_id: 33264930
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676186
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

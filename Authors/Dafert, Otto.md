@@ -8,7 +8,7 @@ tl2_name_abbrev: Dafert
 tl2_dates: 1888-?
 tl2_bhl_page_id: 33259051
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55849084
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

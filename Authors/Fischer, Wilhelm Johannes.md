@@ -8,7 +8,7 @@ tl2_name_abbrev: W. Fisch.
 tl2_dates: 1892-1977
 tl2_bhl_page_id: 33259722
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112561790
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Bretzl
 tl2_dates: 1878-x
 tl2_bhl_page_id: 33266377
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q19211738
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Giger
 tl2_dates: 1885-1962
 tl2_bhl_page_id: 33258682
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682387
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

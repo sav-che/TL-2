@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Buchanan, C.M.G.
 tl2_dates: 1855-1896
 tl2_bhl_page_id: 33266493
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q16059854
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

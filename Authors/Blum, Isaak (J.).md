@@ -8,7 +8,7 @@ tl2_name_abbrev: I. Blum
 tl2_dates: 1833-1903
 tl2_bhl_page_id: 33265422
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1525241
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

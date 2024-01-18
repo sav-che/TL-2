@@ -8,7 +8,7 @@ tl2_name_abbrev: Coxhead
 tl2_dates: fl. 1842
 tl2_bhl_page_id: 33266115
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676914
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

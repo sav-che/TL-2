@@ -8,7 +8,7 @@ tl2_name_abbrev: Déhérain
 tl2_dates: 1830-1902
 tl2_bhl_page_id: 33259209
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q365284
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

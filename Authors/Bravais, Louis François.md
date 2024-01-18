@@ -8,7 +8,7 @@ tl2_name_abbrev: L. Bravais
 tl2_dates: 1800-1843
 tl2_bhl_page_id: 33266349
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21723053
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

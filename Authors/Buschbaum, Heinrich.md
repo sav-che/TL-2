@@ -8,7 +8,7 @@ tl2_name_abbrev: Buschbaum
 tl2_dates: 1836-1924
 tl2_bhl_page_id: 33266583
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676398
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

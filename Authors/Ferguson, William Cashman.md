@@ -8,7 +8,7 @@ tl2_name_abbrev: W.C. Ferguson
 tl2_dates: 1861-1930
 tl2_bhl_page_id: 33259646
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682311
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

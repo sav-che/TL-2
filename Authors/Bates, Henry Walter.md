@@ -8,7 +8,7 @@ tl2_name_abbrev: Bates
 tl2_dates: 1825-1892
 tl2_bhl_page_id: 33265101
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q370308
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

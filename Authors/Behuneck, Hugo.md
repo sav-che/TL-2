@@ -8,7 +8,7 @@ tl2_name_abbrev: Behuneck
 tl2_dates: 1849-?
 tl2_bhl_page_id: 33265251
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681608
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

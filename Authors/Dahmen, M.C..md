@@ -8,7 +8,7 @@ tl2_name_abbrev: M. Dahmen
 tl2_dates: fl. 1937
 tl2_bhl_page_id: 33259066
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676943
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: R.J. Chitt.
 tl2_dates: 1901-x
 tl2_bhl_page_id: 33265789
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q62086230
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

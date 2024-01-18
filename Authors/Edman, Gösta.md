@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Edman
 tl2_dates: 1887-?
 tl2_bhl_page_id: 33260247
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5627338
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: É. Chaix
 tl2_dates: 1855-1929
 tl2_bhl_page_id: 33265713
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55772015
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

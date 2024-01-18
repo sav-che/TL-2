@@ -8,7 +8,7 @@ tl2_name_abbrev: Fuisting
 tl2_dates: 1839-1870
 tl2_bhl_page_id: 33258553
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21338379
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

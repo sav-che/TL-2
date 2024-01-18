@@ -8,7 +8,7 @@ tl2_name_abbrev: Ern. Favre
 tl2_dates: 1845-1925
 tl2_bhl_page_id: 33259576
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109853720
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

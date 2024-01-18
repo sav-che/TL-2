@@ -8,7 +8,7 @@ tl2_name_abbrev: Anslijn
 tl2_dates: 1777-1838
 tl2_bhl_page_id: 33264857
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2134591
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

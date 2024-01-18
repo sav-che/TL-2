@@ -8,7 +8,7 @@ tl2_name_abbrev: Dye
 tl2_dates: fl. 1899-1901
 tl2_bhl_page_id: 33260214
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677135
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

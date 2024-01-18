@@ -8,7 +8,7 @@ tl2_name_abbrev: G.A. Dunlop
 tl2_dates: 1868-1933
 tl2_bhl_page_id: 33260159
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q107536833
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

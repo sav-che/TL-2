@@ -8,7 +8,7 @@ tl2_name_abbrev: Cürie
 tl2_dates: 1777-1855
 tl2_bhl_page_id: 33266169
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21509659
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

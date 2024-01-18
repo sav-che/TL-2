@@ -8,7 +8,7 @@ tl2_name_abbrev: Bleier
 tl2_dates: 1896-x
 tl2_bhl_page_id: 33265409
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q106940927
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

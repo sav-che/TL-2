@@ -8,7 +8,7 @@ tl2_name_abbrev: Dinand
 tl2_dates: 1865-x
 tl2_bhl_page_id: 33259387
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112550846
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

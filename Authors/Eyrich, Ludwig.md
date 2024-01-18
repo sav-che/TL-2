@@ -8,7 +8,7 @@ tl2_name_abbrev: Eyrich
 tl2_dates: 1841-1892
 tl2_bhl_page_id: 33260438
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1874367
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Caillon
 tl2_dates: 1835-x
 tl2_bhl_page_id: 33266607
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676406
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

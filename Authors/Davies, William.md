@@ -8,7 +8,7 @@ tl2_name_abbrev: W. Davies
 tl2_dates: 1899-1968
 tl2_bhl_page_id: 33259145
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q20821452
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

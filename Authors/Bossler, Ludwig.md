@@ -8,7 +8,7 @@ tl2_name_abbrev: Bossler
 tl2_dates: fl. 1877
 tl2_bhl_page_id: 33265568
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q108678835
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

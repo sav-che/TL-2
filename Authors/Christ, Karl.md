@@ -8,7 +8,7 @@ tl2_name_abbrev: K. Christ
 tl2_dates: fl. 1887
 tl2_bhl_page_id: 33265833
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676476
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

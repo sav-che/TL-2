@@ -8,7 +8,7 @@ tl2_name_abbrev: Friebel
 tl2_dates: 1909-x
 tl2_bhl_page_id: 33258513
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677274
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

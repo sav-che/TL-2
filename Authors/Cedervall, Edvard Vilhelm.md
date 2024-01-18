@@ -8,7 +8,7 @@ tl2_name_abbrev: Cederv.
 tl2_dates: 1851-1903
 tl2_bhl_page_id: 33265681
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681855
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

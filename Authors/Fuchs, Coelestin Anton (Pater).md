@@ -8,7 +8,7 @@ tl2_name_abbrev: C.A. Fuchs
 tl2_dates: fl. 1898-1909
 tl2_bhl_page_id: 33258548
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682364
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

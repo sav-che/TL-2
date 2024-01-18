@@ -8,7 +8,7 @@ tl2_name_abbrev: Ewer
 tl2_dates: 1768-1815
 tl2_bhl_page_id: 33260431
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677205
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

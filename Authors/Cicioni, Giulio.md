@@ -8,7 +8,7 @@ tl2_name_abbrev: Cicioni
 tl2_dates: fl. 1910
 tl2_bhl_page_id: 33265849
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3769594
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

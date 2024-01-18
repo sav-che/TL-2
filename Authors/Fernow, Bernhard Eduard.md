@@ -8,7 +8,7 @@ tl2_name_abbrev: Fernow
 tl2_dates: 1851-1923
 tl2_bhl_page_id: 33259662
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4894172
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

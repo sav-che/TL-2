@@ -8,7 +8,7 @@ tl2_name_abbrev: Berghuis
 tl2_dates: fl. 1864-1868
 tl2_bhl_page_id: 33265291
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676643
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

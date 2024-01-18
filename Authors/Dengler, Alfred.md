@@ -8,7 +8,7 @@ tl2_name_abbrev: Dengler
 tl2_dates: 1874-1944
 tl2_bhl_page_id: 33259246
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2644851
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

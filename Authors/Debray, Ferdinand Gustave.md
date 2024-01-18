@@ -8,7 +8,7 @@ tl2_name_abbrev: F.G. Debray
 tl2_dates: 1854-1900
 tl2_bhl_page_id: 33259176
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94913483
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

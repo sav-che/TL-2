@@ -8,7 +8,7 @@ tl2_name_abbrev: Adr. Dollfus
 tl2_dates: 1858-1921
 tl2_bhl_page_id: 33260020
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q376905
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

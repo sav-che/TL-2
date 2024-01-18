@@ -8,7 +8,7 @@ tl2_name_abbrev: Dening
 tl2_dates: 1897-?
 tl2_bhl_page_id: 33259248
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682031
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

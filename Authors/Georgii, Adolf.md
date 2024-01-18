@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Georgii
 tl2_dates: fl. 1891-1894
 tl2_bhl_page_id: 33258661
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682381
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

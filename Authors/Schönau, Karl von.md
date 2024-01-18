@@ -8,7 +8,7 @@ tl2_name_abbrev: Schönau
 tl2_dates: 1885-1944
 tl2_bhl_page_id: 33333425
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21608293
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

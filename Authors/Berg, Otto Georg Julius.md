@@ -8,7 +8,7 @@ tl2_name_abbrev: O.G.J. Berg
 tl2_dates: 1871-x
 tl2_bhl_page_id: 33265283
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681620
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

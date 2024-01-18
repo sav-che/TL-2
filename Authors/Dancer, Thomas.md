@@ -8,7 +8,7 @@ tl2_name_abbrev: Dancer
 tl2_dates: ca. 1750-1811
 tl2_bhl_page_id: 33259089
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2416241
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Auer
 tl2_dates: 1909-1945
 tl2_bhl_page_id: 33264937
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676190
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

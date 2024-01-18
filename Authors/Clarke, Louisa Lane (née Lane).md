@@ -8,7 +8,7 @@ tl2_name_abbrev: L.L. Clarke
 tl2_dates: c. 1812-1883
 tl2_bhl_page_id: 33265863
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q54857709
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

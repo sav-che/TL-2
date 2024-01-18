@@ -8,7 +8,7 @@ tl2_name_abbrev: P. de Boer
 tl2_dates: 1841-1890
 tl2_bhl_page_id: 33265453
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q74621930
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

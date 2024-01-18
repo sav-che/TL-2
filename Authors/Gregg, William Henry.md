@@ -8,7 +8,7 @@ tl2_name_abbrev: W.H. Gregg
 tl2_dates: 1845-1913
 tl2_bhl_page_id: 33258847
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q76053325
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: G.B. Emers.
 tl2_dates: 1797-1881
 tl2_bhl_page_id: 33260321
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5536743
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

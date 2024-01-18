@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Duvernoy
 tl2_dates: fl. 1825-1834
 tl2_bhl_page_id: 33260212
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677132
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

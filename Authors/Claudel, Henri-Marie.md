@@ -8,7 +8,7 @@ tl2_name_abbrev: H.M. Claudel
 tl2_dates: 1865-1909
 tl2_bhl_page_id: 33265865
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676487
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

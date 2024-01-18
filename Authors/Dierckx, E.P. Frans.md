@@ -8,7 +8,7 @@ tl2_name_abbrev: Dierckx
 tl2_dates: 1863-1937
 tl2_bhl_page_id: 33259365
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q115835671
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

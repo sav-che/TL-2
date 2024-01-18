@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Collin
 tl2_dates: 1845-1919
 tl2_bhl_page_id: 33265947
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676502
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

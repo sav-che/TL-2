@@ -8,7 +8,7 @@ tl2_name_abbrev: Delarge
 tl2_dates: 1914-1940
 tl2_bhl_page_id: 33259217
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677003
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

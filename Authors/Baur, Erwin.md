@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Baur
 tl2_dates: 1875-1933
 tl2_bhl_page_id: 33265117
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q71186
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

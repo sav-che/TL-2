@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Bras
 tl2_dates: 1803(1802?)-1883
 tl2_bhl_page_id: 33266329
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676346
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

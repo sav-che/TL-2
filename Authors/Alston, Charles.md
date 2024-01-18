@@ -8,7 +8,7 @@ tl2_name_abbrev: C. Alston
 tl2_dates: 1685-1760
 tl2_bhl_page_id: 33264816
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1063554
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Chateau
 tl2_dates: 1866-1952
 tl2_bhl_page_id: 33265739
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3588405
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

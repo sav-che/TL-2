@@ -8,7 +8,7 @@ tl2_name_abbrev: Arn. Engl.
 tl2_dates: 1869-1923
 tl2_bhl_page_id: 33260338
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55842755
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

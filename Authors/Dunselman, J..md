@@ -8,7 +8,7 @@ tl2_name_abbrev: Dunselman
 tl2_dates: 1901-x
 tl2_bhl_page_id: 33260161
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677118
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

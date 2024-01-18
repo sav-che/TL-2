@@ -8,7 +8,7 @@ tl2_name_abbrev: Achner
 tl2_dates: fl. 1904
 tl2_bhl_page_id: 33264759
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q9583565
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

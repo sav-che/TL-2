@@ -8,7 +8,7 @@ tl2_name_abbrev: S.E.M. Coult.
 tl2_dates: 1860-x
 tl2_bhl_page_id: 33266098
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681928
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

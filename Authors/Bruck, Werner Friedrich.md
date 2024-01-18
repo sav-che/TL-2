@@ -8,7 +8,7 @@ tl2_name_abbrev: Bruck
 tl2_dates: 1880-?
 tl2_bhl_page_id: 33266458
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2561204
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

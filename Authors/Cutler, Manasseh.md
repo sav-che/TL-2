@@ -8,7 +8,7 @@ tl2_name_abbrev: M. Cutler
 tl2_dates: 1742-1823
 tl2_bhl_page_id: 33266202
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1513958
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

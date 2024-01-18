@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Andersen
 tl2_dates: 1856-1911
 tl2_bhl_page_id: 33264833
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123652639
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

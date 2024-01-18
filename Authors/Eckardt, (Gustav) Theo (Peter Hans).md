@@ -8,7 +8,7 @@ tl2_name_abbrev: Eckardt
 tl2_dates: 1910-1977
 tl2_bhl_page_id: 33260239
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2416868
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

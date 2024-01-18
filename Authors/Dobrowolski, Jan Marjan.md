@@ -8,7 +8,7 @@ tl2_name_abbrev: Dobrowolski
 tl2_dates: 1886-1958
 tl2_bhl_page_id: 33259990
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q19691261
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

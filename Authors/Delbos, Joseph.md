@@ -8,7 +8,7 @@ tl2_name_abbrev: Delbos
 tl2_dates: 1824-1882
 tl2_bhl_page_id: 33259220
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677006
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

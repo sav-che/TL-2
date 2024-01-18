@@ -8,7 +8,7 @@ tl2_name_abbrev: A.C. Crawford
 tl2_dates: 1869-1921
 tl2_bhl_page_id: 33266128
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112609648
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Dondé
 tl2_dates: 1827-1875
 tl2_bhl_page_id: 33260041
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677068
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Bisschop
 tl2_dates: 1840-1905
 tl2_bhl_page_id: 33265374
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q18093574
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: N.E. Forssell
 tl2_dates: 1821-1883
 tl2_bhl_page_id: 33259827
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5737689
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

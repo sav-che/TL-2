@@ -8,7 +8,7 @@ tl2_name_abbrev: Guillaud
 tl2_dates: 1849-1923
 tl2_bhl_page_id: 33258924
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109810701
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

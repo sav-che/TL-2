@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Bergman
 tl2_dates: 1851-1902
 tl2_bhl_page_id: 33265291
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681629
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

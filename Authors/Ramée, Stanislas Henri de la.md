@@ -8,7 +8,7 @@ tl2_name_abbrev: Ramée
 tl2_dates: 1747-1803
 tl2_bhl_page_id: 33190041
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q20036553
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

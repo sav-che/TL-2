@@ -8,7 +8,7 @@ tl2_name_abbrev: Figdor
 tl2_dates: 1866-1938
 tl2_bhl_page_id: 33259682
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2572633
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Eys
 tl2_dates: 1743-1818
 tl2_bhl_page_id: 33260439
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q27651435
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

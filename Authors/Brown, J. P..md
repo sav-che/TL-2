@@ -8,7 +8,7 @@ tl2_name_abbrev: J.P. Br.
 tl2_dates: x-1842
 tl2_bhl_page_id: 33266442
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676369
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

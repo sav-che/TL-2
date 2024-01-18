@@ -8,7 +8,7 @@ tl2_name_abbrev: A.C.P. Caylus, Jr.
 tl2_dates: fl. 1806
 tl2_bhl_page_id: 33266784
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681853
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Autenrieth
 tl2_dates: 1799-1874
 tl2_bhl_page_id: 33264941
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q29054303
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

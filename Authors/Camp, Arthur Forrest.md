@@ -8,7 +8,7 @@ tl2_name_abbrev: A.F. Camp
 tl2_dates: 1896-?
 tl2_bhl_page_id: 33266632
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q122389347
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

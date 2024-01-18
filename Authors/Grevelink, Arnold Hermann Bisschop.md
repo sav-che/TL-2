@@ -8,7 +8,7 @@ tl2_name_abbrev: Grevelink
 tl2_dates: 1811-1882
 tl2_bhl_page_id: 33258855
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682399
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

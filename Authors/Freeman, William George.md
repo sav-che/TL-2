@@ -8,7 +8,7 @@ tl2_name_abbrev: W.G. Freeman
 tl2_dates: 1874-x
 tl2_bhl_page_id: 33259902
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q17000443
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

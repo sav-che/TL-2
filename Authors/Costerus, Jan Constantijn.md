@@ -8,7 +8,7 @@ tl2_name_abbrev: Costerus
 tl2_dates: 1849-1938
 tl2_bhl_page_id: 33266079
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q13735351
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

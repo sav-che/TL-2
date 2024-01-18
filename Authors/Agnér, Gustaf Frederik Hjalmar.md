@@ -8,7 +8,7 @@ tl2_name_abbrev: Agnér
 tl2_dates: 1854-1898
 tl2_bhl_page_id: 33264734
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10293073
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

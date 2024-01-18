@@ -8,7 +8,7 @@ tl2_name_abbrev: Chesnut
 tl2_dates: 1867-1938
 tl2_bhl_page_id: 33265765
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q58055027
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

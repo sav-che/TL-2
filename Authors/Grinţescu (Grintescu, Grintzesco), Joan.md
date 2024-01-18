@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Grinţ.
 tl2_dates: 1874-1963
 tl2_bhl_page_id: 33258875
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682406
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Bouillenne
 tl2_dates: 1897-1972
 tl2_bhl_page_id: 33265577
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q116975682
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

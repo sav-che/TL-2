@@ -8,7 +8,7 @@ tl2_name_abbrev: Borggreve
 tl2_dates: 1836-?
 tl2_bhl_page_id: 33265536
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q822319
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

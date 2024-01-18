@@ -8,7 +8,7 @@ tl2_name_abbrev: Schlümbach
 tl2_dates: fl. 1809-1811
 tl2_bhl_page_id: 33333368
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2091906
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

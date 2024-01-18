@@ -8,7 +8,7 @@ tl2_name_abbrev: W.R.E. Eckardt
 tl2_dates: 1879-?
 tl2_bhl_page_id: 33260241
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q41547635
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

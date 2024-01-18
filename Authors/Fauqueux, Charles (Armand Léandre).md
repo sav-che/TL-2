@@ -8,7 +8,7 @@ tl2_name_abbrev: Fauq.
 tl2_dates: 1879-1968
 tl2_bhl_page_id: 33259572
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677223
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Famintsyn
 tl2_dates: 1835-1918
 tl2_bhl_page_id: 33259536
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2067228
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

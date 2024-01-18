@@ -8,7 +8,7 @@ tl2_name_abbrev: Fridtz
 tl2_dates: 1845-1921
 tl2_bhl_page_id: 33258514
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q101069260
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

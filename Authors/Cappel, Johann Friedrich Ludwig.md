@@ -8,7 +8,7 @@ tl2_name_abbrev: Cappel
 tl2_dates: 1759-1799
 tl2_bhl_page_id: 33266703
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q57510048
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

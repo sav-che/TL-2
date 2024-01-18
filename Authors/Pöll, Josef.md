@@ -8,7 +8,7 @@ tl2_name_abbrev: Pöll
 tl2_dates: 1874-1940
 tl2_bhl_page_id: 33189780
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21523086
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

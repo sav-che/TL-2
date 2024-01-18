@@ -8,7 +8,7 @@ tl2_name_abbrev: Bellermann
 tl2_dates: 1756-1833
 tl2_bhl_page_id: 33265261
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q53498432
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

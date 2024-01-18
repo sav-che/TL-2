@@ -8,7 +8,7 @@ tl2_name_abbrev: Scannagatta
 tl2_dates: 1773-1823
 tl2_bhl_page_id: 33333236
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682422
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

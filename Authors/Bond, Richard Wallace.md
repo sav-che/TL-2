@@ -8,7 +8,7 @@ tl2_name_abbrev: R.W. Bond
 tl2_dates: 1914-1976
 tl2_bhl_page_id: 33265506
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117801758
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

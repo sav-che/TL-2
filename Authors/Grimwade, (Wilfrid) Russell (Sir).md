@@ -8,7 +8,7 @@ tl2_name_abbrev: R. Grimwade
 tl2_dates: 1879-1955
 tl2_bhl_page_id: 33258873
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21514287
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

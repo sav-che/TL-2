@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Faber
 tl2_dates: 1903-1986
 tl2_bhl_page_id: 33259505
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2639761
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

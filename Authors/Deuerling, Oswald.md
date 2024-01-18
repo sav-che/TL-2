@@ -8,7 +8,7 @@ tl2_name_abbrev: Deuerling
 tl2_dates: fl. 1909
 tl2_bhl_page_id: 33259296
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95219874
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Badger
 tl2_dates: fl. 1859
 tl2_bhl_page_id: 33264971
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q20769459
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

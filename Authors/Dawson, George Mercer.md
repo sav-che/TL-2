@@ -8,7 +8,7 @@ tl2_name_abbrev: G.M. Dawson
 tl2_dates: 1849-1901
 tl2_bhl_page_id: 33259158
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q934867
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

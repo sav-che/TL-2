@@ -8,7 +8,7 @@ tl2_name_abbrev: Colomb-Duplan
 tl2_dates: x-1937
 tl2_bhl_page_id: 33265958
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676505
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

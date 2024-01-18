@@ -8,7 +8,7 @@ tl2_name_abbrev: Alb. Christ.
 tl2_dates: 1875-1917
 tl2_bhl_page_id: 33265840
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q111615324
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

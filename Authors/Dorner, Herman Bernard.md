@@ -8,7 +8,7 @@ tl2_name_abbrev: H.B. Dorner
 tl2_dates: 1878-x
 tl2_bhl_page_id: 33260048
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q120432078
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

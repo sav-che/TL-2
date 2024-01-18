@@ -8,7 +8,7 @@ tl2_name_abbrev: Coldstream
 tl2_dates: x-1929
 tl2_bhl_page_id: 33265940
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676500
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

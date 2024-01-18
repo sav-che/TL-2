@@ -8,7 +8,7 @@ tl2_name_abbrev: Dillon-Weston
 tl2_dates: 1899-1953
 tl2_bhl_page_id: 33259386
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q87606458
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: P.D. Dixit
 tl2_dates: fl. 1832
 tl2_bhl_page_id: 33259406
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677053
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

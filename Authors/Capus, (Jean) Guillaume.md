@@ -8,7 +8,7 @@ tl2_name_abbrev: Capus
 tl2_dates: 1857-1931
 tl2_bhl_page_id: 33266704
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q13102884
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

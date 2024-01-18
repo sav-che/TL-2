@@ -8,7 +8,7 @@ tl2_name_abbrev: O. Geissler
 tl2_dates: ?-1875
 tl2_bhl_page_id: 33258647
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682377
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

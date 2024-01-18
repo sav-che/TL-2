@@ -8,7 +8,7 @@ tl2_name_abbrev: Czartkowski
 tl2_dates: fl. 1911
 tl2_bhl_page_id: 33266207
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q9139465
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: D.G. Fairchild
 tl2_dates: 1869-1954
 tl2_bhl_page_id: 33259520
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2587580
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

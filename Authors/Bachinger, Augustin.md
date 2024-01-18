@@ -8,7 +8,7 @@ tl2_name_abbrev: Bachinger
 tl2_dates: fl. 1887-1904
 tl2_bhl_page_id: 33264958
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676199
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

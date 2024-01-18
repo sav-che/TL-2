@@ -8,7 +8,7 @@ tl2_name_abbrev: Bechtel
 tl2_dates: 1882-?
 tl2_bhl_page_id: 33265216
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112130917
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

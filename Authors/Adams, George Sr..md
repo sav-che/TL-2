@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Adams, Sr.
 tl2_dates: 1720-1786
 tl2_bhl_page_id: 33264752
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3915780
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

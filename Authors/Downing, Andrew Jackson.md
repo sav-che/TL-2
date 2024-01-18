@@ -8,7 +8,7 @@ tl2_name_abbrev: A.J. Downing
 tl2_dates: 1815-1852
 tl2_bhl_page_id: 33260070
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q505402
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

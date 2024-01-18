@@ -8,7 +8,7 @@ tl2_name_abbrev: J.C. Cooley
 tl2_dates: 1883-1965
 tl2_bhl_page_id: 33266011
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q29048070
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Broekens
 tl2_dates: fl. 1925
 tl2_bhl_page_id: 33266420
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676362
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

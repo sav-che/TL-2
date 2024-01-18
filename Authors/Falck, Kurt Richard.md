@@ -8,7 +8,7 @@ tl2_name_abbrev: K.R. Falck
 tl2_dates: 1888-x
 tl2_bhl_page_id: 33259528
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q96775422
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

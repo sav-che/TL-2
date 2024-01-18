@@ -8,7 +8,7 @@ tl2_name_abbrev: Denaeyer
 tl2_dates: fl. 1886
 tl2_bhl_page_id: 33259244
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677016
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

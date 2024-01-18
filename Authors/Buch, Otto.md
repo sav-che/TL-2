@@ -8,7 +8,7 @@ tl2_name_abbrev: O. Buch
 tl2_dates: 1848-?
 tl2_bhl_page_id: 33266492
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681782
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

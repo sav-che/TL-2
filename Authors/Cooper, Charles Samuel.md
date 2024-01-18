@@ -8,7 +8,7 @@ tl2_name_abbrev: C.S. Cooper
 tl2_dates: fl. 1909
 tl2_bhl_page_id: 33266013
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676896
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

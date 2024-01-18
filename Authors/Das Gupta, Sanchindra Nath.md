@@ -8,7 +8,7 @@ tl2_name_abbrev: S.N. Das Gupta
 tl2_dates: 1902-x
 tl2_bhl_page_id: 33259128
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676964
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

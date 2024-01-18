@@ -8,7 +8,7 @@ tl2_name_abbrev: Domaradsky
 tl2_dates: fl. 1908
 tl2_bhl_page_id: 33260021
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677066
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

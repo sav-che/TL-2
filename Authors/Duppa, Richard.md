@@ -8,7 +8,7 @@ tl2_name_abbrev: Duppa
 tl2_dates: 1770-1831
 tl2_bhl_page_id: 33260164
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q7325321
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

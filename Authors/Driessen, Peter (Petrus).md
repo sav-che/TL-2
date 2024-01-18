@@ -8,7 +8,7 @@ tl2_name_abbrev: Driessen
 tl2_dates: 1753-1828
 tl2_bhl_page_id: 33260087
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q22582851
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

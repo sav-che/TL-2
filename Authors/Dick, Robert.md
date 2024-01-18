@@ -8,7 +8,7 @@ tl2_name_abbrev: R. Dick
 tl2_dates: 1811-1866
 tl2_bhl_page_id: 33259331
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q7343526
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: J.B. Duncan
 tl2_dates: 1869-1953
 tl2_bhl_page_id: 33260157
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677115
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

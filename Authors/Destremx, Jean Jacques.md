@@ -8,7 +8,7 @@ tl2_name_abbrev: Destremx
 tl2_dates: 1771-1826
 tl2_bhl_page_id: 33259279
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q64777366
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

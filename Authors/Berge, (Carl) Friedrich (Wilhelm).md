@@ -8,7 +8,7 @@ tl2_name_abbrev: F. Berge
 tl2_dates: 1811-1883
 tl2_bhl_page_id: 33265283
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q6371815
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

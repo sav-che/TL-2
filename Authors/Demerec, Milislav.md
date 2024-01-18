@@ -8,7 +8,7 @@ tl2_name_abbrev: Demerec
 tl2_dates: 1895-1966
 tl2_bhl_page_id: 33259243
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1709900
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

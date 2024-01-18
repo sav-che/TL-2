@@ -8,7 +8,7 @@ tl2_name_abbrev: Espenscheid
 tl2_dates: fl. 1902
 tl2_bhl_page_id: 33260400
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677201
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

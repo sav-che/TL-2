@@ -8,7 +8,7 @@ tl2_name_abbrev: Ax. Anderss.
 tl2_dates: 1895-x
 tl2_bhl_page_id: 33264838
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123652899
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

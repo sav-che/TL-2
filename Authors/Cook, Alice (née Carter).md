@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Cook
 tl2_dates: 1868-x
 tl2_bhl_page_id: 33265996
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q15945038
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

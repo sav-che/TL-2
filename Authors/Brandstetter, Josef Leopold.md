@@ -8,7 +8,7 @@ tl2_name_abbrev: Brandstetter
 tl2_dates: 1831-1924
 tl2_bhl_page_id: 33266322
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1705138
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

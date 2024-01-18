@@ -8,7 +8,7 @@ tl2_name_abbrev: Åmark
 tl2_dates: 1843-1916
 tl2_bhl_page_id: 33264822
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123630914
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

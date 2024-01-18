@@ -8,7 +8,7 @@ tl2_name_abbrev: Elo
 tl2_dates: 1905-1941
 tl2_bhl_page_id: 33260313
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677185
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

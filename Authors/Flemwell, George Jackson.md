@@ -8,7 +8,7 @@ tl2_name_abbrev: Flemwell
 tl2_dates: 1865-1928
 tl2_bhl_page_id: 33259755
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q50840390
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

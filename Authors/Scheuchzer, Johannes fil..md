@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Scheuchzer, fil.
 tl2_dates: 1738-1815
 tl2_bhl_page_id: 33333282
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21607893
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

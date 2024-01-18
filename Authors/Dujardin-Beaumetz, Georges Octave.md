@@ -8,7 +8,7 @@ tl2_name_abbrev: Dujard.-Beaum.
 tl2_dates: 1833-1895
 tl2_bhl_page_id: 33260145
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q16027675
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

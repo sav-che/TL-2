@@ -8,7 +8,7 @@ tl2_name_abbrev: Fickel
 tl2_dates: 1850-x
 tl2_bhl_page_id: 33259679
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682316
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

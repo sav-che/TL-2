@@ -8,7 +8,7 @@ tl2_name_abbrev: C.T. Green
 tl2_dates: 1863-1940
 tl2_bhl_page_id: 33258830
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682393
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

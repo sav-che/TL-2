@@ -8,7 +8,7 @@ tl2_name_abbrev: Bokorny
 tl2_dates: 1856-1929
 tl2_bhl_page_id: 33265485
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q81087808
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

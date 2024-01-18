@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Bauke
 tl2_dates: 1852-1879
 tl2_bhl_page_id: 33265112
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123397304
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

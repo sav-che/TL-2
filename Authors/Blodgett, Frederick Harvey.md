@@ -8,7 +8,7 @@ tl2_name_abbrev: Blodgett
 tl2_dates: 1872-1926
 tl2_bhl_page_id: 33265414
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q37870372
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

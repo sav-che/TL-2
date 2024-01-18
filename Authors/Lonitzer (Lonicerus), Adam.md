@@ -8,7 +8,7 @@ tl2_name_abbrev: Lonic.
 tl2_dates: 1528-1586
 tl2_bhl_page_id: 33355241
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q65192
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

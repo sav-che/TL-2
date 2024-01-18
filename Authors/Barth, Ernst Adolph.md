@@ -8,7 +8,7 @@ tl2_name_abbrev: E.A. Barth
 tl2_dates: fl. 1836
 tl2_bhl_page_id: 33265068
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q110476856
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

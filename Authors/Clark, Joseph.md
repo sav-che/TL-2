@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Clark
 tl2_dates: 1782-1858
 tl2_bhl_page_id: 33265858
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676483
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

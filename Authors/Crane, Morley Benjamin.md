@@ -8,7 +8,7 @@ tl2_name_abbrev: M.B. Crane
 tl2_dates: 1890-x
 tl2_bhl_page_id: 33266125
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21166809
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

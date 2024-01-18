@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Frickh.
 tl2_dates: 1876-1940
 tl2_bhl_page_id: 33258516
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677273
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

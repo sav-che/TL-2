@@ -8,7 +8,7 @@ tl2_name_abbrev: F.G.L. Du Cane
 tl2_dates: fl. 1908-1911
 tl2_bhl_page_id: 33260113
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677097
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

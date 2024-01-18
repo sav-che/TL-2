@@ -8,7 +8,7 @@ tl2_name_abbrev: H.H. Dixon
 tl2_dates: 1869-1953
 tl2_bhl_page_id: 33259408
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q587674
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Bergen
 tl2_dates: fl. 1826
 tl2_bhl_page_id: 33265284
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676243
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

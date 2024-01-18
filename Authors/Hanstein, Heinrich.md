@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Hanst.
 tl2_dates: 1825-1871
 tl2_bhl_page_id: 33068290
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55674500
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Antommarchi
 tl2_dates: 1780-1838
 tl2_bhl_page_id: 33264860
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q714001
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

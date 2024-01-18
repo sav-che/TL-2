@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Cohn
 tl2_dates: 1873-?
 tl2_bhl_page_id: 33265935
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676499
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

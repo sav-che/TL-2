@@ -8,7 +8,7 @@ tl2_name_abbrev: Bobilioff
 tl2_dates: 1888-?
 tl2_bhl_page_id: 33265435
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681685
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

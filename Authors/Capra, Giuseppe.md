@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Capra
 tl2_dates: fl. 1905
 tl2_bhl_page_id: 33266704
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q12951851
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

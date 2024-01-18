@@ -8,7 +8,7 @@ tl2_name_abbrev: Cuzent
 tl2_dates: 1820-1891
 tl2_bhl_page_id: 33266203
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q18197524
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

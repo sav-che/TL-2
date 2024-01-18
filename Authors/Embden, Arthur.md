@@ -8,7 +8,7 @@ tl2_name_abbrev: Embden
 tl2_dates: fl. 1907-1912
 tl2_bhl_page_id: 33260316
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677190
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

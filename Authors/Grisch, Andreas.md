@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Grisch
 tl2_dates: 1879-1952
 tl2_bhl_page_id: 33258877
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q497593
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

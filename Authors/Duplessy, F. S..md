@@ -8,7 +8,7 @@ tl2_name_abbrev: Duplessy
 tl2_dates: fl. 1800
 tl2_bhl_page_id: 33120837
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682410
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

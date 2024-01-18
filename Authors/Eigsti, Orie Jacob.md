@@ -8,7 +8,7 @@ tl2_name_abbrev: Eigsti
 tl2_dates: 1908-x
 tl2_bhl_page_id: 33260275
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95248107
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Fogg
 tl2_dates: 1898-1982
 tl2_bhl_page_id: 33259793
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q87917553
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

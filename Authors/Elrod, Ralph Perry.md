@@ -8,7 +8,7 @@ tl2_name_abbrev: R.P. Elrod
 tl2_dates: fl. 1939-1940
 tl2_bhl_page_id: 33260314
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677187
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

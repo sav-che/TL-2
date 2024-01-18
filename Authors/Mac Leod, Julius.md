@@ -8,7 +8,7 @@ tl2_name_abbrev: Mac Leod
 tl2_dates: 1857-1919
 tl2_bhl_page_id: 33355315
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2010726
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

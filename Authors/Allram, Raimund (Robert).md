@@ -8,7 +8,7 @@ tl2_name_abbrev: Allram
 tl2_dates: fl. 1882-1887
 tl2_bhl_page_id: 33264808
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112420073
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

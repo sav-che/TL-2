@@ -8,7 +8,7 @@ tl2_name_abbrev: Baruch
 tl2_dates: fl. 1891-1909
 tl2_bhl_page_id: 33265086
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q112999638
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

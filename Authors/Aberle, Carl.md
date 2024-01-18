@@ -8,7 +8,7 @@ tl2_name_abbrev: Aberle
 tl2_dates: x-1892
 tl2_bhl_page_id: 33264766
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1730199
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

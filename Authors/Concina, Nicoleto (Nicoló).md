@@ -8,7 +8,7 @@ tl2_name_abbrev: Concina
 tl2_dates: fl. 1802
 tl2_bhl_page_id: 33265976
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681909
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

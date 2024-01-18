@@ -8,7 +8,7 @@ tl2_name_abbrev: Cadet de Gass.
 tl2_dates: 1789-1861
 tl2_bhl_page_id: 33266603
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4207211
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Herb. Durand
 tl2_dates: 1858-1944
 tl2_bhl_page_id: 33260171
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682186
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

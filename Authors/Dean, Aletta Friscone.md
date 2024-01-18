@@ -8,7 +8,7 @@ tl2_name_abbrev: A.F. Dean
 tl2_dates: fl. 1903-1914
 tl2_bhl_page_id: 33259166
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109735223
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

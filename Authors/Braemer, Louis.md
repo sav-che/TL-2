@@ -8,7 +8,7 @@ tl2_name_abbrev: Braemer
 tl2_dates: 1858-1935
 tl2_bhl_page_id: 33266311
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55400838
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

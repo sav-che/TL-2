@@ -8,7 +8,7 @@ tl2_name_abbrev: Danèk
 tl2_dates: fl. 1912
 tl2_bhl_page_id: 33259092
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95174671
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

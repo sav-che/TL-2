@@ -8,7 +8,7 @@ tl2_name_abbrev: Bergroth
 tl2_dates: 1868-1904
 tl2_bhl_page_id: 33265293
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676645
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

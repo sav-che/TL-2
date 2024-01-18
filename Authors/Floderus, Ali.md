@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Flod.
 tl2_dates: 1826-1877
 tl2_bhl_page_id: 33259764
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682329
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

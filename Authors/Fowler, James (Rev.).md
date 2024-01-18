@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Fowler
 tl2_dates: 1829-1923
 tl2_bhl_page_id: 33259867
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109856706
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

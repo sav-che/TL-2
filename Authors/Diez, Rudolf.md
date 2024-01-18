@@ -8,7 +8,7 @@ tl2_name_abbrev: R. Diez
 tl2_dates: fl. 1887
 tl2_bhl_page_id: 33259383
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677045
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

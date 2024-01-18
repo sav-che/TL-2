@@ -8,7 +8,7 @@ tl2_name_abbrev: E.A. Duchesne
 tl2_dates: 1804-1869
 tl2_bhl_page_id: 33260123
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55912978
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

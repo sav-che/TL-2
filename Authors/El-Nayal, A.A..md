@@ -8,7 +8,7 @@ tl2_name_abbrev: El-Nayal
 tl2_dates: fl. 1932-1937
 tl2_bhl_page_id: 33260313
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677184
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

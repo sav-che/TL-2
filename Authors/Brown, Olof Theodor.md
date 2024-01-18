@@ -8,7 +8,7 @@ tl2_name_abbrev: O.T. Br.
 tl2_dates: 1845-1893
 tl2_bhl_page_id: 33266445
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676371
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

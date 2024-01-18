@@ -8,7 +8,7 @@ tl2_name_abbrev: Ebbinghaus
 tl2_dates: fl. 1863-1878
 tl2_bhl_page_id: 33260233
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677139
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

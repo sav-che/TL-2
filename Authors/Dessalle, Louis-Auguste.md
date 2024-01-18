@@ -8,7 +8,7 @@ tl2_name_abbrev: Dessalle
 tl2_dates: 1855-?
 tl2_bhl_page_id: 33259278
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q119597493
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: François de Neufch.
 tl2_dates: 1750-1828
 tl2_bhl_page_id: 33259889
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1397972
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

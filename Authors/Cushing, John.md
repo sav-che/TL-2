@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Cushing
 tl2_dates: x-1819/20
 tl2_bhl_page_id: 33266199
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676930
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

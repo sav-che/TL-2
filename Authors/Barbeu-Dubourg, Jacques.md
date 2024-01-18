@@ -8,7 +8,7 @@ tl2_name_abbrev: Barbeu
 tl2_dates: 1709-1779
 tl2_bhl_page_id: 33265044
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1340141
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

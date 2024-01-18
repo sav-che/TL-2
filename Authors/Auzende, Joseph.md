@@ -8,7 +8,7 @@ tl2_name_abbrev: Auzende
 tl2_dates: 1802-1876
 tl2_bhl_page_id: 33264943
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676193
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

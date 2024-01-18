@@ -8,7 +8,7 @@ tl2_name_abbrev: Dennert
 tl2_dates: 1861-1942
 tl2_bhl_page_id: 33259251
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1278937
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

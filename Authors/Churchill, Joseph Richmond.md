@@ -8,7 +8,7 @@ tl2_name_abbrev: J.R. Churchill
 tl2_dates: 1845-1933
 tl2_bhl_page_id: 33265849
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117413803
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

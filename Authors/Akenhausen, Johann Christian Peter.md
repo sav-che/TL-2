@@ -8,7 +8,7 @@ tl2_name_abbrev: Arckenhausen
 tl2_dates: 1784-1855
 tl2_bhl_page_id: 33264875
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123653543
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

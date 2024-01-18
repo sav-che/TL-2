@@ -8,7 +8,7 @@ tl2_name_abbrev: Faucheron
 tl2_dates: 1873-1937
 tl2_bhl_page_id: 33259567
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677221
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

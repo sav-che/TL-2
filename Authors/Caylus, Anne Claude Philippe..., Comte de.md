@@ -8,7 +8,7 @@ tl2_name_abbrev: A.C.P. Caylus, Sr.
 tl2_dates: 1692-1765
 tl2_bhl_page_id: 33266784
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2734012
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

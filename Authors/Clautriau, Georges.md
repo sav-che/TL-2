@@ -8,7 +8,7 @@ tl2_name_abbrev: Clautriau
 tl2_dates: 1863-1900
 tl2_bhl_page_id: 33265874
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681893
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

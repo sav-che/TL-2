@@ -8,7 +8,7 @@ tl2_name_abbrev: Appl
 tl2_dates: fl. 1913-1941
 tl2_bhl_page_id: 33264865
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123653496
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

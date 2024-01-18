@@ -8,7 +8,7 @@ tl2_name_abbrev: I. Browne
 tl2_dates: 1881-1947
 tl2_bhl_page_id: 33266451
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q75280679
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Fuchs
 tl2_dates: fl. 1866
 tl2_bhl_page_id: 33258548
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682366
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

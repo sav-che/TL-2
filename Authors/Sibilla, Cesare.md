@@ -8,7 +8,7 @@ tl2_name_abbrev: Sibilio
 tl2_dates: 1895-x
 tl2_bhl_page_id: 33333715
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682425
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

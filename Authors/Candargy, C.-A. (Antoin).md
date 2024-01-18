@@ -8,7 +8,7 @@ tl2_name_abbrev: C.-A. Candargy
 tl2_dates: 1825/26-1900 (or later)
 tl2_bhl_page_id: 33266662
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676819
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

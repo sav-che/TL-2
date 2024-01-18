@@ -8,7 +8,7 @@ tl2_name_abbrev: Th. Beinling
 tl2_dates: 1825-1900
 tl2_bhl_page_id: 33265257
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676232
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

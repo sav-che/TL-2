@@ -8,7 +8,7 @@ tl2_name_abbrev: C.M. Crosby
 tl2_dates: fl. 1900-1903
 tl2_bhl_page_id: 33266155
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q67177786
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

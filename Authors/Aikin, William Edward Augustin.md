@@ -8,7 +8,7 @@ tl2_name_abbrev: W. Aikin
 tl2_dates: 1807-1888
 tl2_bhl_page_id: 33264742
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10393687
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

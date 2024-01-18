@@ -8,7 +8,7 @@ tl2_name_abbrev: Dellien
 tl2_dates: fl. 1892
 tl2_bhl_page_id: 33259228
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677010
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

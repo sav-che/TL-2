@@ -8,7 +8,7 @@ tl2_name_abbrev: Évrard
 tl2_dates: 1885-1957
 tl2_bhl_page_id: 33260423
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q18984554
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

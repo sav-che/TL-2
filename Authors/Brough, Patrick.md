@@ -8,7 +8,7 @@ tl2_name_abbrev: Brough
 tl2_dates: 1885-?
 tl2_bhl_page_id: 33266438
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681762
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

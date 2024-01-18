@@ -8,7 +8,7 @@ tl2_name_abbrev: N.C. Donaldson
 tl2_dates: fl. 1916
 tl2_bhl_page_id: 33260038
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682079
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

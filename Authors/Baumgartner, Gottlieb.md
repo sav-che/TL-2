@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Baumg.
 tl2_dates: fl. 1901
 tl2_bhl_page_id: 33265116
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q96262182
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

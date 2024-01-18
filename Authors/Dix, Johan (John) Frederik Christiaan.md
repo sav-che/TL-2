@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Dix.
 tl2_dates: 1881-1988
 tl2_bhl_page_id: 33259406
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q103821095
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

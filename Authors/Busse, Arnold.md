@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Busse
 tl2_dates: b. 1887
 tl2_bhl_page_id: 33266588
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681801
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Aulin
 tl2_dates: 1841-1923
 tl2_bhl_page_id: 33264939
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21531597
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

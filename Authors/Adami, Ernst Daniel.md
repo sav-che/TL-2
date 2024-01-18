@@ -8,7 +8,7 @@ tl2_name_abbrev: Adami
 tl2_dates: 1716-1795
 tl2_bhl_page_id: 33264757
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95674
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Agharkar
 tl2_dates: 1884-1960
 tl2_bhl_page_id: 33264733
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10370960
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

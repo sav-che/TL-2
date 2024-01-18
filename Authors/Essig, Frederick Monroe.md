@@ -8,7 +8,7 @@ tl2_name_abbrev: F.M. Essig
 tl2_dates: fl. 1920-1922
 tl2_bhl_page_id: 33260401
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677203
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

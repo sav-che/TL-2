@@ -8,7 +8,7 @@ tl2_name_abbrev: Eckman
 tl2_dates: 1802-1853
 tl2_bhl_page_id: 33260243
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677154
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

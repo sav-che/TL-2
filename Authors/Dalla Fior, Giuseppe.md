@@ -8,7 +8,7 @@ tl2_name_abbrev: Dalla Fior
 tl2_dates: 1884-1967
 tl2_bhl_page_id: 33259073
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55026161
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

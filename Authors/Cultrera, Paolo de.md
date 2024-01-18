@@ -8,7 +8,7 @@ tl2_name_abbrev: Cultrera
 tl2_dates: 1805-1884
 tl2_bhl_page_id: 33266177
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676927
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

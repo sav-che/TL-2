@@ -8,7 +8,7 @@ tl2_name_abbrev: W.A. Dixon
 tl2_dates: fl. 1906-1918
 tl2_bhl_page_id: 33259421
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677054
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: P. Dive
 tl2_dates: fl. 1872
 tl2_bhl_page_id: 33259405
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677051
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

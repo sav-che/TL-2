@@ -8,7 +8,7 @@ tl2_name_abbrev: Eichinger
 tl2_dates: 1883-?
 tl2_bhl_page_id: 33260264
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95348773
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

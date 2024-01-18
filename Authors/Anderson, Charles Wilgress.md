@@ -8,7 +8,7 @@ tl2_name_abbrev: C.W. Anderson
 tl2_dates: 1867-?
 tl2_bhl_page_id: 33264835
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117443256
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

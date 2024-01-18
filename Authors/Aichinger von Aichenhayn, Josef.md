@@ -8,7 +8,7 @@ tl2_name_abbrev: Aichinger
 tl2_dates: 1789-1870
 tl2_bhl_page_id: 33264740
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123630776
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

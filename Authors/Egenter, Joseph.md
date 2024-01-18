@@ -8,7 +8,7 @@ tl2_name_abbrev: Egenter
 tl2_dates: fl. 1862
 tl2_bhl_page_id: 33260253
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677162
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

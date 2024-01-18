@@ -8,7 +8,7 @@ tl2_name_abbrev: Dominique
 tl2_dates: 1838-1902
 tl2_bhl_page_id: 33260034
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123480407
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

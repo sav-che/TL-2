@@ -8,7 +8,7 @@ tl2_name_abbrev: Fichera
 tl2_dates: fl. 1895-1909?
 tl2_bhl_page_id: 33259679
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677236
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

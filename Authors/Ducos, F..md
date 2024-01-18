@@ -8,7 +8,7 @@ tl2_name_abbrev: F. Ducos
 tl2_dates: fl. 1934
 tl2_bhl_page_id: 33260131
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677104
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

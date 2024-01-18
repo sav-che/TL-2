@@ -8,7 +8,7 @@ tl2_name_abbrev: Athanasius
 tl2_dates: fl. 1794
 tl2_bhl_page_id: 33264927
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676185
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

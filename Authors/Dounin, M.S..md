@@ -8,7 +8,7 @@ tl2_name_abbrev: Dounin
 tl2_dates: fl. 1929
 tl2_bhl_page_id: 33260067
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677078
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

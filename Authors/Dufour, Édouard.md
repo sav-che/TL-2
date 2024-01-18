@@ -8,7 +8,7 @@ tl2_name_abbrev: É. Dufour
 tl2_dates: 1828-1882
 tl2_bhl_page_id: 33260136
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q110271988
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

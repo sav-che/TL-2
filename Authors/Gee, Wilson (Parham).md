@@ -8,7 +8,7 @@ tl2_name_abbrev: W.P. Gee
 tl2_dates: 1888-1961
 tl2_bhl_page_id: 33258642
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q59532549
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

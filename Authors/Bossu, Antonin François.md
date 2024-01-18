@@ -8,7 +8,7 @@ tl2_name_abbrev: Bossu
 tl2_dates: 1809-1897
 tl2_bhl_page_id: 33265569
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123460046
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

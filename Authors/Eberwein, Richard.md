@@ -8,7 +8,7 @@ tl2_name_abbrev: Eberwein
 tl2_dates: fl. 1904
 tl2_bhl_page_id: 33260238
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677149
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

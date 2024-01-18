@@ -8,7 +8,7 @@ tl2_name_abbrev: Asso del Rio
 tl2_dates: 1742-1814
 tl2_bhl_page_id: 33264926
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q544052
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

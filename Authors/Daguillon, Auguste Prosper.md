@@ -8,7 +8,7 @@ tl2_name_abbrev: Daguillon
 tl2_dates: 1862-1908
 tl2_bhl_page_id: 33259052
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q964681
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Carron
 tl2_dates: 1838-1895
 tl2_bhl_page_id: 33266733
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676439
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

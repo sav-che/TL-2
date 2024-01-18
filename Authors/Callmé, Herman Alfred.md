@@ -8,7 +8,7 @@ tl2_name_abbrev: Callmé
 tl2_dates: 1860-1889
 tl2_bhl_page_id: 33266623
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676413
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

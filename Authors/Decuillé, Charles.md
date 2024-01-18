@@ -8,7 +8,7 @@ tl2_name_abbrev: Decuillé
 tl2_dates: fl. 1892/1893
 tl2_bhl_page_id: 33259189
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21338137
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

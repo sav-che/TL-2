@@ -8,7 +8,7 @@ tl2_name_abbrev: Gerke
 tl2_dates: 1873-1946?
 tl2_bhl_page_id: 33258667
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682383
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

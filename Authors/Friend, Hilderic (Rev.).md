@@ -8,7 +8,7 @@ tl2_name_abbrev: Friend
 tl2_dates: 1852-1940
 tl2_bhl_page_id: 33258512
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q60722101
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

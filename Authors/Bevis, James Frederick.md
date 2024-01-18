@@ -8,7 +8,7 @@ tl2_name_abbrev: J.F. Bevis
 tl2_dates: fl. 1909-1911
 tl2_bhl_page_id: 33265347
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676260
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

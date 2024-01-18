@@ -8,7 +8,7 @@ tl2_name_abbrev: A.X.J. Conard
 tl2_dates: 1892-x
 tl2_bhl_page_id: 33265971
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123398646
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

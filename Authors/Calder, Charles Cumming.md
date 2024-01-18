@@ -8,7 +8,7 @@ tl2_name_abbrev: C.C. Calder
 tl2_dates: 1884-1962
 tl2_bhl_page_id: 33266616
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681813
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

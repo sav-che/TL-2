@@ -8,7 +8,7 @@ tl2_name_abbrev: Bogue
 tl2_dates: 1864-1907
 tl2_bhl_page_id: 33265469
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q120282323
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

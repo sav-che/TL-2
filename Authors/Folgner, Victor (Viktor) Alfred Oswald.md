@@ -8,7 +8,7 @@ tl2_name_abbrev: Folgner
 tl2_dates: 1861-1927
 tl2_bhl_page_id: 33259795
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q118465680
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

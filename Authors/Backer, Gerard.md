@@ -8,7 +8,7 @@ tl2_name_abbrev: G. Backer
 tl2_dates: fl. 1829
 tl2_bhl_page_id: 33264967
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676201
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

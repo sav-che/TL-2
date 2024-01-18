@@ -8,7 +8,7 @@ tl2_name_abbrev: K. Burk
 tl2_dates: 1888-x
 tl2_bhl_page_id: 33266548
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95239125
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

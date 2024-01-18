@@ -8,7 +8,7 @@ tl2_name_abbrev: Bruz
 tl2_dates: fl. 1775
 tl2_bhl_page_id: 33266475
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676383
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: E.S. Bastin
 tl2_dates: 1843-1897
 tl2_bhl_page_id: 33265096
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94624245
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

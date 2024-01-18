@@ -8,7 +8,7 @@ tl2_name_abbrev: G.E. Cooley
 tl2_dates: 1857-1916
 tl2_bhl_page_id: 33266011
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q96470885
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

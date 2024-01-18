@@ -8,7 +8,7 @@ tl2_name_abbrev: J.W. Budde
 tl2_dates: 1844-?
 tl2_bhl_page_id: 33266511
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681785
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

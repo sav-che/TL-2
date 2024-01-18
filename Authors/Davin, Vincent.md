@@ -8,7 +8,7 @@ tl2_name_abbrev: Davin
 tl2_dates: fl. 1879-1900
 tl2_bhl_page_id: 33259146
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676975
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

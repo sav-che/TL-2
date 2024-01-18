@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Drayton
 tl2_dates: 1767-1822
 tl2_bhl_page_id: 33260078
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1699840
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

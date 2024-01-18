@@ -8,7 +8,7 @@ tl2_name_abbrev: H.R. Beyer
 tl2_dates: 1874-?
 tl2_bhl_page_id: 33265348
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681646
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

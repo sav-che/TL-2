@@ -8,7 +8,7 @@ tl2_name_abbrev: J.G.N. Dragend.
 tl2_dates: 1836-1898
 tl2_bhl_page_id: 33260073
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q70815
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

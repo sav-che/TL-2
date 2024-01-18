@@ -8,7 +8,7 @@ tl2_name_abbrev: H.C.I. Gwynne-Vaughan
 tl2_dates: 1879-1967
 tl2_bhl_page_id: 33258949
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4814993
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

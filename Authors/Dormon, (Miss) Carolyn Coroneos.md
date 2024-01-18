@@ -8,7 +8,7 @@ tl2_name_abbrev: Dormon
 tl2_dates: 1889-?
 tl2_bhl_page_id: 33260048
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5045047
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

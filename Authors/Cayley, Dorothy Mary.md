@@ -8,7 +8,7 @@ tl2_name_abbrev: Cayley
 tl2_dates: 1874-1955
 tl2_bhl_page_id: 33266784
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q24255624
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

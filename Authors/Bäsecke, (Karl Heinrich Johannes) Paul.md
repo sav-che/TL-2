@@ -8,7 +8,7 @@ tl2_name_abbrev: Bäsecke
 tl2_dates: 1877-1929
 tl2_bhl_page_id: 33264976
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q36648529
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

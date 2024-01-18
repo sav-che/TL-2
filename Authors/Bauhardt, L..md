@@ -8,7 +8,7 @@ tl2_name_abbrev: Bauhardt
 tl2_dates: fl. 1823
 tl2_bhl_page_id: 33265112
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q121461741
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

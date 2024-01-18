@@ -8,7 +8,7 @@ tl2_name_abbrev: W.G. Eliot
 tl2_dates: fl. 1888
 tl2_bhl_page_id: 33260293
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677180
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

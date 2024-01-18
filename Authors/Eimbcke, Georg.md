@@ -8,7 +8,7 @@ tl2_name_abbrev: Eimbcke
 tl2_dates: 1771-1843
 tl2_bhl_page_id: 33260276
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55114959
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

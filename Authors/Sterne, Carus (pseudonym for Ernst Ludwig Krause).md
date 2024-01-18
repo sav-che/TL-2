@@ -8,7 +8,7 @@ tl2_name_abbrev: Sterne
 tl2_dates: 1839-1903
 tl2_bhl_page_id: 33334042
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3057362
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

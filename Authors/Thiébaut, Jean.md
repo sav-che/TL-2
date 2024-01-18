@@ -8,7 +8,7 @@ tl2_name_abbrev: Thiébaut
 tl2_dates: x-1953
 tl2_bhl_page_id: 33212299
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682430
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

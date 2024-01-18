@@ -8,7 +8,7 @@ tl2_name_abbrev: F. Abbott
 tl2_dates: 1834-1903
 tl2_bhl_page_id: 33264770
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10284499
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

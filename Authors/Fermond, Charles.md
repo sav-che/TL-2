@@ -8,7 +8,7 @@ tl2_name_abbrev: Fermond
 tl2_dates: 1810-1882
 tl2_bhl_page_id: 33259647
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109855128
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

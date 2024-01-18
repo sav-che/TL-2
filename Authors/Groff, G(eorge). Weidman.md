@@ -8,7 +8,7 @@ tl2_name_abbrev: Groff
 tl2_dates: 1884-1954
 tl2_bhl_page_id: 33258888
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109853798
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

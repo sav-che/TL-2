@@ -8,7 +8,7 @@ tl2_name_abbrev: Coninck
 tl2_dates: 1779-1852
 tl2_bhl_page_id: 33265978
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676509
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

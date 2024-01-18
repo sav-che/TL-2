@@ -8,7 +8,7 @@ tl2_name_abbrev: Ferchl
 tl2_dates: 1810-1878
 tl2_bhl_page_id: 33259640
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677229
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

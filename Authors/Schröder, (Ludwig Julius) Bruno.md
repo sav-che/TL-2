@@ -8,7 +8,7 @@ tl2_name_abbrev: B. Schröd.
 tl2_dates: 1867-1928
 tl2_bhl_page_id: 33333476
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21608446
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

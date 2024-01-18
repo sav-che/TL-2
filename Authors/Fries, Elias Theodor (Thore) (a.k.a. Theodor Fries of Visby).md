@@ -8,7 +8,7 @@ tl2_name_abbrev: E.Th. Fr.
 tl2_dates: 1875-1951
 tl2_bhl_page_id: 33258505
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q19060225
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

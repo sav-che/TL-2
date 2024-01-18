@@ -8,7 +8,7 @@ tl2_name_abbrev: Alcock
 tl2_dates: 1833-1885
 tl2_bhl_page_id: 33264791
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q122980052
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

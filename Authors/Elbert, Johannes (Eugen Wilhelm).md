@@ -8,7 +8,7 @@ tl2_name_abbrev: Elbert
 tl2_dates: 1878-1915
 tl2_bhl_page_id: 33260286
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55847491
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

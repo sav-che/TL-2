@@ -8,7 +8,7 @@ tl2_name_abbrev: Dureau
 tl2_dates: 1777-1857
 tl2_bhl_page_id: 33260177
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q677943
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

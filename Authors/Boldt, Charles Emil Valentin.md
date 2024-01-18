@@ -8,7 +8,7 @@ tl2_name_abbrev: C.E.V. Boldt
 tl2_dates: 1866-1922
 tl2_bhl_page_id: 33265487
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117752348
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

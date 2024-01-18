@@ -8,7 +8,7 @@ tl2_name_abbrev: D.W. Fellows
 tl2_dates: 1847-1928
 tl2_bhl_page_id: 33259630
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q113687347
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

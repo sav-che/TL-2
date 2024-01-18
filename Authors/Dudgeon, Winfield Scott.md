@@ -8,7 +8,7 @@ tl2_name_abbrev: W.S. Dudgeon
 tl2_dates: 1886-1932
 tl2_bhl_page_id: 33260131
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q113961016
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

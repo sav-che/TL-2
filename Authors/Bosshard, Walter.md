@@ -8,7 +8,7 @@ tl2_name_abbrev: Bossh.
 tl2_dates: fl. 1927-1928
 tl2_bhl_page_id: 33265568
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q122501
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

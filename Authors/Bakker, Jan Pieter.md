@@ -8,7 +8,7 @@ tl2_name_abbrev: J.P. Bakker
 tl2_dates: fl. 1833
 tl2_bhl_page_id: 33265013
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676206
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

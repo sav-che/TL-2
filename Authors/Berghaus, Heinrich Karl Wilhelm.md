@@ -8,7 +8,7 @@ tl2_name_abbrev: Berghaus
 tl2_dates: 1797-1884
 tl2_bhl_page_id: 33265290
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q67485
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

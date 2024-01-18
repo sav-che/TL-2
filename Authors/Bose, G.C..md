@@ -8,7 +8,7 @@ tl2_name_abbrev: G.C. Bose
 tl2_dates: fl. 1920
 tl2_bhl_page_id: 33265566
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681713
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Debes
 tl2_dates: fl. 1885-1919/1920
 tl2_bhl_page_id: 33259174
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676985
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Fraysse
 tl2_dates: fl. 1905-1912
 tl2_bhl_page_id: 33259899
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677269
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Demerson
 tl2_dates: 17..-18..
 tl2_bhl_page_id: 33259243
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q17630857
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

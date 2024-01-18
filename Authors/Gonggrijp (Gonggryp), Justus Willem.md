@@ -8,7 +8,7 @@ tl2_name_abbrev: Gonggrijp
 tl2_dates: 1885-1974
 tl2_bhl_page_id: 33258773
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682390
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

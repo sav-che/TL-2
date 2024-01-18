@@ -8,7 +8,7 @@ tl2_name_abbrev: Chipman
 tl2_dates: x-1899
 tl2_bhl_page_id: 33265787
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681876
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

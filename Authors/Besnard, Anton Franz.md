@@ -8,7 +8,7 @@ tl2_name_abbrev: Besnard
 tl2_dates: 1814-1885
 tl2_bhl_page_id: 33265335
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q42293755
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

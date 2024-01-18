@@ -8,7 +8,7 @@ tl2_name_abbrev: D. Demaree
 tl2_dates: 1889-1987
 tl2_bhl_page_id: 33259240
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q105444028
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

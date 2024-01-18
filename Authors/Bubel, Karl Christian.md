@@ -8,7 +8,7 @@ tl2_name_abbrev: Bubel
 tl2_dates: 1904-x
 tl2_bhl_page_id: 33266487
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681781
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: F. Dunlap
 tl2_dates: 1881-x
 tl2_bhl_page_id: 33260158
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682178
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

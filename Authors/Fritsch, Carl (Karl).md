@@ -8,7 +8,7 @@ tl2_name_abbrev: C. Fritsch
 tl2_dates: 1812-1879
 tl2_bhl_page_id: 33258487
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55035246
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

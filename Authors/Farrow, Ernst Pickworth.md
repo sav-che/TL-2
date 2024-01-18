@@ -8,7 +8,7 @@ tl2_name_abbrev: Farrow
 tl2_dates: fl. 1912-1941
 tl2_bhl_page_id: 33259555
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677219
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

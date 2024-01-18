@@ -8,7 +8,7 @@ tl2_name_abbrev: Delille, Abbé
 tl2_dates: 1738-1813
 tl2_bhl_page_id: 33259226
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q981922
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

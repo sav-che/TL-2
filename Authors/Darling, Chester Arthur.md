@@ -8,7 +8,7 @@ tl2_name_abbrev: C.A. Darling
 tl2_dates: 1880-x
 tl2_bhl_page_id: 33259115
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681975
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

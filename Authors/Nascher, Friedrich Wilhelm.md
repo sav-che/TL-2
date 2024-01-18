@@ -8,7 +8,7 @@ tl2_name_abbrev: Nascher
 tl2_dates: 1702-1764
 tl2_bhl_page_id: 33355778
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682417
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

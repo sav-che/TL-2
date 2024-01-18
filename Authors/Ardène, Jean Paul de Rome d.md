@@ -8,7 +8,7 @@ tl2_name_abbrev: Ardène
 tl2_dates: 1689-1769
 tl2_bhl_page_id: 33264875
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21684999
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

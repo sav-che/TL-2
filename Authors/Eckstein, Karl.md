@@ -8,7 +8,7 @@ tl2_name_abbrev: Eckstein
 tl2_dates: 1859-1939
 tl2_bhl_page_id: 33260244
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4530720
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

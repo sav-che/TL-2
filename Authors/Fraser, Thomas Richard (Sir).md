@@ -8,7 +8,7 @@ tl2_name_abbrev: T.R. Fraser
 tl2_dates: 1841-1920
 tl2_bhl_page_id: 33259898
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q446779
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

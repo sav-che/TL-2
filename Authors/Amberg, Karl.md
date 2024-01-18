@@ -8,7 +8,7 @@ tl2_name_abbrev: Amberg
 tl2_dates: 1886-1940
 tl2_bhl_page_id: 33264822
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676181
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

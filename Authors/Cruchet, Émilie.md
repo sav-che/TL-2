@@ -8,7 +8,7 @@ tl2_name_abbrev: É. Cruchet
 tl2_dates: fl. 1933
 tl2_bhl_page_id: 33266161
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676924
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

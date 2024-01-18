@@ -8,7 +8,7 @@ tl2_name_abbrev: F.H. Frost
 tl2_dates: 1902-1973
 tl2_bhl_page_id: 33258542
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682363
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

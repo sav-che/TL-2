@@ -8,7 +8,7 @@ tl2_name_abbrev: F. Franke
 tl2_dates: 1890-1945
 tl2_bhl_page_id: 33259892
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94917971
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

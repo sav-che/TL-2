@@ -8,7 +8,7 @@ tl2_name_abbrev: Goester
 tl2_dates: 1872-x
 tl2_bhl_page_id: 33258750
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q65849057
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

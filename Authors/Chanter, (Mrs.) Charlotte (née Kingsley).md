@@ -8,7 +8,7 @@ tl2_name_abbrev: Chanter
 tl2_dates: 1824-1882
 tl2_bhl_page_id: 33265726
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q36389200
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

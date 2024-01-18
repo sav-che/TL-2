@@ -8,7 +8,7 @@ tl2_name_abbrev: Dauphiné
 tl2_dates: 1880-1948
 tl2_bhl_page_id: 33259134
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676969
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

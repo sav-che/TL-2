@@ -8,7 +8,7 @@ tl2_name_abbrev: A.J. Davidson
 tl2_dates: 1859-?
 tl2_bhl_page_id: 33259143
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q87220726
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

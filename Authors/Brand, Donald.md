@@ -8,7 +8,7 @@ tl2_name_abbrev: Don. Brand
 tl2_dates: 1915-x
 tl2_bhl_page_id: 33266316
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676337
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: G.P. Burns
 tl2_dates: 1871-1953
 tl2_bhl_page_id: 33266566
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q110938687
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

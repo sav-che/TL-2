@@ -8,7 +8,7 @@ tl2_name_abbrev: K.W.G. Fritsch
 tl2_dates: 1838-1906
 tl2_bhl_page_id: 33258499
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q90918
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

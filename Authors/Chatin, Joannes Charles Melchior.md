@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Chatin
 tl2_dates: 1847-1912
 tl2_bhl_page_id: 33265743
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1690840
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

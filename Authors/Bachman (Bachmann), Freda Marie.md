@@ -8,7 +8,7 @@ tl2_name_abbrev: F.M. Bachman
 tl2_dates: 1878-?
 tl2_bhl_page_id: 33264958
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123653588
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

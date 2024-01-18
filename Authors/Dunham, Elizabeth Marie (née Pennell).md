@@ -8,7 +8,7 @@ tl2_name_abbrev: E.M. Dunham
 tl2_dates: 1872-1966
 tl2_bhl_page_id: 33260158
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q66789302
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

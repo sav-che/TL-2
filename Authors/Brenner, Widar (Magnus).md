@@ -8,7 +8,7 @@ tl2_name_abbrev: Wid. Brenner
 tl2_dates: 1887-1932
 tl2_bhl_page_id: 33266372
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q126247
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

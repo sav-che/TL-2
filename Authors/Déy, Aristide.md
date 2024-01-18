@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Déy
 tl2_dates: 1807-1889
 tl2_bhl_page_id: 33259329
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117328221
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

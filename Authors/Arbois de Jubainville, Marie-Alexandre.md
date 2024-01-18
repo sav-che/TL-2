@@ -8,7 +8,7 @@ tl2_name_abbrev: Arbois
 tl2_dates: 1835-1916
 tl2_bhl_page_id: 33264870
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123408673
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

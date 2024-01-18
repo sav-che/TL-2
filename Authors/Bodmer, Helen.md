@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Bodmer
 tl2_dates: 1897-x
 tl2_bhl_page_id: 33265440
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94771857
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

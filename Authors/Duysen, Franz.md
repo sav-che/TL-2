@@ -8,7 +8,7 @@ tl2_name_abbrev: Duysen
 tl2_dates: 1861-1924
 tl2_bhl_page_id: 33260213
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682195
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

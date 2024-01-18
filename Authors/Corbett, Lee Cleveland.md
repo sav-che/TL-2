@@ -8,7 +8,7 @@ tl2_name_abbrev: Corbett
 tl2_dates: 1867-?
 tl2_bhl_page_id: 33266028
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q79716565
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

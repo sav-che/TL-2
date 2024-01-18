@@ -8,7 +8,7 @@ tl2_name_abbrev: K.F. Dusén
 tl2_dates: 1849-1919
 tl2_bhl_page_id: 33260188
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q23988543
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

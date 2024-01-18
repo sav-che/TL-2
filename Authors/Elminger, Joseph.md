@@ -8,7 +8,7 @@ tl2_name_abbrev: Elminger
 tl2_dates: 1790-1859
 tl2_bhl_page_id: 33260313
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682265
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

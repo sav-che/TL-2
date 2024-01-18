@@ -8,7 +8,7 @@ tl2_name_abbrev: Eberlein
 tl2_dates: 1878-?
 tl2_bhl_page_id: 33260236
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677147
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

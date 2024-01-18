@@ -8,7 +8,7 @@ tl2_name_abbrev: C.M. Derick
 tl2_dates: 1862-x
 tl2_bhl_page_id: 33259259
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2940240
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: A.E. Clarke
 tl2_dates: 1903-?
 tl2_bhl_page_id: 33265860
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q118214670
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

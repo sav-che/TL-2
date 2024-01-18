@@ -8,7 +8,7 @@ tl2_name_abbrev: L.G. den Berger
 tl2_dates: 1881-1945
 tl2_bhl_page_id: 33265287
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681625
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Faideau
 tl2_dates: 1862-1937
 tl2_bhl_page_id: 33259519
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q20855598
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

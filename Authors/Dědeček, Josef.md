@@ -8,7 +8,7 @@ tl2_name_abbrev: Dědeček
 tl2_dates: 1843-1915
 tl2_bhl_page_id: 33259189
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q12025973
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

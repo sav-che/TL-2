@@ -8,7 +8,7 @@ tl2_name_abbrev: F. Esm.
 tl2_dates: 1886-x
 tl2_bhl_page_id: 33260399
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q107164015
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

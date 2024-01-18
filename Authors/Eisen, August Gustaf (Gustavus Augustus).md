@@ -8,7 +8,7 @@ tl2_name_abbrev: Eisen
 tl2_dates: 1847-1940
 tl2_bhl_page_id: 33260277
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1555418
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

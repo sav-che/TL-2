@@ -8,7 +8,7 @@ tl2_name_abbrev: Genlis
 tl2_dates: 1746-1830/1831
 tl2_bhl_page_id: 33258654
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55037230
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

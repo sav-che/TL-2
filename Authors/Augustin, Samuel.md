@@ -8,7 +8,7 @@ tl2_name_abbrev: Augustin
 tl2_dates: 1729-1792
 tl2_bhl_page_id: 33264939
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q781143
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

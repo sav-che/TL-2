@@ -8,7 +8,7 @@ tl2_name_abbrev: F.T. Dana
 tl2_dates: 1861-x
 tl2_bhl_page_id: 33259089
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4815074
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

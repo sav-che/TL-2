@@ -8,7 +8,7 @@ tl2_name_abbrev: Ch. Coster
 tl2_dates: 1895-1943/45
 tl2_bhl_page_id: 33266078
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q111967519
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Bartsch
 tl2_dates: 1857-?
 tl2_bhl_page_id: 33265086
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676217
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Dronke
 tl2_dates: 1874-?
 tl2_bhl_page_id: 33260088
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682104
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

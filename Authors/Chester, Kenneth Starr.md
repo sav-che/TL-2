@@ -8,7 +8,7 @@ tl2_name_abbrev: K.S. Chester
 tl2_dates: 1906-x
 tl2_bhl_page_id: 33265766
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q110178035
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

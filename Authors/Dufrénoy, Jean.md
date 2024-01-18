@@ -8,7 +8,7 @@ tl2_name_abbrev: Dufrénoy
 tl2_dates: 1894-x
 tl2_bhl_page_id: 33260139
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21511016
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

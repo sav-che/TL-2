@@ -8,7 +8,7 @@ tl2_name_abbrev: Birger
 tl2_dates: 1879-1931
 tl2_bhl_page_id: 33265367
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5576573
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

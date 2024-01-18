@@ -8,7 +8,7 @@ tl2_name_abbrev: O. Blau
 tl2_dates: 1828-1879
 tl2_bhl_page_id: 33265407
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q107542
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

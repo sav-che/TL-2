@@ -8,7 +8,7 @@ tl2_name_abbrev: C.R. Dodge
 tl2_dates: 1847-1918
 tl2_bhl_page_id: 33260006
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682067
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

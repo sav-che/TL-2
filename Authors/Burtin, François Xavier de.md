@@ -8,7 +8,7 @@ tl2_name_abbrev: Burtin
 tl2_dates: 1743-1818
 tl2_bhl_page_id: 33266577
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94125931
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

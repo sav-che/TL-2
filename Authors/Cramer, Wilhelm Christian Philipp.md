@@ -8,7 +8,7 @@ tl2_name_abbrev: W.C.P. Cramer
 tl2_dates: ca. 1755-?
 tl2_bhl_page_id: 33266123
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676916
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

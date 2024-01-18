@@ -8,7 +8,7 @@ tl2_name_abbrev: Delondre
 tl2_dates: 1790-1865
 tl2_bhl_page_id: 33259232
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q15651370
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

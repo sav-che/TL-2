@@ -8,7 +8,7 @@ tl2_name_abbrev: Delachapelle
 tl2_dates: 1780-1854
 tl2_bhl_page_id: 33259213
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677000
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

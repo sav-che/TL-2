@@ -8,7 +8,7 @@ tl2_name_abbrev: Carena
 tl2_dates: 1778-1859
 tl2_bhl_page_id: 33266718
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3761894
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

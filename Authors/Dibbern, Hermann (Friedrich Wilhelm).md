@@ -8,7 +8,7 @@ tl2_name_abbrev: Dibbern
 tl2_dates: 1870-19?
 tl2_bhl_page_id: 33259330
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q119647846
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Bilancioni
 tl2_dates: 1881-1935
 tl2_bhl_page_id: 33265361
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676265
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

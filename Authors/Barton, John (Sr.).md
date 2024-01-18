@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Barton Sr.
 tl2_dates: 1798-1852
 tl2_bhl_page_id: 33265078
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q6220965
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

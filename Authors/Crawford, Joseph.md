@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Crawford
 tl2_dates: 1858-1936
 tl2_bhl_page_id: 33266129
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681935
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

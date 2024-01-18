@@ -8,7 +8,7 @@ tl2_name_abbrev: Dresler
 tl2_dates: 1824-x
 tl2_bhl_page_id: 33260082
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q104211516
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

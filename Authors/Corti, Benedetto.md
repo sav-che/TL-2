@@ -8,7 +8,7 @@ tl2_name_abbrev: B. Corti
 tl2_dates: 1866-1907
 tl2_bhl_page_id: 33266062
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q61475007
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

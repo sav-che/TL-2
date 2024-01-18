@@ -8,7 +8,7 @@ tl2_name_abbrev: Barthels
 tl2_dates: 1897-?
 tl2_bhl_page_id: 33265070
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681586
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Ch. Curtis
 tl2_dates: 1853-1928
 tl2_bhl_page_id: 33266191
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5076604
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

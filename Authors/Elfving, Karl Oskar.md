@@ -8,7 +8,7 @@ tl2_name_abbrev: K.O. Elfving
 tl2_dates: 1872-1946
 tl2_bhl_page_id: 33260291
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q17380118
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

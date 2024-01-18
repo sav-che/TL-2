@@ -8,7 +8,7 @@ tl2_name_abbrev: R.N. Day
 tl2_dates: 1874-1931
 tl2_bhl_page_id: 33259162
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676981
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

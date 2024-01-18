@@ -8,7 +8,7 @@ tl2_name_abbrev: J.B. Clifford
 tl2_dates: 1864-1918
 tl2_bhl_page_id: 33265895
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q70248969
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

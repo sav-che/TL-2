@@ -8,7 +8,7 @@ tl2_name_abbrev: Duyster
 tl2_dates: 1886-x
 tl2_bhl_page_id: 33260213
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682197
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: F.H. Arnold
 tl2_dates: 1831-1906
 tl2_bhl_page_id: 33264893
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q111632193
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Cermenati
 tl2_dates: 1868-1924
 tl2_bhl_page_id: 33265701
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3848435
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

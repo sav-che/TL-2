@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Dicks.
 tl2_dates: 1836-1887
 tl2_bhl_page_id: 33259334
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4718732
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

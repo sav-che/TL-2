@@ -8,7 +8,7 @@ tl2_name_abbrev: Brandts Buys
 tl2_dates: fl. 1928
 tl2_bhl_page_id: 33266325
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676344
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

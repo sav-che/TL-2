@@ -8,7 +8,7 @@ tl2_name_abbrev: V.M. Grubb
 tl2_dates: 1898-1985
 tl2_bhl_page_id: 33258905
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21557445
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

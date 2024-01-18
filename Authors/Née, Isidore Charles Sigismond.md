@@ -8,7 +8,7 @@ tl2_name_abbrev:
 tl2_dates: 1784-1837
 tl2_bhl_page_id: 33355792
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q19596755
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

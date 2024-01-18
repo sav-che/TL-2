@@ -8,7 +8,7 @@ tl2_name_abbrev: Fitting
 tl2_dates: 1877-1970
 tl2_bhl_page_id: 33259731
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q120876
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

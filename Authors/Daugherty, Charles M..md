@@ -8,7 +8,7 @@ tl2_name_abbrev: C.M. Daugherty
 tl2_dates: fl. 1903
 tl2_bhl_page_id: 33259132
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676966
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

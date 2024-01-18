@@ -8,7 +8,7 @@ tl2_name_abbrev: M. Frei
 tl2_dates: 1913-1983
 tl2_bhl_page_id: 33259904
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q117153
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

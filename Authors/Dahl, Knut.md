@@ -8,7 +8,7 @@ tl2_name_abbrev: K. Dahl
 tl2_dates: 1871-?
 tl2_bhl_page_id: 33259054
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q6423869
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

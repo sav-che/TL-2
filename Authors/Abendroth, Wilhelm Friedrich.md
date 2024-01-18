@@ -8,7 +8,7 @@ tl2_name_abbrev: Abendroth
 tl2_dates: 1802-1863
 tl2_bhl_page_id: 33264768
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10393627
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

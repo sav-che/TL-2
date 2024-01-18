@@ -8,7 +8,7 @@ tl2_name_abbrev: Aphonin
 tl2_dates: 1740- post 1777
 tl2_bhl_page_id: 33264863
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123653448
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Branscheidt
 tl2_dates: 1893-x
 tl2_bhl_page_id: 33266328
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q107163420
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

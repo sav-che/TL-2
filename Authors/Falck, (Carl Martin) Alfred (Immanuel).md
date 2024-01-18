@@ -8,7 +8,7 @@ tl2_name_abbrev: A. Falck
 tl2_dates: 1844-1871
 tl2_bhl_page_id: 33259528
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q104766199
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

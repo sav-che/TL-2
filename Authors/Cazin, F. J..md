@@ -8,7 +8,7 @@ tl2_name_abbrev: F.J. Cazin
 tl2_dates: fl. 1850
 tl2_bhl_page_id: 33266785
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q11984844
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

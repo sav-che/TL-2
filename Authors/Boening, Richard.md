@@ -8,7 +8,7 @@ tl2_name_abbrev: Boening
 tl2_dates: 1859-?
 tl2_bhl_page_id: 33265452
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676310
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

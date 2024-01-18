@@ -8,7 +8,7 @@ tl2_name_abbrev: P. Delaunay
 tl2_dates: 1878-x
 tl2_bhl_page_id: 33259219
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3371018
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

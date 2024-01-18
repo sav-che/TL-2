@@ -8,7 +8,7 @@ tl2_name_abbrev: Feucht
 tl2_dates: 1879-1971
 tl2_bhl_page_id: 33259672
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55674512
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

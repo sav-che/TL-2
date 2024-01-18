@@ -8,7 +8,7 @@ tl2_name_abbrev: A.E. Douglass
 tl2_dates: 1867-1962
 tl2_bhl_page_id: 33260056
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q504597
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

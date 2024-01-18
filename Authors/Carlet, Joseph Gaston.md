@@ -8,7 +8,7 @@ tl2_name_abbrev: Carlet
 tl2_dates: 1845-1892
 tl2_bhl_page_id: 33266722
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q47786107
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

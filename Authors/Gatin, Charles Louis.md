@@ -8,7 +8,7 @@ tl2_name_abbrev: Gatin
 tl2_dates: 1877-1916
 tl2_bhl_page_id: 33258621
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q104692557
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

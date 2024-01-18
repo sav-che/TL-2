@@ -8,7 +8,7 @@ tl2_name_abbrev: H. Driesch
 tl2_dates: 1867-1941
 tl2_bhl_page_id: 33260086
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q41476
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

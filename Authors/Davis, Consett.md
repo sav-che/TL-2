@@ -8,7 +8,7 @@ tl2_name_abbrev: Cons. Davis
 tl2_dates: fl. 1936
 tl2_bhl_page_id: 33259151
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21395498
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

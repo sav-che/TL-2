@@ -8,7 +8,7 @@ tl2_name_abbrev: Cl. Duval
 tl2_dates: 1854-1903
 tl2_bhl_page_id: 33260202
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q113171692
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

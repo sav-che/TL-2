@@ -8,7 +8,7 @@ tl2_name_abbrev: Berner
 tl2_dates: fl. 1931
 tl2_bhl_page_id: 33265306
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676250
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

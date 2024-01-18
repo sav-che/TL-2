@@ -8,7 +8,7 @@ tl2_name_abbrev: R.W.S. Cocks
 tl2_dates: 1863-1926
 tl2_bhl_page_id: 33265921
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q75809841
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

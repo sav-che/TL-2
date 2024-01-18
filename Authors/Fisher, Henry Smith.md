@@ -8,7 +8,7 @@ tl2_name_abbrev: H.S. Fisher
 tl2_dates: 1831-1881
 tl2_bhl_page_id: 33259728
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677245
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

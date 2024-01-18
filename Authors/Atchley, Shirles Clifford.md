@@ -8,7 +8,7 @@ tl2_name_abbrev: Atchley
 tl2_dates: c. 1871-1936
 tl2_bhl_page_id: 33264926
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q56163414
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

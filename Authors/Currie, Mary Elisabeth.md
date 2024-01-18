@@ -8,7 +8,7 @@ tl2_name_abbrev: M.E. Currie
 tl2_dates: 1896-x
 tl2_bhl_page_id: 33266190
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676929
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

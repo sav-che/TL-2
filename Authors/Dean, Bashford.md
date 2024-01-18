@@ -8,7 +8,7 @@ tl2_name_abbrev: B. Dean
 tl2_dates: 1867-1928
 tl2_bhl_page_id: 33259166
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q2886761
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Gadd
 tl2_dates: 1727-1797
 tl2_bhl_page_id: 33258564
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3374265
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: L. Cordero
 tl2_dates: 1833-1912
 tl2_bhl_page_id: 33266035
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676899
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

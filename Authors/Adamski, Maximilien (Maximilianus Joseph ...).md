@@ -8,7 +8,7 @@ tl2_name_abbrev: Adamski
 tl2_dates: 1796-1841
 tl2_bhl_page_id: 33264751
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10327803
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

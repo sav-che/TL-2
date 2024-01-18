@@ -8,7 +8,7 @@ tl2_name_abbrev: Ém. Favre
 tl2_dates: 1843-1905
 tl2_bhl_page_id: 33259575
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123682305
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

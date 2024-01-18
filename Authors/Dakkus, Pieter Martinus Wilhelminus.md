@@ -8,7 +8,7 @@ tl2_name_abbrev: Dakkus
 tl2_dates: 1892-1958
 tl2_bhl_page_id: 33259068
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676947
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

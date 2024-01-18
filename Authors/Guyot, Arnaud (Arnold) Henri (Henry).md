@@ -8,7 +8,7 @@ tl2_name_abbrev: A.H. Guyot
 tl2_dates: 1807-1884
 tl2_bhl_page_id: 33258947
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q124032
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: W.A. Cannon
 tl2_dates: 1870-1958
 tl2_bhl_page_id: 33266698
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q18910721
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

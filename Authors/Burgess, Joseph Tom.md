@@ -8,7 +8,7 @@ tl2_name_abbrev: J.T. Burgess
 tl2_dates: 1828-1886
 tl2_bhl_page_id: 33266547
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q17308853
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

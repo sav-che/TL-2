@@ -8,7 +8,7 @@ tl2_name_abbrev: Brunotte
 tl2_dates: 1860-1910
 tl2_bhl_page_id: 33266472
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q109810045
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

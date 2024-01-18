@@ -8,7 +8,7 @@ tl2_name_abbrev: E. Filhol
 tl2_dates: 1814-1883
 tl2_bhl_page_id: 33259687
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3579833
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

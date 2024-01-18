@@ -8,7 +8,7 @@ tl2_name_abbrev: Godfrin
 tl2_dates: 1850-1913
 tl2_bhl_page_id: 33258731
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q94923795
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

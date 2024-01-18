@@ -8,7 +8,7 @@ tl2_name_abbrev: J. Bachman
 tl2_dates: 1790-1874
 tl2_bhl_page_id: 33264959
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q130345
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

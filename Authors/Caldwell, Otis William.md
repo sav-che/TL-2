@@ -8,7 +8,7 @@ tl2_name_abbrev: O.W. Caldwell
 tl2_dates: 1869-1947
 tl2_bhl_page_id: 33266617
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q7108765
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

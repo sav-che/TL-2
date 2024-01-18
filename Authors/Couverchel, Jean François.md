@@ -8,7 +8,7 @@ tl2_name_abbrev: Couverchel
 tl2_dates: fl. 1820-1839
 tl2_bhl_page_id: 33266106
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q20111322
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: Bidermann
 tl2_dates: fl. 1874
 tl2_bhl_page_id: 33265355
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676263
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

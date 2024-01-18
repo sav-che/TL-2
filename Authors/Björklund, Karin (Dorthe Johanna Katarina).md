@@ -8,7 +8,7 @@ tl2_name_abbrev: K. Björklund
 tl2_dates: 1908-x
 tl2_bhl_page_id: 33265381
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676278
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

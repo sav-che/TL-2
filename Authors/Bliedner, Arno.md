@@ -8,7 +8,7 @@ tl2_name_abbrev: Bliedner
 tl2_dates: fl. 1890-1926
 tl2_bhl_page_id: 33265411
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676293
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

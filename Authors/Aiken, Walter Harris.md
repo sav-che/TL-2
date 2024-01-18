@@ -8,7 +8,7 @@ tl2_name_abbrev: Aiken
 tl2_dates: 1856-1935
 tl2_bhl_page_id: 33264741
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q10393080
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

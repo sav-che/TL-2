@@ -8,7 +8,7 @@ tl2_name_abbrev: R.F. Allen
 tl2_dates: 1879-1963
 tl2_bhl_page_id: 33264800
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q4815110
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

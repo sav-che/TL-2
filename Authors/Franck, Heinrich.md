@@ -8,7 +8,7 @@ tl2_name_abbrev: Franck
 tl2_dates: 1855-x
 tl2_bhl_page_id: 33259888
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677264
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

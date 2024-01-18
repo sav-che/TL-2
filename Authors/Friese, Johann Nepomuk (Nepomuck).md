@@ -8,7 +8,7 @@ tl2_name_abbrev: J.N. Friese
 tl2_dates: 1792-1866
 tl2_bhl_page_id: 33258479
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q55673989
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

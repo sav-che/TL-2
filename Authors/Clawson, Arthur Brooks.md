@@ -8,7 +8,7 @@ tl2_name_abbrev: Clawson
 tl2_dates: 1878-1937
 tl2_bhl_page_id: 33265876
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q46045720
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: K.B. Blackburn
 tl2_dates: c. 1892-1968
 tl2_bhl_page_id: 33265385
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q15994302
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

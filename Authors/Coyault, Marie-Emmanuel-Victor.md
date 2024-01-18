@@ -8,7 +8,7 @@ tl2_name_abbrev: Coyault
 tl2_dates: 1871-x
 tl2_bhl_page_id: 33266116
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676915
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

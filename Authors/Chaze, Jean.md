@@ -8,7 +8,7 @@ tl2_name_abbrev: Chaze
 tl2_dates: 1895-?
 tl2_bhl_page_id: 33265747
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676469
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

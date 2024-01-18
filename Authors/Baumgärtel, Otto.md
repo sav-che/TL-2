@@ -8,7 +8,7 @@ tl2_name_abbrev: Baumgärtel
 tl2_dates: x-1919
 tl2_bhl_page_id: 33265115
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676220
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

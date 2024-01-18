@@ -8,7 +8,7 @@ tl2_name_abbrev: Desnoix
 tl2_dates: fl. 1853
 tl2_bhl_page_id: 33259276
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123677030
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

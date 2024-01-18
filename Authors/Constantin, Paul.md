@@ -8,7 +8,7 @@ tl2_name_abbrev: P. Constantin
 tl2_dates: fl. 1895-1901
 tl2_bhl_page_id: 33265985
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q95614656
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

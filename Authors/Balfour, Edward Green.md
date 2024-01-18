@@ -8,7 +8,7 @@ tl2_name_abbrev: E.G. Balf.
 tl2_dates: 1813-1889
 tl2_bhl_page_id: 33265022
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q5341724
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

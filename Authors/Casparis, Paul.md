@@ -8,7 +8,7 @@ tl2_name_abbrev: Casparis
 tl2_dates: 1889-x
 tl2_bhl_page_id: 33266754
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q62079697
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

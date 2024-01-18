@@ -8,7 +8,7 @@ tl2_name_abbrev: H.R. Darl.
 tl2_dates: c. 1863-1946
 tl2_bhl_page_id: 33259118
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676962
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

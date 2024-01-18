@@ -8,7 +8,7 @@ tl2_name_abbrev: Caius
 tl2_dates: 1877-?
 tl2_bhl_page_id: 33266609
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123676407
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

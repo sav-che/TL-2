@@ -8,7 +8,7 @@ tl2_name_abbrev: Compter
 tl2_dates: 1831-1922
 tl2_bhl_page_id: 33265967
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q1555722
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

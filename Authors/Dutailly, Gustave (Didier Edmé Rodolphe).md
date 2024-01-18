@@ -8,7 +8,7 @@ tl2_name_abbrev: Dutailly
 tl2_dates: 1846-1906
 tl2_bhl_page_id: 33260193
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q3121176
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

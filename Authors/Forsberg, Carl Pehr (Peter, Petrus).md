@@ -8,7 +8,7 @@ tl2_name_abbrev: Forsberg
 tl2_dates: 1793-1832
 tl2_bhl_page_id: 33259825
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q21389636
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

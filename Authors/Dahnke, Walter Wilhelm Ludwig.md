@@ -8,7 +8,7 @@ tl2_name_abbrev: Dahnke
 tl2_dates: 1890-1972
 tl2_bhl_page_id: 33259067
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q123681960
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

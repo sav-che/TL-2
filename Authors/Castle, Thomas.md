@@ -8,7 +8,7 @@ tl2_name_abbrev: Th. Castle
 tl2_dates: c. 1804-c. 1840
 tl2_bhl_page_id: 33266766
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q16986296
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 

@@ -8,7 +8,7 @@ tl2_name_abbrev: V.M. Conway
 tl2_dates: fl. 1934-1937
 tl2_bhl_page_id: 33265988
 author_lsid: 
-wikidata_id: 
+wikidata_id: Q79961343
 ipni_surname: 
 ipni_forenames: 
 ipni_standard_form: 
