@@ -21,6 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33258949) of TL-2 Suppl. VIII
+> Author links: [Wikidata](https://www.wikidata.org/wiki/Q4814993) QID Q4814993
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Fraser, Helen Charlotte Isabella (Suppl.)|second entry]] for this author

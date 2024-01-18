@@ -21,6 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I
+> Author links: [Wikidata](https://www.wikidata.org/wiki/Q123676222) QID Q123676222
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 ### Author

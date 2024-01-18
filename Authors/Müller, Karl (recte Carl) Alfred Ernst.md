@@ -8,14 +8,14 @@ tl2_name_abbrev: K.A.E. Müll.
 tl2_dates: 1855-1907
 tl2_bhl_page_id: 33355730
 author_lsid: 6744-1
-wikidata_id: Q2938862
+wikidata_id: 
 ipni_surname: Müller
 ipni_forenames: Karl Alfred Ernst
 ipni_standard_form: K.A.E.Müll.
 ipni_dates: 1855-1907
-ipni_taxon_scope:
-  - Botany
-  - Spermatophytes
+ipni_taxon_scope: 
+- Botany
+- Spermatophytes
 ipni_geo_scope: 
 ipni_version: 1.1
 ipni_record_created: 2003-07-02 00:00:00.0

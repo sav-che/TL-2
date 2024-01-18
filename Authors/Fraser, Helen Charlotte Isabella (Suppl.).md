@@ -21,6 +21,7 @@ ipni_record_modified:
 ---
 
 > [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33259894) of TL-2 Suppl. VII
+> Author links: [Wikidata](https://www.wikidata.org/wiki/Q4814993) QID Q4814993
 > Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]], [[Cite TL-2|cite TL-2]]
 
 > [!example] See also [[Gwynne-Vaughan, Helen Charlotte I. (née Fraser)|first entry]] for this author
