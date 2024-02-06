@@ -38,5 +38,5 @@ Jelinek, Anton (Antonin) (*fl*. 1857-1859), Austrian naturalist on the Novara ex
 #### Bibliography and biography
 
 BM 2: 930; CSP 16: 94; IH 2: 315; LS suppl. 13009-13013; Maiwald p. 204; Rehder 5: 432; SK 1: 261-262; Urban-Berl. p. 261, 265, 277, 288, 303, 360.
-- Anon., ?sterr. bot. Z. 10: 83. 1860.
+- Anon., Österr. bot. Z. 10: 83. 1860.
 
