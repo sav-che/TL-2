@@ -460,7 +460,7 @@ editor.rereplace('(?<!^code\t)(\[|\])(?!\()', replacement)
 # Fix multi-" 
 editor.rereplace('\"+', '\"')
 
-# Remove empty fields or those contining "0"
+# Remove empty fields or those containing "0"
 editor.rereplace('^.+?\t0?\r\n', '')
 
 # Remove not needed fields
