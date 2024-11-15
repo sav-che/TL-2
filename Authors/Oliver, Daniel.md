@@ -62,19 +62,19 @@ Backer p. 407; Barnhart 3: 27; BB p. 233; BJI 1: 43; BL 1: 21, 27, 63, 100, 244,
 
 #### Composite works
 
-- (1) Editor of Hooker's*Icones plantarum plates 1926-2425*, vols. 20(2)-25(1), 1890-1895.
-- (2) *Flora of Somali-land, in*F. L. James, The unknown horn of Africa p. 317-324, London 1888 (see Roth, E., Bot. Jahrb. 11 (Lit.): 29. 2 Apr 1889).
-- (3) Co-editor, *The natural History Review*\[second series\], vols. 1-5, 1861-1865.
-- (4) *Editor*and in part author of *Flora of tropical Africa*, vols. 1-3, 1868-1877; see below under no. 7055.
+- (1) Editor of Hooker's *Icones plantarum plates 1926-2425*, vols. 20(2)-25(1), 1890-1895.
+- (2) *Flora of Somali-land, in* F. L. James, The unknown horn of Africa p. 317-324, London 1888 (see Roth, E., Bot. Jahrb. 11 (Lit.): 29. 2 Apr 1889).
+- (3) Co-editor, *The natural History Review* \[second series\], vols. 1-5, 1861-1865.
+- (4) *Editor* and in part author of *Flora of tropical Africa*, vols. 1-3, 1868-1877; see below under no. 7055.
 
 #### Note
 
-Oliver was the author of the generic name *Actinotinus*which was the *pièce de résistance*of one of the few colorful entries in the pre-Leningrad Code, namely the former article 70: "A name is to be rejected if it is based on a type consisting of two or more entirely discordant elements,..." Oliver identified several of A. Henry's plants from China and described them in the *Icones plantarum*. One specimen had "leaves like those of an *Aesculus*and terminal clusters of flowers of the ordinary *Viburnum*structure" (Hemsley 1917). Oliver described the plant as a new genus *Actinotinus*. Somewhat later a similar specimen consisting of "discordant elements" was found in the same collection and Oliver, Hemsley and Brown discovered a fraud. In Hemsley's words of 1917 "it flashed accross Oliver's brain that John Chinaman had deceived him..." and it was found that "the inflorescence of a Viburnum \[had\] been inserted into the terminal bud of an *Aesculus*by a native Chinese collector" (Int. Rules, but Nom. ed. 3, 1935, Art. 64). Hemsley in relating this story adds "but I do know that the same Chinaman tried the same trick with Mr. E. H. Wilson, was detected and mulcted of three weeks' wages." Colonial mentality in a terminal bud.
+Oliver was the author of the generic name *Actinotinus* which was the *pièce de résistance* of one of the few colorful entries in the pre-Leningrad Code, namely the former article 70: "A name is to be rejected if it is based on a type consisting of two or more entirely discordant elements,..." Oliver identified several of A. Henry's plants from China and described them in the *Icones plantarum*. One specimen had "leaves like those of an *Aesculus* and terminal clusters of flowers of the ordinary *Viburnum* structure" (Hemsley 1917). Oliver described the plant as a new genus *Actinotinus*. Somewhat later a similar specimen consisting of "discordant elements" was found in the same collection and Oliver, Hemsley and Brown discovered a fraud. In Hemsley's words of 1917 "it flashed accross Oliver's brain that John Chinaman had deceived him..." and it was found that "the inflorescence of a Viburnum \[had\] been inserted into the terminal bud of an *Aesculus* by a native Chinese collector" (Int. Rules, but Nom. ed. 3, 1935, Art. 64). Hemsley in relating this story adds "but I do know that the same Chinaman tried the same trick with Mr. E. H. Wilson, was detected and mulcted of three weeks' wages." Colonial mentality in a terminal bud.
 When presented with the Linnean Society's Gold Medal in 1893, Oliver, "in a characteristically modest reply... deprecated the honour..." because he was "almost absolutely destitute of the great hankering after research which characterized modern science" (Britten 1917) (See Oliver 1894 for correct wording).
 
 #### Eponymy
 
-*Oliverella*Van Tieghem (1895); *Oliveriana*H. G. Reichenbach (1876); *Oliverodoxa *O. Kuntze (1891). Note: *Oliveranthus*J. N. Rose (1905) and *Oliverella*J.N. Rose (1903) were named for George W. Oliver (1857-1923) a horticulturist with the National Botanical Garden in Washington, D. C. and the United States Department of Agriculture.
+*Oliverella* Van Tieghem (1895); *Oliveriana* H. G. Reichenbach (1876); *Oliverodoxa* O. Kuntze (1891). Note: *Oliveranthus* J. N. Rose (1905) and *Oliverella* J.N. Rose (1903) were named for George W. Oliver (1857-1923) a horticulturist with the National Botanical Garden in Washington, D. C. and the United States Department of Agriculture.
 
 ### Publications
 

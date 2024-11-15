@@ -97,131 +97,131 @@ AWH|Antwerpen: Natuurwetenschappelijk Museum (Dr. H. van Heurck), Gerard le Grel
 
  | 
 ---|---
-*b*.|born.
-B|Berlin: Botanischer Garten und Botanisches Museum Berlin- Dahlem, Königin-Luise Strasse 6-8, D-1 33 (Dahlem), Federal Republic of Germany, BRD. Many collections destroyed by fire in 1943.
-BA|Buenos Aires: Museo Argentino de Ciencias Naturales 'Bernadino Rivadavia' e Instituto Nacional de Investigaciones de las Ciencias Naturales, Avda. Angel Gallardo 470, Casilla de Correo 10-Sucursal 5, Buenos Aires, Argentina.
-Bacc. en droit|Baccalauréat en droit.
-Bacc. en médecine|Baccalauréat en médecine.
-Bacc. litt.|Baccalauréat littéraire.
-Bacc. ès-lettres|Baccalauréat ès-lettres.
-Backer|Backer, C, A., *Verklarend woordenboek* der wetenschappelijke namen van de in Nederland en Nederlandsch-Indie in het wild groeiende en in tuinen en parken gekweekte varens en hoogere planten. Groningen, Batavia 1936. See TL-2/227.
-BAF|Buenos Aires: Museo de Botánica y Farmacologia 'Juan A. Dominguez', Junin 956, Buenos Aires, Argentina.
-B.Agr.Sc.|Bachelor of Agricultural Science.
-Baillon|Baillon, H. *Dictionnaire de botanique*, Paris, 4 vols., incl. suppl., 1876-1892.
-Barneby|Private library of R. Barneby, New York Botanical Garden, Bronx, N.Y., U.S.A.
-Barnhart|Barnhart, John Hendley, *Biographical notes upon botanists*. Boston, volumes 1-3, 1965.
-BAS|Basel: Herbarium, Botanisches Institut der Universität Basel, Basel, Switzerland.
-BASSA|Bassano del Grappa: Herbarium of the Museum, Museo, Biblio teca, Archivio-Bassano del Grappa, (Vicenza), Italy.
-BAY|Bayonne: Muséum d'Histoire Naturelle de Bayonne, Rue Jacques Lafitte, 7, Bayonne (Bas-Pyr.), France.
-BB|Britten, James and George S. Boulger, *A biographical index of deceased British and Irish botanists*. Second edition, revised and completed by A.B. Rendle, London 1931.
-B.B.C.|British Broadcasting Corporation.
-BBC|*Beihefte Botanisches Zentralblatt*.
-BC|Barcelona: Instituto Botánico de Barcelona, Av. de Muntanyans, Parque de Montjuic, Barcelona 4, Spain.
-Beck|Beck, Christian Daniel (1757-1832), *Allgemeines Repertorium der neuesten in- und ausländischen Litteratur*. Leipzig, Wien, volumes 1-14, 1819-1833.
-Beds.|Bedfordshire.
-Beibl.|Beiblatt, Beiblätter.
-Beih.|Beihefte.
-Beitr.|Beitrag, Beitrage.
-BEL|Belfast: Ulster Museum, Botanic Gardens, Belfast 9, Northern Ireland.
-Ber.|Bericht, Berichte.
-BERN|Bern: Botanisches Institut und Garten der Universität, Altenbergrain 21, CH-3013 Bern, Switzerland.
-BET|Belfast: The Herbarium, Department of Botany, The Queen's University, Belfast, Northern Ireland, Great Britain.
-BF|*Bibliographie de la France*, volumes i-x, 1813-x. \[Title varies; first volume: *Bibliographie de l’Empire français ou Journal de l’Imprimerie et de la librairie*\]. Important source for dating French publications. The weekly issues contain lists of new books, pamflets and of instalments of serial publications. The date on which BF lists a book published in Paris can usually be taken as that of actual publication.
-BFM|Hamann, U. und G. Wagenitz, *Bibliographie zur Flora von Mitteleuropa*, München 1970, 328 p.
-B.Fr.|*see* BF.
-BG|Bergen: Universitétets Botaniske Museum, Postboks 12, N-5014 Bergen, Norway.
-B-G|Bibliothek Deutsche Gartenbau-Gesellschaft, Technische Universität, Berlin (W).
-BGa|*Botanical Gazette*. Crawfordsville, Indiana, vols, i-x, 1875-x.
-BH|(as a herbarium abbreviation) Ithaca: L.H. Bailey Hortorium, Mann Library Building, Cornell University, Ithaca, New York 14850, U.S.A.
-BH|*Bibliographia Huntiana*, documentation on botanical publications 1730-1840 at the Hunt Institute of Botanical Documentation, Carnegie-Mellon University, Pittsburgh, Pa., U.S.A.
-Bibl.|Bibliography, bibliographie; sometimes also bibliotheca.
-Bibl. Fr.|*see* BF.
-Bibl. nat.|Copy at Bibliothèque nationale, Paris, France.
-Bibliothèque Grandidier|Antananarivo: Fonds Grandidier, Centre de documentation du Pare Botanique et Zoologique de Tsimbazaza, Antananarivo, Madagascar.
-Bih.|Bihang.
-Bijdr.|Bijdrage(n).
-bind.|binder; usually referring to a sheet carrying binder's instructions.
-Biogr.|Biography, biographical.
-Biohist. Inst.|Library of the Institute for the history of biology (formerly: Biohistorical Institute) of the University of Utrecht, the Netherlands.
-Biol.|Biological, biologique, biologisch.
-Biol.-Dokum.|Biologic Dokumentation der deutschen biologischen Zeitschriftenliteratur 1796-1965.
-BIRA|Birmingham: City Museum and Art Gallery, Birmingham B3 3DH, Great Britain.
-BIRM|Birmingham: Department of Botany, The University, Edgbaston, Birmingham, Great Britain.
-BISH|Honolulu: Dept. of Botany, Bernice P. Bishop Museum, P.O. Box 6037, Honolulu, Hawaii 96818, U.S.A.
-BJI 1|Diels, F.L.E. & Mildbraed, G.W.J., *Generalregister der Bot. Jahrb*. 1(1-30). 1904.
-BJI 2|Schuster, C. & Schweiz, W., *Generalregister Bot. Jahrb*. 2(31-56). 1938.
-BKL|Brooklyn: Brooklyn Botanic Garden, 1000 Washington Avenue, Brooklyn, New York 11225, U.S.A.
-BL|Blake, S.F. - *Geographical guide to Floras of the world*. Part 1 (with A.C. Atwood), Washington 1942 (USDA, Misc. publ. no. 401); Part 2, Washington 1961 (USDA, Misc. publ. no. 797).
-BLAT|Bombay: Blatter Herbarium, St. Xavier's College, Bombay 400 001, India.
-BLH|Bloomfield Hills: Billington Herbarium, Cranbrook Institute of Science, 500 Lone Pine Road, Bloomfield Hills, Michigan 48013, U.S.A.
-Blunt|Blunt: W., *The art of botanical illustration*. London 1950.
-Blätt.|Blätter.
-BM|(as a bibliographical reference) *Catalogue of the books, manuscripts, maps and drawings in the British Museum* (*Natural History*), 8 volumes, London 1903-1940. Facsimile edition, Weinheim 1964.
-BM|(when referring to herbaria) London: The Herbarium and Library of the Department of Botany, British Museum (Natural History) London, Great Britain. Also used to designate the presence of a book, manuscript or plates in the libraries of the British Museum (Natural History), e.g. after '*Copies*'.
-BM-Bloomsbury|British Museum, Bloomsbury, London.
-BMNH|British Museum (Natural History) London (as a general reference, e.g. to its library).
-BN|*Generalregister till Botaniska Notiser för Åren 1839-1938*, Lund 1939.
-BO|Bogor: Herbarium Bogoriense, Lembaga Biologi Nasional, Bogor, Indonesia.
-Boktr.|Boktryckare (printer).
-BOL|Cape Town: Bolus Herbarium, University of Gape Town, Rondebosch 7700, Cape Town, South Africa.
-Bol.|Boletim, Boletin.
-Boll.|Bollettino.
-BOLO|Bologna: Istituto Botanico dell' Università, Via Irnerio 42, Bologna Italy.
-BONN|Bonn: Botanisches Institut der Universität Bonn, Abt. für Morphologie und Systematik, Meckenheimer Allee 170, D-53 Bonn, Federal Republic of Germany, BRD.
-Bonplandia|*Bonplandia*. Zeitschrift für die gesammte Botanik. Hannover, Germany, vols. 1-10, 1853-1862.
-BORD|Bordeaux: Jardin Botanique de la ville de Bordeaux, Terrasse du Jardin public, 33.000 Bordeaux, France.
-Bossert|*Biographical dictionary ofbotanists represented in the Hunt Institute portrait collection*, Boston, Mass. 1972, 451 p. (compiled by Theodore W. Bossert).
-Bot.|Botany, botanical, botanique, botanische, etc.
-Bot. Not.|*Botaniska Notiser*. Lund 1839-x. (with brief interruptions).
-Bot. Zeit.|*Botanische Zeitung*, Berlin (later: Leipzig), vols. 1-50, 1843-1892. Index to vols. 1-50: R. Aderhold, General-Register der ersten fünfzig Jahrgänger der Botanischen Zeitung. Leipzig 1895.
-BP|Budapest: Museum of Natural History, Department of Botany, Vajdahunyadvára, Budapest XIV, Hungary.
-B-P-H|Botanico-Periodicum-Huntianum, George H.M. Lawrence, A.F. Giinther Buchheim, Gilbert S. Daniels, Helmut Dolezal, editors. Hunt Botanical Library, Pittsburgh, Pa. 1968.
-B-P-H/S|Bridson, G.D.R. and E.R. Smith (eds.). *Botanico-Periodicum-Huntianum/Supplementum*, Pittsburgh 1991.
-BPI|Beltsville: National Fungus Collections, Agricultural Research Center-West, Beltsville, Maryland 02705, U.S.A.
-BPU|Budapest: Institute of Plant Taxonomy and Ecology of the Eötvös L. University, 1088 Muzeum körut 4A, Budapest, Hungary.
-BR|Bruxelles: Jardin botanique national de Belgique, Domaine de Bouchout, B 1860 Meise, Belgium.
-BRA|Bratislava: Slovenské národné múzeum, Vajanského 2, Bratislava, Czechoslovakia.
-Braz.|Brazilian.
-BREM|Bremen: Übersee-Museum, Bahnhofsplatz 13, Bremen, Federal Republic of Germany, BRD.
-Bret.|*see* Bretschneider.
-Bretschneider|Bretschneider, E., *History of European botanical discoveries*, 2 vols., St. Petersburg 1898, reprint Leipzig 1962, *see* no. 748.
-BRI|Brisbane: Queensland Herbarium, Meiers Road, Indooroopilly, Queensland 4068, Australia (formerly: Botanic Museum and Herbarium, Botanic Gardens).
-Briquet|Briquet,John, Biographies des botanistes à Genève de 1500 à 1931. *Bulletin de la Société Botanique Suisse*, 50a: 1-494. Jan 1940.
-BRIST|Bristol: Department of Botany, The University, Bristol BS8 1 UG, Great Britain.
-BRISTM|Bristol: The City Museum, Bristol, Great Britain.
-Brit.|British.
-BRL|Bristol: City Library, Bristol, Great Britain.
-BRLU|Bruxelles: Laboratoire de Botanique, systématique et d'écologie, 28 Avenue Paul Heger, 1050 Bruxelles, Belgium.
-BRNM|Brno: Botanical Department of the Moravian Museum, Preslova 1, 60200 Brno, Czechoslovakia.
-BRNO|*see* BRNU.
-BRNU|Brno: Institute of Plant Biology and Herbarium, University of J.E. Purkyné, 2 Kotlárská, 611 37 Brno, Czechoslovakia.
-Broadsheet|Book made up of leaves which are unfolded complete sheets.
-BRSL|*see* WRSL.
-BRU|Providence: Brown University Herbarium, Rogers Hall, Brown University, Providence, Rhode Island 02912, U.S.A.
-Brum.|Brumaire, 22 or 23 Oct-20 or 21 Nov (French revolutionary calendar).
-BRY|Provo: Herbarium, Brigham Young University, Rm. 113 B-49, Provo, Utah 84601, U.S.A.
-bryoph.|bryophyta, bryophytes.
-B.S.|Bachelor of Science.
-B-S|Staatsbibliothek Preussischer Kulturbesitz, Berlin.
-B.S.A.|Botanical Society of America.
-BSbF|*Bulletin de la Société botanique de France*, vols, 1-x, 1854-x.
-BSBF|*Bulletin de la Société botanique de France*. Paris, vol. 1-x, 1854-x.
-B.Sc.|Bachelor of Science.
-B.Sci.|Bachelor of Science.
-BSGF|*Bulletin de la Société géologique de France*, Paris, vol. i-x, 1830-x.
-BSN|Boston: Biological Science Center, Boston University, 2 Cummington Street, Boston, U.S.A.
-BTC|*Bulletin of the Torrey botanical Club*. Lancaster, Pa., 1-x, 1870-x. Index: to volumes 1-75 (1870-1948), by Harold William Rickett. Lancaster, Pa. 1955.
-B-TU|Bibliothek Technische Universität Berlin (W).
-BUC|Bucuresti: Institutatea din Bucuresti, Grădina botanică, Cotroceni 32, Bucuresti 15, Roumania.
-BUCA|Bucuresti: Institutul de Biologic "Tr. Savulescu" al Academici R.P.R., Spl. Independentei 296, București 17, Roumania.
-Buck|Private library of William R. Buck, Bronx, New York, U.S.A.
-Bucks.|Buckinghamshire Co., England.
-BUF|Buffalo: The Clinton Herbarium, Buffalo Museum of Science, Humboldt Park, Buffalo, New York 14211, U.S.A.
-BUL|Bulawayo: National Museum of Rhodesia, 8th Avenue, Bulawayo, Rhodesia.
-Bull.|Bulletin.
-BUT|Indianapolis: Friesner Herbarium, Butler University, Indianapolis, Indiana 46208, U.S.A.
-B.W|Berlin: Herbarium Willdenow - *see* B.
-BZF|Bogor: Lembaga Pusat Penjelidikan Kehutanan (Forest Research Institute), Bogor, Indonesia.
+ *b*.                    |born.
+ B                       |Berlin: Botanischer Garten und Botanisches Museum Berlin- Dahlem, Königin-Luise Strasse 6-8, D-1 33 (Dahlem), Federal Republic of Germany, BRD. Many collections destroyed by fire in 1943.
+ BA                      |Buenos Aires: Museo Argentino de Ciencias Naturales 'Bernadino Rivadavia' e Instituto Nacional de Investigaciones de las Ciencias Naturales, Avda. Angel Gallardo 470, Casilla de Correo 10-Sucursal 5, Buenos Aires, Argentina.
+ Bacc. en droit          |Baccalauréat en droit.
+ Bacc. en médecine       |Baccalauréat en médecine.
+ Bacc. litt.             |Baccalauréat littéraire.
+ Bacc. ès-lettres        |Baccalauréat ès-lettres.
+ Backer                  |Backer, C, A., *Verklarend woordenboek* der wetenschappelijke namen van de in Nederland en Nederlandsch-Indie in het wild groeiende en in tuinen en parken gekweekte varens en hoogere planten. Groningen, Batavia 1936. See TL-2/227.
+ BAF                     |Buenos Aires: Museo de Botánica y Farmacologia 'Juan A. Dominguez', Junin 956, Buenos Aires, Argentina.
+ B.Agr.Sc.               |Bachelor of Agricultural Science.
+ Baillon                 |Baillon, H. *Dictionnaire de botanique*, Paris, 4 vols., incl. suppl., 1876-1892.
+ Barneby                 |Private library of R. Barneby, New York Botanical Garden, Bronx, N.Y., U.S.A.
+ Barnhart                |Barnhart, John Hendley, *Biographical notes upon botanists*. Boston, volumes 1-3, 1965.
+ BAS                     |Basel: Herbarium, Botanisches Institut der Universität Basel, Basel, Switzerland.
+ BASSA                   |Bassano del Grappa: Herbarium of the Museum, Museo, Biblio teca, Archivio-Bassano del Grappa, (Vicenza), Italy.
+ BAY                     |Bayonne: Muséum d'Histoire Naturelle de Bayonne, Rue Jacques Lafitte, 7, Bayonne (Bas-Pyr.), France.
+ BB                      |Britten, James and George S. Boulger, *A biographical index of deceased British and Irish botanists*. Second edition, revised and completed by A.B. Rendle, London 1931.
+ B.B.C.                  |British Broadcasting Corporation.
+ BBC                     |*Beihefte Botanisches Zentralblatt*.
+ BC                      |Barcelona: Instituto Botánico de Barcelona, Av. de Muntanyans, Parque de Montjuic, Barcelona 4, Spain.
+ Beck                    |Beck, Christian Daniel (1757-1832), *Allgemeines Repertorium der neuesten in- und ausländischen Litteratur*. Leipzig, Wien, volumes 1-14, 1819-1833.
+ Beds.                   |Bedfordshire.
+ Beibl.                  |Beiblatt, Beiblätter.
+ Beih.                   |Beihefte.
+ Beitr.                  |Beitrag, Beitrage.
+ BEL                     |Belfast: Ulster Museum, Botanic Gardens, Belfast 9, Northern Ireland.
+ Ber.                    |Bericht, Berichte.
+ BERN                    |Bern: Botanisches Institut und Garten der Universität, Altenbergrain 21, CH-3013 Bern, Switzerland.
+ BET                     |Belfast: The Herbarium, Department of Botany, The Queen's University, Belfast, Northern Ireland, Great Britain.
+ BF                      |*Bibliographie de la France*, volumes i-x, 1813-x. \[Title varies; first volume: *Bibliographie de l’Empire français ou Journal de l’Imprimerie et de la librairie*\]. Important source for dating French publications. The weekly issues contain lists of new books, pamflets and of instalments of serial publications. The date on which BF lists a book published in Paris can usually be taken as that of actual publication.
+ BFM                     |Hamann, U. und G. Wagenitz, *Bibliographie zur Flora von Mitteleuropa*, München 1970, 328 p.
+ B.Fr.                   |*see* BF.
+ BG                      |Bergen: Universitétets Botaniske Museum, Postboks 12, N-5014 Bergen, Norway.
+ B-G                     |Bibliothek Deutsche Gartenbau-Gesellschaft, Technische Universität, Berlin (W).
+ BGa                     |*Botanical Gazette*. Crawfordsville, Indiana, vols, i-x, 1875-x.
+ BH                      |(as a herbarium abbreviation) Ithaca: L.H. Bailey Hortorium, Mann Library Building, Cornell University, Ithaca, New York 14850, U.S.A.
+ BH                      |*Bibliographia Huntiana*, documentation on botanical publications 1730-1840 at the Hunt Institute of Botanical Documentation, Carnegie-Mellon University, Pittsburgh, Pa., U.S.A.
+ Bibl.                   |Bibliography, bibliographie; sometimes also bibliotheca.
+ Bibl. Fr.               |*see* BF.
+ Bibl. nat.              |Copy at Bibliothèque nationale, Paris, France.
+ Bibliothèque Grandidier |Antananarivo: Fonds Grandidier, Centre de documentation du Pare Botanique et Zoologique de Tsimbazaza, Antananarivo, Madagascar.
+ Bih.                    |Bihang.
+ Bijdr.                  |Bijdrage(n).
+ bind.                   |binder; usually referring to a sheet carrying binder's instructions.
+ Biogr.                  |Biography, biographical.
+ Biohist. Inst.          |Library of the Institute for the history of biology (formerly: Biohistorical Institute) of the University of Utrecht, the Netherlands.
+ Biol.                   |Biological, biologique, biologisch.
+ Biol.-Dokum.            |Biologic Dokumentation der deutschen biologischen Zeitschriftenliteratur 1796-1965.
+ BIRA                    |Birmingham: City Museum and Art Gallery, Birmingham B3 3DH, Great Britain.
+ BIRM                    |Birmingham: Department of Botany, The University, Edgbaston, Birmingham, Great Britain.
+ BISH                    |Honolulu: Dept. of Botany, Bernice P. Bishop Museum, P.O. Box 6037, Honolulu, Hawaii 96818, U.S.A.
+ BJI 1                   |Diels, F.L.E. & Mildbraed, G.W.J., *Generalregister der Bot. Jahrb*. 1(1-30). 1904.
+ BJI 2                   |Schuster, C. & Schweiz, W., *Generalregister Bot. Jahrb*. 2(31-56). 1938.
+ BKL                     |Brooklyn: Brooklyn Botanic Garden, 1000 Washington Avenue, Brooklyn, New York 11225, U.S.A.
+ BL                      |Blake, S.F. - *Geographical guide to Floras of the world*. Part 1 (with A.C. Atwood), Washington 1942 (USDA, Misc. publ. no. 401); Part 2, Washington 1961 (USDA, Misc. publ. no. 797).
+ BLAT                    |Bombay: Blatter Herbarium, St. Xavier's College, Bombay 400 001, India.
+ BLH                     |Bloomfield Hills: Billington Herbarium, Cranbrook Institute of Science, 500 Lone Pine Road, Bloomfield Hills, Michigan 48013, U.S.A.
+ Blunt                   |Blunt: W., *The art of botanical illustration*. London 1950.
+ Blätt.                  |Blätter.
+ BM                      |(as a bibliographical reference) *Catalogue of the books, manuscripts, maps and drawings in the British Museum* (*Natural History*), 8 volumes, London 1903-1940. Facsimile edition, Weinheim 1964.
+ BM                      |(when referring to herbaria) London: The Herbarium and Library of the Department of Botany, British Museum (Natural History) London, Great Britain. Also used to designate the presence of a book, manuscript or plates in the libraries of the British Museum (Natural History), e.g. after '*Copies*'.
+ BM-Bloomsbury           |British Museum, Bloomsbury, London.
+ BMNH                    |British Museum (Natural History) London (as a general reference, e.g. to its library).
+ BN                      |*Generalregister till Botaniska Notiser för Åren 1839-1938*, Lund 1939.
+ BO                      |Bogor: Herbarium Bogoriense, Lembaga Biologi Nasional, Bogor, Indonesia.
+ Boktr.                  |Boktryckare (printer).
+ BOL                     |Cape Town: Bolus Herbarium, University of Gape Town, Rondebosch 7700, Cape Town, South Africa.
+ Bol.                    |Boletim, Boletin.
+ Boll.                   |Bollettino.
+ BOLO                    |Bologna: Istituto Botanico dell' Università, Via Irnerio 42, Bologna Italy.
+ BONN                    |Bonn: Botanisches Institut der Universität Bonn, Abt. für Morphologie und Systematik, Meckenheimer Allee 170, D-53 Bonn, Federal Republic of Germany, BRD.
+ Bonplandia              |*Bonplandia*. Zeitschrift für die gesammte Botanik. Hannover, Germany, vols. 1-10, 1853-1862.
+ BORD                    |Bordeaux: Jardin Botanique de la ville de Bordeaux, Terrasse du Jardin public, 33.000 Bordeaux, France.
+ Bossert                 |*Biographical dictionary ofbotanists represented in the Hunt Institute portrait collection*, Boston, Mass. 1972, 451 p. (compiled by Theodore W. Bossert).
+ Bot.                    |Botany, botanical, botanique, botanische, etc.
+ Bot. Not.               |*Botaniska Notiser*. Lund 1839-x. (with brief interruptions).
+ Bot. Zeit.              |*Botanische Zeitung*, Berlin (later: Leipzig), vols. 1-50, 1843-1892. Index to vols. 1-50: R. Aderhold, General-Register der ersten fünfzig Jahrgänger der Botanischen Zeitung. Leipzig 1895.
+ BP                      |Budapest: Museum of Natural History, Department of Botany, Vajdahunyadvára, Budapest XIV, Hungary.
+ B-P-H \[also BPH\]      |Botanico-Periodicum-Huntianum, George H.M. Lawrence, A.F. Giinther Buchheim, Gilbert S. Daniels, Helmut Dolezal, editors. Hunt Botanical Library, Pittsburgh, Pa. 1968.
+ B-P-H/S                 |Bridson, G.D.R. and E.R. Smith (eds.). *Botanico-Periodicum-Huntianum/Supplementum*, Pittsburgh 1991.
+ BPI                     |Beltsville: National Fungus Collections, Agricultural Research Center-West, Beltsville, Maryland 02705, U.S.A.
+ BPU                     |Budapest: Institute of Plant Taxonomy and Ecology of the Eötvös L. University, 1088 Muzeum körut 4A, Budapest, Hungary.
+ BR                      |Bruxelles: Jardin botanique national de Belgique, Domaine de Bouchout, B 1860 Meise, Belgium.
+ BRA                     |Bratislava: Slovenské národné múzeum, Vajanského 2, Bratislava, Czechoslovakia.
+ Braz.                   |Brazilian.
+ BREM                    |Bremen: Übersee-Museum, Bahnhofsplatz 13, Bremen, Federal Republic of Germany, BRD.
+ Bret.                   |*see* Bretschneider.
+ Bretschneider           |Bretschneider, E., *History of European botanical discoveries*, 2 vols., St. Petersburg 1898, reprint Leipzig 1962, *see* no. 748.
+ BRI                     |Brisbane: Queensland Herbarium, Meiers Road, Indooroopilly, Queensland 4068, Australia (formerly: Botanic Museum and Herbarium, Botanic Gardens).
+ Briquet                 |Briquet,John, Biographies des botanistes à Genève de 1500 à 1931. *Bulletin de la Société Botanique Suisse*, 50a: 1-494. Jan 1940.
+ BRIST                   |Bristol: Department of Botany, The University, Bristol BS8 1 UG, Great Britain.
+ BRISTM                  |Bristol: The City Museum, Bristol, Great Britain.
+ Brit.                   |British.
+ BRL                     |Bristol: City Library, Bristol, Great Britain.
+ BRLU                    |Bruxelles: Laboratoire de Botanique, systématique et d'écologie, 28 Avenue Paul Heger, 1050 Bruxelles, Belgium.
+ BRNM                    |Brno: Botanical Department of the Moravian Museum, Preslova 1, 60200 Brno, Czechoslovakia.
+ BRNO                    |*see* BRNU.
+ BRNU                    |Brno: Institute of Plant Biology and Herbarium, University of J.E. Purkyné, 2 Kotlárská, 611 37 Brno, Czechoslovakia.
+ Broadsheet              |Book made up of leaves which are unfolded complete sheets.
+ BRSL                    |*see* WRSL.
+ BRU                     |Providence: Brown University Herbarium, Rogers Hall, Brown University, Providence, Rhode Island 02912, U.S.A.
+ Brum.                   |Brumaire, 22 or 23 Oct-20 or 21 Nov (French revolutionary calendar).
+ BRY                     |Provo: Herbarium, Brigham Young University, Rm. 113 B-49, Provo, Utah 84601, U.S.A.
+ bryoph.                 |bryophyta, bryophytes.
+ B.S.                    |Bachelor of Science.
+ B-S                     |Staatsbibliothek Preussischer Kulturbesitz, Berlin.
+ B.S.A.                  |Botanical Society of America.
+ BSbF                    |*Bulletin de la Société botanique de France*, vols, 1-x, 1854-x.
+ BSBF                    |*Bulletin de la Société botanique de France*. Paris, vol. 1-x, 1854-x.
+ B.Sc.                   |Bachelor of Science.
+ B.Sci.                  |Bachelor of Science.
+ BSGF                    |*Bulletin de la Société géologique de France*, Paris, vol. i-x, 1830-x.
+ BSN                     |Boston: Biological Science Center, Boston University, 2 Cummington Street, Boston, U.S.A.
+ BTC                     |*Bulletin of the Torrey botanical Club*. Lancaster, Pa., 1-x, 1870-x. Index: to volumes 1-75 (1870-1948), by Harold William Rickett. Lancaster, Pa. 1955.
+ B-TU                    |Bibliothek Technische Universität Berlin (W).
+ BUC                     |Bucuresti: Institutatea din Bucuresti, Grădina botanică, Cotroceni 32, Bucuresti 15, Roumania.
+ BUCA                    |Bucuresti: Institutul de Biologic "Tr. Savulescu" al Academici R.P.R., Spl. Independentei 296, București 17, Roumania.
+ Buck                    |Private library of William R. Buck, Bronx, New York, U.S.A.
+ Bucks.                  |Buckinghamshire Co., England.
+ BUF                     |Buffalo: The Clinton Herbarium, Buffalo Museum of Science, Humboldt Park, Buffalo, New York 14211, U.S.A.
+ BUL                     |Bulawayo: National Museum of Rhodesia, 8th Avenue, Bulawayo, Rhodesia.
+ Bull.                   |Bulletin.
+ BUT                     |Indianapolis: Friesner Herbarium, Butler University, Indianapolis, Indiana 46208, U.S.A.
+ B.W                     |Berlin: Herbarium Willdenow - *see* B.
+ BZF                     |Bogor: Lembaga Pusat Penjelidikan Kehutanan (Forest Research Institute), Bogor, Indonesia.
 
 ### C
 
