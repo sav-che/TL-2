@@ -30,3 +30,8 @@ body {
 .callout {
   font-family: 'Source Sans 3', 'Source Serif 4';
 }
+
+/* Presentation-related: */
+.reveal {
+	word-spacing: 0.2rem;
+  }

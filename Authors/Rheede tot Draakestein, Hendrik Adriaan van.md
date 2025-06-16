@@ -73,10 +73,10 @@ Aa 16: 299; Backer p. 490; Barnhart 3: 149 (d. 15 Dec 1691); BM 4: 1692-1693; Bo
 
 ### Publications
 
-##### n.9123. Hortus indicns malabaricus
+##### n.9123. Hortus indicus malabaricus
 
 **Title**
-*Hortus indicns malabaricus*, continens regni malabarici apud Indos celeberrimi omnis generis plantas rariores, latinis, malabaricis, arabicis, & bramanum characteribus nominibusque expressas, unà cum floribus, fructibus & seminibus, naturali magnitudine à peritissimis pictoribus delineatas, & ad vivum exhibitas. Addita insuper accuratâ earundem descriptione, quâ colores, odores, sapores, facultates, & praecipuae in medicinâ vires exactissimè demonstrantur. Adornatus per Henricum van Rheede, van Draakenstein,... et Johannem Casearium... notis adauxit, & commentariis illustravit Arnoldus Syen,... Amstelodami (sumptibus Joannis van Someren, et Joannis van Dyck) 1678\[-1703\], 12 vols. Fol.
+*Hortus indicus malabaricus*, continens regni malabarici apud Indos celeberrimi omnis generis plantas rariores, latinis, malabaricis, arabicis, & bramanum characteribus nominibusque expressas, unà cum floribus, fructibus & seminibus, naturali magnitudine à peritissimis pictoribus delineatas, & ad vivum exhibitas. Addita insuper accuratâ earundem descriptione, quâ colores, odores, sapores, facultates, & praecipuae in medicinâ vires exactissimè demonstrantur. Adornatus per Henricum van Rheede, van Draakenstein,... et Johannem Casearium... notis adauxit, & commentariis illustravit Arnoldus Syen,... Amstelodami (sumptibus Joannis van Someren, et Joannis van Dyck) 1678\[-1703\], 12 vols. Fol.
 **Abbreviated title**: *Hort. malab.*
 
 **Notes**
